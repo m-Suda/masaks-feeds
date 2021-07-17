@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T09:31:26.672Z</updated>
+    <updated>2021-07-17T13:15:59.338Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTubeの動画レコメンドAIは依然として悪行を重ねていることが大規模調査で判明 | TechCrunch Japan]]></title>
+        <id>https://jp.techcrunch.com/2021/07/17/2021-07-07-youtubes-recommender-ai-still-a-horrorshow-finds-major-crowdsourced-study/</id>
+        <link href="https://jp.techcrunch.com/2021/07/17/2021-07-07-youtubes-recommender-ai-still-a-horrorshow-finds-major-crowdsourced-study/"/>
+        <updated>2021-07-17T05:08:59.000Z</updated>
+        <summary type="html"><![CDATA[YouTubeの動画推薦アルゴリズムは長年、さまざまな社会悪を煽ってきたとして非難されてきた。YouTubeには、AIで増幅されたヘイトスピーチ、過激な政治思想、そして同社の広告インベントリに数十億人の目を釘付けにして荒稼ぎするための策略やデマの類があふれている。 YouTubeの親会社であるGoogle（グーグル）は、YouTu...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CNN.co.jp : グーグルマップ、「死の可能性」のある登山ルートに誘導　英団体が警告]]></title>
         <id>https://www.cnn.co.jp/travel/35174051.html</id>
@@ -22,6 +32,26 @@
         <link href="https://satoru-takeuchi.hatenablog.com/entry/2021/07/16/231642"/>
         <updated>2021-07-17T01:55:49.000Z</updated>
         <summary type="html"><![CDATA[ソフトウェア技術者として名を上げたい人向けの記事です。 まずは前置き。ソフトウェア技術者の世界にはスーパースターといえるような凄まじい能力を持つ人達がいます。彼らのうちの一部は生活能力がゼロだったり、口や態度が悪かったり、好きなこと以外は一切できなかったりといった様々な欠点があります。すごい人の中...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving Rails scalability using the modular monolith approach with enforced boundaries | by Rob Faldo | Jul, 2021 | Medium]]></title>
+        <id>https://robertfaldo.medium.com/improving-rails-scalability-using-the-modular-monolith-approach-with-enforced-boundaries-f8cea89e85b9</id>
+        <link href="https://robertfaldo.medium.com/improving-rails-scalability-using-the-modular-monolith-approach-with-enforced-boundaries-f8cea89e85b9"/>
+        <updated>2021-07-17T01:26:50.000Z</updated>
+        <summary type="html"><![CDATA[Improving Rails scalability using the modular monolith approach with enforced boundaries Ruby & Rails have a reputation for not scaling well — you’ve probably heard this already. TLDR for this postThere’s 3 things I’m going to talk about that have been used to improve the scalability of a Rails a...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender Bot 2.0: An open source chatbot that builds long-term memory and searches the internet]]></title>
+        <id>https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet/</id>
+        <link href="https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet/"/>
+        <updated>2021-07-17T00:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Blender Bot 2.0: An open source chatbot that builds long-term memory and searches the internet Facebook AI Research has built and open-sourced BlenderBot 2.0, the first chatbot that can simultaneously build long-term memory it can continually access, search the internet for timely information, an...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -54,6 +84,51 @@
         <summary type="html"><![CDATA[FF さんでもある b:id:Tetrapost さんが、ツイッター連携でブックマークコメントしたところブックマークコメントへのリンクが表示されない、という趣旨のツイートをされていました。 FF さんがたまたまツイートしているところに居合わせたときには、安易にリプをつける傾向があります。このときは「記事タイトル+コメン...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Admin Warnings in the Block Editor]]></title>
+        <id>https://css-tricks.com/?p=344217</id>
+        <link href="https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/"/>
+        <updated>2021-07-16T20:27:46.000Z</updated>
+        <summary type="html"><![CDATA[We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …
+The post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub の コード自動生成 AI「Copilot」の技術詳細を解説 【論文解説】]]></title>
+        <id>https://ja.stateofaiguides.com/20210716-github-copilot-codex/</id>
+        <link href="https://ja.stateofaiguides.com/20210716-github-copilot-codex/"/>
+        <updated>2021-07-16T17:30:09.000Z</updated>
+        <summary type="html"><![CDATA[高性能なコードをコメント等から生成・補完してくれる GitHub Copilot。２週間ほど前にリリースされてから、ネット上にて何かと話題になりました。今週、GitHub Copilot を支える大規模言語モデルである 「Codex」の技術詳細に関する論文が OpenAI から発表されましたので、速報的に解説してみたいと思います。なお、こ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Of Course We Can Make a CSS-Only Clock That Tells the Current Time!]]></title>
+        <id>https://css-tricks.com/?p=344147</id>
+        <link href="https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/"/>
+        <updated>2021-07-16T14:43:01.000Z</updated>
+        <summary type="html"><![CDATA[Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!
+Here’s a quick look at the clocks …
+The post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mate Marschalko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Typography Links]]></title>
+        <id>https://css-tricks.com/?p=344411</id>
+        <link href="https://css-tricks.com/some-typography-links-3/"/>
+        <updated>2021-07-16T14:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Glitter text — whO (I learned a name for people who go by a one-word moniker like that: Mononymous) created a builder for fancy SVG-based type. It’s a custom font with <text>, and the fancy comes in with a 
+…
+The post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -117,6 +192,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LEGOのおもちゃに見える本物の銃、非難の嵐で製造中止へ | ギズモード・ジャパン]]></title>
+        <id>https://www.gizmodo.jp/2021/07/lego-looking-gun-block-19.html</id>
+        <link href="https://www.gizmodo.jp/2021/07/lego-looking-gun-block-19.html"/>
+        <updated>2021-07-16T11:02:47.000Z</updated>
+        <summary type="html"><![CDATA[LEGOのおもちゃに見える本物の銃、非難の嵐で製造中止へ2021.07.16 16:005,039 Whitney Kimball - Gizmodo US ［原文］ （ 岩田リョウコ ） Image: Culper Precision via Gizmodo US だって本物の銃だもの…。 アメリカ、ユタ州のカスタム銃の会社がレゴに見える銃｢ブロック19｣を製造。インスタグラムで｢子供の時の夢が現...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[95%信頼区間の「95%」の意味 - 渋谷駅前で働くデータサイエンティストのブログ]]></title>
         <id>https://tjo.hatenablog.com/entry/2021/07/16/190000</id>
         <link href="https://tjo.hatenablog.com/entry/2021/07/16/190000"/>
@@ -157,6 +242,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Windows 10上で無料利用できるAI-OCR 認識精度は95％ 認識枚数は制限なし | Ledge.ai]]></title>
+        <id>https://ledge.ai/seagp-ai-jimy-ocr/</id>
+        <link href="https://ledge.ai/seagp-ai-jimy-ocr/"/>
+        <updated>2021-07-16T10:02:27.000Z</updated>
+        <summary type="html"><![CDATA[画像は公式サイトより シー・システム株式会社は7月7日、Windows 10上において無料で利用できるAI-OCR「AI JIMY OCR」をMicrosoft Storeで提供開始したと発表。AI-OCRにより、申請書やアンケート用紙といった書類中の文字やチェックボックス、QRコードなどを認識できる。 エッジコンピューティング技術により、ローカルP...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iOS15で追加される新たな絵文字リストが発表〜溶ける顔や敬礼など - iPhone Mania]]></title>
         <id>https://iphone-mania.jp/news-382946/</id>
         <link href="https://iphone-mania.jp/news-382946/"/>
@@ -172,6 +267,16 @@
         <link href="https://www.janog.gr.jp/meeting/janog48/wp-content/uploads/2021/07/janog48-lt5-yamaguchi.pdf"/>
         <updated>2021-07-16T09:07:01.000Z</updated>
         <summary type="html"><![CDATA[https://example.com/ example.com. IN HTTPS 1 svr.example.com. ; svr.example.com. IN A 192.0.2.1 ; IP IN AAAA 2001:db8::1 example.com. IN A 192.0.2.1 ; IP IN AAAA 2001:db8::1 ; CDN cdn.example.net. IN HTTPS 10 sv1.example.net. alpn=h3,h2 ech=abc … IN HTTPS 20 sv2.example.net. alpn=h3,h2 ech=xyz … ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最大の半導体製造企業「TSMC」が日本での工場建設を検討中であることが判明 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210716-tsmc-japan/</id>
+        <link href="https://gigazine.net/news/20210716-tsmc-japan/"/>
+        <updated>2021-07-16T09:01:16.000Z</updated>
+        <summary type="html"><![CDATA[台湾に拠点を置くTSMCは、世界最大の半導体製造企業で、AppleやAMDのチップを製造していることでも知られています。そんなTSMCのシーシー・ウェイCEOが、「日本に半導体製造工場を建設することを検討している」と述べたことが報じられています。 Apple supplier TSMC eyes expansion in U.S., Japan to meet sustained c...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -244,6 +349,28 @@
         <summary type="html"><![CDATA[「5G」をプライベートネットワークとして使用する「ローカル5G」は、「無線LAN」の代替策になり得るという声がある。それはどういうことなのか。ローカル5Gと無線LANの違いを踏まえた上で考察する。 自宅やオフィスなど限定されたエリア内で無線ネットワークに接続する際、これまでは無線LANが自然な選択肢だった。「5G...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チャエン🇨🇳 海外テック図解 on Twitter: "中国の会社が開発した交通情報が投影されるフロントガラス。 目的地までのナビ、速度、障害物、道路標識などの情報が確認できる。 カーナビが不要になって、運転に集中できる画期的なアイテム。 https://t.co/2F2Yv5ZJTs"]]></title>
+        <id>https://twitter.com/masahirochaen/status/1415571190853160962</id>
+        <link href="https://twitter.com/masahirochaen/status/1415571190853160962"/>
+        <updated>2021-07-15T21:34:54.000Z</updated>
+        <summary type="html"><![CDATA[中国の会社が開発した交通情報が投影されるフロントガラス。 目的地までのナビ、速度、障害物、道路標識などの情報が確認できる。 カーナビが不要になって、運転に集中できる画期的なアイテム。 https://t.co/2F2Yv5ZJTs]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Pixel-Perfect, Linearly Scaled UI]]></title>
+        <id>https://css-tricks.com/?p=344273</id>
+        <link href="https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/"/>
+        <updated>2021-07-15T14:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.
+Most of those examples, though, use …
+The post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Georgi Nikoloff</name>
         </author>
     </entry>
     <entry>
@@ -348,6 +475,38 @@ export class AppComponent implements AfterVi...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2021年7月第3週号 1位は，ユーザー体験の原則を5つ紹介，気になるネタは，東京駅などの屋内を「Googleマップ」がナビする新機能--JR東日本の17駅から順次提供へ ── 週刊Webテク通信]]></title>
+        <id>https://gihyo.jp/design/clip/01/weekly-web-tech/202107/15</id>
+        <link href="https://gihyo.jp/design/clip/01/weekly-web-tech/202107/15"/>
+        <updated>2021-07-15T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年7月5日～7月11日の間に見つけた記事のベスト5です。]]></summary>
+        <author>
+            <name>アシカガコウジ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Complex CSS Transitions using Custom Properties and cubic-bezier()]]></title>
+        <id>https://css-tricks.com/?p=344249</id>
+        <link href="https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/"/>
+        <updated>2021-07-14T14:31:02.000Z</updated>
+        <summary type="html"><![CDATA[I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …
+The post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bashful Button Worth $8 Million]]></title>
+        <id>https://css-tricks.com/?p=344407</id>
+        <link href="https://cloudfour.com/thinks/a-bashful-button-worth-8-million/"/>
+        <updated>2021-07-14T14:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …
+The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Angular@cliでng newするとエラーになる]]></title>
         <id>https://zenn.dev/hashito/articles/17239288bb63c5</id>
         <link href="https://zenn.dev/hashito/articles/17239288bb63c5"/>
@@ -365,6 +524,88 @@ ng newコマンドで下記のようなエラーが出るようになった。
 ⠏ Inst...]]></summary>
         <author>
             <name>hashito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ダークパターンUX：マニピュリンクとコンファームシェイミング]]></title>
+        <id>https://uxmilk.jp/?p=83422</id>
+        <link href="https://uxmilk.jp/83422"/>
+        <updated>2021-07-13T22:45:13.000Z</updated>
+        <summary type="html"><![CDATA[メールマーケティング絶頂期だった2005年には、ほとんどの人がお気に入りの出版社やブランドからのメールを楽しんでいました。しかし、数か月以上受信していると、受信フォルダからあふれたメールを削除しなければなりませんでした。]]></summary>
+        <author>
+            <name>UX MILK編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on React and JavaScript]]></title>
+        <id>https://css-tricks.com/?p=344316</id>
+        <link href="https://css-tricks.com/links-on-react-and-javascript/"/>
+        <updated>2021-07-13T19:57:10.000Z</updated>
+        <summary type="html"><![CDATA[As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …
+The post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Theme Color and Trickery]]></title>
+        <id>https://css-tricks.com/?p=343850</id>
+        <link href="https://css-tricks.com/meta-theme-color-and-trickery/"/>
+        <updated>2021-07-13T14:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…
+The post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Manuel Matuzovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack Community Survey 2021]]></title>
+        <id>https://css-tricks.com/?p=344542</id>
+        <link href="https://www.surveymonkey.com/r/jamstack-survey-css-tricks"/>
+        <updated>2021-07-13T14:34:48.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+The folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …
+The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet `:has`, A Native CSS Parent Selector]]></title>
+        <id>https://css-tricks.com/?p=344355</id>
+        <link href="https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
+        <updated>2021-07-12T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …
+The post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the Specificity of :where() as a CSS Reset]]></title>
+        <id>https://css-tricks.com/?p=343613</id>
+        <link href="https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/"/>
+        <updated>2021-07-12T14:30:34.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about you, but I write these three declarations many times in my CSS:
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+You might yell at me and say I can just put those in my CSS …
+The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モダンアジャイルについて - やっとむでぽん]]></title>
+        <id>https://yattom.hatenablog.com/entry/2021/07/12/100433</id>
+        <link href="https://yattom.hatenablog.com/entry/2021/07/12/100433"/>
+        <updated>2021-07-12T03:22:56.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月1日に「モダンアジャイル 再考 2021」というイベントが分散アジャイルチームについて考える会の主催でありました。 distributed-agile-team.connpass.com このイベントのきっかけは、私のFacebookでのつぶやき？でした。 これへのコメントできょんさん、鬼木さん、川口さんらに反応していただけ、さっそくオン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -392,6 +633,16 @@ https://ja.wikipedia.org/wiki/Singleton_パターン
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[スクラムへの間違った５つの期待とその修復法]]></title>
+        <id>https://uxmilk.jp/?p=84822</id>
+        <link href="https://uxmilk.jp/84822"/>
+        <updated>2021-07-11T22:45:58.000Z</updated>
+        <summary type="html"><![CDATA[よくある古典的な、終わりのない葛藤と同じように、開発チームをどのように組織し、自律的にするかという議論は依然として盛り上がっています。目下のところ、スクラムについては好意的な見方よりも批判の方が多いかのように思えます。も]]></summary>
+        <author>
+            <name>UX MILK編集部</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ngx-sweetalert2でCheckboxの状態によってConfirmButtonのdisabledを制御したい]]></title>
         <id>https://zenn.dev/masaks/articles/a87449f953561d</id>
         <link href="https://zenn.dev/masaks/articles/a87449f953561d"/>
@@ -406,6 +657,29 @@ https://ja.wikipedia.org/wiki/Singleton_パターン
 おそらく、確認ダイアログで...]]></summary>
         <author>
             <name>masaks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[:focus-visible in WebKit]]></title>
+        <id>https://css-tricks.com/?p=344334</id>
+        <link href="https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/"/>
+        <updated>2021-07-09T18:53:51.000Z</updated>
+        <summary type="html"><![CDATA[This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …
+The post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Favicons in Action]]></title>
+        <id>https://css-tricks.com/?p=343598</id>
+        <link href="https://css-tricks.com/svg-favicons-in-action/"/>
+        <updated>2021-07-09T14:31:57.000Z</updated>
+        <summary type="html"><![CDATA[Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?
+The task is more non-trivial than you might think. As we will see in this …
+The post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Philippe Bernard</name>
         </author>
     </entry>
     <entry>
@@ -427,6 +701,78 @@ https://cloud.google.com/appengine/docs/standard/nodejs/application-security?hl=
   redirect_http_response_cod...]]></summary>
         <author>
             <name>くまぽん</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginner JavaScript Notes]]></title>
+        <id>https://css-tricks.com/?p=344024</id>
+        <link href="https://wesbos.com/javascript"/>
+        <updated>2021-07-08T22:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …
+The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Struggle to Use and Animate a Conic Gradient in SVG]]></title>
+        <id>https://css-tricks.com/?p=343623</id>
+        <link href="https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/"/>
+        <updated>2021-07-08T14:35:38.000Z</updated>
+        <summary type="html"><![CDATA[The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …
+The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月第2週号 1位は，CSSグリッドを使って画像の上に文字やボタンを配置するテクニック，気になるネタは，GitHubがコーディングの提案を行う新しいAIツールをプレビュー ── 週刊Webテク通信]]></title>
+        <id>https://gihyo.jp/design/clip/01/weekly-web-tech/202107/08</id>
+        <link href="https://gihyo.jp/design/clip/01/weekly-web-tech/202107/08"/>
+        <updated>2021-07-08T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年6月28日～7月4日の間に見つけた記事のベスト5です。]]></summary>
+        <author>
+            <name>アシカガコウジ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular Testing: TestBedにはdeclarationsではなくimportsを設定する]]></title>
+        <id>https://blog.lacolaco.net/2021/07/angular-component-testing-declarations/</id>
+        <link href="https://blog.lacolaco.net/2021/07/angular-component-testing-declarations/"/>
+        <updated>2021-07-07T04:35:43.000Z</updated>
+        <summary type="html"><![CDATA[コンポーネントのテストにおいて、TestBed.configureTestingModule() の declarations を設定するユースケースはそれほど多くない]]></summary>
+        <author>
+            <name>lacolaco/tech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユーザーへの切迫感を正しく演出するには]]></title>
+        <id>https://uxmilk.jp/?p=87483</id>
+        <link href="https://uxmilk.jp/87483"/>
+        <updated>2021-07-06T22:45:08.000Z</updated>
+        <summary type="html"><![CDATA[ユーザーに切迫感を感じさせることで行動を促すことができますが、一方でユーザーをイライラさせたり、遠ざけてしまう可能性もあります。しかし、正しいアプローチによってユーザーに行動を促すことは可能です。 コンバージョン率の最適]]></summary>
+        <author>
+            <name>UX MILK編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker が生まれるまでの課題と背景とは ? ~スペシャリストから学ぶコンテナ技術 第 2 回 - 変化を求めるデベロッパーを応援するウェブマガジン | AWS]]></title>
+        <id>https://aws.amazon.com/jp/builders-flash/202107/chat-container-specialist-2/</id>
+        <link href="https://aws.amazon.com/jp/builders-flash/202107/chat-container-specialist-2/"/>
+        <updated>2021-07-05T03:40:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、テクニカルソリューションアーキテクトの原田です。 「スペシャリストから学ぶコンテナ技術 第 1 回」では、環境差分をなくすための手段の 1 つとして、アプリケーションの構成要素のうち、アプリケーションコード、ランタイム、ライブラリなどの依存物をパッケージングして、隔離された環境で実行するコン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UXリサーチの各種テクニックとその活用法]]></title>
+        <id>https://uxmilk.jp/?p=87793</id>
+        <link href="https://uxmilk.jp/87793"/>
+        <updated>2021-07-04T22:45:05.000Z</updated>
+        <summary type="html"><![CDATA[自分がなにをしているのかがわかっているなら、それは研究とは呼ばない。そうは思わないかい？ – Albert Einstein ユーザーリサーチは、UXのプロセスの一部となるかなり前から存在していたものです。1900年代初]]></summary>
+        <author>
+            <name>UX MILK編集部</name>
         </author>
     </entry>
     <entry>
@@ -606,6 +952,107 @@ ng-kyoto 代表 / ...]]></summary>
 この度、Walts というライブラリを開発した。ウォルツとも読めるが、ここはワルツと呼んでも...]]></summary>
         <author>
             <name>okunokentaro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月第1週号 1位は，サインアップ／ログインのUXを良くするヒント，気になるネタは，「Chrome」のサードパーティークッキー廃止が2023年に延期 ── 週刊Webテク通信]]></title>
+        <id>https://gihyo.jp/design/clip/01/weekly-web-tech/202107/01</id>
+        <link href="https://gihyo.jp/design/clip/01/weekly-web-tech/202107/01"/>
+        <updated>2021-07-01T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年6月21日～27日の間に見つけた記事のベスト5です。]]></summary>
+        <author>
+            <name>アシカガコウジ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フォームをより幅広いユーザーや文化に対応させるためには]]></title>
+        <id>https://uxmilk.jp/?p=77971</id>
+        <link href="https://uxmilk.jp/77971"/>
+        <updated>2021-06-29T22:45:27.000Z</updated>
+        <summary type="html"><![CDATA[現在のWebサイトは整然としていてモバイルフレンドリーで、さまざまな手段で来訪する方のアクセシビリティを考慮したデザインをされています。しかし、ユーザーから情報を集めるフォームの作成においては、自分たちの選択が間違ってい]]></summary>
+        <author>
+            <name>UX MILK編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魅力的なUXライティングのポートフォリオとはどのようなものか]]></title>
+        <id>https://uxmilk.jp/?p=79310</id>
+        <link href="https://uxmilk.jp/79310"/>
+        <updated>2021-06-27T22:45:16.000Z</updated>
+        <summary type="html"><![CDATA[才能にあふれたUXライターにも、なかなか採用されない人がいます。あるいは、これからUXライティングのキャリアを積もうという人もいるでしょう。どちらの場合でも、ポートフォリオを上手にまとめる方法を知ることはとても重要です。]]></summary>
+        <author>
+            <name>UX MILK編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TC39 meeting, May 25-26 2021 | SpiderMonkey JavaScript/WebAssembly Engine]]></title>
+        <id>https://ecmascript-daily.github.io/2021/06/27/tc39-meeting-may-25-26-2021-spidermonkey-javascript-webassembly-engine</id>
+        <link href="https://ecmascript-daily.github.io/2021/06/27/tc39-meeting-may-25-26-2021-spidermonkey-javascript-webassembly-engine"/>
+        <updated>2021-06-27T07:28:55.000Z</updated>
+        <summary type="html"><![CDATA[TC39 meeting at May 25-26 2021.
+by Spidermonkey]]></summary>
+        <author>
+            <name>ECMAScript Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ecma International approves new standards - Ecma International]]></title>
+        <id>https://ecmascript-daily.github.io/2021/06/24/ecma-international-approves-new-standards-ecma-international</id>
+        <link href="https://ecmascript-daily.github.io/2021/06/24/ecma-international-approves-new-standards-ecma-international"/>
+        <updated>2021-06-24T02:19:09.000Z</updated>
+        <summary type="html"><![CDATA[ECMAScript 2021 is released!]]></summary>
+        <author>
+            <name>ECMAScript Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年6月第4週号 1位は，CSSでの縦横比の設定方法，気になるネタは，Spotifyがライブオーディオアプリ「Greenroom」を提供開始，Clubhouseのライバル誕生 ── 週刊Webテク通信]]></title>
+        <id>https://gihyo.jp/design/clip/01/weekly-web-tech/202106/24</id>
+        <link href="https://gihyo.jp/design/clip/01/weekly-web-tech/202106/24"/>
+        <updated>2021-06-24T00:46:00.000Z</updated>
+        <summary type="html"><![CDATA[ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年6月14日～20日の間に見つけた記事のベスト5です。]]></summary>
+        <author>
+            <name>アシカガコウジ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第168回　The future of Internet Explorer on Windows 10 is in Microsoft Edge，AppSheet Automation，Domino’s Self-Driving Delivery ── いま，見ておきたいウェブサイト]]></title>
+        <id>https://gihyo.jp/design/serial/01/website-pickup/0168</id>
+        <link href="https://gihyo.jp/design/serial/01/website-pickup/0168"/>
+        <updated>2021-06-23T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ジメジメとした空気と気分のスッキリしない気候で，梅雨の到来を感じる今日このごろ，皆様いかがお過ごしでしょうか。今回も個人的に感じた，素晴らしいウェブサイトの特徴をいくつかお話したいと思います。]]></summary>
+        <author>
+            <name>Lançamento</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[情報過多な時代に私たちはどうコンテンツを届けるのか]]></title>
+        <id>https://uxmilk.jp/?p=79219</id>
+        <link href="https://uxmilk.jp/79219"/>
+        <updated>2021-06-22T22:45:21.000Z</updated>
+        <summary type="html"><![CDATA[コンテンツマーケティングがますます盛んになっている現代で、私たちは情報オーバーロード（information overload：情報過多）にどのように対処すれば良いのでしょうか？　時間のないユーザーに、どのようにコンテン]]></summary>
+        <author>
+            <name>UX MILK編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第24回　横配置メニューの項目数が多くなった場合の表現 ── 縁の下のUIデザイン―少しの工夫で大きな改善！]]></title>
+        <id>https://gihyo.jp/design/serial/01/ui-design-unsung/0024</id>
+        <link href="https://gihyo.jp/design/serial/01/ui-design-unsung/0024"/>
+        <updated>2021-06-22T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はタブなど横方向にメニューを配置するナビゲーションの注意点と，メニュー数が増えたときにUI上どのような対応をすると使い勝手が良いか，具体的な事例をもとに書いていきます。]]></summary>
+        <author>
+            <name>池田拓司</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キャンセルボタンに「キャンセル」と書いてはいけないとき]]></title>
+        <id>https://uxmilk.jp/?p=79950</id>
+        <link href="https://uxmilk.jp/79950"/>
+        <updated>2021-06-20T22:45:30.000Z</updated>
+        <summary type="html"><![CDATA[キャンセルボタンには、さまざまなラベリングがされます。 「今はしない（Not now）」と「あとで（Maybe Later）」などは、その場しのぎのキャンセルボタンの例です。 しかし、ときにはキャンセルボタンが明確に「キ]]></summary>
+        <author>
+            <name>MILKBOY</name>
         </author>
     </entry>
 </feed>
