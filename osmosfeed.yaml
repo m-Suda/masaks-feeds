@@ -5,3 +5,5 @@ sources:
 #  - href: https://www.smashingmagazine.com/feed/
 #  - href: https://www.freecodecamp.org/news/rss/
   - href: https://blog.angular.io/feed
+  - href: https://zenn.dev/topics/angular/feed
+  - href: https://b.hatena.ne.jp/hotentry/it.rss
