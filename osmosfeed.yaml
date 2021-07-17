@@ -8,7 +8,7 @@ sources:
   - href: https://b.hatena.ne.jp/hotentry/it.rss
   - href: https://blog.lacolaco.net/index.xml
   - href: https://uxmilk.jp/feed
-  - href: https://feedly.com/i/subscription/feed/https://blog.angular-university.io/rss/
+#  - href: https://feedly.com/i/subscription/feed/https://blog.angular-university.io/rss/
   - href: https://css-tricks.com/feed/
   - href: https://ecmascript-daily.github.io/atom.xml
   - href: https://blog.angular.io/feed
