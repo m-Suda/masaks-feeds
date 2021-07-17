@@ -1,9 +1,17 @@
 cacheUrl: https://m-Suda.github.io/masaks-feeds/cache.json
 sources:
 #  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-#  - href: https://css-tricks.com/feed/
 #  - href: https://www.smashingmagazine.com/feed/
 #  - href: https://www.freecodecamp.org/news/rss/
   - href: https://blog.angular.io/feed
   - href: https://zenn.dev/topics/angular/feed
   - href: https://b.hatena.ne.jp/hotentry/it.rss
+  - href: https://blog.lacolaco.net/index.xml
+  - href: https://uxmilk.jp/feed
+  - href: https://feedly.com/i/subscription/feed/https://blog.angular-university.io/rss/
+  - href: https://css-tricks.com/feed/
+  - href: https://ecmascript-daily.github.io/atom.xml
+  - href: https://blog.angular.io/feed
+  - href: https://gihyo.jp/magazine/wdpress/feed/rss2
+  - href: https://gihyo.jp/magazine/SD/feed/rss2
+  - href: https://gihyo.jp/design/feed/rss2
