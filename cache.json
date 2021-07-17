@@ -677,6 +677,12 @@
       ]
     },
     {
+      "title": "Angular University",
+      "feedUrl": "https://blog.angular-university.io/rss",
+      "siteUrl": "https://blog.angular-university.io/",
+      "articles": []
+    },
+    {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
