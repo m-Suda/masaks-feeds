@@ -229,6 +229,33 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20210717-record-screen-with-vlc/",
+          "author": null,
+          "description": "PCでの作業を記録したり、ソフトウェアの使い方を説明したり、PCの画面を録画できるとお役立ちなケースはよくあります。PCの画面を録画するにはWindowsの標準搭載されている「ゲームバー」機能や、オープンソースの配信ソフト「OBS」を利用する方法がありますが、このほかに「メディアプレイヤーソフト『VLC』で録画する...",
+          "link": "https://gigazine.net/news/20210717-record-screen-with-vlc/",
+          "publishedOn": "2021-07-17T15:11:20.000Z",
+          "wordCount": 186,
+          "title": "無料でオープンソースのメディアプレイヤー「VLC」で簡単にPCの画面を録画する方法 - GIGAZINE"
+        },
+        {
+          "id": "https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA",
+          "author": null,
+          "description": "問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください",
+          "link": "https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA",
+          "publishedOn": "2021-07-17T12:37:00.000Z",
+          "wordCount": 7,
+          "title": "WindowsがLinuxより優れている点は何ですか？ (OSの設計に関する質問であり、利用者の使い勝手の話ではありません) 。 - Quora"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/07/17/2021-07-06-kill-the-standard-privacy-notice/",
+          "author": null,
+          "description": "編集部注：本稿の著者Leif-Nissen Lundbæk（レイフ-ニッセン・ルンドベック）氏は、Xaynの共同設立者兼CEO。専門はプライバシー保護を目的としたAIだ。 ーーー 「プライバシー」は誰もが気にする言葉であり、大手テック企業でさえもこの問題に取り組んでいる。最近では、Apple（アップル）がiOS バージョン14.5の要（か...",
+          "link": "https://jp.techcrunch.com/2021/07/17/2021-07-06-kill-the-standard-privacy-notice/",
+          "publishedOn": "2021-07-17T10:34:54.000Z",
+          "wordCount": 331,
+          "title": "コラム】消費者の同意を取り付けるためだけのプライバシー通知をやめませんか？ | TechCrunch Japan"
+        },
+        {
           "id": "https://jp.techcrunch.com/2021/07/17/2021-07-07-youtubes-recommender-ai-still-a-horrorshow-finds-major-crowdsourced-study/",
           "author": null,
           "description": "YouTubeの動画推薦アルゴリズムは長年、さまざまな社会悪を煽ってきたとして非難されてきた。YouTubeには、AIで増幅されたヘイトスピーチ、過激な政治思想、そして同社の広告インベントリに数十億人の目を釘付けにして荒稼ぎするための策略やデマの類があふれている。 YouTubeの親会社であるGoogle（グーグル）は、YouTu...",
@@ -301,6 +328,24 @@
           "title": "はてなブックマークとTwittterの連携機能の設定変更について備忘メモ - しいたげられたしいたけ"
         },
         {
+          "id": "https://japanese.engadget.com/worlds-first-3-d-printed-stainless-steel-bridge-205031971.html",
+          "author": null,
+          "description": "オランダ・アムステルダムに世界初のステンレス鋼で3Dプリントされた橋がかかりました。この橋はAutodeskと技術協力して開発されたMX3Dソフトウェアを使い、溶接トーチを装着した産業用ロボットアーム4台で、約6か月をかけて”出力”されました。 完成したこの3Dプリント橋の大きさは、全長12.5メートル、幅6.3メートル、...",
+          "link": "https://japanese.engadget.com/worlds-first-3-d-printed-stainless-steel-bridge-205031971.html",
+          "publishedOn": "2021-07-16T21:01:00.000Z",
+          "wordCount": 187,
+          "title": "世界初、ステンレスの3Dプリント橋がアムステルダムにかかる。センサーで交通量や痛み具合を監視 - Engadget 日本版"
+        },
+        {
+          "id": "https://www.vuemastery.com/blog/vue-3-migration-build/",
+          "author": null,
+          "description": "Vue 3 Migration Build: safely upgrade your app to Vue 3 (Pt. 1) The Vue team has recently released the highly anticipated migration build for Vue 3. If you’ve been thinking about upgrading your Vue 2 app to Vue 3, this is what you need. The process of upgrading an app to the latest version of the...",
+          "link": "https://www.vuemastery.com/blog/vue-3-migration-build/",
+          "publishedOn": "2021-07-16T17:35:13.000Z",
+          "wordCount": 1871,
+          "title": "Vue 3 Migration Build: safely upgrade your app to Vue 3 (Pt. 1) | Vue Mastery"
+        },
+        {
           "id": "https://ja.stateofaiguides.com/20210716-github-copilot-codex/",
           "author": null,
           "description": "高性能なコードをコメント等から生成・補完してくれる GitHub Copilot。２週間ほど前にリリースされてから、ネット上にて何かと話題になりました。今週、GitHub Copilot を支える大規模言語モデルである 「Codex」の技術詳細に関する論文が OpenAI から発表されましたので、速報的に解説してみたいと思います。なお、こ...",
@@ -326,6 +371,15 @@
           "publishedOn": "2021-07-16T13:19:16.000Z",
           "wordCount": 403,
           "title": "O'Reilly Japan - Reactハンズオンラーニング 第2版"
+        },
+        {
+          "id": "https://speakerdeck.com/helloyuk13/rusthanzuon-at-eurekashe",
+          "author": null,
+          "description": "Transcript 2021/7/16 @ 株式会社エウレカ Rust ハンズオン 江間さんご招待ありがとうございます Hello, I’m... Yuki Toyoda Software Engineer @ CyberAgent Dynalyst Next Experts in Rust @ CyberAgent 共著『実践Rustプログラミング入門』 Rust.Tokyo, RustFest Global オーガナイザ Contributor to rust-lang/rust,...",
+          "link": "https://speakerdeck.com/helloyuk13/rusthanzuon-at-eurekashe",
+          "publishedOn": "2021-07-16T12:46:13.000Z",
+          "wordCount": 1187,
+          "title": "Rustハンズオン@エウレカ社 - Speaker Deck"
         },
         {
           "id": "https://nordot.app/788737487652585472",
@@ -362,6 +416,15 @@
           "publishedOn": "2021-07-16T11:59:20.000Z",
           "wordCount": 483,
           "title": "#CloudNativeDB NewSQLへの誘い - Speaker Deck"
+        },
+        {
+          "id": "https://nlab.itmedia.co.jp/nl/articles/2107/16/news150.html",
+          "author": null,
+          "description": "リモートワークで1年以上PCに接続しっぱなしのスマホの電池が、フタを押し上げるほど膨張して酒蒸しハマグリのような状態に。Twitterで話題の人ごとではない体験談、専門家に原因と対策を聞いてみました。 「久々に出社するとこの状態に…」 投稿者のおかず（@pafuhana1213）さんが久しぶりに出社すると、PCに接続してい...",
+          "link": "https://nlab.itmedia.co.jp/nl/articles/2107/16/news150.html",
+          "publishedOn": "2021-07-16T11:05:40.000Z",
+          "wordCount": 256,
+          "title": "リモートワークで会社に残したスマホが「膨張しすぎてパカッと割れた」　原因は“つなぎっぱなし”？　専門家に聞いてみた（1/2 ページ） - ねとらぼ"
         },
         {
           "id": "https://www.gizmodo.jp/2021/07/lego-looking-gun-block-19.html",
@@ -470,6 +533,15 @@
           "publishedOn": "2021-07-16T05:25:22.000Z",
           "wordCount": 98,
           "title": "プレス発表　「情報処理技術者試験」「情報処理安全確保支援士試験」における受験手数料の改定について：IPA 独立行政法人 情報処理推進機構"
+        },
+        {
+          "id": "https://japanese.engadget.com/windows-365-price-043035930.html",
+          "author": null,
+          "description": "米マイクロソフトから発表された、Windows 10をクラウドマシンとして利用できる「Windows 365」。こちらの低価格プランの情報が流出したとして、海外テックサイトのThe Vergeが伝えています。 Windows 365とは、サーバー上で動作するWindows 10（後にWindows 11も追加）を、手元の端末でリモート操作できるサービスです...",
+          "link": "https://japanese.engadget.com/windows-365-price-043035930.html",
+          "publishedOn": "2021-07-16T05:01:27.000Z",
+          "wordCount": 202,
+          "title": "Windows 365の低価格プラン情報が流出か　CPU2基で月額約3400円に？ - Engadget 日本版"
         },
         {
           "id": "https://liginc.co.jp/551243",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-17T13:19:46.991Z</updated>
+    <updated>2021-07-18T00:15:34.570Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無料でオープンソースのメディアプレイヤー「VLC」で簡単にPCの画面を録画する方法 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210717-record-screen-with-vlc/</id>
+        <link href="https://gigazine.net/news/20210717-record-screen-with-vlc/"/>
+        <updated>2021-07-17T15:11:20.000Z</updated>
+        <summary type="html"><![CDATA[PCでの作業を記録したり、ソフトウェアの使い方を説明したり、PCの画面を録画できるとお役立ちなケースはよくあります。PCの画面を録画するにはWindowsの標準搭載されている「ゲームバー」機能や、オープンソースの配信ソフト「OBS」を利用する方法がありますが、このほかに「メディアプレイヤーソフト『VLC』で録画する...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WindowsがLinuxより優れている点は何ですか？ (OSの設計に関する質問であり、利用者の使い勝手の話ではありません) 。 - Quora]]></title>
+        <id>https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA</id>
+        <link href="https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA"/>
+        <updated>2021-07-17T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コラム】消費者の同意を取り付けるためだけのプライバシー通知をやめませんか？ | TechCrunch Japan]]></title>
+        <id>https://jp.techcrunch.com/2021/07/17/2021-07-06-kill-the-standard-privacy-notice/</id>
+        <link href="https://jp.techcrunch.com/2021/07/17/2021-07-06-kill-the-standard-privacy-notice/"/>
+        <updated>2021-07-17T10:34:54.000Z</updated>
+        <summary type="html"><![CDATA[編集部注：本稿の著者Leif-Nissen Lundbæk（レイフ-ニッセン・ルンドベック）氏は、Xaynの共同設立者兼CEO。専門はプライバシー保護を目的としたAIだ。 ーーー 「プライバシー」は誰もが気にする言葉であり、大手テック企業でさえもこの問題に取り組んでいる。最近では、Apple（アップル）がiOS バージョン14.5の要（か...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTubeの動画レコメンドAIは依然として悪行を重ねていることが大規模調査で判明 | TechCrunch Japan]]></title>
         <id>https://jp.techcrunch.com/2021/07/17/2021-07-07-youtubes-recommender-ai-still-a-horrorshow-finds-major-crowdsourced-study/</id>
@@ -87,6 +117,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[世界初、ステンレスの3Dプリント橋がアムステルダムにかかる。センサーで交通量や痛み具合を監視 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/worlds-first-3-d-printed-stainless-steel-bridge-205031971.html</id>
+        <link href="https://japanese.engadget.com/worlds-first-3-d-printed-stainless-steel-bridge-205031971.html"/>
+        <updated>2021-07-16T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[オランダ・アムステルダムに世界初のステンレス鋼で3Dプリントされた橋がかかりました。この橋はAutodeskと技術協力して開発されたMX3Dソフトウェアを使い、溶接トーチを装着した産業用ロボットアーム4台で、約6か月をかけて”出力”されました。 完成したこの3Dプリント橋の大きさは、全長12.5メートル、幅6.3メートル、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WordPress Admin Warnings in the Block Editor]]></title>
         <id>https://css-tricks.com/?p=344217</id>
         <link href="https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/"/>
@@ -95,6 +135,16 @@
 The post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 3 Migration Build: safely upgrade your app to Vue 3 (Pt. 1) | Vue Mastery]]></title>
+        <id>https://www.vuemastery.com/blog/vue-3-migration-build/</id>
+        <link href="https://www.vuemastery.com/blog/vue-3-migration-build/"/>
+        <updated>2021-07-16T17:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Vue 3 Migration Build: safely upgrade your app to Vue 3 (Pt. 1) The Vue team has recently released the highly anticipated migration build for Vue 3. If you’ve been thinking about upgrading your Vue 2 app to Vue 3, this is what you need. The process of upgrading an app to the latest version of the...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -152,6 +202,16 @@ The post Some Typography Links appeared first on CSS-Tricks. You can support CSS
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rustハンズオン@エウレカ社 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/helloyuk13/rusthanzuon-at-eurekashe</id>
+        <link href="https://speakerdeck.com/helloyuk13/rusthanzuon-at-eurekashe"/>
+        <updated>2021-07-16T12:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Transcript 2021/7/16 @ 株式会社エウレカ Rust ハンズオン 江間さんご招待ありがとうございます Hello, I’m... Yuki Toyoda Software Engineer @ CyberAgent Dynalyst Next Experts in Rust @ CyberAgent 共著『実践Rustプログラミング入門』 Rust.Tokyo, RustFest Global オーガナイザ Contributor to rust-lang/rust,...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ワクチン問題、新システムに一因　2種併存で在庫把握困難 ｜ 共同通信]]></title>
         <id>https://nordot.app/788737487652585472</id>
         <link href="https://nordot.app/788737487652585472"/>
@@ -187,6 +247,16 @@ The post Some Typography Links appeared first on CSS-Tricks. You can support CSS
         <link href="https://speakerdeck.com/tzkoba/number-cloudnativedb-newsqlhefalseyou-i"/>
         <updated>2021-07-16T11:59:20.000Z</updated>
         <summary type="html"><![CDATA[Transcript NewSQLへの誘い Cloud Native Database Meetup #1 , 2021/7/16 こば( @tzkb） 6 最近やっていること • 色んなDBをつまみぐい、@ITで連載中 7 1. そもそもNewSQLとは？ 2. ストレージエンジンの観点から 3. 分散トランザクションの観点から 4. 更に詳しく知りたい方へ アジェンダ 8 そもそもNewSQLとは？ 1 9 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リモートワークで会社に残したスマホが「膨張しすぎてパカッと割れた」　原因は“つなぎっぱなし”？　専門家に聞いてみた（1/2 ページ） - ねとらぼ]]></title>
+        <id>https://nlab.itmedia.co.jp/nl/articles/2107/16/news150.html</id>
+        <link href="https://nlab.itmedia.co.jp/nl/articles/2107/16/news150.html"/>
+        <updated>2021-07-16T11:05:40.000Z</updated>
+        <summary type="html"><![CDATA[リモートワークで1年以上PCに接続しっぱなしのスマホの電池が、フタを押し上げるほど膨張して酒蒸しハマグリのような状態に。Twitterで話題の人ごとではない体験談、専門家に原因と対策を聞いてみました。 「久々に出社するとこの状態に…」 投稿者のおかず（@pafuhana1213）さんが久しぶりに出社すると、PCに接続してい...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -307,6 +377,16 @@ The post Some Typography Links appeared first on CSS-Tricks. You can support CSS
         <link href="https://www.ipa.go.jp/about/press/20210716.html"/>
         <updated>2021-07-16T05:25:22.000Z</updated>
         <summary type="html"><![CDATA[IPA（独立行政法人情報処理推進機構、理事長：富田 達夫）は、「情報処理の促進に関する法律施行令の一部を改正する政令（令和3年7月16日閣議決定）」に基づき、経済産業省が所管する国家試験「情報処理技術者試験」と「情報処理安全確保支援士試験」の受験手数料が改定された旨を、IPA のウェブサイトで公開しました。 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 365の低価格プラン情報が流出か　CPU2基で月額約3400円に？ - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/windows-365-price-043035930.html</id>
+        <link href="https://japanese.engadget.com/windows-365-price-043035930.html"/>
+        <updated>2021-07-16T05:01:27.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロソフトから発表された、Windows 10をクラウドマシンとして利用できる「Windows 365」。こちらの低価格プランの情報が流出したとして、海外テックサイトのThe Vergeが伝えています。 Windows 365とは、サーバー上で動作するWindows 10（後にWindows 11も追加）を、手元の端末でリモート操作できるサービスです...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
