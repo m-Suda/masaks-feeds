@@ -247,6 +247,15 @@
           "title": "新しいCSSリセットはシンプルで軽量！CSSの新しい機能を使用したCSSリセット -The New CSS Reset | コリス"
         },
         {
+          "id": "https://internet.watch.impress.co.jp/docs/column/shimizu/1338766.html",
+          "author": null,
+          "description": "仕事用に使っている筆者宅の光ファイバーとして、新たに「NUROアクセススタンダード」を導入した。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/shimizu/1338766.html",
+          "publishedOn": "2021-07-18T22:28:27.000Z",
+          "wordCount": 166,
+          "title": "光回線「NUROアクセス」導入で転送量制限を回避【イニシャルB】 - INTERNET Watch"
+        },
+        {
           "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01267/00104/",
           "author": null,
           "description": "ほぼ無尽蔵ともいえるナトリウム（Na）イオンを使うNaイオン2次電池（NIB）の本格的な量産が近く始まりそうだ。出力密度の高さに加え、潜在的にはエネルギー密度でもリチウム（Li）イオン2次電池を超えるほど高い。定置型蓄電池では、比較的早い時期に主役の座に座る可能性も出てきた。 「本当かどうか、まだ分からない...",
@@ -839,6 +848,15 @@
           "publishedOn": "2021-07-16T01:31:25.000Z",
           "wordCount": 164,
           "title": "リモートワークの弊害は職場でのよい思い出が作りにくいこと - BASEプロダクトチームブログ"
+        },
+        {
+          "id": "https://webtan.impress.co.jp/e/2021/07/16/40954",
+          "author": null,
+          "description": "illustration by つきのあめだま あなたは、「グーグルがどのHTTPステータスコードをどう取り扱うか」正しく理解できているだろうか？ ちょっとテクニカルだが、必須のSEO知識を確認しておこう。 今回はほかにもテクニカルな話題を中心に、最新のSEO情報をいろんな角度から集めている。 リダイレクト、FAQリッチリザルト...",
+          "link": "https://webtan.impress.co.jp/e/2021/07/16/40954",
+          "publishedOn": "2021-07-16T01:04:22.000Z",
+          "wordCount": 892,
+          "title": "SEO上級者なら必須の知識「HTTPステータスコードを検索エンジンがどう扱うか」【SEO情報まとめ】 | 海外&国内SEO情報ウォッチ | Web担当者Forum"
         },
         {
           "id": "https://www.itmedia.co.jp/enterprise/articles/2107/16/news068.html",
@@ -1461,6 +1479,103 @@
           "publishedOn": "2021-06-28T10:48:28.000Z",
           "wordCount": 3444,
           "title": "The JUICE of Reactive Programming in Angular"
+        }
+      ]
+    },
+    {
+      "title": "コリス",
+      "feedUrl": "https://coliss.com/feed/",
+      "siteUrl": "https://coliss.com",
+      "articles": [
+        {
+          "id": "https://coliss.com/?p=30498",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/the-new-css-reset.html",
+          "publishedOn": "2021-07-19T00:36:32.000Z",
+          "wordCount": 435,
+          "title": "新しいCSSリセットはシンプルで軽量！CSSの新しい機能を使用したCSSリセット -The New CSS Reset"
+        },
+        {
+          "id": "https://coliss.com/?p=30409",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/css-snippets-for-layouts-and-components.html",
+          "publishedOn": "2021-07-16T00:36:35.000Z",
+          "wordCount": 1559,
+          "title": "レスポンシブ対応のレイアウトやコンポーネントだけを実装するCSSのシンプルなコードのまとめ -SmolCSS"
+        },
+        {
+          "id": "https://coliss.com/?p=29856",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/css-code-generators.html",
+          "publishedOn": "2021-07-15T00:36:41.000Z",
+          "wordCount": 457,
+          "title": "Web制作に役立つ！面倒なCSSのコードを簡単に生成できる便利ツールをまとめました"
+        },
+        {
+          "id": "https://coliss.com/?p=30360",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/freebies/royalty-free-vector-illustrations-scale.html",
+          "publishedOn": "2021-07-14T00:36:55.000Z",
+          "wordCount": 328,
+          "title": "ビジネスやオンラインショップに使えるおしゃれなイラスト素材！商用プロジェクトでも完全に無料 - Scale"
+        },
+        {
+          "id": "https://coliss.com/?p=30220",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/javascript/animate-on-scroll-using-intersectionobserver.html",
+          "publishedOn": "2021-07-13T00:36:30.000Z",
+          "wordCount": 1701,
+          "title": "スクロールに連動するアニメーションを実装する時は、JSのIntersection Observerを使用すると簡単に実装できる"
+        },
+        {
+          "id": "https://coliss.com/?p=30282",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/position-fixed-centering-new-way.html",
+          "publishedOn": "2021-07-12T00:36:05.000Z",
+          "wordCount": 333,
+          "title": "CSSで上下左右の中央に配置する時の「position: fixed;」での新しい記述方法"
+        },
+        {
+          "id": "https://coliss.com/?p=30296",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/kindle-sale-b085rvn7vg.html",
+          "publishedOn": "2021-07-11T00:06:48.000Z",
+          "wordCount": 383,
+          "title": "ロゴのデザイン書が本日限り、Kindleセールで75％オフのワンコイン！ロゴのアイデアやテクニックがよく分かる"
+        },
+        {
+          "id": "https://coliss.com/?p=29673",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784295011644.html",
+          "publishedOn": "2021-07-09T00:36:18.000Z",
+          "wordCount": 444,
+          "title": "初心者でもこれなら大丈夫、WordPressの入門書！いちばんやさしいWordPressの教本 第5版"
+        },
+        {
+          "id": "https://coliss.com/?p=30146",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/procreate-hair-brushes-by-labfcreations.html",
+          "publishedOn": "2021-07-09T00:26:27.000Z",
+          "wordCount": 322,
+          "title": "通常は有料だけど今週末まで無料！女性イラストの髪の毛を簡単に描けるブラシ素材 -20 Procreate Hair Brushes"
+        },
+        {
+          "id": "https://coliss.com/?p=29944",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/work/about-tablesng.html",
+          "publishedOn": "2021-07-08T00:36:10.000Z",
+          "wordCount": 376,
+          "title": "HTML tableの実装がこれまでと変わる！Googleデベロッパーによる変更点の解説 -TablesNG"
         }
       ]
     }

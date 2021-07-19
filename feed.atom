@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T01:47:53.328Z</updated>
+    <updated>2021-07-19T02:18:21.533Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
@@ -27,6 +27,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新しいCSSリセットはシンプルで軽量！CSSの新しい機能を使用したCSSリセット -The New CSS Reset]]></title>
+        <id>https://coliss.com/?p=30498</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/the-new-css-reset.html"/>
+        <updated>2021-07-19T00:36:32.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[tc39/proposal-array-grouping: A proposal to make grouping of array items easier]]></title>
         <id>https://ecmascript-daily.github.io/2021/07/19/tc39-proposal-array-grouping-a-proposal-to-make-grouping-of-array-items-easier</id>
         <link href="https://ecmascript-daily.github.io/2021/07/19/tc39-proposal-array-grouping-a-proposal-to-make-grouping-of-array-items-easier"/>
@@ -44,6 +54,16 @@
         <summary type="html"><![CDATA[プロトタイピングやテストを使わないで、現代のプロダクトデザインを想像することは難しくなっています。次の技を駆使することで、想像力を補うことができます。 説明するな、見せろ 今日では多くのプロダクト開発チームが、営業やアイ]]></summary>
         <author>
             <name>UX MILK編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光回線「NUROアクセス」導入で転送量制限を回避【イニシャルB】 - INTERNET Watch]]></title>
+        <id>https://internet.watch.impress.co.jp/docs/column/shimizu/1338766.html</id>
+        <link href="https://internet.watch.impress.co.jp/docs/column/shimizu/1338766.html"/>
+        <updated>2021-07-18T22:28:27.000Z</updated>
+        <summary type="html"><![CDATA[仕事用に使っている筆者宅の光ファイバーとして、新たに「NUROアクセススタンダード」を導入した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -995,6 +1015,26 @@ I divided home page into three parts sidebar, articles, extra-info. On careful e
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SEO上級者なら必須の知識「HTTPステータスコードを検索エンジンがどう扱うか」【SEO情報まとめ】 | 海外&国内SEO情報ウォッチ | Web担当者Forum]]></title>
+        <id>https://webtan.impress.co.jp/e/2021/07/16/40954</id>
+        <link href="https://webtan.impress.co.jp/e/2021/07/16/40954"/>
+        <updated>2021-07-16T01:04:22.000Z</updated>
+        <summary type="html"><![CDATA[illustration by つきのあめだま あなたは、「グーグルがどのHTTPステータスコードをどう取り扱うか」正しく理解できているだろうか？ ちょっとテクニカルだが、必須のSEO知識を確認しておこう。 今回はほかにもテクニカルな話題を中心に、最新のSEO情報をいろんな角度から集めている。 リダイレクト、FAQリッチリザルト...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レスポンシブ対応のレイアウトやコンポーネントだけを実装するCSSのシンプルなコードのまとめ -SmolCSS]]></title>
+        <id>https://coliss.com/?p=30409</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/css-snippets-for-layouts-and-components.html"/>
+        <updated>2021-07-16T00:36:35.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「ローカル5G」は「無線LAN」を不要にするのか？：プレミアムコンテンツ - ITmedia エンタープライズ]]></title>
         <id>https://www.itmedia.co.jp/enterprise/articles/2107/16/news068.html</id>
         <link href="https://www.itmedia.co.jp/enterprise/articles/2107/16/news068.html"/>
@@ -1189,6 +1229,16 @@ export class AppComponent implements AfterVi...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Web制作に役立つ！面倒なCSSのコードを簡単に生成できる便利ツールをまとめました]]></title>
+        <id>https://coliss.com/?p=29856</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/css-code-generators.html"/>
+        <updated>2021-07-15T00:36:41.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021年7月第3週号 1位は，ユーザー体験の原則を5つ紹介，気になるネタは，東京駅などの屋内を「Googleマップ」がナビする新機能--JR東日本の17駅から順次提供へ ── 週刊Webテク通信]]></title>
         <id>https://gihyo.jp/design/clip/01/weekly-web-tech/202107/15</id>
         <link href="https://gihyo.jp/design/clip/01/weekly-web-tech/202107/15"/>
@@ -1218,6 +1268,16 @@ The post Build Complex CSS Transitions using Custom Properties and cubic-bezier(
 The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビジネスやオンラインショップに使えるおしゃれなイラスト素材！商用プロジェクトでも完全に無料 - Scale]]></title>
+        <id>https://coliss.com/?p=30360</id>
+        <link href="https://coliss.com/articles/freebies/royalty-free-vector-illustrations-scale.html"/>
+        <updated>2021-07-14T00:36:55.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
         </author>
     </entry>
     <entry>
@@ -1285,6 +1345,16 @@ The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can su
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[スクロールに連動するアニメーションを実装する時は、JSのIntersection Observerを使用すると簡単に実装できる]]></title>
+        <id>https://coliss.com/?p=30220</id>
+        <link href="https://coliss.com/articles/build-websites/operation/javascript/animate-on-scroll-using-intersectionobserver.html"/>
+        <updated>2021-07-13T00:36:30.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meet `:has`, A Native CSS Parent Selector]]></title>
         <id>https://css-tricks.com/?p=344355</id>
         <link href="https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
@@ -1320,6 +1390,16 @@ The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-
         <summary type="html"><![CDATA[2021年7月1日に「モダンアジャイル 再考 2021」というイベントが分散アジャイルチームについて考える会の主催でありました。 distributed-agile-team.connpass.com このイベントのきっかけは、私のFacebookでのつぶやき？でした。 これへのコメントできょんさん、鬼木さん、川口さんらに反応していただけ、さっそくオン...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSで上下左右の中央に配置する時の「position: fixed;」での新しい記述方法]]></title>
+        <id>https://coliss.com/?p=30282</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/position-fixed-centering-new-way.html"/>
+        <updated>2021-07-12T00:36:05.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
         </author>
     </entry>
     <entry>
@@ -1364,6 +1444,16 @@ https://ja.wikipedia.org/wiki/Singleton_パターン
         <summary type="html"><![CDATA[柴田（@4bata）です。1年以上試行錯誤して「これがひとつの答えだ！」というのが見えました。プレゼンやワークショップでも使えますし、普通の会議でも使えます。 いいまとめのツイートがあったので最初に引用 目から鱗な実践のコツ！ ・オンライン会議はビデオオフ＆ミュートで良い ・司会はDJ感覚で ・フォームを使っ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロゴのデザイン書が本日限り、Kindleセールで75％オフのワンコイン！ロゴのアイデアやテクニックがよく分かる]]></title>
+        <id>https://coliss.com/?p=30296</id>
+        <link href="https://coliss.com/articles/products/kindle-sale-b085rvn7vg.html"/>
+        <updated>2021-07-11T00:06:48.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
         </author>
     </entry>
     <entry>
@@ -1428,6 +1518,26 @@ https://cloud.google.com/appengine/docs/standard/nodejs/application-security?hl=
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[初心者でもこれなら大丈夫、WordPressの入門書！いちばんやさしいWordPressの教本 第5版]]></title>
+        <id>https://coliss.com/?p=29673</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784295011644.html"/>
+        <updated>2021-07-09T00:36:18.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通常は有料だけど今週末まで無料！女性イラストの髪の毛を簡単に描けるブラシ素材 -20 Procreate Hair Brushes]]></title>
+        <id>https://coliss.com/?p=30146</id>
+        <link href="https://coliss.com/articles/products/procreate-hair-brushes-by-labfcreations.html"/>
+        <updated>2021-07-09T00:26:27.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Beginner JavaScript Notes]]></title>
         <id>https://css-tricks.com/?p=344024</id>
         <link href="https://wesbos.com/javascript"/>
@@ -1447,6 +1557,16 @@ The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support
 The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML tableの実装がこれまでと変わる！Googleデベロッパーによる変更点の解説 -TablesNG]]></title>
+        <id>https://coliss.com/?p=29944</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/about-tablesng.html"/>
+        <updated>2021-07-08T00:36:10.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
         </author>
     </entry>
     <entry>
