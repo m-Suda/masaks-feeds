@@ -238,6 +238,24 @@
           "title": "ほぼ無尽蔵のナトリウムが蓄電池に、定置型向けでいざ本格量産へ | 日経クロステック（xTECH）"
         },
         {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01728/071500001/",
+          "author": null,
+          "description": "「ナビダイヤルでおつなぎします。この通話は、○秒ごとにおよそ○円の通話料金でご利用いただけます」 このフレーズ、企業や官公庁のコールセンターに問い合わせた経験がある人ならば聞き覚えがあるだろう。番号が「0570」で始まる「ナビダイヤル」に電話をかけると流れる自動音声ガイダンスだ。 総務省によれば、ナビダ...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01728/071500001/",
+          "publishedOn": "2021-07-18T20:44:59.000Z",
+          "wordCount": 374,
+          "title": "ワクチン予約電話で見かける「0570番号」、携帯のかけ放題で対象外のなぜ | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUC30BU00Q1A630C2000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 電子が持つ磁石の性質（スピン）を利用した「磁気記録式メモリー（MRAM）」が普及期を迎えている。東北大学の研究を起点に、ソニーグループなどが技術開発を進める。半...",
+          "link": "https://www.nikkei.com/article/DGXZQOUC30BU00Q1A630C2000000/",
+          "publishedOn": "2021-07-18T20:34:21.000Z",
+          "wordCount": 114,
+          "title": "消費電力50分の1　次世代メモリー「MRAM」普及へ: 日本経済新聞"
+        },
+        {
           "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01682/071300008/",
           "author": null,
           "description": "経済産業省と東京証券取引所が2021年6月に発表した「デジタルトランスフォーメーション（DX）銘柄 2021」。「日本の先進DX」といえる選定企業の事例を厳選して取り上げ、DX推進の勘所を探る。セブン＆アイ・ホールディングスはエンジニアを大量に中途採用して内製化を推し進め、DXに挑んでいる。 「セブンイレブン事業を...",
@@ -245,6 +263,15 @@
           "publishedOn": "2021-07-18T20:07:46.000Z",
           "wordCount": 374,
           "title": "セブン＆アイがエンジニアを大量採用、「DXの内製化」に注力する理由 | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/mongodb_50.html",
+          "author": null,
+          "description": "MongoDB社は、同名のNoSQLデータベースの最新版となる「MongoDB 5.0」のリリースを発表しました。MongoDB 5.0はオンプレミス用と、クラウドサービス「MongoDB Atlas」の両方で提供されます。 Breaking News - CTO @MarkLovesTech announces the release of MongoDB 5.0! Introducing new workloads Future proof apps Ne...",
+          "link": "https://www.publickey1.jp/blog/21/mongodb_50.html",
+          "publishedOn": "2021-07-18T15:15:47.000Z",
+          "wordCount": 195,
+          "title": "MongoDB 5.0が登場。時系列データ対応、実行中のシャーディング変更に対応など － Publickey"
         },
         {
           "id": "https://gigazine.net/news/20210718-apple-amazon-fakespot/",
@@ -1136,6 +1163,15 @@
       "siteUrl": "https://ecmascript-daily.github.io/atom.xml",
       "articles": [
         {
+          "id": "https://ecmascript-daily.github.io/2021/07/19/tc39-proposal-array-grouping-a-proposal-to-make-grouping-of-array-items-easier",
+          "author": null,
+          "description": "Array#groupBy proposal",
+          "link": "https://ecmascript-daily.github.io/2021/07/19/tc39-proposal-array-grouping-a-proposal-to-make-grouping-of-array-items-easier",
+          "publishedOn": "2021-07-19T00:26:08.000Z",
+          "wordCount": 78,
+          "title": "tc39/proposal-array-grouping: A proposal to make grouping of array items easier"
+        },
+        {
           "id": "https://ecmascript-daily.github.io/2021/06/27/tc39-meeting-may-25-26-2021-spidermonkey-javascript-webassembly-engine",
           "author": null,
           "description": "TC39 meeting at May 25-26 2021.\nby Spidermonkey",
@@ -1231,6 +1267,121 @@
           "publishedOn": "2021-06-22T00:15:00.000Z",
           "wordCount": 410,
           "title": "第24回　横配置メニューの項目数が多くなった場合の表現 ── 縁の下のUIデザイン―少しの工夫で大きな改善！"
+        }
+      ]
+    },
+    {
+      "title": "DEV Community",
+      "feedUrl": "https://dev.to/feed/tag/angular",
+      "siteUrl": "https://dev.to",
+      "articles": [
+        {
+          "id": "https://dev.to/icelandico/intercepting-http-requests-in-angular-2aaf",
+          "author": "Michał Muszyński",
+          "description": "In a perfect world, we have a standardized HTTP request and responses structure, which is applied in a whole app. A perfect world does not exist and often we have to handle multiple different responses from different sources which structure varies. Luckily, Angular provides a solution to solve this problem on the client side. \nAngular provides an HttpInterceptor interface which helps us to intercept responses using HttpClient. Using it, we can modify the response or request, before it will be handled and consumed by the HttpClient. First, let's consume and display some data from json placeholder.\napp.component.ts\n\n\n\n\n\nimport { Component, OnInit } from '@angular/core';\nimport { HttpClient } from '@angular/common/http';\n\n@Component({\n  selector: 'app-root',\n  template: `\n    <div>\n      <h1>…",
+          "link": "https://dev.to/icelandico/intercepting-http-requests-in-angular-2aaf",
+          "publishedOn": "2021-07-18T19:18:24.000Z",
+          "wordCount": 927,
+          "title": "Intercepting Http requests in Angular"
+        },
+        {
+          "id": "https://dev.to/2112akilesh/ionic-crud-1h7l",
+          "author": "Akilesh",
+          "description": "In this article, we are going to implement CRUD operations in an ionic application.\nionic start ionic-crud tabs --type=angular --capacitor",
+          "link": "https://dev.to/2112akilesh/ionic-crud-1h7l",
+          "publishedOn": "2021-07-18T17:59:49.000Z",
+          "wordCount": 396,
+          "title": "IONIC CRUD"
+        },
+        {
+          "id": "https://dev.to/yuvgeek/generate-documentation-for-your-angular-app-in-just-5-simple-steps-4n29",
+          "author": "Yuvaraj",
+          "description": "Hello everyone 👋,\nIn this article, we are going to see how to generate the documentation for your Angular Application in just 5 simple steps.\n\nYes, it's real!\nWithout any delay, let's gooo!\nInstall compodoc as dev dependency with the below command.\n\n\n\n\nnpm install --save-dev @compodoc/compodoc\n\nCreate tsconfig.doc.json in the root directory where you have the package.json file. Paste the below content to that file.\n\n\n\n\n{\n  \"include\": [\"src/**/*.ts\"],\n  \"exclude\": [\"src/test.ts\", \"src/**/*.spec.ts\", \"src/app/file-to-exclude.ts\"]\n}\n\nCreate a script in the package.json file to generate documentation.\n\n\n\n\n\"scripts\": {\n  \"compodoc\": \"npx compodoc -p tsconfig.doc.json\"\n}\n\nNow open your terminal and run the below command to generate the documentation. This command will generate the documentation…",
+          "link": "https://dev.to/yuvgeek/generate-documentation-for-your-angular-app-in-just-5-simple-steps-4n29",
+          "publishedOn": "2021-07-18T15:20:57.000Z",
+          "wordCount": 735,
+          "title": "Generate documentation for your Angular App in just 5 simple steps"
+        },
+        {
+          "id": "https://dev.to/marcinwosinek/how-to-speed-up-angular-cli-app-with-esbuild-loader-1aj6",
+          "author": "Marcin Wosinek",
+          "description": "A previews article in this series showed how to build Angular CLI app with esbuild. There are two downsides of this approach:\nwe drop every piece of configuration that is there in the Angular CLI build configuration\nour build is faster, but it's way bigger - ~760kb instead of ~170kb\nThis article will try a different approach to harvest esbuild speed for your Angular CLI application. As I already shown in another post, using esbuild-loader provided minimization plugin can be pretty effective.\nThis is not an easy configuration. Getting it up & running made my head spin, and I started questioning my framework and tooling choices along the way. In the end, I got something working, but the results are not impressive. It probably deserves a heavier test, similar to the benchmark used in the post…",
+          "link": "https://dev.to/marcinwosinek/how-to-speed-up-angular-cli-app-with-esbuild-loader-1aj6",
+          "publishedOn": "2021-07-18T10:01:11.000Z",
+          "wordCount": 1129,
+          "title": "How to speed up Angular CLI app with esbuild-loader"
+        },
+        {
+          "id": "https://dev.to/marcinwosinek/how-to-make-angular-cli-built-app-work-from-a-subfolder-3ha5",
+          "author": "Marcin Wosinek",
+          "description": "Angular CLI, along with many boilerplate generating tools for other frameworks, insists on outputting the built code in a way that will work only on the top-level domain. I can't understand the reason for this, and definitively is not working well with quick&drity example apps you would like to show anywhere easily.\nIn this article, I'll show you how to make angular build code in a way that you can just drop on any level of subfolders & it will work.\nAfter generating your application with:\n$ npx -p @angular/cli ng new my-app\n\nwhen you build your app with:\n$ npm run build\n\nyou will get the dist/my-app/index.html file with:\n<!DOCTYPE html><html lang=\"en\"><head>\n  <meta charset=\"utf-8\">\n  <title>MyApp</title>\n  <base href=\"/\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale…",
+          "link": "https://dev.to/marcinwosinek/how-to-make-angular-cli-built-app-work-from-a-subfolder-3ha5",
+          "publishedOn": "2021-07-18T06:17:25.000Z",
+          "wordCount": 783,
+          "title": "How to make Angular CLI built app work from a subfolder"
+        },
+        {
+          "id": "https://dev.to/farithadnan/how-to-allow-access-to-localhost-from-other-devices-within-the-same-network-2ejh",
+          "author": "Farith Adnan",
+          "description": "Usually, during the web-development using Angular it's require for the project to be run locally but what if we want to access our project from other devices, can we do that with Angular?\n\n\nThe answer is of course we can! with Angular we can also grant access to other devices  BUT  you need to make sure that the external devices is within the same network as your project host (localhost).\n\n\n\n\n\n Enough with the introduction, let's jump into it! \n\n\n\n  \n  \n  Access Local Project From Other Devices\n\n\n\n\nAs we all know, when we want to run our project in Angular we just need to open the terminal in our code editor or whatever terminal your usually use and run the command below right?\n ng-serve \n\n\n\n\n\n\nBut if you want to access the project from other devices within the same network you only need to run:\n\n\n\n\n  \n  \n    ng-serve --host 0.0.0.0 \n\n\n\n\n\n\nand done! you now only need to enter the URL below from other devices within your network to access to your localhost by specify your Ip Address and the Angular project port. \n  http://192.xxx.x.x:4200 \n\n\n\n\n Thanks for reading! for any question or enquires please send me a message or comment down below",
+          "link": "https://dev.to/farithadnan/how-to-allow-access-to-localhost-from-other-devices-within-the-same-network-2ejh",
+          "publishedOn": "2021-07-17T17:55:29.000Z",
+          "wordCount": 690,
+          "title": "How to access localhost from other devices within the same network?"
+        },
+        {
+          "id": "https://dev.to/shreyapd06/introducing-angular-mini-blog-series-part-1-4hdg",
+          "author": "Shreya Prasad",
+          "description": "In this series of blog posts, we are going to learn about Angular from beginning. I will try to keep the blogs very short, crisp and easy to understand.\nAngular's official website if you want to learn basic stuff like: \nWhat Angular is \nHow to create a basic application\nGenerate Components\nStart Angular Live Server\nBasic Directory Structure\nHere, we will get started with:\nComponents\nModules \nHow Angular Apps loads\nAppModule\nYou know about <html>, <head> and <body> tags and so on right? These are native HTML elements that are provided to us. But what if we could create our own HTML elements?\n\nYes, this is where components come in! Components are typically custom built HTML elements, and each of these elements can instantiate only one component. \n\nAngular is not present as one monolithic cod…",
+          "link": "https://dev.to/shreyapd06/introducing-angular-mini-blog-series-part-1-4hdg",
+          "publishedOn": "2021-07-17T12:27:22.000Z",
+          "wordCount": 1631,
+          "title": "Introducing Angular Mini Blog Series - Part 1"
+        },
+        {
+          "id": "https://dev.to/mateuszto/code-review-angular-p7b",
+          "author": "Mateusz Tomczyk",
+          "description": "Here's my small app https://github.com/Mateuszto/trui\nCan someone give feedback?",
+          "link": "https://dev.to/mateuszto/code-review-angular-p7b",
+          "publishedOn": "2021-07-17T10:13:27.000Z",
+          "wordCount": 349,
+          "title": "Code review - Angular"
+        },
+        {
+          "id": "https://dev.to/kpiteng/yarn-workspaces-monorepo-approach-354o",
+          "author": "kpiteng",
+          "description": "See how Yarn Workspaces allow developers to develop mobile & web applications using monorepo approach, helps to split and share code between multiple packages.\nProjects grow over time and some pieces of code can be useful elsewhere in other projects. Also we need to share code between projects like Redux, ApolloClient, MobX - State Management Library, Common Utilities, etc same for both React Native, React.js or other technologies.\nDownload full source code from KPITENG - Github\nMany of us tried splitting a code into multiple packages knowing how difficult it is to manage across multiple packages at one time. To make this easier, we adopted a monorepo approach, or multiple packages repositories, which reduce the burden of writing code across packages.\nMany projects used by JavaScript devel…",
+          "link": "https://dev.to/kpiteng/yarn-workspaces-monorepo-approach-354o",
+          "publishedOn": "2021-07-16T04:03:29.000Z",
+          "wordCount": 1350,
+          "title": "Yarn Workspaces - Monorepo Approach"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-2gmi",
+          "author": "Ajit Singh",
+          "description": "Last week I created a header component. It was just HTML and it was in the following position.\n.\nThis week I stated adding the body of the dev.to website I used a component to handle all the margins and padding on the body of the dev.to website. And created all body sub-elements as the the children of this Component in routing.\nTo start with body sub-components I created a home module I created a new module for homepage because people may open other pages before visit our home page so putting our homepage in a different module other than app.module made sense for lazy loading. If your has to be visited before visiting any other pages use home module in app module.\nI divided home page into three parts sidebar, articles, extra-info. On careful examination of the dev.to sidebar I divided it i…",
+          "link": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-2gmi",
+          "publishedOn": "2021-07-16T03:52:45.000Z",
+          "wordCount": 1144,
+          "title": "Updates on dev-to clone in Angular"
+        },
+        {
+          "id": "https://dev.to/spiderpig86/introducing-spottr-your-spotify-stats-year-round-o6k",
+          "author": "Stanley Lim",
+          "description": "As a long-time Spotify user, I love the end-of-year stats that Spotify surfaces each year. If you’re like me, you probably hate waiting till the end of each year just to see your top songs, artists, and genres.\nThis is why I developed Spottr, a progressive web app that satisfies that curiosity!\n\nSpottr is a PWA developed to surface your Spotify listening habits year-round rather than at the end of each year.\nThe first main reason as stated above was the burning desire I had to know about how my listening habits have changed over time.\nThe second reason was to rewrite this project again from scratch using Angular 10, Tailwind CSS, and push my design and front-end development skills. My first iteration was started back in 2018 with Angular 6, but I scrapped that since the project was not pla…",
+          "link": "https://dev.to/spiderpig86/introducing-spottr-your-spotify-stats-year-round-o6k",
+          "publishedOn": "2021-07-15T21:57:53.000Z",
+          "wordCount": 1251,
+          "title": "🎉 Introducing Spottr - Your Spotify Stats Year-Round"
+        },
+        {
+          "id": "https://dev.to/brandontroberts/jasmine-marbles-now-supports-rxjs-6-7-with-jest-circus-2c9g",
+          "author": "Brandon Roberts",
+          "description": "Photo by Sharon McCutcheon on Unsplash\nJasmine marbles is a set of RxJS marble testing helpers for writing tests with Jasmine or Jest.\nJest version 27 was recently released, which introduces a completely new default test runner named jest-circus. The previous jest-jasmine2 test runner contained many jasmine-specific APIs that are not in jest-circus.\nWith the release of version jasmine-marbles 0.8.3, both test runners are supported with RxJS 6.x. RxJS 7.x is supported in versions 0.9.0 and later, but the majority of users are on RxJS 6.x, which is what the latest major releases of Angular, Nx, NgRx, and many other libraries use.\nTo install the latest version:\nnpm install jasmine-marbles@latest --save-dev\n\nor\nyarn install jasmine-marbles@latest --dev\n\nIf you need to revert back to the previous test runner, set the testRunner in your jest.config.js to jest-jasmine2.\nTo learn more about testing RxJS using marble diagrams in general, check out the marble testing guide in the RxJS docs.\nIf you've found jasmine-marbles useful ❤️, please consider sponsoring me on GitHub as a monthly or one-time sponsor. \nYou can also follow me on Twitter, subscribe on YouTube, and join me for live streams on Twitch.",
+          "link": "https://dev.to/brandontroberts/jasmine-marbles-now-supports-rxjs-6-7-with-jest-circus-2c9g",
+          "publishedOn": "2021-07-15T21:08:35.000Z",
+          "wordCount": 597,
+          "title": "Jasmine Marbles now supports RxJS 6/7 with jest-circus"
         }
       ]
     }

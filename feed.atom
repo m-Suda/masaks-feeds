@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T00:15:05.615Z</updated>
+    <updated>2021-07-19T01:13:40.590Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[tc39/proposal-array-grouping: A proposal to make grouping of array items easier]]></title>
+        <id>https://ecmascript-daily.github.io/2021/07/19/tc39-proposal-array-grouping-a-proposal-to-make-grouping-of-array-items-easier</id>
+        <link href="https://ecmascript-daily.github.io/2021/07/19/tc39-proposal-array-grouping-a-proposal-to-make-grouping-of-array-items-easier"/>
+        <updated>2021-07-19T00:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Array#groupBy proposal]]></summary>
+        <author>
+            <name>ECMAScript Daily</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロトタイピングで陥りがちな６つの落とし穴]]></title>
         <id>http://admin.uxmilk.jp/?p=75954</id>
@@ -27,11 +37,118 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ワクチン予約電話で見かける「0570番号」、携帯のかけ放題で対象外のなぜ | 日経クロステック（xTECH）]]></title>
+        <id>https://xtech.nikkei.com/atcl/nxt/column/18/01728/071500001/</id>
+        <link href="https://xtech.nikkei.com/atcl/nxt/column/18/01728/071500001/"/>
+        <updated>2021-07-18T20:44:59.000Z</updated>
+        <summary type="html"><![CDATA[「ナビダイヤルでおつなぎします。この通話は、○秒ごとにおよそ○円の通話料金でご利用いただけます」 このフレーズ、企業や官公庁のコールセンターに問い合わせた経験がある人ならば聞き覚えがあるだろう。番号が「0570」で始まる「ナビダイヤル」に電話をかけると流れる自動音声ガイダンスだ。 総務省によれば、ナビダ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消費電力50分の1　次世代メモリー「MRAM」普及へ: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUC30BU00Q1A630C2000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUC30BU00Q1A630C2000000/"/>
+        <updated>2021-07-18T20:34:21.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 電子が持つ磁石の性質（スピン）を利用した「磁気記録式メモリー（MRAM）」が普及期を迎えている。東北大学の研究を起点に、ソニーグループなどが技術開発を進める。半...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[セブン＆アイがエンジニアを大量採用、「DXの内製化」に注力する理由 | 日経クロステック（xTECH）]]></title>
         <id>https://xtech.nikkei.com/atcl/nxt/column/18/01682/071300008/</id>
         <link href="https://xtech.nikkei.com/atcl/nxt/column/18/01682/071300008/"/>
         <updated>2021-07-18T20:07:46.000Z</updated>
         <summary type="html"><![CDATA[経済産業省と東京証券取引所が2021年6月に発表した「デジタルトランスフォーメーション（DX）銘柄 2021」。「日本の先進DX」といえる選定企業の事例を厳選して取り上げ、DX推進の勘所を探る。セブン＆アイ・ホールディングスはエンジニアを大量に中途採用して内製化を推し進め、DXに挑んでいる。 「セブンイレブン事業を...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intercepting Http requests in Angular]]></title>
+        <id>https://dev.to/icelandico/intercepting-http-requests-in-angular-2aaf</id>
+        <link href="https://dev.to/icelandico/intercepting-http-requests-in-angular-2aaf"/>
+        <updated>2021-07-18T19:18:24.000Z</updated>
+        <summary type="html"><![CDATA[In a perfect world, we have a standardized HTTP request and responses structure, which is applied in a whole app. A perfect world does not exist and often we have to handle multiple different responses from different sources which structure varies. Luckily, Angular provides a solution to solve this problem on the client side. 
+Angular provides an HttpInterceptor interface which helps us to intercept responses using HttpClient. Using it, we can modify the response or request, before it will be handled and consumed by the HttpClient. First, let's consume and display some data from json placeholder.
+app.component.ts
+
+
+
+
+
+import { Component, OnInit } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+
+@Component({
+  selector: 'app-root',
+  template: `
+    <div>
+      <h1>…]]></summary>
+        <author>
+            <name>Michał Muszyński</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IONIC CRUD]]></title>
+        <id>https://dev.to/2112akilesh/ionic-crud-1h7l</id>
+        <link href="https://dev.to/2112akilesh/ionic-crud-1h7l"/>
+        <updated>2021-07-18T17:59:49.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we are going to implement CRUD operations in an ionic application.
+ionic start ionic-crud tabs --type=angular --capacitor]]></summary>
+        <author>
+            <name>Akilesh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generate documentation for your Angular App in just 5 simple steps]]></title>
+        <id>https://dev.to/yuvgeek/generate-documentation-for-your-angular-app-in-just-5-simple-steps-4n29</id>
+        <link href="https://dev.to/yuvgeek/generate-documentation-for-your-angular-app-in-just-5-simple-steps-4n29"/>
+        <updated>2021-07-18T15:20:57.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone 👋,
+In this article, we are going to see how to generate the documentation for your Angular Application in just 5 simple steps.
+
+Yes, it's real!
+Without any delay, let's gooo!
+Install compodoc as dev dependency with the below command.
+
+
+
+
+npm install --save-dev @compodoc/compodoc
+
+Create tsconfig.doc.json in the root directory where you have the package.json file. Paste the below content to that file.
+
+
+
+
+{
+  "include": ["src/**/*.ts"],
+  "exclude": ["src/test.ts", "src/**/*.spec.ts", "src/app/file-to-exclude.ts"]
+}
+
+Create a script in the package.json file to generate documentation.
+
+
+
+
+"scripts": {
+  "compodoc": "npx compodoc -p tsconfig.doc.json"
+}
+
+Now open your terminal and run the below command to generate the documentation. This command will generate the documentation…]]></summary>
+        <author>
+            <name>Yuvaraj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MongoDB 5.0が登場。時系列データ対応、実行中のシャーディング変更に対応など － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/mongodb_50.html</id>
+        <link href="https://www.publickey1.jp/blog/21/mongodb_50.html"/>
+        <updated>2021-07-18T15:15:47.000Z</updated>
+        <summary type="html"><![CDATA[MongoDB社は、同名のNoSQLデータベースの最新版となる「MongoDB 5.0」のリリースを発表しました。MongoDB 5.0はオンプレミス用と、クラウドサービス「MongoDB Atlas」の両方で提供されます。 Breaking News - CTO @MarkLovesTech announces the release of MongoDB 5.0! Introducing new workloads Future proof apps Ne...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -57,6 +174,20 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to speed up Angular CLI app with esbuild-loader]]></title>
+        <id>https://dev.to/marcinwosinek/how-to-speed-up-angular-cli-app-with-esbuild-loader-1aj6</id>
+        <link href="https://dev.to/marcinwosinek/how-to-speed-up-angular-cli-app-with-esbuild-loader-1aj6"/>
+        <updated>2021-07-18T10:01:11.000Z</updated>
+        <summary type="html"><![CDATA[A previews article in this series showed how to build Angular CLI app with esbuild. There are two downsides of this approach:
+we drop every piece of configuration that is there in the Angular CLI build configuration
+our build is faster, but it's way bigger - ~760kb instead of ~170kb
+This article will try a different approach to harvest esbuild speed for your Angular CLI application. As I already shown in another post, using esbuild-loader provided minimization plugin can be pretty effective.
+This is not an easy configuration. Getting it up & running made my head spin, and I started questioning my framework and tooling choices along the way. In the end, I got something working, but the results are not impressive. It probably deserves a heavier test, similar to the benchmark used in the post…]]></summary>
+        <author>
+            <name>Marcin Wosinek</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[国立国会図書館、来春までに247万点・2億2300万枚超の資料を全文テキストデータ化へ | Ledge.ai]]></title>
         <id>https://ledge.ai/ndl-clovaocr/</id>
         <link href="https://ledge.ai/ndl-clovaocr/"/>
@@ -74,6 +205,29 @@
         <summary type="html"><![CDATA[最新OSの明確な特徴 アップルは毎年、秋に各種デバイス向けOSの新バージョンを更新するが、その一般向けテスト公開（パブリックベータテスト）がすでに始まっている。 特に多くの人が気になるのは、iPhone向けのOSである「iOS 15」と、iPad向けのOSである「iPadOS 15」だろう。 今回提供される最新OSには、明確な特徴が1...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make Angular CLI built app work from a subfolder]]></title>
+        <id>https://dev.to/marcinwosinek/how-to-make-angular-cli-built-app-work-from-a-subfolder-3ha5</id>
+        <link href="https://dev.to/marcinwosinek/how-to-make-angular-cli-built-app-work-from-a-subfolder-3ha5"/>
+        <updated>2021-07-18T06:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Angular CLI, along with many boilerplate generating tools for other frameworks, insists on outputting the built code in a way that will work only on the top-level domain. I can't understand the reason for this, and definitively is not working well with quick&drity example apps you would like to show anywhere easily.
+In this article, I'll show you how to make angular build code in a way that you can just drop on any level of subfolders & it will work.
+After generating your application with:
+$ npx -p @angular/cli ng new my-app
+
+when you build your app with:
+$ npm run build
+
+you will get the dist/my-app/index.html file with:
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="utf-8">
+  <title>MyApp</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale…]]></summary>
+        <author>
+            <name>Marcin Wosinek</name>
         </author>
     </entry>
     <entry>
@@ -147,6 +301,64 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to access localhost from other devices within the same network?]]></title>
+        <id>https://dev.to/farithadnan/how-to-allow-access-to-localhost-from-other-devices-within-the-same-network-2ejh</id>
+        <link href="https://dev.to/farithadnan/how-to-allow-access-to-localhost-from-other-devices-within-the-same-network-2ejh"/>
+        <updated>2021-07-17T17:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Usually, during the web-development using Angular it's require for the project to be run locally but what if we want to access our project from other devices, can we do that with Angular?
+
+
+The answer is of course we can! with Angular we can also grant access to other devices  BUT  you need to make sure that the external devices is within the same network as your project host (localhost).
+
+
+
+
+
+ Enough with the introduction, let's jump into it! 
+
+
+
+  
+  
+  Access Local Project From Other Devices
+
+
+
+
+As we all know, when we want to run our project in Angular we just need to open the terminal in our code editor or whatever terminal your usually use and run the command below right?
+ ng-serve 
+
+
+
+
+
+
+But if you want to access the project from other devices within the same network you only need to run:
+
+
+
+
+  
+  
+    ng-serve --host 0.0.0.0 
+
+
+
+
+
+
+and done! you now only need to enter the URL below from other devices within your network to access to your localhost by specify your Ip Address and the Angular project port. 
+  http://192.xxx.x.x:4200 
+
+
+
+
+ Thanks for reading! for any question or enquires please send me a message or comment down below]]></summary>
+        <author>
+            <name>Farith Adnan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[無料でオープンソースのメディアプレイヤー「VLC」で簡単にPCの画面を録画する方法 - GIGAZINE]]></title>
         <id>https://gigazine.net/news/20210717-record-screen-with-vlc/</id>
         <link href="https://gigazine.net/news/20210717-record-screen-with-vlc/"/>
@@ -197,6 +409,32 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing Angular Mini Blog Series - Part 1]]></title>
+        <id>https://dev.to/shreyapd06/introducing-angular-mini-blog-series-part-1-4hdg</id>
+        <link href="https://dev.to/shreyapd06/introducing-angular-mini-blog-series-part-1-4hdg"/>
+        <updated>2021-07-17T12:27:22.000Z</updated>
+        <summary type="html"><![CDATA[In this series of blog posts, we are going to learn about Angular from beginning. I will try to keep the blogs very short, crisp and easy to understand.
+Angular's official website if you want to learn basic stuff like: 
+What Angular is 
+How to create a basic application
+Generate Components
+Start Angular Live Server
+Basic Directory Structure
+Here, we will get started with:
+Components
+Modules 
+How Angular Apps loads
+AppModule
+You know about <html>, <head> and <body> tags and so on right? These are native HTML elements that are provided to us. But what if we could create our own HTML elements?
+
+Yes, this is where components come in! Components are typically custom built HTML elements, and each of these elements can instantiate only one component. 
+
+Angular is not present as one monolithic cod…]]></summary>
+        <author>
+            <name>Shreya Prasad</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[コラム】消費者の同意を取り付けるためだけのプライバシー通知をやめませんか？ | TechCrunch Japan]]></title>
         <id>https://jp.techcrunch.com/2021/07/17/2021-07-06-kill-the-standard-privacy-notice/</id>
         <link href="https://jp.techcrunch.com/2021/07/17/2021-07-06-kill-the-standard-privacy-notice/"/>
@@ -204,6 +442,17 @@
         <summary type="html"><![CDATA[編集部注：本稿の著者Leif-Nissen Lundbæk（レイフ-ニッセン・ルンドベック）氏は、Xaynの共同設立者兼CEO。専門はプライバシー保護を目的としたAIだ。 ーーー 「プライバシー」は誰もが気にする言葉であり、大手テック企業でさえもこの問題に取り組んでいる。最近では、Apple（アップル）がiOS バージョン14.5の要（か...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code review - Angular]]></title>
+        <id>https://dev.to/mateuszto/code-review-angular-p7b</id>
+        <link href="https://dev.to/mateuszto/code-review-angular-p7b"/>
+        <updated>2021-07-17T10:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Here's my small app https://github.com/Mateuszto/trui
+Can someone give feedback?]]></summary>
+        <author>
+            <name>Mateusz Tomczyk</name>
         </author>
     </entry>
     <entry>
@@ -662,6 +911,34 @@ The post Some Typography Links appeared first on CSS-Tricks. You can support CSS
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Yarn Workspaces - Monorepo Approach]]></title>
+        <id>https://dev.to/kpiteng/yarn-workspaces-monorepo-approach-354o</id>
+        <link href="https://dev.to/kpiteng/yarn-workspaces-monorepo-approach-354o"/>
+        <updated>2021-07-16T04:03:29.000Z</updated>
+        <summary type="html"><![CDATA[See how Yarn Workspaces allow developers to develop mobile & web applications using monorepo approach, helps to split and share code between multiple packages.
+Projects grow over time and some pieces of code can be useful elsewhere in other projects. Also we need to share code between projects like Redux, ApolloClient, MobX - State Management Library, Common Utilities, etc same for both React Native, React.js or other technologies.
+Download full source code from KPITENG - Github
+Many of us tried splitting a code into multiple packages knowing how difficult it is to manage across multiple packages at one time. To make this easier, we adopted a monorepo approach, or multiple packages repositories, which reduce the burden of writing code across packages.
+Many projects used by JavaScript devel…]]></summary>
+        <author>
+            <name>kpiteng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updates on dev-to clone in Angular]]></title>
+        <id>https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-2gmi</id>
+        <link href="https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-2gmi"/>
+        <updated>2021-07-16T03:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Last week I created a header component. It was just HTML and it was in the following position.
+.
+This week I stated adding the body of the dev.to website I used a component to handle all the margins and padding on the body of the dev.to website. And created all body sub-elements as the the children of this Component in routing.
+To start with body sub-components I created a home module I created a new module for homepage because people may open other pages before visit our home page so putting our homepage in a different module other than app.module made sense for lazy loading. If your has to be visited before visiting any other pages use home module in app module.
+I divided home page into three parts sidebar, articles, extra-info. On careful examination of the dev.to sidebar I divided it i…]]></summary>
+        <author>
+            <name>Ajit Singh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[リモートワークの弊害は職場でのよい思い出が作りにくいこと - BASEプロダクトチームブログ]]></title>
         <id>https://devblog.thebase.in/entry/2021/07/16/085751</id>
         <link href="https://devblog.thebase.in/entry/2021/07/16/085751"/>
@@ -682,6 +959,21 @@ The post Some Typography Links appeared first on CSS-Tricks. You can support CSS
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🎉 Introducing Spottr - Your Spotify Stats Year-Round]]></title>
+        <id>https://dev.to/spiderpig86/introducing-spottr-your-spotify-stats-year-round-o6k</id>
+        <link href="https://dev.to/spiderpig86/introducing-spottr-your-spotify-stats-year-round-o6k"/>
+        <updated>2021-07-15T21:57:53.000Z</updated>
+        <summary type="html"><![CDATA[As a long-time Spotify user, I love the end-of-year stats that Spotify surfaces each year. If you’re like me, you probably hate waiting till the end of each year just to see your top songs, artists, and genres.
+This is why I developed Spottr, a progressive web app that satisfies that curiosity!
+
+Spottr is a PWA developed to surface your Spotify listening habits year-round rather than at the end of each year.
+The first main reason as stated above was the burning desire I had to know about how my listening habits have changed over time.
+The second reason was to rewrite this project again from scratch using Angular 10, Tailwind CSS, and push my design and front-end development skills. My first iteration was started back in 2018 with Angular 6, but I scrapped that since the project was not pla…]]></summary>
+        <author>
+            <name>Stanley Lim</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[チャエン🇨🇳 海外テック図解 on Twitter: "中国の会社が開発した交通情報が投影されるフロントガラス。 目的地までのナビ、速度、障害物、道路標識などの情報が確認できる。 カーナビが不要になって、運転に集中できる画期的なアイテム。 https://t.co/2F2Yv5ZJTs"]]></title>
         <id>https://twitter.com/masahirochaen/status/1415571190853160962</id>
         <link href="https://twitter.com/masahirochaen/status/1415571190853160962"/>
@@ -689,6 +981,29 @@ The post Some Typography Links appeared first on CSS-Tricks. You can support CSS
         <summary type="html"><![CDATA[中国の会社が開発した交通情報が投影されるフロントガラス。 目的地までのナビ、速度、障害物、道路標識などの情報が確認できる。 カーナビが不要になって、運転に集中できる画期的なアイテム。 https://t.co/2F2Yv5ZJTs]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jasmine Marbles now supports RxJS 6/7 with jest-circus]]></title>
+        <id>https://dev.to/brandontroberts/jasmine-marbles-now-supports-rxjs-6-7-with-jest-circus-2c9g</id>
+        <link href="https://dev.to/brandontroberts/jasmine-marbles-now-supports-rxjs-6-7-with-jest-circus-2c9g"/>
+        <updated>2021-07-15T21:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Sharon McCutcheon on Unsplash
+Jasmine marbles is a set of RxJS marble testing helpers for writing tests with Jasmine or Jest.
+Jest version 27 was recently released, which introduces a completely new default test runner named jest-circus. The previous jest-jasmine2 test runner contained many jasmine-specific APIs that are not in jest-circus.
+With the release of version jasmine-marbles 0.8.3, both test runners are supported with RxJS 6.x. RxJS 7.x is supported in versions 0.9.0 and later, but the majority of users are on RxJS 6.x, which is what the latest major releases of Angular, Nx, NgRx, and many other libraries use.
+To install the latest version:
+npm install jasmine-marbles@latest --save-dev
+
+or
+yarn install jasmine-marbles@latest --dev
+
+If you need to revert back to the previous test runner, set the testRunner in your jest.config.js to jest-jasmine2.
+To learn more about testing RxJS using marble diagrams in general, check out the marble testing guide in the RxJS docs.
+If you've found jasmine-marbles useful ❤️, please consider sponsoring me on GitHub as a monthly or one-time sponsor. 
+You can also follow me on Twitter, subscribe on YouTube, and join me for live streams on Twitch.]]></summary>
+        <author>
+            <name>Brandon Roberts</name>
         </author>
     </entry>
     <entry>
