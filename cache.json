@@ -229,6 +229,24 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://developer.kaizenplatform.com/entry/2021/07/19/090000",
+          "author": null,
+          "description": "TL;DR PDF を画面に埋め込む方法は、iframe, object, embed, Viewer（3rd party library の利用）がある。 ブラウザネイティブの PDF 表示機能はブラウザ差異が大きいため、PDF を canvas や svg に変換して表示するライブラリやビューアーを利用した方が安定する。 しかし 3rd party library / service の利用はバンド...",
+          "link": "https://developer.kaizenplatform.com/entry/2021/07/19/090000",
+          "publishedOn": "2021-07-19T00:59:51.000Z",
+          "wordCount": 866,
+          "title": "全デバイス・全ブラウザで PDF を読みたい - Kaizen Platform 開発者ブログ"
+        },
+        {
+          "id": "https://coliss.com/articles/build-websites/operation/css/the-new-css-reset.html",
+          "author": null,
+          "description": "CSSの新しい機能は主要ブラウザでのサポートが進んでいます。例えば、1年くらい前にサポートされはじめたセレクタの詳細度を0にする:where()も、現在では主要ブラウザのすべてでサポートされています。 CSSの新しい機能を使用した、シンプルで軽量なCSSのリセットを紹介します。 :where()や:not()、allプロパティやunset...",
+          "link": "https://coliss.com/articles/build-websites/operation/css/the-new-css-reset.html",
+          "publishedOn": "2021-07-19T00:55:01.000Z",
+          "wordCount": 435,
+          "title": "新しいCSSリセットはシンプルで軽量！CSSの新しい機能を使用したCSSリセット -The New CSS Reset | コリス"
+        },
+        {
           "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01267/00104/",
           "author": null,
           "description": "ほぼ無尽蔵ともいえるナトリウム（Na）イオンを使うNaイオン2次電池（NIB）の本格的な量産が近く始まりそうだ。出力密度の高さに加え、潜在的にはエネルギー密度でもリチウム（Li）イオン2次電池を超えるほど高い。定置型蓄電池では、比較的早い時期に主役の座に座る可能性も出てきた。 「本当かどうか、まだ分からない...",
@@ -281,6 +299,15 @@
           "publishedOn": "2021-07-18T13:05:07.000Z",
           "wordCount": 210,
           "title": "AmazonがAppleに「偽レビュー検出アプリ」の削除を求め実際に削除される - GIGAZINE"
+        },
+        {
+          "id": "https://qiita.com/neko-suki/items/604095f60ec5f334d896",
+          "author": null,
+          "description": "本記事ではIETFで標準化が行われている、QUICなどのロギングを行うフォーマットであるqlogの、QUICに関するイベントを定義している「QUIC event definitions for qlog」について紹介します。 QUIC event definitions for qlog とは qlogには発生したイベントを記録するeventという情報をロギングする仕組みがあります。...",
+          "link": "https://qiita.com/neko-suki/items/604095f60ec5f334d896",
+          "publishedOn": "2021-07-18T11:51:51.000Z",
+          "wordCount": 2735,
+          "title": "QUIC event definitions for qlog の紹介 - Qiita"
         },
         {
           "id": "https://it.srad.jp/story/21/07/18/0838210/",
@@ -1382,6 +1409,58 @@
           "publishedOn": "2021-07-15T21:08:35.000Z",
           "wordCount": 597,
           "title": "Jasmine Marbles now supports RxJS 6/7 with jest-circus"
+        }
+      ]
+    },
+    {
+      "title": "DEV Community",
+      "feedUrl": "https://dev.to/feed/tag/rxjs",
+      "siteUrl": "https://dev.to",
+      "articles": [
+        {
+          "id": "https://dev.to/thisdotmedia/how-to-implement-drag-drop-using-rxjs-16m9",
+          "author": "Chris Trześniewski",
+          "description": "Drag & drop is one of the features that can be very useful for the end-users of our application. Additionally, it is a great example to show how RxJS can be used to handle drag-and-drop functionality with ease. Let's see how we can implement the simple dragging behavior.\nTo follow along with all the code examples in this article, I recommend opening this Stackblitz starter example. All examples will be based on this starter project.\nBefore we start the implementation, let's consider what the drag and drop functionality consists of. It can be split into 3 phases:\ndrag start\ndrag move\ndrag end (drop)\nIn a nutshell, drag start happens whenever we press mouse down on a draggable item. Following that each time we move a cursor a drag move event should be emitted. Drag move should continue, but …",
+          "link": "https://dev.to/thisdotmedia/how-to-implement-drag-drop-using-rxjs-16m9",
+          "publishedOn": "2021-07-16T18:57:22.000Z",
+          "wordCount": 1745,
+          "title": "How to implement drag & drop using RxJS"
+        },
+        {
+          "id": "https://dev.to/brandontroberts/jasmine-marbles-now-supports-rxjs-6-7-with-jest-circus-2c9g",
+          "author": "Brandon Roberts",
+          "description": "Photo by Sharon McCutcheon on Unsplash\nJasmine marbles is a set of RxJS marble testing helpers for writing tests with Jasmine or Jest.\nJest version 27 was recently released, which introduces a completely new default test runner named jest-circus. The previous jest-jasmine2 test runner contained many jasmine-specific APIs that are not in jest-circus.\nWith the release of version jasmine-marbles 0.8.3, both test runners are supported with RxJS 6.x. RxJS 7.x is supported in versions 0.9.0 and later, but the majority of users are on RxJS 6.x, which is what the latest major releases of Angular, Nx, NgRx, and many other libraries use.\nTo install the latest version:\nnpm install jasmine-marbles@latest --save-dev\n\nor\nyarn install jasmine-marbles@latest --dev\n\nIf you need to revert back to the previous test runner, set the testRunner in your jest.config.js to jest-jasmine2.\nTo learn more about testing RxJS using marble diagrams in general, check out the marble testing guide in the RxJS docs.\nIf you've found jasmine-marbles useful ❤️, please consider sponsoring me on GitHub as a monthly or one-time sponsor. \nYou can also follow me on Twitter, subscribe on YouTube, and join me for live streams on Twitch.",
+          "link": "https://dev.to/brandontroberts/jasmine-marbles-now-supports-rxjs-6-7-with-jest-circus-2c9g",
+          "publishedOn": "2021-07-15T21:08:35.000Z",
+          "wordCount": 597,
+          "title": "Jasmine Marbles now supports RxJS 6/7 with jest-circus"
+        },
+        {
+          "id": "https://dev.to/anirbmuk/auto-complete-with-angular-material-and-rxjs-3b8k",
+          "author": "Anirban Mukherjee",
+          "description": "This article talks about an efficient way to implement auto-complete feature using Angular concepts. The key components used in this demonstration are as follows:\nAngular Material (v12) Autocomplete module.\nRxJS for action and data binding.\nAngular in-memory-web-api for REST services (Refer to in-memory-web-api).\n \n\n \n\n \n\n\n\n\nLet us now see how we go about it:\nThe front-end consists of an angular autocomplete module. The input event taps the user's keystrokes and emits a new value into an action subject.\n\nAutocompleteService class.\n\nThe action BehaviorSubject starts with an empty string. The action$ is an observable built out of this subject.\n\nGET request. Since this is a higher-order observable (i.e., an observable returning an observable), we make use of one of the higher order functions like switchMap.\n\nswitchMap (and not other higher order functions like concatMap or mergeMap)? The reason is: switchMap unsubscribes from the previous observable once a new value is emitted by the parent observable.\nWhat this means is - as soon as the user types in another letter or removes a letter, there is simply no need to subscribe and execute the rest call for the previous values. The user is only interested to see the results of the search according to his/her current input. And switchMap does this automatically, and thus gets rid of unwanted rest calls.\nWe can also get additional control on when to fire the rest service depending on the length of the user's input. For example, in this demo, I fire the rest call only when the user has entered at least 2 characters. If not, then I return an observable of empty array (using of([])).\n \n\n\n  \n  \n  Back to the Component:\n\n\nWe tap onto the above observable and use async pipe to subscribe to it. Since we are completely using observables, we can also use the OnPush change-detection-strategy.\n\n \n@angular/cli - 12.1.0\nGitHub\n \nCheers!",
+          "link": "https://dev.to/anirbmuk/auto-complete-with-angular-material-and-rxjs-3b8k",
+          "publishedOn": "2021-07-03T14:56:36.000Z",
+          "wordCount": 699,
+          "title": "Auto-complete with Angular material and RxJS"
+        },
+        {
+          "id": "https://dev.to/anirbmuk/implement-scroll-to-top-in-angular-1e03",
+          "author": "Anirban Mukherjee",
+          "description": "@angular/cli: 12.0.0\nGitHub\nIn this article I would like to talk about an often-used feature on a user-centric application - the scroll-to-top button for allowing a user to quickly scroll to the top of the page, without having to use the mouse. The end result would be something like this:\n\nLet's break up this implementation into 3 steps:\n✔️ Set up the scroll-to-top button (with some nice styling).\nI have used @angular/material for some easy styling. In order to display the button fixed to the bottom-right corner of the page (and some nice hover effects with opacity), I have used the below properties on the :host -\n\nThis is an interesting section. To begin with, we need to set up an Observable on the scroll event of the DOCUMENT. You may directly access the document object, or you may use an InjectionToken<Document>, provided by angular.\nThis observable starts emitting values as soon as the user starts to scroll up or down. Now we are not really interested in the actual scroll event, but we would like to check something important every time the scroll event is fired - and that is the scroll position. Angular makes this quite simple with the ViewportScroller service from @angular/common package. This service has few useful methods, and I am going to use two of them - getScrollPosition and scrollToPosition.\n\nThe getScrollPosition method returns an array of 2 numbers - the X and Y coordinate. I check if the Y coordinate is more than 0 (which means the user has scrolled down) and I enable the scroll-to-top button.\nFor this last part, I make use of the scrollToPosition method, which again takes in the X and Y coordinates, and I scroll to [0, 0].\n\nCheers :-)",
+          "link": "https://dev.to/anirbmuk/implement-scroll-to-top-in-angular-1e03",
+          "publishedOn": "2021-06-28T12:13:45.000Z",
+          "wordCount": 689,
+          "title": "Implement scroll-to-top in Angular"
+        },
+        {
+          "id": "https://dev.to/handsometunex123/the-juice-of-reactive-programming-in-angular-3mel",
+          "author": "The RxJS guy",
+          "description": "Reactive programming in angular in the most basic form is the adoption of RxJS (Reactive Extensions for JavaScript) to angular application development. RxJS is a powerful library adopted in Angular that makes asynchronous operations super easy. \nThis article focuses on revealing to you the juice of reactive programming by providing you a reactive approach to solving one of the most common real world problems encounted by angular developers. \nEnough of the long talks, lets get our hands dirty...\nImagine you were assigned a task to create a users table(mat-table) that is populated mainly by making an asynchronous call to an endpoint that returns a list of users. The table should:\nHave on it server side pagination.\n\n\nA search parameter to filter the entire records of users based on specified …",
+          "link": "https://dev.to/handsometunex123/the-juice-of-reactive-programming-in-angular-3mel",
+          "publishedOn": "2021-06-28T10:48:28.000Z",
+          "wordCount": 3444,
+          "title": "The JUICE of Reactive Programming in Angular"
         }
       ]
     }

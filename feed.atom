@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-19T01:13:40.590Z</updated>
+    <updated>2021-07-19T01:47:53.328Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全デバイス・全ブラウザで PDF を読みたい - Kaizen Platform 開発者ブログ]]></title>
+        <id>https://developer.kaizenplatform.com/entry/2021/07/19/090000</id>
+        <link href="https://developer.kaizenplatform.com/entry/2021/07/19/090000"/>
+        <updated>2021-07-19T00:59:51.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR PDF を画面に埋め込む方法は、iframe, object, embed, Viewer（3rd party library の利用）がある。 ブラウザネイティブの PDF 表示機能はブラウザ差異が大きいため、PDF を canvas や svg に変換して表示するライブラリやビューアーを利用した方が安定する。 しかし 3rd party library / service の利用はバンド...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しいCSSリセットはシンプルで軽量！CSSの新しい機能を使用したCSSリセット -The New CSS Reset | コリス]]></title>
+        <id>https://coliss.com/articles/build-websites/operation/css/the-new-css-reset.html</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/the-new-css-reset.html"/>
+        <updated>2021-07-19T00:55:01.000Z</updated>
+        <summary type="html"><![CDATA[CSSの新しい機能は主要ブラウザでのサポートが進んでいます。例えば、1年くらい前にサポートされはじめたセレクタの詳細度を0にする:where()も、現在では主要ブラウザのすべてでサポートされています。 CSSの新しい機能を使用した、シンプルで軽量なCSSのリセットを紹介します。 :where()や:not()、allプロパティやunset...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tc39/proposal-array-grouping: A proposal to make grouping of array items easier]]></title>
         <id>https://ecmascript-daily.github.io/2021/07/19/tc39-proposal-array-grouping-a-proposal-to-make-grouping-of-array-items-easier</id>
@@ -159,6 +179,16 @@ Now open your terminal and run the below command to generate the documentation. 
         <link href="https://gigazine.net/news/20210718-apple-amazon-fakespot/"/>
         <updated>2021-07-18T13:05:07.000Z</updated>
         <summary type="html"><![CDATA[Amazonでは商品の評価を上げるために偽レビューを投稿する行為が横行しており、公正な競争を妨げているとして大きな問題になっています。そんな中、偽レビューを検出するサービスを提供しているFakespotのiOS版アプリがApp Storeから削除されたことが話題になっています。 Apple removes Fakespot from App Store after ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QUIC event definitions for qlog の紹介 - Qiita]]></title>
+        <id>https://qiita.com/neko-suki/items/604095f60ec5f334d896</id>
+        <link href="https://qiita.com/neko-suki/items/604095f60ec5f334d896"/>
+        <updated>2021-07-18T11:51:51.000Z</updated>
+        <summary type="html"><![CDATA[本記事ではIETFで標準化が行われている、QUICなどのロギングを行うフォーマットであるqlogの、QUICに関するイベントを定義している「QUIC event definitions for qlog」について紹介します。 QUIC event definitions for qlog とは qlogには発生したイベントを記録するeventという情報をロギングする仕組みがあります。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -597,6 +627,22 @@ The post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tric
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to implement drag & drop using RxJS]]></title>
+        <id>https://dev.to/thisdotmedia/how-to-implement-drag-drop-using-rxjs-16m9</id>
+        <link href="https://dev.to/thisdotmedia/how-to-implement-drag-drop-using-rxjs-16m9"/>
+        <updated>2021-07-16T18:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Drag & drop is one of the features that can be very useful for the end-users of our application. Additionally, it is a great example to show how RxJS can be used to handle drag-and-drop functionality with ease. Let's see how we can implement the simple dragging behavior.
+To follow along with all the code examples in this article, I recommend opening this Stackblitz starter example. All examples will be based on this starter project.
+Before we start the implementation, let's consider what the drag and drop functionality consists of. It can be split into 3 phases:
+drag start
+drag move
+drag end (drop)
+In a nutshell, drag start happens whenever we press mouse down on a draggable item. Following that each time we move a cursor a drag move event should be emitted. Drag move should continue, but …]]></summary>
+        <author>
+            <name>Chris Trześniewski</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vue 3 Migration Build: safely upgrade your app to Vue 3 (Pt. 1) | Vue Mastery]]></title>
         <id>https://www.vuemastery.com/blog/vue-3-migration-build/</id>
         <link href="https://www.vuemastery.com/blog/vue-3-migration-build/"/>
@@ -981,6 +1027,29 @@ The second reason was to rewrite this project again from scratch using Angular 1
         <summary type="html"><![CDATA[中国の会社が開発した交通情報が投影されるフロントガラス。 目的地までのナビ、速度、障害物、道路標識などの情報が確認できる。 カーナビが不要になって、運転に集中できる画期的なアイテム。 https://t.co/2F2Yv5ZJTs]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jasmine Marbles now supports RxJS 6/7 with jest-circus]]></title>
+        <id>https://dev.to/brandontroberts/jasmine-marbles-now-supports-rxjs-6-7-with-jest-circus-2c9g</id>
+        <link href="https://dev.to/brandontroberts/jasmine-marbles-now-supports-rxjs-6-7-with-jest-circus-2c9g"/>
+        <updated>2021-07-15T21:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Sharon McCutcheon on Unsplash
+Jasmine marbles is a set of RxJS marble testing helpers for writing tests with Jasmine or Jest.
+Jest version 27 was recently released, which introduces a completely new default test runner named jest-circus. The previous jest-jasmine2 test runner contained many jasmine-specific APIs that are not in jest-circus.
+With the release of version jasmine-marbles 0.8.3, both test runners are supported with RxJS 6.x. RxJS 7.x is supported in versions 0.9.0 and later, but the majority of users are on RxJS 6.x, which is what the latest major releases of Angular, Nx, NgRx, and many other libraries use.
+To install the latest version:
+npm install jasmine-marbles@latest --save-dev
+
+or
+yarn install jasmine-marbles@latest --dev
+
+If you need to revert back to the previous test runner, set the testRunner in your jest.config.js to jest-jasmine2.
+To learn more about testing RxJS using marble diagrams in general, check out the marble testing guide in the RxJS docs.
+If you've found jasmine-marbles useful ❤️, please consider sponsoring me on GitHub as a monthly or one-time sponsor. 
+You can also follow me on Twitter, subscribe on YouTube, and join me for live streams on Twitch.]]></summary>
+        <author>
+            <name>Brandon Roberts</name>
         </author>
     </entry>
     <entry>
@@ -1610,6 +1679,55 @@ ng-kyoto 代表 / ...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Auto-complete with Angular material and RxJS]]></title>
+        <id>https://dev.to/anirbmuk/auto-complete-with-angular-material-and-rxjs-3b8k</id>
+        <link href="https://dev.to/anirbmuk/auto-complete-with-angular-material-and-rxjs-3b8k"/>
+        <updated>2021-07-03T14:56:36.000Z</updated>
+        <summary type="html"><![CDATA[This article talks about an efficient way to implement auto-complete feature using Angular concepts. The key components used in this demonstration are as follows:
+Angular Material (v12) Autocomplete module.
+RxJS for action and data binding.
+Angular in-memory-web-api for REST services (Refer to in-memory-web-api).
+ 
+
+ 
+
+ 
+
+
+
+
+Let us now see how we go about it:
+The front-end consists of an angular autocomplete module. The input event taps the user's keystrokes and emits a new value into an action subject.
+
+AutocompleteService class.
+
+The action BehaviorSubject starts with an empty string. The action$ is an observable built out of this subject.
+
+GET request. Since this is a higher-order observable (i.e., an observable returning an observable), we make use of one of the higher order functions like switchMap.
+
+switchMap (and not other higher order functions like concatMap or mergeMap)? The reason is: switchMap unsubscribes from the previous observable once a new value is emitted by the parent observable.
+What this means is - as soon as the user types in another letter or removes a letter, there is simply no need to subscribe and execute the rest call for the previous values. The user is only interested to see the results of the search according to his/her current input. And switchMap does this automatically, and thus gets rid of unwanted rest calls.
+We can also get additional control on when to fire the rest service depending on the length of the user's input. For example, in this demo, I fire the rest call only when the user has entered at least 2 characters. If not, then I return an observable of empty array (using of([])).
+ 
+
+
+  
+  
+  Back to the Component:
+
+
+We tap onto the above observable and use async pipe to subscribe to it. Since we are completely using observables, we can also use the OnPush change-detection-strategy.
+
+ 
+@angular/cli - 12.1.0
+GitHub
+ 
+Cheers!]]></summary>
+        <author>
+            <name>Anirban Mukherjee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021年7月第1週号 1位は，サインアップ／ログインのUXを良くするヒント，気になるネタは，「Chrome」のサードパーティークッキー廃止が2023年に延期 ── 週刊Webテク通信]]></title>
         <id>https://gihyo.jp/design/clip/01/weekly-web-tech/202107/01</id>
         <link href="https://gihyo.jp/design/clip/01/weekly-web-tech/202107/01"/>
@@ -1627,6 +1745,47 @@ ng-kyoto 代表 / ...]]></summary>
         <summary type="html"><![CDATA[現在のWebサイトは整然としていてモバイルフレンドリーで、さまざまな手段で来訪する方のアクセシビリティを考慮したデザインをされています。しかし、ユーザーから情報を集めるフォームの作成においては、自分たちの選択が間違ってい]]></summary>
         <author>
             <name>UX MILK編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implement scroll-to-top in Angular]]></title>
+        <id>https://dev.to/anirbmuk/implement-scroll-to-top-in-angular-1e03</id>
+        <link href="https://dev.to/anirbmuk/implement-scroll-to-top-in-angular-1e03"/>
+        <updated>2021-06-28T12:13:45.000Z</updated>
+        <summary type="html"><![CDATA[@angular/cli: 12.0.0
+GitHub
+In this article I would like to talk about an often-used feature on a user-centric application - the scroll-to-top button for allowing a user to quickly scroll to the top of the page, without having to use the mouse. The end result would be something like this:
+
+Let's break up this implementation into 3 steps:
+✔️ Set up the scroll-to-top button (with some nice styling).
+I have used @angular/material for some easy styling. In order to display the button fixed to the bottom-right corner of the page (and some nice hover effects with opacity), I have used the below properties on the :host -
+
+This is an interesting section. To begin with, we need to set up an Observable on the scroll event of the DOCUMENT. You may directly access the document object, or you may use an InjectionToken<Document>, provided by angular.
+This observable starts emitting values as soon as the user starts to scroll up or down. Now we are not really interested in the actual scroll event, but we would like to check something important every time the scroll event is fired - and that is the scroll position. Angular makes this quite simple with the ViewportScroller service from @angular/common package. This service has few useful methods, and I am going to use two of them - getScrollPosition and scrollToPosition.
+
+The getScrollPosition method returns an array of 2 numbers - the X and Y coordinate. I check if the Y coordinate is more than 0 (which means the user has scrolled down) and I enable the scroll-to-top button.
+For this last part, I make use of the scrollToPosition method, which again takes in the X and Y coordinates, and I scroll to [0, 0].
+
+Cheers :-)]]></summary>
+        <author>
+            <name>Anirban Mukherjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JUICE of Reactive Programming in Angular]]></title>
+        <id>https://dev.to/handsometunex123/the-juice-of-reactive-programming-in-angular-3mel</id>
+        <link href="https://dev.to/handsometunex123/the-juice-of-reactive-programming-in-angular-3mel"/>
+        <updated>2021-06-28T10:48:28.000Z</updated>
+        <summary type="html"><![CDATA[Reactive programming in angular in the most basic form is the adoption of RxJS (Reactive Extensions for JavaScript) to angular application development. RxJS is a powerful library adopted in Angular that makes asynchronous operations super easy. 
+This article focuses on revealing to you the juice of reactive programming by providing you a reactive approach to solving one of the most common real world problems encounted by angular developers. 
+Enough of the long talks, lets get our hands dirty...
+Imagine you were assigned a task to create a users table(mat-table) that is populated mainly by making an asynchronous call to an endpoint that returns a list of users. The table should:
+Have on it server side pagination.
+
+
+A search parameter to filter the entire records of users based on specified …]]></summary>
+        <author>
+            <name>The RxJS guy</name>
         </author>
     </entry>
     <entry>
