@@ -229,6 +229,123 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01267/00104/",
+          "author": null,
+          "description": "ほぼ無尽蔵ともいえるナトリウム（Na）イオンを使うNaイオン2次電池（NIB）の本格的な量産が近く始まりそうだ。出力密度の高さに加え、潜在的にはエネルギー密度でもリチウム（Li）イオン2次電池を超えるほど高い。定置型蓄電池では、比較的早い時期に主役の座に座る可能性も出てきた。 「本当かどうか、まだ分からない...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01267/00104/",
+          "publishedOn": "2021-07-18T21:39:16.000Z",
+          "wordCount": 318,
+          "title": "ほぼ無尽蔵のナトリウムが蓄電池に、定置型向けでいざ本格量産へ | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01682/071300008/",
+          "author": null,
+          "description": "経済産業省と東京証券取引所が2021年6月に発表した「デジタルトランスフォーメーション（DX）銘柄 2021」。「日本の先進DX」といえる選定企業の事例を厳選して取り上げ、DX推進の勘所を探る。セブン＆アイ・ホールディングスはエンジニアを大量に中途採用して内製化を推し進め、DXに挑んでいる。 「セブンイレブン事業を...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01682/071300008/",
+          "publishedOn": "2021-07-18T20:07:46.000Z",
+          "wordCount": 374,
+          "title": "セブン＆アイがエンジニアを大量採用、「DXの内製化」に注力する理由 | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://gigazine.net/news/20210718-apple-amazon-fakespot/",
+          "author": null,
+          "description": "Amazonでは商品の評価を上げるために偽レビューを投稿する行為が横行しており、公正な競争を妨げているとして大きな問題になっています。そんな中、偽レビューを検出するサービスを提供しているFakespotのiOS版アプリがApp Storeから削除されたことが話題になっています。 Apple removes Fakespot from App Store after ...",
+          "link": "https://gigazine.net/news/20210718-apple-amazon-fakespot/",
+          "publishedOn": "2021-07-18T13:05:07.000Z",
+          "wordCount": 210,
+          "title": "AmazonがAppleに「偽レビュー検出アプリ」の削除を求め実際に削除される - GIGAZINE"
+        },
+        {
+          "id": "https://it.srad.jp/story/21/07/18/0838210/",
+          "author": null,
+          "description": "Microsoft は 15 日、Windows 10 バージョン 21H2 に導入予定の新機能を紹介するとともに、Windows 10 Insider Preview 初の 21H2 ビルドとなるビルド 19044.1147 を提供開始した(Windows Experience Blog の記事、 Windows Insider Blog の記事)。 Microsoft は Windows 11 を発表する一方で Windows 10 バージョン 21H...",
+          "link": "https://it.srad.jp/story/21/07/18/0838210/",
+          "publishedOn": "2021-07-18T11:00:02.000Z",
+          "wordCount": 441,
+          "title": "21H2 ビルドの Windows 10 Insider Preview、提供開始 | スラド IT"
+        },
+        {
+          "id": "https://ledge.ai/ndl-clovaocr/",
+          "author": null,
+          "description": "LINEは、国立国会図書館（東京都千代田区）のOCRテキストデータ化プロジェクトに、同社の「CLOVA OCR」が採用されたと発表した。昭和前期以前の資料を中心にした247万点、2億2300万枚を超えるデジタル化資料が2022年3月までにテキストデータ化される。 国立国会図書館では「ビジョン2021-2025 国立国会図書館のデジタル...",
+          "link": "https://ledge.ai/ndl-clovaocr/",
+          "publishedOn": "2021-07-18T09:33:38.000Z",
+          "wordCount": 142,
+          "title": "国立国会図書館、来春までに247万点・2億2300万枚超の資料を全文テキストデータ化へ | Ledge.ai"
+        },
+        {
+          "id": "https://gendai.ismedia.jp/articles/-/85259",
+          "author": null,
+          "description": "最新OSの明確な特徴 アップルは毎年、秋に各種デバイス向けOSの新バージョンを更新するが、その一般向けテスト公開（パブリックベータテスト）がすでに始まっている。 特に多くの人が気になるのは、iPhone向けのOSである「iOS 15」と、iPad向けのOSである「iPadOS 15」だろう。 今回提供される最新OSには、明確な特徴が1...",
+          "link": "https://gendai.ismedia.jp/articles/-/85259",
+          "publishedOn": "2021-07-18T07:19:49.000Z",
+          "wordCount": 175,
+          "title": "賛成！アップルが「iPhoneの中」でできることを増やす2つの理由（西田 宗千佳） | ブルーバックス | 講談社（1/4）"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP7L4QKHP7LUHBI009.html",
+          "author": null,
+          "description": "台湾の行政院（内閣）の羅秉成報道官は18日、東京五輪の開会式に来賓として出席予定だったオードリー・タンIT担当相の派遣を取りやめると発表した。国際オリンピック委員会（IOC）が参加国・地域に出した新型コロナウイルスの防疫ガイドラインや、日本の防疫対策に協力する必要性を考慮したとしている。 タン氏も18日、...",
+          "link": "https://www.asahi.com/articles/ASP7L4QKHP7LUHBI009.html",
+          "publishedOn": "2021-07-18T05:53:26.000Z",
+          "wordCount": 217,
+          "title": "オードリー・タン氏の五輪開会式派遣を取りやめ　台湾 - 東京オリンピック：朝日新聞デジタル"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210718/k10013145711000.html",
+          "author": null,
+          "description": "台湾当局は、IT担当の閣僚の唐鳳氏、英語名オードリー・タン氏を7月23日に開幕する東京オリンピックにあわせて日本へ派遣する予定でしたが、「開会式の出席者が制限されることになり、唐氏が出席できない可能性がある」として、日本訪問を取りやめると発表しました。 台湾当局は7月10日、唐鳳氏を東京オリンピックに代表...",
+          "link": "https://www3.nhk.or.jp/news/html/20210718/k10013145711000.html",
+          "publishedOn": "2021-07-18T04:15:14.000Z",
+          "wordCount": 23,
+          "title": "台湾 オードリー・タン氏の五輪派遣取りやめ 開会式出席制限で | オリンピック・パラリンピック | NHKニュース"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/jtf2021-compare-aws-cdk-and-terraform-from-n-perspectives/",
+          "author": null,
+          "description": "はじめに CX事業本部 IoT事業部の佐藤智樹です。 July Tech Festa 2021 というイベントで「AWS CDKとTerraformをn個の観点で徹底比較」というタイトルで登壇しました。 登壇資料 登壇経緯 以前のPJで両方使う機会があったのと、たまたま今回のイベントのテーマが「#今更聞けないIT技術」であり、議題として挙がった中の...",
+          "link": "https://dev.classmethod.jp/articles/jtf2021-compare-aws-cdk-and-terraform-from-n-perspectives/",
+          "publishedOn": "2021-07-18T04:10:10.000Z",
+          "wordCount": 150,
+          "title": "July Tech Festa 2021に「AWS CDKとTerraformをn個の観点で徹底比較」というタイトルで登壇しました | DevelopersIO"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8549f37f6bd2eda69b2366738a21cf3e5e5f04e0",
+          "author": null,
+          "description": "台湾のデジタル担当相、唐鳳（オードリー・タン）氏＝台北市の台湾行政院で2020年11月23日、福岡静哉撮影 台湾行政院（内閣）は18日、デジタル担当相の唐鳳（オードリー・タン）氏（40）の日本への派遣を中止すると発表した。唐氏は23日の東京オリンピック開会式に出席する予定だった。唐氏は18日、「日本への感謝の心は...",
+          "link": "https://news.yahoo.co.jp/articles/8549f37f6bd2eda69b2366738a21cf3e5e5f04e0",
+          "publishedOn": "2021-07-18T03:45:45.000Z",
+          "wordCount": 70,
+          "title": "オードリー・タン氏、訪日中止　開会式出席制限「感謝の心変わらず」（毎日新聞） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210718/k00/00m/030/048000c",
+          "author": null,
+          "description": "台湾のデジタル担当相、唐鳳（オードリー・タン）氏＝台北市の台湾行政院で2020年11月23日、福岡静哉撮影 台湾行政院（内閣）は18日、デジタル担当相の唐鳳（オードリー・タン）氏（40）の日本への派遣を中止すると発表した。唐氏は23日の東京オリンピック開会式に出席する予定だった。唐氏は18日、「日本への感謝の心は...",
+          "link": "https://mainichi.jp/articles/20210718/k00/00m/030/048000c",
+          "publishedOn": "2021-07-18T03:43:51.000Z",
+          "wordCount": 545,
+          "title": "オードリー・タン氏、訪日中止　開会式出席制限「感謝の心変わらず」 | 毎日新聞"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGKKZO73950020W1A710C2MY1000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら SNS（交流サイト）を蝕（むしば）む偽りや誤った情報はどこに潜んでいるのか。膨大な数の個人がやり取りするネットワークにあって、その足取りをたどるのは不可能だと...",
+          "link": "https://www.nikkei.com/article/DGKKZO73950020W1A710C2MY1000/",
+          "publishedOn": "2021-07-18T00:24:59.000Z",
+          "wordCount": 110,
+          "title": "オピニオンの科学(2)フェイクの姿が見えた: 日本経済新聞"
+        },
+        {
+          "id": "https://diamond.jp/articles/-/276498",
+          "author": null,
+          "description": "Google 認定トレーナー/イーディーエル株式会社代表取締役 「Google 認定トレーナー」および「Google Cloud Partner Specialization Education」の2つを保有する国内唯一の女性トレーナー経営者。 数時間でITスキルを劇的に引き上げる指導に定評があり、「Google 最高位パートナー」と呼ばれ、ITビギナーから絶大な信頼...",
+          "link": "https://diamond.jp/articles/-/276498",
+          "publishedOn": "2021-07-17T19:17:16.000Z",
+          "wordCount": 287,
+          "title": "【9割の人が知らないGoogleの使い方】埋もれた重要メールを「1秒」で発見できるGmailの使い方 | Google 式10Xリモート仕事術 | ダイヤモンド・オンライン"
+        },
+        {
           "id": "https://gigazine.net/news/20210717-record-screen-with-vlc/",
           "author": null,
           "description": "PCでの作業を記録したり、ソフトウェアの使い方を説明したり、PCの画面を録画できるとお役立ちなケースはよくあります。PCの画面を録画するにはWindowsの標準搭載されている「ゲームバー」機能や、オープンソースの配信ソフト「OBS」を利用する方法がありますが、このほかに「メディアプレイヤーソフト『VLC』で録画する...",
@@ -236,6 +353,24 @@
           "publishedOn": "2021-07-17T15:11:20.000Z",
           "wordCount": 186,
           "title": "無料でオープンソースのメディアプレイヤー「VLC」で簡単にPCの画面を録画する方法 - GIGAZINE"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/07/17/2021-07-16-intel-rumored-to-be-in-talks-to-buy-chip-manufacturer-globalfoundries-for-30b/",
+          "author": null,
+          "description": "チップ業界でのM&Aとなると、数字は決して小さなものではない。NVIDIA（エヌビディア）がARM（アーム）を400億ドル（約4兆4030億円）で買収したのをはじめ、2020年のチップ業界の4件の取引合計額は1060億ドル（約11兆6680億円）だった。2020年のチップをめぐるM&A騒ぎで1つ驚きだったのは、Intel（インテル）が傍観者の...",
+          "link": "https://jp.techcrunch.com/2021/07/17/2021-07-16-intel-rumored-to-be-in-talks-to-buy-chip-manufacturer-globalfoundries-for-30b/",
+          "publishedOn": "2021-07-17T14:13:29.000Z",
+          "wordCount": 320,
+          "title": "Intelが3.3兆円でチップメーカーGlobalFoundries買収を交渉中との噂 | TechCrunch Japan"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2107/17/news027.html",
+          "author": null,
+          "description": "GeForce RTX 3080／3070周辺から徐々に安く――グラフィックスカード価格の今：古田雄介の週末アキバ速報（1/2 ページ） 五輪開催まで1週間を切ったが、電気街に祭典の風は吹いていない。PCパーツショップはどこも「だいたい（全く）変わらないですね」という。その中で少しずつ変化しているのが、高騰しきったグラフィッ...",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2107/17/news027.html",
+          "publishedOn": "2021-07-17T13:36:59.000Z",
+          "wordCount": 543,
+          "title": "GeForce RTX 3080／3070周辺から徐々に安く――グラフィックスカード価格の今：古田雄介の週末アキバ速報（1/2 ページ） - ITmedia PC USER"
         },
         {
           "id": "https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA",
@@ -247,6 +382,15 @@
           "title": "WindowsがLinuxより優れている点は何ですか？ (OSの設計に関する質問であり、利用者の使い勝手の話ではありません) 。 - Quora"
         },
         {
+          "id": "https://gigazine.net/news/20210717-rufus/",
+          "author": null,
+          "description": "Windows 10の標準機能でディスク領域をフォーマットする時、FAT32形式を選ぶことはできません。オープンソースなフォーマットソフトウェア「Rufus」ならば、無料でUSBメモリーなどをFAT32/NTFS/exFAT/ReFS/ext2/ext3形式でフォーマット可能とのことなので、実際に使ってみました。 Rufus - 起動可能なUSBドライブを簡単...",
+          "link": "https://gigazine.net/news/20210717-rufus/",
+          "publishedOn": "2021-07-17T12:28:39.000Z",
+          "wordCount": 194,
+          "title": "無料でUSBメモリーなどをFAT32/NTFS/exFAT/ReFS/ext2/ext3にフォーマットできる「Rufus」の使い方レビュー - GIGAZINE"
+        },
+        {
           "id": "https://jp.techcrunch.com/2021/07/17/2021-07-06-kill-the-standard-privacy-notice/",
           "author": null,
           "description": "編集部注：本稿の著者Leif-Nissen Lundbæk（レイフ-ニッセン・ルンドベック）氏は、Xaynの共同設立者兼CEO。専門はプライバシー保護を目的としたAIだ。 ーーー 「プライバシー」は誰もが気にする言葉であり、大手テック企業でさえもこの問題に取り組んでいる。最近では、Apple（アップル）がiOS バージョン14.5の要（か...",
@@ -254,6 +398,24 @@
           "publishedOn": "2021-07-17T10:34:54.000Z",
           "wordCount": 331,
           "title": "コラム】消費者の同意を取り付けるためだけのプライバシー通知をやめませんか？ | TechCrunch Japan"
+        },
+        {
+          "id": "https://blog.evsmart.net/test-drive-reports/broken-iga-supercharger/",
+          "author": null,
+          "description": "テスラ『モデル3』パフォーマンスで、東京から伊賀スーパーチャージャーで充電して京都府へ。でもスーパーチャージャー（SC）は故障で使えず、チャデモ急速充電で繋ぐことになり。あてにしていたSCが使えないと、テスラがただの電気自動車になってしまうことを痛感しました。代官山SC開設！ のニュースとともにお伝えし...",
+          "link": "https://blog.evsmart.net/test-drive-reports/broken-iga-supercharger/",
+          "publishedOn": "2021-07-17T09:59:38.000Z",
+          "wordCount": 1514,
+          "title": "スーパーチャージャー故障でテスラ モデル3も「ただの電気自動車になるのを実感」レポート | EVsmartブログ"
+        },
+        {
+          "id": "https://ledge.ai/ai-quest-2021-start/",
+          "author": null,
+          "description": "AI人材が不足している――。 日本国内でAI活用が進まない大きな理由のひとつに「AI人材の不足」が第一に挙げられる。これは、中小企業だけでなく大企業にも言える話だ。 政府としても現状を打開するために政策を打ち出している。そのなかのひとつに経済産業省が推進するAI人材育成事業「AI Quest」がある。 AI Questを担当...",
+          "link": "https://ledge.ai/ai-quest-2021-start/",
+          "publishedOn": "2021-07-17T07:12:35.000Z",
+          "wordCount": 209,
+          "title": "経済産業省のAI人材育成事業「AI Quest」 評判の良い理由は「学んで終わりではない」内容構成 | Ledge.ai"
         },
         {
           "id": "https://jp.techcrunch.com/2021/07/17/2021-07-07-youtubes-recommender-ai-still-a-horrorshow-finds-major-crowdsourced-study/",
@@ -265,6 +427,15 @@
           "title": "YouTubeの動画レコメンドAIは依然として悪行を重ねていることが大規模調査で判明 | TechCrunch Japan"
         },
         {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1338868.html",
+          "author": null,
+          "description": "グーグル（Google）は、グループウェア「Google Workspace」において、7月初旬から新たな有料プラン「Google Workspace Individual」の提供を開始している。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1338868.html",
+          "publishedOn": "2021-07-17T04:11:42.000Z",
+          "wordCount": 109,
+          "title": "グーグルから有料プラン「Google Workspace Individual」、個人事業主など向けに - ケータイ Watch"
+        },
+        {
           "id": "https://www.cnn.co.jp/travel/35174051.html",
           "author": null,
           "description": "グーグルマップが示す登山ルートについて「死の危険がある」と英国の登山団体が警告/Google/Mountaineering Scotland （ＣＮＮ） 英スコットランドの複数の登山団体はこのほど、ベンネビス山などの登頂を目指す登山客がグーグルマップによって「死に至る可能性」のあるルートに誘導されていると警告を発した。 英ジョン...",
@@ -272,6 +443,15 @@
           "publishedOn": "2021-07-17T03:26:52.000Z",
           "wordCount": 166,
           "title": "CNN.co.jp : グーグルマップ、「死の可能性」のある登山ルートに誘導　英団体が警告"
+        },
+        {
+          "id": "https://ledge.ai/en-japan-web-development-ranking/",
+          "author": null,
+          "description": "TOP > Article Theme > 人工知能（AI）ニュース > Webサービスで使用される開発言語 JavaScriptとPHPが1位、Pythonは3位 エン・ジャパン株式会社は7月8日、「Webサービスの開発環境」に関するランキングを発表した。「Webサービスの開発で使用されている開発言語 TOP10」は、1位がJavaScriptとPHP、3位はPythonだった。 ...",
+          "link": "https://ledge.ai/en-japan-web-development-ranking/",
+          "publishedOn": "2021-07-17T03:25:16.000Z",
+          "wordCount": 150,
+          "title": "Webサービスで使用される開発言語 JavaScriptとPHPが1位、Pythonは3位 | Ledge.ai"
         },
         {
           "id": "https://satoru-takeuchi.hatenablog.com/entry/2021/07/16/231642",
@@ -364,6 +544,15 @@
           "title": "ぼくのかんがえたさいきょうのデータフェッチ 2021Summer🏄‍♂️【Next.js / Hasura】"
         },
         {
+          "id": "https://japan.cnet.com/article/35174005/",
+          "author": null,
+          "description": "Microsoftは、オンラインで開催中のパートナー向けカンファレンス「Microsoft Inspire」のセッションで、「Windows 365 Cloud PC」のSKUの1つについて正式価格と思われる情報を明らかにした。 Microsoftは、Windows 365を「Business」と「Enterprise」の2種類のプランで提供することを明らかにしている。セッションを視...",
+          "link": "https://japan.cnet.com/article/35174005/",
+          "publishedOn": "2021-07-16T13:30:07.000Z",
+          "wordCount": 483,
+          "title": "マイクロソフトの「Windows 365」、構成の1つは月額約3400円 - CNET Japan"
+        },
+        {
           "id": "https://www.oreilly.co.jp//books/9784873119380/",
           "author": null,
           "description": "Facebookが開発したJavaScriptライブラリ「React」の解説書。2013年にオープンソース化されたReactですが、ここ数年で大きな変更が加えられ、またReactを取り巻くエコシステムも大きく変化しました。本書では実際に動くコンポーネントを作りながら、最新のReactの記法について解説しつつ、最新のツールやライブラリも紹...",
@@ -418,6 +607,15 @@
           "title": "#CloudNativeDB NewSQLへの誘い - Speaker Deck"
         },
         {
+          "id": "https://aiquest.meti.go.jp/2021/",
+          "author": null,
+          "description": "AI Questは、参加者同士が学び合い、 高め合いながら AI活用を通した企業の課題解決方法を 身に付けるプログラムです。 About背景・事業紹介 近年、AI技術が加速度的に発展している中、企業におけるAI活用のニーズの高まりを受け、 特にAI・データを用いて企業の課題を解決できる人材が求められています。 経済産業省は...",
+          "link": "https://aiquest.meti.go.jp/2021/",
+          "publishedOn": "2021-07-16T11:58:49.000Z",
+          "wordCount": 151,
+          "title": "AI Quest 2021｜SIGNATE"
+        },
+        {
           "id": "https://nlab.itmedia.co.jp/nl/articles/2107/16/news150.html",
           "author": null,
           "description": "リモートワークで1年以上PCに接続しっぱなしのスマホの電池が、フタを押し上げるほど膨張して酒蒸しハマグリのような状態に。Twitterで話題の人ごとではない体験談、専門家に原因と対策を聞いてみました。 「久々に出社するとこの状態に…」 投稿者のおかず（@pafuhana1213）さんが久しぶりに出社すると、PCに接続してい...",
@@ -434,6 +632,15 @@
           "publishedOn": "2021-07-16T11:02:47.000Z",
           "wordCount": 70,
           "title": "LEGOのおもちゃに見える本物の銃、非難の嵐で製造中止へ | ギズモード・ジャパン"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/16/news166.html",
+          "author": null,
+          "description": "検知困難な「ファイルレスマルウェア」、過去には三菱電機も被害に　対策の鍵は「振る舞い検知」　専門家が解説（1/2 ページ） 一見無害なファイルでありながら、メモリ空間で悪さをするため検知が難しいといわれる「ファイルレスマルウェア」。その攻撃が、2019年に比べて2020年は888％増加した――セキュリティサービス...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/16/news166.html",
+          "publishedOn": "2021-07-16T11:02:03.000Z",
+          "wordCount": 157,
+          "title": "検知困難な「ファイルレスマルウェア」、過去には三菱電機も被害に　対策の鍵は「振る舞い検知」　専門家が解説（1/2 ページ） - ITmedia NEWS"
         },
         {
           "id": "https://tjo.hatenablog.com/entry/2021/07/16/190000",
@@ -562,6 +769,15 @@
           "title": "スケジュールにバッファを設けるのは悪か？ - ユニファ開発者ブログ"
         },
         {
+          "id": "https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-system",
+          "author": null,
+          "description": "同じ情報を6種類のシステムに入力、山積みのデータ…コロナ禍で忙殺される保健所。東大のチームが救世主に感染者が増えると忙しくなる各地の保健所。その負担を増やしている一つに膨大な入力作業があります。東大のチームに応援を頼み、入力作業の効率化を図る足立保健所に取材しました。",
+          "link": "https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-system",
+          "publishedOn": "2021-07-16T04:20:03.000Z",
+          "wordCount": 172,
+          "title": "同じ情報を6種類のシステムに入力、山積みのデータ…コロナ禍で忙殺される保健所。東大のチームが救世主に"
+        },
+        {
           "id": "https://devblog.thebase.in/entry/2021/07/16/085751",
           "author": null,
           "description": "こんにちは。BASEの藤川です。 緊急事態宣言も続く状況下で、当社もリモートワーク（Work From Home）中心の仕事の進め方をしています。ネット系企業は、幸いにしてVPN、Slack、GitHubやドキュメント管理ツール、その他仕事に必要なSaaSやZOOMがオンライン化しているため仕事の作業そのものは、それほど違和感なく自宅か...",
@@ -643,6 +859,15 @@
           "title": "モダンアジャイルについて - やっとむでぽん"
         },
         {
+          "id": "https://note.com/4bata/n/nec40df9eb61f",
+          "author": null,
+          "description": "柴田（@4bata）です。1年以上試行錯誤して「これがひとつの答えだ！」というのが見えました。プレゼンやワークショップでも使えますし、普通の会議でも使えます。 いいまとめのツイートがあったので最初に引用 目から鱗な実践のコツ！ ・オンライン会議はビデオオフ＆ミュートで良い ・司会はDJ感覚で ・フォームを使っ...",
+          "link": "https://note.com/4bata/n/nec40df9eb61f",
+          "publishedOn": "2021-07-11T01:26:24.000Z",
+          "wordCount": 66,
+          "title": "オンラインの会議で参加者の発言を活発にするgoogleフォーム活用法｜柴田史郎｜note"
+        },
+        {
           "id": "https://aws.amazon.com/jp/builders-flash/202107/chat-container-specialist-2/",
           "author": null,
           "description": "こんにちは、テクニカルソリューションアーキテクトの原田です。 「スペシャリストから学ぶコンテナ技術 第 1 回」では、環境差分をなくすための手段の 1 つとして、アプリケーションの構成要素のうち、アプリケーションコード、ランタイム、ライブラリなどの依存物をパッケージングして、隔離された環境で実行するコン...",
@@ -674,6 +899,15 @@
       "feedUrl": "https://uxmilk.jp/feed",
       "siteUrl": "https://uxmilk.jp",
       "articles": [
+        {
+          "id": "http://admin.uxmilk.jp/?p=75954",
+          "author": "UX MILK編集部",
+          "description": "プロトタイピングやテストを使わないで、現代のプロダクトデザインを想像することは難しくなっています。次の技を駆使することで、想像力を補うことができます。 説明するな、見せろ 今日では多くのプロダクト開発チームが、営業やアイ",
+          "link": "https://uxmilk.jp/75954",
+          "publishedOn": "2021-07-18T22:45:32.000Z",
+          "wordCount": 119,
+          "title": "プロトタイピングで陥りがちな６つの落とし穴"
+        },
         {
           "id": "https://uxmilk.jp/?p=83422",
           "author": "UX MILK編集部",
