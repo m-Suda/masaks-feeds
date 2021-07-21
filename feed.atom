@@ -2,16 +2,379 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-20T00:13:27.048Z</updated>
+    <updated>2021-07-21T00:14:31.130Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[tc39/proposal-arraybuffer-base64: TC39 proposal for ArrayBuffer<->base64 string functions]]></title>
+        <id>https://ecmascript-daily.github.io/2021/07/20/tc39-proposal-arraybuffer-base64-tc39-proposal-for-arraybuffer-base64-string-functions</id>
+        <link href="https://ecmascript-daily.github.io/2021/07/20/tc39-proposal-arraybuffer-base64-tc39-proposal-for-arraybuffer-base64-string-functions"/>
+        <updated>2021-07-20T23:52:09.000Z</updated>
+        <summary type="html"><![CDATA[ArrayBuffer.fromBase64 Proposal]]></summary>
+        <author>
+            <name>ECMAScript Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nine States of Design]]></title>
+        <id>https://css-tricks.com/?p=345062</id>
+        <link href="https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85"/>
+        <updated>2021-07-20T23:34:53.000Z</updated>
+        <summary type="html"><![CDATA[Here’s a really good ol’ post from way back in 2015 all about the nine states of design and how we should think all the edge cases whenever we’re building interfaces. Vince Speelman writes:
+Modern UI teams are designing components 
+…
+The post The Nine States of Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[優れたWebのコピーライターが気をつけている７つのこと]]></title>
+        <id>http://admin.uxmilk.jp/?p=75719</id>
+        <link href="https://uxmilk.jp/75719"/>
+        <updated>2021-07-20T22:45:15.000Z</updated>
+        <summary type="html"><![CDATA[ほとんどのWebサイトはユーザーを説得し行動を促すとき、キャッチコピーに頼っています。それにもかかわらず、多くの会社はキャッチコピーに投資したがりません。 あなたの会社が成功するために、Webサイトはどれほど重要でしょう]]></summary>
+        <author>
+            <name>UX MILK編集部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてブのコメントが大幅に仕様変更されて不評らしいけど、これって、かつ..]]></title>
+        <id>https://anond.hatelabo.jp/20210721041852</id>
+        <link href="https://anond.hatelabo.jp/20210721041852"/>
+        <updated>2021-07-20T21:39:24.000Z</updated>
+        <summary type="html"><![CDATA[はてブのコメントが大幅に仕様変更されて不評らしいけど、これって、かつて行われた「歌舞伎町浄化作戦」みたいなものだよね ぶっちゃけ今のはてブって「５ちゃんねる@はてブ板」ってくらい閉鎖的で偏った傾向の人達のたまり場になってしまっていて、それでも板の中に籠もってよろしくやってるのならともかく、外部サイ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://css-tricks.com/?p=344944</id>
+        <link href="https://www.smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
+        <updated>2021-07-20T20:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Eric doesn’t mince words, especially in the title, but also in the conclusion:
+In modern web design and development, displaying an image is a highly intentional act. Alternate descriptions allow us to explain the content of the image, and in 
+…
+The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マウスが加水分解でベタベタ化した話 - ケータイ Watch]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1339127.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1339127.html"/>
+        <updated>2021-07-20T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[今年に入ってからつい最近まで、デスクトップのMacではロジクールの「MX Anywhere 3 for Mac」というワイヤレスマウスを使っていた。それまで使っていたマウスはロジクールのハイエンドマウス「MX Master 3」で、そのラバー素材部分がベタベタしてきたので、ベタベタしていないMX Anywhere 3 for Macを使い始めた。ベタベタは、恐らくラバー素材（ポリウレタンなど）が加水分解し始めたのだと思われる。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoはいつGCするのか?]]></title>
+        <id>https://zenn.dev/koron/articles/b96cccfa82c0c1</id>
+        <link href="https://zenn.dev/koron/articles/b96cccfa82c0c1"/>
+        <updated>2021-07-20T15:13:11.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR Go(のランタイム)は以下のタイミングで自動的にGCを実行する 前回のGC後に占有していたメモリと同量を新たに確保したとき 前回のGCから2分後 cgroupなどでメモリ制限しているとき(コンテナなど)は、メモリ使用量が制限の50%以上になったら1度以上はGCをするためにruntime.GC()を手動で呼び出すべきである 前置き: ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typewriter Animation That Handles Anything You Throw at It]]></title>
+        <id>https://css-tricks.com/?p=344497</id>
+        <link href="https://css-tricks.com/typewriter-animation-that-handles-anything-you-throw-at-it/"/>
+        <updated>2021-07-20T15:03:40.000Z</updated>
+        <summary type="html"><![CDATA[I watched Kevin Powell’s video where he was able to recreate a nice typewriter-like animation using CSS. It’s neat and you should definitely check it out because there are bonafide CSS tricks in there. I’m sure you’ve seen other CSS …
+The post Typewriter Animation That Handles Anything You Throw at It appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Murtuzaali Surti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アマゾン創業者ベゾス氏 宇宙旅行に成功 | IT・ネット | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210720/k10013151071000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210720/k10013151071000.html"/>
+        <updated>2021-07-20T14:55:21.000Z</updated>
+        <summary type="html"><![CDATA[IT大手アマゾンの創業者ジェフ・ベゾス氏が20日、みずから設立した宇宙開発企業の宇宙船に搭乗し宇宙への飛行に成功しました。 IT大手アマゾンの創業者ジェフ・ベゾス氏はみずから設立した宇宙開発企業「ブルーオリジン」が開発した宇宙船とロケットで商業ベースの宇宙旅行を提供することを目指しています。 20日、テキ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular App Setup With Material - Stoic Q&A #5]]></title>
+        <id>https://dev.to/jamescalam/angular-app-setup-with-material-stoic-q-a-5-4cgo</id>
+        <link href="https://dev.to/jamescalam/angular-app-setup-with-material-stoic-q-a-5-4cgo"/>
+        <updated>2021-07-20T14:42:27.000Z</updated>
+        <summary type="html"><![CDATA[Video #5 in a Stoic Q&A ML app build I'm working through - here I'm setting up the Angular project with Google's Angular Material design.]]></summary>
+        <author>
+            <name>James Briggs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premiere Pro、自動文字起こし機能が正式公開。日本語含む13言語対応でテロップ配置支援も - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1339425.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1339425.html"/>
+        <updated>2021-07-20T14:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Adobeは、Premiere Proにおける自動文字起こし機能などを含む、Creative Cloud動画関連製品向けの新機能を提供開始した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カシオが「パックマン」コラボのレトロなデジタルウォッチ「A100WEPC」を8月21日に発売、価格は1万2100円 | TechCrunch Japan]]></title>
+        <id>https://jp.techcrunch.com/2021/07/20/casio-pacman-digital-watch/</id>
+        <link href="https://jp.techcrunch.com/2021/07/20/casio-pacman-digital-watch/"/>
+        <updated>2021-07-20T13:26:47.000Z</updated>
+        <summary type="html"><![CDATA[CASIO カシオ計算機が、1978年に発売したデジタルウォッチ「F-100」の復刻モデルとなる「A100」の発売に合わせて、パックマンとコラボした特別版「A100WEPC」を8月21日に発売します。希望小売価格は1万2100円（税込）。 F-100は、カシオ計算機として初めて樹脂ケースを採用したクオーツモデルで、ストップウオッチ、電子...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[気象庁、Web広告を再開　2021年度の収入は800万円の見込み - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/20/news149.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/20/news149.html"/>
+        <updated>2021-07-20T13:01:07.000Z</updated>
+        <summary type="html"><![CDATA[気象庁は公式ページへのWeb広告の掲載を再開した。2021年度は800万円の広告収入を見込む。収入は、公式ページに導入しているシステムの運用経費に充てる。 気象庁は7月19日、公式ページへのWeb広告の掲載を約5カ月ぶりに再開した。2021年度は800万円の広告収入を見込む。収入は、公式ページへのアクセス集中を回避するた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新参者だけどバーンアウトしかけているチームを立て直す - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/nasum/xin-can-zhe-dakedobanautosikaketeirutimuwoli-tezhi-su</id>
+        <link href="https://speakerdeck.com/nasum/xin-can-zhe-dakedobanautosikaketeirutimuwoli-tezhi-su"/>
+        <updated>2021-07-20T12:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Transcript ৽ࢀऀ͚ͩͲόʔϯΞ΢τ͠ ͔͚͍ͯΔνʔϜΛཱͯ௚͢ @ࣄۀΛՃ଎ͤ͞Δ։ൃνʔϜͮ͘Γ גࣜձࣾΧϛφγ ಹਢཧ໵ 2021/07/20 None ࢲͷΧϛφγྺ • 3݄ɹΧϛφγத్ೖࣾ • 4݄ɹςοΫϦʔυഈ໋ • 5݄ɹνʔϜ෼ׂޙ ύϑΥʔϚϯεվળνʔϜॴଐ • 6݄ɹύϑΥʔϚϯεվળνʔϜͰؤுΔ • 7݄ɹνʔϜ࠶ฤத ࠓճ͸νʔϜͷվળʹ૸Γճͬͨ 4ϲ݄Ͱ΍ͬͨ͜ͱʹ͍ͭͯ࿩͠·͢ ೖࣾ࣌ʹײͨ͡ҧ࿨ײ ײͨ͡ҧ࿨ײ • εΫϥϜͳͷʹগ਺͔͠ҙݟΛݴ͍ͬͯͳ͍ • νʔϜͰվળ͍ͯ͘͠ྲྀΕʹͳ͍ͬͯͳ͍ʁ • ΤϯδχΞϝϯόʔ͕ർΕ͍ͯΔ • ேձݟ౉ͯ͠΋ݩؾ͕ͳ͍ؾ͕͢Δ • ົʹָ؍తͳܦӦਞ • ͦΜͳঢ়ଶͳͷʹͲ͏ͯ͠ʁ Կͱͳ͘ฉ͍͍ͯͨ࿩ͱҧ͏ ৽ࢀऀ͔ͩΒײ͡Δͷ͔ͳʁ • ҧ࿨ײ͋Δ͚Ͳ͜Ε͕จԽ͔΋஌Εͳ͍ • ർΕ]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェア技術者はなるべくソフトウェア技術で目立つほうがいい 2 - 覚書]]></title>
+        <id>https://satoru-takeuchi.hatenablog.com/entry/2021/07/20/212733</id>
+        <link href="https://satoru-takeuchi.hatenablog.com/entry/2021/07/20/212733"/>
+        <updated>2021-07-20T12:31:31.000Z</updated>
+        <summary type="html"><![CDATA[↓の続きです。 satoru-takeuchi.hatenablog.com 何をするにも知名度の有無によって注目度は変わります。極端な話をすると、誰かがものすごいことを成し遂げたとしても、誰とも接点が無い人がやれば誰にも知られず、すでに名のある人がやれば注目されます。なので知名度があればそれだけでいいか…というとそうではないで...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「6年解けなかった構造があっさり」──タンパク質の“形”を予測する「AlphaFold2」の衝撃　GitHubで公開、誰でも利用可能に - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/20/news136.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/20/news136.html"/>
+        <updated>2021-07-20T10:42:18.000Z</updated>
+        <summary type="html"><![CDATA[「6年解けなかった構造があっさり」──タンパク質の“形”を予測する「AlphaFold2」の衝撃　GitHubで公開、誰でも利用可能に 米Alphabet傘下の英DeepMindが、遺伝子配列情報からタンパク質の立体構造を解析するAI「AlphaFold2」をGitHub上で無償公開し、ネット上で注目を集めている。 米Alphabet傘下の英DeepMindが、遺伝子...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appwrite with Angular SSR]]></title>
+        <id>https://dev.to/meldiron/appwrite-with-angular-ssr-ph</id>
+        <link href="https://dev.to/meldiron/appwrite-with-angular-ssr-ph"/>
+        <updated>2021-07-20T10:05:42.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to @Caryntjen from Discord for bringing this problem up
+Introduction
+Setup Angular project with Appwrite
+Add Angular Universal to our project
+Connect Appwrite to Angular Universal
+
+
+
+Server-side rendering can help your website speed up the initial load and let bots access your dynamic data to improve SEO. This article will show you how to quickly solve a problem with Appwrite data not being load before rendering a page server-side.
+To solve our problem, we will use the library angular-zen. This library will create a zone.js task under the hood, and that helps Angular Universal understand your async code. To learn more about this, you can visit their docs: Angular zen docs
+In SSR, the server doesn't wait for the async code to complete. The result is scrapers and search engines receiv…]]></summary>
+        <author>
+            <name>Matej Bačo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハッピーハンバーグ on Twitter: "大喜利AIがとんでもない競技を考えてきた https://t.co/ozupDZMDe7"]]></title>
+        <id>https://twitter.com/happyhamburg516/status/1417087774369349635</id>
+        <link href="https://twitter.com/happyhamburg516/status/1417087774369349635"/>
+        <updated>2021-07-20T09:39:35.000Z</updated>
+        <summary type="html"><![CDATA[大喜利AIがとんでもない競技を考えてきた https://t.co/ozupDZMDe7]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 6 Best Practices for building Custom Angular Components Library]]></title>
+        <id>https://dev.to/angular/the-6-best-practices-for-building-custom-angular-components-library-5fkc</id>
+        <link href="https://dev.to/angular/the-6-best-practices-for-building-custom-angular-components-library-5fkc"/>
+        <updated>2021-07-20T09:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Let’s explore best practices & lessons learned from building of a custom component library for large enterprise organization the right way!
+Continue reading on Medium »]]></summary>
+        <author>
+            <name>Tomas Trajan 🐻</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心理的安全性とリファクタリングステップでモブプログラミングはめっちゃ輝く - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/haru01/xin-li-de-an-quan-xing-torihuakutaringusutetupudemobupuroguraminguhametutiyahui-ku</id>
+        <link href="https://speakerdeck.com/haru01/xin-li-de-an-quan-xing-torihuakutaringusutetupudemobupuroguraminguhametutiyahui-ku"/>
+        <updated>2021-07-20T09:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Transcript © 2021 ESM, Inc. ⼼理的安全性とリファクタリングのステップ で、モブプログラミングはめっちゃ輝く 1 2021年6月26日 株式会社永和システムマネジメント Scrum Fest Osaka 2021 スポンサーセッション © 2021 ESM, Inc. 今⽇のメンバー いえぴょん くんみほ ふじみ たくみ © 2021 ESM, Inc. 宣伝 3 © 2021 ES...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『いじめは起きるもの』と認識して学校のシステムに反映されている例→日本のスタンスとの違いが話題に「初動がホント早い」 - Togetter]]></title>
+        <id>https://togetter.com/li/1747516</id>
+        <link href="https://togetter.com/li/1747516"/>
+        <updated>2021-07-20T09:19:10.000Z</updated>
+        <summary type="html"><![CDATA[🇺🇸しまき - 「コミュ障居酒屋」スペース（土曜日夕方４時）やってます。 @readeigo 私の知る限りアメリカの公立校は「子供っていじめるものだ」と認識しているので ✅子供が同メンツで固定されず流動的 ✅毎年クラス替え。同クラスになりたくない子を申請 ✅いじめた子は即(二日等）謹慎処分 ✅公立校でも学校転校は容易...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular vs React 2021: Which JS Framework your Project Requires?]]></title>
+        <id>https://dev.to/thirdrocktechno/angular-vs-react-2021-which-js-framework-your-project-requires-2lb5</id>
+        <link href="https://dev.to/thirdrocktechno/angular-vs-react-2021-which-js-framework-your-project-requires-2lb5"/>
+        <updated>2021-07-20T09:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+It’s quite easy to get drowned in the sea of Angular vs React 2021 and React vs Angular 2021 articles out there. Now that you’ve stumbled upon this one, let’s make sure it’s worth your time. 
+In the tug of war of hotly debated questions, Angular Vs React js has also found itself amongst the front runners in this race, directly competing with questions like is the earth flat or round? Glass half full or empty? Apple, a vegetable or fruit? 
+While you may or may not find the answers to these universal dilemmas, let me ensure you find the right JS framework for your project. To make it easy and digestible for you to read, I’ve listed down a head-to-head comparison of Angular Vs React js on the basis of working with the framework, its technical aspects, popularity, and its pros a…]]></summary>
+        <author>
+            <name>Tapan Patel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kintoneのフロントエンド刷新に向けた取り組み - Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
+        <id>https://blog.cybozu.io/entry/2021/07/20/170000</id>
+        <link href="https://blog.cybozu.io/entry/2021/07/20/170000"/>
+        <updated>2021-07-20T08:49:49.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。kintone開発チーム Webエンジニアの村田 (@mys_x101) です。 本記事では kintone のフロントエンドの刷新をはじめるに至った経緯と、その取り組みについて紹介します。 はじめに なぜフロントエンドを刷新するのか 小さくはじめる Proof of Concept リリース戦略を考える 移行前と移行後の技術スタック 既存...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 1.12 へのアップデートと変更事項まとめ - 虎の穴開発室ブログ]]></title>
+        <id>https://toranoana-lab.hatenablog.com/entry/2021/07/20/171205</id>
+        <link href="https://toranoana-lab.hatenablog.com/entry/2021/07/20/171205"/>
+        <updated>2021-07-20T08:22:29.000Z</updated>
+        <summary type="html"><![CDATA[皆さんこんにちは、暑い中ですがお元気ですか？おっくんです。 去る 2021 年 7 月 13 日に Deno 1.12 がリリースされました。 今回も、リリースノートを参考に 変更事項の気になるところを紹介したいと思います。 実行環境 macOS Catalina 10.15.7 Docker イメージ denoland/deno:centos(確認時点では Deno 1.12.0 でし...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 14.6にゼロクリック脆弱性が存在、政府が人権活動家の監視に利用していたとの報告 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/i-message-zeroclick-exploit-spyware-060053761.html</id>
+        <link href="https://japanese.engadget.com/i-message-zeroclick-exploit-spyware-060053761.html"/>
+        <updated>2021-07-20T06:17:12.000Z</updated>
+        <summary type="html"><![CDATA[世界最大の国際人権NGOアムネスティ・インターナショナルは、iPhoneおよびAndroidデバイスを標的としたスパイウェア「Pegasus」に関する報告を発表しました。そのなかで、最新のiOS 14.6を搭載したiPhoneにつき、ユーザーが何も操作しなくてもマルウェアがインストール可能な「ゼロクリック」の脆弱性が利用されたと述べ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I learned from Software Engineering at Google | Swizec Teller]]></title>
+        <id>https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/</id>
+        <link href="https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/"/>
+        <updated>2021-07-20T06:00:05.000Z</updated>
+        <summary type="html"><![CDATA[When I first picked up Software Engineering at Google I thought it was another one of those FAANG books full of lessons that make no sense at human scale. I was surprised, the lessons apply to teams as small as 5. Software Engineering at Google cover This is a "good shit stays" recap. The lessons...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - google-research/deduplicate-text-datasets]]></title>
+        <id>https://github.com/google-research/deduplicate-text-datasets</id>
+        <link href="https://github.com/google-research/deduplicate-text-datasets"/>
+        <updated>2021-07-20T05:21:29.000Z</updated>
+        <summary type="html"><![CDATA[Deduplicating Training Data Makes Language Models Better This repository contains code to deduplicate language model datasets as descrbed in the paper "Deduplicating Training Data Makes Language Models Better" by Katherine Lee, Daphne Ippolito, Andrew Nystrom, Chiyuan Zhang, Douglas Eck, Chris Ca...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webアプリケーション概要 2021 / Web Application Overview 2021 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/cybozuinsideout/web-application-overview-2021</id>
+        <link href="https://speakerdeck.com/cybozuinsideout/web-application-overview-2021"/>
+        <updated>2021-07-20T05:16:08.000Z</updated>
+        <summary type="html"><![CDATA[Transcript Webアプリケーション概要 2021 Yakumoチーム, Slash/CyDE-Cチーム ⾚井駿平 Introduction ▌Webアプリを作るのに必要な基礎知識を話します l 割りと雑多な知識 l 必要になった時にキーワードを思い出して⾃分で調べられ るように whoami ▌⾚井 駿平 l 2013年⼊社 l Yakumoチーム, Slash/CyDE-Cチーム 所属 lAW...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デザイン研修 2021 / Design training 2021 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/cybozuinsideout/design-training-2021</id>
+        <link href="https://speakerdeck.com/cybozuinsideout/design-training-2021"/>
+        <updated>2021-07-20T05:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Transcript 2020/04/20 1 Design & Research デザインの役割と関わり⽅ 開運研修 2021 2020/04/20 2 Design & Research 2020/04/20 2 Design & Research ⾃⼰紹介 樋⽥ 勇也（といだ ゆうや） kintone開発チーム デザイナー 制作会社でWebデザイナー/コーダー/ディレクターを経験後、 2016年にサイボウズ⼊社。現在はkin...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CI/CD 2021 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/cybozuinsideout/cd-2021</id>
+        <link href="https://speakerdeck.com/cybozuinsideout/cd-2021"/>
+        <updated>2021-07-20T01:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Transcript CI/CD ⽣産性向上チーム 宮⽥ 淳平 1 この講義の⽬的 ▌CI/CD の基本的なところを⼀通り知ってもらう ▌キーワードを把握して今後の学習の取っ掛かりとしてもらう 2 CI/CD がない開発の例 3 各⾃の環境で開発 4 リリース前に各⾃の変更を結合して試験 5 不具合だらけ 6 修正を依頼しても原因特定が難しい 7 修...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年のエンジニア新人研修の講義資料を公開しました - Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
+        <id>https://blog.cybozu.io/entry/2021/07/20/100000</id>
+        <link href="https://blog.cybozu.io/entry/2021/07/20/100000"/>
+        <updated>2021-07-20T01:06:21.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。開発本部 オンボーディングチームの酒井（@sakay_y）です。社内のオンボーディングコンテンツを、どんどん社外へ公開することを夢見ています。 2021年もエンジニア新人研修を行いましたので、軽い紹介と、講義資料および一部講義動画（New!）を公開いたします。 2021年のエンジニア研修について 講義資料公...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コーディングに役立つ！Visual Studio Codeのちょっとかゆいところに手が届くような便利な機能とテクニック]]></title>
+        <id>https://coliss.com/?p=30459</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/visual-studio-code-hacks-by-ishakmohmed.html"/>
+        <updated>2021-07-20T00:36:59.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Announces General Availability of Amazon EBS io2 Block Express Volumes]]></title>
+        <id>https://aws.amazon.com/about-aws/whats-new/2021/07/aws-announces-general-availability-amazon-ebs-block-express-volumes/</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2021/07/aws-announces-general-availability-amazon-ebs-block-express-volumes/"/>
+        <updated>2021-07-19T23:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Today AWS announced general availability of io2 Block Express volumes that deliver up to 4x higher throughput, IOPS, and capacity than io2 volumes, and are designed to deliver sub-millisecond latency and 99.999% durability. io2 Block Express refers to io2 volumes running on the EBS Block Express ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Mac Info】Finderのファイル操作術をさらに極めるカスタマイズ20選 〜Macのキホン Vol.2 - PC Watch]]></title>
         <id>https://pc.watch.impress.co.jp/docs/column/macinfo/1339186.html</id>
         <link href="https://pc.watch.impress.co.jp/docs/column/macinfo/1339186.html"/>
         <updated>2021-07-19T23:17:49.000Z</updated>
         <summary type="html"><![CDATA[MacのFinderは、ユーザーの好みに合わせて柔軟にカスタマイズできます。標準状態のFinderは、多くの人にとってわかりやすく使いやすい「量産型仕様」のようなもの。そこから自分の使い方に合わせてチューニングしていくことで、Macが自分仕様へと変わっていきます。日々の作業が効率化すると、同時にMacへの愛着も増してくるでしょう。前回の「ひとつ上をいくFinderによるファイル操作術」に引き続き、今回はオススメのFinderカスタマイズテクニックを20種類紹介します。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon ECS での Bottlerocket の始め方 〜 コンテナ向けのセキュアな Linux ディストリビューション | Amazon Web Services ブログ]]></title>
+        <id>https://aws.amazon.com/jp/blogs/news/getting-started-with-bottlerocket-and-amazon-ecs/</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/getting-started-with-bottlerocket-and-amazon-ecs/"/>
+        <updated>2021-07-19T23:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services ブログ Amazon ECS での Bottlerocket の始め方 〜 コンテナ向けのセキュアな Linux ディストリビューション この記事は Getting started with Bottlerocket and Amazon ECS を翻訳したものです。 2021年 6 月 30 日に、Amazon ECS に最適化された Bottlerocket の AMI が一般提供され、Amazon ECS ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -35,6 +398,16 @@
 The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてなブックマークの破滅的人気コメントを表示する - Qiita]]></title>
+        <id>https://qiita.com/unticrice/items/ba9c989818c9ebdfe9a0</id>
+        <link href="https://qiita.com/unticrice/items/ba9c989818c9ebdfe9a0"/>
+        <updated>2021-07-19T19:07:35.000Z</updated>
+        <summary type="html"><![CDATA[何があったか はてなブックマークは、コメント表示改善の一環として、Yahoo! JAPANの「建設的コメント順位付けモデルAPI」を導入し、攻撃的であったり不謹慎であるなど穏当でないコメントが人気コメントに掲載される問題を抑制する取り組みを開始しました。 実は、公式の発表が知れ渡る前にAnonymousDiaryというサービス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -63,6 +436,16 @@ The post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tric
         <link href="https://zenn.dev/mattn/articles/31dfed3c89956d"/>
         <updated>2021-07-19T16:14:56.000Z</updated>
         <summary type="html"><![CDATA[の様に直感的な操作ができるはずです。しかし Go 言語の場合、スライスの伸長にて発生するメモリアロケーションを append 関数と代入を使う事で透過的に行える仕組みを採用しています。例えばスライスの伸長は この様に行います。C言語をかじった事のある方や、プログラミング言語の内部データ構造をご存じの方であれば...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「冷蔵庫に貼る紙」の決定版！　食品の保存法が一目で分かるPDFに称賛の声　しょうがは冷蔵、ではにんにくは？ - ねとらぼ]]></title>
+        <id>https://nlab.itmedia.co.jp/nl/articles/2107/19/news129.html</id>
+        <link href="https://nlab.itmedia.co.jp/nl/articles/2107/19/news129.html"/>
+        <updated>2021-07-19T15:40:47.000Z</updated>
+        <summary type="html"><![CDATA[しょうがは水に浸して冷蔵、にんにくは丸ごと冷凍といった、食品ごとの適切な保存方法をまとめた早見表（モバイル版／PC版）が便利です。印刷して冷蔵庫に貼っておくと、いざというときにすぐ分かる。 各食品の保存方法、補足、解凍法、保存期間などをまとめて掲載。こちらはモバイル版 PC版 作者はTwitterユーザーの方...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -150,6 +533,16 @@ import { TestComponent }…]]></summary>
         <link href="https://castaneai.hatenablog.com/entry/webrtc-signaling-server-ayu"/>
         <updated>2021-07-19T10:24:16.000Z</updated>
         <summary type="html"><![CDATA[AyameというWebRTC Signaling Serverの実装がある。 Web側のSDKとサーバー側の実装が両方公開されており、プロトコルの仕様も文章化されている。 GitHub - OpenAyame/ayame-web-sdk: Ayame Web SDK GitHub - OpenAyame/ayame: WebRTC Signaling Server Ayame GitHub - OpenAyame/ayame-spec: WebRTC Signaling Server Ay...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブログ: リチャード・ヒップとのSQLiteの秘話]]></title>
+        <id>https://okuranagaimo.blogspot.com/2021/07/sqlite.html</id>
+        <link href="https://okuranagaimo.blogspot.com/2021/07/sqlite.html"/>
+        <updated>2021-07-19T09:21:31.000Z</updated>
+        <summary type="html"><![CDATA[CoRecursiveより。 今日の番組では、リチャード・ヒップと、サバイバルが世界の中核インフラになることについてに話します。SQLiteは至る所にあります。ウェブブラウザにも、携帯電話にも、おそらく車の中にも、そして旅客機の中にも間違いなく存在します。iMessagesやWhatsAppのメッセージが保存されているのもSQLiteで...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -362,6 +755,16 @@ tc39/dataset: The automate track tc39 proposals]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LINE サーバーサイドエンジニア採用説明会（プラットフォーム開発） - connpass]]></title>
+        <id>https://line.connpass.com/event/218122/</id>
+        <link href="https://line.connpass.com/event/218122/"/>
+        <updated>2021-07-19T02:00:19.000Z</updated>
+        <summary type="html"><![CDATA[＊予告なく時間配分や内容が変更になる可能性があります。 参加される方への事前のお願い ・インターネットが良好に繋がる環境にてご視聴ください。 ・18:50頃から入室が可能です。 ・質問がある方は、セッション中に「Q&A」機能に入力してください。 開発組織と登壇者紹介 松野 徳大 / Tokuhiro Matsuno 開発4センター ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[子供のプログラミング教育におすすめの教材は？ 親子で楽しめる「ロボット工作」をエンジニアママが紹介 - ソレドコ]]></title>
         <id>https://srdk.rakuten.jp/entry/2021/07/19/103000</id>
         <link href="https://srdk.rakuten.jp/entry/2021/07/19/103000"/>
@@ -429,6 +832,16 @@ tc39/dataset: The automate track tc39 proposals]]></summary>
         <summary type="html"><![CDATA[CSSの新しい機能は主要ブラウザでのサポートが進んでいます。例えば、1年くらい前にサポートされはじめたセレクタの詳細度を0にする:where()も、現在では主要ブラウザのすべてでサポートされています。 CSSの新しい機能を使用した、シンプルで軽量なCSSのリセットを紹介します。 :where()や:not()、allプロパティやunset...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年、モダンブラウザに適したCSSリセットのまとめ]]></title>
+        <id>https://coliss.com/?p=26716</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/css-reset-for-modern-browser.html"/>
+        <updated>2021-07-19T00:38:04.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
         </author>
     </entry>
     <entry>
@@ -2412,16 +2825,6 @@ by Spidermonkey]]></summary>
         <summary type="html"><![CDATA[今回はタブなど横方向にメニューを配置するナビゲーションの注意点と，メニュー数が増えたときにUI上どのような対応をすると使い勝手が良いか，具体的な事例をもとに書いていきます。]]></summary>
         <author>
             <name>池田拓司</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キャンセルボタンに「キャンセル」と書いてはいけないとき]]></title>
-        <id>https://uxmilk.jp/?p=79950</id>
-        <link href="https://uxmilk.jp/79950"/>
-        <updated>2021-06-20T22:45:30.000Z</updated>
-        <summary type="html"><![CDATA[キャンセルボタンには、さまざまなラベリングがされます。 「今はしない（Not now）」と「あとで（Maybe Later）」などは、その場しのぎのキャンセルボタンの例です。 しかし、ときにはキャンセルボタンが明確に「キ]]></summary>
-        <author>
-            <name>MILKBOY</name>
         </author>
     </entry>
 </feed>
