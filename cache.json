@@ -229,6 +229,222 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1338703.html",
+          "author": null,
+          "description": "PC Watch編集長の若杉です。おかげさまでPC Watchは2021年7月をもって25周年を迎えることとなりました。これまでPC Watchを支えてくださった読者の方、メーカーの方、ライターさん、その他大勢の関係者の皆様にこの場を借りて厚く御礼申し上げます。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1338703.html",
+          "publishedOn": "2021-07-21T21:16:50.000Z",
+          "wordCount": 233,
+          "title": "おかげさまでPC Watchは25周年を迎えました - PC Watch"
+        },
+        {
+          "id": "https://japan.zdnet.com/article/35174227/",
+          "author": null,
+          "description": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Microsoftは米国時間7月20日、Windows 10に存在する特権昇格の脆弱性（CVE-2021-36934）に関する情報を公開した。これを修正するセキュリティ更新プログラムはまだ無く、同社は...",
+          "link": "https://japan.zdnet.com/article/35174227/",
+          "publishedOn": "2021-07-21T14:51:42.000Z",
+          "wordCount": 432,
+          "title": "Windows 10に特権昇格の未修正の脆弱性、マイクロソフトが回避策 - ZDNet Japan"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210721231208",
+          "author": null,
+          "description": "基本新着しか見てなかったので、人気のコメントの基準変更でこんなに大騒ぎになってる事に驚きを禁じ得ない。 ブックマーカーって人気のコメント入りする事に命をかけてたりしてたのか。",
+          "link": "https://anond.hatelabo.jp/20210721231208",
+          "publishedOn": "2021-07-21T14:46:05.000Z",
+          "wordCount": 86,
+          "title": "はてブの人気のコメント"
+        },
+        {
+          "id": "https://www.mbsd.jp/research/20210721/blog/",
+          "author": null,
+          "description": "東京五輪に関係するファイルを装った以下のファイル名を持つマルウェアが2021年07月20日(火) 15時頃、VirusTotalにアップロードされたことを確認しました。 【至急】東京オリンピック開催に伴うサイバー攻撃等発生に関する被害報告について.exe 早速ですが、本記事では該当検体の解析結果を共有します。 該当のファイル...",
+          "link": "https://www.mbsd.jp/research/20210721/blog/",
+          "publishedOn": "2021-07-21T12:25:58.000Z",
+          "wordCount": 402,
+          "title": "東京五輪に関係する日本語のファイル名を持つマルウェア(ワイパー)の解析 | 調査研究/ブログ | 三井物産セキュアディレクション株式会社"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3ea364a90a3a6d3ca126c42bd3dac423b63df7c0",
+          "author": null,
+          "description": "東京五輪・パラリンピックのチケット購入者とボランティアのID、パスワードが盗まれ、インターネット上に流出していたことが21日、政府関係者への取材で分かった。大会組織委員会が調査している。",
+          "link": "https://news.yahoo.co.jp/articles/3ea364a90a3a6d3ca126c42bd3dac423b63df7c0",
+          "publishedOn": "2021-07-21T12:24:35.000Z",
+          "wordCount": 59,
+          "title": "五輪チケット購入者の情報流出（共同通信） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://nordot.app/790552913157406720",
+          "author": null,
+          "description": "東京五輪・パラリンピックのチケット購入者とボランティアのID、パスワードが盗まれ、インターネット上に流出していたことが21日、政府関係者への取材で分かった。大会組織委員会が調査している。",
+          "link": "https://nordot.app/790552913157406720",
+          "publishedOn": "2021-07-21T12:17:13.000Z",
+          "wordCount": 35,
+          "title": "五輪チケット購入者の情報流出 ｜ 共同通信"
+        },
+        {
+          "id": "https://zenn.dev/sakito/scraps/c2ea4d5ba0b222",
+          "author": null,
+          "description": "React公式ドキュメントのチュートリアルは古くなっており、TypeScriptやReact Hooksで開発することも考えて参照するときにおすすめできるサイトを置いておく。 ほかにもいっぱい有益なのあると思うが、あまり多すぎても大変なので、被りがなさそうかつ有益だと思っているリンクに絞っている。 React公式ドキュメントのリ...",
+          "link": "https://zenn.dev/sakito/scraps/c2ea4d5ba0b222",
+          "publishedOn": "2021-07-21T11:26:19.000Z",
+          "wordCount": 119,
+          "title": "Reactを学ぶときに役立つ情報・本など"
+        },
+        {
+          "id": "https://www.4gamer.net/games/483/G048386/20210721001/",
+          "author": null,
+          "description": "［GDC 2021］ギミックを駆使して複雑な地形を踏破する「DEATH STRANDING」のAI技術 ライター：aueki 2021年7月19日，世界最大のゲーム開発者会議であるGame Developers Conferenceが開幕した。新型コロナウイルス感染症の流行により，今年もオンライン開催となった。当初はオンラインとオンサイトのハイブリッドイベント...",
+          "link": "https://www.4gamer.net/games/483/G048386/20210721001/",
+          "publishedOn": "2021-07-21T09:08:52.000Z",
+          "wordCount": 792,
+          "title": "［GDC 2021］ギミックを駆使して複雑な地形を踏破する「DEATH STRANDING」のAI技術"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/21/news128.html",
+          "author": null,
+          "description": "米Microsoftが、米Facebookの機械学習ライブラリ「PyTorch」を使った初学者向けのディープラーニングの教材を無償公開している。対応言語は英語のみだが、4時間13分で学べるという。 米Microsoftは、機械学習ライブラリ「PyTorch」を使った、初学者向けのディープラーニングの教材を公式Webサイトで無償公開している。対...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/21/news128.html",
+          "publishedOn": "2021-07-21T08:51:23.000Z",
+          "wordCount": 154,
+          "title": "連休のお供にいかが？　米Microsoftが「PyTorch」の初学者向け教材を無償公開中 - ITmedia NEWS"
+        },
+        {
+          "id": "https://tech.smartcamp.co.jp/entry/catch-up-with-development-team",
+          "author": null,
+          "description": "こんにちは！スマートキャンプでWebアプリケーションエンジニアとして働いている中川です。 さて、唐突ですがみなさんは別の開発チームに異動した経験はありますか？ いくつかプロダクトを抱えていたり受託開発をしている会社では割とよくある現象なので、少なくない数の方が経験されたことがあるかなと思います。 と、...",
+          "link": "https://tech.smartcamp.co.jp/entry/catch-up-with-development-team",
+          "publishedOn": "2021-07-21T08:20:48.000Z",
+          "wordCount": 357,
+          "title": "異動先の開発チームに高速で適応する技術 - SMARTCAMP Engineer Blog"
+        },
+        {
+          "id": "https://techfeed.io/entries/60f7d65923bbb26e929cca19",
+          "author": null,
+          "description": "9to5Macに「iPhone 12が盗まれたとき、iOS 15の新機能がどう役立ったか」が公開された。 この記事では、著者のJosé AdornoがブラジルでiPhone 12を盗まれた経験から、盗まれる前の注意点と、盗まれた後に行うことが紹介されている。 iOS 15の最大の特徴は、アクティベーション・ロックを有効にしておけば、電源を切って...",
+          "link": "https://techfeed.io/entries/60f7d65923bbb26e929cca19",
+          "publishedOn": "2021-07-21T08:11:13.000Z",
+          "wordCount": 81,
+          "title": "iPhone 12が盗まれたとき、iOS 15の新機能がどう役立ったか"
+        },
+        {
+          "id": "https://photoshopvip.net/130142",
+          "author": null,
+          "description": "この記事では、商用利用でき漢字も使える日本語フリーフォントをまとめてご紹介します。 日本語フリーフォントも数が増え、どれを使えばよいか迷ってしまうというひとも多いのでしょうはないでしょうか。 定番アイテムから最近公開されたフォントまで、「使える」日本語フリーフォントを一覧でまとめているので、用途に...",
+          "link": "https://photoshopvip.net/130142",
+          "publishedOn": "2021-07-21T07:33:30.000Z",
+          "wordCount": 495,
+          "title": "【商用OK】漢字も使えるオススメ日本語フリーフォント102個まとめ - PhotoshopVIP"
+        },
+        {
+          "id": "https://paiza.hatenablog.com/entry/2021/07/21/130000",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！ 今回は、ブラウザ上からNode.jsやPythonをプログラミング可能なクラウドエディタを提供する無料のWebサービスをご紹介します。 サーバレスでバックエンドを開発できるうえ、シンプルなエディタから即座にエンドポイントを作って公開もできる便利なサービスとなっています。 手軽に...",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/21/130000",
+          "publishedOn": "2021-07-21T06:14:05.000Z",
+          "wordCount": 364,
+          "title": "ブラウザ上からNode.jsやPythonでバックエンドを無料で開発可能な「Napkin」を使ってみた！ - paiza開発日誌"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1339029.html",
+          "author": null,
+          "description": "ソニーは、4本のワイヤレススピーカーを部屋に配置する事で、壁や天井での音の反射を利用し、12個のファントムスピーカーを生成、サラウンド空間を作り出す新機軸の製品「HT-A9」を8月7日に発売する。価格はオープンプライスで、店頭予想価格は22万円前後。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1339029.html",
+          "publishedOn": "2021-07-21T06:10:06.000Z",
+          "wordCount": 106,
+          "title": "ソニー、4本で12個の仮想スピーカーを生み出す新感覚サラウンド - AV Watch"
+        },
+        {
+          "id": "https://techfeed.io/entries/60f7b1b23f912502e40087a5",
+          "author": null,
+          "description": "マイクロソフトのVisual Studio Code（VSCode）に、JavaScriptのデバッガーが内蔵された。 Easier browser debugging with Developer Tools integration in Visual Studio Code 画像クレジット: microsoft これまで開発者は、VSCodeの拡張機能として「Chrome Debugger」や「Microsoft Edge Debugger extension」をインス...",
+          "link": "https://techfeed.io/entries/60f7b1b23f912502e40087a5",
+          "publishedOn": "2021-07-21T05:34:47.000Z",
+          "wordCount": 86,
+          "title": "VSCodeにブラウザのデバッガーが統合された！F5一発でDevToolsが起動する"
+        },
+        {
+          "id": "https://www.slideshare.net/techblogyahoo/word2vecbert-gpt3",
+          "author": null,
+          "description": "We use your LinkedIn profile and activity data to personalize ads and to show you more relevant ads. You can change your ad preferences anytime.",
+          "link": "https://www.slideshare.net/techblogyahoo/word2vecbert-gpt3",
+          "publishedOn": "2021-07-21T05:03:50.000Z",
+          "wordCount": 1091,
+          "title": "深層学習による自然言語処理入門: word2vecからBERT, GPT-3まで"
+        },
+        {
+          "id": "https://engineer.crowdworks.jp/entry/domain_driven_development_from_business_view",
+          "author": null,
+          "description": "こんにちは！ クラウドワークスの新規事業開発チームでプロダクトマネージャー（以下、PdM）を担当している八尾です。 クラウドワークスでは、新規SaaSプロダクトを目下開発中です。 プロダクトの中身はまだ詳しく言えないのですが、新規事業の考え方などはこちらの記事をぜひご覧ください。 現在開発中のプロダクトでは...",
+          "link": "https://engineer.crowdworks.jp/entry/domain_driven_development_from_business_view",
+          "publishedOn": "2021-07-21T03:55:47.000Z",
+          "wordCount": 350,
+          "title": "プロダクトマネージャー目線で語る、0→1開発でDDDを取り入れた背景とその効果 - クラウドワークス エンジニアブログ"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/https-encryption/",
+          "author": null,
+          "description": "面白そうだったのでHTTPS通信パケットを復号化してみました。HTTPS通信パケットを復号化するにあたり、まずはHTTPSの暗号化方式について調べてみたのでまとめます。 HTTPSの暗号化方式 HTTPS通信の暗号化には公開鍵暗号方式と共通鍵暗号方式の両方を利用したハイブリッド方式により暗号化が行われます。それぞれの暗号化...",
+          "link": "https://dev.classmethod.jp/articles/https-encryption/",
+          "publishedOn": "2021-07-21T03:27:18.000Z",
+          "wordCount": 191,
+          "title": "HTTPS通信の暗号化方式 | DevelopersIO"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210721121831",
+          "author": null,
+          "description": "あああああああああああああ aaaaaaaaaaaaaaa bbbbbbbbbbbbb とかで水増ししてもだめだった 意味ある文章じゃないとだめっぽい でも「ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ」はカウントに入るんだよな、謎 元の文章にもよるけど合計30文字くらいあれば人気コメに入る感じだと思う",
+          "link": "https://anond.hatelabo.jp/20210721121831",
+          "publishedOn": "2021-07-21T03:20:45.000Z",
+          "wordCount": 111,
+          "title": "建設的ブコメ文字数判定"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210721-1927449/",
+          "author": null,
+          "description": "サンワサプライは7月20日、HDMI信号をワイヤレスで伝送する送受信機セット「VGA-EXWHD9」と増設用送信機「VGA-EXWHD9TX」を発売した。価格は、送受信機セットが85,800円、増設用送信機が48,400円。 HDMI信号をワイヤレスで伝送する送受信機セット「VGA-EXWHD9」 VGA-EXWHD9は、HDMI信号を最大15m先まで飛ばせるワイヤレ...",
+          "link": "https://news.mynavi.jp/article/20210721-1927449/",
+          "publishedOn": "2021-07-21T03:19:11.000Z",
+          "wordCount": 353,
+          "title": "HDMI信号をワイヤレスで最大15m飛ばせるHDMIエクステンダー | マイナビニュース"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/07/21/2021-07-20-youtubes-newest-monetization-tool-lets-viewers-tip-creators-for-their-uploads/",
+          "author": null,
+          "description": "米国時間7月20日、YouTube（ユーチューブ）は最新の機能「Super Thanks（スーパー・サンクス）」を発表した。これは、ファンが直接クリエイターに支払う仕組みに同社が名づけた「Paid Digital Goods（ペイド・デジタル・グッズ、有料デジタル製品）」の第4弾だ。これまでに「Super Chat（スーパー・チャット）」「Super ...",
+          "link": "https://jp.techcrunch.com/2021/07/21/2021-07-20-youtubes-newest-monetization-tool-lets-viewers-tip-creators-for-their-uploads/",
+          "publishedOn": "2021-07-21T02:59:29.000Z",
+          "wordCount": 321,
+          "title": "YouTubeが新しい収益化機能「Super Thanks」発表、個別の動画に対してクリエイターに投げ銭可能に | TechCrunch Japan"
+        },
+        {
+          "id": "https://logmi.jp/tech/articles/324673",
+          "author": null,
+          "description": "「“開発者体験”で世界をエンパワメントする1日。」と題し、チームや組織の課題に日々取り組む方々に向けて開催された「Developer eXperience Day CTO/VPoE Conference 2021」。ここで、アイシア=ソリッド氏が「あなたが始めるデータ分析～データ分析プロジェクトの立ち上げ方から分析文化の作り方まで～」をテーマに登壇...",
+          "link": "https://logmi.jp/tech/articles/324673",
+          "publishedOn": "2021-07-21T02:48:26.000Z",
+          "wordCount": 504,
+          "title": "今までやってきたあなたなら「絶対にできる！」　データサイエンスの世界に入るということは“強くてNew Game” - ログミーTech"
+        },
+        {
+          "id": "https://quipper.hatenablog.com/entry/2021/07/21/080000",
+          "author": null,
+          "description": "こんにちは、Quipper iOS エンジニアの @manicmaniac です。 現在スタディサプリ iOS アプリ開発チームのエンジニアリングマネージャをしています。 今回はスタディサプリで長らく使われていた React Native のコードを Swift に書き換えた話をします。 実は React Native から Swift への置き換え自体は半年ほど前に完...",
+          "link": "https://quipper.hatenablog.com/entry/2021/07/21/080000",
+          "publishedOn": "2021-07-21T01:28:07.000Z",
+          "wordCount": 442,
+          "title": "「スタディサプリ」が React Native から卒業するまで、あるいは技術的負債への感謝と敬意 - Quipper Product Team Blog"
+        },
+        {
+          "id": "https://speakerdeck.com/takuros/awsdezuo-rudetafen-xi-ji-pan-sabisufalsexuan-ding-toshe-ji-falsepointo",
+          "author": null,
+          "description": "Transcript 2021年3月18日 NRIネットコム株式会社 クラウド事業推進部 佐々木 拓郎 AWSで作る データ分析基盤サービスの 選定と設計のポイント Provided by NRI Netcom 1 Copyright（C） NRI Netcom, Ltd. All rights reserved. NRIネットコムについて データ分析基盤の 作り方 データ分析基盤の プロジェクトの進め方 0...",
+          "link": "https://speakerdeck.com/takuros/awsdezuo-rudetafen-xi-ji-pan-sabisufalsexuan-ding-toshe-ji-falsepointo",
+          "publishedOn": "2021-07-21T00:48:30.000Z",
+          "wordCount": 1100,
+          "title": "AWSで作るデータ分析基盤サービスの選定と設計のポイント - Speaker Deck"
+        },
+        {
           "id": "https://anond.hatelabo.jp/20210721041852",
           "author": null,
           "description": "はてブのコメントが大幅に仕様変更されて不評らしいけど、これって、かつて行われた「歌舞伎町浄化作戦」みたいなものだよね ぶっちゃけ今のはてブって「５ちゃんねる@はてブ板」ってくらい閉鎖的で偏った傾向の人達のたまり場になってしまっていて、それでも板の中に籠もってよろしくやってるのならともかく、外部サイ...",
@@ -283,6 +499,15 @@
           "title": "カシオが「パックマン」コラボのレトロなデジタルウォッチ「A100WEPC」を8月21日に発売、価格は1万2100円 | TechCrunch Japan"
         },
         {
+          "id": "https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/",
+          "author": null,
+          "description": "Learn the fundamentals of deep learning with PyTorch! This beginner friendly learning path will introduce key concepts to building machine learning models in multiple domains include speech, vision, and natural language processing. Prerequisites Basic Python knowledge Basic knowledge about how to...",
+          "link": "https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/",
+          "publishedOn": "2021-07-20T13:21:58.000Z",
+          "wordCount": 380,
+          "title": "PyTorch Fundamentals - Learn | Microsoft Docs"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2107/20/news149.html",
           "author": null,
           "description": "気象庁は公式ページへのWeb広告の掲載を再開した。2021年度は800万円の広告収入を見込む。収入は、公式ページに導入しているシステムの運用経費に充てる。 気象庁は7月19日、公式ページへのWeb広告の掲載を約5カ月ぶりに再開した。2021年度は800万円の広告収入を見込む。収入は、公式ページへのアクセス集中を回避するた...",
@@ -317,6 +542,15 @@
           "publishedOn": "2021-07-20T10:42:18.000Z",
           "wordCount": 165,
           "title": "「6年解けなかった構造があっさり」──タンパク質の“形”を予測する「AlphaFold2」の衝撃　GitHubで公開、誰でも利用可能に - ITmedia NEWS"
+        },
+        {
+          "id": "https://qiita.com/_Kohei_/items/381737d0e03e24ab0f41",
+          "author": null,
+          "description": "自己紹介 普段私は、 一番得意な機械学習(深層学習)をしたり、 Python/Django でWebアプリを開発したり、 TypeScript/Vue or React でフロントエンドの開発をしたり、 PHP/Laravel でWebアプリを開発したり、 さまざまなことを行っています。 趣味で休みの日にGo言語で色々作成しているのですが、型のある世界は素敵だな...",
+          "link": "https://qiita.com/_Kohei_/items/381737d0e03e24ab0f41",
+          "publishedOn": "2021-07-20T10:10:18.000Z",
+          "wordCount": 510,
+          "title": "Pythonは_(アンダースコア)の使い方を理解するだけでプロフェッショナルになれる - Qiita"
         },
         {
           "id": "https://twitter.com/happyhamburg516/status/1417087774369349635",
@@ -641,6 +875,15 @@
           "publishedOn": "2021-07-19T04:48:17.000Z",
           "wordCount": 288,
           "title": "500円・約15分間の収録で自分の声によるAI音声合成を可能にする「CoeFont CLOUD」が先行公開を開始 | TechCrunch Japan"
+        },
+        {
+          "id": "https://qiita.com/HawkClaws/items/599d7666f55e79ef7f56",
+          "author": null,
+          "description": "はじめに 通常のSNSで胡散臭い人が多いと感じてしまいました プログラミングスクールが流行り、エンジニアになって億稼いでます！みたいな・・・ そこで、本当のエンジニア・プログラマしか使えないSNSを作ってみました！ つまり、WebApi提供のみのSNSです 一般ピープルが使うようなフロントエンドなんてありません！！ ...",
+          "link": "https://qiita.com/HawkClaws/items/599d7666f55e79ef7f56",
+          "publishedOn": "2021-07-19T04:12:12.000Z",
+          "wordCount": 547,
+          "title": "エンジニア・プログラマにしか使えないSNSを作ってみた話 - Qiita"
         },
         {
           "id": "https://anond.hatelabo.jp/20210719114552",
@@ -1435,6 +1678,15 @@
           "title": "問い合わせ管理システムとは？メールや電話、SNSの問い合わせを一元管理 | EC・ネット通販を中心とした物販ビジネス専門メディア 「コマースピック」"
         },
         {
+          "id": "https://qiita.com/para-yama/items/800cdb1092bf4312c30a",
+          "author": null,
+          "description": "こんにちは、最近になってつみたてNISAを始めた今年2年目の社会人です。つみたてNISAは運用益が非課税、半自動的に積立運用可能、途中で取り崩し可能と様々なメリットがあり、非常に有益な制度です。そんなつみたてNISAを活用する上でよく耳にするのは「信託報酬が安くてパフォーマンスの高い米国インデックスファンド一...",
+          "link": "https://qiita.com/para-yama/items/800cdb1092bf4312c30a",
+          "publishedOn": "2021-07-13T15:01:46.000Z",
+          "wordCount": 672,
+          "title": "「つみたてNISAは米国インデックスファンド放置で良い」は本当か？ - Qiita"
+        },
+        {
           "id": "https://yattom.hatenablog.com/entry/2021/07/12/100433",
           "author": null,
           "description": "2021年7月1日に「モダンアジャイル 再考 2021」というイベントが分散アジャイルチームについて考える会の主催でありました。 distributed-agile-team.connpass.com このイベントのきっかけは、私のFacebookでのつぶやき？でした。 これへのコメントできょんさん、鬼木さん、川口さんらに反応していただけ、さっそくオン...",
@@ -1578,6 +1830,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=344950",
+          "author": "Chris Coyier",
+          "description": "Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible iOS isn’t alone here …\nThe post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/",
+          "publishedOn": "2021-07-21T21:08:17.000Z",
+          "wordCount": 513,
+          "title": "Yet Another Mobile Context Menu With No Indication it Can Scroll"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344948",
+          "author": "Chris Coyier",
+          "description": "Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. \nimport configData from './config-data.json' assert {type: \n…\nThe post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://2ality.com/2021/06/json-modules.html",
+          "publishedOn": "2021-07-21T21:08:08.000Z",
+          "wordCount": 634,
+          "title": "ECMAScript proposal: JSON modules"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344337",
+          "author": "Mark Noonan",
+          "description": "Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …\nThe post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/",
+          "publishedOn": "2021-07-21T14:37:07.000Z",
+          "wordCount": 4131,
+          "title": "A Step-By-Step Process for Turning Designs Into Code"
+        },
         {
           "id": "https://css-tricks.com/?p=345062",
           "author": "Robin Rendle",
@@ -1879,15 +2158,6 @@
           "publishedOn": "2021-06-23T00:15:00.000Z",
           "wordCount": 543,
           "title": "第168回　The future of Internet Explorer on Windows 10 is in Microsoft Edge，AppSheet Automation，Domino’s Self-Driving Delivery ── いま，見ておきたいウェブサイト"
-        },
-        {
-          "id": "https://gihyo.jp/design/serial/01/ui-design-unsung/0024",
-          "author": "池田拓司",
-          "description": "今回はタブなど横方向にメニューを配置するナビゲーションの注意点と，メニュー数が増えたときにUI上どのような対応をすると使い勝手が良いか，具体的な事例をもとに書いていきます。",
-          "link": "https://gihyo.jp/design/serial/01/ui-design-unsung/0024",
-          "publishedOn": "2021-06-22T00:15:00.000Z",
-          "wordCount": 410,
-          "title": "第24回　横配置メニューの項目数が多くなった場合の表現 ── 縁の下のUIデザイン―少しの工夫で大きな改善！"
         }
       ]
     },
@@ -1896,6 +2166,24 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/anirbmuk/angular-infinite-scrolling-using-rxjs-and-ngrx-4p8i",
+          "author": "Anirban Mukherjee",
+          "description": "/ \n        angular-scroll-demo\n      \n    \nI have seen multiple blog posts on this topic which make use of one method or the other. I just thought of putting everything together under one hood - RxJS, NgRx, Angular Material and in the end, pure document property access. This is what is leads to:\n\nLet's quickly talk about the setup here - I am using an Angular CLI 12.1.0 project. I have NgRx state management set up, with a root state and a feature state. Of course, NgRx is in no way related to the purpose of this application, but I just thought it would not hurt to implement it. We have to admit, as your application grows in size, NgRx does give you some peace of mind :-)\nThe UI is built using angular material. I have used the mat-list and and the mat-spinner components. I have some hard-coded dummy data, which I have converted into an observable stream, with a delay of 1500 ms, which gives some feeling of having fetched data from a REST service.\nThe key logic is to calculate when the user has scrolled down to the edge of the page. I chose a simple formula derived from the document object. Of course there are other fancy approaches like using an IntersectionObserver, but that's something I felt was too much for me!\n\nI set up the scroll action using RxJS fromEvent.\n\nOnce the scroll event is set up, whenever the above formula is satisfied, the next set of data is called for. For my sample use case, I have used a limit and skip value, which I have used to slice off a chunk from my dummy data set. Every time a new set is emitted by my data observable, I have made use of a reducer function to append it to my previous list of data.\n\nThis is where I store the next limit and skip values for the next data load, and also make a simple calculation of whether my data load is complete, and set it on my state. Once this flag becomes true, subsequent scroll actions do not trigger any more data fetch.\n\nCheers :-)",
+          "link": "https://dev.to/anirbmuk/angular-infinite-scrolling-using-rxjs-and-ngrx-4p8i",
+          "publishedOn": "2021-07-21T14:51:21.000Z",
+          "wordCount": 764,
+          "title": "Angular infinite scrolling using RxJS and NgRx"
+        },
+        {
+          "id": "https://dev.to/poulahelmy/the-ultimate-angular-community-meetups-and-conferences-2ml7",
+          "author": "PoulaHelmy",
+          "description": "The Missing part in learning in Angular.\nhttps://poulahelmy-blog.hashnode.dev/the-missing-part",
+          "link": "https://dev.to/poulahelmy/the-ultimate-angular-community-meetups-and-conferences-2ml7",
+          "publishedOn": "2021-07-21T13:48:29.000Z",
+          "wordCount": 429,
+          "title": "The Ultimate Angular community, meetups and conferences"
+        },
         {
           "id": "https://dev.to/jamescalam/angular-app-setup-with-material-stoic-q-a-5-4cgo",
           "author": "James Briggs",
@@ -2075,6 +2363,15 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/anirbmuk/angular-infinite-scrolling-using-rxjs-and-ngrx-4p8i",
+          "author": "Anirban Mukherjee",
+          "description": "/ \n        angular-scroll-demo\n      \n    \nI have seen multiple blog posts on this topic which make use of one method or the other. I just thought of putting everything together under one hood - RxJS, NgRx, Angular Material and in the end, pure document property access. This is what is leads to:\n\nLet's quickly talk about the setup here - I am using an Angular CLI 12.1.0 project. I have NgRx state management set up, with a root state and a feature state. Of course, NgRx is in no way related to the purpose of this application, but I just thought it would not hurt to implement it. We have to admit, as your application grows in size, NgRx does give you some peace of mind :-)\nThe UI is built using angular material. I have used the mat-list and and the mat-spinner components. I have some hard-coded dummy data, which I have converted into an observable stream, with a delay of 1500 ms, which gives some feeling of having fetched data from a REST service.\nThe key logic is to calculate when the user has scrolled down to the edge of the page. I chose a simple formula derived from the document object. Of course there are other fancy approaches like using an IntersectionObserver, but that's something I felt was too much for me!\n\nI set up the scroll action using RxJS fromEvent.\n\nOnce the scroll event is set up, whenever the above formula is satisfied, the next set of data is called for. For my sample use case, I have used a limit and skip value, which I have used to slice off a chunk from my dummy data set. Every time a new set is emitted by my data observable, I have made use of a reducer function to append it to my previous list of data.\n\nThis is where I store the next limit and skip values for the next data load, and also make a simple calculation of whether my data load is complete, and set it on my state. Once this flag becomes true, subsequent scroll actions do not trigger any more data fetch.\n\nCheers :-)",
+          "link": "https://dev.to/anirbmuk/angular-infinite-scrolling-using-rxjs-and-ngrx-4p8i",
+          "publishedOn": "2021-07-21T14:51:21.000Z",
+          "wordCount": 764,
+          "title": "Angular infinite scrolling using RxJS and NgRx"
+        },
+        {
           "id": "https://dev.to/thisdotmedia/how-to-implement-drag-drop-using-rxjs-16m9",
           "author": "Chris Trześniewski",
           "description": "Drag & drop is one of the features that can be very useful for the end-users of our application. Additionally, it is a great example to show how RxJS can be used to handle drag-and-drop functionality with ease. Let's see how we can implement the simple dragging behavior.\nTo follow along with all the code examples in this article, I recommend opening this Stackblitz starter example. All examples will be based on this starter project.\nBefore we start the implementation, let's consider what the drag and drop functionality consists of. It can be split into 3 phases:\ndrag start\ndrag move\ndrag end (drop)\nIn a nutshell, drag start happens whenever we press mouse down on a draggable item. Following that each time we move a cursor a drag move event should be emitted. Drag move should continue, but …",
@@ -2126,6 +2423,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=30135",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784802512091.html",
+          "publishedOn": "2021-07-21T00:36:23.000Z",
+          "wordCount": 415,
+          "title": "デザインのスキルが確実に身につく良書！字詰めのやり方を日本人タイプデザイナーが徹底解説 -タイポグラフィにおける文字間調整の考え方"
+        },
         {
           "id": "https://coliss.com/?p=30459",
           "author": "コリス🥦",
