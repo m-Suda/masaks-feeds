@@ -229,6 +229,186 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1339912.html",
+          "author": null,
+          "description": "日本時間7月23日午前1時頃より、多くのWebサーバーでDNSエラーが発生している。米Akamaiが「Edge DNS」サービスの障害をアナウンスしており、同社のサービスを採用している企業が影響を受けているようだ。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1339912.html",
+          "publishedOn": "2021-07-22T16:26:30.000Z",
+          "wordCount": 126,
+          "title": "世界規模のDNS障害が発生中 ～Akamaiを採用の企業に影響か - 窓の杜"
+        },
+        {
+          "id": "https://edgedns.status.akamai.com/incidents/n5zl6dythvfv",
+          "author": null,
+          "description": "We are aware of an emerging issue with the Edge DNS service. We are actively investigating the issue. If you have questions or are experiencing impact due to this issue, please contact Akamai Technical Support. In the interest of time, we are providing you the most current information available, ...",
+          "link": "https://edgedns.status.akamai.com/incidents/n5zl6dythvfv",
+          "publishedOn": "2021-07-22T16:10:07.000Z",
+          "wordCount": 1148,
+          "title": "Akamai Edge DNS and GTM Status - Edge DNS Service Incident"
+        },
+        {
+          "id": "https://www.google.com/doodles/doodle-champion-island-games-begin",
+          "author": null,
+          "description": "Welcome to the Doodle Champion Island Games! Over the coming weeks, join calico (c)athlete Lucky as she explores Doodle Champion Island: a world filled with seven sport mini-games, legendary opponents, dozens of daring side quests, and a few new (and old ;)) friends. Her ultimate goal? Defeat eac...",
+          "link": "https://www.google.com/doodles/doodle-champion-island-games-begin",
+          "publishedOn": "2021-07-22T15:26:53.000Z",
+          "wordCount": 1090,
+          "title": "Doodle Champion Island Games Begin!"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-384489/",
+          "author": null,
+          "description": "iPhone限定の写真コンテスト「iPhone Photography Awards」の、2021年受賞作品が発表されました。 第14回コンテストの受賞作品が発表 毎年恒例の、iPhoneで撮影した写真限定のフォトコンテスト「iPhone Photography Awards」の第14回大会の受賞作品が、現地時間7月22日に発表されました。 2021年のグランプリに輝いたの...",
+          "link": "https://iphone-mania.jp/news-384489/",
+          "publishedOn": "2021-07-22T15:13:55.000Z",
+          "wordCount": 284,
+          "title": "iPhone限定の写真コンテスト入賞作品が発表〜最優秀賞はiPhone7で撮影 - iPhone Mania"
+        },
+        {
+          "id": "https://linecorp.com/ja/security/article/378",
+          "author": null,
+          "description": "■概要 当社が運営するチケット制ライブサービス「LINE Face2Face」＊1（以下、本サービス）について、サービスを開始した2020年9月12日～2020年10月28日の期間中において、本サービスによるすべての配信動画が不正アクセスの可能性がある環境にありました。このうち、2020年10月17日および2020年10月24日に実施したオン...",
+          "link": "https://linecorp.com/ja/security/article/378",
+          "publishedOn": "2021-07-22T14:40:16.000Z",
+          "wordCount": 68,
+          "title": "「LINE Face2Face」における動画の不正アクセスによる漏えいについて | LINE Corporation | セキュリティ＆プライバシー"
+        },
+        {
+          "id": "https://karapaia.com/archives/52304239.html",
+          "author": null,
+          "description": "ドイツの巨大硬式飛行船「ヒンデンブルク号」はこの時、フランクフルトから、北アメリカ行き大西洋横断飛行を行っていた。ところがニュージャージー州のレイクハースト海軍航空基地に着陸時に突然爆発、炎上し36名が死亡した。1937年5月6日年のことである。 なぜヒンデンブルク号は爆発したのか？水素ガスの引火、静電気...",
+          "link": "https://karapaia.com/archives/52304239.html",
+          "publishedOn": "2021-07-22T14:13:41.000Z",
+          "wordCount": 540,
+          "title": "飛行船「ヒンデンブルク号爆発事故」の映像を高解像度カラー化、凄まじい迫力だった。 : カラパイア"
+        },
+        {
+          "id": "https://github.com/LekKit/RVVM",
+          "author": null,
+          "description": "RVVM - The RISC-V Virtual Machine RISC-V CPU & System software implementation written in С What's working OpenSBI, custom firmwares boot and execute properly Linux kernel boots! Linux userspace works, interactive shell through UART Framebuffer graphics, working Xorg with mouse & keyboard Raw imag...",
+          "link": "https://github.com/LekKit/RVVM",
+          "publishedOn": "2021-07-22T13:52:44.000Z",
+          "wordCount": 825,
+          "title": "GitHub - LekKit/RVVM: RISC-V Virtual Machine"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210722222528",
+          "author": null,
+          "description": "4連休初日は、ずっとサッカーの試合を見ていたよ フランスがメキシコに大敗した試合 韓国がNZに敗れた試合 ブラジルドイツの極熱の強豪同士の一戦 そして日本の緒戦勝利 この連休は男女の世界のサッカーを観戦しまくるんだって決めて、ビールもたくさん買ってきて、ステーキ肉も大量に買い込んで来た 本当はバーで見れた...",
+          "link": "https://anond.hatelabo.jp/20210722222528",
+          "publishedOn": "2021-07-22T13:25:43.000Z",
+          "wordCount": 97,
+          "title": "オリンピック開催してくれてありがとう"
+        },
+        {
+          "id": "https://gigazine.net/news/20210722-isoflow/",
+          "author": null,
+          "description": "ネットワークの構成を視覚的に把握しやすいアイソメトリック図で表現でき、作成した図面を共有して相手に見せることができるオンラインサービスが「Isoflow」です。 Isoflow https://isoflow.io/ まずはお試しですぐに図面の作成画面に行くことができます。「CREATE A DIAGRAM」をクリック。 表示されたキャンバス上の好...",
+          "link": "https://gigazine.net/news/20210722-isoflow/",
+          "publishedOn": "2021-07-22T09:35:49.000Z",
+          "wordCount": 194,
+          "title": "立体的な表現で見やすいネットワーク図がブラウザ上で作成できる「Isoflow」 - GIGAZINE"
+        },
+        {
+          "id": "https://ledge.ai/toonme-re-posting/",
+          "author": null,
+          "description": "2021年上半期にAI（人工知能）関連メディアであるLedge.aiで公開した記事のうち、反響の大きかったもの再掲します（※初公開日：2021年1月22日）。 今回は、AIのアルゴリズムを活用し、写真に写った人物をあっという間に、『トイ・ストーリー』シリーズや『ファインディング・ニモ』シリーズなどで知られる、ピクサー・ア...",
+          "link": "https://ledge.ai/toonme-re-posting/",
+          "publishedOn": "2021-07-22T08:55:52.000Z",
+          "wordCount": 144,
+          "title": "AIで人をピクサー風に変える無料アプリ 国内外のSNSで話題に！ | Ledge.ai"
+        },
+        {
+          "id": "https://www.security-next.com/128356",
+          "author": null,
+          "description": "情報処理推進機構（IPA）は、セキュリティの動向を広く紹介する年次白書の最新版「情報セキュリティ白書2021」を7月30日に発刊する。書籍として販売するほか、無料のPDF版も提供する予定。 同白書は、セキュリティ分野の概況を幅広く紹介する資料。2008年より毎年発行している。組織における注意喚起や教育、講演資料、...",
+          "link": "https://www.security-next.com/128356",
+          "publishedOn": "2021-07-22T07:38:10.000Z",
+          "wordCount": 139,
+          "title": "【セキュリティ ニュース】IPA、「情報セキュリティ白書2021」を発行 - 無料PDF版も提供予定（1ページ目 / 全1ページ）：Security NEXT"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2021/07/ipad-mini-a15.html",
+          "author": null,
+          "description": "次期iPad miniはA15チップ搭載の噂？ ノートPCの代わりになるかも2021.07.22 12:0011,343 Victoria Song - Gizmodo US ［原文］ （ そうこ ） かなり期待高まっています。 ネタ元の9to5Macの報道によれば、秋頃発表と言われているiPad miniにはA15チップが搭載されるようです。A15チップは、Apple独自チップの次モデルで...",
+          "link": "https://www.gizmodo.jp/2021/07/ipad-mini-a15.html",
+          "publishedOn": "2021-07-22T07:02:56.000Z",
+          "wordCount": 99,
+          "title": "次期iPad miniはA15チップ搭載の噂？ ノートPCの代わりになるかも | ギズモード・ジャパン"
+        },
+        {
+          "id": "https://japanese.engadget.com/apple-confirm-ios147-wifi-bugfix-060055964.html",
+          "author": null,
+          "description": "今年5月に配信されたiOS 14.6では、iPhoneが特定のSSID（ネットワーク名）を持つWi-Fiネットワークに接続するとWi-Fi機能が無効化される不具合が報告されていました。 この不具合は先日から配信されたiOS 14.7での修正が噂されていたのですが、今回、アップルがiOS 14.7での解決を公式に認めるセキュリティ文書を公開し...",
+          "link": "https://japanese.engadget.com/apple-confirm-ios147-wifi-bugfix-060055964.html",
+          "publishedOn": "2021-07-22T06:12:18.000Z",
+          "wordCount": 217,
+          "title": "iOS 14.7は「悪意SSIDに繋ぐとWi-Fi機能破壊」バグを修正。アップルが文書公開 - Engadget 日本版"
+        },
+        {
+          "id": "https://gist.github.com/sadnessOjisan/50d0bcb20b41aae6f281cdc44d5f8b9a",
+          "author": null,
+          "description": "sinukato-omotta-yo.md モデルナ2回目接種の副反応の記録 勢いで書いたこともあり、語尾が断定口調で強くなってしまっていますが、あくまでも個人の体験の記録ということを加味して読んでいただければと思います。 全員が全員このような症状が出ることはないと思いますが、もし不安を覚えているのでしたらここに書いたこ...",
+          "link": "https://gist.github.com/sadnessOjisan/50d0bcb20b41aae6f281cdc44d5f8b9a",
+          "publishedOn": "2021-07-22T04:33:53.000Z",
+          "wordCount": 410,
+          "title": "モデルナ2回目接種の副反応の記録 · GitHub"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210722094316",
+          "author": null,
+          "description": "そんなコメントでAI対策する必要ないだろʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ",
+          "link": "https://anond.hatelabo.jp/20210722094316",
+          "publishedOn": "2021-07-22T03:53:38.000Z",
+          "wordCount": 82,
+          "title": "コメントの末尾をクマ？で埋めてるのに0スターの人"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/22/news032.html",
+          "author": null,
+          "description": "「Clubhouse」の招待制が終了し、待たずに入会できるようになった。新しい正式ロゴとWebサイトも披露した。 ソーシャル音声プラットフォームの「Clubhouse」を運営する米Alpha Explorationは7月21日（現地時間）、これまでClubhouseへの入会に必要だった招待制を終了すると発表した。順番待ちの約1000万人が段階的に入会...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/22/news032.html",
+          "publishedOn": "2021-07-22T02:02:11.000Z",
+          "wordCount": 155,
+          "title": "Clubhouse、招待制ようやく終了　新ロゴも披露 - ITmedia NEWS"
+        },
+        {
+          "id": "https://liginc.co.jp/549508",
+          "author": null,
+          "description": "こんにちは、LIGのマーケターのまこりーぬ（@makosaito214）です。 ふだんはマーケティング関連の記事ばかり書いている私ですが、今回はめずらしく自分自身について文章を書こうと思います。LIGブログは100本以上書いてきたものの、自分のことを綴るのは実は2回目です（笑）。1本目はLIGでマーケティング職として働くお...",
+          "link": "https://liginc.co.jp/549508",
+          "publishedOn": "2021-07-22T01:34:23.000Z",
+          "wordCount": 365,
+          "title": "「自分でやった方が早い病」を克服したい。 | 株式会社LIG"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/22/news030.html",
+          "author": null,
+          "description": "Twitterが、ツイートの返信に「賛成」か「反対」をつける機能のテストを開始した。現在は「賛成」は現行の「いいね」に相当するが、「反対」は「よくないね」ではないとしている。 米Twitterは7月21日（現地時間）、Twitterの返信に「up vote（賛成）」か「down vote（反対）」をつけられるボタンのテストを一部のiOSア...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/22/news030.html",
+          "publishedOn": "2021-07-22T01:06:31.000Z",
+          "wordCount": 152,
+          "title": "Twitter、返信に「反対票」（dislikeではない）をつけるテストを開始 - ITmedia NEWS"
+        },
+        {
+          "id": "https://wirelesswire.jp/2021/07/80246/",
+          "author": null,
+          "description": "DXを阻む障害 2021.07.22 Updated by Ryo Shimizu on July 22, 2021, 09:12 am JST いわゆるDX、デジタルトランスフォーメーションする必要性を多くの企業が迫られている。 ところが、これがなかなか難しい。 たとえば、DXをコンサルティング会社に依頼するも、そもそもそのコンサルティング会社そのものがDXしてないの...",
+          "link": "https://wirelesswire.jp/2021/07/80246/",
+          "publishedOn": "2021-07-22T00:16:34.000Z",
+          "wordCount": 177,
+          "title": "DXを阻む障害 - WirelessWire News（ワイヤレスワイヤーニュース）"
+        },
+        {
+          "id": "https://www.fastly.com/press/press-releases/fastly-launches-new-era-of-highly-secure-serverless-javascript-with-zero",
+          "author": null,
+          "description": "Fastly Launches New Era of Highly-Secure Serverless JavaScript With Zero Cold Starts Compute@Edge’s unique isolation sandbox technology enables a fast, secure JavaScript experience as developers continue to enter into the growing serverless computing landscape. SAN FRANCISCO -- JULY 21, 2021 -- F...",
+          "link": "https://www.fastly.com/press/press-releases/fastly-launches-new-era-of-highly-secure-serverless-javascript-with-zero",
+          "publishedOn": "2021-07-22T00:00:24.000Z",
+          "wordCount": 926,
+          "title": "Fastly Launches New Era of Highly-Secure Serverless JavaScript With Zero Cold Starts | Fastly"
+        },
+        {
           "id": "https://pc.watch.impress.co.jp/docs/news/1338703.html",
           "author": null,
           "description": "PC Watch編集長の若杉です。おかげさまでPC Watchは2021年7月をもって25周年を迎えることとなりました。これまでPC Watchを支えてくださった読者の方、メーカーの方、ライターさん、その他大勢の関係者の皆様にこの場を借りて厚く御礼申し上げます。",
@@ -236,6 +416,15 @@
           "publishedOn": "2021-07-21T21:16:50.000Z",
           "wordCount": 233,
           "title": "おかげさまでPC Watchは25周年を迎えました - PC Watch"
+        },
+        {
+          "id": "https://www.kb.cert.org/vuls/id/506989",
+          "author": null,
+          "description": "Microsoft Windows gives unprivileged user access to system32\\config files Vulnerability Note VU#506989 Original Release Date: 2021-07-20 | Last Revised: 2021-07-22 Overview Multiple versions of Windows grant non-administrative users read access to files in the %windir%\\system32\\config directory. ...",
+          "link": "https://www.kb.cert.org/vuls/id/506989",
+          "publishedOn": "2021-07-21T17:35:08.000Z",
+          "wordCount": 819,
+          "title": "VU#506989 - Microsoft Windows gives unprivileged user access to system32\\config files"
         },
         {
           "id": "https://japan.zdnet.com/article/35174227/",
@@ -254,6 +443,15 @@
           "publishedOn": "2021-07-21T14:46:05.000Z",
           "wordCount": 86,
           "title": "はてブの人気のコメント"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1339729.html",
+          "author": null,
+          "description": "米Microsoftは7月14日（現地時間）、「Windows Terminal 1.9」を正式リリースした。このアップデートの目玉は、いつでもデスクトップ上部に「Windows Terminal」画面を呼び出せる「Quake」モードだ。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1339729.html",
+          "publishedOn": "2021-07-21T13:54:35.000Z",
+          "wordCount": 171,
+          "title": "「Quake」モードを追加した「Windows Terminal 1.9」が正式版に ～既定ターミナルの置き換えは搭載見送り - 窓の杜"
         },
         {
           "id": "https://www.mbsd.jp/research/20210721/blog/",
@@ -290,6 +488,15 @@
           "publishedOn": "2021-07-21T11:26:19.000Z",
           "wordCount": 119,
           "title": "Reactを学ぶときに役立つ情報・本など"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1339781.html",
+          "author": null,
+          "description": "Mozillaは7月20日（米国時間）、「Firefox 90」でFTPのサポートを終了したと発表した。「Firefox 88」以降はすでにデフォルトで無効化されていたが、とうとう完全に廃止された格好だ。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1339781.html",
+          "publishedOn": "2021-07-21T10:46:23.000Z",
+          "wordCount": 113,
+          "title": "Mozilla、「Firefox 90」でFTPのサポートを終了 - 窓の杜"
         },
         {
           "id": "https://www.4gamer.net/games/483/G048386/20210721001/",
@@ -425,6 +632,15 @@
           "publishedOn": "2021-07-21T02:48:26.000Z",
           "wordCount": 504,
           "title": "今までやってきたあなたなら「絶対にできる！」　データサイエンスの世界に入るということは“強くてNew Game” - ログミーTech"
+        },
+        {
+          "id": "https://www.security-next.com/128357",
+          "author": null,
+          "description": "Linuxカーネルにおいて、権限の昇格が生じる脆弱性「CVE-2021-33909」が明らかとなった。各ディストリビュータよりアップデートが展開されている。 バッファの割り当てが適切に行われておらず、域外への書き込みが可能となる脆弱性「CVE-2021-33909」が明らかとなったもの。Qualysが発見、報告した。 2014年7月以降に存...",
+          "link": "https://www.security-next.com/128357",
+          "publishedOn": "2021-07-21T02:04:49.000Z",
+          "wordCount": 146,
+          "title": "【セキュリティ ニュース】Linuxカーネルにroot権限を取得できる脆弱性 - 1Gバイト超のパス長処理で（1ページ目 / 全1ページ）：Security NEXT"
         },
         {
           "id": "https://quipper.hatenablog.com/entry/2021/07/21/080000",
@@ -1156,6 +1372,15 @@
           "title": "【9割の人が知らないGoogleの使い方】埋もれた重要メールを「1秒」で発見できるGmailの使い方 | Google 式10Xリモート仕事術 | ダイヤモンド・オンライン"
         },
         {
+          "id": "https://browserbook.shift-js.info/",
+          "author": null,
+          "description": "ようこそ本オンラインブックはセキュリティ・キャンプ全国大会 2021 オンラインの講義「ちいさな Web ブラウザを作ってみよう」 の事前課題資料です。 同講義の概要Web ブラウザが持つセキュリティ機構や、Web ブラウザ内で行われる先鋭的な攻撃手法の研究は発展を続けています。 この流れに沿って、それらの中には、Web...",
+          "link": "https://browserbook.shift-js.info/",
+          "publishedOn": "2021-07-17T16:11:52.000Z",
+          "wordCount": 66,
+          "title": "ちいさな Web ブラウザを作ってみよう"
+        },
+        {
           "id": "https://gigazine.net/news/20210717-record-screen-with-vlc/",
           "author": null,
           "description": "PCでの作業を記録したり、ソフトウェアの使い方を説明したり、PCの画面を録画できるとお役立ちなケースはよくあります。PCの画面を録画するにはWindowsの標準搭載されている「ゲームバー」機能や、オープンソースの配信ソフト「OBS」を利用する方法がありますが、このほかに「メディアプレイヤーソフト『VLC』で録画する...",
@@ -1807,15 +2032,6 @@
           "publishedOn": "2021-06-27T22:45:16.000Z",
           "wordCount": 105,
           "title": "魅力的なUXライティングのポートフォリオとはどのようなものか"
-        },
-        {
-          "id": "https://uxmilk.jp/?p=79219",
-          "author": "UX MILK編集部",
-          "description": "コンテンツマーケティングがますます盛んになっている現代で、私たちは情報オーバーロード（information overload：情報過多）にどのように対処すれば良いのでしょうか？　時間のないユーザーに、どのようにコンテン",
-          "link": "https://uxmilk.jp/79219",
-          "publishedOn": "2021-06-22T22:45:21.000Z",
-          "wordCount": 94,
-          "title": "情報過多な時代に私たちはどうコンテンツを届けるのか"
         }
       ]
     },
@@ -1830,6 +2046,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=344960",
+          "author": "Chris Coyier",
+          "description": "Eric, again not mincin’ no words with blog post titles. This is me:\nThe most common CSS declaration organization technique I come across is none whatsoever.\nAlmost none, anyway. I tend to group them by whatever dumps out of my …\nThe post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/",
+          "publishedOn": "2021-07-22T22:33:29.000Z",
+          "wordCount": 965,
+          "title": "Organize your CSS declarations alphabetically"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344580",
+          "author": "Nathan Babcock",
+          "description": "We’re going to walk through the technical process of hooking into Google Drive’s API to source content on a website. We’ll examine the step-by-step implementation, as well as how to utilize server-side caching to avoid the major pitfalls to avoid …\nThe post Using Google Drive as a CMS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-google-drive-as-a-cms/",
+          "publishedOn": "2021-07-22T14:44:26.000Z",
+          "wordCount": 2790,
+          "title": "Using Google Drive as a CMS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344330",
+          "author": "Chris Coyier",
+          "description": "Hashnode is a free platform for developer blogging. Say you’ve just finished an ambitious project and want to write about 10 important lessons you’ve learned as a developer during it. You should definitely blog it—I love that kind of blog post, myself. Making a jump into the technical debt of operating your own blog isn’t a small choice, but it’s important to own your own content. With Hashnode, the decision gets a lot easier. You can blog under a site you entirely own, and at the same time, reap the benefits of hosted software tailor-made for developer blogging and be part of a social center around developer writing.\nThe post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hashnode-a-blogging-platform-for-developers/",
+          "publishedOn": "2021-07-22T14:39:09.000Z",
+          "wordCount": 967,
+          "title": "Hashnode: A Blogging Platform for Developers"
+        },
         {
           "id": "https://css-tricks.com/?p=344950",
           "author": "Chris Coyier",
@@ -2149,15 +2392,6 @@
           "publishedOn": "2021-06-24T00:46:00.000Z",
           "wordCount": 473,
           "title": "2021年6月第4週号 1位は，CSSでの縦横比の設定方法，気になるネタは，Spotifyがライブオーディオアプリ「Greenroom」を提供開始，Clubhouseのライバル誕生 ── 週刊Webテク通信"
-        },
-        {
-          "id": "https://gihyo.jp/design/serial/01/website-pickup/0168",
-          "author": "Lançamento",
-          "description": "ジメジメとした空気と気分のスッキリしない気候で，梅雨の到来を感じる今日このごろ，皆様いかがお過ごしでしょうか。今回も個人的に感じた，素晴らしいウェブサイトの特徴をいくつかお話したいと思います。",
-          "link": "https://gihyo.jp/design/serial/01/website-pickup/0168",
-          "publishedOn": "2021-06-23T00:15:00.000Z",
-          "wordCount": 543,
-          "title": "第168回　The future of Internet Explorer on Windows 10 is in Microsoft Edge，AppSheet Automation，Domino’s Self-Driving Delivery ── いま，見ておきたいウェブサイト"
         }
       ]
     },
@@ -2166,6 +2400,42 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/jokim/my-first-impression-of-angular-3bnn",
+          "author": "kim-jos",
+          "description": "My first impression of Angular is that it's a lot bulkier than other frameworks. There's more \"Angular\" syntax that you have to get used to. \nYou can realize how bulky Angular is just by creating a simple component. When you create an Angular component using the Angular CLI it automatically creates 4 files for you: 1) the html file, 2) the css file, 3) the typescript file, and 4) the test file. I made a couple apps in Vue and all the logic, css, and html are in one file which I think makes it more convenient.\nAlso Angular has a lot of syntax that you have to get used to. For example, Angular uses a decorator function that generates three metadata properties 1) element selector, 2) templateUrl(html), and 3) styleUrl(CSS styles). In React, you just have to import the css file but in Angular you have to use a decorator function. Although it is done automatically by Angular, the syntax is quite different from anything in React of Vue.\nI did read that Angular's advantage is that it's a framework meaning that it has built-in capabilities such as state management, http request functions, server-side rendering, etc. which saves time. Also, the architecture of Angular projects are very similar everywhere.\nI did write a couple posts trying to learn Vue but I recently got a job where I have to use Angular. So, I will document my progress learning Angular from now on.",
+          "link": "https://dev.to/jokim/my-first-impression-of-angular-3bnn",
+          "publishedOn": "2021-07-22T12:37:15.000Z",
+          "wordCount": 754,
+          "title": "My First Impression of Angular"
+        },
+        {
+          "id": "https://dev.to/the-guild/apollo-angular-1-2-using-graphql-in-your-apps-just-got-a-whole-lot-easier-3ome",
+          "author": "TheGuildBot",
+          "description": "This article was published on 2018-08-21 by Kamil Kisiela @ The Guild Blog\nCheck what’s new in Apollo Angular and how to get the full potential benefits of using Angular + GraphQL + TypeScript combined thanks to GraphQL-Code-Generator.\nWe are very excited to announce a new version of Apollo Angular that dramatically improves and simplifies the usage of GraphQL with Angular.\nThis version also adds production and scale related features, that our large Enterprise and production users had been asking for.\n  Code generation for Apollo Angular\n\n  Query, Mutation, Subscription as an Angular service\n  Apollo Angular Boost\n\n  Testing tools\nThrough almost two years of using GraphQL in Angular we gained a lot of experience, and learned how people use the library.\nWith the current API, having query an…",
+          "link": "https://dev.to/the-guild/apollo-angular-1-2-using-graphql-in-your-apps-just-got-a-whole-lot-easier-3ome",
+          "publishedOn": "2021-07-22T08:22:25.000Z",
+          "wordCount": 1390,
+          "title": "Apollo-Angular 1.2 - using GraphQL in your apps just got a whole lot easier!"
+        },
+        {
+          "id": "https://dev.to/the-guild/apollo-angular-0-11-a8h",
+          "author": "TheGuildBot",
+          "description": "This article was published on 2017-03-01 by Kamil Kisiela @ The Guild Blog\nWe recently released version0.11.0of apollo-angular and a lot of things have changed and improved since our last update blog!\nFirst, here is a overview list of the main changes:\n  New name\n  Support for Apollo Client 0.8+\n  AoT support\n  Multiple Apollo Client instances in a single app\n  TypeScript improvements and TypeScript codegen\n  Apollo Client Developer Tools\n  ES6 Modules and Tree Shaking\n  Support for Angular 4\nSo let’s dive into it!\n\nAs you all know, the term “Angular 2” is no longer a thing, now it’s just “Angular”, without the version suffix (#justAngular). So we renamed the package to be “apollo-angular”. We really wanted “angular-apollo” to match up with react-apollo, but it was already taken. That mean…",
+          "link": "https://dev.to/the-guild/apollo-angular-0-11-a8h",
+          "publishedOn": "2021-07-22T08:22:20.000Z",
+          "wordCount": 1735,
+          "title": "Apollo Angular 0.11"
+        },
+        {
+          "id": "https://dev.to/the-guild/angular-cli-meteor-no-more-ejecting-webpack-configuration-3k14",
+          "author": "TheGuildBot",
+          "description": "This article was published on 2018-07-13 by Arda Tanrikulu @ The Guild Blog\nPreviously, we have to eject Webpack configuration generated by Angular CLI to modify module aliases for Meteor’s special import syntax such as meteor/meteor and meteor/mongo etc.. However, this is not required after the latest release of Meteor Client Bundler. Now, MCB can create stub modules for these imports.\nCheck out the example in angular-meteor ; https://github.com/Urigo/angular-meteor/tree/master/examples/AngularCLI\n  After installation of meteor-client-bundler ;\n\n\n\n\nyarn add meteor-client-bundler --dev\n// or\nnpm install meteor-client-bundler --save-dev\n\n  Add meteor-client.config.json with the necessary options;\n\n\n\n\n// meteor-client.config.json\n{\n  \"runtime\": {\n    \"DDP_DEFAULT_CONNECTION_URL\": \"http://localhost:3000\",\n    \"ROOT_URL\": \"http://localhost:3000\"\n  },\n  // This option enables the generation of stub modules\n  \"generateNodeModules\": true\n}\n\n  After that; don’t forget to add generated meteor-client.js to angular.json ;\n\n\n\n\n{\n  \"scripts: [\"node_modules/meteor-client.js\"]\n}\n\n  Optionally, you can add postinstall script to generate all modules in every node_modules generation; because yarn or npm may remove your generated modules from this directory.\n\n\n\n\n// package.json\n{\n  \"scripts\": {\n    \"postinstall\": \"meteor-client bundle -s <PATH-TO-METEOR-PROJECT>\"\n  }\n}\n\n  Ready to use!\nThank you for reading my blog post about using Angular CLI with new MCB. I’d appreciate your claps to this post if you like it.",
+          "link": "https://dev.to/the-guild/angular-cli-meteor-no-more-ejecting-webpack-configuration-3k14",
+          "publishedOn": "2021-07-22T08:17:07.000Z",
+          "wordCount": 580,
+          "title": "Angular CLI + Meteor — No more ejecting Webpack Configuration"
+        },
         {
           "id": "https://dev.to/anirbmuk/angular-infinite-scrolling-using-rxjs-and-ngrx-4p8i",
           "author": "Anirban Mukherjee",
