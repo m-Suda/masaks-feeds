@@ -2,10 +2,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-23T00:15:23.581Z</updated>
+    <updated>2021-07-24T00:14:25.129Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reactive Programming 🌫️ - Demystified using RxJS]]></title>
+        <id>https://dev.to/gitpaulo/reactive-programming-demystified-using-rxjs-53g5</id>
+        <link href="https://dev.to/gitpaulo/reactive-programming-demystified-using-rxjs-53g5"/>
+        <updated>2021-07-23T22:38:48.000Z</updated>
+        <summary type="html"><![CDATA[If you're looking for an RxJS quick start then this article is not for you!
+Here I will be tackling Reactive Programming with the goal of shedding some light on its theory using RxJS as the example.
+I will be explaining the core Reactive Programming concepts, relating them to RxJS and how works they work in practice. Hopefully, by the end of the read, you'll have a truer understanding of RxJS and be able to pick up any Rx Implementation and immediately start coding. Let's get started!
+RxJS is an API for asynchronous programming
+To understand what this means we need to define what is meant by asynchronous programming and what observable streams are. The best place to start? Reactive Programming!
+Reactive Programming (not to be confused with Functional Reactive Programming!!) is a subset of …]]></summary>
+        <author>
+            <name>Paulo Santos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピックの開会式に使われるはずだったが中止されてしまった『207ヶ国をイメージした着物』をまとめました - Togetter]]></title>
+        <id>https://togetter.com/li/1749056</id>
+        <link href="https://togetter.com/li/1749056"/>
+        <updated>2021-07-23T17:58:37.000Z</updated>
+        <summary type="html"><![CDATA[てんこ @violetenko オリンピック開会式に使われるはずだったKIMONOプロジェクトの振袖たち。一昨年、私が着用させていただいたカメルーンの振袖をどうぞ。選手入場行進、カメルーンのみなさんド派手で可愛かったね✨ #カメルーン #イマジンワンワールド #キモノプロジェクト #オリンピック #オリンピック開会式 pic.twi...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Features That May Not Work As You’d Expect]]></title>
+        <id>https://css-tricks.com/?p=344019</id>
+        <link href="https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/"/>
+        <updated>2021-07-23T15:12:11.000Z</updated>
+        <summary type="html"><![CDATA[As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…
+The post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Farai Gandiya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My petite-vue review]]></title>
+        <id>https://css-tricks.com/?p=345209</id>
+        <link href="https://daverupert.com/2021/07/petite-vue-review/"/>
+        <updated>2021-07-23T15:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Dave:
+petite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps 
+…
+The post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[戦国時代だったテキストエディタ界をVisual Studio Codeが天下統一しつつある - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210723-the-era-of-visual-studio-code/</id>
+        <link href="https://gigazine.net/news/20210723-the-era-of-visual-studio-code/"/>
+        <updated>2021-07-23T12:36:11.000Z</updated>
+        <summary type="html"><![CDATA[テキスト編集だけでなく、表計算やイラスト作成など、何かの目的を達成しようとした際には「どのツールを選ぶのか」が問題になってきます。テキストエディタの世界でVisual Studio Codeがその地位を不動のものにしつつある点について、ロビン・クリーンさんがデータをまとめています。 The Era of Visual Studio Code | ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これらすべてのコンピュータゲームをひとつでも遊んだことのある人間は死んでも償えない罪を背負うことになったね。五輪開催、絶対に許さない。 - cringe のブックマーク / はてなブックマーク]]></title>
+        <id>https://b.hatena.ne.jp/entry/4705870456499214914/comment/cringe</id>
+        <link href="https://b.hatena.ne.jp/entry/4705870456499214914/comment/cringe"/>
+        <updated>2021-07-23T12:33:58.000Z</updated>
+        <summary type="html"><![CDATA[これらすべてのコンピュータゲームをひとつでも遊んだことのある人間は死んでも償えない罪を背負うことになったね。五輪開催、絶対に許さない。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料でブラウザ上で誰でも簡単に美少女VTuberに受肉できる「Kalidoface 3D」レビュー - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210723-kalidoface-3d/</id>
+        <link href="https://gigazine.net/news/20210723-kalidoface-3d/"/>
+        <updated>2021-07-23T09:54:11.000Z</updated>
+        <summary type="html"><![CDATA[カメラやセンサーで捉えた動きを架空の3Dや2Dのアバターに反映させてライブ配信を行うVTuber(バーチャルYouTuber)として活動するためには、専用のソフトやアプリを使う必要があります。Richさんが開発する「Kalidoface 3D」はウェブカメラさえあればブラウザから簡単にVTuberになれるウェブアプリで、無料で利用できます...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人でもAWS Organizationsを使ったほうが良い理由 - 本日も乙]]></title>
+        <id>https://blog.jicoman.info/2021/06/why-persion-should-use-aws-organizations/</id>
+        <link href="https://blog.jicoman.info/2021/06/why-persion-should-use-aws-organizations/"/>
+        <updated>2021-07-23T09:18:44.000Z</updated>
+        <summary type="html"><![CDATA[技術書典11で「Amazon Web Servicesコスト最適化入門 マルチアカウント編」を頒布中です。 techbookfest.org BOOTHでも購入できますが、送料（370円）がかかってしまうので、7/25までであれば技術書典のオンラインマーケットだと送料がかからずお得かと思います。オンラインマーケットだと物理本の発送が8月になってしま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Storage API]]></title>
+        <id>https://dev.to/naveenchandar/web-storage-api-3d49</id>
+        <link href="https://dev.to/naveenchandar/web-storage-api-3d49"/>
+        <updated>2021-07-23T09:14:09.000Z</updated>
+        <summary type="html"><![CDATA[What is Web Storage
+Web storage has two types of mechanisms. They are 
+Session storage
+Local storage
+Session Storage
+Local Storage
+Methods and Properties available in both session storage and local storage are
+Set Item
+Get Item
+Remove Item
+Clear
+Key
+Length
+Set Item
+It takes two parameters key and value.
+window.localStorage.setItem('name', 'Dev Community');
+window.sessionStorage.setItem('name', 'Dev Community');
+
+Where name is the key and Dev Community is the value. Also note that local storage and session storage can only store strings.
+To store arrays or objects, you should convert them to strings.
+To do this, we can use the JSON.stringify() method before storing to setItem.
+const person = {
+    name: "Naveen Chandar",
+    location: "India"
+}
+window.localStorage.setItem('user',JSON.string…]]></summary>
+        <author>
+            <name>Naveenchandar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公式ドキュメントの読み方]]></title>
+        <id>https://zenn.dev/qnighy/articles/b39ff132777758</id>
+        <link href="https://zenn.dev/qnighy/articles/b39ff132777758"/>
+        <updated>2021-07-23T09:12:40.000Z</updated>
+        <summary type="html"><![CDATA[「公式ドキュメントを読め」というのが急に話題になっていたので自分なりに整理してみました。 注意: そんなに真面目に推敲していません。フィーリングで書いているので実態に即してない部分もあるかも…… 公式ドキュメントとは何か あなたが使おうとしている道具 (ライブラリ、フレームワーク、プログラミング言語、ミド...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜテストが開発を駆動するのか]]></title>
+        <id>https://zenn.dev/sterashima78/articles/2e5df396a549fb</id>
+        <link href="https://zenn.dev/sterashima78/articles/2e5df396a549fb"/>
+        <updated>2021-07-23T08:30:17.000Z</updated>
+        <summary type="html"><![CDATA[はじめに TDD は Test-Driven Development を省略したもので日本語では『テスト駆動開発』という語が訳として与えられている。 TDD は現在多くの人に認知されていて、多くの実践者がいると思う。 私も TDD というスタイルが好きでよくそのような開発をする。 これまで、開発者の方と TDD について話すと『どうやる』の方...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11でLinuxアプリケーション、コマンドを実行する方法 | TECH+]]></title>
+        <id>https://news.mynavi.jp/article/20210723-1915331/</id>
+        <link href="https://news.mynavi.jp/article/20210723-1915331/"/>
+        <updated>2021-07-23T08:25:27.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11には、Linuxアプリケーションを実行する機能「WSL 2 (Windows Subsystem for Linux version 2)」が搭載されている。これにより、LinuxアプリケーションやLinuxコマンドを利用することが可能であり、Ubuntuをインストールすればすぐに使うことができる状態だ。 WSL 2はWindows 10にも搭載されている機能だが、W...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「東京オリンピック情報システム（1964年）」〜日本のオンライン化の契機 - IBM Systems Japan blog]]></title>
+        <id>https://www.ibm.com/blogs/systems/jp-ja/1964-tokyo-olympics-information-system/</id>
+        <link href="https://www.ibm.com/blogs/systems/jp-ja/1964-tokyo-olympics-information-system/"/>
+        <updated>2021-07-23T07:09:20.000Z</updated>
+        <summary type="html"><![CDATA[現在、私達は、競技場やスタジアムでのスポーツ観戦時、あるいは、各種のスポーツ番組視聴時に、他会場における競技や試合の速報や公式結果を、当たり前のように瞬時に確認できています。しかし、1960年代初頭までは、公式記録の確定に数ヶ月を要していたのです。ということは、「速報」も、きっと、現在の感覚とは異な...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm、フレキシブルな32bitプロセッサ「PlasticArm」製造成功 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/23/news040.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/23/news040.html"/>
+        <updated>2021-07-23T06:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Armがフレキシブル（折り曲げ可能）な非シリコンプロセッサ「PlasticArm」の製造に成功したと発表した。ポリイミドと金属酸化物の薄膜トランジスタを組み合わせた32ビットのCortex-M0ベースのSoC。皮膚に直接適用するヘルスモニタリングシステムなどでの採用を見込む。 英Armは7月21日（現地時間）、フレキシブル（折り...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Lensがデスクトップ版Chromeブラウザで利用可能に - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/google-lens-050057340.html</id>
+        <link href="https://japanese.engadget.com/google-lens-050057340.html"/>
+        <updated>2021-07-23T06:01:21.000Z</updated>
+        <summary type="html"><![CDATA[米Googleの画像認識エンジンこと「Google Lens」がデスクトップ版Chromeブラウザでも利用できることを、海外テックサイトの9to5Googleが報告しています。 カメラを向けた先、あるいは画像に存在する物体を認識し、ユーザーにその内容を提示するGoogle Lens。これまでその機能展開はモバイル版が先行していましたが、今年...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニーXRや次世代有機EL、そしてプレーヤ終焉論まで～'21年夏の本田・山之内AV対談 - AV Watch]]></title>
+        <id>https://av.watch.impress.co.jp/docs/topic/1339702.html</id>
+        <link href="https://av.watch.impress.co.jp/docs/topic/1339702.html"/>
+        <updated>2021-07-23T05:58:15.000Z</updated>
+        <summary type="html"><![CDATA[オーディオ・ビジュアル評論家の山之内正氏と本田雅一氏が、話題の新製品や業界動向を独自の視点で語る、半期に1度の対談。前編と後編の2回に分けて、上半期に登場した新製品や新技術、AV時事ネタを取り上げる。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updates on dev.to clone in Angular July 23]]></title>
+        <id>https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-july-23-1g62</id>
+        <link href="https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-july-23-1g62"/>
+        <updated>2021-07-23T04:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Github Repo - https://github.com/ajitsinghkaler/devto-clone
+Deployed on Firebase - https://dev-toclone.firebaseapp.com/
+Last week I added Article store and sidebar in our dev.to clone.
+
+This week I added the articles section. The articles section is divided into three parts the featured article ie the first article in your feed the rest of the articles section and the top header from where I select the time interval of our feed. Right now the feed is generic not based on any tags and user but I will do that later. Most of the time went in setting up the HTML, CSS for our articles section so I was not able to complete the tags store and the articles header section.
+I did some interesting things which you may find interesting. 
+In normal articles card the font size of title is 24px and in the featured-article section it was 30px. So I thought I should add the title section via content projection but this had one problem that there is no way in Angular to give default content projection the issue is open for a long time but there is a work around you can define a ref on the template and check if has children then render the projected content or render the default content if it does not have any content projected. To see how I implemented it follow this link.
+So if you put some styles of your component in the :host selector it can be easily changed in other components too. Like the article card-component as some styles but with the featured card I need to change some styles of the card component. Most of the CSS I need to be changed is global so I put it in host of the article-card component and I was easily able to change the styles to see how I implemented this check this link.
+Which leads us here
+
+Issue
+Issue
+Issue
+built homepage articles section
+add dynamic title in article card
+WIP: add header to articles section
+Let me know in the comments if you think something can be improved.]]></summary>
+        <author>
+            <name>Ajit Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TumblrがZ世代のクリエイターのためのサブスクサービスPost+を開始 | TechCrunch Japan]]></title>
+        <id>https://jp.techcrunch.com/2021/07/23/2021-07-21-tumblr-debuts-post-a-subscription-service-for-gen-z-creators/</id>
+        <link href="https://jp.techcrunch.com/2021/07/23/2021-07-21-tumblr-debuts-post-a-subscription-service-for-gen-z-creators/"/>
+        <updated>2021-07-23T03:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Twitter（ツイッター）がSuper Follows（スーパーフォロー）を開始し、YouTube（ユーチューブ）が新しいマネタイズツールを追加し、Instagram（インスタグラム）がeコマースを導入するなど、ソーシャルメディア界はクリエイターが生計を立てるための新しい方法で盛り上がっている。この争いにTumblr（タンブラー）も、ユ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonの高速化技術。JavaScript,C++にも負けてない - Qiita]]></title>
+        <id>https://qiita.com/slave/items/5e06bc8c8eb2b766c0e3</id>
+        <link href="https://qiita.com/slave/items/5e06bc8c8eb2b766c0e3"/>
+        <updated>2021-07-23T03:05:35.000Z</updated>
+        <summary type="html"><![CDATA[書きかけです。 Python一本で頑張っています。科学計算が得意で、データ解析もできる。独りな孤独な人間なので、オールマイティに戦える言語としてPythonはなくてはならない言語。 Pythonの良いところ 1. 科学(統計, AI etc)ライブラリの豊富さ Pythonの悪いところ 1. 遅い, 遅い, 遅い... PyPy 下記通り、PyPyは高速。C...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleトップページでオリンピックをイメージした無料ゲーム『Doodle チャンピオン アイランドゲーム』が配信開始。7つの競技でスコアを競え！ - ファミ通.com]]></title>
+        <id>https://www.famitsu.com/news/202107/23228107.html</id>
+        <link href="https://www.famitsu.com/news/202107/23228107.html"/>
+        <updated>2021-07-23T00:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Googleのトップページでは、その日の記念日などに合わせてGoogleのロゴデザインが変化するが（Doodleと呼ばれる。英語で落書きの意味）、今回はドット絵で描かれたロゴになっており、それをクリックするとアニメーションが始まり、その後に、実際にプレイできるゲームが始まる。 ※東京オリンピック関連記事]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating Facebook to MySQL 8.0 - Facebook Engineering]]></title>
+        <id>https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/</id>
+        <link href="https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/"/>
+        <updated>2021-07-23T00:22:58.000Z</updated>
+        <summary type="html"><![CDATA[MySQL, an open source database developed by Oracle, powers some of Facebook’s most important workloads. We actively develop new features in MySQL to support our evolving requirements. These features change many different areas of MySQL, including client connectors, storage engine, optimizer, and ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - cloudwego/netpoll: A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.]]></title>
+        <id>https://github.com/cloudwego/netpoll</id>
+        <link href="https://github.com/cloudwego/netpoll"/>
+        <updated>2021-07-22T22:52:48.000Z</updated>
+        <summary type="html"><![CDATA[中文 Introduction Netpoll is a high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. RPC is usually heavy on processing logic and therefore cannot handle I/O serially. But Go's standard library net designed blocking I/O API, so that the RP...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Organize your CSS declarations alphabetically]]></title>
         <id>https://css-tricks.com/?p=344960</id>
@@ -17,6 +287,17 @@ Almost none, anyway. I tend to group them by whatever dumps out of my …
 The post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[how to achieve this r equirement in angular version 2.0 and above version]]></title>
+        <id>https://dev.to/pradhanb/how-to-achieve-this-r-equirement-in-angular-version-2-0-and-above-version-2jh2</id>
+        <link href="https://dev.to/pradhanb/how-to-achieve-this-r-equirement-in-angular-version-2-0-and-above-version-2jh2"/>
+        <updated>2021-07-22T17:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Create the above sample webpage, the left panel contain slides of different colours, you can have your own fixed set of colours for creating the slides (minimum – 4 slides). The right panel contains sketches / images (minimum – 4), you can use any decent images of your choice.
+User should be able to drag n drop any slide of his choice from the left panel to the playbook area and he /she should also be able to drag n drop the any sketch / image from the right panel over a slide in the play area. User should not be able to drag n drop the images from right panel directly to the play area.]]></summary>
+        <author>
+            <name>pradhanb</name>
         </author>
     </entry>
     <entry>
@@ -40,6 +321,16 @@ The post Organize your CSS declarations alphabetically appeared first on CSS-Tri
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[QUICやHTTP/3で利用を避けるべき送信元ポートの議論についての考察 - show log @yuyarin]]></title>
+        <id>https://yuyarin.hatenablog.com/entry/2021/07/22/235009</id>
+        <link href="https://yuyarin.hatenablog.com/entry/2021/07/22/235009"/>
+        <updated>2021-07-22T15:45:34.000Z</updated>
+        <summary type="html"><![CDATA[https://www.slideshare.net/yuyarin/quicnat 最近QUICとNATについての話をJANOGで紹介するぐらいQUICという新しいプロトコルに既存のネットワークインフラがどう適応していくかを考えています。 id:asnokaze さんの記事で紹介されているように、QUICやHTTP3/3で送信元UDPポートとして利用を避けるべきポートの議論が行...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Doodle Champion Island Games Begin!]]></title>
         <id>https://www.google.com/doodles/doodle-champion-island-games-begin</id>
         <link href="https://www.google.com/doodles/doodle-champion-island-games-begin"/>
@@ -55,6 +346,16 @@ The post Organize your CSS declarations alphabetically appeared first on CSS-Tri
         <link href="https://iphone-mania.jp/news-384489/"/>
         <updated>2021-07-22T15:13:55.000Z</updated>
         <summary type="html"><![CDATA[iPhone限定の写真コンテスト「iPhone Photography Awards」の、2021年受賞作品が発表されました。 第14回コンテストの受賞作品が発表 毎年恒例の、iPhoneで撮影した写真限定のフォトコンテスト「iPhone Photography Awards」の第14回大会の受賞作品が、現地時間7月22日に発表されました。 2021年のグランプリに輝いたの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android端末が使用する衛星の種類や精度などを確認可能な「GPSTest」レビュー - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210722-gpstest/</id>
+        <link href="https://gigazine.net/news/20210722-gpstest/"/>
+        <updated>2021-07-22T15:08:46.000Z</updated>
+        <summary type="html"><![CDATA[複数の人工衛星の電波を利用して位置を特定する全球測位衛星システム(GNSS)は、アメリカのGPSや日本の準天頂衛星システム(QZSS)など、各国によって構築されています。そんな各国のシステムを位置情報の特定に利用しているAndroid端末で、GNSSがどのように機能しているかを確認できるアプリが「GPSTest」です。 GPSTest -...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -133,6 +434,26 @@ I did read that Angular's advantage is that it's a framework meaning that it has
 I did write a couple posts trying to learn Vue but I recently got a job where I have to use Angular. So, I will document my progress learning Angular from now on.]]></summary>
         <author>
             <name>kim-jos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - flouthoc/wiser: Extremely minimal vmm for linux written in C. Hopefully someday will spin linux-vm for you.]]></title>
+        <id>https://github.com/flouthoc/wiser</id>
+        <link href="https://github.com/flouthoc/wiser"/>
+        <updated>2021-07-22T12:35:45.000Z</updated>
+        <summary type="html"><![CDATA[🐎 Extremely minimal vmm for linux written in C. Hopefully someday will spin linux-vm for you.]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更新したChrome OSに紛れこんだ「1文字のタイポ」、ログイン不能やファイル損失の不具合を誘発 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/chrome-os-login-issue-typo-091029543.html</id>
+        <link href="https://japanese.engadget.com/chrome-os-login-issue-typo-091029543.html"/>
+        <updated>2021-07-22T10:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、Chrome OS 91のアップデート(91.0.4472.147)を配信したところ、多くのユーザーからデバイスのCPU負荷が非常に高くなるとの苦情を受け取ることになりました。そのためGoogleはすぐにこのアップデートの配布を中止し、元のバージョン(91.0.4472.114)に戻しました。 ところがその結果、今度はLinuxアプリケーショ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -294,6 +615,16 @@ Thank you for reading my blog post about using Angular CLI with new MCB. I’d a
         <link href="https://gist.github.com/sadnessOjisan/50d0bcb20b41aae6f281cdc44d5f8b9a"/>
         <updated>2021-07-22T04:33:53.000Z</updated>
         <summary type="html"><![CDATA[sinukato-omotta-yo.md モデルナ2回目接種の副反応の記録 勢いで書いたこともあり、語尾が断定口調で強くなってしまっていますが、あくまでも個人の体験の記録ということを加味して読んでいただければと思います。 全員が全員このような症状が出ることはないと思いますが、もし不安を覚えているのでしたらここに書いたこ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未識魚 /中川譲 @技術書典11 い16 on Twitter: "アカン人物がアカン言動をするフィクションで作者や演者を叩いてはいけない。まあ多くの人がこの区別をつけられないのは分かっているけれど、いま辿れる限りでみる発信源のre-geinouというよく分からんサイトと、名前を検索しても何も出て… https://t.co/mqh7oXiEQU"]]></title>
+        <id>https://twitter.com/mishiki/status/1418021707466493952</id>
+        <link href="https://twitter.com/mishiki/status/1418021707466493952"/>
+        <updated>2021-07-22T04:15:39.000Z</updated>
+        <summary type="html"><![CDATA[アカン人物がアカン言動をするフィクションで作者や演者を叩いてはいけない。まあ多くの人がこの区別をつけられないのは分かっているけれど、いま辿れる限りでみる発信源のre-geinouというよく分からんサイトと、名前を検索しても何も出て… https://t.co/mqh7oXiEQU]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -504,6 +835,16 @@ The post A Step-By-Step Process for Turning Designs Into Code appeared first on 
 https://poulahelmy-blog.hashnode.dev/the-missing-part]]></summary>
         <author>
             <name>PoulaHelmy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フルリモートでできる勉強せざるを得ない環境の作り方 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/show_kanamaru/hururimotodedekirumian-qiang-sezaruwode-naihuan-jing-falsezuo-rifang</id>
+        <link href="https://speakerdeck.com/show_kanamaru/hururimotodedekirumian-qiang-sezaruwode-naihuan-jing-falsezuo-rifang"/>
+        <updated>2021-07-21T13:48:19.000Z</updated>
+        <summary type="html"><![CDATA[勉強を継続するには意識ではなく仕組みを変えることがとても重要です。いかに勉強せざるを得ない環境を作り続けることができるのか。 今回はフルリモートでできる勉強せざるを得ない環境の作り方についてまとめました！ 2021/07/21 【Hedge #10】エンジニアの勉強法ハックLTにて登壇した内容になります！ https://rakus....]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -737,6 +1078,16 @@ https://poulahelmy-blog.hashnode.dev/the-missing-part]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[デザインのスキルが確実に身につく良書！字詰めのやり方を日本人タイプデザイナーが徹底解説 -タイポグラフィにおける文字間調整の考え方 | コリス]]></title>
+        <id>https://coliss.com/articles/book-review/isbn-9784802512091.html</id>
+        <link href="https://coliss.com/articles/book-review/isbn-9784802512091.html"/>
+        <updated>2021-07-21T00:44:27.000Z</updated>
+        <summary type="html"><![CDATA[デザインのスキルを身につけたいと思った時に文字のデザイン、字詰めをあげるデザイナーは少なくないと思います。文字は、ロゴ、コピー、タイトル、見出し、本文のクオリティに影響を与える重要なデザイン要素です。 字詰めは感覚的な表現で解説されることが多いですが、本書では論理的に分かりやすく解説されており、デ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[デザインのスキルが確実に身につく良書！字詰めのやり方を日本人タイプデザイナーが徹底解説 -タイポグラフィにおける文字間調整の考え方]]></title>
         <id>https://coliss.com/?p=30135</id>
         <link href="https://coliss.com/articles/book-review/isbn-9784802512091.html"/>
@@ -744,6 +1095,16 @@ https://poulahelmy-blog.hashnode.dev/the-missing-part]]></summary>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特に環境に配慮した Google Cloud リージョンにリソースを配置したいお客様のために | Google Cloud Blog]]></title>
+        <id>https://cloud.google.com/blog/ja/topics/sustainability/pick-the-google-cloud-region-with-the-lowest-co2</id>
+        <link href="https://cloud.google.com/blog/ja/topics/sustainability/pick-the-google-cloud-region-with-the-lowest-co2"/>
+        <updated>2021-07-21T00:33:26.000Z</updated>
+        <summary type="html"><![CDATA[GCP を試すStart building on Google Cloud with $300 in free credits and 20+ always free products. 無料トライアル ※この投稿は米国時間 2021 年 7 月 13 日に、Google Cloud blog に投稿さ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -780,6 +1141,16 @@ The post The Nine States of Design appeared first on CSS-Tricks. You can support
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[インテルが東京2020オリンピックに提供した技術とは--ドローンや楽曲も - ZDNet Japan]]></title>
+        <id>https://japan.zdnet.com/article/35174180/</id>
+        <link href="https://japan.zdnet.com/article/35174180/"/>
+        <updated>2021-07-20T22:39:14.000Z</updated>
+        <summary type="html"><![CDATA[印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます インテルは7月20日、同社が東京2020オリンピック競技大会に提供するテクノロジーに関して説明会を開催した。 インテルは、2018年の平昌冬季オリンピックから国際オリンピック委...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[はてブのコメントが大幅に仕様変更されて不評らしいけど、これって、かつ..]]></title>
         <id>https://anond.hatelabo.jp/20210721041852</id>
         <link href="https://anond.hatelabo.jp/20210721041852"/>
@@ -800,6 +1171,16 @@ In modern web design and development, displaying an image is a highly intentiona
 The post Your Image Is Probably Not Decorative appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD搭載パソコンが人気　「2万円お得」でインテル追う: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUC01CLY0R00C21A7000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUC01CLY0R00C21A7000000/"/>
+        <updated>2021-07-20T19:22:39.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら パソコンの頭脳をつかさどるCPU（中央演算処理装置）。家電量販店などで米アドバンスト・マイクロ・デバイス（AMD）製CPUを搭載したパソコンの存在感が高まっている。...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -3565,26 +3946,6 @@ A search parameter to filter the entire records of users based on specified …]
 by Spidermonkey]]></summary>
         <author>
             <name>ECMAScript Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ecma International approves new standards - Ecma International]]></title>
-        <id>https://ecmascript-daily.github.io/2021/06/24/ecma-international-approves-new-standards-ecma-international</id>
-        <link href="https://ecmascript-daily.github.io/2021/06/24/ecma-international-approves-new-standards-ecma-international"/>
-        <updated>2021-06-24T02:19:09.000Z</updated>
-        <summary type="html"><![CDATA[ECMAScript 2021 is released!]]></summary>
-        <author>
-            <name>ECMAScript Daily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021年6月第4週号 1位は，CSSでの縦横比の設定方法，気になるネタは，Spotifyがライブオーディオアプリ「Greenroom」を提供開始，Clubhouseのライバル誕生 ── 週刊Webテク通信]]></title>
-        <id>https://gihyo.jp/design/clip/01/weekly-web-tech/202106/24</id>
-        <link href="https://gihyo.jp/design/clip/01/weekly-web-tech/202106/24"/>
-        <updated>2021-06-24T00:46:00.000Z</updated>
-        <summary type="html"><![CDATA[ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年6月14日～20日の間に見つけた記事のベスト5です。]]></summary>
-        <author>
-            <name>アシカガコウジ</name>
         </author>
     </entry>
 </feed>
