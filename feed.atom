@@ -2,16 +2,327 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-25T00:15:04.493Z</updated>
+    <updated>2021-07-26T00:17:07.506Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアエンジニア、家を買う - hichihara note]]></title>
+        <id>https://hichihara.hatenablog.com/entry/2021/07/26/070000</id>
+        <link href="https://hichihara.hatenablog.com/entry/2021/07/26/070000"/>
+        <updated>2021-07-25T23:55:41.000Z</updated>
+        <summary type="html"><![CDATA[最高の夏を迎える中庭 前回の記事投稿からだいぶあいていますが、あいかわらずGAFAではない会社でソフトウェアエンジニアをしています。今回は最近の個人的な大仕事であった家を買った話を書きます。ちなみにこの記事にソフトウェアエンジニア要素はほぼないので釣りタイトルになります、ただプロダクト設計やプロジェク...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アテンションエコノミーにおける倫理的なデザインの重要性]]></title>
+        <id>http://admin.uxmilk.jp/?p=73430</id>
+        <link href="https://uxmilk.jp/73430"/>
+        <updated>2021-07-25T22:45:27.000Z</updated>
+        <summary type="html"><![CDATA[今日までに無数のデジタル製品が作られてきました。そして、その結果として世界中で意図しない悪影響が起きています。韓国では政府がインターネット中毒者のリハビリセンターを設立し、インドでは多くの人が自撮り中に死亡し、アメリカで]]></summary>
+        <author>
+            <name>MaryuyamaMio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unit Testing - Spies and Mocks]]></title>
+        <id>https://dev.to/foxandxss/unit-testing-spies-and-mocks-42bk</id>
+        <link href="https://dev.to/foxandxss/unit-testing-spies-and-mocks-42bk"/>
+        <updated>2021-07-25T19:33:55.000Z</updated>
+        <summary type="html"><![CDATA[We have done a unit test of a calculator in the previous part. But we never mentioned what does unit means in unit test.
+There are several ways to test our application:
+Unit Test: We test one piece of code in isolation. That means, without its dependencies. A component without its services or the other components used in the template. A service without other services, etc.
+Integration Test: Here we test that a several pieces works in conjuction. Some people agrees that testing that a component works with its template is considered an integration testing. But more on that in later parts.
+End to End: In a end to end (e2e), we assert that our use cases works from start to finish. That means server calls, authentication and other stuff. We might talk about this in a different series.
+In angula…]]></summary>
+        <author>
+            <name>Jesús Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically sync url path and query params with Angular component fields]]></title>
+        <id>https://dev.to/juliandierkes/automatically-sync-url-path-and-query-params-with-angular-component-fields-1eif</id>
+        <link href="https://dev.to/juliandierkes/automatically-sync-url-path-and-query-params-with-angular-component-fields-1eif"/>
+        <updated>2021-07-25T14:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Wouldn't it be nice if a user of you Angular application could just send a link to another person ant they would end up seeing the exact same things on his screen?
+Using the Angular router you can accomplish that even if you have very dynamic views.
+The concept behind this is deep linking.
+If you are already familiar with deep linking and how to implement it with the Angular Router continue here.
+Imagine you have built a webapp for a library, and a user is browsing a list of available books. He selects a book and wants to show it to a friend. 
+With deep linking the information of the selected book is part of the url and can easily be shared between users. The same thing can be done with any parameter that affects the current view in your Angular application. (e.g. additionally with a searc…]]></summary>
+        <author>
+            <name>Julian Dierkes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乗り物酔いは防げない？：乗り物酔いの豆知識 ｜ センパア ｜ 大正製薬]]></title>
+        <id>https://brand.taisho.co.jp/semper/trivia/trivia02.html</id>
+        <link href="https://brand.taisho.co.jp/semper/trivia/trivia02.html"/>
+        <updated>2021-07-25T13:18:37.000Z</updated>
+        <summary type="html"><![CDATA[せっかくの楽しい旅行も乗り物酔いになってしまっては、台無しです。 よほどひどく酔いやすい方でなければ、乗り物酔いは防ぐことができます。 乗り物酔いにならないために気を付けることを、乗り物酔いになる原因、出発前や移動中の過ごし方、乗り物に酔ってしまったときの対処法を見ていきましょう。 同じ乗り物に同じ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国で｢モンキーＢウイルス｣の死者が報告される | ギズモード・ジャパン]]></title>
+        <id>https://www.gizmodo.jp/2021/07/highly-fatal-monkey-b-virus.html</id>
+        <link href="https://www.gizmodo.jp/2021/07/highly-fatal-monkey-b-virus.html"/>
+        <updated>2021-07-25T13:16:01.000Z</updated>
+        <summary type="html"><![CDATA[中国で｢モンキーＢウイルス｣の死者が報告される2021.07.25 22:00 Ed Cara - Gizmodo US ［原文］ （ 岩田リョウコ ） Photo: Shutterstock これが広がったら、悪夢...。 先週、中国でモンキーBウィルスでの死亡例が報告されました。死亡した人は獣医師で、彼が取り扱う動物の中に猿が含まれていて、その猿から感染したと...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会社員やることで「社会のルールを知れること」の良さはもっときちんと広められるべきだ｜TAKASU Masakazu｜note]]></title>
+        <id>https://note.com/takasu/n/nd94c48c0b26a</id>
+        <link href="https://note.com/takasu/n/nd94c48c0b26a"/>
+        <updated>2021-07-25T13:10:55.000Z</updated>
+        <summary type="html"><![CDATA[僕の友達は　@ochyai @GOROman @etsuko_ichihara 等やりたいことを仕事にしてる人も多いけど、ほぼ全員が会社員やプロ研究者からの独立組。 楽してたくさん稼ぐ話、マジ騙された話以外まったく聞かないので、会社大事 未経験フリーランスを席捲する「カジュアルな情報商材」https://t.co/eHkJYRlsH8 — 高須正和@NT深圳コ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[akira_you on Twitter: "ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2"]]></title>
+        <id>https://twitter.com/akira_you/status/1419228947766644736</id>
+        <link href="https://twitter.com/akira_you/status/1419228947766644736"/>
+        <updated>2021-07-25T12:54:35.000Z</updated>
+        <summary type="html"><![CDATA[ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ng-magical directives series (ng-content)]]></title>
+        <id>https://dev.to/valoni01/ng-magical-directives-series-ng-content-2gfk</id>
+        <link href="https://dev.to/valoni01/ng-magical-directives-series-ng-content-2gfk"/>
+        <updated>2021-07-25T11:09:07.000Z</updated>
+        <summary type="html"><![CDATA["Magic is just science that we do not understand yet" 
+This article is part of what I call the magical directives series. In this series, we will unravel the mystery behind some interesting Angular directives. Afterwards, we can add this little magic to our tool box. I call them magical directives because they play a very important role in building reusable components across our Angular applications.
+Below are the directives that we will be looking at in this series.
+ng-template
+ng-container
+ng-content
+*ngTemplateOutlet
+links to other articles in this series are below
+
+
+  
+  
+  The ng-content
+
+
+The ng-content is used to create configurable components. If we use the ng-content tag in our template, the inner content of the tags that define our component are then projected into this space.
+//…]]></summary>
+        <author>
+            <name>Valentine Awe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡単操作で自分専用Wikiを構築できるMarkdownエディタ「Obsidian」のモバイル版を使ってみた - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210725-obsidian-mobile/</id>
+        <link href="https://gigazine.net/news/20210725-obsidian-mobile/"/>
+        <updated>2021-07-25T10:10:17.000Z</updated>
+        <summary type="html"><![CDATA[基本無料のMarkdownエディタ「Obsidian」では、Markdown形式で見やすいノートを記述し、ノート同士にリンクを張ることで自分専用のWikiを構築することができます。そんなObsidianのモバイル版が2021年7月12日に登場したので、実際に使って機能を確かめてみました。 Mobile apps - Obsidian https://obsidian.md/mobile O...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ニセWindows 11インストーラーが蔓延、アドウェアやトロイの木馬が含まれていると警告 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/fake-windows11-adware-trojan-horse-092056600.html</id>
+        <link href="https://japanese.engadget.com/fake-windows11-adware-trojan-horse-092056600.html"/>
+        <updated>2021-07-25T10:00:54.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは次期Windows 11のプレビュー版を提供中ですが、入手するにはWindows Insiderプログラムへの登録が必要となります。これを経由せずに偽物のWindows 11インストーラーが配布されており、その中にアドウェアやマルウェアが含まれていると警告が発せられています。 ウイルス対策ソフトウェアで知られる企業K...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudFront+S3なSPAにLambda@EdgeでOGP対応する | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/lambda-edge-ogp/</id>
+        <link href="https://dev.classmethod.jp/articles/lambda-edge-ogp/"/>
+        <updated>2021-07-25T09:02:36.000Z</updated>
+        <summary type="html"><![CDATA[吉川@広島です。 案件でCloudFront+S3なSPAに対してOGP対応が必要になってきそうなため、Lambda@Edgeを使った対応について検証しました。 現状、FacebookやTwitterのBotは基本的にクライアントサイドJSを解釈できず、SPA単体でのOGP対応は難しいとされています。OGPメタタグはSSRで返してあげる必要があるため、「UserAg...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[和文フリーフォント“IBM Plex Sans JP”リリース！「ウェイトがあっても潰れない」「フトコロが広い」既存フォントとの比較も - Togetter]]></title>
+        <id>https://togetter.com/li/1749825</id>
+        <link href="https://togetter.com/li/1749825"/>
+        <updated>2021-07-25T08:47:10.000Z</updated>
+        <summary type="html"><![CDATA[リンク mojiru【もじをもじる】 IBMが無料で使えるフォントIBM Plexを公開 - mojiru【もじをもじる】 オープンソースフォント・IBM Plex オープンソースフォント・IBM Plex 書体見本 IBM-Plex-Mono IBM-Plex-Sans IBM-Plex-Sans-Condensed IBM-Plex-Serif オープンソースフォント・IBM Plexのダウンロードはこちら フォ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オリンピックではてブ民が嫌いになった]]></title>
+        <id>https://anond.hatelabo.jp/20210725153418</id>
+        <link href="https://anond.hatelabo.jp/20210725153418"/>
+        <updated>2021-07-25T06:41:29.000Z</updated>
+        <summary type="html"><![CDATA[オリンピックは開催されて嬉しい方の人間です。 今は家族で家で楽しく応援しています。 無観客だから懸念されるような事態もなく、選手も頑張ってる。 それなのにブコメを見ればネガコメばかり。 前に、「選手に石投げたい気分」とか言ってるブコメに★がついてるの見て一気に不快になった。 こんなコメント書くやつも★い...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonが暗号資産やブロックチェーンの専門家を求めていることが判明、支払い方法に暗号資産を導入か - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210725-amazon-seeking-digital-currency-blockchain-expert/</id>
+        <link href="https://gigazine.net/news/20210725-amazon-seeking-digital-currency-blockchain-expert/"/>
+        <updated>2021-07-25T06:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが出した求人情報から、同社が暗号資産(仮想通貨)やブロックチェーンの専門家を求めていることが明らかになりました。この情報から、Amazonが新たに仮想通貨での支払いを導入する可能性が報じられています。 Digital Currency and Blockchain Product Lead - ジョブID：1644513 | Amazon.jobs https://www.amazon....]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[建設的APIハック会場D]]></title>
+        <id>https://anond.hatelabo.jp/20210725124633</id>
+        <link href="https://anond.hatelabo.jp/20210725124633"/>
+        <updated>2021-07-25T06:18:16.000Z</updated>
+        <summary type="html"><![CDATA[増設しました ブコメ・スターご自由に anond:20210724203504]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグル銀行がコンビニ銀行を脅かしかねない訳 | 野口悠紀雄「経済最前線の先を見る」 | 東洋経済オンライン | 社会をよくする経済ニュース]]></title>
+        <id>https://toyokeizai.net/articles/-/441941</id>
+        <link href="https://toyokeizai.net/articles/-/441941"/>
+        <updated>2021-07-25T05:48:20.000Z</updated>
+        <summary type="html"><![CDATA[グーグルの新たな一手は思わぬところへ波及するかもしれない（左写真：David Paul Morris／Bloomberg、右写真撮影：大澤誠） グーグルが「Plex」と呼ぶ新しい金融サービスを開始した。いずれ日本でも導入されるだろう。これは、「組み込み型金融」と呼ばれるもので、銀行APIを通じてグーグルと既存銀行が共同作業を行う。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Same todo app with different technologies]]></title>
+        <id>https://dev.to/ahmadfathy/same-todo-app-with-different-technologies-o48</id>
+        <link href="https://dev.to/ahmadfathy/same-todo-app-with-different-technologies-o48"/>
+        <updated>2021-07-25T05:46:36.000Z</updated>
+        <summary type="html"><![CDATA[preview
+preview
+preview
+preview
+preview
+https://github.com/ahmadfathy97/same-todo-app-with-different-technologies]]></summary>
+        <author>
+            <name>Ahmad Fathy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[建設的APIハック会場・闇]]></title>
+        <id>https://anond.hatelabo.jp/20210725124742</id>
+        <link href="https://anond.hatelabo.jp/20210725124742"/>
+        <updated>2021-07-25T05:44:23.000Z</updated>
+        <summary type="html"><![CDATA[闇会場です 誹謗中傷・罵詈雑言・SATSUGAI予告などのテストに ご利用は自己責任でお願いします anond:20210724203504]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手描き国旗検索]]></title>
+        <id>https://mame.github.io/world-flag-search/ja/</id>
+        <link href="https://mame.github.io/world-flag-search/ja/"/>
+        <updated>2021-07-25T04:38:18.000Z</updated>
+        <summary type="html"><![CDATA[手描きで国旗が検索できます。あの国旗、どこの国だっけ？というときに。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料でSlackライクなオープンソースのチャットツール「Zulip」を使ってみた - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210725-zulip/</id>
+        <link href="https://gigazine.net/news/20210725-zulip/"/>
+        <updated>2021-07-25T04:11:14.000Z</updated>
+        <summary type="html"><![CDATA[近年ではリモートワーク化の波もあり、社内連絡にSlackをはじめとするチャットツールを導入する企業も増えています。「Zulip」はSlackのようなオープンソースのチャットツールであり、基本的な機能は無料で利用することができるとのことで、どんなツールになっているのか実際に使ってみました。 Zulip https://zulip.com...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[見た目は1979年の初代ウォークマン、中身はハイレゾなポータブルプレーヤー現れる | ギズモード・ジャパン]]></title>
+        <id>https://www.gizmodo.jp/2021/07/dps-l2.html</id>
+        <link href="https://www.gizmodo.jp/2021/07/dps-l2.html"/>
+        <updated>2021-07-25T03:55:50.000Z</updated>
+        <summary type="html"><![CDATA[見た目は1979年の初代ウォークマン、中身はハイレゾなポータブルプレーヤー現れる2021.07.25 12:0038,290 武者良太 Image: サイラス 再生時はボタンをガチャっと押し込むって最高すぎない？ Oriolusの｢DPS-L2｣は初代ウォークマンことTPS-L2にそっくりすぎるオーディオプレーヤーです。歴史に強いあこがれを感じさせる、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トランプ on Twitter: "やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk"]]></title>
+        <id>https://twitter.com/t0kri/status/1419077029643755522</id>
+        <link href="https://twitter.com/t0kri/status/1419077029643755522"/>
+        <updated>2021-07-25T03:26:13.000Z</updated>
+        <summary type="html"><![CDATA[やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3年ぶりに刷新！電子ペーバー「QUADERNO A5」がかなりイケてた - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/fccl-quaderno-a5-010054575.html</id>
+        <link href="https://japanese.engadget.com/fccl-quaderno-a5-010054575.html"/>
+        <updated>2021-07-25T02:02:19.000Z</updated>
+        <summary type="html"><![CDATA[富士通クライアントコンピューティング（FCCL）から、3年ぶりとなる第2世代の電子ペーパー「QUADERNO（クアデルノ）」が7月8日に発売されました。実際の紙のような感覚で、書いたり読んだりすることを目指した本端末は、最新のE Inkディスプレイを採用。CPUがパワーアップしたほか、スタイラスペンもワコムのデジタイザ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未経験フリーランスを席捲する「カジュアルな情報商材」｜久松剛／IT百物語の蒐集家｜note]]></title>
+        <id>https://note.com/makaibito/n/n9c582564b5ab</id>
+        <link href="https://note.com/makaibito/n/n9c582564b5ab"/>
+        <updated>2021-07-25T01:08:56.000Z</updated>
+        <summary type="html"><![CDATA[これまで未経験エンジニアに関する包囲網についてお話をしてきました。このお話は非常によく読んで頂いておりまして、本noteでも2番目のPVになっております。 未経験エンジニア、世間的には駆け出しエンジニアなどとも呼ばれていますが、こちらの状況が徐々に変わってきました。それが今回お話をする未経験フリーランス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Release v5.2.1 · IBM/plex · GitHub]]></title>
+        <id>https://github.com/IBM/plex/releases/tag/v5.2.1</id>
+        <link href="https://github.com/IBM/plex/releases/tag/v5.2.1"/>
+        <updated>2021-07-25T00:51:59.000Z</updated>
+        <summary type="html"><![CDATA[IBM Plex Sans JP Added CSS stylesheets: css/ibm-plex-sans-jp.css and css/ibm-plex-sans-jp.min.css Sass entrypoint: scss/sans-jp/index.scss The upcoming major release will make chosing specific font-weights and languages easier for developers. Until then, enjoy IBM Plex Sans JP!]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロボットアームでボールを延々受け渡しする産業用ロボット感あふれる「レゴの玉運び装置:5つのリング」 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210725-gbc-module-five-tilted-rings/</id>
+        <link href="https://gigazine.net/news/20210725-gbc-module-five-tilted-rings/"/>
+        <updated>2021-07-25T00:37:19.000Z</updated>
+        <summary type="html"><![CDATA[世界で大人気のブロック玩具「レゴ」にはさまざまな愛好家が存在し、中にはボールを延々運び続けるレゴブロック製の巨大装置「Great Ball Contraption(GBC)」というジャンルが存在します。GBCに関するモジュールや選別機、ロボットアームなどを創作するAkiyuki氏が作成した「レゴの玉運び装置:5つのリング」は、円形リン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建設的APIハック会場B]]></title>
         <id>https://anond.hatelabo.jp/20210724203530</id>
         <link href="https://anond.hatelabo.jp/20210724203530"/>
         <updated>2021-07-24T21:54:36.000Z</updated>
         <summary type="html"><![CDATA[B会場はこちらでーす ブコメ、スターはご自由にどうぞー anond:20210724203504]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analyzing Google Search traffic drops  |  Google 検索セントラル ブログ]]></title>
+        <id>https://developers.google.com/search/blog/2021/07/search-traffic-drops?hl=ja</id>
+        <link href="https://developers.google.com/search/blog/2021/07/search-traffic-drops?hl=ja"/>
+        <updated>2021-07-24T16:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Google 検索セントラル ブログ 0 fhWU � fhWU �fchWU Tuesday, July 20, 2021 Suppose you open Search Console and find out that your Google Search traffic dropped. What should you do? A drop in organic Search traffic can happen for several reasons, and most of them can be reversed. But it may not be s...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -36,6 +347,16 @@ Extra code: How many times did you end with code that is not used? Maybe we adde
         <link href="https://e83c516.hatenablog.com/entry/2021/07/24/234417"/>
         <updated>2021-07-24T15:02:02.000Z</updated>
         <summary type="html"><![CDATA[はじめましての人がほとんどだと思います、情報系VTuberのこみっとちゃんですっ。 今回はVirtual YouTuberとしてこちらのISUCON特別企画に参加しました。「ブログを書くまでがISUCON」ということで参加エントリを書きますっ。 isucon.net こみっとちゃんって誰？ 今年6月にYouTubeにて初めて動画を投稿した、生まれたて...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCがUSBデバイスを認識した時に何が起こるのか？ - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210724-plug-usb-device-pc/</id>
+        <link href="https://gigazine.net/news/20210724-plug-usb-device-pc/"/>
+        <updated>2021-07-24T14:53:57.000Z</updated>
+        <summary type="html"><![CDATA[一般的なPCに標準搭載されているUSBポートにUSBデバイスをつないだ時、PCで一体どのような処理がされているのか、電子機器などの動作をブログやYouTubeで解説しているベン・イーター氏が、動画で解説しています。 How does USB device discovery work? - YouTube イーター氏が接続に用いたのはDELL製のキーボード。オシ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -880,6 +1201,16 @@ Thank you for reading my blog post about using Angular CLI with new MCB. I’d a
         <link href="https://japanese.engadget.com/apple-confirm-ios147-wifi-bugfix-060055964.html"/>
         <updated>2021-07-22T06:12:18.000Z</updated>
         <summary type="html"><![CDATA[今年5月に配信されたiOS 14.6では、iPhoneが特定のSSID（ネットワーク名）を持つWi-Fiネットワークに接続するとWi-Fi機能が無効化される不具合が報告されていました。 この不具合は先日から配信されたiOS 14.7での修正が噂されていたのですが、今回、アップルがiOS 14.7での解決を公式に認めるセキュリティ文書を公開し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII.jp：電源オン即“CO2濃度みまもり”のできる「まもセンサーAir」を衝動買い (1/8)]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063399/</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063399/"/>
+        <updated>2021-07-22T05:55:08.000Z</updated>
+        <summary type="html"><![CDATA[AC（USB）でもDC（単3乾電池）でも動作する、高精度のCO2濃度みまもりセンサー「まもセンサーAir」は、クラウド利用でユーザーがどこに居てもチェック可能なコロナ禍の「蜜」監視の便利アイテムだ 新型コロナウイルス感染症対策専門家会議の見解では、集団感染が確認された場所で共通する3条件への対応が示されています...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
