@@ -229,6 +229,231 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1340250.html",
+          "author": null,
+          "description": "米Appleは7月26日（現地時間）、「iOS 14.7.1」および「iPadOS 14.7.1」を正式リリースした。Touch IDを搭載したiPhoneモデルで「iPhoneでロック解除」機能を使用してペアリング済みのApple Watchのロックを解除できない問題が修正されたほか、脆弱性の修正が行われている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1340250.html",
+          "publishedOn": "2021-07-26T21:06:25.000Z",
+          "wordCount": 127,
+          "title": "すでに悪用も確認 ～致命的な脆弱性を修正した「iOS 14.7.1」「iPadOS 14.7.1」 - 窓の杜"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210727032939",
+          "author": null,
+          "description": "非表示ユーザーがつけたスターを非表示にする 連打対策はされてるが､スター稼ぎっぽい複垢とかは素通りするの消し去りたい お気に入りユーザーのタグで分類できるリスト この人はどういう傾向の記事をブクマしているのか､どういう経緯でお気に入り登録したか知りたい時がある 後で読むの日時付きスヌーズ 〇〇は何日何時...",
+          "link": "https://anond.hatelabo.jp/20210727032939",
+          "publishedOn": "2021-07-26T20:25:50.000Z",
+          "wordCount": 93,
+          "title": "これなら払う気になれるはてなブックマークプレミアムプランを考えて"
+        },
+        {
+          "id": "https://www.atmarkit.co.jp/ait/articles/2107/26/news064.html",
+          "author": null,
+          "description": "Microsoftは2021年7月8日（米国時間）、社内向けLinuxディストリビューション「CBL-Mariner 1.0」の「June 2021 Update」を公開した。 CBL-Marinerはクラウドインフラとエッジ製品、サービスに向けた一貫したプラットフォームとなるように設計されており、Linuxカーネルのアップデートに合わせて最新の状態に保たれてい...",
+          "link": "https://www.atmarkit.co.jp/ait/articles/2107/26/news064.html",
+          "publishedOn": "2021-07-26T17:46:17.000Z",
+          "wordCount": 210,
+          "title": "Microsoft、社内向けLinux「CBL-Mariner 1.0」の「June 2021 Update」を公開：ディスクとメモリの消費が少ない - ＠IT"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html",
+          "author": null,
+          "description": "Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表 大手CDNベンダのFastlyは、CDNエッジで提供しているサーバレスコンピューティング環境「Compute@Edge」で、JavaScriptのサポートを発表しました。 JavaScript on Compute@Edge is here. https://t...",
+          "link": "https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html",
+          "publishedOn": "2021-07-26T15:29:37.000Z",
+          "wordCount": 150,
+          "title": "Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表 － Publickey"
+        },
+        {
+          "id": "https://github.com/nicoespeon/abracadabra",
+          "author": null,
+          "description": "🧙‍ Abracadabra Refactoring (noun): a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior. — \"Refactoring: Improving the Design of Existing Code\" by Martin Fowler With Abracadabra, you can quickly and safe...",
+          "link": "https://github.com/nicoespeon/abracadabra",
+          "publishedOn": "2021-07-26T14:10:34.000Z",
+          "wordCount": 1279,
+          "title": "GitHub - nicoespeon/abracadabra: Automated refactorings for VS Code (JS & TS) ✨ It's magic ✨"
+        },
+        {
+          "id": "https://twitter.com/ImAI_Eruel/status/1419616332820017155",
+          "author": null,
+          "description": "サイボウズが公開した、エンジニア研修のための資料がかなりすごいです https://t.co/CoHmM8tY4b Web、テスト、Docker、データベース、デザインなどなど、エンジニアに必要（全部習得すればその時点で一流感が）… https://t.co/IxyM5xb8DT",
+          "link": "https://twitter.com/ImAI_Eruel/status/1419616332820017155",
+          "publishedOn": "2021-07-26T13:30:20.000Z",
+          "wordCount": 196,
+          "title": "えるエル on Twitter: \"サイボウズが公開した、エンジニア研修のための資料がかなりすごいです https://t.co/CoHmM8tY4b Web、テスト、Docker、データベース、デザインなどなど、エンジニアに必要（全部習得すればその時点で一流感が）… https://t.co/IxyM5xb8DT\""
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/26/news141.html",
+          "author": null,
+          "description": "niconicoの栗田穣崇代表が「ニコニコ動画」などの表現規制は現状維持する旨の声明を自身のTwitterアカウントに投稿した。夏野剛社長（ドワンゴ）が書籍などの表現について、海外に合わせて規制を推し進める考えを示したことを受けての対応とみられる。 ニコニコはプラットフォームとしての表現規制方針を現状から変更す...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/26/news141.html",
+          "publishedOn": "2021-07-26T13:21:00.000Z",
+          "wordCount": 153,
+          "title": "ニコ動などの表現規制は現状維持、niconico代表が声明　夏野剛社長はネット番組で規制推進を示唆 - ITmedia NEWS"
+        },
+        {
+          "id": "https://smhn.info/202107-thinkpad-bluetooth-keyboard-ii-review",
+          "author": null,
+          "description": "Lenovoのキーボード「ThinkPad TrackPoint Keyboard II（ThinkPad トラックポイント キーボード 2）」を購入しました。 筆者は前モデルの「ThinkPad Bluetooth TrackPoint Keyboard（2013）」から愛用しています。ノートPCの中でも特に優れた打鍵感を誇るThinkPadのキーボードをほとんどそのまま利用できるだけあって、...",
+          "link": "https://smhn.info/202107-thinkpad-bluetooth-keyboard-ii-review",
+          "publishedOn": "2021-07-26T12:47:00.000Z",
+          "wordCount": 303,
+          "title": "ThinkPadトラックポイントキーボード II レビュー。外でもデスクトップPCでも使える – すまほん!!"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f7830ff419710477d0c2eb549b60bb0d8614ad9c",
+          "author": null,
+          "description": "東京五輪・男子飛び込みのイギリス代表トーマス・デーリーが21日に自身のYouTubeチャンネル「Tom Daley」を更新。選手村の自室や選手村の様子を公開し、反響を呼んでいる。 【動画】「日本はいい仕事をした」と喝采…英国代表デーリーが公開した五輪選手村の自室＆美景ショット 「五輪選手村ツアー」と題した動画をアップ...",
+          "link": "https://news.yahoo.co.jp/articles/f7830ff419710477d0c2eb549b60bb0d8614ad9c",
+          "publishedOn": "2021-07-26T11:50:56.000Z",
+          "wordCount": 71,
+          "title": "選手村の多機能トイレに驚き　英国代表の自室公開に喝采「日本に金メダルを授与したい」（ENCOUNT） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/26/news134.html",
+          "author": null,
+          "description": "「第62回国際数学オリンピック」で日本代表全員がメダルを獲得、そのうち神尾悠陽さん（開成高）が金メダルを取り、世界一に輝いた。 東京オリンピック（東京五輪）が7月23日に始まり、柔道の阿部兄妹が金メダルを獲得するなど日本国内が盛り上がる中、18日から23日まで行われた「第62回国際数学オリンピック」でも日本...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/26/news134.html",
+          "publishedOn": "2021-07-26T11:29:11.000Z",
+          "wordCount": 155,
+          "title": "数学オリンピックで日本代表全員がメダル　開成高の神尾悠陽さんが金、日本勢2年ぶり - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.designencyclopedia.io/",
+          "author": null,
+          "description": "The World's Largest Figma Design SystemThe Design Encyclopedia is the world's only design system in existence to have complete interaction patterns, page templates, and over 100 charts and visualizations to help you design faster than ever before.",
+          "link": "https://www.designencyclopedia.io/",
+          "publishedOn": "2021-07-26T10:50:37.000Z",
+          "wordCount": 205,
+          "title": "The Design Encyclopedia – Figma UI Kit & Design System"
+        },
+        {
+          "id": "https://zenn.dev/yuku/articles/a9edd53e13bb26",
+          "author": null,
+          "description": "Nuxt.js で開発されていたAI受診相談ユビーのフロントエンドを Next.js で作り直しました。 まだまだ仮説検証を繰り返すフェーズのスタートアップのため、機能開発を止めて一気に置き換えることはできず、機能ごとに少しずつ置き換えてリリースをしました。結果、5人のプロダクト開発チームによる機能開発と並走して、全...",
+          "link": "https://zenn.dev/yuku/articles/a9edd53e13bb26",
+          "publishedOn": "2021-07-26T10:22:40.000Z",
+          "wordCount": 312,
+          "title": "150万MAUのNuxt.js製サービスを機能開発を止めずに1ヶ月&1人でNext.jsに置き換えた話"
+        },
+        {
+          "id": "https://techfeed.io/entries/60fe7f903f912502e4022fbe",
+          "author": null,
+          "description": "7月25日、SRE Weekly Issue #280が公開された。 SRE Weeklyは、SRE（Site Reliability Engineering）に関する注目情報を紹介するメールマガジン。 堅牢性の原則がもたらす弊害 The Harmful Consequences of the Robustness Principle 堅牢性の原則（送信するものに関しては厳密に、受信するものに関しては寛容に）は成熟...",
+          "link": "https://techfeed.io/entries/60fe7f903f912502e4022fbe",
+          "publishedOn": "2021-07-26T10:09:38.000Z",
+          "wordCount": 158,
+          "title": "SREに興味のある方向け、SRE Weekly #280が公開 - 「堅牢性の原則がもたらす弊害」など"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210726-1931040/",
+          "author": null,
+          "description": "Haikuは米国時間2021年7月25日、Haiku R1/ベータ3をリリースした。ダウンロードページに並ぶミラーサイトやBitTorrentからダウンロードできる。なお、HaikuはQEMUやVMWare、Virtual Boxでも動作可能。R1/ベータ2利用者はpkgmanコマンドでアップグレードできる。 Haiku R1/ベータ3のデスクトップ Haiku R1/ベータ3はイン...",
+          "link": "https://news.mynavi.jp/article/20210726-1931040/",
+          "publishedOn": "2021-07-26T10:09:24.000Z",
+          "wordCount": 299,
+          "title": "オープンソースOS「Haiku R1/ベータ3」が公開 | TECH+"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210726-1930922/",
+          "author": null,
+          "description": "Windows 10のライセンス認証に必要となる「プロダクトキー」は、PCのパッケージや付属するカードに記載されています。こうしたラベルを確認できない場合でも、コマンドプロンプトやPowerShellでプロダクトキーを表示することが可能です。自作PCの場合はフリーソフトの「Windows Product Key View」を使うことで確認でき...",
+          "link": "https://news.mynavi.jp/article/20210726-1930922/",
+          "publishedOn": "2021-07-26T09:24:58.000Z",
+          "wordCount": 469,
+          "title": "Windows 10のプロダクトキーを確認する方法 | マイナビニュース"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1340088.html",
+          "author": null,
+          "description": "Microsoftは23日(現地時間)、Microsoft 365アプリでのInternet Explorer 11(IE11)のサポートについて、2021年8月17日をもって終了すると告知している。2020年より予告していたが、改めて周知を行なったかたち。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1340088.html",
+          "publishedOn": "2021-07-26T08:22:14.000Z",
+          "wordCount": 114,
+          "title": "Microsoft 365のIE11サポートは8月17日まで。改めて告知 - PC Watch"
+        },
+        {
+          "id": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
+          "author": null,
+          "description": "So! Rust futures! Easy peasy lemon squeezy. Until it's not. So let's do the easy thing, and then instead of waiting for the hard thing to sneak up on us, we'll go for it intentionally. Cool bear's hot tip",
+          "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
+          "publishedOn": "2021-07-26T07:42:18.000Z",
+          "wordCount": 14455,
+          "title": "Understanding Rust futures by going way too deep - fasterthanli.me"
+        },
+        {
+          "id": "https://cgworld.jp/interview/202107-cygames-mocap.html",
+          "author": null,
+          "description": "トップ ＞ インタビュー ＞ 大阪Cygamesが世界最大級のモーションキャプチャスタジオを建設中！　スタジオの立ち上げスタッフを大募集！ [PR] ハイエンドなコンシューマーゲームの開発を専門に活動する大阪Cygamesが、新たなモーションキャプチャスタジオを今秋のオープンを目指し建設中だ。最先端の機材を世界最大級の...",
+          "link": "https://cgworld.jp/interview/202107-cygames-mocap.html",
+          "publishedOn": "2021-07-26T07:32:54.000Z",
+          "wordCount": 385,
+          "title": "大阪Cygamesが世界最大級のモーションキャプチャスタジオを建設中！　スタジオの立ち上げスタッフを大募集！ | インタビュー | CGWORLD.jp"
+        },
+        {
+          "id": "https://ai-scholar.tech/articles/gnn/GNN_review",
+          "author": null,
+          "description": "3つの要点 ✔️ GNNの表現力の強さから、急速にアプリケーションが進んでいる。 ✔️ GNNの柔軟かつ複雑な構造への、従来深層学習手法の展開についてのレビュー ✔️ 一方で、深層学習に共通、グラフに固有の課題も継続中 Graph Neural Networks: A Review of Methods and Applications written by Jie Zhou, Ganqu Cui, Shengdin...",
+          "link": "https://ai-scholar.tech/articles/gnn/GNN_review",
+          "publishedOn": "2021-07-26T07:24:19.000Z",
+          "wordCount": 578,
+          "title": "グラフってこんなにすごい！深層学習との融合をレビュー | AI-SCHOLAR | AI：(人工知能)論文・技術情報メディア"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2107/26/news067.html",
+          "author": null,
+          "description": "DXに取り組む企業が増える中、国内ITサービス市場ではベンダーの勢力図にも変化が起きているようだ。IDC Japanが興味深い調査結果を発表したのを機に、同市場の最新動向を筆者なりに考察してみたい。",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2107/26/news067.html",
+          "publishedOn": "2021-07-26T07:18:03.000Z",
+          "wordCount": 139,
+          "title": "NTTデータ躍進、SIerの“御三家”に波乱か　システム市場に起きる3つの変化：Weekly Memo - ITmedia エンタープライズ"
+        },
+        {
+          "id": "https://techlife.cookpad.com/entry/2021/07/26/160000",
+          "author": null,
+          "description": "レシピ事業サービス基盤部で部長をやっています、新井(@SpicyCoffee66)です。引越しを機に MtG のカードをほとんど売ったはずなのに、そのときは存在しなかったポケモンカードのデッキが手元にあります。なぜ？ 私は 2017 卒のエンジニアとしてクックパッドに入社し、様々な業務を経験した後に 2020 年の 8 月から部長と...",
+          "link": "https://techlife.cookpad.com/entry/2021/07/26/160000",
+          "publishedOn": "2021-07-26T07:04:41.000Z",
+          "wordCount": 473,
+          "title": "マイクロマネジメントは悪か？よりよい組織をつくるためのマネジメント形態についての考察 - クックパッド開発者ブログ"
+        },
+        {
+          "id": "https://da-nce.jp/2021/07/26/datascientist-questionnaire2021/",
+          "author": null,
+          "description": "データ分析とビジネス活用のプロとして、さまざまな業界フィールドで活躍する「データサイエンティスト」。 スキルセットや必要な知識などが語られることはあるものの、まだはっきりとした定義がなく、いったいどんな人たちなのか？と疑問を持つ人も少なくないのでは。 そこで本企画では、企業で働くデータサイエンティ...",
+          "link": "https://da-nce.jp/2021/07/26/datascientist-questionnaire2021/",
+          "publishedOn": "2021-07-26T05:58:12.000Z",
+          "wordCount": 2003,
+          "title": "22社、52人のデータサイエンティストに聞いてみた！「どんなお仕事してますか？」 | Da-nce"
+        },
+        {
+          "id": "https://note.com/ku_marin/n/n60ebdb19ebd0",
+          "author": null,
+          "description": "私が一番最初にAndroid アプリをデザインしたのが2016年の初夏頃で、その頃はまだiOS・Android とデザインが違うのが主流でしたが、2021年現在のアプリはiOS もAndroid もプラットフォームごとの細かな違いはあれどほぼ同じデザインが主流となっています。 これは2016年の10月にAndroid APIがBottomNavigationView に対...",
+          "link": "https://note.com/ku_marin/n/n60ebdb19ebd0",
+          "publishedOn": "2021-07-26T02:05:12.000Z",
+          "wordCount": 237,
+          "title": "iOS とAndroidの違い クロスプラットフォームのアプリデザインで特に気をつけるべき点｜marin｜note"
+        },
+        {
+          "id": "https://wirelesswire.jp/2021/07/80265/",
+          "author": null,
+          "description": "「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる 2021.07.26 Updated by Ryo Shimizu on July 26, 2021, 07:12 am JST 最近のプログラミングの新しい波は微分可能プログラミング(differentiable programming)である。 微分可能プログラミングとは、簡単...",
+          "link": "https://wirelesswire.jp/2021/07/80265/",
+          "publishedOn": "2021-07-26T01:45:38.000Z",
+          "wordCount": 176,
+          "title": "「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる - WirelessWire News（ワイヤレスワイヤーニュース）"
+        },
+        {
+          "id": "https://blog.tady.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E7%9A%84%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E7%90%86%E6%83%B3%E7%9A%84%E3%81%AA%E9%85%8D%E5%88%86-828b20c8d216",
+          "author": null,
+          "description": "背景SRE という概念が生まれてから数多くの開発チームで「ソフトウェアエンジニアリングの手法で運用を改善する営み」が行われてきた。 同時に、技術的負債が経営レベルで認知されるようになり、日常の会話の中でも長期・短期のトレードオフを念頭に置いたプロジェクト推進がやりやすくなったのは言うまでもない。 しか...",
+          "link": "https://blog.tady.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E7%9A%84%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E7%90%86%E6%83%B3%E7%9A%84%E3%81%AA%E9%85%8D%E5%88%86-828b20c8d216",
+          "publishedOn": "2021-07-26T01:14:49.000Z",
+          "wordCount": 222,
+          "title": "ソフトウェア開発における人的リソースの理想的な配分 - Masato TADA - Medium"
+        },
+        {
           "id": "https://hichihara.hatenablog.com/entry/2021/07/26/070000",
           "author": null,
           "description": "最高の夏を迎える中庭 前回の記事投稿からだいぶあいていますが、あいかわらずGAFAではない会社でソフトウェアエンジニアをしています。今回は最近の個人的な大仕事であった家を買った話を書きます。ちなみにこの記事にソフトウェアエンジニア要素はほぼないので釣りタイトルになります、ただプロダクト設計やプロジェク...",
@@ -236,6 +461,15 @@
           "publishedOn": "2021-07-25T23:55:41.000Z",
           "wordCount": 221,
           "title": "ソフトウェアエンジニア、家を買う - hichihara note"
+        },
+        {
+          "id": "https://mag.executive.itmedia.co.jp/executive/articles/2107/26/news017.html",
+          "author": null,
+          "description": "アイティメディアが主催するライブ配信セミナー「ITmedia DX Summit vol. 8」Day4の基調講演には、サイバーディフェンス研究所 専務理事 上級分析官の名和利男氏が登場。『組織の内部を起点にしたサイバー侵害活動を見逃す「現場の問題点」』をテーマに講演した。 境界防御が廃れ、境界防御自体が脆弱に 境界防御とは、...",
+          "link": "https://mag.executive.itmedia.co.jp/executive/articles/2107/26/news017.html",
+          "publishedOn": "2021-07-25T23:03:25.000Z",
+          "wordCount": 344,
+          "title": "サイバー侵害が発生して当然ともいえる状況では発想や考え方を変えることが重要――サイバーディフェンス研究所 名和利男氏：ITmedia エグゼクティブセミナーリポート（1/2 ページ） - ITmedia エグゼクティブ"
         },
         {
           "id": "https://brand.taisho.co.jp/semper/trivia/trivia02.html",
@@ -578,6 +812,15 @@
           "publishedOn": "2021-07-24T01:38:18.000Z",
           "wordCount": 857,
           "title": "GitHub - ajitid/fzf-for-js: Do fuzzy matching using FZF algorithm in JavaScript"
+        },
+        {
+          "id": "https://github.com/udecode/plate",
+          "author": null,
+          "description": "🎉 🎉 🎉 Version 1 of @udecode/plate is now available! 🎉 🎉 🎉 The Slate Plugins project has evolved to Plate. Visit plate.udecode.io for docs, guides, API and more! Introduction Slate is a low-level editor framework that helps you deal with difficult parts when building an editor, such as event...",
+          "link": "https://github.com/udecode/plate",
+          "publishedOn": "2021-07-24T01:24:36.000Z",
+          "wordCount": 1364,
+          "title": "GitHub - udecode/plate: A plugin framework for building rich text editors with slate."
         },
         {
           "id": "https://dev.classmethod.jp/articles/tried-rd-root-on-windows-server/",
@@ -2587,6 +2830,15 @@
           "title": "FacebookのQUICを活用したライブ動画用プロトコルRUSHについて - ASnoKaze blog"
         },
         {
+          "id": "https://jp.quora.com/%E3%81%AA%E3%81%9C%E5%A4%9A%E3%81%8F%E3%81%AE%E8%8B%A5%E3%81%84%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AF-C-%E3%82%84Java%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%84%AA%E3%82%8C%E3%81%9F%E8%A8%80",
+          "author": null,
+          "description": "問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください",
+          "link": "https://jp.quora.com/%E3%81%AA%E3%81%9C%E5%A4%9A%E3%81%8F%E3%81%AE%E8%8B%A5%E3%81%84%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AF-C-%E3%82%84Java%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%84%AA%E3%82%8C%E3%81%9F%E8%A8%80",
+          "publishedOn": "2021-07-15T10:43:26.000Z",
+          "wordCount": 5,
+          "title": "なぜ多くの若いフリーランスは、C#やJavaのような優れた言語ではなく、Pythonのような信頼性が低い言語を使いたがるのでしょう？ - Quora"
+        },
+        {
           "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00244/",
           "author": null,
           "description": "日本橋上空の首都高速道路を地下へ移設し、青空を取り戻す事業の初弾工事がいよいよ始まった。まずは、既存の2カ所の出入り口を撤去する。首都高速道路会社は2021年6月30日、報道機関を対象に現場見学会を開催。その模様と共に、今後の工程をお伝えする。 日本橋川に沿って上空を通る首都高の都心環状線は、前回の東京五...",
@@ -2784,6 +3036,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=344653",
+          "author": "Luke Edwards",
+          "description": "At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …\nThe post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
+          "publishedOn": "2021-07-26T14:36:13.000Z",
+          "wordCount": 4189,
+          "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345288",
+          "author": "Chris Coyier",
+          "description": "Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …\nThe post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://slinkity.dev/",
+          "publishedOn": "2021-07-26T14:36:04.000Z",
+          "wordCount": 550,
+          "title": "Slinkity"
+        },
         {
           "id": "https://css-tricks.com/?p=344019",
           "author": "Farai Gandiya",
@@ -3069,15 +3339,6 @@
           "publishedOn": "2021-07-19T00:26:08.000Z",
           "wordCount": 78,
           "title": "tc39/proposal-array-grouping: A proposal to make grouping of array items easier"
-        },
-        {
-          "id": "https://ecmascript-daily.github.io/2021/06/27/tc39-meeting-may-25-26-2021-spidermonkey-javascript-webassembly-engine",
-          "author": null,
-          "description": "TC39 meeting at May 25-26 2021.\nby Spidermonkey",
-          "link": "https://ecmascript-daily.github.io/2021/06/27/tc39-meeting-may-25-26-2021-spidermonkey-javascript-webassembly-engine",
-          "publishedOn": "2021-06-27T07:28:55.000Z",
-          "wordCount": 80,
-          "title": "TC39 meeting, May 25-26 2021 | SpiderMonkey JavaScript/WebAssembly Engine"
         }
       ]
     },
@@ -3139,6 +3400,33 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/yigitfindikli/primeng-i18n-api-usage-with-ngx-translate-3bh2",
+          "author": "Yiğit FINDIKLI",
+          "description": "How can we use PrimeNG I18N with ngx-translate? Let's start!\nLet's create a brand new angular application using angular-cli.\nng new primeng-i18n-with-ngx\ncd primeng-i18n-with-ngx\n\nLet's add PrimeNG, PrimeFlex, PrimeIcons, and ngx-translate.\nnpm install primeng primeicons primeflex@2.0.0 @ngx-translate/core @ngx-translate/http-loader @angular/localize\n\nWe need to import PrimeNG's CSS dependencies to Angular.json.\nnode_modules/primeicons/primeicons.css \nnode_modules/primeng/resources/themes/vela-blue/theme.css \nnode_modules/primeng/resources/primeng.min.css\n\nNow we need a couple of PrimeNG components and ngx-translate setup.\nNote: Detailed ngx-translate setup can be found in official docs.\nI want to use English to French translation because ngx-translation uses in their example.\nLet's create…",
+          "link": "https://dev.to/yigitfindikli/primeng-i18n-api-usage-with-ngx-translate-3bh2",
+          "publishedOn": "2021-07-26T14:29:33.000Z",
+          "wordCount": 684,
+          "title": "PrimeNG I18N API Usage with ngx-translate"
+        },
+        {
+          "id": "https://dev.to/bishalchettri/angular-bindings-2g",
+          "author": "Bishal Chettri",
+          "description": "Where does angular store the informations regarding which elements or variables are binded to the UI?",
+          "link": "https://dev.to/bishalchettri/angular-bindings-2g",
+          "publishedOn": "2021-07-26T11:00:04.000Z",
+          "wordCount": 337,
+          "title": "ANGULAR BINDINGS"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/unit-testing-spies-and-mocks-42bk",
+          "author": "Jesús Rodríguez",
+          "description": "We have done a unit test of a calculator in the previous part. But we never mentioned what does unit means in unit test.\nThere are several ways to test our application:\nUnit Test: We test one piece of code in isolation. That means, without its dependencies. A component without its services or the other components used in the template. A service without other services, etc.\nIntegration Test: Here we test that a several pieces works in conjuction. Some people agrees that testing that a component works with its template is considered an integration testing. But more on that in later parts.\nEnd to End: In a end to end (e2e), we assert that our use cases works from start to finish. That means server calls, authentication and other stuff. We might talk about this in a different series.\nIn angula…",
+          "link": "https://dev.to/this-is-angular/unit-testing-spies-and-mocks-42bk",
+          "publishedOn": "2021-07-25T19:33:55.000Z",
+          "wordCount": 2450,
+          "title": "Unit Testing - Spies and Mocks"
+        },
+        {
           "id": "https://dev.to/foxandxss/unit-testing-spies-and-mocks-42bk",
           "author": "Jesús Rodríguez",
           "description": "We have done a unit test of a calculator in the previous part. But we never mentioned what does unit means in unit test.\nThere are several ways to test our application:\nUnit Test: We test one piece of code in isolation. That means, without its dependencies. A component without its services or the other components used in the template. A service without other services, etc.\nIntegration Test: Here we test that a several pieces works in conjuction. Some people agrees that testing that a component works with its template is considered an integration testing. But more on that in later parts.\nEnd to End: In a end to end (e2e), we assert that our use cases works from start to finish. That means server calls, authentication and other stuff. We might talk about this in a different series.\nIn angula…",
@@ -3173,6 +3461,15 @@
           "publishedOn": "2021-07-25T05:46:36.000Z",
           "wordCount": 565,
           "title": "Same todo app with different technologies"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/unit-testing-introduction-4ohg",
+          "author": "Jesús Rodríguez",
+          "description": "Let's talk about unit testing our applications.\nUnit tests are a bunch of Typescript files that we create to make sure that every part of our application works as it is expected to work. That means that we need to write hundred of lines of code to assert that our code does what is supposed to do.\nIsn't that a waste of time? The boss is always telling us that we need to be faster and hundred of lines doesn't sound like fast. Au contraire, that bunch of code will save us HOURS. Don't believe me? I have proofs.\n<!--more-->\nExtra code: How many times did you end with code that is not used? Maybe we added some extra loops that are not needed or some function to do something and then realize that we are not using it. When we code our modules before any test, we don't actually know what we are go…",
+          "link": "https://dev.to/this-is-angular/unit-testing-introduction-4ohg",
+          "publishedOn": "2021-07-24T16:20:46.000Z",
+          "wordCount": 3125,
+          "title": "Unit Testing - Introduction"
         },
         {
           "id": "https://dev.to/foxandxss/unit-testing-introduction-4ohg",
@@ -3521,6 +3818,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=30632",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/2021-kindle-summer-big-sale.html",
+          "publishedOn": "2021-07-26T00:36:14.000Z",
+          "wordCount": 1037,
+          "title": "Kindle本 夏のビッグセールが開催中！UIデザイン、Web制作、配色、イラスト関連の良書がたくさん半額です"
+        },
         {
           "id": "https://coliss.com/?p=30135",
           "author": "コリス🥦",
