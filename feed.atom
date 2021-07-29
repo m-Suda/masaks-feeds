@@ -2,10 +2,355 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-28T00:15:01.380Z</updated>
+    <updated>2021-07-29T00:14:49.210Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[米グーグル・フェイスブック 全従業員ワクチン接種義務化へ | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html"/>
+        <updated>2021-07-28T22:19:46.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのIT大手、グーグルとフェイスブックは、変異した新型コロナウイルスの感染拡大を受けて、オフィスで勤務するすべての従業員にワクチンの接種を義務づける方針を示しました。 これは、グーグルとフェイスブックが28日、それぞれ明らかにしました。 このうちグーグルは、当初、ことし9月1日にアメリカ国内のオフ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15 Opinions]]></title>
+        <id>https://css-tricks.com/?p=345404</id>
+        <link href="https://css-tricks.com/safari-15-opinions/"/>
+        <updated>2021-07-28T20:21:55.000Z</updated>
+        <summary type="html"><![CDATA[It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …
+The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EC2-Classic is Retiring – Here’s How to Prepare | AWS News Blog]]></title>
+        <id>https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/</id>
+        <link href="https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/"/>
+        <updated>2021-07-28T20:01:26.000Z</updated>
+        <summary type="html"><![CDATA[AWS News Blog EC2-Classic is Retiring – Here’s How to Prepare Let’s go back to the summer of 2006 and the launch of EC2. We started out with one instance type (the venerable m1.small), security groups, and the venerable US East (N. Virginia) Region. The EC2-Classic network model was flat, with pu...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS15などの次期OSで、Siriによるサードパーティーアプリ操作が制限される - iPhone Mania]]></title>
+        <id>https://iphone-mania.jp/news-385629/</id>
+        <link href="https://iphone-mania.jp/news-385629/"/>
+        <updated>2021-07-28T15:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Appleは開発者に対して、iOS15、iPadOS15、macOS Monterey、watchOS8の一般ユーザー向け正式版では、Siriによるサードパーティー製アプリの操作が制限される、と予告しています。 22のSiriKitコマンドが無効に Appleは開発者向けサポートページに、iOS15、iPadOS15、macOS Monterey、watchOS8の正式版ではSiriKitによる...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メルカリにおけるA/Bテスト標準化への取り組み - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi</id>
+        <link href="https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi"/>
+        <updated>2021-07-28T15:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Transcript 1 Conﬁdential メルカリにおけるA/Bテスト標準化への取り組み 柳沼 慎哉（@yaginuuun） 2021/7/28, Retty ✕ Mercari Analyst Talk Night! 2 Conﬁdential 自己紹介 • 前職ではe-learning serviceのData Scientist • メルカリではData Analystとして主にA/Bテスト周り、 推薦システムの改善を担当 • 個人でPodc...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular Dependency Injection: Complete Guide]]></title>
+        <id>60ffc849b90f9e003b92020d</id>
+        <link href="https://blog.angular-university.io/angular-dependency-injection/"/>
+        <updated>2021-07-28T14:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Everything that you need to know in practice to use the Angular dependency injection system, all in one place. All of its advanced concepts are explained in a practical and easy-to-understand way, with examples.]]></summary>
+        <author>
+            <name>Angular University</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Absolute Value, Sign, Rounding and Modulo in CSS Today]]></title>
+        <id>https://css-tricks.com/?p=320544</id>
+        <link href="https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/"/>
+        <updated>2021-07-28T14:37:34.000Z</updated>
+        <summary type="html"><![CDATA[For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…
+The post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[システム会社の一台のWebサーバー（Nginx）でのSSL証明書の更新作業の見積もりが20万円でした。ファイルをアップロードして再起動するだけですよね？ぼったくりだと思いますか？ - Quora]]></title>
+        <id>https://jp.quora.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E5%8F%B0%E3%81%AEWeb%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-Nginx-%E3%81%A7%E3%81%AESSL%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0</id>
+        <link href="https://jp.quora.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E5%8F%B0%E3%81%AEWeb%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-Nginx-%E3%81%A7%E3%81%AESSL%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0"/>
+        <updated>2021-07-28T12:55:51.000Z</updated>
+        <summary type="html"><![CDATA[問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Reasons to Choose AngularJS Development in 2021]]></title>
+        <id>https://dev.to/itpathsolutions/top-reasons-to-choose-angularjs-development-in-2021-5h6l</id>
+        <link href="https://dev.to/itpathsolutions/top-reasons-to-choose-angularjs-development-in-2021-5h6l"/>
+        <updated>2021-07-28T12:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Brief introduction of Angularjs
+Angularjs is open-source java-script framework. It is an on-demand open-source framework for developing dynamic single page web applications. It is created and maintained by Google. Angular js can quickly and easily integrate with other frameworks. It has the potential to create all kinds of front-end development easily. It uses less code. Angular js is now a core development tool for both enterprise and startups.
+Angularjs provides an incredible way to build scalable, interactive and more user-friendly single web and mobile applications, it extends syntax of HTML to demonstrate the application components concisely and certainly. Its well-know competitors are Ember and Backbone.js. Angular js has won many significant awards. The angular js developers community is developing a powerful and robust free framework in an attempt to implement innovative new ideas into your application. Angular js supports integration and unit testing to ease the testing of web applications.
+
+Use of Angular.js Across Industries:
+Major Apps Built with Angularjs Framework
+Here few global apps and websites that use Angular.js framework:
+Why Choose Angularjs Development in 2021?
+User-friendly:
+Angularjs development services give a faster result with less coding and save time for the development process.
+Supports MVC structure:
+Multi-data Binding
+Dependency Injection:
+Cross-Platform
+Affordability:
+Declarative UI Expression:
+Best User Interfaces:
+Conclusion:
+After observing latest trends of Angularjs. Angular js framework is perfect for robust cross platform apps. Angularjs is developed by Google and every features of angular js will be enhanced. If you are convinced about the benefit of  Angularjs development for your next project, do drop us a line by going to our website.]]></summary>
+        <author>
+            <name>IT Path Solutions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京大学が「デジタルツイン」構築向けWebGISプラットフォーム「Re:Earth」をオープンソースとして公開 | TechCrunch Japan]]></title>
+        <id>https://jp.techcrunch.com/2021/07/28/wtnv-eukarya-re-earth/</id>
+        <link href="https://jp.techcrunch.com/2021/07/28/wtnv-eukarya-re-earth/"/>
+        <updated>2021-07-28T12:09:18.000Z</updated>
+        <summary type="html"><![CDATA[東京大学 大学院情報学環 渡邉英徳研究室は7月26日、ユーカリヤ（Eukarya）と共同で汎用的WebGISプラットフォーム「Re:Earth」（リアース）を開発し、オープンソースソフトウェア（OSS）としてGitHub上で公開したと発表した。ライセンスは「Apache License 2.0」。行動規範（Code of Conducts）も公開している。 また成...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typescriptで空でない配列を型で表現する]]></title>
+        <id>https://zenn.dev/mura_chan/articles/e8c85262f54830</id>
+        <link href="https://zenn.dev/mura_chan/articles/e8c85262f54830"/>
+        <updated>2021-07-28T12:07:49.000Z</updated>
+        <summary type="html"><![CDATA[// コンパイルエラー const numbers: NonEmptyArray = []; // これはコンパイルが通る const numbers: NonEmptyArray = [1]; const needNonEmpty = (arr: NonEmptyArray) => arr.length const a: number[] = [1,2,3]; const b: NonEmptyArray = [1,2,3]; const isNonEmptyArray = (a...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stock - Webデザインギャラリー]]></title>
+        <id>https://stock.pulpxstyle.com/</id>
+        <link href="https://stock.pulpxstyle.com/"/>
+        <updated>2021-07-28T11:58:35.000Z</updated>
+        <summary type="html"><![CDATA[世の中には素晴らしいデザインが溢れています。 その中からWebデザインの現場で参考になる日本の優れたWebデザインを集めてみました。 あなたのインスピレーションを刺激してみてください。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS15でiPhoneへの身分証登録、本人確認にセルフィーを利用すると判明 - iPhone Mania]]></title>
+        <id>https://iphone-mania.jp/news-385599/</id>
+        <link href="https://iphone-mania.jp/news-385599/"/>
+        <updated>2021-07-28T11:55:13.000Z</updated>
+        <summary type="html"><![CDATA[iOS15ベータ4を解析したところ、iPhoneやApple Watchに身分証明書を登録するプロセスが判明した、と米メディア9to5Macが報じています。ユーザーの自撮り写真（セルフィー）を使って本人確認が行われます。 iOS15ベータ4から身分証の登録プロセスが判明 Appleは6月の世界開発者会議（WWDC21）でiOS15とwatchOS8の新機能と...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use MMenu.JS in Angular CLI project?]]></title>
+        <id>https://dev.to/nodire/how-to-use-mmenu-js-in-angular-cli-project-5hjf</id>
+        <link href="https://dev.to/nodire/how-to-use-mmenu-js-in-angular-cli-project-5hjf"/>
+        <updated>2021-07-28T11:39:52.000Z</updated>
+        <summary type="html"><![CDATA[In my Angular CLI project, the MMenu.JS library is malfunctioning.
+Live project: Stack Blitz]]></summary>
+        <author>
+            <name>nodire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Windows 96」が登場、往年の名OSを彷彿とさせる架空のWindowsにブラウザからアクセス可能 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210728-windows-96/</id>
+        <link href="https://gigazine.net/news/20210728-windows-96/"/>
+        <updated>2021-07-28T11:12:23.000Z</updated>
+        <summary type="html"><![CDATA[1990年代に登場したWindowsには、1995年に発売された「Windows 95」や1998年にリリースされた「Windows 98」といったものがあります。そんなメジャーバージョンがリリースされなかった年にもしもWindowsが登場していたら……ということで、ありそうでなかった「Windows 96」をインターネット上でHTML5、CSS、JavaScript、W...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web制作時にGoogleChrome拡張のAccessibility Insightsを使ってアクセシビリティの評価を行う | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/accessibility-insights/</id>
+        <link href="https://dev.classmethod.jp/articles/accessibility-insights/"/>
+        <updated>2021-07-28T10:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Web制作時にGoogleChrome拡張のAccessibility Insightsを使ってアクセシビリティの評価を行う いわさです。 皆様、アクセシビリティに配慮したWebサイトの設計されてますでしょうか。 Webアクセシビリティを評価するためのツールがMicrosoftから提供されていますので紹介したいと思います。 Accessibility Insightsとい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/28/news160.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/28/news160.html"/>
+        <updated>2021-07-28T10:42:11.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 東京大学などが、Webブラウザから使えるオープンソースの地理情報システム「Re:Earth」を公開した。地理空間上への情報のマッピングや、3D情報の付加などがマウス操作のみで行え、ユーザーが独自のWebアプリとし...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Difference Between React And Angular. A Comparison Guide For 2021]]></title>
+        <id>https://dev.to/flatlogic/difference-between-react-and-angular-a-comparison-guide-for-2021-4kdo</id>
+        <link href="https://dev.to/flatlogic/difference-between-react-and-angular-a-comparison-guide-for-2021-4kdo"/>
+        <updated>2021-07-28T08:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+Hello again, dear friends and accidental bypassers! Today we would like to discuss the factual difference between two web-developing mainstays – React and Angular. Bear in mind, we don’t want to put the two up against each other. Our goal is to explore the difference between them to highlight the stronger and weaker sides of both. The reasoning behind such an outlook on our topic is quite simple – both Angular and React are, undoubtedly, exceptionally good and functional. That’s why it would be a disservice to the cause to try to categorically decide which one is better than the other.
+That being said, such a topic would be unable to exist without any comparisons at all. We would collate and find a sort of champion in some categories. And now, let’s get down to business
+When…]]></summary>
+        <author>
+            <name>Nastassia Ovchinnikova</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryzen 7 4800U搭載になった7型Windowsゲーム機「AYANEO 2021 Pro」。ゲームボーイを彷彿とさせる色に - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1340638.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1340638.html"/>
+        <updated>2021-07-28T05:49:30.000Z</updated>
+        <summary type="html"><![CDATA[AYANEOは23日(現地時間)に、新CEO“Uncle Tail”氏自らストリーミング配信を行ない、7型ポータブルWindowsゲーム機「AYANEO」シリーズの新モデル「AYANEO 2021 Pro」を発表した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows / Visual Studio 使いが WSL 2 / Visual Studio Code で環境構築した時の手順 - しばやん雑記]]></title>
+        <id>https://blog.shibayan.jp/entry/20210728/1627450686</id>
+        <link href="https://blog.shibayan.jp/entry/20210728/1627450686"/>
+        <updated>2021-07-28T05:44:22.000Z</updated>
+        <summary type="html"><![CDATA[基本的には Windows と Visual Studio を使って Azure Functions や GitHub で公開しているアプリケーションとライブラリを書いていますが、最近は Python や Go を書く必要がちょいちょい出てきたので、色々と観念して WSL 2 の環境を構築して使っています。 特に Python は Azure Functions だと Linux のみ対応となる...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleが6兆8000億円の収益で過去最高を記録、YouTubeの広告収入は7700億円でクラウド事業も着実に成長中 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210728-alphabet-google-2021q2/</id>
+        <link href="https://gigazine.net/news/20210728-alphabet-google-2021q2/"/>
+        <updated>2021-07-28T05:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Googleの親会社であるAlphabetが2021年第2四半期(4月～6月)の決算報告書を公開しました。2020年第2四半期には新型コロナウイルス感染症(COVID-19)の流行によってAlphabet全体の収益が減少する事態に陥っていましたが、2021年第2四半期の収益は前年同期比62％増の610億8800万ドル(約6兆8000億円)で過去最高を記録していま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今、Battlesnake（バトルスネーク）が熱い - git cloneしてAPIサーバー立ててプログラミングしてマルチプレイヤーバトル！]]></title>
+        <id>https://techfeed.io/entries/6100dfc223bbb26e929f3db7</id>
+        <link href="https://techfeed.io/entries/6100dfc223bbb26e929f3db7"/>
+        <updated>2021-07-28T04:41:39.000Z</updated>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドスパラ、ノートPCで仕事しながら運動できるエアロバイク。2万9,900円 - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1340625.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1340625.html"/>
+        <updated>2021-07-28T04:17:35.000Z</updated>
+        <summary type="html"><![CDATA[ドスパラは、デスクを備えたスリーアールソリューション製のエアロバイク「ツクエアロ2 デスク付きエクササイズバイク」を発売した。価格は2万9,900円。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自己IPアドレス確認APIの無償提供を開始しました - ケンオールブログ]]></title>
+        <id>https://blog.kenall.jp/entry/2021/07/28/124740</id>
+        <link href="https://blog.kenall.jp/entry/2021/07/28/124740"/>
+        <updated>2021-07-28T03:56:20.000Z</updated>
+        <summary type="html"><![CDATA[自分のPCやサーバーに設定されたIPアドレスを確認するためのAPI、「自己IPアドレス確認API」の提供を開始いたしました。 ケンオールのアカウントがあればどなたでも無償でご利用いただけます。 使用方法は、/whoami エンドポイントにリクエストを送信するだけです。 curl -s -H "Authorization: Token $YOUR_API_KEY" \ ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[駆け出しエンジニアってなんですぐ駆けるの止めるの？]]></title>
+        <id>https://anond.hatelabo.jp/20210728124227</id>
+        <link href="https://anond.hatelabo.jp/20210728124227"/>
+        <updated>2021-07-28T03:51:02.000Z</updated>
+        <summary type="html"><![CDATA[駆けて、駆け、駆け抜けようではありませんか]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モバイルディスプレイにもなる13型高速Androidタブ、Yoga Tab 13日本版発表。11型モデルも同時発売 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/lenovo-yoga-tab-13-11-japan-020052382.html</id>
+        <link href="https://japanese.engadget.com/lenovo-yoga-tab-13-11-japan-020052382.html"/>
+        <updated>2021-07-28T02:37:45.000Z</updated>
+        <summary type="html"><![CDATA[モバイルディスプレイにもなる13型高速Androidタブ、Yoga Tab 13日本版発表。11型モデルも同時発売 リモートワークで盛り上がる需要などにより、一時期の絶滅危惧種的な低調を脱し、市場が再び活発になりつつある高性能Androidタブレット。 大画面で、かつ快適に楽しみたいAndroid版ゲームタイトルがあるゲーマーや、PC...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー、防滴仕様のネックスピーカー「SRS-NB10」を発売 - INTERNET Watch]]></title>
+        <id>https://internet.watch.impress.co.jp/docs/news/1339498.html</id>
+        <link href="https://internet.watch.impress.co.jp/docs/news/1339498.html"/>
+        <updated>2021-07-28T02:19:40.000Z</updated>
+        <summary type="html"><![CDATA[ソニー株式会社は、ネックスピーカー「SRS-NB10」を7月30日に発売する。Amazon.co.jpでは1万5400円で予約を受け付けている。カラーはチャコールグレーとホワイトの2色。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チューブ入り「大根おろし」　ハウスが発売　開発に5年以上 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/28/news091.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/28/news091.html"/>
+        <updated>2021-07-28T02:18:02.000Z</updated>
+        <summary type="html"><![CDATA[ハウス食品は、チューブ入り調味料の新製品として、「大根おろし」を8月9日に発売する。大根のシャキシャキとした食感と、すだち香料のさわやかな風味が特徴という。オープン価格で、税別の実売予想価格は125円（40g入り）。 常温流通でも美味しく品質を保つ技術の開発に5年以上かけたという。一部の技術は特許を出願し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Gridで実装する時に役立つチートシート、各プロパティと値でレイアウトがどのようになるか一目で分かる]]></title>
+        <id>https://coliss.com/?p=30615</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/css-grid-cheat-sheet-by-learnpine.html"/>
+        <updated>2021-07-28T00:36:39.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[販売期間はあと1週間で終わり！商用で使えるテクスチャとパターン素材25万円分が、約3,000円で購入できる特大セール]]></title>
+        <id>https://coliss.com/?p=30673</id>
+        <link href="https://coliss.com/articles/products/1-day-left-designcuts-sale-202107.html"/>
+        <updated>2021-07-28T00:26:42.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もうリリースは怖くない ― 大きな変更を安全に本番適用するTips - Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
+        <id>https://blog.cybozu.io/entry/2021/07/28/080000</id>
+        <link href="https://blog.cybozu.io/entry/2021/07/28/080000"/>
+        <updated>2021-07-27T23:31:42.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、AWS版kintoneのDevOpsエンジニアをしている@ueokandeです。 AWS版kintoneは2019年9月のローンチから現在まで、幾度となく機能改善をしてきました。 ローンチ当時よりも利用者が増え、スケーラビリティのために内部設計を大きく変更することもあります。 先日公開したメール送信の設計変更もその1つです。 bl...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いまさら聞けない「CI/CD」の意義――GitHubとGitHub ActionsでCI/CDを試してみよう：GMOペパボに学ぶ「CI/CD」活用術（1）（1/2 ページ） - ＠IT]]></title>
+        <id>https://www.atmarkit.co.jp/ait/articles/2107/28/news014.html</id>
+        <link href="https://www.atmarkit.co.jp/ait/articles/2107/28/news014.html"/>
+        <updated>2021-07-27T23:21:11.000Z</updated>
+        <summary type="html"><![CDATA[いまさら聞けない「CI/CD」の意義――GitHubとGitHub ActionsでCI/CDを試してみよう：GMOペパボに学ぶ「CI/CD」活用術（1）（1/2 ページ） GMOペパボにおけるCI/CD活用事例を紹介する本連載。第1回は組織でCI/CDを導入する目的と意義を整理し、GitHub/GitHub Actionsを利用してCI/CDを実践する方法を紹介します。 ITがビジ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learnings From a WebPageTest Session on CSS-Tricks]]></title>
         <id>https://css-tricks.com/?p=345169</id>
@@ -26,6 +371,16 @@ The post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CS
 The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS15、macOS Monterey、watchOS8などのベータ4がリリース - iPhone Mania]]></title>
+        <id>https://iphone-mania.jp/news-385406/</id>
+        <link href="https://iphone-mania.jp/news-385406/"/>
+        <updated>2021-07-27T22:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Appleは現地時間7月27日、iOS15、iPadOS15、macOS Monterey、watchOS8、tvOS15の開発者向けベータ4をリリースしました。正式版は今秋公開予定です。 ベータ3から2週間でのリリース Appleが開発者向けにリリースしたiOS15、iPadOS15、macOS Monterey、watchOS8、tvOS15のベータ4は、現地時間7月14日のベータ3から約2週間...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -121,6 +476,16 @@ I'm only allowing the page to show three not…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WebAssembly で画像のリサイズ処理をやってみたら JavaScript より遅かった話 - Qiita]]></title>
+        <id>https://qiita.com/yokra9/items/f9e98a9b47fe2d1234b0</id>
+        <link href="https://qiita.com/yokra9/items/f9e98a9b47fe2d1234b0"/>
+        <updated>2021-07-27T11:06:57.000Z</updated>
+        <summary type="html"><![CDATA[WebAssembly(WASM) は JavaScript より計算処理が速いという話題がしばしば聞かれます。 では、単純な数値計算ではないけれど、JavaScript で時間がかかる処理を移植するとどうなるのでしょうか。本記事ではその一例として、巨大画像（4K～）を指定したピクセル数までリサイズする処理を書いてみました。 リポジトリ: ht...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ブコメがつまらなくなった]]></title>
         <id>https://anond.hatelabo.jp/20210727194501</id>
         <link href="https://anond.hatelabo.jp/20210727194501"/>
@@ -183,6 +548,16 @@ Accessibility is often an excluded aspect of building web applications, especial
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[最初から強いやつの特徴 - Qiita]]></title>
+        <id>https://qiita.com/zamis/items/703bfcea027a70c1cec6</id>
+        <link href="https://qiita.com/zamis/items/703bfcea027a70c1cec6"/>
+        <updated>2021-07-27T08:33:44.000Z</updated>
+        <summary type="html"><![CDATA[平日の稼働時間以外も勉強 or 開発する 土日も勉強 or 開発する 公式ドキュメントをちゃんと読む 以上のような当たり前のことは、最初から強い人じゃなくてもやるので特徴に入れません。 1. 読解能力が異常に高い 国語の力です。 これは、ちゃんとドキュメントに書いてあることが理解できると同義です。 そしてこれが、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[はてブ人気コメント算出アルゴリズム変更と自由で公平な表現の場 ／ ʕ•̫͡•ʔワンクリック入力用Chrome拡張機能を作った件 - ドサンピン茶]]></title>
         <id>https://sangping.hatenablog.com/entry/2021/07/27/132240</id>
         <link href="https://sangping.hatenablog.com/entry/2021/07/27/132240"/>
@@ -208,6 +583,16 @@ Accessibility is often an excluded aspect of building web applications, especial
         <link href="https://user-first.ikyu.co.jp/entry/2021/07/27/155513"/>
         <updated>2021-07-27T07:55:23.000Z</updated>
         <summary type="html"><![CDATA[はじめに データサイエンス部の平田です。 ディープラーニングのモデルを作る際、学習データが少ないことが原因で精度が上がらない場合、データのかさまし（augmentation）を行うことがあります。 画像の場合は、オリジナルに対して回転させたりノイズを少し加えることで同じラベル付けがされている別の画像を作り出すこ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII.jp：「直流安定化電源」は1台あると超便利]]></title>
+        <id>https://ascii.jp/elem/000/004/063/4063360/</id>
+        <link href="https://ascii.jp/elem/000/004/063/4063360/"/>
+        <updated>2021-07-27T07:44:11.000Z</updated>
+        <summary type="html"><![CDATA[買ってみたんです、直流安定化電源 「直流安定化電源」って、聞いたことがあるでしょうか。名前の通り「安定した直流を出力する電源」のことです（笑）。普通の家庭や家電ショップなどでも、ほぼ見かけない機器ですが、今の時代、あるとすごく便利なんです。 たとえば、こんなことで不安になった経験はありませんか？ ス...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -362,6 +747,16 @@ styled-components seems like the biggest player in the CSS-in-React market. Desp
 The post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PythonのWebフレームワーク「Django」のHttpRequestオブジェクトを徹底解説：CodeZine（コードジン）]]></title>
+        <id>https://codezine.jp/article/detail/14493</id>
+        <link href="https://codezine.jp/article/detail/14493"/>
+        <updated>2021-07-26T23:21:27.000Z</updated>
+        <summary type="html"><![CDATA[PythonでWeb開発ができるフルスタックなフレームワーク「Django」について詳しく解説した『実践Django Pythonによる本格Webアプリケーション開発』から、DjangoのHttpRequestオブジェクトの役割と仕組みについて、HTTP 1.1の基礎知識から掘り下げて解説しているパートを抜粋して紹介します。 本記事は『実践Django Pytho...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -5295,16 +5690,6 @@ Cheers!]]></summary>
         <summary type="html"><![CDATA[現在のWebサイトは整然としていてモバイルフレンドリーで、さまざまな手段で来訪する方のアクセシビリティを考慮したデザインをされています。しかし、ユーザーから情報を集めるフォームの作成においては、自分たちの選択が間違ってい]]></summary>
         <author>
             <name>UX MILK編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solid · Reactive Javascript Library]]></title>
-        <id>https://www.solidjs.com/</id>
-        <link href="https://www.solidjs.com/"/>
-        <updated>2021-06-29T02:53:28.000Z</updated>
-        <summary type="html"><![CDATA[A declarative, efficient and flexible JavaScript library for building user interfaces.]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
 </feed>

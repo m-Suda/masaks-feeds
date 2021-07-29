@@ -229,6 +229,231 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html",
+          "author": null,
+          "description": "アメリカのIT大手、グーグルとフェイスブックは、変異した新型コロナウイルスの感染拡大を受けて、オフィスで勤務するすべての従業員にワクチンの接種を義務づける方針を示しました。 これは、グーグルとフェイスブックが28日、それぞれ明らかにしました。 このうちグーグルは、当初、ことし9月1日にアメリカ国内のオフ...",
+          "link": "https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html",
+          "publishedOn": "2021-07-28T22:19:46.000Z",
+          "wordCount": 21,
+          "title": "米グーグル・フェイスブック 全従業員ワクチン接種義務化へ | 新型コロナウイルス | NHKニュース"
+        },
+        {
+          "id": "https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/",
+          "author": null,
+          "description": "AWS News Blog EC2-Classic is Retiring – Here’s How to Prepare Let’s go back to the summer of 2006 and the launch of EC2. We started out with one instance type (the venerable m1.small), security groups, and the venerable US East (N. Virginia) Region. The EC2-Classic network model was flat, with pu...",
+          "link": "https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/",
+          "publishedOn": "2021-07-28T20:01:26.000Z",
+          "wordCount": 1674,
+          "title": "EC2-Classic is Retiring – Here’s How to Prepare | AWS News Blog"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-385629/",
+          "author": null,
+          "description": "Appleは開発者に対して、iOS15、iPadOS15、macOS Monterey、watchOS8の一般ユーザー向け正式版では、Siriによるサードパーティー製アプリの操作が制限される、と予告しています。 22のSiriKitコマンドが無効に Appleは開発者向けサポートページに、iOS15、iPadOS15、macOS Monterey、watchOS8の正式版ではSiriKitによる...",
+          "link": "https://iphone-mania.jp/news-385629/",
+          "publishedOn": "2021-07-28T15:29:46.000Z",
+          "wordCount": 231,
+          "title": "iOS15などの次期OSで、Siriによるサードパーティーアプリ操作が制限される - iPhone Mania"
+        },
+        {
+          "id": "https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi",
+          "author": null,
+          "description": "Transcript 1 Conﬁdential メルカリにおけるA/Bテスト標準化への取り組み 柳沼 慎哉（@yaginuuun） 2021/7/28, Retty ✕ Mercari Analyst Talk Night! 2 Conﬁdential 自己紹介 • 前職ではe-learning serviceのData Scientist • メルカリではData Analystとして主にA/Bテスト周り、 推薦システムの改善を担当 • 個人でPodc...",
+          "link": "https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi",
+          "publishedOn": "2021-07-28T15:28:55.000Z",
+          "wordCount": 1247,
+          "title": "メルカリにおけるA/Bテスト標準化への取り組み - Speaker Deck"
+        },
+        {
+          "id": "https://jp.quora.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E5%8F%B0%E3%81%AEWeb%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-Nginx-%E3%81%A7%E3%81%AESSL%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0",
+          "author": null,
+          "description": "問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください",
+          "link": "https://jp.quora.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E5%8F%B0%E3%81%AEWeb%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-Nginx-%E3%81%A7%E3%81%AESSL%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0",
+          "publishedOn": "2021-07-28T12:55:51.000Z",
+          "wordCount": 5,
+          "title": "システム会社の一台のWebサーバー（Nginx）でのSSL証明書の更新作業の見積もりが20万円でした。ファイルをアップロードして再起動するだけですよね？ぼったくりだと思いますか？ - Quora"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/07/28/wtnv-eukarya-re-earth/",
+          "author": null,
+          "description": "東京大学 大学院情報学環 渡邉英徳研究室は7月26日、ユーカリヤ（Eukarya）と共同で汎用的WebGISプラットフォーム「Re:Earth」（リアース）を開発し、オープンソースソフトウェア（OSS）としてGitHub上で公開したと発表した。ライセンスは「Apache License 2.0」。行動規範（Code of Conducts）も公開している。 また成...",
+          "link": "https://jp.techcrunch.com/2021/07/28/wtnv-eukarya-re-earth/",
+          "publishedOn": "2021-07-28T12:09:18.000Z",
+          "wordCount": 305,
+          "title": "東京大学が「デジタルツイン」構築向けWebGISプラットフォーム「Re:Earth」をオープンソースとして公開 | TechCrunch Japan"
+        },
+        {
+          "id": "https://zenn.dev/mura_chan/articles/e8c85262f54830",
+          "author": null,
+          "description": "// コンパイルエラー const numbers: NonEmptyArray = []; // これはコンパイルが通る const numbers: NonEmptyArray = [1]; const needNonEmpty = (arr: NonEmptyArray) => arr.length const a: number[] = [1,2,3]; const b: NonEmptyArray = [1,2,3]; const isNonEmptyArray = (a...",
+          "link": "https://zenn.dev/mura_chan/articles/e8c85262f54830",
+          "publishedOn": "2021-07-28T12:07:49.000Z",
+          "wordCount": 67,
+          "title": "Typescriptで空でない配列を型で表現する"
+        },
+        {
+          "id": "https://stock.pulpxstyle.com/",
+          "author": null,
+          "description": "世の中には素晴らしいデザインが溢れています。 その中からWebデザインの現場で参考になる日本の優れたWebデザインを集めてみました。 あなたのインスピレーションを刺激してみてください。",
+          "link": "https://stock.pulpxstyle.com/",
+          "publishedOn": "2021-07-28T11:58:35.000Z",
+          "wordCount": 912,
+          "title": "Stock - Webデザインギャラリー"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-385599/",
+          "author": null,
+          "description": "iOS15ベータ4を解析したところ、iPhoneやApple Watchに身分証明書を登録するプロセスが判明した、と米メディア9to5Macが報じています。ユーザーの自撮り写真（セルフィー）を使って本人確認が行われます。 iOS15ベータ4から身分証の登録プロセスが判明 Appleは6月の世界開発者会議（WWDC21）でiOS15とwatchOS8の新機能と...",
+          "link": "https://iphone-mania.jp/news-385599/",
+          "publishedOn": "2021-07-28T11:55:13.000Z",
+          "wordCount": 244,
+          "title": "iOS15でiPhoneへの身分証登録、本人確認にセルフィーを利用すると判明 - iPhone Mania"
+        },
+        {
+          "id": "https://gigazine.net/news/20210728-windows-96/",
+          "author": null,
+          "description": "1990年代に登場したWindowsには、1995年に発売された「Windows 95」や1998年にリリースされた「Windows 98」といったものがあります。そんなメジャーバージョンがリリースされなかった年にもしもWindowsが登場していたら……ということで、ありそうでなかった「Windows 96」をインターネット上でHTML5、CSS、JavaScript、W...",
+          "link": "https://gigazine.net/news/20210728-windows-96/",
+          "publishedOn": "2021-07-28T11:12:23.000Z",
+          "wordCount": 233,
+          "title": "「Windows 96」が登場、往年の名OSを彷彿とさせる架空のWindowsにブラウザからアクセス可能 - GIGAZINE"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/accessibility-insights/",
+          "author": null,
+          "description": "Web制作時にGoogleChrome拡張のAccessibility Insightsを使ってアクセシビリティの評価を行う いわさです。 皆様、アクセシビリティに配慮したWebサイトの設計されてますでしょうか。 Webアクセシビリティを評価するためのツールがMicrosoftから提供されていますので紹介したいと思います。 Accessibility Insightsとい...",
+          "link": "https://dev.classmethod.jp/articles/accessibility-insights/",
+          "publishedOn": "2021-07-28T10:51:01.000Z",
+          "wordCount": 177,
+          "title": "Web制作時にGoogleChrome拡張のAccessibility Insightsを使ってアクセシビリティの評価を行う | DevelopersIO"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/28/news160.html",
+          "author": null,
+          "description": "オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 東京大学などが、Webブラウザから使えるオープンソースの地理情報システム「Re:Earth」を公開した。地理空間上への情報のマッピングや、3D情報の付加などがマウス操作のみで行え、ユーザーが独自のWebアプリとし...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/28/news160.html",
+          "publishedOn": "2021-07-28T10:42:11.000Z",
+          "wordCount": 154,
+          "title": "オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 - ITmedia NEWS"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1340638.html",
+          "author": null,
+          "description": "AYANEOは23日(現地時間)に、新CEO“Uncle Tail”氏自らストリーミング配信を行ない、7型ポータブルWindowsゲーム機「AYANEO」シリーズの新モデル「AYANEO 2021 Pro」を発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1340638.html",
+          "publishedOn": "2021-07-28T05:49:30.000Z",
+          "wordCount": 131,
+          "title": "Ryzen 7 4800U搭載になった7型Windowsゲーム機「AYANEO 2021 Pro」。ゲームボーイを彷彿とさせる色に - PC Watch"
+        },
+        {
+          "id": "https://blog.shibayan.jp/entry/20210728/1627450686",
+          "author": null,
+          "description": "基本的には Windows と Visual Studio を使って Azure Functions や GitHub で公開しているアプリケーションとライブラリを書いていますが、最近は Python や Go を書く必要がちょいちょい出てきたので、色々と観念して WSL 2 の環境を構築して使っています。 特に Python は Azure Functions だと Linux のみ対応となる...",
+          "link": "https://blog.shibayan.jp/entry/20210728/1627450686",
+          "publishedOn": "2021-07-28T05:44:22.000Z",
+          "wordCount": 654,
+          "title": "Windows / Visual Studio 使いが WSL 2 / Visual Studio Code で環境構築した時の手順 - しばやん雑記"
+        },
+        {
+          "id": "https://gigazine.net/news/20210728-alphabet-google-2021q2/",
+          "author": null,
+          "description": "Googleの親会社であるAlphabetが2021年第2四半期(4月～6月)の決算報告書を公開しました。2020年第2四半期には新型コロナウイルス感染症(COVID-19)の流行によってAlphabet全体の収益が減少する事態に陥っていましたが、2021年第2四半期の収益は前年同期比62％増の610億8800万ドル(約6兆8000億円)で過去最高を記録していま...",
+          "link": "https://gigazine.net/news/20210728-alphabet-google-2021q2/",
+          "publishedOn": "2021-07-28T05:39:33.000Z",
+          "wordCount": 181,
+          "title": "Googleが6兆8000億円の収益で過去最高を記録、YouTubeの広告収入は7700億円でクラウド事業も着実に成長中 - GIGAZINE"
+        },
+        {
+          "id": "https://techfeed.io/entries/6100dfc223bbb26e929f3db7",
+          "author": null,
+          "description": "",
+          "link": "https://techfeed.io/entries/6100dfc223bbb26e929f3db7",
+          "publishedOn": "2021-07-28T04:41:39.000Z",
+          "wordCount": 95,
+          "title": "今、Battlesnake（バトルスネーク）が熱い - git cloneしてAPIサーバー立ててプログラミングしてマルチプレイヤーバトル！"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1340625.html",
+          "author": null,
+          "description": "ドスパラは、デスクを備えたスリーアールソリューション製のエアロバイク「ツクエアロ2 デスク付きエクササイズバイク」を発売した。価格は2万9,900円。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1340625.html",
+          "publishedOn": "2021-07-28T04:17:35.000Z",
+          "wordCount": 98,
+          "title": "ドスパラ、ノートPCで仕事しながら運動できるエアロバイク。2万9,900円 - PC Watch"
+        },
+        {
+          "id": "https://blog.kenall.jp/entry/2021/07/28/124740",
+          "author": null,
+          "description": "自分のPCやサーバーに設定されたIPアドレスを確認するためのAPI、「自己IPアドレス確認API」の提供を開始いたしました。 ケンオールのアカウントがあればどなたでも無償でご利用いただけます。 使用方法は、/whoami エンドポイントにリクエストを送信するだけです。 curl -s -H \"Authorization: Token $YOUR_API_KEY\" \\ ...",
+          "link": "https://blog.kenall.jp/entry/2021/07/28/124740",
+          "publishedOn": "2021-07-28T03:56:20.000Z",
+          "wordCount": 133,
+          "title": "自己IPアドレス確認APIの無償提供を開始しました - ケンオールブログ"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210728124227",
+          "author": null,
+          "description": "駆けて、駆け、駆け抜けようではありませんか",
+          "link": "https://anond.hatelabo.jp/20210728124227",
+          "publishedOn": "2021-07-28T03:51:02.000Z",
+          "wordCount": 95,
+          "title": "駆け出しエンジニアってなんですぐ駆けるの止めるの？"
+        },
+        {
+          "id": "https://japanese.engadget.com/lenovo-yoga-tab-13-11-japan-020052382.html",
+          "author": null,
+          "description": "モバイルディスプレイにもなる13型高速Androidタブ、Yoga Tab 13日本版発表。11型モデルも同時発売 リモートワークで盛り上がる需要などにより、一時期の絶滅危惧種的な低調を脱し、市場が再び活発になりつつある高性能Androidタブレット。 大画面で、かつ快適に楽しみたいAndroid版ゲームタイトルがあるゲーマーや、PC...",
+          "link": "https://japanese.engadget.com/lenovo-yoga-tab-13-11-japan-020052382.html",
+          "publishedOn": "2021-07-28T02:37:45.000Z",
+          "wordCount": 315,
+          "title": "モバイルディスプレイにもなる13型高速Androidタブ、Yoga Tab 13日本版発表。11型モデルも同時発売 - Engadget 日本版"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/news/1339498.html",
+          "author": null,
+          "description": "ソニー株式会社は、ネックスピーカー「SRS-NB10」を7月30日に発売する。Amazon.co.jpでは1万5400円で予約を受け付けている。カラーはチャコールグレーとホワイトの2色。",
+          "link": "https://internet.watch.impress.co.jp/docs/news/1339498.html",
+          "publishedOn": "2021-07-28T02:19:40.000Z",
+          "wordCount": 85,
+          "title": "ソニー、防滴仕様のネックスピーカー「SRS-NB10」を発売 - INTERNET Watch"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/28/news091.html",
+          "author": null,
+          "description": "ハウス食品は、チューブ入り調味料の新製品として、「大根おろし」を8月9日に発売する。大根のシャキシャキとした食感と、すだち香料のさわやかな風味が特徴という。オープン価格で、税別の実売予想価格は125円（40g入り）。 常温流通でも美味しく品質を保つ技術の開発に5年以上かけたという。一部の技術は特許を出願し...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/28/news091.html",
+          "publishedOn": "2021-07-28T02:18:02.000Z",
+          "wordCount": 148,
+          "title": "チューブ入り「大根おろし」　ハウスが発売　開発に5年以上 - ITmedia NEWS"
+        },
+        {
+          "id": "https://blog.cybozu.io/entry/2021/07/28/080000",
+          "author": null,
+          "description": "こんにちは、AWS版kintoneのDevOpsエンジニアをしている@ueokandeです。 AWS版kintoneは2019年9月のローンチから現在まで、幾度となく機能改善をしてきました。 ローンチ当時よりも利用者が増え、スケーラビリティのために内部設計を大きく変更することもあります。 先日公開したメール送信の設計変更もその1つです。 bl...",
+          "link": "https://blog.cybozu.io/entry/2021/07/28/080000",
+          "publishedOn": "2021-07-27T23:31:42.000Z",
+          "wordCount": 475,
+          "title": "もうリリースは怖くない ― 大きな変更を安全に本番適用するTips - Cybozu Inside Out | サイボウズエンジニアのブログ"
+        },
+        {
+          "id": "https://www.atmarkit.co.jp/ait/articles/2107/28/news014.html",
+          "author": null,
+          "description": "いまさら聞けない「CI/CD」の意義――GitHubとGitHub ActionsでCI/CDを試してみよう：GMOペパボに学ぶ「CI/CD」活用術（1）（1/2 ページ） GMOペパボにおけるCI/CD活用事例を紹介する本連載。第1回は組織でCI/CDを導入する目的と意義を整理し、GitHub/GitHub Actionsを利用してCI/CDを実践する方法を紹介します。 ITがビジ...",
+          "link": "https://www.atmarkit.co.jp/ait/articles/2107/28/news014.html",
+          "publishedOn": "2021-07-27T23:21:11.000Z",
+          "wordCount": 202,
+          "title": "いまさら聞けない「CI/CD」の意義――GitHubとGitHub ActionsでCI/CDを試してみよう：GMOペパボに学ぶ「CI/CD」活用術（1）（1/2 ページ） - ＠IT"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-385406/",
+          "author": null,
+          "description": "Appleは現地時間7月27日、iOS15、iPadOS15、macOS Monterey、watchOS8、tvOS15の開発者向けベータ4をリリースしました。正式版は今秋公開予定です。 ベータ3から2週間でのリリース Appleが開発者向けにリリースしたiOS15、iPadOS15、macOS Monterey、watchOS8、tvOS15のベータ4は、現地時間7月14日のベータ3から約2週間...",
+          "link": "https://iphone-mania.jp/news-385406/",
+          "publishedOn": "2021-07-27T22:57:46.000Z",
+          "wordCount": 217,
+          "title": "iOS15、macOS Monterey、watchOS8などのベータ4がリリース - iPhone Mania"
+        },
+        {
           "id": "https://www.t.u-tokyo.ac.jp/soe/press/setnws_202107261301478146960981.html",
           "author": null,
           "description": "帰還困難区域での熱電発電システムを用いた自律移動ロボットの実地走行～家庭用カセットボンベを燃料として長時間の環境モニタリングを実現～ １．発表者： 李　敏赫（東京大学　大学院工学系研究科機械工学専攻　助教） 筑紫彰太（東京大学　大学院工学系研究科精密工学専攻　助教） 鈴木雄二（東京大学　大学院工学系...",
@@ -263,6 +488,15 @@
           "publishedOn": "2021-07-27T12:02:35.000Z",
           "wordCount": 626,
           "title": "AMPで速くする。AMPを速くする - ゆーすけべー日記"
+        },
+        {
+          "id": "https://qiita.com/yokra9/items/f9e98a9b47fe2d1234b0",
+          "author": null,
+          "description": "WebAssembly(WASM) は JavaScript より計算処理が速いという話題がしばしば聞かれます。 では、単純な数値計算ではないけれど、JavaScript で時間がかかる処理を移植するとどうなるのでしょうか。本記事ではその一例として、巨大画像（4K～）を指定したピクセル数までリサイズする処理を書いてみました。 リポジトリ: ht...",
+          "link": "https://qiita.com/yokra9/items/f9e98a9b47fe2d1234b0",
+          "publishedOn": "2021-07-27T11:06:57.000Z",
+          "wordCount": 966,
+          "title": "WebAssembly で画像のリサイズ処理をやってみたら JavaScript より遅かった話 - Qiita"
         },
         {
           "id": "https://anond.hatelabo.jp/20210727194501",
@@ -310,6 +544,15 @@
           "title": "地球帰還のベゾス氏、空気を読まない発言に怒りが集中「アマゾン顧客と従業員、君たちが代金を払った」｜ニューズウィーク日本版 オフィシャルサイト"
         },
         {
+          "id": "https://qiita.com/zamis/items/703bfcea027a70c1cec6",
+          "author": null,
+          "description": "平日の稼働時間以外も勉強 or 開発する 土日も勉強 or 開発する 公式ドキュメントをちゃんと読む 以上のような当たり前のことは、最初から強い人じゃなくてもやるので特徴に入れません。 1. 読解能力が異常に高い 国語の力です。 これは、ちゃんとドキュメントに書いてあることが理解できると同義です。 そしてこれが、...",
+          "link": "https://qiita.com/zamis/items/703bfcea027a70c1cec6",
+          "publishedOn": "2021-07-27T08:33:44.000Z",
+          "wordCount": 396,
+          "title": "最初から強いやつの特徴 - Qiita"
+        },
+        {
           "id": "https://sangping.hatenablog.com/entry/2021/07/27/132240",
           "author": null,
           "description": "目次 目次 はてブ人気コメント算出アルゴリズム変更と自由で公平な表現の場 ʕ•̫͡•ʔワンクリック入力用Chrome拡張機能を作った件 はてブ人気コメント算出アルゴリズム変更と自由で公平な表現の場 ここのところ、立て続けに表現の自由*1に関連して苛立ちを感じる出来事が続出することが続いており、なんだか私とても苛立って...",
@@ -335,6 +578,15 @@
           "publishedOn": "2021-07-27T07:55:23.000Z",
           "wordCount": 765,
           "title": "テキストデータのかさましを実装する - 一休.com Developers Blog"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/063/4063360/",
+          "author": null,
+          "description": "買ってみたんです、直流安定化電源 「直流安定化電源」って、聞いたことがあるでしょうか。名前の通り「安定した直流を出力する電源」のことです（笑）。普通の家庭や家電ショップなどでも、ほぼ見かけない機器ですが、今の時代、あるとすごく便利なんです。 たとえば、こんなことで不安になった経験はありませんか？ ス...",
+          "link": "https://ascii.jp/elem/000/004/063/4063360/",
+          "publishedOn": "2021-07-27T07:44:11.000Z",
+          "wordCount": 566,
+          "title": "ASCII.jp：「直流安定化電源」は1台あると超便利"
         },
         {
           "id": "https://sia.codes/posts/render-blocking-resources/",
@@ -452,6 +704,15 @@
           "publishedOn": "2021-07-27T01:08:02.000Z",
           "wordCount": 539,
           "title": "2025年までに「1.8nm相当」に――Intelが半導体生産のロードマップを説明：Intel 7からIntel 18Aまで - ITmedia PC USER"
+        },
+        {
+          "id": "https://codezine.jp/article/detail/14493",
+          "author": null,
+          "description": "PythonでWeb開発ができるフルスタックなフレームワーク「Django」について詳しく解説した『実践Django Pythonによる本格Webアプリケーション開発』から、DjangoのHttpRequestオブジェクトの役割と仕組みについて、HTTP 1.1の基礎知識から掘り下げて解説しているパートを抜粋して紹介します。 本記事は『実践Django Pytho...",
+          "link": "https://codezine.jp/article/detail/14493",
+          "publishedOn": "2021-07-26T23:21:27.000Z",
+          "wordCount": 564,
+          "title": "PythonのWebフレームワーク「Django」のHttpRequestオブジェクトを徹底解説：CodeZine（コードジン）"
         },
         {
           "id": "https://www.atmarkit.co.jp/ait/articles/2107/27/news006.html",
@@ -3170,15 +3431,6 @@
           "publishedOn": "2021-07-05T03:40:18.000Z",
           "wordCount": 487,
           "title": "Docker が生まれるまでの課題と背景とは ? ~スペシャリストから学ぶコンテナ技術 第 2 回 - 変化を求めるデベロッパーを応援するウェブマガジン | AWS"
-        },
-        {
-          "id": "https://www.solidjs.com/",
-          "author": null,
-          "description": "A declarative, efficient and flexible JavaScript library for building user interfaces.",
-          "link": "https://www.solidjs.com/",
-          "publishedOn": "2021-06-29T02:53:28.000Z",
-          "wordCount": 7,
-          "title": "Solid · Reactive Javascript Library"
         }
       ]
     },
@@ -3290,13 +3542,41 @@
       "title": "Angular University",
       "feedUrl": "https://blog.angular-university.io/rss",
       "siteUrl": "https://blog.angular-university.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "60ffc849b90f9e003b92020d",
+          "author": "Angular University",
+          "description": "Everything that you need to know in practice to use the Angular dependency injection system, all in one place. All of its advanced concepts are explained in a practical and easy-to-understand way, with examples.",
+          "link": "https://blog.angular-university.io/angular-dependency-injection/",
+          "publishedOn": "2021-07-28T14:39:28.000Z",
+          "wordCount": 7408,
+          "title": "Angular Dependency Injection: Complete Guide"
+        }
+      ]
     },
     {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=345404",
+          "author": "Chris Coyier",
+          "description": "It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …\nThe post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/safari-15-opinions/",
+          "publishedOn": "2021-07-28T20:21:55.000Z",
+          "wordCount": 1040,
+          "title": "Safari 15 Opinions"
+        },
+        {
+          "id": "https://css-tricks.com/?p=320544",
+          "author": "Ana Tudor",
+          "description": "For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…\nThe post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/",
+          "publishedOn": "2021-07-28T14:37:34.000Z",
+          "wordCount": 6716,
+          "title": "Using Absolute Value, Sign, Rounding and Modulo in CSS Today"
+        },
         {
           "id": "https://css-tricks.com/?p=345169",
           "author": "Chris Coyier",
@@ -3696,6 +3976,33 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/itpathsolutions/top-reasons-to-choose-angularjs-development-in-2021-5h6l",
+          "author": "IT Path Solutions",
+          "description": "Brief introduction of Angularjs\nAngularjs is open-source java-script framework. It is an on-demand open-source framework for developing dynamic single page web applications. It is created and maintained by Google. Angular js can quickly and easily integrate with other frameworks. It has the potential to create all kinds of front-end development easily. It uses less code. Angular js is now a core development tool for both enterprise and startups.\nAngularjs provides an incredible way to build scalable, interactive and more user-friendly single web and mobile applications, it extends syntax of HTML to demonstrate the application components concisely and certainly. Its well-know competitors are Ember and Backbone.js. Angular js has won many significant awards. The angular js developers community is developing a powerful and robust free framework in an attempt to implement innovative new ideas into your application. Angular js supports integration and unit testing to ease the testing of web applications.\n\nUse of Angular.js Across Industries:\nMajor Apps Built with Angularjs Framework\nHere few global apps and websites that use Angular.js framework:\nWhy Choose Angularjs Development in 2021?\nUser-friendly:\nAngularjs development services give a faster result with less coding and save time for the development process.\nSupports MVC structure:\nMulti-data Binding\nDependency Injection:\nCross-Platform\nAffordability:\nDeclarative UI Expression:\nBest User Interfaces:\nConclusion:\nAfter observing latest trends of Angularjs. Angular js framework is perfect for robust cross platform apps. Angularjs is developed by Google and every features of angular js will be enhanced. If you are convinced about the benefit of  Angularjs development for your next project, do drop us a line by going to our website.",
+          "link": "https://dev.to/itpathsolutions/top-reasons-to-choose-angularjs-development-in-2021-5h6l",
+          "publishedOn": "2021-07-28T12:22:29.000Z",
+          "wordCount": 1063,
+          "title": "Top Reasons to Choose AngularJS Development in 2021"
+        },
+        {
+          "id": "https://dev.to/nodire/how-to-use-mmenu-js-in-angular-cli-project-5hjf",
+          "author": "nodire",
+          "description": "In my Angular CLI project, the MMenu.JS library is malfunctioning.\nLive project: Stack Blitz",
+          "link": "https://dev.to/nodire/how-to-use-mmenu-js-in-angular-cli-project-5hjf",
+          "publishedOn": "2021-07-28T11:39:52.000Z",
+          "wordCount": 416,
+          "title": "How to use MMenu.JS in Angular CLI project?"
+        },
+        {
+          "id": "https://dev.to/flatlogic/difference-between-react-and-angular-a-comparison-guide-for-2021-4kdo",
+          "author": "Nastassia Ovchinnikova",
+          "description": "Introduction\n\n\nHello again, dear friends and accidental bypassers! Today we would like to discuss the factual difference between two web-developing mainstays – React and Angular. Bear in mind, we don’t want to put the two up against each other. Our goal is to explore the difference between them to highlight the stronger and weaker sides of both. The reasoning behind such an outlook on our topic is quite simple – both Angular and React are, undoubtedly, exceptionally good and functional. That’s why it would be a disservice to the cause to try to categorically decide which one is better than the other.\nThat being said, such a topic would be unable to exist without any comparisons at all. We would collate and find a sort of champion in some categories. And now, let’s get down to business\nWhen…",
+          "link": "https://dev.to/flatlogic/difference-between-react-and-angular-a-comparison-guide-for-2021-4kdo",
+          "publishedOn": "2021-07-28T08:31:12.000Z",
+          "wordCount": 3583,
+          "title": "Difference Between React And Angular. A Comparison Guide For 2021"
+        },
         {
           "id": "https://dev.to/dammyreginal/top-skills-you-need-as-a-javascript-developer-mahima-jaiswal-lnp",
           "author": "dammyreginal",
@@ -4124,6 +4431,24 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=30615",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/css-grid-cheat-sheet-by-learnpine.html",
+          "publishedOn": "2021-07-28T00:36:39.000Z",
+          "wordCount": 276,
+          "title": "CSS Gridで実装する時に役立つチートシート、各プロパティと値でレイアウトがどのようになるか一目で分かる"
+        },
+        {
+          "id": "https://coliss.com/?p=30673",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/1-day-left-designcuts-sale-202107.html",
+          "publishedOn": "2021-07-28T00:26:42.000Z",
+          "wordCount": 629,
+          "title": "販売期間はあと1週間で終わり！商用で使えるテクスチャとパターン素材25万円分が、約3,000円で購入できる特大セール"
+        },
         {
           "id": "https://coliss.com/?p=30603",
           "author": "コリス🥦",
