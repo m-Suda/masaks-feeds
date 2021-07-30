@@ -2,10 +2,398 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-29T00:14:49.210Z</updated>
+    <updated>2021-07-30T00:14:32.132Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ダチョウのように走る下半身だけの二足歩行ロボット」が5kmを53分台で走破、軽快に走るムービーも公開中 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210730-bipedal-robot-completing-5k-run/</id>
+        <link href="https://gigazine.net/news/20210730-bipedal-robot-completing-5k-run/"/>
+        <updated>2021-07-29T21:27:20.000Z</updated>
+        <summary type="html"><![CDATA[膝関節の向きが人間と逆でダチョウのように走る二足歩行ロボット「Cassie」は、アメリカ・オレゴン州立大学発のスタートアップであるAgility Roboticsによって開発されたロボットです。二足歩行ロボットは人間用に設計された場所を通過しやすい一方、バランスを取るのが難しいのが課題ですが、研究チームがCassieをディ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Explains the Open Graph Images]]></title>
+        <id>https://css-tricks.com/?p=345518</id>
+        <link href="https://github.blog/2021-06-22-framework-building-open-graph-images/"/>
+        <updated>2021-07-29T19:49:32.000Z</updated>
+        <summary type="html"><![CDATA[An explanation of those new GitHub social media images:
+[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to 
+…
+The post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手軽にできるスマホのハッキング対策は「再起動」すること - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210729-simple-step-thwart-top-phone-hackers/</id>
+        <link href="https://gigazine.net/news/20210729-simple-step-thwart-top-phone-hackers/"/>
+        <updated>2021-07-29T15:04:11.000Z</updated>
+        <summary type="html"><![CDATA[近年増加傾向にあるスマートフォンへのハッキングについて、「ハッキング対策にはスマートフォンの再起動が効果的」とAP通信が報じました。 Turn off, turn on: Simple step can thwart top phone hackers https://apnews.com/article/technology-government-and-politics-hacking-752db867fafbaba1f9cc34f7588944c5 ス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So you want to self-publish books and courses on programming]]></title>
+        <id>https://css-tricks.com/?p=344993</id>
+        <link href="https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/"/>
+        <updated>2021-07-29T14:54:00.000Z</updated>
+        <summary type="html"><![CDATA[John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …
+The post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Loren Sands-Ramshaw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer-Friendly Passwordless Auth]]></title>
+        <id>https://css-tricks.com/?p=345260</id>
+        <link href="https://css-tricks.com/developer-friendly-passwordless-auth/"/>
+        <updated>2021-07-29T14:47:47.000Z</updated>
+        <summary type="html"><![CDATA[I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …
+The post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Rust 1.54.0 | Rust Blog]]></title>
+        <id>https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html</id>
+        <link href="https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html"/>
+        <updated>2021-07-29T14:35:11.000Z</updated>
+        <summary type="html"><![CDATA[The Rust team is happy to announce a new version of Rust, 1.54.0. Rust is a programming language empowering everyone to build reliable and efficient software. If you have a previous version of Rust installed via rustup, getting Rust 1.54.0 is as easy as: rustup update stable If you don't have it ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15+ new code scanning integrations with open source security tools | The GitHub Blog]]></title>
+        <id>https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/</id>
+        <link href="https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/"/>
+        <updated>2021-07-29T12:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Last year, we released code scanning, a vulnerability detection feature in GitHub Advanced Security that’s also free on GitHub.com for public repositories. With code scanning, you can use GitHub CodeQL for static analysis, or you can choose from one of the many third-party integrations available ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中核派革命軍リーダー格の姿確認　9年ぶり、議長に続き浮上か ｜ 共同通信]]></title>
+        <id>https://nordot.app/793442886451036160</id>
+        <link href="https://nordot.app/793442886451036160"/>
+        <updated>2021-07-29T12:06:41.000Z</updated>
+        <summary type="html"><![CDATA[1971年の渋谷暴動事件で殺人罪に問われた過激派「中核派」活動家大坂正明被告（71）の長期潜伏を支えた同派内の非公然組織「革命軍」のリーダー格とされる男性（72）が6月以降、同派の集会に参加する姿を警視庁公安部が確認したことが29日、公安関係者への取材で分かった。動向確認は約9年ぶりで、公安部が注視している...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a WhatsApp Clone with Ionic 2, Angular 2, and Meteor]]></title>
+        <id>https://dev.to/the-guild/build-a-whatsapp-clone-with-ionic-2-angular-2-and-meteor-1ghf</id>
+        <link href="https://dev.to/the-guild/build-a-whatsapp-clone-with-ionic-2-angular-2-and-meteor-1ghf"/>
+        <updated>2021-07-29T10:07:58.000Z</updated>
+        <summary type="html"><![CDATA[This article was published on 2016-11-30 by Uri Goldshtein @ The Guild Blog
+A version of this post was originally published on the Ionic Blog.
+Now, a year has passed and a lot has happened: Angular 2.0 is now stable, including astonishing amount of new features for the platform. Ionic 2.0 entered RC stage and is very close to being final. Finally, Meteor reached version 1.4.2, with many improvements the community asked for (fast build times, full npm and yarn support, Node 4.6.1 and MongoDB 3 by default, etc..).
+Today, I’m happy to announce we are releasing two new versions of the Ionic/Meteor Whatsapp tutorial, this time with Angular 2.0 and Ionic 2.0, one using the Ionic CLI and one using the Meteor CLI.
+In these tutorials, we’ll create a full WhatsApp clone using Angular 2 and Ionic 2. We’ll use Meteor’s realtime collections for the chat and Meteor’s simple Authentication packages for SMS-based authentication.
+It’s great to see the power of these two solutions working together, keeping the platforms up-to-date with the latest improvements in the Javascript ecosystem!
+Start here.
+By the way, if you noticed that the Angular-Meteor.com website is much faster, it’s because we’ve completely re-written it using Angular 2 and universal rendering to generate it as a static website. On top of that, more features are coming to Angular2-Meteor very soon, including lazy loading of modules and support for the AOT compiler.
+If you’re thinking about migrating from Blaze to Angular2, or using them side by side, check out our migration tutorial here.]]></summary>
+        <author>
+            <name>TheGuildBot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp Clone using Angular, GraphQL, Apollo, TypeScript and PostgreSQL]]></title>
+        <id>https://dev.to/the-guild/whatsapp-clone-using-angular-graphql-apollo-typescript-and-postgresql-51jf</id>
+        <link href="https://dev.to/the-guild/whatsapp-clone-using-angular-graphql-apollo-typescript-and-postgresql-51jf"/>
+        <updated>2021-07-29T10:06:56.000Z</updated>
+        <summary type="html"><![CDATA[This article was published on 2019-02-25 by Niccolo Belli @ The Guild Blog
+You might have seen it around already — an open-source WhatsApp Clone tutorial; a project which was originally started in 2015 by Urigo based on Angular-Meteor and Ionic, and have been throughout different incarnations ever since.
+You may have also noticed that we recently published a new React version of the Whatsapp Clone tutorial.
+This time around, I’m happy to announce that a new version of the WhatsApp Clone is here, and it’s based on Angular 7.2, Angular CLI 7.3.2, Material-UI, TypeScript, Apollo, GraphQL-Subscriptions, GraphQL Code Generator, GraphQL Modules, PostgreSQL and TypeORM, full with step by step guides to teach you every step of the way.
+Click mme to go to the tutorial page
+
+This app was built with …]]></summary>
+        <author>
+            <name>TheGuildBot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I helped improve Angular Console]]></title>
+        <id>https://dev.to/the-guild/how-i-helped-improve-angular-console-1m6p</id>
+        <link href="https://dev.to/the-guild/how-i-helped-improve-angular-console-1m6p"/>
+        <updated>2021-07-29T09:51:40.000Z</updated>
+        <summary type="html"><![CDATA[This article was published on 2018-11-30 by Kamil Kisiela @ The Guild Blog
+Did you know that Angular Console uses GraphQL under the hood? I want to tell about how it used it and how I helped to improve it because that might be useful for people trying to implement GraphQL in their applications, both on client and server.
+Angular Console is a user interface for Angular CLI created by Nrwl, widely used in Angular Community.
+I will link to the PRs I’ve made to Angular Console throughout the article so you could see everything I recommend in practice.
+After reading the announcement of Angular Console I got very excited about the tool and immediately decided to explore the codebase. I noticed Electron and that the project is based on Angular CLI and Nrwl’s NX.
+That’s super cool but what I found…]]></summary>
+        <author>
+            <name>TheGuildBot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open source FPS with Apollo GraphQL — GeoStrike (Alpha)]]></title>
+        <id>https://dev.to/the-guild/open-source-fps-with-apollo-graphql-geostrike-alpha-112f</id>
+        <link href="https://dev.to/the-guild/open-source-fps-with-apollo-graphql-geostrike-alpha-112f"/>
+        <updated>2021-07-29T09:07:48.000Z</updated>
+        <summary type="html"><![CDATA[This article was published on 2018-02-15 by David Yahalomi @ The Guild Blog
+TLDR: We’ve built a multiplayer shooter and used Apollo’s GraphQL subscriptions to keep game state in sync at a very high frequency. Here’s our impressions!
+Tools used: Angular-cesium, Apollo Angular, CesiumJS, Angular
+Go Play: geo-strike.com
+Well, to put it simply, because we can!
+Instead of working hard on creating a special serializable, efficient but also unreadable, strict and esoteric binary protocol, we decided on going with the well defined, readable and flexible GraphQL based API, and improve on it, if needed.
+Turns out we can manage synchronization of player positions, state and actions across all clients quite easily!
+There are two ways you can understand our challenges:
+  Go and play the game — Feel fre…]]></summary>
+        <author>
+            <name>TheGuildBot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電ファミの記事で「はてなブックマーク」のコメントが読めるようになりました！]]></title>
+        <id>https://news.denfaminicogamer.jp/oshirase/210729p</id>
+        <link href="https://news.denfaminicogamer.jp/oshirase/210729p"/>
+        <updated>2021-07-29T09:06:55.000Z</updated>
+        <summary type="html"><![CDATA[いつも電ファミニコゲーマーをご覧いただきありがとうございます。 このたび、電ファミニコゲーマーの記事ページ末尾に「はてなブックマーク」のコメント欄を設置しました。記事を読み終えたあとは、ぜひコメントやご感想をいただけますと幸いです。 超絶やり込み系実況者shu3が2年を費やした『ゼルダの伝説 ブレス オブ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL as a best practice for modern Angular apps?]]></title>
+        <id>https://dev.to/the-guild/graphql-as-a-best-practice-for-modern-angular-apps-3e8d</id>
+        <link href="https://dev.to/the-guild/graphql-as-a-best-practice-for-modern-angular-apps-3e8d"/>
+        <updated>2021-07-29T08:55:08.000Z</updated>
+        <summary type="html"><![CDATA[This article was published on 2016-07-28 by Uri Goldshtein @ The Guild Blog
+In this post, I’ll make the case for why Angular needs a best practice for communicating with the server, and why GraphQL should be that best practice.
+The Angular community is establishing best practices so that we all can benefit from making our apps more performant, easier to maintain, and more modern.
+Some of the current best practices include composing everything into Components, using one-way data binding, lazy loading, having an immutable global state management (Redux & ng-rx), and more…
+That is all great, and means that if we will follow those best practices our apps will behave better and will look more modern…
+…until we get to data fetching from the server.
+Today, whether we are developing in a large com…]]></summary>
+        <author>
+            <name>TheGuildBot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脳波でデバイスを制御するインプラントがFDAの承認を受ける - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210729-fda-approved-synchron-stentrode/</id>
+        <link href="https://gigazine.net/news/20210729-fda-approved-synchron-stentrode/"/>
+        <updated>2021-07-29T08:36:55.000Z</updated>
+        <summary type="html"><![CDATA[2021年7月28日、脳インプラントで重度のまひ患者の自立を図る新興企業「Synchron」が「脳波でデバイスを制御するインプラント『Stentrode』をアメリカ食品医薬品局(FDA)が承認した」と発表しました。 Press Release July 28 2021 — Synchron https://synchron.com/press-release-july-28-2021 Stentrodeは人体に無害なチ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー、ネックスピーカー「SRS-NB10」発売延期。一部規格満たさず - AV Watch]]></title>
+        <id>https://av.watch.impress.co.jp/docs/news/1340974.html</id>
+        <link href="https://av.watch.impress.co.jp/docs/news/1340974.html"/>
+        <updated>2021-07-29T08:30:01.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは、7月30日に発売を予定していたワイヤレスネックバンドスピーカー「SRS-NB10」の発売延期を発表した。一部規格を満たしていない項目があることが判明したためとし、受注も停止している。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retr0bright でキーボードを漂白する | IIJ Engineers Blog]]></title>
+        <id>https://eng-blog.iij.ad.jp/archives/9756</id>
+        <link href="https://eng-blog.iij.ad.jp/archives/9756"/>
+        <updated>2021-07-29T08:10:49.000Z</updated>
+        <summary type="html"><![CDATA[手順 1. キーボードのキートップを外す キートップをマイナスドライバーで外す方法も探せば出てきますが、このキーボードはすでに終売しており、もう二度と手に入らないので(※1)、キートップを安全に外せるキープラーで丁寧に外します。ご覧の通り、かなり黄ばんでいます。 大きめのキー(Control、Shift、Return)には針...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写真を「アニメの背景」に変換するAI　30秒で“水彩風”など4種類の背景を生成 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/29/news121.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/29/news121.html"/>
+        <updated>2021-07-29T08:01:38.000Z</updated>
+        <summary type="html"><![CDATA[AIベンチャーのラディウス・ファイブは、AIでアニメ用の美術背景を生成するサービス「Anime Art Painter」を始めた。写真をアップロードするだけで、アニメ風の美術背景を30秒程度で4種類生成する。 AIベンチャーのラディウス・ファイブ（東京都新宿区）は7月29日、AIを使って写真からアニメ用の美術背景を生成するサー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写真からアニメ背景を生成するAI『Anime Art Painter』| cre8tiveAI]]></title>
+        <id>https://ja.cre8tiveai.com/aap</id>
+        <link href="https://ja.cre8tiveai.com/aap"/>
+        <updated>2021-07-29T07:47:27.000Z</updated>
+        <summary type="html"><![CDATA[アニメ背景を創る Anime Art Painterとは？Anime Art Painter（アニメ背景生成AI）とは、写真をアニメ風に変換するAIです。 一般的に、アニメは1話あたり200枚〜300枚の美術背景が使われています。 短い納期の中でクオリティの高い背景を制作する必要があるため大変な仕事です。 Anime Art Painter は、アップロードする...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHK、「映像の世紀」全11作を8月3日から再放送 - AV Watch]]></title>
+        <id>https://av.watch.impress.co.jp/docs/news/1340922.html</id>
+        <link href="https://av.watch.impress.co.jp/docs/news/1340922.html"/>
+        <updated>2021-07-29T06:38:21.000Z</updated>
+        <summary type="html"><![CDATA[NHKは、1995年に放送した「映像の世紀」全11作を、最新のデジタル技術で鮮やかな映像にしつつ、NHK総合で8月3日深夜0時11分(2日月曜深夜)から2週にわたって再放送する。20世紀は人類が初めて歴史を「動く映像」として見ることができた最初の世紀である事から、“映像は20世紀をいかに記録してきたのか”を、世界中の映像記録を発掘・収集し、再構成したドキュメンタリー。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - BlueBlazin/thislang: An implementation of a subset of javascript in that subset of javascript.]]></title>
+        <id>https://github.com/BlueBlazin/thislang</id>
+        <link href="https://github.com/BlueBlazin/thislang"/>
+        <updated>2021-07-29T04:59:39.000Z</updated>
+        <summary type="html"><![CDATA[Thislang About This-lang (thislang) is an implementation of a subset of Javascript in that subset of Javascript. Yes, it can run itself! Usage All output is logged to console. So to use thislang you'll need to open up the console in your browser. Click the Run button to run the code. If you want,...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新規事業の進め方。アジャイル型プロジェクトマネジメントとは？ | Growth Hack Studio Blog]]></title>
+        <id>https://www.ghs.tokyo/posts/agile-project-management</id>
+        <link href="https://www.ghs.tokyo/posts/agile-project-management"/>
+        <updated>2021-07-29T04:47:46.000Z</updated>
+        <summary type="html"><![CDATA[新規事業に取り組む企業の増加や方法論の普及などにより、新規事業の数は増えてきている印象です。一方で、新規事業のマネジメント手法については、あまり見かけません。本記事では、新規事業の運用に適したアジャイル型プロジェクトマネジメントの実践方法について解説します。目次アジャイル型プロジェクトマネジメン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私が日常的に電話をかけてるのは実は Skype からです。Microsoft365を契約していると、月額60分までついてきます。 - 勝間和代が徹底的にマニアックな話をアップするブログ]]></title>
+        <id>https://katsumakazuyo.hatenablog.com/entry/2021/07/29/111658</id>
+        <link href="https://katsumakazuyo.hatenablog.com/entry/2021/07/29/111658"/>
+        <updated>2021-07-29T04:43:03.000Z</updated>
+        <summary type="html"><![CDATA[最近もう Skype は使っていない人が多いのではないかと思います。一時期、常時接続といえば Skype でしたし、海外に電話をかける時にもSkypeだとものすごく安く済んだので助かりました。 でも私は未だに Skype のヘビーユーザーでして、特に何に使ってるかと言うと 「Skype Out」 と呼ばれる、外部の電話にかける時の普...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 Command Line Tools for Productive Programmers - Earthly Blog]]></title>
+        <id>https://earthly.dev/blog/command-line-tools/</id>
+        <link href="https://earthly.dev/blog/command-line-tools/"/>
+        <updated>2021-07-29T04:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Lately, I’ve been doing a lot more things at the command line. I’m not a hard-core terminal guy – I use VSCode more than Vim – but I’m always surprised at the number of complex tasks that can be done using just the POSIX standard command-line tools like grep, cat and sort. Tools are powerful. A g...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[時間無制限・透かしなしの無償デスクトップ録画ツール「TapeX」 ～Windows/Mac対応【レビュー】 - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/review/1340903.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/review/1340903.html"/>
+        <updated>2021-07-29T04:26:35.000Z</updated>
+        <summary type="html"><![CDATA[「TapeX」は、デスクトップの操作を録画し、動画ファイルとして保存できるツール。Windows/Macに対応するフリーソフトで、編集部にてWindows 10で動作確認した。本ソフトの公式サイトからダウンロードできる。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超万能！Notionをまったく別のツールに大変身させるWebサービスを厳選してみた！ - paiza開発日誌]]></title>
+        <id>https://paiza.hatenablog.com/entry/2021/07/29/130000</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/07/29/130000"/>
+        <updated>2021-07-29T04:01:04.000Z</updated>
+        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！ 今回は、万能なドキュメントサービスとして人気の「Notion」を、さらにパワーアップさせて別の用途に活用できるWebサービスを厳選してご紹介します！ すべて無料で利用できる（もしくは無料プランありの）サービスであり、機能的に優れていて誰でも扱える簡単な操作のものを厳選し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Amazonパントリー」8月にサービス終了　米国に続き - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/29/news089.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/29/news089.html"/>
+        <updated>2021-07-29T03:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpは7月29日、食品や日用品を必要な分だけ購入できる「Amazonパントリー」のサービスを終了すると発表した。8月24日の午後11時59分をもって受付を終了する。 Amazonは日本を含む世界9カ国でAmazonパントリーを展開していたが、2020年にコロナ禍の需要急増に耐えきれず一時サービスを停止。今年1月には米国でサ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[とある東京五輪のカウントダウンボード、プログラマがミスったのかとんでもない表示に「嘘でしょｗ」「ガバガバで草」 - Togetter]]></title>
+        <id>https://togetter.com/li/1751144</id>
+        <link href="https://togetter.com/li/1751144"/>
+        <updated>2021-07-29T03:18:49.000Z</updated>
+        <summary type="html"><![CDATA[よっしー＠豊郷検温部 @yosshi_MGSK 65532日とか、4294967292日でなくてよかった(何が 64bit unsignedなんかおぼえられるか 2021-07-28 17:46:19 はろ @harowaku 今回は数値の処理なので定石通りのコーディングをすればここまでひどいことにはならないけども、画面上部の表示とあわせて、オリンピック開催後はどうなるか...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python multiprocessing vs threading vs asyncio - JX通信社エンジニアブログ]]></title>
+        <id>https://tech.jxpress.net/entry/2021/07/29/101150</id>
+        <link href="https://tech.jxpress.net/entry/2021/07/29/101150"/>
+        <updated>2021-07-29T02:35:25.000Z</updated>
+        <summary type="html"><![CDATA[エンジニアの鈴木（泰）です。 今回は、multiprocessingとthreadingとasyncioの違いとはなんだろう？という問に挑戦してみたいと思います。 この問の答えをグーグル先生に聞いてみると、非常にたくさんの情報がヒットします。しかしながら、どの情報も断片的なものばかりで（本記事もそうなのかもしれません）、色々と本...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミクシィの21新卒技術研修の資料と動画を公開します！ - mixi developers]]></title>
+        <id>https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0</id>
+        <link href="https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0"/>
+        <updated>2021-07-29T02:23:20.000Z</updated>
+        <summary type="html"><![CDATA[ミクシィの21新卒技術研修の講義資料や『動画』を公開します！ 研修資料・動画一覧git研修（動画、スライド）データベース研修（動画、スライド、SQL演習環境）設計・テスト研修（動画、スライド）iOSアプリ開発研修（動画、スライド、リポジトリ）Androidアプリ開発研修（動画、スライド、リポジトリ）フロントエンド研...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現実と仮想世界の境界があいまいに…Oculusの実験APIがスゴイ | ギズモード・ジャパン]]></title>
+        <id>https://www.gizmodo.jp/2021/07/oculus-new-experimental-api-blends-virtual-reality-with.html</id>
+        <link href="https://www.gizmodo.jp/2021/07/oculus-new-experimental-api-blends-virtual-reality-with.html"/>
+        <updated>2021-07-29T01:20:13.000Z</updated>
+        <summary type="html"><![CDATA[現実と仮想世界の境界があいまいに…Oculusの実験APIがスゴイ2021.07.29 09:008,420 Alyse Stanley - Gizmodo US ［原文］ （ 塚本直樹 ） Image: shutterstock MRってやっぱりすごい。 大幅なソフトウェアアップデートが実施されたFacebook（フェイスブック）のVRヘッドセット｢Oculus Quest 2｣。こちらがアップデートに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[おひとりさまAWS Organizationsのススメ]]></title>
+        <id>https://www.slideshare.net/tsukamoto/aws-organizations-249878141</id>
+        <link href="https://www.slideshare.net/tsukamoto/aws-organizations-249878141"/>
+        <updated>2021-07-29T00:57:28.000Z</updated>
+        <summary type="html"><![CDATA[We use your LinkedIn profile and activity data to personalize ads and to show you more relevant ads. You can change your ad preferences anytime.]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS/macOS向け言語「Swift」学習アプリ「Swift Playgrounds」は超かわいいけどガチ - どれ使う？プログラミング教育ツール - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/progedu/1340523.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/progedu/1340523.html"/>
+        <updated>2021-07-29T00:41:35.000Z</updated>
+        <summary type="html"><![CDATA[AppleのiOSやMacなどのアプリを作るために作られたプログラミング言語Swiftを、初心者がていねいに学べるアプリが「Swift Playgrounds」。iPad版とMac版のアプリで提供されています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSでスクロールバーをカスタマイズする方法を徹底解説 -古いCSSと新しいCSSでの実装のポイント]]></title>
+        <id>https://coliss.com/?p=30384</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/custom-scrollbars-in-css.html"/>
+        <updated>2021-07-29T00:36:29.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年7月第5週号 1位は，Webデザイナーはそろそろスライダーを辞めるべきという提案，気になるネタは，音声SNS「Clubhouse」が脱ベータ，招待・承認が不要な正式サービスに ── 週刊Webテク通信]]></title>
+        <id>https://gihyo.jp/design/clip/01/weekly-web-tech/202107/29</id>
+        <link href="https://gihyo.jp/design/clip/01/weekly-web-tech/202107/29"/>
+        <updated>2021-07-29T00:15:20.000Z</updated>
+        <summary type="html"><![CDATA[ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年7月12日～25日の間に見つけた記事のベスト5です。]]></summary>
+        <author>
+            <name>アシカガコウジ</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[米グーグル・フェイスブック 全従業員ワクチン接種義務化へ | 新型コロナウイルス | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html</id>
@@ -33,6 +421,26 @@ The post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tr
         <link href="https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/"/>
         <updated>2021-07-28T20:01:26.000Z</updated>
         <summary type="html"><![CDATA[AWS News Blog EC2-Classic is Retiring – Here’s How to Prepare Let’s go back to the summer of 2006 and the launch of EC2. We started out with one instance type (the venerable m1.small), security groups, and the venerable US East (N. Virginia) Region. The EC2-Classic network model was flat, with pu...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウェブ版 Excel で使える新しい「Officeスクリプト」を試してみた | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/office-scripts-available-in-excel-web/</id>
+        <link href="https://dev.classmethod.jp/articles/office-scripts-available-in-excel-web/"/>
+        <updated>2021-07-28T17:12:58.000Z</updated>
+        <summary type="html"><![CDATA[Guten Tag、伊藤です。 何気なく Web 版の Excel でスクリプトを使おうと見てみたら、GAS のようなサンプルスクリプトが出てきて驚きました。 「Office スクリプト」という TypeScript で記述できるスクリプト機能で、今年5月末にGAが開始したばかりなんですね！ しかし、同じエクセルファイルをアプリ版で開いてみると...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[界隈がざわつくほど超進化したPMBOK第7版の解説【プロジェクトマネジメント】｜Mizuho Kushida｜note]]></title>
+        <id>https://note.com/miz_kushida/n/n103a7da460c5</id>
+        <link href="https://note.com/miz_kushida/n/n103a7da460c5"/>
+        <updated>2021-07-28T16:16:56.000Z</updated>
+        <summary type="html"><![CDATA[・不確実性パフォーマンス・ドメインについて加筆しました ・テーラリングについて加筆しましたPMBOKといえば、PMIが世界中のプロマネの実務家から意見を集めてプロジェクトマネジメントについて知識体系化している分厚い本、というイメージです。 いや、でした。。。以前の第6版までは（7版からはすごく薄い）。 2021年...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -193,6 +601,16 @@ Live project: Stack Blitz]]></summary>
         <link href="https://www.itmedia.co.jp/news/articles/2107/28/news160.html"/>
         <updated>2021-07-28T10:42:11.000Z</updated>
         <summary type="html"><![CDATA[オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 東京大学などが、Webブラウザから使えるオープンソースの地理情報システム「Re:Earth」を公開した。地理空間上への情報のマッピングや、3D情報の付加などがマウス操作のみで行え、ユーザーが独自のWebアプリとし...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人開発した賃貸物件検索サービスのシステム構成と使用技術]]></title>
+        <id>https://zenn.dev/choo/articles/84f41ad249c1dd</id>
+        <link href="https://zenn.dev/choo/articles/84f41ad249c1dd"/>
+        <updated>2021-07-28T10:05:58.000Z</updated>
+        <summary type="html"><![CDATA[個人開発で 賃貸物件検索サービス Comfy を作りました。 先週、リリース後の告知ツイートをしたのですが、幸いなことに多くの人にリツイート・いいねの反響を頂きました（リアクションして頂いた方、本当にありがとうございます…!!!） この記事では、Comfy のシステム構成及び使用した技術・サービスを紹介します。 シス...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -1043,6 +1461,16 @@ Let's create…]]></summary>
         <link href="https://techlife.cookpad.com/entry/2021/07/26/160000"/>
         <updated>2021-07-26T07:04:41.000Z</updated>
         <summary type="html"><![CDATA[レシピ事業サービス基盤部で部長をやっています、新井(@SpicyCoffee66)です。引越しを機に MtG のカードをほとんど売ったはずなのに、そのときは存在しなかったポケモンカードのデッキが手元にあります。なぜ？ 私は 2017 卒のエンジニアとしてクックパッドに入社し、様々な業務を経験した後に 2020 年の 8 月から部長と...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoのモダンDBアクセスレイヤーRELを触って | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20210726b/</id>
+        <link href="https://future-architect.github.io/articles/20210726b/"/>
+        <updated>2021-07-26T06:25:51.000Z</updated>
+        <summary type="html"><![CDATA[はじめにTIG DXユニット真野です。GoのORマッパー連載 の1本目です。 テーマはorm-ishなデータベースアクセスレイヤーライブラリであるREL(go-rel/rel)です。他のメジャーなORMライブラリに比べるとまだまだGitHub Stars数は少なくマイナーかもしれませんが、いくつか興味深い点があったので最後までお付き合いいただけ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -5680,16 +6108,6 @@ Cheers!]]></summary>
         <summary type="html"><![CDATA[ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年6月21日～27日の間に見つけた記事のベスト5です。]]></summary>
         <author>
             <name>アシカガコウジ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォームをより幅広いユーザーや文化に対応させるためには]]></title>
-        <id>https://uxmilk.jp/?p=77971</id>
-        <link href="https://uxmilk.jp/77971"/>
-        <updated>2021-06-29T22:45:27.000Z</updated>
-        <summary type="html"><![CDATA[現在のWebサイトは整然としていてモバイルフレンドリーで、さまざまな手段で来訪する方のアクセシビリティを考慮したデザインをされています。しかし、ユーザーから情報を集めるフォームの作成においては、自分たちの選択が間違ってい]]></summary>
-        <author>
-            <name>UX MILK編集部</name>
         </author>
     </entry>
 </feed>

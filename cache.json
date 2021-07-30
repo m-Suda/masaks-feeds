@@ -229,6 +229,231 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20210730-bipedal-robot-completing-5k-run/",
+          "author": null,
+          "description": "膝関節の向きが人間と逆でダチョウのように走る二足歩行ロボット「Cassie」は、アメリカ・オレゴン州立大学発のスタートアップであるAgility Roboticsによって開発されたロボットです。二足歩行ロボットは人間用に設計された場所を通過しやすい一方、バランスを取るのが難しいのが課題ですが、研究チームがCassieをディ...",
+          "link": "https://gigazine.net/news/20210730-bipedal-robot-completing-5k-run/",
+          "publishedOn": "2021-07-29T21:27:20.000Z",
+          "wordCount": 232,
+          "title": "「ダチョウのように走る下半身だけの二足歩行ロボット」が5kmを53分台で走破、軽快に走るムービーも公開中 - GIGAZINE"
+        },
+        {
+          "id": "https://gigazine.net/news/20210729-simple-step-thwart-top-phone-hackers/",
+          "author": null,
+          "description": "近年増加傾向にあるスマートフォンへのハッキングについて、「ハッキング対策にはスマートフォンの再起動が効果的」とAP通信が報じました。 Turn off, turn on: Simple step can thwart top phone hackers https://apnews.com/article/technology-government-and-politics-hacking-752db867fafbaba1f9cc34f7588944c5 ス...",
+          "link": "https://gigazine.net/news/20210729-simple-step-thwart-top-phone-hackers/",
+          "publishedOn": "2021-07-29T15:04:11.000Z",
+          "wordCount": 181,
+          "title": "手軽にできるスマホのハッキング対策は「再起動」すること - GIGAZINE"
+        },
+        {
+          "id": "https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html",
+          "author": null,
+          "description": "The Rust team is happy to announce a new version of Rust, 1.54.0. Rust is a programming language empowering everyone to build reliable and efficient software. If you have a previous version of Rust installed via rustup, getting Rust 1.54.0 is as easy as: rustup update stable If you don't have it ...",
+          "link": "https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html",
+          "publishedOn": "2021-07-29T14:35:11.000Z",
+          "wordCount": 688,
+          "title": "Announcing Rust 1.54.0 | Rust Blog"
+        },
+        {
+          "id": "https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/",
+          "author": null,
+          "description": "Last year, we released code scanning, a vulnerability detection feature in GitHub Advanced Security that’s also free on GitHub.com for public repositories. With code scanning, you can use GitHub CodeQL for static analysis, or you can choose from one of the many third-party integrations available ...",
+          "link": "https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/",
+          "publishedOn": "2021-07-29T12:09:02.000Z",
+          "wordCount": 1185,
+          "title": "15+ new code scanning integrations with open source security tools | The GitHub Blog"
+        },
+        {
+          "id": "https://nordot.app/793442886451036160",
+          "author": null,
+          "description": "1971年の渋谷暴動事件で殺人罪に問われた過激派「中核派」活動家大坂正明被告（71）の長期潜伏を支えた同派内の非公然組織「革命軍」のリーダー格とされる男性（72）が6月以降、同派の集会に参加する姿を警視庁公安部が確認したことが29日、公安関係者への取材で分かった。動向確認は約9年ぶりで、公安部が注視している...",
+          "link": "https://nordot.app/793442886451036160",
+          "publishedOn": "2021-07-29T12:06:41.000Z",
+          "wordCount": 41,
+          "title": "中核派革命軍リーダー格の姿確認　9年ぶり、議長に続き浮上か ｜ 共同通信"
+        },
+        {
+          "id": "https://news.denfaminicogamer.jp/oshirase/210729p",
+          "author": null,
+          "description": "いつも電ファミニコゲーマーをご覧いただきありがとうございます。 このたび、電ファミニコゲーマーの記事ページ末尾に「はてなブックマーク」のコメント欄を設置しました。記事を読み終えたあとは、ぜひコメントやご感想をいただけますと幸いです。 超絶やり込み系実況者shu3が2年を費やした『ゼルダの伝説 ブレス オブ...",
+          "link": "https://news.denfaminicogamer.jp/oshirase/210729p",
+          "publishedOn": "2021-07-29T09:06:55.000Z",
+          "wordCount": 300,
+          "title": "電ファミの記事で「はてなブックマーク」のコメントが読めるようになりました！"
+        },
+        {
+          "id": "https://gigazine.net/news/20210729-fda-approved-synchron-stentrode/",
+          "author": null,
+          "description": "2021年7月28日、脳インプラントで重度のまひ患者の自立を図る新興企業「Synchron」が「脳波でデバイスを制御するインプラント『Stentrode』をアメリカ食品医薬品局(FDA)が承認した」と発表しました。 Press Release July 28 2021 — Synchron https://synchron.com/press-release-july-28-2021 Stentrodeは人体に無害なチ...",
+          "link": "https://gigazine.net/news/20210729-fda-approved-synchron-stentrode/",
+          "publishedOn": "2021-07-29T08:36:55.000Z",
+          "wordCount": 178,
+          "title": "脳波でデバイスを制御するインプラントがFDAの承認を受ける - GIGAZINE"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1340974.html",
+          "author": null,
+          "description": "ソニーは、7月30日に発売を予定していたワイヤレスネックバンドスピーカー「SRS-NB10」の発売延期を発表した。一部規格を満たしていない項目があることが判明したためとし、受注も停止している。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1340974.html",
+          "publishedOn": "2021-07-29T08:30:01.000Z",
+          "wordCount": 74,
+          "title": "ソニー、ネックスピーカー「SRS-NB10」発売延期。一部規格満たさず - AV Watch"
+        },
+        {
+          "id": "https://eng-blog.iij.ad.jp/archives/9756",
+          "author": null,
+          "description": "手順 1. キーボードのキートップを外す キートップをマイナスドライバーで外す方法も探せば出てきますが、このキーボードはすでに終売しており、もう二度と手に入らないので(※1)、キートップを安全に外せるキープラーで丁寧に外します。ご覧の通り、かなり黄ばんでいます。 大きめのキー(Control、Shift、Return)には針...",
+          "link": "https://eng-blog.iij.ad.jp/archives/9756",
+          "publishedOn": "2021-07-29T08:10:49.000Z",
+          "wordCount": 818,
+          "title": "Retr0bright でキーボードを漂白する | IIJ Engineers Blog"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/29/news121.html",
+          "author": null,
+          "description": "AIベンチャーのラディウス・ファイブは、AIでアニメ用の美術背景を生成するサービス「Anime Art Painter」を始めた。写真をアップロードするだけで、アニメ風の美術背景を30秒程度で4種類生成する。 AIベンチャーのラディウス・ファイブ（東京都新宿区）は7月29日、AIを使って写真からアニメ用の美術背景を生成するサー...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/29/news121.html",
+          "publishedOn": "2021-07-29T08:01:38.000Z",
+          "wordCount": 159,
+          "title": "写真を「アニメの背景」に変換するAI　30秒で“水彩風”など4種類の背景を生成 - ITmedia NEWS"
+        },
+        {
+          "id": "https://ja.cre8tiveai.com/aap",
+          "author": null,
+          "description": "アニメ背景を創る Anime Art Painterとは？Anime Art Painter（アニメ背景生成AI）とは、写真をアニメ風に変換するAIです。 一般的に、アニメは1話あたり200枚〜300枚の美術背景が使われています。 短い納期の中でクオリティの高い背景を制作する必要があるため大変な仕事です。 Anime Art Painter は、アップロードする...",
+          "link": "https://ja.cre8tiveai.com/aap",
+          "publishedOn": "2021-07-29T07:47:27.000Z",
+          "wordCount": 195,
+          "title": "写真からアニメ背景を生成するAI『Anime Art Painter』| cre8tiveAI"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1340922.html",
+          "author": null,
+          "description": "NHKは、1995年に放送した「映像の世紀」全11作を、最新のデジタル技術で鮮やかな映像にしつつ、NHK総合で8月3日深夜0時11分(2日月曜深夜)から2週にわたって再放送する。20世紀は人類が初めて歴史を「動く映像」として見ることができた最初の世紀である事から、“映像は20世紀をいかに記録してきたのか”を、世界中の映像記録を発掘・収集し、再構成したドキュメンタリー。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1340922.html",
+          "publishedOn": "2021-07-29T06:38:21.000Z",
+          "wordCount": 85,
+          "title": "NHK、「映像の世紀」全11作を8月3日から再放送 - AV Watch"
+        },
+        {
+          "id": "https://github.com/BlueBlazin/thislang",
+          "author": null,
+          "description": "Thislang About This-lang (thislang) is an implementation of a subset of Javascript in that subset of Javascript. Yes, it can run itself! Usage All output is logged to console. So to use thislang you'll need to open up the console in your browser. Click the Run button to run the code. If you want,...",
+          "link": "https://github.com/BlueBlazin/thislang",
+          "publishedOn": "2021-07-29T04:59:39.000Z",
+          "wordCount": 1194,
+          "title": "GitHub - BlueBlazin/thislang: An implementation of a subset of javascript in that subset of javascript."
+        },
+        {
+          "id": "https://www.ghs.tokyo/posts/agile-project-management",
+          "author": null,
+          "description": "新規事業に取り組む企業の増加や方法論の普及などにより、新規事業の数は増えてきている印象です。一方で、新規事業のマネジメント手法については、あまり見かけません。本記事では、新規事業の運用に適したアジャイル型プロジェクトマネジメントの実践方法について解説します。目次アジャイル型プロジェクトマネジメン...",
+          "link": "https://www.ghs.tokyo/posts/agile-project-management",
+          "publishedOn": "2021-07-29T04:47:46.000Z",
+          "wordCount": 17,
+          "title": "新規事業の進め方。アジャイル型プロジェクトマネジメントとは？ | Growth Hack Studio Blog"
+        },
+        {
+          "id": "https://katsumakazuyo.hatenablog.com/entry/2021/07/29/111658",
+          "author": null,
+          "description": "最近もう Skype は使っていない人が多いのではないかと思います。一時期、常時接続といえば Skype でしたし、海外に電話をかける時にもSkypeだとものすごく安く済んだので助かりました。 でも私は未だに Skype のヘビーユーザーでして、特に何に使ってるかと言うと 「Skype Out」 と呼ばれる、外部の電話にかける時の普...",
+          "link": "https://katsumakazuyo.hatenablog.com/entry/2021/07/29/111658",
+          "publishedOn": "2021-07-29T04:43:03.000Z",
+          "wordCount": 225,
+          "title": "私が日常的に電話をかけてるのは実は Skype からです。Microsoft365を契約していると、月額60分までついてきます。 - 勝間和代が徹底的にマニアックな話をアップするブログ"
+        },
+        {
+          "id": "https://earthly.dev/blog/command-line-tools/",
+          "author": null,
+          "description": "Lately, I’ve been doing a lot more things at the command line. I’m not a hard-core terminal guy – I use VSCode more than Vim – but I’m always surprised at the number of complex tasks that can be done using just the POSIX standard command-line tools like grep, cat and sort. Tools are powerful. A g...",
+          "link": "https://earthly.dev/blog/command-line-tools/",
+          "publishedOn": "2021-07-29T04:37:04.000Z",
+          "wordCount": 1794,
+          "title": "6 Command Line Tools for Productive Programmers - Earthly Blog"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/review/1340903.html",
+          "author": null,
+          "description": "「TapeX」は、デスクトップの操作を録画し、動画ファイルとして保存できるツール。Windows/Macに対応するフリーソフトで、編集部にてWindows 10で動作確認した。本ソフトの公式サイトからダウンロードできる。",
+          "link": "https://forest.watch.impress.co.jp/docs/review/1340903.html",
+          "publishedOn": "2021-07-29T04:26:35.000Z",
+          "wordCount": 120,
+          "title": "時間無制限・透かしなしの無償デスクトップ録画ツール「TapeX」 ～Windows/Mac対応【レビュー】 - 窓の杜"
+        },
+        {
+          "id": "https://paiza.hatenablog.com/entry/2021/07/29/130000",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！ 今回は、万能なドキュメントサービスとして人気の「Notion」を、さらにパワーアップさせて別の用途に活用できるWebサービスを厳選してご紹介します！ すべて無料で利用できる（もしくは無料プランありの）サービスであり、機能的に優れていて誰でも扱える簡単な操作のものを厳選し...",
+          "link": "https://paiza.hatenablog.com/entry/2021/07/29/130000",
+          "publishedOn": "2021-07-29T04:01:04.000Z",
+          "wordCount": 322,
+          "title": "超万能！Notionをまったく別のツールに大変身させるWebサービスを厳選してみた！ - paiza開発日誌"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/29/news089.html",
+          "author": null,
+          "description": "Amazon.co.jpは7月29日、食品や日用品を必要な分だけ購入できる「Amazonパントリー」のサービスを終了すると発表した。8月24日の午後11時59分をもって受付を終了する。 Amazonは日本を含む世界9カ国でAmazonパントリーを展開していたが、2020年にコロナ禍の需要急増に耐えきれず一時サービスを停止。今年1月には米国でサ...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/29/news089.html",
+          "publishedOn": "2021-07-29T03:50:58.000Z",
+          "wordCount": 149,
+          "title": "「Amazonパントリー」8月にサービス終了　米国に続き - ITmedia NEWS"
+        },
+        {
+          "id": "https://togetter.com/li/1751144",
+          "author": null,
+          "description": "よっしー＠豊郷検温部 @yosshi_MGSK 65532日とか、4294967292日でなくてよかった(何が 64bit unsignedなんかおぼえられるか 2021-07-28 17:46:19 はろ @harowaku 今回は数値の処理なので定石通りのコーディングをすればここまでひどいことにはならないけども、画面上部の表示とあわせて、オリンピック開催後はどうなるか...",
+          "link": "https://togetter.com/li/1751144",
+          "publishedOn": "2021-07-29T03:18:49.000Z",
+          "wordCount": 525,
+          "title": "とある東京五輪のカウントダウンボード、プログラマがミスったのかとんでもない表示に「嘘でしょｗ」「ガバガバで草」 - Togetter"
+        },
+        {
+          "id": "https://tech.jxpress.net/entry/2021/07/29/101150",
+          "author": null,
+          "description": "エンジニアの鈴木（泰）です。 今回は、multiprocessingとthreadingとasyncioの違いとはなんだろう？という問に挑戦してみたいと思います。 この問の答えをグーグル先生に聞いてみると、非常にたくさんの情報がヒットします。しかしながら、どの情報も断片的なものばかりで（本記事もそうなのかもしれません）、色々と本...",
+          "link": "https://tech.jxpress.net/entry/2021/07/29/101150",
+          "publishedOn": "2021-07-29T02:35:25.000Z",
+          "wordCount": 1429,
+          "title": "Python multiprocessing vs threading vs asyncio - JX通信社エンジニアブログ"
+        },
+        {
+          "id": "https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0",
+          "author": null,
+          "description": "ミクシィの21新卒技術研修の講義資料や『動画』を公開します！ 研修資料・動画一覧git研修（動画、スライド）データベース研修（動画、スライド、SQL演習環境）設計・テスト研修（動画、スライド）iOSアプリ開発研修（動画、スライド、リポジトリ）Androidアプリ開発研修（動画、スライド、リポジトリ）フロントエンド研...",
+          "link": "https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0",
+          "publishedOn": "2021-07-29T02:23:20.000Z",
+          "wordCount": 89,
+          "title": "ミクシィの21新卒技術研修の資料と動画を公開します！ - mixi developers"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2021/07/oculus-new-experimental-api-blends-virtual-reality-with.html",
+          "author": null,
+          "description": "現実と仮想世界の境界があいまいに…Oculusの実験APIがスゴイ2021.07.29 09:008,420 Alyse Stanley - Gizmodo US ［原文］ （ 塚本直樹 ） Image: shutterstock MRってやっぱりすごい。 大幅なソフトウェアアップデートが実施されたFacebook（フェイスブック）のVRヘッドセット｢Oculus Quest 2｣。こちらがアップデートに...",
+          "link": "https://www.gizmodo.jp/2021/07/oculus-new-experimental-api-blends-virtual-reality-with.html",
+          "publishedOn": "2021-07-29T01:20:13.000Z",
+          "wordCount": 85,
+          "title": "現実と仮想世界の境界があいまいに…Oculusの実験APIがスゴイ | ギズモード・ジャパン"
+        },
+        {
+          "id": "https://www.slideshare.net/tsukamoto/aws-organizations-249878141",
+          "author": null,
+          "description": "We use your LinkedIn profile and activity data to personalize ads and to show you more relevant ads. You can change your ad preferences anytime.",
+          "link": "https://www.slideshare.net/tsukamoto/aws-organizations-249878141",
+          "publishedOn": "2021-07-29T00:57:28.000Z",
+          "wordCount": 1166,
+          "title": "おひとりさまAWS Organizationsのススメ"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/progedu/1340523.html",
+          "author": null,
+          "description": "AppleのiOSやMacなどのアプリを作るために作られたプログラミング言語Swiftを、初心者がていねいに学べるアプリが「Swift Playgrounds」。iPad版とMac版のアプリで提供されています。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/progedu/1340523.html",
+          "publishedOn": "2021-07-29T00:41:35.000Z",
+          "wordCount": 119,
+          "title": "iOS/macOS向け言語「Swift」学習アプリ「Swift Playgrounds」は超かわいいけどガチ - どれ使う？プログラミング教育ツール - 窓の杜"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html",
           "author": null,
           "description": "アメリカのIT大手、グーグルとフェイスブックは、変異した新型コロナウイルスの感染拡大を受けて、オフィスで勤務するすべての従業員にワクチンの接種を義務づける方針を示しました。 これは、グーグルとフェイスブックが28日、それぞれ明らかにしました。 このうちグーグルは、当初、ことし9月1日にアメリカ国内のオフ...",
@@ -245,6 +470,24 @@
           "publishedOn": "2021-07-28T20:01:26.000Z",
           "wordCount": 1674,
           "title": "EC2-Classic is Retiring – Here’s How to Prepare | AWS News Blog"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/office-scripts-available-in-excel-web/",
+          "author": null,
+          "description": "Guten Tag、伊藤です。 何気なく Web 版の Excel でスクリプトを使おうと見てみたら、GAS のようなサンプルスクリプトが出てきて驚きました。 「Office スクリプト」という TypeScript で記述できるスクリプト機能で、今年5月末にGAが開始したばかりなんですね！ しかし、同じエクセルファイルをアプリ版で開いてみると...",
+          "link": "https://dev.classmethod.jp/articles/office-scripts-available-in-excel-web/",
+          "publishedOn": "2021-07-28T17:12:58.000Z",
+          "wordCount": 438,
+          "title": "ウェブ版 Excel で使える新しい「Officeスクリプト」を試してみた | DevelopersIO"
+        },
+        {
+          "id": "https://note.com/miz_kushida/n/n103a7da460c5",
+          "author": null,
+          "description": "・不確実性パフォーマンス・ドメインについて加筆しました ・テーラリングについて加筆しましたPMBOKといえば、PMIが世界中のプロマネの実務家から意見を集めてプロジェクトマネジメントについて知識体系化している分厚い本、というイメージです。 いや、でした。。。以前の第6版までは（7版からはすごく薄い）。 2021年...",
+          "link": "https://note.com/miz_kushida/n/n103a7da460c5",
+          "publishedOn": "2021-07-28T16:16:56.000Z",
+          "wordCount": 95,
+          "title": "界隈がざわつくほど超進化したPMBOK第7版の解説【プロジェクトマネジメント】｜Mizuho Kushida｜note"
         },
         {
           "id": "https://iphone-mania.jp/news-385629/",
@@ -335,6 +578,15 @@
           "publishedOn": "2021-07-28T10:42:11.000Z",
           "wordCount": 154,
           "title": "オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 - ITmedia NEWS"
+        },
+        {
+          "id": "https://zenn.dev/choo/articles/84f41ad249c1dd",
+          "author": null,
+          "description": "個人開発で 賃貸物件検索サービス Comfy を作りました。 先週、リリース後の告知ツイートをしたのですが、幸いなことに多くの人にリツイート・いいねの反響を頂きました（リアクションして頂いた方、本当にありがとうございます…!!!） この記事では、Comfy のシステム構成及び使用した技術・サービスを紹介します。 シス...",
+          "link": "https://zenn.dev/choo/articles/84f41ad249c1dd",
+          "publishedOn": "2021-07-28T10:05:58.000Z",
+          "wordCount": 249,
+          "title": "個人開発した賃貸物件検索サービスのシステム構成と使用技術"
         },
         {
           "id": "https://pc.watch.impress.co.jp/docs/news/1340638.html",
@@ -920,6 +1172,15 @@
           "publishedOn": "2021-07-26T07:04:41.000Z",
           "wordCount": 473,
           "title": "マイクロマネジメントは悪か？よりよい組織をつくるためのマネジメント形態についての考察 - クックパッド開発者ブログ"
+        },
+        {
+          "id": "https://future-architect.github.io/articles/20210726b/",
+          "author": null,
+          "description": "はじめにTIG DXユニット真野です。GoのORマッパー連載 の1本目です。 テーマはorm-ishなデータベースアクセスレイヤーライブラリであるREL(go-rel/rel)です。他のメジャーなORMライブラリに比べるとまだまだGitHub Stars数は少なくマイナーかもしれませんが、いくつか興味深い点があったので最後までお付き合いいただけ...",
+          "link": "https://future-architect.github.io/articles/20210726b/",
+          "publishedOn": "2021-07-26T06:25:51.000Z",
+          "wordCount": 869,
+          "title": "GoのモダンDBアクセスレイヤーRELを触って | フューチャー技術ブログ"
         },
         {
           "id": "https://robotstart.info/2021/07/26/grid-qcvc.html",
@@ -3526,15 +3787,6 @@
           "publishedOn": "2021-07-04T22:45:05.000Z",
           "wordCount": 156,
           "title": "UXリサーチの各種テクニックとその活用法"
-        },
-        {
-          "id": "https://uxmilk.jp/?p=77971",
-          "author": "UX MILK編集部",
-          "description": "現在のWebサイトは整然としていてモバイルフレンドリーで、さまざまな手段で来訪する方のアクセシビリティを考慮したデザインをされています。しかし、ユーザーから情報を集めるフォームの作成においては、自分たちの選択が間違ってい",
-          "link": "https://uxmilk.jp/77971",
-          "publishedOn": "2021-06-29T22:45:27.000Z",
-          "wordCount": 120,
-          "title": "フォームをより幅広いユーザーや文化に対応させるためには"
         }
       ]
     },
@@ -3559,6 +3811,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=345518",
+          "author": "Chris Coyier",
+          "description": "An explanation of those new GitHub social media images:\n[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to \n…\nThe post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://github.blog/2021-06-22-framework-building-open-graph-images/",
+          "publishedOn": "2021-07-29T19:49:32.000Z",
+          "wordCount": 1708,
+          "title": "GitHub Explains the Open Graph Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344993",
+          "author": "Loren Sands-Ramshaw",
+          "description": "John Resig and I recently self-published our book on GraphQL. There are tons of how-tos for self-publishing a book, or even online classes, but very little in the way of why you would want to, or whether it’s even worth …\nThe post So you want to self-publish books and courses on programming appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/",
+          "publishedOn": "2021-07-29T14:54:00.000Z",
+          "wordCount": 1732,
+          "title": "So you want to self-publish books and courses on programming"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345260",
+          "author": "Chris Coyier",
+          "description": "I’d wager to say that most websites that are business-minded have accounts. A way to log into them. Social media sites, eCommerce sites, CMS systems, you name it, having accounts people log into is at the heart of them. So… …\nThe post Developer-Friendly Passwordless Auth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/developer-friendly-passwordless-auth/",
+          "publishedOn": "2021-07-29T14:47:47.000Z",
+          "wordCount": 1177,
+          "title": "Developer-Friendly Passwordless Auth"
+        },
         {
           "id": "https://css-tricks.com/?p=345404",
           "author": "Chris Coyier",
@@ -3943,6 +4222,15 @@
       "siteUrl": "https://gihyo.jp/design",
       "articles": [
         {
+          "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202107/29",
+          "author": "アシカガコウジ",
+          "description": "ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年7月12日～25日の間に見つけた記事のベスト5です。",
+          "link": "https://gihyo.jp/design/clip/01/weekly-web-tech/202107/29",
+          "publishedOn": "2021-07-29T00:15:20.000Z",
+          "wordCount": 450,
+          "title": "2021年7月第5週号 1位は，Webデザイナーはそろそろスライダーを辞めるべきという提案，気になるネタは，音声SNS「Clubhouse」が脱ベータ，招待・承認が不要な正式サービスに ── 週刊Webテク通信"
+        },
+        {
           "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202107/15",
           "author": "アシカガコウジ",
           "description": "ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年7月5日～7月11日の間に見つけた記事のベスト5です。",
@@ -3976,6 +4264,51 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/the-guild/build-a-whatsapp-clone-with-ionic-2-angular-2-and-meteor-1ghf",
+          "author": "TheGuildBot",
+          "description": "This article was published on 2016-11-30 by Uri Goldshtein @ The Guild Blog\nA version of this post was originally published on the Ionic Blog.\nNow, a year has passed and a lot has happened: Angular 2.0 is now stable, including astonishing amount of new features for the platform. Ionic 2.0 entered RC stage and is very close to being final. Finally, Meteor reached version 1.4.2, with many improvements the community asked for (fast build times, full npm and yarn support, Node 4.6.1 and MongoDB 3 by default, etc..).\nToday, I’m happy to announce we are releasing two new versions of the Ionic/Meteor Whatsapp tutorial, this time with Angular 2.0 and Ionic 2.0, one using the Ionic CLI and one using the Meteor CLI.\nIn these tutorials, we’ll create a full WhatsApp clone using Angular 2 and Ionic 2. We’ll use Meteor’s realtime collections for the chat and Meteor’s simple Authentication packages for SMS-based authentication.\nIt’s great to see the power of these two solutions working together, keeping the platforms up-to-date with the latest improvements in the Javascript ecosystem!\nStart here.\nBy the way, if you noticed that the Angular-Meteor.com website is much faster, it’s because we’ve completely re-written it using Angular 2 and universal rendering to generate it as a static website. On top of that, more features are coming to Angular2-Meteor very soon, including lazy loading of modules and support for the AOT compiler.\nIf you’re thinking about migrating from Blaze to Angular2, or using them side by side, check out our migration tutorial here.",
+          "link": "https://dev.to/the-guild/build-a-whatsapp-clone-with-ionic-2-angular-2-and-meteor-1ghf",
+          "publishedOn": "2021-07-29T10:07:58.000Z",
+          "wordCount": 637,
+          "title": "Build a WhatsApp Clone with Ionic 2, Angular 2, and Meteor"
+        },
+        {
+          "id": "https://dev.to/the-guild/whatsapp-clone-using-angular-graphql-apollo-typescript-and-postgresql-51jf",
+          "author": "TheGuildBot",
+          "description": "This article was published on 2019-02-25 by Niccolo Belli @ The Guild Blog\nYou might have seen it around already — an open-source WhatsApp Clone tutorial; a project which was originally started in 2015 by Urigo based on Angular-Meteor and Ionic, and have been throughout different incarnations ever since.\nYou may have also noticed that we recently published a new React version of the Whatsapp Clone tutorial.\nThis time around, I’m happy to announce that a new version of the WhatsApp Clone is here, and it’s based on Angular 7.2, Angular CLI 7.3.2, Material-UI, TypeScript, Apollo, GraphQL-Subscriptions, GraphQL Code Generator, GraphQL Modules, PostgreSQL and TypeORM, full with step by step guides to teach you every step of the way.\nClick mme to go to the tutorial page\n\nThis app was built with …",
+          "link": "https://dev.to/the-guild/whatsapp-clone-using-angular-graphql-apollo-typescript-and-postgresql-51jf",
+          "publishedOn": "2021-07-29T10:06:56.000Z",
+          "wordCount": 1427,
+          "title": "WhatsApp Clone using Angular, GraphQL, Apollo, TypeScript and PostgreSQL"
+        },
+        {
+          "id": "https://dev.to/the-guild/how-i-helped-improve-angular-console-1m6p",
+          "author": "TheGuildBot",
+          "description": "This article was published on 2018-11-30 by Kamil Kisiela @ The Guild Blog\nDid you know that Angular Console uses GraphQL under the hood? I want to tell about how it used it and how I helped to improve it because that might be useful for people trying to implement GraphQL in their applications, both on client and server.\nAngular Console is a user interface for Angular CLI created by Nrwl, widely used in Angular Community.\nI will link to the PRs I’ve made to Angular Console throughout the article so you could see everything I recommend in practice.\nAfter reading the announcement of Angular Console I got very excited about the tool and immediately decided to explore the codebase. I noticed Electron and that the project is based on Angular CLI and Nrwl’s NX.\nThat’s super cool but what I found…",
+          "link": "https://dev.to/the-guild/how-i-helped-improve-angular-console-1m6p",
+          "publishedOn": "2021-07-29T09:51:40.000Z",
+          "wordCount": 1927,
+          "title": "How I helped improve Angular Console"
+        },
+        {
+          "id": "https://dev.to/the-guild/open-source-fps-with-apollo-graphql-geostrike-alpha-112f",
+          "author": "TheGuildBot",
+          "description": "This article was published on 2018-02-15 by David Yahalomi @ The Guild Blog\nTLDR: We’ve built a multiplayer shooter and used Apollo’s GraphQL subscriptions to keep game state in sync at a very high frequency. Here’s our impressions!\nTools used: Angular-cesium, Apollo Angular, CesiumJS, Angular\nGo Play: geo-strike.com\nWell, to put it simply, because we can!\nInstead of working hard on creating a special serializable, efficient but also unreadable, strict and esoteric binary protocol, we decided on going with the well defined, readable and flexible GraphQL based API, and improve on it, if needed.\nTurns out we can manage synchronization of player positions, state and actions across all clients quite easily!\nThere are two ways you can understand our challenges:\n  Go and play the game — Feel fre…",
+          "link": "https://dev.to/the-guild/open-source-fps-with-apollo-graphql-geostrike-alpha-112f",
+          "publishedOn": "2021-07-29T09:07:48.000Z",
+          "wordCount": 1430,
+          "title": "Open source FPS with Apollo GraphQL — GeoStrike (Alpha)"
+        },
+        {
+          "id": "https://dev.to/the-guild/graphql-as-a-best-practice-for-modern-angular-apps-3e8d",
+          "author": "TheGuildBot",
+          "description": "This article was published on 2016-07-28 by Uri Goldshtein @ The Guild Blog\nIn this post, I’ll make the case for why Angular needs a best practice for communicating with the server, and why GraphQL should be that best practice.\nThe Angular community is establishing best practices so that we all can benefit from making our apps more performant, easier to maintain, and more modern.\nSome of the current best practices include composing everything into Components, using one-way data binding, lazy loading, having an immutable global state management (Redux & ng-rx), and more…\nThat is all great, and means that if we will follow those best practices our apps will behave better and will look more modern…\n…until we get to data fetching from the server.\nToday, whether we are developing in a large com…",
+          "link": "https://dev.to/the-guild/graphql-as-a-best-practice-for-modern-angular-apps-3e8d",
+          "publishedOn": "2021-07-29T08:55:08.000Z",
+          "wordCount": 1071,
+          "title": "GraphQL as a best practice for modern Angular apps?"
+        },
         {
           "id": "https://dev.to/itpathsolutions/top-reasons-to-choose-angularjs-development-in-2021-5h6l",
           "author": "IT Path Solutions",
@@ -4431,6 +4764,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=30384",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/custom-scrollbars-in-css.html",
+          "publishedOn": "2021-07-29T00:36:29.000Z",
+          "wordCount": 909,
+          "title": "CSSでスクロールバーをカスタマイズする方法を徹底解説 -古いCSSと新しいCSSでの実装のポイント"
+        },
         {
           "id": "https://coliss.com/?p=30615",
           "author": "コリス🥦",
