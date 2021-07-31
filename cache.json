@@ -229,6 +229,240 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1341342.html",
+          "author": null,
+          "description": "京都大学、東京大学、東京工業大学、横浜国立大学、岡山大学およびドイツのケルン大学などの研究チームは共同で30日、量子コンピュータのワイルドカードになると期待されている、「非可換エニオン」と呼ばれる粒子の性質を解明したと発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1341342.html",
+          "publishedOn": "2021-07-30T12:26:27.000Z",
+          "wordCount": 108,
+          "title": "トポロジカル量子コンピュータを実現する「非可換エニオン」粒子の性質が解明 - PC Watch"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news171.html",
+          "author": null,
+          "description": "IBMのオープンソース日本語フォント「IBM Plex Sans JP」の実力をデザイナーが検証してみた：デジタルネイティブのためのフォントとデザイン（1/4 ページ） GItHubで公開されている話題のIBM製オープンソースフォント「IBM Plex Sans JP」。「デジタルネイティブのためのフォントとデザイン」連載を執筆しているエディト...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news171.html",
+          "publishedOn": "2021-07-30T12:19:07.000Z",
+          "wordCount": 177,
+          "title": "IBMのオープンソース日本語フォント「IBM Plex Sans JP」の実力をデザイナーが検証してみた：デジタルネイティブのためのフォントとデザイン（1/4 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://gigazine.net/news/20210730-triton/",
+          "author": null,
+          "description": "NVIDIAが開発・提供するGPU向けの汎用並列コンピューティングプラットフォームである「CUDA」を超える生産性と高速コード記述が可能になるようなオープンソースのニューラルネットワーク向けプログラミング言語「Triton」が公開されました。非常に効率的なカスタムディープラーニングプリミティブを作成するための言語コ...",
+          "link": "https://gigazine.net/news/20210730-triton/",
+          "publishedOn": "2021-07-30T12:16:02.000Z",
+          "wordCount": 218,
+          "title": "オープンソースのニューラルネットワーク向けプログラミング言語「Triton」をOpenAIが公開 - GIGAZINE"
+        },
+        {
+          "id": "https://speakerdeck.com/snoozer05/continuous-architecting-and-rails-from-rails-new-to-your-own-architecture",
+          "author": null,
+          "description": "Transcript ౡాߒೋ !TOPP[FS�� � �������������ۜ࠲3BJMT ܧଓతΞʔΩςΫςΟϯάͱ3BJMT FROM rails new TO YOUR OWN ARCHITECTURE ENISHI TECH INC. ࠓ೔ɺ͓࿩͢͠Δ͜ͱ Տ໺͞Μ͔Β͍͍ͨͩͨΦϑΝʔ 3BJMTͷܦݧ΋௕͘ɺϚΠΫϩαʔϏεʹؔ͢Δॻ੶΋༁͍ͯ͠Δ ౡా͞Μʹɺ3VCZ΍3BJMTͷΤϯδχΞ͕ϚΠΫϩαʔϏεʹͭ ͍ͯ஌Δ΂͖͜ͱɺ஌͓͍ͬͯͨํ͕ྑ͍Α͏ͳ࿩Λͯ͠΄͍͠ l ϚΠΫϩαʔϏεʹؔ͢Δॻ੶ 㾎ϞϊϦε͸μϝͰɺ͜Ε͔Β͸ϚΠΫϩαʔϏεͳͷʁ� 㾎3BJMT͸ϞϊϦεͷ୅໊ࢺͷΑ͏ʹݴΘΕΔ͚Ͳɺ8FCΞ ϓϦ͸΋͏3BJMTͰॻ͔ͳ͍ํ͕͍͍ͷʁ Α͋͘Δ࣭໰ 㾎Ϟϊ...",
+          "link": "https://speakerdeck.com/snoozer05/continuous-architecting-and-rails-from-rails-new-to-your-own-architecture",
+          "publishedOn": "2021-07-30T12:13:34.000Z",
+          "wordCount": 781,
+          "title": "Continuous Architecting and Rails: From rails new to Your Own Architecture - Speaker Deck"
+        },
+        {
+          "id": "https://zenn.dev/thim/articles/e16dd195fdee816a868c",
+          "author": null,
+          "description": "以下、公式ドキュメントより引用 When you deploy a new Next.js app with Amplify, by default Amplify uses the most recent supported version of Next.js. Currently, Amplify supports Next.js version 11. Amplify で新しい Next.js アプリをデプロイした場合、デフォルトでは、サポートされている最新の Next.js ...",
+          "link": "https://zenn.dev/thim/articles/e16dd195fdee816a868c",
+          "publishedOn": "2021-07-30T12:08:54.000Z",
+          "wordCount": 211,
+          "title": "AmplifyでNext.js11系がサポート対象となりました"
+        },
+        {
+          "id": "https://speakerdeck.com/joker1007/ruby-on-rails-on-lambda",
+          "author": null,
+          "description": "Transcript Ruby on Rails on AWS Lambda @joker1007 銀座Rails #35 Self-intro @joker1007 Repro inc. ex-CTO -> Chief Architect Ruby/Rails fluentd/embulk RDB Docker/ECS Kafka Bigquery/EMR/Hive/Presto/Cassandra Agenda Rails をLambda で動作動作させる方法とユースケース これからの非同期処理のあり方とマイ...",
+          "link": "https://speakerdeck.com/joker1007/ruby-on-rails-on-lambda",
+          "publishedOn": "2021-07-30T11:58:25.000Z",
+          "wordCount": 593,
+          "title": "Ruby on Rails on Lambda - Speaker Deck"
+        },
+        {
+          "id": "https://zenn.dev/adwd/articles/f4c5c5120467bb",
+          "author": null,
+          "description": "GraphQLのクライアントといえばApollo Clientが使われることが多いと思いますが、urqlというクライアントをおすすめする記事です。 TL;DR urqlのドキュメントキャッシュはApolloみたいなキャッシュ管理が要らなくて楽だからおすすめ ドキュメントキャッシュは、Mutationの __typename を見て汚れたキャッシュを捨てる仕...",
+          "link": "https://zenn.dev/adwd/articles/f4c5c5120467bb",
+          "publishedOn": "2021-07-30T11:58:13.000Z",
+          "wordCount": 174,
+          "title": "GraphQLクライアントにurqlをおすすめしたい"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news166.html",
+          "author": null,
+          "description": "「ドラえもんの世界みたい」――選手村を走る自動運転バスが国内外で話題に　運転しない乗務員の役割は？：東京五輪とネット（1/2 ページ） 五輪選手村を走る自動運転バスを撮影した動画を選手がSNSに投稿し、「2050年の日本に住んでいるのか？」「ドラえもんの世界みたい」などと国内外で話題に。バスはトヨタが開発した2...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news166.html",
+          "publishedOn": "2021-07-30T11:01:10.000Z",
+          "wordCount": 147,
+          "title": "「ドラえもんの世界みたい」――選手村を走る自動運転バスが国内外で話題に　運転しない乗務員の役割は？：東京五輪とネット（1/2 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://speakerdeck.com/minodriven/buisiness-purpose-system-design",
+          "author": null,
+          "description": "Transcript ビジネス考えてるかい？ 事業の持続的成長を促進させる システム設計の考え方 Jul 30, 2021 @ Developers Summit 2021 Summer READYFOR株式会社　仙塲 大也（ミノ駆動） アジェンダ • 自己紹介 • 持続的成長とソフトウェア品質特性 • ビジネス理解の重要性に気付いた開発経験 • 持続的成長の減衰とビジネス目...",
+          "link": "https://speakerdeck.com/minodriven/buisiness-purpose-system-design",
+          "publishedOn": "2021-07-30T09:19:16.000Z",
+          "wordCount": 908,
+          "title": "ビジネス考えてるかい？事業の持続的成長を促進させるシステム設計の考え方 / buisiness_purpose_system_design - Speaker Deck"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1341301.html",
+          "author": null,
+          "description": "KDDIの高橋誠社長は30日、決算会見において、競合のソフトバンクの料金ブランド「LINEMO」から3GB/990円という新プランが登場したことについて対抗するか問われ、「すぐには手を打たない」と答えた。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1341301.html",
+          "publishedOn": "2021-07-30T09:18:02.000Z",
+          "wordCount": 84,
+          "title": "KDDI高橋社長、「LINEMO」3GB/990円に「すぐ対抗しない」 - ケータイ Watch"
+        },
+        {
+          "id": "https://tjo.hatenablog.com/entry/2021/07/30/170000",
+          "author": null,
+          "description": "(Image by Pexels from Pixabay) 僕自身がデータサイエンティストという肩書きを与えられて働くようになった9年前から、一貫して問題意識を持ち続けてきたのが「データサイエンティストをどう育成すべきか」についてでした。その後、この9年の間に質の良し悪しや量の多寡はともかく多くのデータサイエンティスト向け技術...",
+          "link": "https://tjo.hatenablog.com/entry/2021/07/30/170000",
+          "publishedOn": "2021-07-30T08:34:54.000Z",
+          "wordCount": 297,
+          "title": "戦力になるレベルのデータサイエンティストを育成することの難しさ - 渋谷駅前で働くデータサイエンティストのブログ"
+        },
+        {
+          "id": "https://www.u-tokyo.ac.jp/focus/ja/articles/z1303_00004.html",
+          "author": null,
+          "description": "近年、本学学生を名乗り、就職試験等におけるwebテストにおいて、本来の受験者から金員を受け取ったうえで受験を代行している者が複数いるという報告が寄せられております。 これらの事業は、当然のことながら、本学とは一切関係ありません。 本学としては、就職試験等におけるwebテストの受験を他者に代行させることは...",
+          "link": "https://www.u-tokyo.ac.jp/focus/ja/articles/z1303_00004.html",
+          "publishedOn": "2021-07-30T08:26:01.000Z",
+          "wordCount": 99,
+          "title": "【注意喚起】本学学生を名乗るwebテスト代行について | 東京大学"
+        },
+        {
+          "id": "https://gigazine.net/news/20210730-make-yugioh-an-olympic-sport/",
+          "author": null,
+          "description": "by Jeriaska 1996年から2004年まで週刊少年ジャンプで連載された漫画「遊☆戯☆王」を原作とする「遊☆戯☆王オフィシャルカードゲーム」をオリンピックの公式種目にして欲しい、という請願が登場しました。 Fan Petition Calls for Yu-Gi-Oh! to Become an Official Olympic Sport https://www.cbr.com/yugioh-olympics/ 「...",
+          "link": "https://gigazine.net/news/20210730-make-yugioh-an-olympic-sport/",
+          "publishedOn": "2021-07-30T08:23:26.000Z",
+          "wordCount": 190,
+          "title": "「遊☆戯☆王をオリンピックの公式種目に」という請願が登場 - GIGAZINE"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/spv/2107/30/news111_0.html",
+          "author": null,
+          "description": "IT企業が新人エンジニア向け研修資料を公開IT業界の文化から「Unity」を使ったゲーム開発まで150ページ超のスライドや5時間超の講義動画も",
+          "link": "https://www.itmedia.co.jp/news/spv/2107/30/news111_0.html",
+          "publishedOn": "2021-07-30T08:18:42.000Z",
+          "wordCount": 28,
+          "title": "「動画で助かる」「IT基礎知識が一通り学べる」──各社が公開した新人エンジニア向けの研修資料が話題に　人気資料まとめ（要約） - ITmedia NEWS"
+        },
+        {
+          "id": "https://bookmark.hatenastaff.com/entry/2021/07/30/170000",
+          "author": null,
+          "description": "2021年版のはてなブックマークTシャツを作りました（約3年ぶりの新作です）。はてな公式ストア（SUZURI）にて、本日より販売開始いたします。 新しいデザインはこちら。 はてなブックマークは、一人ひとりの興味＝ブックマークした情報が集まってできています こちらのTシャツを、現在開催中のはてなインターネット文学...",
+          "link": "https://bookmark.hatenastaff.com/entry/2021/07/30/170000",
+          "publishedOn": "2021-07-30T08:11:59.000Z",
+          "wordCount": 92,
+          "title": "本日より販売開始！はてなブックマーク新作Tシャツできました - はてなブックマーク開発ブログ"
+        },
+        {
+          "id": "https://gigazine.net/news/20210730-pfizer-covid-19-booster-shot/",
+          "author": null,
+          "description": "ファイザーやモデルナが開発した新型コロナウイルスワクチンは、いずれも2回接種することが原則だとされています。ファイザーが2021年7月28日に、同社のワクチンを3回接種する「ブースターショット(追加接種)」が、新型コロナウイルスのデルタ変異株に対して有効だとする研究結果を発表しました。 Pfizer data suggest t...",
+          "link": "https://gigazine.net/news/20210730-pfizer-covid-19-booster-shot/",
+          "publishedOn": "2021-07-30T06:19:57.000Z",
+          "wordCount": 197,
+          "title": "ワクチンを3回接種する「ブースターショット」がデルタ変異株への防御を高めるとファイザーが発表 - GIGAZINE"
+        },
+        {
+          "id": "https://speakerdeck.com/jumtech/what-is-product-specialist",
+          "author": null,
+          "description": "Transcript 1 DXͷຊ࣭ͱɺ ʮ։ൃ͠ͳ͍ΤϯδχΞʯͷΩϟϦΞύε ɹɹʛɹɹ© PLAID Inc. 2021.07.30ɹɹʛɹɹDevelopers Summit 2021 Summerɹɹʛɹ ຊ೔ͷςʔϚ 2 2021.07.30ɹɹʛɹɹDevelopers Summit 2021 Summerɹɹʛɹ ɹɹʛɹɹ© PLAID Inc. DXͷຊ࣭ͱɺ ʮ։ൃ͠ͳ͍ΤϯδχΞʯ ͷΩϟϦΞύε ͜ͷൃදʹ͍ͭͯ DXͱ͸ʁ IaaSͱDevOp s SaaSͱxOp s Product Specialistͱ͸ʁ ࿩͢͜ͱ 3 2021.07.30ɹɹʛɹɹDevelopers Summit...",
+          "link": "https://speakerdeck.com/jumtech/what-is-product-specialist",
+          "publishedOn": "2021-07-30T05:06:39.000Z",
+          "wordCount": 1640,
+          "title": "DXの本質と、「開発しないエンジニア」のキャリアパス / What is Product Specialist? - Speaker Deck"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news111.html",
+          "author": null,
+          "description": "IT企業が社内の新人エンジニアに向けた研修資料を無償公開して話題になっている。学べる内容はIT業界の文化からゲームエンジン「Unity」を使ったゲーム開発までさまざまだ。改めて公開内容と目的をまとめた。 IT企業が社内の新人エンジニアに向けた研修資料や動画を無償公開し、話題になっている。学べる内容はIT業界の...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news111.html",
+          "publishedOn": "2021-07-30T05:01:37.000Z",
+          "wordCount": 170,
+          "title": "「動画で助かる」「IT基礎知識が一通り学べる」──各社が公開した新人エンジニア向けの研修資料が話題に　人気資料まとめ - ITmedia NEWS"
+        },
+        {
+          "id": "https://speakerdeck.com/seiichi1101/aws-gluewoshi-tuta-serverless-etl-falseshi-zhuang-patan-ac5553a5-f8e9-45fb-b093-4bcf0b113a48",
+          "author": null,
+          "description": "Transcript AWS Glueを使った Serverless ETL の実装パターン 新井 成一 CX事業本部 MADチーム 2 自己紹介 CX事業本部 MADチーム所属 サーバーサイドエンジニア 普段の業務 API/IoT用のバックエンドの仕組みをAWSで構築&開発 データ分析&可視化する前のETL処理 ← ここ最近 3 よくある話を少しする AWS IoT Core Firehose...",
+          "link": "https://speakerdeck.com/seiichi1101/aws-gluewoshi-tuta-serverless-etl-falseshi-zhuang-patan-ac5553a5-f8e9-45fb-b093-4bcf0b113a48",
+          "publishedOn": "2021-07-30T04:58:54.000Z",
+          "wordCount": 1811,
+          "title": "AWS Glueを使った Serverless ETL の実装パターン - Speaker Deck"
+        },
+        {
+          "id": "https://speakerdeck.com/cmabe/shou-tuo-de-le-siikai-fa-wotu-kijie-metejia-zhi-wozai-ding-yi-sitemita",
+          "author": null,
+          "description": "Transcript 受託で「楽しい開発」を突き詰めて  価値を再定義してみた  クラスメソッド株式会社 阿部信介  Developers Summit 2021 Summer  1 2 ご挨拶 短い時間ですが、何か一つでも みなさんの心に残るお話が できると嬉しいです。 本日はよろしくお願いします。 3 今日お話ししたいこと 4 これが 5 こうなって 6 ムネ...",
+          "link": "https://speakerdeck.com/cmabe/shou-tuo-de-le-siikai-fa-wotu-kijie-metejia-zhi-wozai-ding-yi-sitemita",
+          "publishedOn": "2021-07-30T04:58:23.000Z",
+          "wordCount": 879,
+          "title": "受託で「楽しい開発」を突き詰めて価値を再定義してみた - Speaker Deck"
+        },
+        {
+          "id": "https://tech.hey.jp/entry/2021/07/30/135436",
+          "author": null,
+          "description": "はじめに はじめまして、4/1からデータチームでデータエンジニアとして働いている @shoso です。 突然ですが、みなさんデータ基盤って開発したことありますか？ 私はheyに来るまでなかったのですが、チームの経験あるメンバーと毎日話しながら（助けてもらいながら）開発する中でようやく少し分かって来たような気がしま...",
+          "link": "https://tech.hey.jp/entry/2021/07/30/135436",
+          "publishedOn": "2021-07-30T04:58:10.000Z",
+          "wordCount": 248,
+          "title": "heyの統合データ基盤と今後の展望 - STORES Tech Blog"
+        },
+        {
+          "id": "https://blog.hatenablog.com/entry/2021/07/30/120000",
+          "author": null,
+          "description": "はてなブログで技術に関するブログを書いている方に、“ブログを書き続けること”について教えてもらう企画「エンジニアのブログ探訪」。第7回は、日常生活からハードウェアの話題まで幅広くブログを書くからあげさん（id:karaage）に登場いただきました。 からあげさんのブログのカテゴリを見ると、Raspberry Pi（イギリ...",
+          "link": "https://blog.hatenablog.com/entry/2021/07/30/120000",
+          "publishedOn": "2021-07-30T03:10:18.000Z",
+          "wordCount": 259,
+          "title": "情報発信すると新しいことにつながってワクワクする。からあげさんがブログを書き続ける理由【エンジニアのブログ探訪】 - 週刊はてなブログ"
+        },
+        {
+          "id": "https://www.clear-code.com/press-releases/20210729-maintaining-fluentd.html",
+          "author": null,
+          "description": "株式会社クリアコード（本社：埼玉県所沢市、代表取締役：須藤功平）は、株式会社クリアコード（本社：埼玉県所沢市、以下クリアコード）は本日、オープンソースソフトウェア『Fluentd』プロジェクトの開発・メンテナンスにおいて、トレジャーデータ株式会社（本社：東京都千代田区、以下トレジャーデータ社）が担当して...",
+          "link": "https://www.clear-code.com/press-releases/20210729-maintaining-fluentd.html",
+          "publishedOn": "2021-07-30T02:23:26.000Z",
+          "wordCount": 107,
+          "title": "高速データ収集ツール『Fluentd』の開発体制強化 - クリアコード"
+        },
+        {
+          "id": "https://www.ryuzee.com/contents/blog/14559",
+          "author": null,
+          "description": "みなさんこんにちは。@ryuzeeです。今日は小ネタです。 3分くらいでスクラムをざっくり分かってもらうための説明を以前作ったのですが、意外と役に立っているのでブログで公開しておきます。 この記述については、CC BY-SA 4.0ライセンスとします。 クレジット表記（@ryuzee / Ryutaro Yoshiba）のもとで共有や派生物を...",
+          "link": "https://www.ryuzee.com/contents/blog/14559",
+          "publishedOn": "2021-07-30T00:59:20.000Z",
+          "wordCount": 173,
+          "title": "3分でざっくりわかるスクラム（スクラム用語を使わないスクラムの説明） | Ryuzee.com"
+        },
+        {
+          "id": "https://coliss.com/articles/book-review/isbn-9784297121938.html",
+          "author": null,
+          "description": "HTMLもCSSも一通り勉強した、でも実際にWebページを実装しようとするとどこから手をつければよいか悩んでしまう。そんな人にお勧めしたい、実装の作業フローと思考プロセスをくわしく解説した良書を紹介します。 本書は通常の解説書とは一線を画すもので、現場レベルの作業や考え方を基礎からていねいに解説したものです...",
+          "link": "https://coliss.com/articles/book-review/isbn-9784297121938.html",
+          "publishedOn": "2021-07-30T00:57:25.000Z",
+          "wordCount": 395,
+          "title": "HTMLとCSSの実務レベルの作業フローや思考プロセスがていねいに解説された、Web制作に真剣に取り組みたい人にお勧めの本 -教科書では教えてくれないHTML＆CSS | コリス"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2107/31/news005.html",
+          "author": null,
+          "description": "PC管理者の皆、気付いたか？　Windows 11発表会の外でしれっと公開された“インパクト大”の変更点：横河レンタ・リースの「Win10運用マスターへの道」番外編 Windows 11が発表されたことで「いつまでWindows 10を使うか」「社内のPCはどのタイミングでアップグレードする必要があるか」といった点を考え始めた読者は多い...",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2107/31/news005.html",
+          "publishedOn": "2021-07-29T22:41:12.000Z",
+          "wordCount": 190,
+          "title": "PC管理者の皆、気付いたか？　Windows 11発表会の外でしれっと公開された“インパクト大”の変更点：横河レンタ・リースの「Win10運用マスターへの道」番外編 - ITmedia エンタープライズ"
+        },
+        {
           "id": "https://gigazine.net/news/20210730-bipedal-robot-completing-5k-run/",
           "author": null,
           "description": "膝関節の向きが人間と逆でダチョウのように走る二足歩行ロボット「Cassie」は、アメリカ・オレゴン州立大学発のスタートアップであるAgility Roboticsによって開発されたロボットです。二足歩行ロボットは人間用に設計された場所を通過しやすい一方、バランスを取るのが難しいのが課題ですが、研究チームがCassieをディ...",
@@ -236,6 +470,15 @@
           "publishedOn": "2021-07-29T21:27:20.000Z",
           "wordCount": 232,
           "title": "「ダチョウのように走る下半身だけの二足歩行ロボット」が5kmを53分台で走破、軽快に走るムービーも公開中 - GIGAZINE"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2021/07/massive-antarctic-lake-disappears-in-just-a-few-days-1.html",
+          "author": null,
+          "description": "南極にある巨大な湖がほんの数日のうちに排水、2000億ガロンの水が消えました2021.07.29 22:00 Molly Taft - Gizmodo US ［原文］ （ たもり ） Image: Australia Antarctic Program Partnership｜湖が消失する前と後の衛星画像 ※2021年7月6日の記事を編集して再掲載しています。 南極の東岸にあるアメリー棚氷は、南極...",
+          "link": "https://www.gizmodo.jp/2021/07/massive-antarctic-lake-disappears-in-just-a-few-days-1.html",
+          "publishedOn": "2021-07-29T16:37:40.000Z",
+          "wordCount": 84,
+          "title": "南極にある巨大な湖がほんの数日のうちに排水、2000億ガロンの水が消えました | ギズモード・ジャパン"
         },
         {
           "id": "https://gigazine.net/news/20210729-simple-step-thwart-top-phone-hackers/",
@@ -326,6 +569,15 @@
           "publishedOn": "2021-07-29T07:47:27.000Z",
           "wordCount": 195,
           "title": "写真からアニメ背景を生成するAI『Anime Art Painter』| cre8tiveAI"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/enterprise/articles/2107/29/news104.html",
+          "author": null,
+          "description": "インターネットに接続するタイプの監視カメラは、サイバー犯罪者にとって格好の標的だ。これらのデバイスはデフォルトの設定のまま使われていたり、脆弱（ぜいじゃく）性が存在したまま修正されずに使われたりしていることが多いためだ。 セキュリティ企業のMalwarebytesは2021年7月28日（現地時間）、同社のブログでデ...",
+          "link": "https://www.itmedia.co.jp/enterprise/articles/2107/29/news104.html",
+          "publishedOn": "2021-07-29T07:01:45.000Z",
+          "wordCount": 173,
+          "title": "IPカメラのファームウェアに緊急の脆弱性　複数ベンダーの製品に利用されており注意が必要 - ITmedia エンタープライズ"
         },
         {
           "id": "https://av.watch.impress.co.jp/docs/news/1340922.html",
@@ -3812,6 +4064,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=345628",
+          "author": "Chris Coyier",
+          "description": "Looks like it was almost 9 years ago when Airbnb first published their JavaScript Style Guide. 112k stars on GitHub later, it seems like the de facto preset for Babel / ES Lint. But it’s not the only company …\nThe post A Shared ESLint Configuration appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://katydecorah.com/code/eslint-config/",
+          "publishedOn": "2021-07-30T20:07:06.000Z",
+          "wordCount": 237,
+          "title": "A Shared ESLint Configuration"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345256",
+          "author": "George Francis",
+          "description": "The CSS Paint API (part of the magical Houdini family) opens the door to an exciting new world of design in CSS. Using the Paint API, we can create custom shapes, intricate patterns, and beautiful animations — all with a …\nThe post Conjuring Generative Blobs With The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/",
+          "publishedOn": "2021-07-30T14:54:36.000Z",
+          "wordCount": 5641,
+          "title": "Conjuring Generative Blobs With The CSS Paint API"
+        },
+        {
           "id": "https://css-tricks.com/?p=345518",
           "author": "Chris Coyier",
           "description": "An explanation of those new GitHub social media images:\n[…] our custom Open Graph image service is a little Node.js app that uses the GitHub GraphQL API to collect data, generates some HTML from a template, and pipes it to \n…\nThe post GitHub Explains the Open Graph Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -4247,15 +4517,6 @@
           "publishedOn": "2021-07-08T00:15:20.000Z",
           "wordCount": 462,
           "title": "2021年7月第2週号 1位は，CSSグリッドを使って画像の上に文字やボタンを配置するテクニック，気になるネタは，GitHubがコーディングの提案を行う新しいAIツールをプレビュー ── 週刊Webテク通信"
-        },
-        {
-          "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202107/01",
-          "author": "アシカガコウジ",
-          "description": "ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年6月21日～27日の間に見つけた記事のベスト5です。",
-          "link": "https://gihyo.jp/design/clip/01/weekly-web-tech/202107/01",
-          "publishedOn": "2021-07-01T00:15:00.000Z",
-          "wordCount": 471,
-          "title": "2021年7月第1週号 1位は，サインアップ／ログインのUXを良くするヒント，気になるネタは，「Chrome」のサードパーティークッキー廃止が2023年に延期 ── 週刊Webテク通信"
         }
       ]
     },
@@ -4264,6 +4525,60 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/jfbloom22/a-better-way-to-deploy-angular-universal-to-multiple-environments-206j",
+          "author": "Jonathan Flower",
+          "description": "Deploying Angular and especially Angular Universal using CI to a staging and a production environment is very difficult.  A quick Google search reveals a lot of really ugly solutions.  Here is a cleaner solution:\nThe root of the issue is how the Angular CLI decides which angular environment to use based on a command line variable.  \nng build --configuration=production Will build the application with the production environment variables set in environments/environment.prod.ts. How do you get a production Heroku server to build with ng build --configuration=production and a staging server to build with ng build --configuration=staging?  \nHeroku now automatically calls npm install and npm build.  Have your npm build script call: node build-app.js\nconst { exec } = require('child_process');\ncon…",
+          "link": "https://dev.to/jfbloom22/a-better-way-to-deploy-angular-universal-to-multiple-environments-206j",
+          "publishedOn": "2021-07-30T17:38:20.000Z",
+          "wordCount": 852,
+          "title": "A Better Way to Deploy Angular Universal to Multiple Environments"
+        },
+        {
+          "id": "https://dev.to/ahmedsaba/how-to-solve-error-ng8002-can-t-bind-to-routerlink-since-it-isn-t-a-known-property-of-a-463o",
+          "author": "ahmedsaba",
+          "description": "I work on angular 11 I face error when build angular app\nERROR in src/app/Employee-list/employee-list.component.html:22:45 - error NG8002: Can't bind to \n\n'routerLink' since it isn't a known property of 'a'.\nStaff List\n\"@angular/animations\": \"^11.2.14\",\n\"@angular/cdk\": \"^12.1.3\",\n\"@angular/common\": \"^11.0.0\",\n\"@angular/compiler\": \"^11.0.0\",\n\"@angular/core\": \"^11.0.0\",\n\"@angular/forms\": \"^11.0.0\",\n\"@angular/material\": \"^11.2.13\",\n\"@angular/router\": \"^11.2.14\",\n\"@angular/cli\": \"^11.0.0\",\n\"@angular/compiler-cli\": \"^11.0.0\"\n\non application module I do as below :\nimport { RouterModule } from '@angular/router';\n@NgModule({\nimports: [\nsample of app modules and component employee list exist as blow\nhttps://stackblitz.com/edit/angular-uffug5?file=src%2Fapp%2FEmployee-list%2Femployee-list.component.ts",
+          "link": "https://dev.to/ahmedsaba/how-to-solve-error-ng8002-can-t-bind-to-routerlink-since-it-isn-t-a-known-property-of-a-463o",
+          "publishedOn": "2021-07-30T15:17:22.000Z",
+          "wordCount": 450,
+          "title": "How to solve error NG8002: Can't bind to 'routerLink' since it isn't a known property of 'a'.?"
+        },
+        {
+          "id": "https://dev.to/amazonivs/build-an-angular-amazon-ivs-player-app-in-less-than-15-minutes-part-2-create-and-stream-to-a-channel-3ec",
+          "author": "Super Diana",
+          "description": "Intro ⭐️\n\n\nVideo & Streaming don't have to be complicated for the web anymore! In part 1 of this tutorial, we built an Angular app using Amazon IVS & Video.js in less than 15 minutes. Now it's time to create a channel, point our stream to that channel, test it live, and continue creating!\nAmazon IVS (Amazon Interactive Video Service) is a fully managed live streaming solution: simply stream to Amazon IVS, and the service does everything you need to make low-latency live video available to any viewer around the globe. Amazon IVS handles the ingestion, transcoding, packaging, and delivery of your live content, using the same battle-tested technology that powers Twitch.\nFor more information on Amazon IVS, check https://ivs.rocks\nPart 1 of this tutorial: https://dev.to/amazonivs/build-an-angul…",
+          "link": "https://dev.to/amazonivs/build-an-angular-amazon-ivs-player-app-in-less-than-15-minutes-part-2-create-and-stream-to-a-channel-3ec",
+          "publishedOn": "2021-07-30T14:26:53.000Z",
+          "wordCount": 1044,
+          "title": "Build an Angular & Amazon IVS player app in less than 15 minutes!! - Part 2: Create and stream to a channel!"
+        },
+        {
+          "id": "https://dev.to/clement/nestjs-postgresql-angular-within-nx-workspace-from-scratch-to-production-2im8",
+          "author": "Clément",
+          "description": "This is a post to share my experience on building a client/server solution in NX Workspace with NestJS/Angular. Most tutorials don't explains how to deal with development & production environments and using TypeORM brings some complexity.\nWhat I want to build ?\nWhat are the steps ?\nnpx create-nx-workspace@latest\n  ? Workspace name(e.g., orgname): banana\n  ? What to create in the new workspace: angular-nest [a workspace with a full stack application (Angular + Nest)]\n  ? Application name: kiwi\n  ? Default stylesheet format: SASS(.scss) [http://sass-lang.com]\n  ? Use Nx Cloud?: No\n\nNow prepare our local database, I will use PostgreSQL through Docker.\nhttps://docs.docker.com/engine/install/\nCreate a docker-compose.yml file at root of workspace (near package.json)\nversion: \"3\"\n\nservices:\n  db:…",
+          "link": "https://dev.to/clement/nestjs-postgresql-angular-within-nx-workspace-from-scratch-to-production-2im8",
+          "publishedOn": "2021-07-30T07:48:39.000Z",
+          "wordCount": 1733,
+          "title": "NestJS/PostgreSQL & Angular within NX Workspace - From scratch to production"
+        },
+        {
+          "id": "https://dev.to/danywalls/how-to-simplify-and-clean-your-sass-import-with-angular-json-57pg",
+          "author": "Dany Paredes",
+          "description": "When we work with Sass and Angular, import files is a very common task, and if you have more than 10 files and want to change the path of your sass structure?\n@import 'shared/styles/colors';\n@import 'shared/forms/input';\n@import 'shared/forms/select';\n@import 'shared/mixis/grid';\n\nAll files need to be updated and are not nice, let angular help with it.\nGo to angular.json file, under styles add stylePreprocessorOptions object with includePaths option and define all paths available in an array with your file paths, it should be relative to the angular.json.\n\"styles\": [\n   \"src/styles.scss\"\n   ],\n\"stylePreprocessorOptions\": {\n   \"includePaths\": [\n        \"src/share/forms\",\n        \"src/share/styles\",\n        \"src/share/mixins\"\n        ]\n}...\n\nAngular will compile using these paths, and you can remove them from your files, and the compiler found these files.\n@import 'colors';\n@import 'input';\n@import 'select';\n@import 'grid';\n\nEverything is working with a clear path for your sass files and If in the future you want to change path or rename, only need to edit the angular.json file :) \nBackground photo created by whatwolf - www.freepik.com",
+          "link": "https://dev.to/danywalls/how-to-simplify-and-clean-your-sass-import-with-angular-json-57pg",
+          "publishedOn": "2021-07-30T07:01:40.000Z",
+          "wordCount": 584,
+          "title": "How to simplify and clean your sass import with Angular.json"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-july-30-514f",
+          "author": "Ajit Singh",
+          "description": "Github Repo - https://github.com/ajitsinghkaler/devto-clone\nDeployed on Firebase - https://dev-toclone.firebaseapp.com/\nLast week I added article section dev.to clone.\n\nThis week we added the tags store and joined the tags to the api. We mostly follow a pattern to add an api service which makes all the api calls and a store service which sores al the data related to that service. \nWe also added listings using the same pattern. This is the first time we used *rxLet. It really makes working with all Observable in the templates easier do check it out. It allows you four states for an observable suspense, error. complete so that you can handle each one of them separately and gets rid of the *ngIf with async pipe. Like if you want to display something else while loading and error is a big disadvantage of the async pipe when used with an api.\nThere was one interesting thing we did this time we created a reusable component which when passed a tag will show all the top articles from these tags in the last 3 days if you want to check this out. \nThis is how it looks now\n\nIssue\nadded right side tags articles\nadd listings to homepage \nadd tags store\nChellappan has also offered some help. He will raise a detailed feature request on what he will work on Waiting for that. \nIf you want to contribute too. I've created a lot of issues. Anyone can work on issues but for feature requests you have to raise a detailed feature request before working on it.\nSunny also raised his first pr on the project. Thank you sunny.",
+          "link": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-july-30-514f",
+          "publishedOn": "2021-07-30T03:53:13.000Z",
+          "wordCount": 792,
+          "title": "Updates on dev.to clone in Angular - July 30"
+        },
         {
           "id": "https://dev.to/the-guild/build-a-whatsapp-clone-with-ionic-2-angular-2-and-meteor-1ghf",
           "author": "TheGuildBot",
@@ -4764,6 +5079,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=30392",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784297121938.html",
+          "publishedOn": "2021-07-30T00:36:22.000Z",
+          "wordCount": 395,
+          "title": "HTMLとCSSの実務レベルの作業フローや思考プロセスがていねいに解説された、Web制作に真剣に取り組みたい人にお勧めの本 -教科書では教えてくれないHTML＆CSS"
+        },
         {
           "id": "https://coliss.com/?p=30384",
           "author": "コリス🥦",
