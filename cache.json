@@ -229,6 +229,141 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20210731-stolen-laptop-inside-company-network/",
+          "author": null,
+          "description": "2021年後半にリリースが予定されているWindows 11の動作には、「トラステッド・プラットフォーム・モジュール(TPM)」というセキュリティチップが必須とされています。しかし、このTPMによって保護されたPCでさえも情報が盗み取られる危険性があるとセキュリティ企業のDolos Groupが解説しています。 From Stolen Laptop ...",
+          "link": "https://gigazine.net/news/20210731-stolen-laptop-inside-company-network/",
+          "publishedOn": "2021-07-31T12:03:41.000Z",
+          "wordCount": 215,
+          "title": "Windows 11に必須な「TPM」で保護されたPCから情報を盗み出す手口をセキュリティ企業が解説 - GIGAZINE"
+        },
+        {
+          "id": "https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059",
+          "author": null,
+          "description": "By Andrew Nguonly, Armando Magalhães, Obi-Ike Nwoke, Shervin Afshar, Sreyashi Das, Tongliang Liu, Wei Liu, Yucheng Zeng BackgroundOver the next few years, most content on Netflix will come from Netflix’s own Studio. From the moment a Netflix film or series is pitched and long before it becomes av...",
+          "link": "https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059",
+          "publishedOn": "2021-07-31T11:16:03.000Z",
+          "wordCount": 3252,
+          "title": "Data Movement in Netflix Studio via Data Mesh | by Netflix Technology Blog | Jul, 2021 | Netflix TechBlog"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-386247/",
+          "author": null,
+          "description": "Twitterに取って代わる分散型SNSとして、一時期大きな話題を集めた「Mastodon」のiOS向け公式アプリが登場しました。 2017年頃に大ブームに 企業がプラットフォームを中央集権的に統括する一般的なSNSとは異なり、非営利団体が運営するMastodonは、独立して運営されるコミュニティ（インスタンス）を中心に構築されてお...",
+          "link": "https://iphone-mania.jp/news-386247/",
+          "publishedOn": "2021-07-31T11:15:50.000Z",
+          "wordCount": 215,
+          "title": "2017年に大ブーム起きたMastodon、公式iOSアプリが登場 - iPhone Mania"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/31/news023.html",
+          "author": null,
+          "description": "「定時ダッシュ」「仕事の丸投げ」──ピクトグラムがTwitterに続々　五輪開会式の“演技”に触発：東京五輪とネット（1/2 ページ） 7月23日に東京オリンピック（東京五輪）の開会式以降、ドローンとともに、簡単な絵で情報を表す「ピクトグラム」がネット上で注目を集めている。開会式でのパントマイムパフォーマンスが反響...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/31/news023.html",
+          "publishedOn": "2021-07-31T08:25:29.000Z",
+          "wordCount": 150,
+          "title": "「定時ダッシュ」「仕事の丸投げ」──ピクトグラムがTwitterに続々　五輪開会式の“演技”に触発：東京五輪とネット（1/2 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://zenn.dev/qnighy/articles/6ff23c47018380",
+          "author": null,
+          "description": "Webアプリケーションを実装していると高確率で CORS の問題にぶつかります。CORSがどのようなものかはリンクしたMDNなど既存の解説を読むのが手っ取り早いと思いますが、「なぜそのように設計されたのか」という観点での説明はあまり見ないため、昔の資料の記述や現在の仕様からの推測をもとに整理してみました。 CORSと...",
+          "link": "https://zenn.dev/qnighy/articles/6ff23c47018380",
+          "publishedOn": "2021-07-31T08:13:22.000Z",
+          "wordCount": 352,
+          "title": "CORSの仕様はなぜ複雑なのか"
+        },
+        {
+          "id": "https://japanese.engadget.com/m1-macbook-screen-cracks-normal-usage-030549042.html",
+          "author": null,
+          "description": "M1チップ搭載MacBook AirとMacBook Proの両方で、普通に使っているだけで画面にヒビが入ったとの報告が複数届けられています。 米9to5Macによれば、それら画面割れの一部はアップルが無償で修理・交換した場合があるものの、ほとんどは保証の対象にならず修理代が請求されたとのことです。 たとえば9to5Macの読者Ian Pro...",
+          "link": "https://japanese.engadget.com/m1-macbook-screen-cracks-normal-usage-030549042.html",
+          "publishedOn": "2021-07-31T04:02:11.000Z",
+          "wordCount": 226,
+          "title": "M1 MacBook、普通に使っていたのに画面が割れたとの複数報告 - Engadget 日本版"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2107/31/news031.html",
+          "author": null,
+          "description": "1カ月近く続くLHRタイプのRTX 3000シリーズ新製品ラッシュだが、LHR版を機に仕入れ値ベースで価格がはっきり下がっているという。グラフィックスカードの現状を探った。 GeForce RTX 3000シリーズのLHR（Lite Hash Rate）版ラッシュは今週も続いているが、LHR版の登場を機に、はっきりと価格が下がっているとの話を複数...",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2107/31/news031.html",
+          "publishedOn": "2021-07-31T03:46:08.000Z",
+          "wordCount": 513,
+          "title": "LHR版がGeForce RTX 3000カードの価格を押し下げる：古田雄介の週末アキバ速報（1/2 ページ） - ITmedia PC USER"
+        },
+        {
+          "id": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
+          "author": null,
+          "description": "For the past year, the Sorbet team has been working on an experimental, ahead-of-time compiler for Ruby, powered by Sorbet and LLVM. Today we’re sharing the source code for it. It lives alongside the existing code for Sorbet on GitHub, mostly in the compiler/ folder: → https://github.com/sorbet/s...",
+          "link": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
+          "publishedOn": "2021-07-31T03:23:34.000Z",
+          "wordCount": 2268,
+          "title": "Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby · Sorbet"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/31/news026.html",
+          "author": null,
+          "description": "自分の姿勢を“五輪風ピクトグラム”に　エンジニアが個人開発、GitHubでソースコード公開：東京五輪とネット（1/2 ページ） 自分の動きや姿勢を、カメラを通して“五輪風ピクトグラム”にするソフトに注目が集まっている。作者はソースコード共有サイト「GitHub」にコードを公開している。 プロのパントマイマーによる“ピク...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/31/news026.html",
+          "publishedOn": "2021-07-31T02:37:00.000Z",
+          "wordCount": 161,
+          "title": "自分の姿勢を“五輪風ピクトグラム”に　エンジニアが個人開発、GitHubでソースコード公開：東京五輪とネット（1/2 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/",
+          "author": null,
+          "description": "Guest post by Docker Community Member Justin Chadell. This post originally appeared here. As of a couple weeks ago, Docker’s BuildKit tool for building Dockerfiles now supports heredoc syntax! With these new improvements, we can do all sorts of things that were difficult before, like multiline RU...",
+          "link": "https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/",
+          "publishedOn": "2021-07-31T01:19:47.000Z",
+          "wordCount": 1408,
+          "title": "Introduction to heredocs in Dockerfiles - Docker Blog"
+        },
+        {
+          "id": "https://gigazine.net/news/20210731-dwarf-fortress-developer/",
+          "author": null,
+          "description": "7人のドワーフを操作して広大な世界を開拓し、歴史や神話を含めたさまざまな文明を築いていく無料のシミュレーションゲームが「Dwarf Fortress」です。コンピュータープログラミングに関するナレッジコミュニティ・Stack Overflowの公式ブログに、2002年から20年近くにわたってDwarf Fortressの開発を続けるターン・アダ...",
+          "link": "https://gigazine.net/news/20210731-dwarf-fortress-developer/",
+          "publishedOn": "2021-07-31T00:17:31.000Z",
+          "wordCount": 268,
+          "title": "70万行以上のコードを20年かけて1人でコツコツ開発してきたゲームプログラマーへのインタビュー - GIGAZINE"
+        },
+        {
+          "id": "https://zenn.dev/tyamahori/articles/61a25b58a35ac5",
+          "author": null,
+          "description": "こんにちは。tyamahoriです。 突然ですが、Dockerはお好きですか？僕は大好きです。 Docker Desktop on Mac を利用して、Mac上にDocker環境を構築して開発しています。 残念なお知らせ ここで突然ですが、残念なお知らせがあります。 Docker Destop on Mac の遅さはしばらくは改善されなさそうです。 ソースは？ ご安心...",
+          "link": "https://zenn.dev/tyamahori/articles/61a25b58a35ac5",
+          "publishedOn": "2021-07-30T20:42:28.000Z",
+          "wordCount": 264,
+          "title": "Docker Desktop on Mac の遅さはしばらくは改善しなさそうです。"
+        },
+        {
+          "id": "https://twitter.com/Tsultra_K/status/1421057421527506944",
+          "author": null,
+          "description": "回帰問題をNNで解くときはドロップアウトとBatchNormは使わないほうがいいって話、あまり知られてない気がする Pitfalls with Dropout and BatchNorm in regression proble… https://t.co/4ra2zVPStC",
+          "link": "https://twitter.com/Tsultra_K/status/1421057421527506944",
+          "publishedOn": "2021-07-30T14:19:27.000Z",
+          "wordCount": 196,
+          "title": "Tsultra on Twitter: \"回帰問題をNNで解くときはドロップアウトとBatchNormは使わないほうがいいって話、あまり知られてない気がする Pitfalls with Dropout and BatchNorm in regression proble… https://t.co/4ra2zVPStC\""
+        },
+        {
+          "id": "https://speakerdeck.com/hminamiohtsu/developers-summit-2021-summer",
+          "author": null,
+          "description": "Transcript Zucksにおける フルサイクル開発者の文化 Developers Summit 2021 Summer 2021/07/30 VOYAGE GROUP(CARTA HOLDINGS) / Zucks 南大津　寛 自己紹介 2 南大津 寛 Hiroshi Minamiohtsu • 株式会社Zucks アドプロダクト事業本部 エンジニア • Zucks Ad Networkの開発、運用 • VOYAGE GROUP (CARTA HOLDINGS) 会社...",
+          "link": "https://speakerdeck.com/hminamiohtsu/developers-summit-2021-summer",
+          "publishedOn": "2021-07-30T13:20:37.000Z",
+          "wordCount": 618,
+          "title": "Zucksにおけるフルサイクル開発者の文化 / Developers Summit 2021 Summer - Speaker Deck"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news176.html",
+          "author": null,
+          "description": "ケイエスワイが「Raspberry Pi 400 日本版」の販売を始めた。日本語配列のキーボードにRaspberry Piを内蔵マウスや電源アダプターなどが付属するスターターキットも取り扱っている。 Raspberry Pi正規代理店であるケイエスワイ（東京都台東区）は7月29日、「Raspberry Pi 400 日本版」の販売を始めた。単品の価格は9790...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news176.html",
+          "publishedOn": "2021-07-30T13:02:05.000Z",
+          "wordCount": 203,
+          "title": "ラズパイ内蔵のキーボード「Raspberry Pi 400」の日本版が販売開始　スターターキットはすでに売り切れ - ITmedia NEWS"
+        },
+        {
           "id": "https://pc.watch.impress.co.jp/docs/news/1341342.html",
           "author": null,
           "description": "京都大学、東京大学、東京工業大学、横浜国立大学、岡山大学およびドイツのケルン大学などの研究チームは共同で30日、量子コンピュータのワイルドカードになると期待されている、「非可換エニオン」と呼ばれる粒子の性質を解明したと発表した。",
@@ -254,6 +389,15 @@
           "publishedOn": "2021-07-30T12:16:02.000Z",
           "wordCount": 218,
           "title": "オープンソースのニューラルネットワーク向けプログラミング言語「Triton」をOpenAIが公開 - GIGAZINE"
+        },
+        {
+          "id": "https://blog.ryotak.me/post/pypi-potential-remote-code-execution/",
+          "author": null,
+          "description": "はじめに(English version is also available.) PyPIは、セキュリティページ自体は公開しているものの、脆弱性診断行為に対する明確なポリシーを設けていません。1 本記事は、公開されている情報を元に脆弱性の存在を推測し、実際に検証することなく潜在的な脆弱性として報告した問題に関して説明したものであり、無許可...",
+          "link": "https://blog.ryotak.me/post/pypi-potential-remote-code-execution/",
+          "publishedOn": "2021-07-30T12:15:56.000Z",
+          "wordCount": 209,
+          "title": "PyPIにおける潜在的な任意コード実行 - RyotaK's Blog"
         },
         {
           "id": "https://speakerdeck.com/snoozer05/continuous-architecting-and-rails-from-rails-new-to-your-own-architecture",
@@ -292,6 +436,15 @@
           "title": "GraphQLクライアントにurqlをおすすめしたい"
         },
         {
+          "id": "https://techblog.gaudiy.com/entry/2021/07/30/171115",
+          "author": null,
+          "description": "こんにちは！エンタメ領域のDXを推進するブロックチェーンスタートアップ、Gaudiyで社員代表（笑）をしている西岡（@TakeshiNishioka）です。 今回はスタートアップ企業の社員代表がどのような役割を担っているかを、この場を借りて紹介させていただきたいと思っています。 …というのは冗談で、今回は主に業務で携わって...",
+          "link": "https://techblog.gaudiy.com/entry/2021/07/30/171115",
+          "publishedOn": "2021-07-30T11:27:15.000Z",
+          "wordCount": 146,
+          "title": "GaudiyがAutifyを導入して手戻りコストを削減した話 - Gaudiy Tech Blog"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2107/30/news166.html",
           "author": null,
           "description": "「ドラえもんの世界みたい」――選手村を走る自動運転バスが国内外で話題に　運転しない乗務員の役割は？：東京五輪とネット（1/2 ページ） 五輪選手村を走る自動運転バスを撮影した動画を選手がSNSに投稿し、「2050年の日本に住んでいるのか？」「ドラえもんの世界みたい」などと国内外で話題に。バスはトヨタが開発した2...",
@@ -299,6 +452,24 @@
           "publishedOn": "2021-07-30T11:01:10.000Z",
           "wordCount": 147,
           "title": "「ドラえもんの世界みたい」――選手村を走る自動運転バスが国内外で話題に　運転しない乗務員の役割は？：東京五輪とネット（1/2 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2107/30/news157.html",
+          "author": null,
+          "description": "防衛省が開設中の大規模接種センターや、厚生労働省のワクチン接種に関する情報サイト「コロナワクチンナビ」に掲載されている3万件以上の医療機関の情報を基に、近隣の接種会場を表示する。一般向けかどうか、接種予約が必要か、などの情報も併せて表示する。 関連記事 コロナワクチン接種、自治体の8割が11月までに完...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/30/news157.html",
+          "publishedOn": "2021-07-30T10:02:45.000Z",
+          "wordCount": 157,
+          "title": "Google マップとGoogle 検索、ワクチン接種会場の表示に対応 - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.atmarkit.co.jp/ait/articles/2107/30/news032.html",
+          "author": null,
+          "description": "「コンテナ」「Kubernetes」はコスト削減のためではない――ガートナーが語る“誤解と真実”：最も重要なのは「組織変革」（1/2 ページ） 2021年6月21〜22日にガートナーが開催した「アプリケーション・イノベーション＆ビジネス・ソリューション サミット」で、ガートナー ジャパンの桂島 航氏が「コンテナとKubernetesをIT...",
+          "link": "https://www.atmarkit.co.jp/ait/articles/2107/30/news032.html",
+          "publishedOn": "2021-07-30T09:22:20.000Z",
+          "wordCount": 174,
+          "title": "「コンテナ」「Kubernetes」はコスト削減のためではない――ガートナーが語る“誤解と真実”：最も重要なのは「組織変革」（1/2 ページ） - ＠IT"
         },
         {
           "id": "https://speakerdeck.com/minodriven/buisiness-purpose-system-design",
@@ -373,6 +544,24 @@
           "title": "ワクチンを3回接種する「ブースターショット」がデルタ変異株への防御を高めるとファイザーが発表 - GIGAZINE"
         },
         {
+          "id": "https://note.com/takahiroanno/n/ncb7d77bfd9f1",
+          "author": null,
+          "description": "10年前に提唱された「リーンスタートアップ」と呼ばれる事業立ち上げの手法がある。リーン（＝無駄がない）であること、仮説検証の速度を最大化する（=学びの量に最適化する）ことを重要視する考え方だ。フィードバックサイクルを早め、コストをなるべくかけず、必要最低限の要素にフォーカスし、素早くスタートアップを...",
+          "link": "https://note.com/takahiroanno/n/ncb7d77bfd9f1",
+          "publishedOn": "2021-07-30T05:58:58.000Z",
+          "wordCount": 94,
+          "title": "Lean AI 開発論: コードを書く前に機械学習プロジェクトを評価する方法｜Anno Takahiro｜note"
+        },
+        {
+          "id": "https://dc.watch.impress.co.jp/docs/review/special/1340536.html",
+          "author": null,
+          "description": "カールツァイスといえば、カメラ用レンズに限らず双眼鏡、顕微鏡、医療機器、三次元測定機、半導体製造装置、眼鏡レンズ、プラネタリウムなど、今さら語るべくもないほど有名なドイツのブランドである。2021年は、そんなカールツァイスの設立から175年、日本との関係が始まって110年、写真用レンズ「プラナー」誕生から125年と周年づくし。",
+          "link": "https://dc.watch.impress.co.jp/docs/review/special/1340536.html",
+          "publishedOn": "2021-07-30T05:37:17.000Z",
+          "wordCount": 367,
+          "title": "特別企画：カールツァイス入門・第一章「設立175周年、カールツァイスの成り立ちと思想」 - デジカメ Watch"
+        },
+        {
           "id": "https://speakerdeck.com/jumtech/what-is-product-specialist",
           "author": null,
           "description": "Transcript 1 DXͷຊ࣭ͱɺ ʮ։ൃ͠ͳ͍ΤϯδχΞʯͷΩϟϦΞύε ɹɹʛɹɹ© PLAID Inc. 2021.07.30ɹɹʛɹɹDevelopers Summit 2021 Summerɹɹʛɹ ຊ೔ͷςʔϚ 2 2021.07.30ɹɹʛɹɹDevelopers Summit 2021 Summerɹɹʛɹ ɹɹʛɹɹ© PLAID Inc. DXͷຊ࣭ͱɺ ʮ։ൃ͠ͳ͍ΤϯδχΞʯ ͷΩϟϦΞύε ͜ͷൃදʹ͍ͭͯ DXͱ͸ʁ IaaSͱDevOp s SaaSͱxOp s Product Specialistͱ͸ʁ ࿩͢͜ͱ 3 2021.07.30ɹɹʛɹɹDevelopers Summit...",
@@ -380,6 +569,15 @@
           "publishedOn": "2021-07-30T05:06:39.000Z",
           "wordCount": 1640,
           "title": "DXの本質と、「開発しないエンジニア」のキャリアパス / What is Product Specialist? - Speaker Deck"
+        },
+        {
+          "id": "https://blog.kyash.co/entry/2021/07/30/100000",
+          "author": null,
+          "description": "はじめに こんにちは。 KyashでSREを担当する、福岡県在住の@hikarunです。 2021年2月よりKyashに入社し、フルリモートで日々業務に邁進しております。 他の社員が技術的な話をたくさん書いているので、私の方からは弊社のリモート勤務体制やSREチームのリモート勤務の小噺をさせていただければと思います。 昨今の情勢...",
+          "link": "https://blog.kyash.co/entry/2021/07/30/100000",
+          "publishedOn": "2021-07-30T05:04:38.000Z",
+          "wordCount": 214,
+          "title": "SREメンバーの半数が地方勤務な話 - Kyash Product Blog"
         },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2107/30/news111.html",
@@ -418,6 +616,15 @@
           "title": "heyの統合データ基盤と今後の展望 - STORES Tech Blog"
         },
         {
+          "id": "https://codezine.jp/article/detail/14617",
+          "author": null,
+          "description": "米Microsoftは、最新のVisual Studio CodeにてJavaScriptデバッガが組み込まれ、ブラウザで容易にデバッグができるようになったことを、7月16日（現地時間）付の公式ブログ投稿にて紹介している。 Visual Studio CodeにJavaScriptデバッガが組み込まれたことで、従来Visual Studio CodeでのJavaScriptデバッグで用いられ...",
+          "link": "https://codezine.jp/article/detail/14617",
+          "publishedOn": "2021-07-30T03:51:26.000Z",
+          "wordCount": 237,
+          "title": "Visual Studio CodeへのJavaScriptデバッガ統合でブラウザでのデバッグが容易に：CodeZine（コードジン）"
+        },
+        {
           "id": "https://blog.hatenablog.com/entry/2021/07/30/120000",
           "author": null,
           "description": "はてなブログで技術に関するブログを書いている方に、“ブログを書き続けること”について教えてもらう企画「エンジニアのブログ探訪」。第7回は、日常生活からハードウェアの話題まで幅広くブログを書くからあげさん（id:karaage）に登場いただきました。 からあげさんのブログのカテゴリを見ると、Raspberry Pi（イギリ...",
@@ -436,6 +643,15 @@
           "title": "高速データ収集ツール『Fluentd』の開発体制強化 - クリアコード"
         },
         {
+          "id": "https://aws.amazon.com/jp/blogs/news/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/",
+          "author": null,
+          "description": "Amazon Web Services ブログ AWS Lambda でのカスタムチェックポイントによるバッチ処理の最適化 AWS Lambdaは、Amazon Kinesis Data StreamsやAmazon DynamoDB Streamsなどのソースから取得した複数メッセージをバッチ処理できます。通常の操作では、処理を行う関数は1つのバッチから次のバッチに移動して、ストリーム...",
+          "link": "https://aws.amazon.com/jp/blogs/news/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/",
+          "publishedOn": "2021-07-30T01:04:56.000Z",
+          "wordCount": 567,
+          "title": "AWS Lambda でのカスタムチェックポイントによるバッチ処理の最適化 | Amazon Web Services ブログ"
+        },
+        {
           "id": "https://www.ryuzee.com/contents/blog/14559",
           "author": null,
           "description": "みなさんこんにちは。@ryuzeeです。今日は小ネタです。 3分くらいでスクラムをざっくり分かってもらうための説明を以前作ったのですが、意外と役に立っているのでブログで公開しておきます。 この記述については、CC BY-SA 4.0ライセンスとします。 クレジット表記（@ryuzee / Ryutaro Yoshiba）のもとで共有や派生物を...",
@@ -452,6 +668,24 @@
           "publishedOn": "2021-07-30T00:57:25.000Z",
           "wordCount": 395,
           "title": "HTMLとCSSの実務レベルの作業フローや思考プロセスがていねいに解説された、Web制作に真剣に取り組みたい人にお勧めの本 -教科書では教えてくれないHTML＆CSS | コリス"
+        },
+        {
+          "id": "https://www.atmarkit.co.jp/ait/articles/2107/30/news025.html",
+          "author": null,
+          "description": "Visual Studio Codeはプログラマーでなくても便利なエディタ Visual Studio Code（VS Code）は、主にプログラマー向けのコードエディタとして提供されているが、エンドユーザーや管理者でも高機能なテキストエディタとして活用できる。最近では、JSON形式やXML形式の設定ファイルの編集が必要なツールもあるので、VS Cod...",
+          "link": "https://www.atmarkit.co.jp/ait/articles/2107/30/news025.html",
+          "publishedOn": "2021-07-30T00:48:11.000Z",
+          "wordCount": 264,
+          "title": "プログラマー以外にもおすすめ　「Visual Studio Code」のインストールから基本設定まで：Tech TIPS（1/2 ページ） - ＠IT"
+        },
+        {
+          "id": "https://recoiljs.org/blog/2021/07/30/0.4.0-release/",
+          "author": null,
+          "description": "We are pleased to announce the release of Recoil 0.4 with configurable selector caches, improved API for transactions with multiple atoms, and other optimizations and fixes. Configurable selector caches#The new cachePolicy_UNSTABLE property in selectors and selector families allows you to configu...",
+          "link": "https://recoiljs.org/blog/2021/07/30/0.4.0-release/",
+          "publishedOn": "2021-07-30T00:04:19.000Z",
+          "wordCount": 774,
+          "title": "Recoil 0.4 | Recoil"
         },
         {
           "id": "https://www.itmedia.co.jp/enterprise/articles/2107/31/news005.html",
@@ -1496,6 +1730,15 @@
           "publishedOn": "2021-07-25T23:03:25.000Z",
           "wordCount": 344,
           "title": "サイバー侵害が発生して当然ともいえる状況では発想や考え方を変えることが重要――サイバーディフェンス研究所 名和利男氏：ITmedia エグゼクティブセミナーリポート（1/2 ページ） - ITmedia エグゼクティブ"
+        },
+        {
+          "id": "https://github.com/yuru7/PlemolJP",
+          "author": null,
+          "description": "IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)",
+          "link": "https://github.com/yuru7/PlemolJP",
+          "publishedOn": "2021-07-25T14:20:37.000Z",
+          "wordCount": 592,
+          "title": "GitHub - yuru7/PlemolJP: IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)"
         },
         {
           "id": "https://brand.taisho.co.jp/semper/trivia/trivia02.html",
@@ -2963,6 +3206,15 @@
           "publishedOn": "2021-07-19T14:37:43.000Z",
           "wordCount": 200,
           "title": "現生人類固有の遺伝子はわずか7％だけという研究結果 - GIGAZINE"
+        },
+        {
+          "id": "https://qiita.com/myabu/items/89797cddfa7225ff2b5d",
+          "author": null,
+          "description": "しかし、Dockerのドキュメントhttps://docs.docker.com/get-started/07_multi_container/ には While using env vars to set connection settings is generally ok for development, it is HIGHLY DISCOURAGED when running applications in production. Diogo Monica, the former lead of security at Docker, wrote a ...",
+          "link": "https://qiita.com/myabu/items/89797cddfa7225ff2b5d",
+          "publishedOn": "2021-07-19T13:13:54.000Z",
+          "wordCount": 458,
+          "title": "Docker Composeの環境変数ではなくsecretsで秘密情報を扱う - Qiita"
         },
         {
           "id": "https://sds-page.hateblo.jp/entry/2021/07/19/213408",
@@ -4525,6 +4777,69 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/ajayupreti/best-practices-for-making-angularjs-application-5edd",
+          "author": "ajay upreti",
+          "description": "This article lists some of the best practices that would be useful for developers while they are coding with AngularJS. \nHere are some good practices for AngularJS applications separated into five categories:\nWhen we start to build an AngularJS application sometimes we don’t know exactly how to organise our files or even know what files we need. For this, the AngularJS team recommends two solutions:\nUse the angular-seed (https://github.com/angular/angular-seed) project, which is basically a skeleton of a typical AngularJS application. You just need to clone the repository.\nThe other recommendation is to use yeoman (http://yeoman.io/) which is a tool that will basically create the skeleton and add other tools such as bower and grunt, which are widely used in the development of javascript ap…",
+          "link": "https://dev.to/ajayupreti/best-practices-for-making-angularjs-application-5edd",
+          "publishedOn": "2021-07-31T14:52:26.000Z",
+          "wordCount": 1090,
+          "title": "Best Practices for making AngularJS Application"
+        },
+        {
+          "id": "https://dev.to/ajayupreti/how-to-use-animation-with-angular-51e3",
+          "author": "ajay upreti",
+          "description": "Introduction\n\n\nAngular offers the ability to create powerful animations and activate them based on a variety of factors.\nOne of the changes from Angular 2 to 5 was the fact that they moved the animation functions from the angular core library, into their own animations library. \nAngular Animations are kept in their own module, so we need to import them into the module where they will be used.\nimport { NgModule } from '@angular/core';\nimport { BrowserAnimationsModule } from '@angular/platform-browser/animations';\n\n@NgModule({\n  imports: [\n    BrowserAnimationsModule\n  ],\n})\n\nFirst, we need to import some animation functions to the top of the intended component:\nimport { trigger,state,style,transition,animate,keyframes } from '@angular/animations';\n\nNext, we have to add the animations proper…",
+          "link": "https://dev.to/ajayupreti/how-to-use-animation-with-angular-51e3",
+          "publishedOn": "2021-07-31T12:38:54.000Z",
+          "wordCount": 960,
+          "title": "How to use animation with Angular  ?"
+        },
+        {
+          "id": "https://dev.to/vazsonyidl/angular-di-in-action-series-3669",
+          "author": "vazsonyidl",
+          "description": "Introduction\n\n\nIn Angular, you can use services for several purposes. You can share state between components, share common functionalities, create plus one abstraction layer for some problem and so on. Services are just basic classes with the @Injectable() decorator. But how does this decorator actually works, what are the resolution rules that describes which service to use in a component? \nLet's dive into these topic. This will be a series with 4-6 parts, and this is the first one.\nDependency Injection is a design pattern, where the initiated class request its dependencies from external sources instead of creating them by itself. With this, you can increase modularity, flexibility and reusability of your codebase.\nLet's create a demo service for our starting point. It does not matter wha…",
+          "link": "https://dev.to/vazsonyidl/angular-di-in-action-series-3669",
+          "publishedOn": "2021-07-31T12:38:36.000Z",
+          "wordCount": 1005,
+          "title": "Angular DI in action - series"
+        },
+        {
+          "id": "https://dev.to/ajayupreti/which-ui-frameworks-you-can-use-with-angular-3o7e",
+          "author": "ajay upreti",
+          "description": "As we are aware, a framework is an important part of application development. AngularJS is one such framework which is gaining popularity for its potential to simplify application development. AngularJS is a MVW JavaScript framework maintained by Google and a community of enthusiastic developers.\nOverview of Commonly Used UI Frameworks for AngularJS-\nAs its name indicates, UI Bootstrap is a collection of Bootstrap components written in AngularJS. The web developers can use the repository of components with dependencies like AngularJS, Bootstrap CSS, Angular-animate, and Angular-touch. As the directives included in the repository have external markup, the developers have the option to use the markup as templates. They can further make changes to the external markup to create custom template…",
+          "link": "https://dev.to/ajayupreti/which-ui-frameworks-you-can-use-with-angular-3o7e",
+          "publishedOn": "2021-07-31T12:36:40.000Z",
+          "wordCount": 1277,
+          "title": "Which UI Frameworks you can use with Angular ?"
+        },
+        {
+          "id": "https://dev.to/ajayupreti/angularjs-requesting-json-data-with-ajax-3c9m",
+          "author": "ajay upreti",
+          "description": "In AngularJS you can send AJAX requests in several different ways. These are:\nAJAX calls via the $http service.\nJSONP calls via the $http service.\nREST type calls.\nThere are plenty of ways to implement data into your Angular services — some open source and others not so much. For the sake of simplicity, this tutorial will use static JSON files. Here is an example of some mock user data you might want to include in your app:\n[\n    { “name”: “Ankit”, “age” : “26”, “color” : “blue” },\n    { “name”: “Sushant”, “age” : “45”, “color”: “black” },\n    { “name”: “John”, “age” : “35”, “color”: “brown” }\n]\n\nThe $http service has several functions you can use to send AJAX requests. These are:\n$http.get(url, config)\n$http.post(url, data, config)\n$http.put(url, data, config)\n$http.delete(url, config)\n$h…",
+          "link": "https://dev.to/ajayupreti/angularjs-requesting-json-data-with-ajax-3c9m",
+          "publishedOn": "2021-07-31T12:32:19.000Z",
+          "wordCount": 911,
+          "title": "AngularJS : Requesting JSON data with AJAX"
+        },
+        {
+          "id": "https://dev.to/ajayupreti/how-to-use-push-notifications-in-angular-2cll",
+          "author": "ajay upreti",
+          "description": "In this post, we are going to go through a complete example of how to implement Web Push Notifications in an Angular Application using the Angular Service Worker.\nNote that these are the exact same native notifications that we receive for example on our mobile phones home screen or desktop, but they are triggered via a web application instead of a native app.\nThese notifications can even be displayed to the user if all application tabs are closed, thanks to Service Workers! When well used, Push notifications are a great way of having our users re-engage with our application.\nThis is a step-by-step tutorial, so I invite you to code along as we implement Push Notifications in an existing application.\nWe will also learn along the way how Push Notifications work in general, as we follow and ex…",
+          "link": "https://dev.to/ajayupreti/how-to-use-push-notifications-in-angular-2cll",
+          "publishedOn": "2021-07-31T12:23:09.000Z",
+          "wordCount": 1898,
+          "title": "How to use Push Notifications in Angular ?"
+        },
+        {
+          "id": "https://dev.to/priteshbhoi/2021-angular-interview-questions-beginners-to-advanced-1m2m",
+          "author": "Pritesh Bhoi",
+          "description": "top new and frequently asked in 2021\n\n\nQ1. Differentiate between Angular and AngularJS\nQ2. What is Angular?\nQ3. What are the advantages of using Angular?\nQ4. What is Angular mainly used for?\nQ5. What are Angular expressions?\nQ6. What are templates in Angular?\nQ7. In Angular what is string interpolation?\nQ8. What is the difference between an Annotation and a Decorator in Angular?\nQ9. What do you understand by controllers in Angular?\nQ10. What is scope in Angular?",
+          "link": "https://dev.to/priteshbhoi/2021-angular-interview-questions-beginners-to-advanced-1m2m",
+          "publishedOn": "2021-07-31T07:25:41.000Z",
+          "wordCount": 492,
+          "title": "2021 Angular Interview Questions Beginners to Advanced"
+        },
         {
           "id": "https://dev.to/jfbloom22/a-better-way-to-deploy-angular-universal-to-multiple-environments-206j",
           "author": "Jonathan Flower",

@@ -2,10 +2,262 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-31T00:14:07.504Z</updated>
+    <updated>2021-08-01T00:17:17.258Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Practices for making AngularJS Application]]></title>
+        <id>https://dev.to/ajayupreti/best-practices-for-making-angularjs-application-5edd</id>
+        <link href="https://dev.to/ajayupreti/best-practices-for-making-angularjs-application-5edd"/>
+        <updated>2021-07-31T14:52:26.000Z</updated>
+        <summary type="html"><![CDATA[This article lists some of the best practices that would be useful for developers while they are coding with AngularJS. 
+Here are some good practices for AngularJS applications separated into five categories:
+When we start to build an AngularJS application sometimes we don’t know exactly how to organise our files or even know what files we need. For this, the AngularJS team recommends two solutions:
+Use the angular-seed (https://github.com/angular/angular-seed) project, which is basically a skeleton of a typical AngularJS application. You just need to clone the repository.
+The other recommendation is to use yeoman (http://yeoman.io/) which is a tool that will basically create the skeleton and add other tools such as bower and grunt, which are widely used in the development of javascript ap…]]></summary>
+        <author>
+            <name>ajay upreti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use animation with Angular  ?]]></title>
+        <id>https://dev.to/ajayupreti/how-to-use-animation-with-angular-51e3</id>
+        <link href="https://dev.to/ajayupreti/how-to-use-animation-with-angular-51e3"/>
+        <updated>2021-07-31T12:38:54.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+Angular offers the ability to create powerful animations and activate them based on a variety of factors.
+One of the changes from Angular 2 to 5 was the fact that they moved the animation functions from the angular core library, into their own animations library. 
+Angular Animations are kept in their own module, so we need to import them into the module where they will be used.
+import { NgModule } from '@angular/core';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+@NgModule({
+  imports: [
+    BrowserAnimationsModule
+  ],
+})
+
+First, we need to import some animation functions to the top of the intended component:
+import { trigger,state,style,transition,animate,keyframes } from '@angular/animations';
+
+Next, we have to add the animations proper…]]></summary>
+        <author>
+            <name>ajay upreti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular DI in action - series]]></title>
+        <id>https://dev.to/vazsonyidl/angular-di-in-action-series-3669</id>
+        <link href="https://dev.to/vazsonyidl/angular-di-in-action-series-3669"/>
+        <updated>2021-07-31T12:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+In Angular, you can use services for several purposes. You can share state between components, share common functionalities, create plus one abstraction layer for some problem and so on. Services are just basic classes with the @Injectable() decorator. But how does this decorator actually works, what are the resolution rules that describes which service to use in a component? 
+Let's dive into these topic. This will be a series with 4-6 parts, and this is the first one.
+Dependency Injection is a design pattern, where the initiated class request its dependencies from external sources instead of creating them by itself. With this, you can increase modularity, flexibility and reusability of your codebase.
+Let's create a demo service for our starting point. It does not matter wha…]]></summary>
+        <author>
+            <name>vazsonyidl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which UI Frameworks you can use with Angular ?]]></title>
+        <id>https://dev.to/ajayupreti/which-ui-frameworks-you-can-use-with-angular-3o7e</id>
+        <link href="https://dev.to/ajayupreti/which-ui-frameworks-you-can-use-with-angular-3o7e"/>
+        <updated>2021-07-31T12:36:40.000Z</updated>
+        <summary type="html"><![CDATA[As we are aware, a framework is an important part of application development. AngularJS is one such framework which is gaining popularity for its potential to simplify application development. AngularJS is a MVW JavaScript framework maintained by Google and a community of enthusiastic developers.
+Overview of Commonly Used UI Frameworks for AngularJS-
+As its name indicates, UI Bootstrap is a collection of Bootstrap components written in AngularJS. The web developers can use the repository of components with dependencies like AngularJS, Bootstrap CSS, Angular-animate, and Angular-touch. As the directives included in the repository have external markup, the developers have the option to use the markup as templates. They can further make changes to the external markup to create custom template…]]></summary>
+        <author>
+            <name>ajay upreti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AngularJS : Requesting JSON data with AJAX]]></title>
+        <id>https://dev.to/ajayupreti/angularjs-requesting-json-data-with-ajax-3c9m</id>
+        <link href="https://dev.to/ajayupreti/angularjs-requesting-json-data-with-ajax-3c9m"/>
+        <updated>2021-07-31T12:32:19.000Z</updated>
+        <summary type="html"><![CDATA[In AngularJS you can send AJAX requests in several different ways. These are:
+AJAX calls via the $http service.
+JSONP calls via the $http service.
+REST type calls.
+There are plenty of ways to implement data into your Angular services — some open source and others not so much. For the sake of simplicity, this tutorial will use static JSON files. Here is an example of some mock user data you might want to include in your app:
+[
+    { “name”: “Ankit”, “age” : “26”, “color” : “blue” },
+    { “name”: “Sushant”, “age” : “45”, “color”: “black” },
+    { “name”: “John”, “age” : “35”, “color”: “brown” }
+]
+
+The $http service has several functions you can use to send AJAX requests. These are:
+$http.get(url, config)
+$http.post(url, data, config)
+$http.put(url, data, config)
+$http.delete(url, config)
+$h…]]></summary>
+        <author>
+            <name>ajay upreti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Push Notifications in Angular ?]]></title>
+        <id>https://dev.to/ajayupreti/how-to-use-push-notifications-in-angular-2cll</id>
+        <link href="https://dev.to/ajayupreti/how-to-use-push-notifications-in-angular-2cll"/>
+        <updated>2021-07-31T12:23:09.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we are going to go through a complete example of how to implement Web Push Notifications in an Angular Application using the Angular Service Worker.
+Note that these are the exact same native notifications that we receive for example on our mobile phones home screen or desktop, but they are triggered via a web application instead of a native app.
+These notifications can even be displayed to the user if all application tabs are closed, thanks to Service Workers! When well used, Push notifications are a great way of having our users re-engage with our application.
+This is a step-by-step tutorial, so I invite you to code along as we implement Push Notifications in an existing application.
+We will also learn along the way how Push Notifications work in general, as we follow and ex…]]></summary>
+        <author>
+            <name>ajay upreti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11に必須な「TPM」で保護されたPCから情報を盗み出す手口をセキュリティ企業が解説 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210731-stolen-laptop-inside-company-network/</id>
+        <link href="https://gigazine.net/news/20210731-stolen-laptop-inside-company-network/"/>
+        <updated>2021-07-31T12:03:41.000Z</updated>
+        <summary type="html"><![CDATA[2021年後半にリリースが予定されているWindows 11の動作には、「トラステッド・プラットフォーム・モジュール(TPM)」というセキュリティチップが必須とされています。しかし、このTPMによって保護されたPCでさえも情報が盗み取られる危険性があるとセキュリティ企業のDolos Groupが解説しています。 From Stolen Laptop ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Movement in Netflix Studio via Data Mesh | by Netflix Technology Blog | Jul, 2021 | Netflix TechBlog]]></title>
+        <id>https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059</id>
+        <link href="https://netflixtechblog.com/data-movement-in-netflix-studio-via-data-mesh-3fddcceb1059"/>
+        <updated>2021-07-31T11:16:03.000Z</updated>
+        <summary type="html"><![CDATA[By Andrew Nguonly, Armando Magalhães, Obi-Ike Nwoke, Shervin Afshar, Sreyashi Das, Tongliang Liu, Wei Liu, Yucheng Zeng BackgroundOver the next few years, most content on Netflix will come from Netflix’s own Studio. From the moment a Netflix film or series is pitched and long before it becomes av...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2017年に大ブーム起きたMastodon、公式iOSアプリが登場 - iPhone Mania]]></title>
+        <id>https://iphone-mania.jp/news-386247/</id>
+        <link href="https://iphone-mania.jp/news-386247/"/>
+        <updated>2021-07-31T11:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Twitterに取って代わる分散型SNSとして、一時期大きな話題を集めた「Mastodon」のiOS向け公式アプリが登場しました。 2017年頃に大ブームに 企業がプラットフォームを中央集権的に統括する一般的なSNSとは異なり、非営利団体が運営するMastodonは、独立して運営されるコミュニティ（インスタンス）を中心に構築されてお...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「定時ダッシュ」「仕事の丸投げ」──ピクトグラムがTwitterに続々　五輪開会式の“演技”に触発：東京五輪とネット（1/2 ページ） - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/31/news023.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/31/news023.html"/>
+        <updated>2021-07-31T08:25:29.000Z</updated>
+        <summary type="html"><![CDATA[「定時ダッシュ」「仕事の丸投げ」──ピクトグラムがTwitterに続々　五輪開会式の“演技”に触発：東京五輪とネット（1/2 ページ） 7月23日に東京オリンピック（東京五輪）の開会式以降、ドローンとともに、簡単な絵で情報を表す「ピクトグラム」がネット上で注目を集めている。開会式でのパントマイムパフォーマンスが反響...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CORSの仕様はなぜ複雑なのか]]></title>
+        <id>https://zenn.dev/qnighy/articles/6ff23c47018380</id>
+        <link href="https://zenn.dev/qnighy/articles/6ff23c47018380"/>
+        <updated>2021-07-31T08:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Webアプリケーションを実装していると高確率で CORS の問題にぶつかります。CORSがどのようなものかはリンクしたMDNなど既存の解説を読むのが手っ取り早いと思いますが、「なぜそのように設計されたのか」という観点での説明はあまり見ないため、昔の資料の記述や現在の仕様からの推測をもとに整理してみました。 CORSと...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Angular Interview Questions Beginners to Advanced]]></title>
+        <id>https://dev.to/priteshbhoi/2021-angular-interview-questions-beginners-to-advanced-1m2m</id>
+        <link href="https://dev.to/priteshbhoi/2021-angular-interview-questions-beginners-to-advanced-1m2m"/>
+        <updated>2021-07-31T07:25:41.000Z</updated>
+        <summary type="html"><![CDATA[top new and frequently asked in 2021
+
+
+Q1. Differentiate between Angular and AngularJS
+Q2. What is Angular?
+Q3. What are the advantages of using Angular?
+Q4. What is Angular mainly used for?
+Q5. What are Angular expressions?
+Q6. What are templates in Angular?
+Q7. In Angular what is string interpolation?
+Q8. What is the difference between an Annotation and a Decorator in Angular?
+Q9. What do you understand by controllers in Angular?
+Q10. What is scope in Angular?]]></summary>
+        <author>
+            <name>Pritesh Bhoi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1 MacBook、普通に使っていたのに画面が割れたとの複数報告 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/m1-macbook-screen-cracks-normal-usage-030549042.html</id>
+        <link href="https://japanese.engadget.com/m1-macbook-screen-cracks-normal-usage-030549042.html"/>
+        <updated>2021-07-31T04:02:11.000Z</updated>
+        <summary type="html"><![CDATA[M1チップ搭載MacBook AirとMacBook Proの両方で、普通に使っているだけで画面にヒビが入ったとの報告が複数届けられています。 米9to5Macによれば、それら画面割れの一部はアップルが無償で修理・交換した場合があるものの、ほとんどは保証の対象にならず修理代が請求されたとのことです。 たとえば9to5Macの読者Ian Pro...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LHR版がGeForce RTX 3000カードの価格を押し下げる：古田雄介の週末アキバ速報（1/2 ページ） - ITmedia PC USER]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2107/31/news031.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2107/31/news031.html"/>
+        <updated>2021-07-31T03:46:08.000Z</updated>
+        <summary type="html"><![CDATA[1カ月近く続くLHRタイプのRTX 3000シリーズ新製品ラッシュだが、LHR版を機に仕入れ値ベースで価格がはっきり下がっているという。グラフィックスカードの現状を探った。 GeForce RTX 3000シリーズのLHR（Lite Hash Rate）版ラッシュは今週も続いているが、LHR版の登場を機に、はっきりと価格が下がっているとの話を複数...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby · Sorbet]]></title>
+        <id>https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler</id>
+        <link href="https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler"/>
+        <updated>2021-07-31T03:23:34.000Z</updated>
+        <summary type="html"><![CDATA[For the past year, the Sorbet team has been working on an experimental, ahead-of-time compiler for Ruby, powered by Sorbet and LLVM. Today we’re sharing the source code for it. It lives alongside the existing code for Sorbet on GitHub, mostly in the compiler/ folder: → https://github.com/sorbet/s...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分の姿勢を“五輪風ピクトグラム”に　エンジニアが個人開発、GitHubでソースコード公開：東京五輪とネット（1/2 ページ） - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/31/news026.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/31/news026.html"/>
+        <updated>2021-07-31T02:37:00.000Z</updated>
+        <summary type="html"><![CDATA[自分の姿勢を“五輪風ピクトグラム”に　エンジニアが個人開発、GitHubでソースコード公開：東京五輪とネット（1/2 ページ） 自分の動きや姿勢を、カメラを通して“五輪風ピクトグラム”にするソフトに注目が集まっている。作者はソースコード共有サイト「GitHub」にコードを公開している。 プロのパントマイマーによる“ピク...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introduction to heredocs in Dockerfiles - Docker Blog]]></title>
+        <id>https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/</id>
+        <link href="https://www.docker.com/blog/introduction-to-heredocs-in-dockerfiles/"/>
+        <updated>2021-07-31T01:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Guest post by Docker Community Member Justin Chadell. This post originally appeared here. As of a couple weeks ago, Docker’s BuildKit tool for building Dockerfiles now supports heredoc syntax! With these new improvements, we can do all sorts of things that were difficult before, like multiline RU...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[70万行以上のコードを20年かけて1人でコツコツ開発してきたゲームプログラマーへのインタビュー - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210731-dwarf-fortress-developer/</id>
+        <link href="https://gigazine.net/news/20210731-dwarf-fortress-developer/"/>
+        <updated>2021-07-31T00:17:31.000Z</updated>
+        <summary type="html"><![CDATA[7人のドワーフを操作して広大な世界を開拓し、歴史や神話を含めたさまざまな文明を築いていく無料のシミュレーションゲームが「Dwarf Fortress」です。コンピュータープログラミングに関するナレッジコミュニティ・Stack Overflowの公式ブログに、2002年から20年近くにわたってDwarf Fortressの開発を続けるターン・アダ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Desktop on Mac の遅さはしばらくは改善しなさそうです。]]></title>
+        <id>https://zenn.dev/tyamahori/articles/61a25b58a35ac5</id>
+        <link href="https://zenn.dev/tyamahori/articles/61a25b58a35ac5"/>
+        <updated>2021-07-30T20:42:28.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。tyamahoriです。 突然ですが、Dockerはお好きですか？僕は大好きです。 Docker Desktop on Mac を利用して、Mac上にDocker環境を構築して開発しています。 残念なお知らせ ここで突然ですが、残念なお知らせがあります。 Docker Destop on Mac の遅さはしばらくは改善されなさそうです。 ソースは？ ご安心...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Shared ESLint Configuration]]></title>
         <id>https://css-tricks.com/?p=345628</id>
@@ -91,6 +343,36 @@ Part 1 of this tutorial: https://dev.to/amazonivs/build-an-angul…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tsultra on Twitter: "回帰問題をNNで解くときはドロップアウトとBatchNormは使わないほうがいいって話、あまり知られてない気がする Pitfalls with Dropout and BatchNorm in regression proble… https://t.co/4ra2zVPStC"]]></title>
+        <id>https://twitter.com/Tsultra_K/status/1421057421527506944</id>
+        <link href="https://twitter.com/Tsultra_K/status/1421057421527506944"/>
+        <updated>2021-07-30T14:19:27.000Z</updated>
+        <summary type="html"><![CDATA[回帰問題をNNで解くときはドロップアウトとBatchNormは使わないほうがいいって話、あまり知られてない気がする Pitfalls with Dropout and BatchNorm in regression proble… https://t.co/4ra2zVPStC]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zucksにおけるフルサイクル開発者の文化 / Developers Summit 2021 Summer - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/hminamiohtsu/developers-summit-2021-summer</id>
+        <link href="https://speakerdeck.com/hminamiohtsu/developers-summit-2021-summer"/>
+        <updated>2021-07-30T13:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Transcript Zucksにおける フルサイクル開発者の文化 Developers Summit 2021 Summer 2021/07/30 VOYAGE GROUP(CARTA HOLDINGS) / Zucks 南大津　寛 自己紹介 2 南大津 寛 Hiroshi Minamiohtsu • 株式会社Zucks アドプロダクト事業本部 エンジニア • Zucks Ad Networkの開発、運用 • VOYAGE GROUP (CARTA HOLDINGS) 会社...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ラズパイ内蔵のキーボード「Raspberry Pi 400」の日本版が販売開始　スターターキットはすでに売り切れ - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/30/news176.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/30/news176.html"/>
+        <updated>2021-07-30T13:02:05.000Z</updated>
+        <summary type="html"><![CDATA[ケイエスワイが「Raspberry Pi 400 日本版」の販売を始めた。日本語配列のキーボードにRaspberry Piを内蔵マウスや電源アダプターなどが付属するスターターキットも取り扱っている。 Raspberry Pi正規代理店であるケイエスワイ（東京都台東区）は7月29日、「Raspberry Pi 400 日本版」の販売を始めた。単品の価格は9790...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[トポロジカル量子コンピュータを実現する「非可換エニオン」粒子の性質が解明 - PC Watch]]></title>
         <id>https://pc.watch.impress.co.jp/docs/news/1341342.html</id>
         <link href="https://pc.watch.impress.co.jp/docs/news/1341342.html"/>
@@ -116,6 +398,16 @@ Part 1 of this tutorial: https://dev.to/amazonivs/build-an-angul…]]></summary>
         <link href="https://gigazine.net/news/20210730-triton/"/>
         <updated>2021-07-30T12:16:02.000Z</updated>
         <summary type="html"><![CDATA[NVIDIAが開発・提供するGPU向けの汎用並列コンピューティングプラットフォームである「CUDA」を超える生産性と高速コード記述が可能になるようなオープンソースのニューラルネットワーク向けプログラミング言語「Triton」が公開されました。非常に効率的なカスタムディープラーニングプリミティブを作成するための言語コ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyPIにおける潜在的な任意コード実行 - RyotaK's Blog]]></title>
+        <id>https://blog.ryotak.me/post/pypi-potential-remote-code-execution/</id>
+        <link href="https://blog.ryotak.me/post/pypi-potential-remote-code-execution/"/>
+        <updated>2021-07-30T12:15:56.000Z</updated>
+        <summary type="html"><![CDATA[はじめに(English version is also available.) PyPIは、セキュリティページ自体は公開しているものの、脆弱性診断行為に対する明確なポリシーを設けていません。1 本記事は、公開されている情報を元に脆弱性の存在を推測し、実際に検証することなく潜在的な脆弱性として報告した問題に関して説明したものであり、無許可...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -161,11 +453,41 @@ Part 1 of this tutorial: https://dev.to/amazonivs/build-an-angul…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GaudiyがAutifyを導入して手戻りコストを削減した話 - Gaudiy Tech Blog]]></title>
+        <id>https://techblog.gaudiy.com/entry/2021/07/30/171115</id>
+        <link href="https://techblog.gaudiy.com/entry/2021/07/30/171115"/>
+        <updated>2021-07-30T11:27:15.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！エンタメ領域のDXを推進するブロックチェーンスタートアップ、Gaudiyで社員代表（笑）をしている西岡（@TakeshiNishioka）です。 今回はスタートアップ企業の社員代表がどのような役割を担っているかを、この場を借りて紹介させていただきたいと思っています。 …というのは冗談で、今回は主に業務で携わって...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「ドラえもんの世界みたい」――選手村を走る自動運転バスが国内外で話題に　運転しない乗務員の役割は？：東京五輪とネット（1/2 ページ） - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2107/30/news166.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2107/30/news166.html"/>
         <updated>2021-07-30T11:01:10.000Z</updated>
         <summary type="html"><![CDATA[「ドラえもんの世界みたい」――選手村を走る自動運転バスが国内外で話題に　運転しない乗務員の役割は？：東京五輪とネット（1/2 ページ） 五輪選手村を走る自動運転バスを撮影した動画を選手がSNSに投稿し、「2050年の日本に住んでいるのか？」「ドラえもんの世界みたい」などと国内外で話題に。バスはトヨタが開発した2...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google マップとGoogle 検索、ワクチン接種会場の表示に対応 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/30/news157.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/30/news157.html"/>
+        <updated>2021-07-30T10:02:45.000Z</updated>
+        <summary type="html"><![CDATA[防衛省が開設中の大規模接種センターや、厚生労働省のワクチン接種に関する情報サイト「コロナワクチンナビ」に掲載されている3万件以上の医療機関の情報を基に、近隣の接種会場を表示する。一般向けかどうか、接種予約が必要か、などの情報も併せて表示する。 関連記事 コロナワクチン接種、自治体の8割が11月までに完...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コンテナ」「Kubernetes」はコスト削減のためではない――ガートナーが語る“誤解と真実”：最も重要なのは「組織変革」（1/2 ページ） - ＠IT]]></title>
+        <id>https://www.atmarkit.co.jp/ait/articles/2107/30/news032.html</id>
+        <link href="https://www.atmarkit.co.jp/ait/articles/2107/30/news032.html"/>
+        <updated>2021-07-30T09:22:20.000Z</updated>
+        <summary type="html"><![CDATA[「コンテナ」「Kubernetes」はコスト削減のためではない――ガートナーが語る“誤解と真実”：最も重要なのは「組織変革」（1/2 ページ） 2021年6月21〜22日にガートナーが開催した「アプリケーション・イノベーション＆ビジネス・ソリューション サミット」で、ガートナー ジャパンの桂島 航氏が「コンテナとKubernetesをIT...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -313,11 +635,41 @@ Background photo created by whatwolf - www.freepik.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lean AI 開発論: コードを書く前に機械学習プロジェクトを評価する方法｜Anno Takahiro｜note]]></title>
+        <id>https://note.com/takahiroanno/n/ncb7d77bfd9f1</id>
+        <link href="https://note.com/takahiroanno/n/ncb7d77bfd9f1"/>
+        <updated>2021-07-30T05:58:58.000Z</updated>
+        <summary type="html"><![CDATA[10年前に提唱された「リーンスタートアップ」と呼ばれる事業立ち上げの手法がある。リーン（＝無駄がない）であること、仮説検証の速度を最大化する（=学びの量に最適化する）ことを重要視する考え方だ。フィードバックサイクルを早め、コストをなるべくかけず、必要最低限の要素にフォーカスし、素早くスタートアップを...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特別企画：カールツァイス入門・第一章「設立175周年、カールツァイスの成り立ちと思想」 - デジカメ Watch]]></title>
+        <id>https://dc.watch.impress.co.jp/docs/review/special/1340536.html</id>
+        <link href="https://dc.watch.impress.co.jp/docs/review/special/1340536.html"/>
+        <updated>2021-07-30T05:37:17.000Z</updated>
+        <summary type="html"><![CDATA[カールツァイスといえば、カメラ用レンズに限らず双眼鏡、顕微鏡、医療機器、三次元測定機、半導体製造装置、眼鏡レンズ、プラネタリウムなど、今さら語るべくもないほど有名なドイツのブランドである。2021年は、そんなカールツァイスの設立から175年、日本との関係が始まって110年、写真用レンズ「プラナー」誕生から125年と周年づくし。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DXの本質と、「開発しないエンジニア」のキャリアパス / What is Product Specialist? - Speaker Deck]]></title>
         <id>https://speakerdeck.com/jumtech/what-is-product-specialist</id>
         <link href="https://speakerdeck.com/jumtech/what-is-product-specialist"/>
         <updated>2021-07-30T05:06:39.000Z</updated>
         <summary type="html"><![CDATA[Transcript 1 DXͷຊ࣭ͱɺ ʮ։ൃ͠ͳ͍ΤϯδχΞʯͷΩϟϦΞύε ɹɹʛɹɹ© PLAID Inc. 2021.07.30ɹɹʛɹɹDevelopers Summit 2021 Summerɹɹʛɹ ຊ೔ͷςʔϚ 2 2021.07.30ɹɹʛɹɹDevelopers Summit 2021 Summerɹɹʛɹ ɹɹʛɹɹ© PLAID Inc. DXͷຊ࣭ͱɺ ʮ։ൃ͠ͳ͍ΤϯδχΞʯ ͷΩϟϦΞύε ͜ͷൃදʹ͍ͭͯ DXͱ͸ʁ IaaSͱDevOp s SaaSͱxOp s Product Specialistͱ͸ʁ ࿩͢͜ͱ 3 2021.07.30ɹɹʛɹɹDevelopers Summit...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SREメンバーの半数が地方勤務な話 - Kyash Product Blog]]></title>
+        <id>https://blog.kyash.co/entry/2021/07/30/100000</id>
+        <link href="https://blog.kyash.co/entry/2021/07/30/100000"/>
+        <updated>2021-07-30T05:04:38.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。 KyashでSREを担当する、福岡県在住の@hikarunです。 2021年2月よりKyashに入社し、フルリモートで日々業務に邁進しております。 他の社員が技術的な話をたくさん書いているので、私の方からは弊社のリモート勤務体制やSREチームのリモート勤務の小噺をさせていただければと思います。 昨今の情勢...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -388,6 +740,16 @@ Sunny also raised his first pr on the project. Thank you sunny.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Visual Studio CodeへのJavaScriptデバッガ統合でブラウザでのデバッグが容易に：CodeZine（コードジン）]]></title>
+        <id>https://codezine.jp/article/detail/14617</id>
+        <link href="https://codezine.jp/article/detail/14617"/>
+        <updated>2021-07-30T03:51:26.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは、最新のVisual Studio CodeにてJavaScriptデバッガが組み込まれ、ブラウザで容易にデバッグができるようになったことを、7月16日（現地時間）付の公式ブログ投稿にて紹介している。 Visual Studio CodeにJavaScriptデバッガが組み込まれたことで、従来Visual Studio CodeでのJavaScriptデバッグで用いられ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[情報発信すると新しいことにつながってワクワクする。からあげさんがブログを書き続ける理由【エンジニアのブログ探訪】 - 週刊はてなブログ]]></title>
         <id>https://blog.hatenablog.com/entry/2021/07/30/120000</id>
         <link href="https://blog.hatenablog.com/entry/2021/07/30/120000"/>
@@ -403,6 +765,16 @@ Sunny also raised his first pr on the project. Thank you sunny.]]></summary>
         <link href="https://www.clear-code.com/press-releases/20210729-maintaining-fluentd.html"/>
         <updated>2021-07-30T02:23:26.000Z</updated>
         <summary type="html"><![CDATA[株式会社クリアコード（本社：埼玉県所沢市、代表取締役：須藤功平）は、株式会社クリアコード（本社：埼玉県所沢市、以下クリアコード）は本日、オープンソースソフトウェア『Fluentd』プロジェクトの開発・メンテナンスにおいて、トレジャーデータ株式会社（本社：東京都千代田区、以下トレジャーデータ社）が担当して...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda でのカスタムチェックポイントによるバッチ処理の最適化 | Amazon Web Services ブログ]]></title>
+        <id>https://aws.amazon.com/jp/blogs/news/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/optimizing-batch-processing-with-custom-checkpoints-in-aws-lambda/"/>
+        <updated>2021-07-30T01:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services ブログ AWS Lambda でのカスタムチェックポイントによるバッチ処理の最適化 AWS Lambdaは、Amazon Kinesis Data StreamsやAmazon DynamoDB Streamsなどのソースから取得した複数メッセージをバッチ処理できます。通常の操作では、処理を行う関数は1つのバッチから次のバッチに移動して、ストリーム...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -428,6 +800,16 @@ Sunny also raised his first pr on the project. Thank you sunny.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[プログラマー以外にもおすすめ　「Visual Studio Code」のインストールから基本設定まで：Tech TIPS（1/2 ページ） - ＠IT]]></title>
+        <id>https://www.atmarkit.co.jp/ait/articles/2107/30/news025.html</id>
+        <link href="https://www.atmarkit.co.jp/ait/articles/2107/30/news025.html"/>
+        <updated>2021-07-30T00:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Visual Studio Codeはプログラマーでなくても便利なエディタ Visual Studio Code（VS Code）は、主にプログラマー向けのコードエディタとして提供されているが、エンドユーザーや管理者でも高機能なテキストエディタとして活用できる。最近では、JSON形式やXML形式の設定ファイルの編集が必要なツールもあるので、VS Cod...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HTMLとCSSの実務レベルの作業フローや思考プロセスがていねいに解説された、Web制作に真剣に取り組みたい人にお勧めの本 -教科書では教えてくれないHTML＆CSS]]></title>
         <id>https://coliss.com/?p=30392</id>
         <link href="https://coliss.com/articles/book-review/isbn-9784297121938.html"/>
@@ -435,6 +817,16 @@ Sunny also raised his first pr on the project. Thank you sunny.]]></summary>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recoil 0.4 | Recoil]]></title>
+        <id>https://recoiljs.org/blog/2021/07/30/0.4.0-release/</id>
+        <link href="https://recoiljs.org/blog/2021/07/30/0.4.0-release/"/>
+        <updated>2021-07-30T00:04:19.000Z</updated>
+        <summary type="html"><![CDATA[We are pleased to announce the release of Recoil 0.4 with configurable selector caches, improved API for transactions with multiple atoms, and other optimizations and fixes. Configurable selector caches#The new cachePolicy_UNSTABLE property in selectors and selector families allows you to configu...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -2069,6 +2461,16 @@ Imagine you have built a webapp for a library, and a user is browsing a list of 
 With deep linking the information of the selected book is part of the url and can easily be shared between users. The same thing can be done with any parameter that affects the current view in your Angular application. (e.g. additionally with a searc…]]></summary>
         <author>
             <name>Julian Dierkes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - yuru7/PlemolJP: IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)]]></title>
+        <id>https://github.com/yuru7/PlemolJP</id>
+        <link href="https://github.com/yuru7/PlemolJP"/>
+        <updated>2021-07-25T14:20:37.000Z</updated>
+        <summary type="html"><![CDATA[IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -4316,6 +4718,16 @@ Roadmap
 Current set of blocks are just the beginning, our goal is to provide over 400 blocks by the end of 2022. Always bet on Prime!]]></summary>
         <author>
             <name>PrimeTek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Composeの環境変数ではなくsecretsで秘密情報を扱う - Qiita]]></title>
+        <id>https://qiita.com/myabu/items/89797cddfa7225ff2b5d</id>
+        <link href="https://qiita.com/myabu/items/89797cddfa7225ff2b5d"/>
+        <updated>2021-07-19T13:13:54.000Z</updated>
+        <summary type="html"><![CDATA[しかし、Dockerのドキュメントhttps://docs.docker.com/get-started/07_multi_container/ には While using env vars to set connection settings is generally ok for development, it is HIGHLY DISCOURAGED when running applications in production. Diogo Monica, the former lead of security at Docker, wrote a ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
