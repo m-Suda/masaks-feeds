@@ -2,10 +2,315 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-01T00:17:17.258Z</updated>
+    <updated>2021-08-02T00:15:29.897Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スマートロックが解除できず遂に締めだしにあってしまった話 - ケータイ Watch]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1340971.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/1340971.html"/>
+        <updated>2021-08-01T22:55:00.000Z</updated>
+        <summary type="html"><![CDATA[1度使い始めると手放せない玄関ドアのスマートロック。筆者宅でも昨秋、ずっと気になっていた「Qrio Lock」を設置し便利に利用しています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorpのミッチェル・ハシモト氏がCTOを退任、今後はフルタイムの開発者として貢献していくと発表 － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/hashicorpcto.html</id>
+        <link href="https://www.publickey1.jp/blog/21/hashicorpcto.html"/>
+        <updated>2021-08-01T21:11:35.000Z</updated>
+        <summary type="html"><![CDATA[HashiCorpのミッチェル・ハシモト氏がCTOを退任、今後はフルタイムの開発者として貢献していくと発表 HashiCorpの創業者の一人として知られるミッチェル・ハシモト氏は、同社のCTOおよび経営陣からの退任を発表。HashiCorpには残り、社員の立場でフルタイム開発者として貢献していくとのことです。 I've decided to beco...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【VOICEVOX】ディープラーニングの力でテキスト読み上げソフトウェアを作ってみた]]></title>
+        <id>https://www.nicovideo.jp/watch/sm39116000</id>
+        <link href="https://www.nicovideo.jp/watch/sm39116000"/>
+        <updated>2021-08-01T12:05:33.000Z</updated>
+        <summary type="html"><![CDATA[VOICEVOXというテキスト読み上げソフトウェアを作りました。特徴は次の３つです。1. そこそこ品質が良い2. 無料で使える3. イントネーションの細かい調整ができるぜひ使ってみてください！----------------------------------------・VOICEVOXホームページ（ダウンロードもこちら）https://voicevox.hiroshiba.jp/・VOIC...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNN.co.jp : マスク氏がテスラの売却提案、アップルＣＥＯ就任条件に　新著で明らかに]]></title>
+        <id>https://www.cnn.co.jp/business/35174638.html</id>
+        <link href="https://www.cnn.co.jp/business/35174638.html"/>
+        <updated>2021-08-01T11:57:46.000Z</updated>
+        <summary type="html"><![CDATA[電気自動車（ＥＶ）メーカー、テスラの創業者イーロン・マスク氏（右）とアップルのティム・クック最高経営責任者（ＣＥＯ）/Justin Sullivan/Michael Kovac/Getty Images ニューヨーク（ＣＮＮ Ｂｕｓｉｎｅｓｓ） 米電気自動車（ＥＶ）メーカー、テスラの創業者であるイーロン・マスク氏が５年前、米アップルのティム...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M1 Mac ってなに？ ぼくにも使える？]]></title>
+        <id>https://zenn.dev/suzuki_hoge/books/2021-07-m1-mac-4ede8ceb81e13aef10cf</id>
+        <link href="https://zenn.dev/suzuki_hoge/books/2021-07-m1-mac-4ede8ceb81e13aef10cf"/>
+        <updated>2021-08-01T11:19:17.000Z</updated>
+        <summary type="html"><![CDATA[「x86 か x64 か選べって言われてもな...?? でかい方が強いのかい？」 「amd64 と arm64 の違い...?? 使ってる文字はだいたい一緒だね！」 くらいの知識の人が「強そうとか字面が似てるとかで判断するのはまずいかもしれない。ここはひとつ M1 Mac をいじりながらこんぴゅーたぁの勉強をしよう。」と思い調べたことをま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linuxディストリビューション「Debian」をスマートフォン上で実行する「Mobian」 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210801-mobian/</id>
+        <link href="https://gigazine.net/news/20210801-mobian/"/>
+        <updated>2021-08-01T09:59:53.000Z</updated>
+        <summary type="html"><![CDATA[LinuxディストリビューションのDebianと、スマートフォン向けのグラフィカルシェルを開発するプロジェクト「Phone Shell(phosh)」を統合し、Pinephoneなどスマートフォンで動作するDebianパッケージを作ることを目的としたプロジェクトが「Mobian」です。 Mobian https://mobian-project.org/ The road to the Mobian Co...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【8月1日時点】iPhone13シリーズに関する噂とリーク情報まとめ〜量産開始か - iPhone Mania]]></title>
+        <id>https://iphone-mania.jp/news-386361/</id>
+        <link href="https://iphone-mania.jp/news-386361/"/>
+        <updated>2021-08-01T08:29:44.000Z</updated>
+        <summary type="html"><![CDATA[「iPhone13シリーズ」（iPhone12sおよびiPhone12Sとの噂もあり）に関する、2021年8月1日午前13時30分時点での、リーク情報や噂に基づく予想スペックは下記の通りです。 iPhone13リーク情報まとめ　2021年8月1日午前13時30分時点 iPhone13シリーズ用バッテリーは、日産とEV用バッテリーを研究開発中のサプライヤーが供給...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular Tooling - How to equip before starting a project]]></title>
+        <id>https://dev.to/mirkorap/angular-tooling-how-to-equip-before-starting-a-project-1nj8</id>
+        <link href="https://dev.to/mirkorap/angular-tooling-how-to-equip-before-starting-a-project-1nj8"/>
+        <updated>2021-08-01T07:49:34.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks have passed since the last article on "How to get the most out of Angular configuration" and we were left with a promise: explore together the tools with which to "equip" before tackling an Angular project.
+
+Finally, as well as React and Vue, Angular also has its official DevTools, which installs as a simple Chrome extension and provides debugging and profiling capabilities for Angular applications. Once installed, the extension will appear in the "Developer Tools" and will consist of two tabs:
+Components: allows you to view the structure of the components that make up the page and edit the status of the components.
+Profiler: allows you to profile the application and understand the performance bottlenecks in the change detection phase.
+
+
+
+
+
+  
+  
+  Links
+
+
+
+Angular DevTools Chr…]]></summary>
+        <author>
+            <name>Mirko Rapisarda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple WatchをG-SHOCK風にカスタムする方法を聞いた！ | スマートウォッチライフ]]></title>
+        <id>https://www.smartwatchlife.jp/24495/</id>
+        <link href="https://www.smartwatchlife.jp/24495/"/>
+        <updated>2021-08-01T07:31:32.000Z</updated>
+        <summary type="html"><![CDATA[【あわせて読みたい】 本物のG-SHOCKのスマートウォッチもカッコいい！現行主要モデル＆セール品の紹介記事はコチラ！ 一体どうカスタムしているのかご本人に聞きました！ どうでしょう？どの写真のApple Watchも本当にカッコいいし、「ホントにこれApple Watchなの？」というくらい見た目も雰囲気も大きく変わっていま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angularでunix timeを取得する]]></title>
+        <id>https://zenn.dev/hashito/articles/f23af092957bf5</id>
+        <link href="https://zenn.dev/hashito/articles/f23af092957bf5"/>
+        <updated>2021-08-01T07:07:16.000Z</updated>
+        <summary type="html"><![CDATA[momentjsを利用したやり方
+コマンドでmomenjsをプロジェクトにインストールする。
+npm install moment --save
+importして下記のように利用できる。
+
+      
+        
+        import * as moment from 'moment';
+let unixtime:number=moment().unix();
+
+
+      
+      
+ Dateを利用したやり方
+Date.now()というコードでunix timeのミリ秒版が取得できる。
+なのでDate.now()/1000で単位を秒にすれば小数点付きだがun...]]></summary>
+        <author>
+            <name>hashito</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppleのiPadはタブレット市場で30％超のシェアを獲得していることが明らかに - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210801-apple-dominance-tablet-market/</id>
+        <link href="https://gigazine.net/news/20210801-apple-dominance-tablet-market/"/>
+        <updated>2021-08-01T06:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Appleは2021年7月28日に2021年第3四半期の業績を報告しており、この中で同社のティム・クックCEOが「iPadにとって2021年の第3四半期は過去10年で最も成功した四半期となりました」と語ったように、iPadの売上は好調を維持しています。そんなiPadの出荷台数に関するデータを調査企業のIDCが公開しており、タブレット市場...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップル、反ワクチン主義者の出会い系アプリ「Unjected」を削除。誤情報を拡散のため - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/apple-pulls-anti-vaxx-social-app-unjected-044503014.html</id>
+        <link href="https://japanese.engadget.com/apple-pulls-anti-vaxx-social-app-unjected-044503014.html"/>
+        <updated>2021-08-01T06:09:28.000Z</updated>
+        <summary type="html"><![CDATA[アップルは新型コロナや誤報に関するガイドラインに違反したとして、反ワクチン主義者の出会い系アプリ「Unjected」をApp Storeから削除しました。このアプリは「医療の自主性と言論の自由を支持する、志を同じくする人々」のための場所と自称しており、記事執筆時点ではAndroid版は今なおGoogle Playで公開されています...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初の病理解剖から分かった事｜荒川央 (あらかわ ひろし)｜note]]></title>
+        <id>https://note.com/hiroshi_arakawa/n/na8399fa5fe4c</id>
+        <link href="https://note.com/hiroshi_arakawa/n/na8399fa5fe4c"/>
+        <updated>2021-08-01T05:37:47.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[転職します（Cookpad → Ubie） - ある研究者の手記]]></title>
+        <id>https://mztn.hatenablog.com/entry/cookpad-to-ubie</id>
+        <link href="https://mztn.hatenablog.com/entry/cookpad-to-ubie"/>
+        <updated>2021-08-01T05:09:47.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/m-mizutani/m-mizutani/commit/067a421f3e3e8405cba870bb461446c545128a2e 2021年7月30日を最終出社日として現職のCookpadを退職し、9月からUbieという医療系のスタートアップに入社します。 Cookpadでのこれまで 2017年11月に入社したので、在籍期間は4年弱でした。この間、組織変更に伴う部署異動...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECS(Fargate)でDBマイグレーションを行う - やんばるテック]]></title>
+        <id>https://blog.shonansurvivors.com/entry/ecs-db-migration</id>
+        <link href="https://blog.shonansurvivors.com/entry/ecs-db-migration"/>
+        <updated>2021-08-01T04:57:16.000Z</updated>
+        <summary type="html"><![CDATA[はじめに この記事ではECS(Fargate)のCDパイプラインに、DBマイグレーション処理を組み込む一例を解説します。 ECS(Fargate)へのデプロイは、ecspressoを使用します。 また、題材はLaravel、CIツールとしてはGitHub Actionsを使いますが、他のフレームワークや、CIツールでも考え方は応用できるかと思います。 目次 はじ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10のライセンス認証、その仕組みと実行方法を解説 | マイナビニュース]]></title>
+        <id>https://news.mynavi.jp/article/20210801-1935807/</id>
+        <link href="https://news.mynavi.jp/article/20210801-1935807/"/>
+        <updated>2021-08-01T04:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Windows 10の「ライセンス認証」とは Windows 10の「ライセンス認証」は、使用中のWindows 10が正規品であり、ライセンス条項で許可されているデバイス数を超えて使われていないことを確認するための手続きです。Windows 10のライセンス認証方式には、プロダクトキーとデジタルライセンスの2種類があります。どちらもMic...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1998/03/04]]></title>
+        <id>http://web.archive.org/web/19990423164439/http://www.best.com/~yoshioka/d/98/i980304.html</id>
+        <link href="http://web.archive.org/web/19990423164439/http://www.best.com/~yoshioka/d/98/i980304.html"/>
+        <updated>2021-08-01T03:31:58.000Z</updated>
+        <summary type="html"><![CDATA[ソフトウェアのレビュー 先日はバグを見つける事について話した． 今日もちょっと関連してソースコードのレビューについての話だ． プログラマであるわたしはプログラムを作る．それと同時にバグも作る．一番いいのはバグを作らない事だが，残念ながらだれしもバグは作る．どのようにしてバグを作り込むかを分析すればひ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetesベースの開発で面倒なDevOps部分をPaaSとして引き受けるPorter | TechCrunch Japan]]></title>
+        <id>https://jp.techcrunch.com/2021/08/01/2021-07-30-platform-as-a-service-startup-porter-aims-to-become-go-to-platform-for-deploying-managing-cloud-based-apps/</id>
+        <link href="https://jp.techcrunch.com/2021/08/01/2021-07-30-platform-as-a-service-startup-porter-aims-to-become-go-to-platform-for-deploying-managing-cloud-based-apps/"/>
+        <updated>2021-08-01T03:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Porter共同創業者アレクサンダー・ベレンジャー氏、トレバー・シム氏、およびジャスティン・リー氏（画像クレジット：Porter Porterの共同創業者であるTrevor Shim（トレバー・シム）氏とAlexander Belanger（アレクサンダー・ベレンジャー）氏とJustin Rhee（ジャスティン・リー）氏がDevOpsに関する企業を作ろうと決心...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII.jp：Windows 10が起動しない場合の最終手段「Windows RE」の基本 (1/2)]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064454/</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064454/"/>
+        <updated>2021-08-01T02:19:05.000Z</updated>
+        <summary type="html"><![CDATA[Windowsが起動しない場合などに用いる回復環境、「Windows RE」はシステムの修復専用のWindowsだ。Windowsをベースに、基本的なコマンド（GUIを含む）だけが実行できるようになっている。これについては、Windows 10が登場したての頃、本連載で扱った。 ●Windows 10のリカバリ用に用いられる簡易版Windows「Windows RE」...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニア採用のボトルネック／エンジニア採用担当・ジンジニア・EM・VPoEの会社選び｜久松剛／IT百物語の蒐集家｜note]]></title>
+        <id>https://note.com/makaibito/n/nbd465c1d9f93</id>
+        <link href="https://note.com/makaibito/n/nbd465c1d9f93"/>
+        <updated>2021-08-01T02:14:35.000Z</updated>
+        <summary type="html"><![CDATA[ありがたいことに転職相談を頂くことが増えて来ました。私としましても皆さんのリアルな悩みは学びが多いです。 中でもエンジニア採用に関わる職種については私自身が通った（結果的には選ばなかった）道でもありますので質問ポイントをお伝えしています。普段はご相談頂いた皆さんの境遇や方向性を見ながら出し分けてい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商用でも利用可能なAI音声合成ソフトウェア『VOICEVOX』がオープンソースとして無料でリリース |DTMステーション]]></title>
+        <id>https://www.dtmstation.com/archives/41014.html</id>
+        <link href="https://www.dtmstation.com/archives/41014.html"/>
+        <updated>2021-08-01T01:07:36.000Z</updated>
+        <summary type="html"><![CDATA[本日8月1日、音声合成技術の世界に、また画期的な動きがありました。「Seiren Voice」や「Yukarinライブラリ」の開発者としても知られるヒロシバ（@hiho_karuta）さんが、ITAコーパスを利用した商用利用も可能なAI音声合成システム、VOICEVOXなるソフトウェアをオープンソースのとして無料でリリースしたのです。具体的...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutterを始めた人に読んでもらいたい勉強手順]]></title>
+        <id>https://zenn.dev/ymgn____/articles/3368813fbc8365</id>
+        <link href="https://zenn.dev/ymgn____/articles/3368813fbc8365"/>
+        <updated>2021-08-01T00:41:26.000Z</updated>
+        <summary type="html"><![CDATA[対象となる読者 これからFlutterの勉強を始める人 ネットで断片的な情報を拾いながら勉強するのが苦手な人 FlutterというToolkitの根本理解を目指す人 対象でない読者 メンター等、周りに勉強の仕方を教えてくれる人がいる人(その人に従うのが一番です) Flutterにはあまり興味ないけどとにかくアプリは作りたい！という...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASAが日食中の地球に浮かんだ月影の写真を公開 | ギズモード・ジャパン]]></title>
+        <id>https://www.gizmodo.jp/2021/07/nasa-releases-photos-of-moons-shadow-during-solar-eclipse.html</id>
+        <link href="https://www.gizmodo.jp/2021/07/nasa-releases-photos-of-moons-shadow-during-solar-eclipse.html"/>
+        <updated>2021-07-31T23:34:18.000Z</updated>
+        <summary type="html"><![CDATA[NASAが日食中の地球に浮かんだ月影の写真を公開2021.07.31 23:007,557 Isaac Schultz - Gizmodo US ［原文］ （ たもり ） 2021年6月10日、北極点にかかる金環日食の影 Image: NASA’s Goddard Space Flight Center この不穏な感じ、よき。 今年6月、カナダや北極海、ロシア付近では金環日食が観測されました。先日、NASA...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サイボウズ、エンジニア新人研修の講義資料を無料公開 HTTPやDNSの解説など | Ledge.ai]]></title>
+        <id>https://ledge.ai/cybozu-training/</id>
+        <link href="https://ledge.ai/cybozu-training/"/>
+        <updated>2021-07-31T23:08:55.000Z</updated>
+        <summary type="html"><![CDATA[画像は公式ブログより サイボウズ株式会社は7月20日、公式ブログにおいて、「2021年のエンジニア新人研修の講義資料」を無料公開したと明らかにした。SNS上では「すごっ」「なかなかいい」「8月の連休これやろ」などのコメントが見られる。 本資料は、「Webアプリケーション基礎」「HTTP/DNS」「デザインの役割と関わり...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文学作品を分析して“次の戦争”を予測する─ドイツ国防省と文学者による「プロジェクト・カサンドラ」とは | 文学は「危機予測システム」として機能するか？ | クーリエ・ジャポン]]></title>
+        <id>https://courrier.jp/news/archives/255422/</id>
+        <link href="https://courrier.jp/news/archives/255422/"/>
+        <updated>2021-07-31T23:01:14.000Z</updated>
+        <summary type="html"><![CDATA[2018年2月1日、ドイツの名門テュービンゲン大学の敷地に、一台の軍用車が乗り入れた。左翼色の強い同校を軍人が訪ねることは実に稀である。車から降り立った2人の将校が向かったのは、理系学部でも政治学部でもなく、あろうことか文学部だった。 彼らを迎えたのは、同校比較文学教授ユルゲン・ヴェルトハイマー。この日...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combining Jest and Cypress code coverage reports in your Angular app]]></title>
+        <id>https://dev.to/sjetha/combining-jest-and-cypress-code-coverage-reports-in-your-angular-app-7gd</id>
+        <link href="https://dev.to/sjetha/combining-jest-and-cypress-code-coverage-reports-in-your-angular-app-7gd"/>
+        <updated>2021-07-31T18:38:58.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Isaac Smith on Unsplash
+When writing front-end tests, code coverage is an important metric that helps you determine how many critical paths of your application are covered.
+Cypress has their own tutorial and example repo which uses Babel, but in this post I’ll go through the process of doing this with an Angular application, without using Babel.
+Codecov has a feature whereby any code coverage metrics that are uploaded with the same branch name will be merged into one report. This is a useful feature if you have several different test runners and need them all to be combined into one report. For producing coverage reports for Jest and Cypress some features need to be added and enabled.
+Jest comes with the istanbul instrumenter and coverage reporting tool built-in, and since this is…]]></summary>
+        <author>
+            <name>Shafiq Jetha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VOICEVOX]]></title>
+        <id>https://voicevox.hiroshiba.jp/</id>
+        <link href="https://voicevox.hiroshiba.jp/"/>
+        <updated>2021-07-31T15:19:56.000Z</updated>
+        <summary type="html"><![CDATA[無料で使える中品質なテキスト読み上げソフトウェア]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Practices for making AngularJS Application]]></title>
         <id>https://dev.to/ajayupreti/best-practices-for-making-angularjs-application-5edd</id>
@@ -18,6 +323,16 @@ Use the angular-seed (https://github.com/angular/angular-seed) project, which is
 The other recommendation is to use yeoman (http://yeoman.io/) which is a tool that will basically create the skeleton and add other tools such as bower and grunt, which are widely used in the development of javascript ap…]]></summary>
         <author>
             <name>ajay upreti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustの新しいWEBフレームワークaxumを触ってみた]]></title>
+        <id>https://zenn.dev/techno_tanoc/articles/99e54c82cb049f</id>
+        <link href="https://zenn.dev/techno_tanoc/articles/99e54c82cb049f"/>
+        <updated>2021-07-31T14:04:47.000Z</updated>
+        <summary type="html"><![CDATA[日本時間本日、tokioからAxumというWEBフレームワークがアナウンスされました。 Announcing Axum - An ergonomic and modular web framework that takes full advantage of the Tokio, Hyper, and Tower ecosystem. ( リリースされて13時間のできたてホヤホヤの図 ) crates.ioのREADMEによると「エルゴノミックでモジュ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -147,6 +462,16 @@ We will also learn along the way how Push Notifications work in general, as we f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Twitter、投稿画像自動切り抜きアルゴリズムに潜む「バイアス」発見者に最大3500ドルの報奨金コンテスト実施 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/twitter-launches-bug-bounty-contest-092007857.html</id>
+        <link href="https://japanese.engadget.com/twitter-launches-bug-bounty-contest-092007857.html"/>
+        <updated>2021-07-31T10:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが、システムが自動的に画像をクロップする際の”偏り”を発見した人に謝礼を支払う報奨金コンテストを開始しました。報奨金と言えば、セキュリティ上の問題や処理上の不具合を発見した人に対して賞金を支払うバグバウンティ・プログラムが一般的におこなわれていますが、今回Twitterが始めたのは、ユーザーが投稿...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「定時ダッシュ」「仕事の丸投げ」──ピクトグラムがTwitterに続々　五輪開会式の“演技”に触発：東京五輪とネット（1/2 ページ） - ITmedia NEWS]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2107/31/news023.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2107/31/news023.html"/>
@@ -189,6 +514,26 @@ Q10. What is scope in Angular?]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SQLBoiler（とoapi-codegen）でつくるREST APIサーバ | フューチャー技術ブログ]]></title>
+        <id>https://future-architect.github.io/articles/20210730a/</id>
+        <link href="https://future-architect.github.io/articles/20210730a/"/>
+        <updated>2021-07-31T04:35:48.000Z</updated>
+        <summary type="html"><![CDATA[ライブリッツの筒井です。 GoのORマッパー連載、折り返して5日目です。 SQLBoilerを使用したDBスキーマ駆動なREST APIサーバの開発ワークフローを紹介します。 なぜSQLBoilerを選ぶのか?自分たちのチームでは、REST APIサーバを開発する際にはまずデータベースのテーブル設計から始めることが多いです。その次にAPI定義...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSの基礎を学ぼう 特別編 最新サービスをみんなで触ってみる 〜Amazon Route 53 Resolver DNS Firewall〜 ハンズオン手順 #awsbasics | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/awsbasics_route53_dns_firewall_handson/</id>
+        <link href="https://dev.classmethod.jp/articles/awsbasics_route53_dns_firewall_handson/"/>
+        <updated>2021-07-31T04:16:04.000Z</updated>
+        <summary type="html"><![CDATA[AWSの基礎を学ぼう 特別編 最新サービスをみんなで触ってみる 〜Amazon Route 53 Resolver DNS Firewall〜 ハンズオン手順 #awsbasics はじめに 今回は2021年7月31日に開催されました「AWSの基礎を学ぼう 特別編　最新サービスをみんなで触ってみる 〜Amazon Route 53 Resolver DNS Firewall 編〜」のハンズオン資料とし...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[M1 MacBook、普通に使っていたのに画面が割れたとの複数報告 - Engadget 日本版]]></title>
         <id>https://japanese.engadget.com/m1-macbook-screen-cracks-normal-usage-030549042.html</id>
         <link href="https://japanese.engadget.com/m1-macbook-screen-cracks-normal-usage-030549042.html"/>
@@ -214,6 +559,16 @@ Q10. What is scope in Angular?]]></summary>
         <link href="https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler"/>
         <updated>2021-07-31T03:23:34.000Z</updated>
         <summary type="html"><![CDATA[For the past year, the Sorbet team has been working on an experimental, ahead-of-time compiler for Ruby, powered by Sorbet and LLVM. Today we’re sharing the source code for it. It lives alongside the existing code for Sorbet on GitHub, mostly in the compiler/ folder: → https://github.com/sorbet/s...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現場で使用していたGitコマンド集 - Qiita]]></title>
+        <id>https://qiita.com/osakanaaaa/items/544343005b7ffe2a3929</id>
+        <link href="https://qiita.com/osakanaaaa/items/544343005b7ffe2a3929"/>
+        <updated>2021-07-31T03:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Help us understand the problem. What is going on with this article?]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -368,6 +723,16 @@ Part 1 of this tutorial: https://dev.to/amazonivs/build-an-angul…]]></summary>
         <link href="https://www.itmedia.co.jp/news/articles/2107/30/news176.html"/>
         <updated>2021-07-30T13:02:05.000Z</updated>
         <summary type="html"><![CDATA[ケイエスワイが「Raspberry Pi 400 日本版」の販売を始めた。日本語配列のキーボードにRaspberry Piを内蔵マウスや電源アダプターなどが付属するスターターキットも取り扱っている。 Raspberry Pi正規代理店であるケイエスワイ（東京都台東区）は7月29日、「Raspberry Pi 400 日本版」の販売を始めた。単品の価格は9790...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IaaS障害、ユーザー企業はどう対処すればいい？　クラウドベンダーが教える対応法と振り返り（1/2 ページ） - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2107/30/news153.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2107/30/news153.html"/>
+        <updated>2021-07-30T12:54:49.000Z</updated>
+        <summary type="html"><![CDATA[IaaS障害、ユーザー企業はどう対処すればいい？　クラウドベンダーが教える対応法と振り返り（1/2 ページ） IaaS障害は一種の災害のようなもので、ユーザー企業側では解消できない。しかしユーザー企業のサービスは自力で復旧させる必要がある。障害発生時や収束後にユーザー企業がやるべきことをクラウドベンダーに聞い...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
