@@ -2,10 +2,430 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-02T00:15:29.897Z</updated>
+    <updated>2021-08-03T00:14:52.633Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【特集】「USB Type-C」と「Thunderbolt」って同じもの？よく分かる最新コネクタ解説 - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/topic/feature/1341762.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/topic/feature/1341762.html"/>
+        <updated>2021-08-02T22:08:02.000Z</updated>
+        <summary type="html"><![CDATA[USB Type-Cは難解さゆえ、アレルギーを持っている人は多い。以下の関連記事で紹介した「USB 3.xのGen表記」の分かりにくさも相当なものだが、それでも速度まわりの話に終始しており、データ転送から給電、映像出力までカバーするUSB Type-C全体ともなると、その分かりにくさはケタ違いだ。USB Type-C周りの話題はなるべく避けて通っている人も、少なくないのではないだろうか。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、「Windows 365」の提供を開始 ～最安で月額2,720円/1ユーザーから - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1341815.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1341815.html"/>
+        <updated>2021-08-02T20:49:35.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは8月2日（現地時間）、「Windows 365」の提供を開始した。クラウドのパワーとセキュリティにPCの汎用性とシンプルさを組み合わせたソリューションで、多様な働き方をサポートするとしている。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Windows 365 Cloud PC」が正式サービス開始。月額定額制で2vCPU/8GBメモリが5570円など － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/windows_365_cloud_pc2vcpu8gb5570.html</id>
+        <link href="https://www.publickey1.jp/blog/21/windows_365_cloud_pc2vcpu8gb5570.html"/>
+        <updated>2021-08-02T19:59:41.000Z</updated>
+        <summary type="html"><![CDATA[「Windows 365 Cloud PC」が正式サービス開始。月額定額制で2vCPU/8GBメモリが5570円など マイクロソフトは、デスクトップ仮想化の技術を用いてWindows環境を配信する新サービス「Windows 365 Cloud PC」のサービスを開始。国内価格も明らかになりました。 主な価格は、2vCPU/4GBメモリ/128GBストレージが月額4210円、2v...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Publishing app to AppStore]]></title>
+        <id>https://dev.to/ramkrishna70/publishing-app-to-appstore-4l41</id>
+        <link href="https://dev.to/ramkrishna70/publishing-app-to-appstore-4l41"/>
+        <updated>2021-08-02T18:49:33.000Z</updated>
+        <summary type="html"><![CDATA[https://youtu.be/j3cpdeFJmt8]]></summary>
+        <author>
+            <name>Ram Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Modules (The Native Ones)]]></title>
+        <id>https://css-tricks.com/?p=345756</id>
+        <link href="https://css-tricks.com/css-modules-the-native-ones/"/>
+        <updated>2021-08-02T18:28:28.000Z</updated>
+        <summary type="html"><![CDATA[They are actually called “CSS Module Scripts” and are a native browser feature, as opposed to the popular open-source project that essentially does scoped styles by creating unique class name identifiers in both HTML and CSS. 
+Native CSS Modules are …
+The post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel 6 - Google ストア]]></title>
+        <id>https://store.google.com/magazine/google_pixel_6</id>
+        <link href="https://store.google.com/magazine/google_pixel_6"/>
+        <updated>2021-08-02T17:49:54.000Z</updated>
+        <summary type="html"><![CDATA[カートに追加するデバイスには同じ Preferred Care プランが必要です。カート内のアイテムと一致するよう、このデバイスの Preferred Care を追加するか削除してください。または、このデバイスを別途ご注文ください。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、「Pixel 6」を今秋以降に発売。自社チップ「Tensor」搭載 - Impress Watch]]></title>
+        <id>https://www.watch.impress.co.jp/docs/news/1341813.html</id>
+        <link href="https://www.watch.impress.co.jp/docs/news/1341813.html"/>
+        <updated>2021-08-02T17:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、自社開発のカスタムチップ(SoC)を搭載したスマートフォン「Pixel 6」「Pixel 6 Pro」を今秋以降に発売する。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ブコメの熊がウザいので、削除するブックマークレット作った]]></title>
+        <id>https://anond.hatelabo.jp/20210803012020</id>
+        <link href="https://anond.hatelabo.jp/20210803012020"/>
+        <updated>2021-08-02T16:21:13.000Z</updated>
+        <summary type="html"><![CDATA[javascript:document.querySelectorAll(".entry-comment-contents").forEach(function(e){if(e.innerText.indexOf('🐻')!=-1||e.innerText.indexOf('ʕ•̫͡•ʔ')!=-1){e.remove()}})ブックマークレットのクリックが面倒な人は、GreasemonkeyかTampermonkeyで。 他のパターンのコメント削除したい人は『||e.innerText.indexOf(...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1980年代前半にFDDよりも安くて手軽に使えた「データレコーダー」 ～NEC製品編～ - AKIBA PC Hotline!]]></title>
+        <id>https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1341473.html</id>
+        <link href="https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1341473.html"/>
+        <updated>2021-08-02T15:33:17.000Z</updated>
+        <summary type="html"><![CDATA[想い出に残る、懐かしのマイコン・パソコンを写真とともに振り返る本コーナー。今回は少し趣向を変えて、当時の周辺機器を取り上げる番外編その2「データレコーダ・NEC編」としました。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Next.js Component のISR実装を読み解く]]></title>
+        <id>https://zenn.dev/laiso/articles/8c619c38bd7b7b</id>
+        <link href="https://zenn.dev/laiso/articles/8c619c38bd7b7b"/>
+        <updated>2021-08-02T15:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Amplify ConsoleでNext.jsのプロジェクトをデプロイすると Serverless Next.js Component のインテグレーションによってAWS Lambda リソースが最大4つ作成される(ソースコードはエクスポートできる) Default Lambda@Edge for Next CloudFront distribution API Lambda@Edge for Next CloudFront distribution Image Lamb...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React でアイコンを使うなら React Icons がおすすめ]]></title>
+        <id>https://zenn.dev/taichifukumoto/articles/how-to-use-react-icons</id>
+        <link href="https://zenn.dev/taichifukumoto/articles/how-to-use-react-icons"/>
+        <updated>2021-08-02T15:00:11.000Z</updated>
+        <summary type="html"><![CDATA[概要 みなさんは React のプロジェクトでアイコンが必要な際はどのように実装していますか？ SVG の埋め込み？それとも Font Awesome？ 私は、主に「React Icons」という React 用のライブラリを使用しています。 React Icons は、豊富な種類のアイコンが揃っておりシンプルで使いやすいため、大変重宝しています。 この...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Decided To Stay A Frontend Engineer And Stopped Searching Full-Stack Jobs]]></title>
+        <id>https://dev.to/webdevken/why-i-decided-to-stay-a-frontend-engineer-and-stopped-searching-full-stack-jobs-590c</id>
+        <link href="https://dev.to/webdevken/why-i-decided-to-stay-a-frontend-engineer-and-stopped-searching-full-stack-jobs-590c"/>
+        <updated>2021-08-02T14:55:00.000Z</updated>
+        <summary type="html"><![CDATA[My goal writing this post is to emphasize you to deepen your knowledge in the field you are currently in, instead of trying to move to new fields too quickly. If you are a frontend engineer yourself and think what you do are basics, read my story!
+My software engineering career has pretty much started in January 2018. Coming from a mechanical engineering profession, it was hard for me to easily get a job in software engineering. At the time, I successfully landed a trainee job at a small company that had a frontend solution for their clients that was built with Angular. At work, I was confrontend with Angular, UI Architectures and Client-Server Architecture. Learning Angular was pretty fun, because the framework itself developed very quickly and there were tons of things to learn and apply…]]></summary>
+        <author>
+            <name>Web Dev Ken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code a Playable Synth Keyboard]]></title>
+        <id>https://css-tricks.com/?p=345178</id>
+        <link href="https://css-tricks.com/how-to-code-a-playable-synth-keyboard/"/>
+        <updated>2021-08-02T14:36:09.000Z</updated>
+        <summary type="html"><![CDATA[With a little knowledge of music theory, we can use regular HTML, CSS and JavaScript — without any libraries or audio samples — to create a simple digital instrument. Let’s put that into practice and explore one method for creating …
+The post How to Code a Playable Synth Keyboard appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Bret Cameron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Word - 【210802公表予定・３名】210721入国者分公表案（待機場所記載あり）]]></title>
+        <id>https://www.mhlw.go.jp/content/000815597.pdf</id>
+        <link href="https://www.mhlw.go.jp/content/000815597.pdf"/>
+        <updated>2021-08-02T14:06:21.000Z</updated>
+        <summary type="html"><![CDATA[令和３年８月２日 入国時の誓約に違反した事例について、以下のとおり、氏名及び感染拡大の防止に資する情報を公表します。 厚生労働大臣 氏名 出発国 （※） 年代 住所又は居所 入国後の行動歴等 １ KOBAYASHI YUMA 韓国 20 代 熊本県 令和３年７月 21 日韓国から関西空港に到着し入国。空港 での入国時検査は陰性。令和...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Closures & Angular]]></title>
+        <id>https://dev.to/nagarlalit/closures-angular-pi9</id>
+        <link href="https://dev.to/nagarlalit/closures-angular-pi9"/>
+        <updated>2021-08-02T13:20:48.000Z</updated>
+        <summary type="html"><![CDATA[During the interview, most of the people are able to answer when asked about Closures and their general examples. But when asked about the same if they have used or seen it anywhere in their angular application most of them failed to provide an example. So I thought to document a basic example of closure in Angular.
+Closures.
+A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.
+Now breaking up the definition for better understanding.
+ngOnInit() {
+    this.api.get('users?page=1').subscribe(res => {
+      this.users = res;
+      console.log('data response', this.users);
+    }, error => {
+      console.log(error);
+    });
+  }
+
+Here the subscribe and error functions are acting as inner functions and the ngOnInit is acting as an outer function. And we can access any variables or methods of the component using this keyword. This means it remembers the scope of the outer function.
+PS: This is my first blog, apologies if I have made any mistakes. Hope you have liked this one.]]></summary>
+        <author>
+            <name>NagarLalit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。]]></title>
+        <id>https://applech2.com/archives/20210802-melissa-for-mac-and-win-music-player.html</id>
+        <link href="https://applech2.com/archives/20210802-melissa-for-mac-and-win-music-player.html"/>
+        <updated>2021-08-02T12:49:56.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースでMac/Winのクロスプラットフォームに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリースされています。詳細は以下から。 　MelissaはMasaki Onoさんが2 The post オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。 first app...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学術会議、6人が不服申し立てへ　政府の任命拒否理由、不開示に ｜ 共同通信]]></title>
+        <id>https://nordot.app/785834963257294848</id>
+        <link href="https://nordot.app/785834963257294848"/>
+        <updated>2021-08-02T12:47:29.000Z</updated>
+        <summary type="html"><![CDATA[日本学術会議の会員への任命を拒否された学者6人が8日、拒否の理由を記した文書を不開示とした政府の決定を巡り、行政不服審査法に基づき不服申し立てをする方針を明らかにした。 6人は4月、自らの情報を請求する「自己情報開示請求」で文書の開示を求めた。内閣府は「公正かつ円滑な人事の確保に支障を及ぼす恐れがある...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to themes components in Angular]]></title>
+        <id>https://dev.to/danywalls/how-to-theme-components-in-angular-2c9h</id>
+        <link href="https://dev.to/danywalls/how-to-theme-components-in-angular-2c9h"/>
+        <updated>2021-08-02T11:27:02.000Z</updated>
+        <summary type="html"><![CDATA[When we build components it needs to be flexible, because they can be used in many places or contexts, sometimes change layout and colors.
+For example, Our customer wants a list of contacts, it needs to show as a card with the picture, name, and details, and list pictures with big borders but gray and white by default without the picture.
+Also, be able to add new layouts and colors in the future and apply them easily, in short like this: https://theme-angular-components.surge.sh/
+Use the power of the big 3 :host() pseudo-class , 
+Angular and CSS custom properties.
+
+We create the app-contact-component, and the markup for contacts.
+ng g c contact
+
+Using the BEM style, we assign one class to each element class to keep specificity low.
+<div class="contact">
+  <h1 class="contact__firstname">{{c…]]></summary>
+        <author>
+            <name>Dany Paredes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想空間に“もう一つの東京”？　東京都が「デジタルツイン」の3Dマップを作成、GitHubでソースコードも公開 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news139.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news139.html"/>
+        <updated>2021-08-02T11:22:15.000Z</updated>
+        <summary type="html"><![CDATA[東京都が都内の建物や交通状況を再現した3Dマップ「デジタルツイン3Dビュワー」を公開。今後はAIを使ったシミュレーションの場として、災害や人口減少などの課題解決にも活用するという。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「選手村ベッド破壊動画」で謝罪の五輪選手、熱海土砂災害の支援金を募りクラウドファンディング - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news134.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news134.html"/>
+        <updated>2021-08-02T11:02:23.000Z</updated>
+        <summary type="html"><![CDATA[選手村の段ボール製ベッドを破壊する動画をTikTokに投稿して批判を集め、謝罪した、イスラエルのベンジャミン・ワンガー選手が7月31日、熱海土砂災害の支援金を募るクラウドファンディングを始めた。目標金額は3000ドル。 短期連載「東京五輪とネット」 57年ぶりの東京開催となった「東京2020オリンピック・パラリンピッ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AWS Black Belt Online Seminar] CON350 コンテナとサーバレスの使い分け 資料公開 | Amazon Web Services ブログ]]></title>
+        <id>https://aws.amazon.com/jp/blogs/news/aws-black-belt-online-seminar-con350-container-and-serverless/</id>
+        <link href="https://aws.amazon.com/jp/blogs/news/aws-black-belt-online-seminar-con350-container-and-serverless/"/>
+        <updated>2021-08-02T09:43:16.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services ブログ [AWS Black Belt Online Seminar] CON350 コンテナとサーバレスの使い分け 資料公開 AWS Black Belt オンラインセミナー「CON350 コンテナとサーバレスの使い分け」を公開します。先日開始した、AWS Black Belt オンラインセミナーのコンテナサービスのビデオ（13分ほど）です。視聴は YouTu...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tetsuya J. Kobayashi, Qbio@IIS UTokyo on Twitter: "質問があったので、複雑系が廃れた理由についてもう少し書いてみます。なお自分は複雑系ブームのピークが過ぎた2000年に修士1年で、複雑系の薄暮を学生として見つつ、別分野(システム生物学)などに取り組んだ世代なのを明記しておきます。1/n"]]></title>
+        <id>https://twitter.com/QbioTetsuya/status/1422073890793082885</id>
+        <link href="https://twitter.com/QbioTetsuya/status/1422073890793082885"/>
+        <updated>2021-08-02T09:01:03.000Z</updated>
+        <summary type="html"><![CDATA[質問があったので、複雑系が廃れた理由についてもう少し書いてみます。なお自分は複雑系ブームのピークが過ぎた2000年に修士1年で、複雑系の薄暮を学生として見つつ、別分野(システム生物学)などに取り組んだ世代なのを明記しておきます。1/n]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are the benefits of using Angular?]]></title>
+        <id>https://dev.to/kuncevic/what-are-the-benefits-of-using-angular-5840</id>
+        <link href="https://dev.to/kuncevic/what-are-the-benefits-of-using-angular-5840"/>
+        <updated>2021-08-02T08:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Time changes everything. Angular is timeless and meets all the modern business requirements.
+Angular has picked up steam in recent years, and it becomes “the cherry on the cake” for most app developers, and there are many good reasons for it. Let's see the key reasons for using Angular and the top benefits  for your business if you choose to go with Angular.
+Angular is a Javascript-based framework for developing mobile and desktop frame applications created by Google. It is used and favored by the Google Cloud platform, AdWords, and thousands of web applications built within Google. Other big names have also chosen Angular: Forbes, Delta Airlines, BMW, Samsung, Paypal, Tesla, Netflix, SpaceX.
+So, why do all of these companies choose Angular?
+Here are the top five main benefits:
+As an app d…]]></summary>
+        <author>
+            <name>Aliaksei Kuncevič</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[theme.json を使ったテーマデザインの設定 | WordPress.org 日本語]]></title>
+        <id>https://ja.wordpress.org/2021/08/02/configuring-theme-design-with-theme-json/</id>
+        <link href="https://ja.wordpress.org/2021/08/02/configuring-theme-design-with-theme-json/"/>
+        <updated>2021-08-02T07:30:37.000Z</updated>
+        <summary type="html"><![CDATA[以下は、Jeff Ong が書いた WordPress.org 公式ブログの記事「Configuring Theme Design with theme.json」を訳したものです。 誤字脱字誤訳などありましたらフォーラムまでお知らせください。 WordPress 5.8以降、新しいツールである “theme.json” をテーマ開発に利用できるようになりました。初めて聞いたかもしれませ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS AmplifyでNext.jsのISRを試してみる | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/amplify-next-js-isr/</id>
+        <link href="https://dev.classmethod.jp/articles/amplify-next-js-isr/"/>
+        <updated>2021-08-02T07:17:47.000Z</updated>
+        <summary type="html"><![CDATA[まえがき AWS AmplifyでついにNext.jsのISRに対応したようです。実際にやってみる。 Deploy and host server-side rendered apps with Amplify - AWS Amplify 少しハマったので備忘録も兼ねて。 Amplify + Next.jsをデプロイ Next.jsのプロジェクトを作成 yarn create next-app --typescript ✔ What is your project nam...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O'Reilly Japan - 並行プログラミング入門]]></title>
+        <id>https://www.oreilly.co.jp//books/9784873119595/</id>
+        <link href="https://www.oreilly.co.jp//books/9784873119595/"/>
+        <updated>2021-08-02T07:10:29.000Z</updated>
+        <summary type="html"><![CDATA[並行プログラミング入門 ――Rust、C、アセンブリによる実装からのアプローチ 高野 祐輝　著 2021年08月24日 発売予定 384ページ ISBN978-4-87311-959-5 フォーマット 複数のプログラムを同時に実行する「並行プログラミング」は、処理速度を飛躍的に向上させる手法で、タスク管理、プロセス管理、スレッド管理をはじめ、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[港区のセゾンカード会員はフードデリバリーに月12万円　クレディセゾン調査 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news110.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news110.html"/>
+        <updated>2021-08-02T07:04:55.000Z</updated>
+        <summary type="html"><![CDATA[クレディセゾンは2日、会員の決済データを基にした2020年の消費動向調査結果を発表した。2020年に利用率が最も上がったのはフードデリバリーサービスだった。 セゾンカード／UCカードを発行しているクレディセゾンは8月2日、会員の決済データを基にした2020年の消費動向調査結果を発表した。2020年に利用率が最も上がっ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作図って大変？ AWSシステム構成図生成アプリで作図作業を効率化しよう (2/2)：CodeZine（コードジン）]]></title>
+        <id>https://codezine.jp/article/detail/14516?p=2</id>
+        <link href="https://codezine.jp/article/detail/14516?p=2"/>
+        <updated>2021-08-02T06:22:21.000Z</updated>
+        <summary type="html"><![CDATA[自分自身で課題を解決するDX事例紹介 作図って大変？ AWSシステム構成図生成アプリで作図作業を効率化しよう 自分自身で課題を解決するDX事例紹介 第7回 図生成アプリの始め方と動作環境 ここから図生成アプリを紹介します。図生成アプリはHTML形式のファイルなので、アプリのインストールは不要です。また、Webサーバー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting up multiple environment in your angular project]]></title>
+        <id>https://dev.to/es404020/setting-up-multiple-environment-in-your-angular-project-2jfl</id>
+        <link href="https://dev.to/es404020/setting-up-multiple-environment-in-your-angular-project-2jfl"/>
+        <updated>2021-08-02T06:20:18.000Z</updated>
+        <summary type="html"><![CDATA[By default angular only creates two environment for you, which are test and production. Sometimes we might need to add more environments to our project, due to company or project structure .It might be a development environment, staging or even a QA environment. In the post I would show you how easy it is to setup up multiple environment file in your angular project .
+Create a new file in your environments folder. You can name it environment.staging.ts.
+In your angular.json file add the code below to your configuration key. This allows you register the new environment.
+"staging": {
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.staging.ts"
+                }
+              ]
+            },
+
+
+Finally to build this newly created environment type the command below in your terminal.
+ng build --configuration staging
+
+Thanks for reading you can follow me on twitter at]]></summary>
+        <author>
+            <name>es404020</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イギリス人を“English”と呼んではいけない、その理由：IT基礎英語（1/2 ページ） - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/02/news092.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/02/news092.html"/>
+        <updated>2021-08-02T05:02:11.000Z</updated>
+        <summary type="html"><![CDATA[オリンピックを見ていると改めて、あまり聞いたことのなかった小さな国から、いつもニュースで目にする大国まで、多様な国と多様な文化があることを実感する。そして超メジャーな国なのに、いまだに翻訳で迷うのが、いわゆる「イギリス」という国の国名だ。 試しに知人の高校生に聞いてみた。「イギリスの国名を英語で何...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アジリティを支える品質特性 / Agility and Quality Characteristics Developers Summit 2021 Summer - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer</id>
+        <link href="https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer"/>
+        <updated>2021-08-02T03:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Transcript ΞδϦςΟΛࢧ͑Δ� ඼࣭ಛੑ ࿨ా�୎ਓ� !U@XBEB #devsumiA +VM��� ������!�σϒαϛ����Ն t-wada t_wada twada 📷🙆 📹🙅 🙆 ࣗݾ঺հ #devsumiA ΑΖ͓͘͠ئ͍͠·͢ illustrated by @mty_mno #devsumiA Ϗδωεʹͱͬͯ*5͸ɺʮ͋Δͱศརʯ͔Βʮ༗ޮʯɺʮෆ ՄܽʯΛܦͯʮத֩ͦͷ΋ͷʯʹͳΓͭͭ͋Γɺॊೈ͔ͭढ़ හʹιϑτ΢ΣΞΤϯδχΞϦϯάΛਐΊΔྗ͸اۀͷڝ૪ ྗͷݯઘͱͳΓ·ͨ͠ɻ� ຊηογϣϯͰ͸ɺͦͷΑ͏ͳڝ૪ྗ͋Διϑτ΢ΣΞΛ։ ൃ͠ଓ͚ΔྗΛߏ੒͢ΔཁૉΛɺ඼࣭ಛੑ౳ͷଆ໘͔Β۷Γ Լ͍͖͍͛ͯͨͱߟ͍͑ͯ·͢ɻ ߨԋͷ֓ཁ IUUQT�...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高収入エンジニアは「ラスト」に注目、ファインディ調査: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGXZQOUC312180R30C21A7000000/</id>
+        <link href="https://www.nikkei.com/article/DGXZQOUC312180R30C21A7000000/"/>
+        <updated>2021-08-02T02:43:50.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら IT（情報技術）エンジニア採用支援のファインディ（東京・品川）はプログラミング言語についての調査を実施した。それによると高収入のエンジニアほど新世代言語の「Ru...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UIデザイン時にやってしまいがちな18の誤ち｜Mikio Kiura / ANKR DESIGN｜note]]></title>
+        <id>https://note.com/mikiok/n/n34cedf895e6b</id>
+        <link href="https://note.com/mikiok/n/n34cedf895e6b"/>
+        <updated>2021-08-02T02:19:40.000Z</updated>
+        <summary type="html"><![CDATA[WebデベロッパーのVictor氏による下記のツイートから始まるスレッドが大変参考になる内容だと感じたので、ご本人に許諾を得て日本語で紹介させていただくことにしました。 I reviewed 100+ user interfaces this year. Avoid the most common 18 mistakes to make your UI/UX design better 👇 — Victor (@vponamariov) ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ほぼすべてが手作業」からAI-OCRとRPAで脱却、福岡銀行が挑む | 日経クロステック（xTECH）]]></title>
+        <id>https://xtech.nikkei.com/atcl/nxt/column/18/00001/05830/</id>
+        <link href="https://xtech.nikkei.com/atcl/nxt/column/18/00001/05830/"/>
+        <updated>2021-08-02T01:24:31.000Z</updated>
+        <summary type="html"><![CDATA[「国際業務は顧客にとって重要なインフラの役割を担うにもかかわらず、手作業が多い。人の頑張りに頼らず、効率的で持続可能な体制を早期に実現していく」。ふくおかフィナンシャルグループ（FG）市場統括部部長の工藤章氏は、福岡銀行が2021年8月に利用を始める予定の新クラウドサービスの狙いをこう語る。 福岡銀行が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニアリングマネージャーを目指す若者の戦略 - yigarashiのブログ]]></title>
+        <id>https://yigarashi.hatenablog.com/entry/load-to-em</id>
+        <link href="https://yigarashi.hatenablog.com/entry/load-to-em"/>
+        <updated>2021-08-02T00:42:05.000Z</updated>
+        <summary type="html"><![CDATA[企業でWebアプリケーションエンジニアとして働き始めて2年と4ヶ月ほど経ちました。様々な仕事を経て、自分が向いていることや楽しく感じることが徐々に明らかになり、数年後になりたい像がぼんやりと浮かび上がってきました。そして、その将来像が世間的には「エンジニアリングマネージャー」（以降EM）と呼ばれているこ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デベロッパーツールの新機能が便利！CSS Gridの実装と検証が簡単になるCSS Grid editorとオーバーレイ]]></title>
+        <id>https://coliss.com/?p=30753</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/css-grid-debugging-tools-in-chrome-92.html"/>
+        <updated>2021-08-02T00:36:59.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脱炭素へ！　ソニーの戦略、アップルの野心、ソフトバンクの深謀遠慮（西田 宗千佳） | ブルーバックス | 講談社（1/4）]]></title>
+        <id>https://gendai.ismedia.jp/articles/-/85693</id>
+        <link href="https://gendai.ismedia.jp/articles/-/85693"/>
+        <updated>2021-08-02T00:17:05.000Z</updated>
+        <summary type="html"><![CDATA[脱炭素へ！　ソニーの戦略、アップルの野心、ソフトバンクの深謀遠慮 「カーボンニュートラル」を産業化せよ 厳しい目標設定 世界中のあらゆる企業で今、「二酸化炭素排出量削減」が求められている。 日本政府は2020年10月、2050年までに「カーボンニュートラル」を達成することを政策目標に据えた。カーボンニュートラ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スマートロックが解除できず遂に締めだしにあってしまった話 - ケータイ Watch]]></title>
         <id>https://k-tai.watch.impress.co.jp/docs/column/minna/1340971.html</id>
@@ -599,6 +1019,16 @@ Q10. What is scope in Angular?]]></summary>
         <link href="https://gigazine.net/news/20210731-dwarf-fortress-developer/"/>
         <updated>2021-07-31T00:17:31.000Z</updated>
         <summary type="html"><![CDATA[7人のドワーフを操作して広大な世界を開拓し、歴史や神話を含めたさまざまな文明を築いていく無料のシミュレーションゲームが「Dwarf Fortress」です。コンピュータープログラミングに関するナレッジコミュニティ・Stack Overflowの公式ブログに、2002年から20年近くにわたってDwarf Fortressの開発を続けるターン・アダ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi OS now has SATA support built-in | Jeff Geerling]]></title>
+        <id>https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built</id>
+        <link href="https://www.jeffgeerling.com/blog/2021/raspberry-pi-os-now-has-sata-support-built"/>
+        <updated>2021-07-30T23:53:18.000Z</updated>
+        <summary type="html"><![CDATA[After months of testing various SATA cards on the Raspberry Pi Compute Module 4, the default Raspberry Pi OS kernel now includes SATA support out of the box. In the past, if you wanted to use SATA hard drives or SSDs and get native SATA speeds, and be able to RAID them together for redundancy or ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -7108,234 +7538,6 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         <summary type="html"><![CDATA[自分がなにをしているのかがわかっているなら、それは研究とは呼ばない。そうは思わないかい？ – Albert Einstein ユーザーリサーチは、UXのプロセスの一部となるかなり前から存在していたものです。1900年代初]]></summary>
         <author>
             <name>UX MILK編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angularでの開発を快適に進めるために知っておきたいこと]]></title>
-        <id>https://zenn.dev/okunokentaro/articles/01f9reeb0dj9pctgxk82z4jpcj</id>
-        <link href="https://zenn.dev/okunokentaro/articles/01f9reeb0dj9pctgxk82z4jpcj"/>
-        <updated>2021-07-04T10:51:53.000Z</updated>
-        <summary type="html"><![CDATA[2019/12/03 に Qiita に投稿した記事のアーカイブです。本文中のリンクは動作しないことがあります。
-
-この記事は Angular #2 Advent Calendar 2019 3日目の記事です。
-こんにちは、奥野賢太郎（ @okunokentaro ）です。今回は同日に公開された記事『フロントエンドフレームワーク選定前に知っておくべき Angular の 6 つの問題点と、それでも Angular を選ぶ理由』のアンサー記事として、筆者の考える問題点の克服方法、または誤解の解消、および自分がAngularを選ぶ理由を述べようかと思います。
-特定のAPIの便利な使い方…と...]]></summary>
-        <author>
-            <name>okunokentaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular v8とjest-preset-angularの相性が悪いので解決策をまとめた]]></title>
-        <id>https://zenn.dev/okunokentaro/articles/01f9reeb0dj9843fvtnzgmtkvz</id>
-        <link href="https://zenn.dev/okunokentaro/articles/01f9reeb0dj9843fvtnzgmtkvz"/>
-        <updated>2021-07-04T10:51:52.000Z</updated>
-        <summary type="html"><![CDATA[2019/05/15 に Qiita に投稿した記事のアーカイブです。本文中のリンクは動作しないことがあります。
-
-（190829 追記）
-久々に試してみたらjest-preset-angular v7.1.1以降にて解決を感じました。このバージョン以降ならばjest@24.xと組み合わせても大丈夫そうです。
-
-こんにちは、 @okunokentaro です。タイトルでなんの事を指しているのか分かる人向けに書いているので、 jest-preset-angularの詳細解説は割愛します。
-
-https://github.com/thymikee/jest-preset-angular
-
-...]]></summary>
-        <author>
-            <name>okunokentaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[angularfire2を動かす 2017/1]]></title>
-        <id>https://zenn.dev/okunokentaro/articles/01f9reeb0dfnb44k21evhvea9d</id>
-        <link href="https://zenn.dev/okunokentaro/articles/01f9reeb0dfnb44k21evhvea9d"/>
-        <updated>2021-07-04T10:51:51.000Z</updated>
-        <summary type="html"><![CDATA[2017/01/11 に Qiita に投稿した記事のアーカイブです。本文中のリンクは動作しないことがあります。
-
-@armorik83 です。angularfire2の導入にえらく手間取ったので正しいインストール方法をメモしておきます。ただしこれは 2017/1 時点のものなので、たぶんすぐ古くなります。
-
- 環境
-
-      
-        
-        npm -v
-4.0.2
-ng --version
-angular-cli: 1.0.0-beta.24
-node: 7.2.0
-os: darwin x64
-@angular/common: 2.4.2
-@angular...]]></summary>
-        <author>
-            <name>okunokentaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular-CLI チートシート]]></title>
-        <id>https://zenn.dev/okunokentaro/articles/01f9reeb0d97g6700b9wjh5pyh</id>
-        <link href="https://zenn.dev/okunokentaro/articles/01f9reeb0d97g6700b9wjh5pyh"/>
-        <updated>2021-07-04T10:51:50.000Z</updated>
-        <summary type="html"><![CDATA[2016/12/30 に Qiita に投稿した記事のアーカイブです。本文中のリンクは動作しないことがあります。
-
-@armorik83 です。今回はangular-cliについてまとめます。
-
- angular-cli
-
-https://cli.angular.io/
-
-
-Prototype of a CLI for Angular 2 applications based on the ember-cli project.
-
-angular-cliは Angular の 2.x 以上（本稿では Angular と記述する）を用いたアプリケーションの開発を補助する CLI ツールであ...]]></summary>
-        <author>
-            <name>okunokentaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular 2アンチパターン集]]></title>
-        <id>https://zenn.dev/okunokentaro/articles/01f9reeb0d6eszbxykqxav80q8</id>
-        <link href="https://zenn.dev/okunokentaro/articles/01f9reeb0d6eszbxykqxav80q8"/>
-        <updated>2021-07-04T10:24:46.000Z</updated>
-        <summary type="html"><![CDATA[2016/12/03 に Qiita に投稿した記事のアーカイブです。本文中のリンクは動作しないことがあります。
-
-@armorik83 です。Angular アドベントカレンダーの 4 日目となる本日は、かつて好評だった拙記事"AngularJS アンチパターン集"にあやかって、Angular 2（以下、単に Angular と表記したときは 2.0 以上 4 未満を指す）について気をつけた方がよい点――アンチパターンをまとめたいと思います。
-
- Angular 2.x でアンチパターンは起こりうるか
-Angular 1 系とは大きく API が変わった Angular 2 系。AP...]]></summary>
-        <author>
-            <name>okunokentaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waltsは何を提供するのか]]></title>
-        <id>https://zenn.dev/okunokentaro/articles/01f9reeb0d5p51psrp804e4a3b</id>
-        <link href="https://zenn.dev/okunokentaro/articles/01f9reeb0d5p51psrp804e4a3b"/>
-        <updated>2021-07-04T10:24:46.000Z</updated>
-        <summary type="html"><![CDATA[2016/10/04 に Qiita に投稿した記事のアーカイブです。本文中のリンクは動作しないことがあります。
-
-@armorik83 です。Angular 用ライブラリ"Walts"を公開したところ、想像以上にフィードバックを数多く頂いたので、その中で疑問に思われがちな点、補足できていなかった点などをこの記事で紹介します。
-
- 関連記事
-
-拙記事
-
-どうして Walts を開発したのか - そして昨今の Flux
-Walts - Angular 2 向け Flux ライブラリを作った
-
-
-Walts を使ってくださった方による記事
-
-Angular2 系向け Flux ライブラリの...]]></summary>
-        <author>
-            <name>okunokentaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脱 Angular 初心者 - 次に進むための設計、コーディング]]></title>
-        <id>https://zenn.dev/okunokentaro/articles/01f9reeb0d5merqhp2s56c0kz2</id>
-        <link href="https://zenn.dev/okunokentaro/articles/01f9reeb0d5merqhp2s56c0kz2"/>
-        <updated>2021-07-04T10:24:45.000Z</updated>
-        <summary type="html"><![CDATA[2016/10/02 に Qiita に投稿した記事のアーカイブです。本文中のリンクは動作しないことがあります。
-
-
- Angular 2 入門者の会
-
-Oct 3, 2016 / レバレジーズ株式会社
-
-初めてスライドモード使ってみる
-
-
-
- armorik83
-<img src="https://qiita-image-store.s3.amazonaws.com/0/17959/a646f3c3-d3f3-83cf-1596-4e96b11b8e81.png" alt="C8zptgfr.png" width="64px">
-
-はちさん
-
-ng-kyoto 代表 / ...]]></summary>
-        <author>
-            <name>okunokentaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[どうして Walts を開発したのか - そして昨今の Flux]]></title>
-        <id>https://zenn.dev/okunokentaro/articles/01f9reeb0d1as0aprnfkgfxynx</id>
-        <link href="https://zenn.dev/okunokentaro/articles/01f9reeb0d1as0aprnfkgfxynx"/>
-        <updated>2021-07-04T10:14:12.000Z</updated>
-        <summary type="html"><![CDATA[2016/09/28 に Qiita に投稿した記事のアーカイブです。本文中のリンクは動作しないことがあります。
-
-@armorik83 です。Flux ライブラリWaltsを開発したので、その開発に至るまでのモチベーションと昨今の Flux をまとめたポエムを記しておきます。
-<img width="200px" alt="walts.png" src="https://qiita-image-store.s3.amazonaws.com/0/17959/745f55b1-ace7-c8b5-d4b1-c56a0a8cea02.png">
-
-
- Flux
-
- 昨今の Fl...]]></summary>
-        <author>
-            <name>okunokentaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walts - Angular 2向けFluxライブラリを作った]]></title>
-        <id>https://zenn.dev/okunokentaro/articles/01ejkz0016z9ytynbnt77pepws</id>
-        <link href="https://zenn.dev/okunokentaro/articles/01ejkz0016z9ytynbnt77pepws"/>
-        <updated>2021-07-04T10:14:12.000Z</updated>
-        <summary type="html"><![CDATA[2016/09/28 に Qiita に投稿した記事のアーカイブです。本文中のリンクは動作しないことがあります。
-
-@armorik83 です。Flux ライブラリWaltsを開発したので発表します。
-<img width="200px" alt="walts.png" src="https://qiita-image-store.s3.amazonaws.com/0/17959/745f55b1-ace7-c8b5-d4b1-c56a0a8cea02.png">
-
-
- Walts
-この度、Walts というライブラリを開発した。ウォルツとも読めるが、ここはワルツと呼んでも...]]></summary>
-        <author>
-            <name>okunokentaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto-complete with Angular material and RxJS]]></title>
-        <id>https://dev.to/anirbmuk/auto-complete-with-angular-material-and-rxjs-3b8k</id>
-        <link href="https://dev.to/anirbmuk/auto-complete-with-angular-material-and-rxjs-3b8k"/>
-        <updated>2021-07-03T14:56:36.000Z</updated>
-        <summary type="html"><![CDATA[This article talks about an efficient way to implement auto-complete feature using Angular concepts. The key components used in this demonstration are as follows:
-Angular Material (v12) Autocomplete module.
-RxJS for action and data binding.
-Angular in-memory-web-api for REST services (Refer to in-memory-web-api).
- 
-
- 
-
- 
-
-
-
-
-Let us now see how we go about it:
-The front-end consists of an angular autocomplete module. The input event taps the user's keystrokes and emits a new value into an action subject.
-
-AutocompleteService class.
-
-The action BehaviorSubject starts with an empty string. The action$ is an observable built out of this subject.
-
-GET request. Since this is a higher-order observable (i.e., an observable returning an observable), we make use of one of the higher order functions like switchMap.
-
-switchMap (and not other higher order functions like concatMap or mergeMap)? The reason is: switchMap unsubscribes from the previous observable once a new value is emitted by the parent observable.
-What this means is - as soon as the user types in another letter or removes a letter, there is simply no need to subscribe and execute the rest call for the previous values. The user is only interested to see the results of the search according to his/her current input. And switchMap does this automatically, and thus gets rid of unwanted rest calls.
-We can also get additional control on when to fire the rest service depending on the length of the user's input. For example, in this demo, I fire the rest call only when the user has entered at least 2 characters. If not, then I return an observable of empty array (using of([])).
- 
-
-
-  
-  
-  Back to the Component:
-
-
-We tap onto the above observable and use async pipe to subscribe to it. Since we are completely using observables, we can also use the OnPush change-detection-strategy.
-
- 
-@angular/cli - 12.1.0
-GitHub
- 
-Cheers!]]></summary>
-        <author>
-            <name>Anirban Mukherjee</name>
         </author>
     </entry>
 </feed>
