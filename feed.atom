@@ -2,10 +2,380 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-03T00:14:52.633Z</updated>
+    <updated>2021-08-04T00:14:17.218Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2.4GHz帯と5GHz帯は何が違う？【“Wi-Fiの困った”を解決：基本編 第7回】 - INTERNET Watch]]></title>
+        <id>https://internet.watch.impress.co.jp/docs/column/wifi_qanda/1341365.html</id>
+        <link href="https://internet.watch.impress.co.jp/docs/column/wifi_qanda/1341365.html"/>
+        <updated>2021-08-03T21:05:17.000Z</updated>
+        <summary type="html"><![CDATA[電波にはさまざまな周波数帯があり、それぞれの周波数帯の用途は法律によって定められています。この周波数帯のうち、Wi-Fiで利用されているのが2.4GHz帯と5GHz帯と呼ばれているものです。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Pencilまでもがベタベタしてきた話 - ケータイ Watch]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1342064.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1342064.html"/>
+        <updated>2021-08-03T20:36:17.000Z</updated>
+        <summary type="html"><![CDATA[久々にApple Pencilを使おうとしたら、アーッ!!!　ペン先がベタベターッ!!!　うそマジ〜なにコレ〜例のベタベタ現象発生なの〜っ？　マウスに続き、高価なデジタルペンことApple Pencilまで……。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Functions as Proxies]]></title>
+        <id>https://css-tricks.com/?p=345744</id>
+        <link href="https://css-tricks.com/serverless-functions-as-proxies/"/>
+        <updated>2021-08-03T20:23:32.000Z</updated>
+        <summary type="html"><![CDATA[The first time cloud functions / serverless functions clicked for me was when I saw and tried Auth0’s (now defunct) Webtask. It was a little CodePen-like IDE but you didn’t really see anything aside from code and logs. The …
+The post Serverless Functions as Proxies appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic Daily GitHub Backups, Restored in Seconds]]></title>
+        <id>https://css-tricks.com/?p=345807</id>
+        <link href="https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT"/>
+        <updated>2021-08-03T20:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result in the loss of GitHub data. …
+The post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Rewind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular CLI - request deprecated error (Solution)]]></title>
+        <id>https://dev.to/ashadnasim52/angular-cli-request-deprecated-error-solution-1oam</id>
+        <link href="https://dev.to/ashadnasim52/angular-cli-request-deprecated-error-solution-1oam"/>
+        <updated>2021-08-03T17:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Try this below command
+$ npm cache verify
+
+$ npm cache clean --force
+
+and then try again to install the angular CLI
+If you still get the error then install yarn package manager. 
+Install yarn by running this
+$  npm install -g yarn
+
+and then configure angular cli to use yarn package manager, by running this command
+$ ng config -g cli.packageManager yarn]]></summary>
+        <author>
+            <name>ashad nasim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strongly typed Angular Reactive Forms]]></title>
+        <id>https://dev.to/ddev8/strongly-typed-angular-reactive-forms-569i</id>
+        <link href="https://dev.to/ddev8/strongly-typed-angular-reactive-forms-569i"/>
+        <updated>2021-08-03T17:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Hi! Please feel free to correct my grammar (English is not my native language) or mistakes in code. I appreciate any feedback.
+The angular reactive form is a great tool to work with. But there is one issue that makes the experience not so smoother, let's talk about types. We can't use IDE autocomplete when try to access the form's controls property. We should always remember the correct spelling of names that we give to our controls and their value types, it's very annoying.
+
+article by Georgi Parlakov, highly recommend you to read it. It inspired me to improve Georgi's approach.
+import { AbstractControl, FormArray, FormGroup } from '@angular/forms';
+
+/**
+ * Form.controls autocomplete with value types.
+ */
+export type FormControls<T> = {
+  [key in keyof T]: T[key] extends TForm<any> | Form…]]></summary>
+        <author>
+            <name>Dan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular dynamic components with code-splitting]]></title>
+        <id>https://dev.to/anirbmuk/angular-dynamic-components-with-code-splitting-43ij</id>
+        <link href="https://dev.to/anirbmuk/angular-dynamic-components-with-code-splitting-43ij"/>
+        <updated>2021-08-03T15:53:16.000Z</updated>
+        <summary type="html"><![CDATA[/ 
+        cms-components-demo
+      
+    
+A lot of times, angular components need to be determined and displayed on the fly. A very common use-case is when the components are determined from a content-management-system (CMS). This is particularly useful when we allow the customer to control the content and layout of the page.
+
+Well we do have *ngIf for that, don't we? Depending on some CMS field value, we can use *ngIf to determine which component needs to be displayed. This is cool, but there is a major downside to this approach. The problem is, we usually have a large component library, which need to be loaded eagerly in its entirety through one or more modules. So even if only a fraction of these components may be needed by the customer, we would have to pre-load all of them, which is …]]></summary>
+        <author>
+            <name>Anirban Mukherjee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘-‘ という名前の、中身が無いのに70万回ダウンロードされてる謎のnpmパッケージ – 秋元@サイボウズラボ・プログラマー・ブログ]]></title>
+        <id>https://labs.cybozu.co.jp/blog/akky/2021/08/empty-npm-package-downloaded-sub-one-million-times/</id>
+        <link href="https://labs.cybozu.co.jp/blog/akky/2021/08/empty-npm-package-downloaded-sub-one-million-times/"/>
+        <updated>2021-08-03T15:16:48.000Z</updated>
+        <summary type="html"><![CDATA[– という名前の JavaScript/TypeScript パッケージについて警告を発している記事が話題となっています。 このパッケージ、中身はほとんど空で、Readme と、dev で TypeScript を動かせるようにするライブラリ群を呼ぶ箇所だけのもの。 しかし、この “-” を使っている他の npm パッケージが 50個以上あり、約一年前の公開...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Deep Dive on Skipping to Content]]></title>
+        <id>https://css-tricks.com/?p=345154</id>
+        <link href="https://css-tricks.com/a-deep-dive-on-skipping-to-content/"/>
+        <updated>2021-08-03T14:35:48.000Z</updated>
+        <summary type="html"><![CDATA[While most people browsing the web on a computer use a mouse, many rely on their keyboard instead. Theoretically, using a web page with the keyboard should not be a problem — press the TAB key to move the keyboard …
+The post A Deep Dive on Skipping to Content appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Paul Ratcliffe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8月6日19時発売！　Zen 3採用APU「Ryzen 7 5700G」「Ryzen 5 5600G」の実力を先行レビュー（1/3 ページ） - ITmedia PC USER]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/03/news156.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/03/news156.html"/>
+        <updated>2021-08-03T13:56:27.000Z</updated>
+        <summary type="html"><![CDATA[8月6日19時発売！　Zen 3採用APU「Ryzen 7 5700G」「Ryzen 5 5600G」の実力を先行レビュー（1/3 ページ） AMDがZen 3アーキテクチャを採用するAPU（GPU統合型CPU）を8月6日19時に発売する。その実力はいかほどのものか、先行してレビューする。 AMDは8月6日19時から、デスクトップPC向けのAPU（GPU統合型CPU）「Ryzen 7 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Key Aspects for Small Businesses and Startup Making Business Apps Personified]]></title>
+        <id>https://dev.to/muneebqadar/4-key-aspects-for-small-businesses-and-startup-making-business-apps-personified-1al3</id>
+        <link href="https://dev.to/muneebqadar/4-key-aspects-for-small-businesses-and-startup-making-business-apps-personified-1al3"/>
+        <updated>2021-08-03T13:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Businesses look for an app that can work wonders for them but do not know how to make it exciting enough for the end-users. 
+Virtually every company aspires for an app that can complement its product or service perfectly. That is why you will find millions of apps on Google Play and the App Store, but have you tried even one percent of them? Certainly not. The main reason is not their incompetence but rather the abundance of the apps.
+There are great apps available on both Google Play and the App Store, but a person cannot download hundreds or thousands of apps on a single device. That is why most of us, on average, use 10 to 20 apps. So, what can be the secret behind the success of the most popular apps in the UAE or any other part of the world? And what can small businesses and startups …]]></summary>
+        <author>
+            <name>Muneeb Qadar Siddiqi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII.jp：Zen 3世代のAPU「Ryzen 7 5700G」「Ryzen 5 5600G」はPCパーツ高騰時代の救世主なのか？ (1/5)]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064768/</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064768/"/>
+        <updated>2021-08-03T13:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Zen 3世代のAPU「Ryzen 7 5700G」「Ryzen 5 5600G」はPCパーツ高騰時代の救世主なのか？ 2021年8月6日午後7時より（グローバルでは8月20日22時より）、AMDはSoecket AM4用の新APU「Ryzen 5000G」シリーズの販売を解禁する。この新APUの製品コンセプトや発売時期等についてはCOMPUTEX 2021速報記事で報じた通りだが改めて...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Hothotレビュー】Zen 3コアとなり、リテール版も用意された「Ryzen 7 5700G」と「Ryzen 5 5600G」をテスト - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/column/hothot/1341994.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/column/hothot/1341994.html"/>
+        <updated>2021-08-03T13:07:42.000Z</updated>
+        <summary type="html"><![CDATA[AMDは8月5日、Zen 3ベースのCPUコアを備える新世代のデスクトップ向けAPU、「Ryzen 7 5700G」と「Ryzen 5 5600G」を8月6日19時に発売する。価格はそれぞれ5万1,800円と3万6,800円だ。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ゼルダの伝説 ブレス オブ ザ ワイルド」のハイラルの大地をGoogleストリートビューっぽく見て回れる「Zelda Breath of The Wild Street View」が登場 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210803-zelda-botw-street-view/</id>
+        <link href="https://gigazine.net/news/20210803-zelda-botw-street-view/"/>
+        <updated>2021-08-03T12:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo Switchと同時に発売された「ゼルダの伝説 ブレス オブ ザ ワイルド」は、35年にわたるゼルダの伝説シリーズの歴史の中でも突出した自由度を誇るオープンワールドのゲーム。舞台となるハイラル王国を、Googleストリートビューの仕組みで観光できる「Zelda Breath of The Wild Street View」を、ソフトウェア開発...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クラウド版Windows「Windows 365 Cloud PC」の試用手続きはこんな感じ - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210803-windows-365-business/</id>
+        <link href="https://gigazine.net/news/20210803-windows-365-business/"/>
+        <updated>2021-08-03T11:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftによるクラウドサービス「Windows 365 Cloud PC」のサービス提供が始まりました。一部の構成では60日間無料で試用できるということなので、実際に申し込みを行ってみました。 Windows 365 Business を構成する | Microsoft https://www.microsoft.com/ja-jp/windows-365/business/configure 「Windows 365 Clou...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『施策デザインのための機械学習入門』という本を技術評論社さんから出版します - Counterfactualを知りたい]]></title>
+        <id>https://usaito.hatenablog.com/entry/2021/08/03/191339</id>
+        <link href="https://usaito.hatenablog.com/entry/2021/08/03/191339"/>
+        <updated>2021-08-03T11:30:21.000Z</updated>
+        <summary type="html"><![CDATA[Twitterでたびたび告知させていただいていますが、『施策デザインのための機械学習入門』という本を技術評論社さんから出させていただきます。紙版は8月4日発売（本記事公開の翌日）、電子版は7月30日にすでに発売されています。 gihyo.jp www.amazon.co.jp 本書の概要は次の通りです。 予測に基づいた広告配信や商品推...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてブのコメント時に、自動で最小限のクマを足すブックマークレット]]></title>
+        <id>https://anond.hatelabo.jp/20210803181833</id>
+        <link href="https://anond.hatelabo.jp/20210803181833"/>
+        <updated>2021-08-03T09:23:44.000Z</updated>
+        <summary type="html"><![CDATA[https://anond.hatelabo.jp/20210803012020 に刺激を受けて作りました。 id:new3 さんのコメント https://b.hatena.ne.jp/entry/4706344345181168386/comment/new3 で、書き込み時の自動クマ補完について書かれてたので、それを実装しました。 インストール方法以下の文字列を選択して、Chromeのブックマークバーにドラ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“生産性向上に投資するため”のデータの可視化　生産性測定から組織の仕組み作りをサポート - ログミーTech]]></title>
+        <id>https://logmi.jp/tech/articles/324731</id>
+        <link href="https://logmi.jp/tech/articles/324731"/>
+        <updated>2021-08-03T09:20:51.000Z</updated>
+        <summary type="html"><![CDATA[オリジナルグッズ作成・販売サービス「SUZURI」に関わるエンジニアメンバーや事業部長が登壇し、SUZURIの開発の今や、現在の課題・今後の取り組みについて話す「43万人超のクリエイターの表現活動を支える！ECプラットフォームSUZURIの開発の裏側」。ここで技術部の近藤氏が登壇。生産性をすることになった背景と、具体...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【WV.10】WordPress高速化のためのCore Web Vital チェックリスト - チュートリアル - Capital P - WordPressメディア]]></title>
+        <id>https://capitalp.jp/2021/08/03/check-list-for-wp-web-core-vital/</id>
+        <link href="https://capitalp.jp/2021/08/03/check-list-for-wp-web-core-vital/"/>
+        <updated>2021-08-03T09:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Core Web Vitalに関する連載の最終回ではこれまで紹介してきた内容をチェックリスト形式で紹介しよう。 基礎知識 LCP, FID, CLSなどの指標を理解する。 リソースの配信 画像の次世代配信（webp）ブラウザキャッシュ、GZip圧縮の適用CDNを利用する サーバーの処理速度向上 ページキャッシュの利用キャッシュを利用できな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小動物の脳活動をワイヤレス計測　1台約8000円の価格破壊　豊技大が開発：Innovative Tech - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/03/news109.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/03/news109.html"/>
+        <updated>2021-08-03T09:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Innovative Tech： このコーナーでは、テクノロジーの最新研究を紹介するWebメディア「Seamless」を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 豊橋技術科学大学の研究チームが開発した「A lightweight, wireless Bluetooth-low-energy neuronal recording system for mice」...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project dead? · Issue #3930 · axios/axios · GitHub]]></title>
+        <id>https://github.com/axios/axios/issues/3930</id>
+        <link href="https://github.com/axios/axios/issues/3930"/>
+        <updated>2021-08-03T08:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Describe the issue I found this issue. Is the project in a similar situation to this? #1965 Is the project dead? Are new maintainers sought? Does the project need help or new maintainers? Can I do anything to help for axios? I sent a PR a few days ago. This bug is a blocker for using with Node.js...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ちゃお」の付録に電子メモパッド　「おうちで何度も楽しめるものを考えた結果」 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/03/news133.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/03/news133.html"/>
+        <updated>2021-08-03T08:40:04.000Z</updated>
+        <summary type="html"><![CDATA[電子メモパッドのサイズは約13.4（高さ）×8（幅）×1（奥行き）cmで、電源はボタン電池。液晶ディスプレイを搭載し、ボタンを押すことで書かれた内容を消せる機能も備える。ちゃお 9月号には液晶に載せてなぞることで絵を描けるシートが付属する他、電子メモパッドの使い方を紹介する特集も掲載しているという。 電子メモ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-08-03のJS: Yarn 3.0、Chrome 93 beta、cross origin iframeでのalert/prompt/confirmを削除 - JSer.info]]></title>
+        <id>https://jser.info/2021/08/03/yarn3-chrome93-beta-deprecate-alert/</id>
+        <link href="https://jser.info/2021/08/03/yarn3-chrome93-beta-deprecate-alert/"/>
+        <updated>2021-08-03T07:05:23.000Z</updated>
+        <summary type="html"><![CDATA[JSer.info #551 - Yarn 3.0がリリースされました。 Yarn 3.0 🚀🤖 Performances, ESBuild, Better Patches, ... - DEV Community 👩‍💻👨‍💻 berry/CHANGELOG.md at master · yarnpkg/berry Node.js 10のサポート終了、.pnp.cjsにリネーム、@yarnpkg/pnpifyを3つのパッケージに分解などの変更を含んでいます。 @yarnpkg/sdks: ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CI/CD using Github action for Angular deployment on ssh server]]></title>
+        <id>https://dev.to/es404020/ci-cd-using-github-action-for-angular-deployment-on-ssh-server-3hpd</id>
+        <link href="https://dev.to/es404020/ci-cd-using-github-action-for-angular-deployment-on-ssh-server-3hpd"/>
+        <updated>2021-08-03T06:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Before we dive into deploying our angular application using github actions , it is important that we understand some keys words 
+CI/CD: it is the combined practices of continuous integration and either continuous delivery or continuous deployment. Before the advent of CI/CD must production deployment where upload manually by using tools like putty, FileZilla etc. But with the advent of CI/CD it is easy to automate ones deployment pipeline.
+
+
+SSH Server: Secure Shell is a cryptographic network protocol for operating network services securely over an unsecured network. All lot of companies uses SSH servers for housing both their development and production codebase.
+
+
+
+3.GitHub Actions: This is a CI/CD tool developed by the teams , to help automate deployment when users push their code base t…]]></summary>
+        <author>
+            <name>es404020</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleマイビジネスは本当に集客効果があるの？ 来店予約を2倍にした美容室Ashの活用術 | 【レポート】Web担当者Forumミーティング 2021 春 | Web担当者Forum]]></title>
+        <id>https://webtan.impress.co.jp/e/2021/08/03/40749</id>
+        <link href="https://webtan.impress.co.jp/e/2021/08/03/40749"/>
+        <updated>2021-08-03T05:33:31.000Z</updated>
+        <summary type="html"><![CDATA[最近、飲食店などのお店選びで地図アプリ上の店舗情報やクチコミを参考にすることが多くなっていないだろうか。ユーザーの利便性もあってGoogle検索における地図アプリ情報（Googleマイビジネス）の存在感が増していることもあるだろう。コロナ禍では緊急事態宣言などで営業時間の変更、テイクアウトの有無、感染対策状...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[登さん、LAPRASをどう思いますか？そしてエンジニアは今後どうすべきですか？ - LAPRAS NOTE]]></title>
+        <id>https://note.lapras.com/interview/dnobori/</id>
+        <link href="https://note.lapras.com/interview/dnobori/"/>
+        <updated>2021-08-03T05:21:01.000Z</updated>
+        <summary type="html"><![CDATA[2020年4月、無償かつ即日利用可能なリモートデスクトップ環境が公開され話題を呼びました。 現在16万人を越えるユーザーを擁する「シン・テレワークシステム」です。 今回登場いただくのは、そのシン・テレワークシステムの開発者として知られる登大遊さん。 登さんは、多忙な業務の傍ら次世代の人材育成にも関心を寄せ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to improve your Docker containers security - [cheat sheet]]]></title>
+        <id>https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/</id>
+        <link href="https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/"/>
+        <updated>2021-08-03T04:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Docker containers have been an essential part of the developer's toolbox for several years now, allowing them to build, distribute and deploy their applications in a standardized way. This gain in traction has been, not surprisingly, accompanied by a surge in security issues related to containeri...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基本性能とケーブルラベリング機能を強化したビジネス向け最上位モデル ラベルライター「テプラ」PRO SR-R980 発売 | ニュース 2021年 | ファイルとテプラのキングジム]]></title>
+        <id>https://www.kingjim.co.jp/news/detail/365.html</id>
+        <link href="https://www.kingjim.co.jp/news/detail/365.html"/>
+        <updated>2021-08-03T04:21:30.000Z</updated>
+        <summary type="html"><![CDATA[2021年08月03日 株式会社キングジム(本社:東京都千代田区)は、ラベルライター「テプラ」PROの最上位機種として、ラベルライター「テプラ」PRO SR-R980を2021年8月27日(金)より発売します。SR-R980本体の初年度販売目標数量は2万台です。また本製品の発売に合わせて、同シリーズ対応のテープカートリッジ「カットラベル・...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kenn Ejima on Twitter: "トヨタの無人レンタカー「チョクノリ」、アプリのBluetoothで鍵の開閉をするのだが、飛騨の山奥まで来たところで突然どうやっても接続できなくなりドアが開かなくなって詰んだ。トヨタはこういう事態を想定してなかったらしいのだが、エンジニアとしては「まじかよ」というほかない。"]]></title>
+        <id>https://twitter.com/kenn/status/1422373470168440835</id>
+        <link href="https://twitter.com/kenn/status/1422373470168440835"/>
+        <updated>2021-08-03T04:01:05.000Z</updated>
+        <summary type="html"><![CDATA[トヨタの無人レンタカー「チョクノリ」、アプリのBluetoothで鍵の開閉をするのだが、飛騨の山奥まで来たところで突然どうやっても接続できなくなりドアが開かなくなって詰んだ。トヨタはこういう事態を想定してなかったらしいのだが、エンジニアとしては「まじかよ」というほかない。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox OSの軌跡 - Qiita]]></title>
+        <id>https://qiita.com/rana_kualu/items/bf8e85361db82387e261</id>
+        <link href="https://qiita.com/rana_kualu/items/bf8e85361db82387e261"/>
+        <updated>2021-08-03T03:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Help us understand the problem. What is going on with this article? Original article:https://medium.com/@bfrancis/the-story-of-firefox-os-cb5bf796e8fb written by Ben Francis. モバイル市場は長らくAndroidとiOSの独擅場ですが、その牙城を崩すために、数多くの企業やコミュニティが挑戦を繰り返してきました...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夏休みにおける情報セキュリティに関する注意喚起：IPA 独立行政法人 情報処理推進機構]]></title>
+        <id>https://www.ipa.go.jp/security/topics/alert20210803.html</id>
+        <link href="https://www.ipa.go.jp/security/topics/alert20210803.html"/>
+        <updated>2021-08-03T02:50:03.000Z</updated>
+        <summary type="html"><![CDATA[多くの人がお盆休みや夏休みなどの長期休暇を取得する時期を迎えるにあたり、IPAが公開している長期休暇における情報セキュリティ対策をご案内します。 長期休暇の時期は、「システム管理者が長期間不在になる」、「友人や家族と旅行に出かける」等、いつもとは違う状況になりがちです。このような場合、ウイルス感染や...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS + ngx_mruby で SSL 証明書の動的読み込みシステム構築 - メドピア開発者ブログ]]></title>
+        <id>https://tech.medpeer.co.jp/entry/2021/08/03/090000</id>
+        <link href="https://tech.medpeer.co.jp/entry/2021/08/03/090000"/>
+        <updated>2021-08-03T00:38:56.000Z</updated>
+        <summary type="html"><![CDATA[CTO室SREの @kenzo0107 です。 2021年6月24日に「 kakari for Clinic ホームページ制作 」がリリースされました。 kakari for Clinic ホームページ制作 今回は上記サービスで採用した、 AWS + ngx_mruby で構築した SSL 証明書の動的読み込みシステムについてです。 SSL 証明書を動的に読み込みする理由 kakari for Clin...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.8]]></title>
+        <id>https://coliss.com/?p=30771</id>
+        <link href="https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-volume-eight.html"/>
+        <updated>2021-08-03T00:36:34.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【特集】「USB Type-C」と「Thunderbolt」って同じもの？よく分かる最新コネクタ解説 - PC Watch]]></title>
         <id>https://pc.watch.impress.co.jp/docs/topic/feature/1341762.html</id>
@@ -74,6 +444,16 @@ The post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can sup
         <link href="https://www.watch.impress.co.jp/docs/news/1341813.html"/>
         <updated>2021-08-02T17:44:04.000Z</updated>
         <summary type="html"><![CDATA[Googleは、自社開発のカスタムチップ(SoC)を搭載したスマートフォン「Pixel 6」「Pixel 6 Pro」を今秋以降に発売する。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - sysprog21/lkmpg: The Linux Kernel Module Programming Guide (updated for 5.x kernels)]]></title>
+        <id>https://github.com/sysprog21/lkmpg</id>
+        <link href="https://github.com/sysprog21/lkmpg"/>
+        <updated>2021-08-02T16:31:35.000Z</updated>
+        <summary type="html"><![CDATA[The Linux Kernel Module Programming Guide (updated for 5.x kernels)]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -357,6 +737,16 @@ Thanks for reading you can follow me on twitter at]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[G'zOne TYPE-XX]]></title>
+        <id>https://www.au.com/pr/gzone/</id>
+        <link href="https://www.au.com/pr/gzone/"/>
+        <updated>2021-08-02T04:17:34.000Z</updated>
+        <summary type="html"><![CDATA[G'zOne、再び。 2000年、鮮烈なデビューを果たした初代G'zOne。 耐水・耐衝撃性能に特化した新たなスタイルは唯一無二の路線を開拓。 その後も、その強靭なタフネスさを軸に、 カメラや折りたたみなど時代と融合しながら進化。 その歴史に幕を下ろした2012年まで、圧倒的な存在であることを貫き続けた。 あれから9年。 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[アジリティを支える品質特性 / Agility and Quality Characteristics Developers Summit 2021 Summer - Speaker Deck]]></title>
         <id>https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer</id>
         <link href="https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer"/>
@@ -382,6 +772,16 @@ Thanks for reading you can follow me on twitter at]]></summary>
         <link href="https://note.com/mikiok/n/n34cedf895e6b"/>
         <updated>2021-08-02T02:19:40.000Z</updated>
         <summary type="html"><![CDATA[WebデベロッパーのVictor氏による下記のツイートから始まるスレッドが大変参考になる内容だと感じたので、ご本人に許諾を得て日本語で紹介させていただくことにしました。 I reviewed 100+ user interfaces this year. Avoid the most common 18 mistakes to make your UI/UX design better 👇 — Victor (@vponamariov) ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS IAM の管理を miam から Terraform に移行した話 - Quipper Product Team Blog]]></title>
+        <id>https://quipper.hatenablog.com/entry/2021/08/02/080000</id>
+        <link href="https://quipper.hatenablog.com/entry/2021/08/02/080000"/>
+        <updated>2021-08-02T01:50:46.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。 SRE の @suzuki-shunsuke です。 AWS IAM の管理を miam から Terraform に移行した話を紹介します。 なお、 AWS や miam に限らず「Terraform で管理されていない大量のリソースを Terraform で管理する」ことを検討している方には参考になる内容かと思います。 背景 本ブログでも何度か紹介したとおり、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -2373,6 +2773,16 @@ When…]]></summary>
         <link href="https://www.itmedia.co.jp/news/articles/2107/28/news091.html"/>
         <updated>2021-07-28T02:18:02.000Z</updated>
         <summary type="html"><![CDATA[ハウス食品は、チューブ入り調味料の新製品として、「大根おろし」を8月9日に発売する。大根のシャキシャキとした食感と、すだち香料のさわやかな風味が特徴という。オープン価格で、税別の実売予想価格は125円（40g入り）。 常温流通でも美味しく品質を保つ技術の開発に5年以上かけたという。一部の技術は特許を出願し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開会式で話題となった"長いスピーチ"、どうしてそう感じたのかをスピーチライターがガチ分析してみた - Togetter]]></title>
+        <id>https://togetter.com/li/1751001</id>
+        <link href="https://togetter.com/li/1751001"/>
+        <updated>2021-07-28T01:59:32.000Z</updated>
+        <summary type="html"><![CDATA[千葉 佳織 / kaeka GOOD SPEAK @kaolly13 オリンピック開会式のバッハ会長のスピーチ、「長かった」との感想を多く目にしました。 みなさんの違和感の正体が、スピーチのどのような技術に由来するのか、スピーチライターの視点で分析してみました。 明日から使えるスピーチ・プレゼンのポイントも添えています。 pic.twi...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -6417,6 +6827,16 @@ Can someone give feedback?]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apple WatchでAssistiveTouchを使う方法 | ライフハッカー［日本版］]]></title>
+        <id>https://www.lifehacker.jp/2021/07/how-to-use-assistivetouch-on-the-apple-watc.html</id>
+        <link href="https://www.lifehacker.jp/2021/07/how-to-use-assistivetouch-on-the-apple-watc.html"/>
+        <updated>2021-07-17T07:23:40.000Z</updated>
+        <summary type="html"><![CDATA[AssistiveTouchは、Apple Watchのアクセシビリティ機能の1つ。watchOS8から導入されると言われています。 画面に触れることなくApple Watchを操作することができるこの機能は、Apple Watchに搭載されたジャイロスコープ、加速度センサー、光学式心拍センサーを利用して、Apple Watchを装着した腕の指や手首の動き、たと...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[経済産業省のAI人材育成事業「AI Quest」 評判の良い理由は「学んで終わりではない」内容構成 | Ledge.ai]]></title>
         <id>https://ledge.ai/ai-quest-2021-start/</id>
         <link href="https://ledge.ai/ai-quest-2021-start/"/>
@@ -7516,26 +7936,6 @@ The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first o
         <link href="https://uxmilk.jp/87483"/>
         <updated>2021-07-06T22:45:08.000Z</updated>
         <summary type="html"><![CDATA[ユーザーに切迫感を感じさせることで行動を促すことができますが、一方でユーザーをイライラさせたり、遠ざけてしまう可能性もあります。しかし、正しいアプローチによってユーザーに行動を促すことは可能です。 コンバージョン率の最適]]></summary>
-        <author>
-            <name>UX MILK編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker が生まれるまでの課題と背景とは ? ~スペシャリストから学ぶコンテナ技術 第 2 回 - 変化を求めるデベロッパーを応援するウェブマガジン | AWS]]></title>
-        <id>https://aws.amazon.com/jp/builders-flash/202107/chat-container-specialist-2/</id>
-        <link href="https://aws.amazon.com/jp/builders-flash/202107/chat-container-specialist-2/"/>
-        <updated>2021-07-05T03:40:18.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは、テクニカルソリューションアーキテクトの原田です。 「スペシャリストから学ぶコンテナ技術 第 1 回」では、環境差分をなくすための手段の 1 つとして、アプリケーションの構成要素のうち、アプリケーションコード、ランタイム、ライブラリなどの依存物をパッケージングして、隔離された環境で実行するコン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UXリサーチの各種テクニックとその活用法]]></title>
-        <id>https://uxmilk.jp/?p=87793</id>
-        <link href="https://uxmilk.jp/87793"/>
-        <updated>2021-07-04T22:45:05.000Z</updated>
-        <summary type="html"><![CDATA[自分がなにをしているのかがわかっているなら、それは研究とは呼ばない。そうは思わないかい？ – Albert Einstein ユーザーリサーチは、UXのプロセスの一部となるかなり前から存在していたものです。1900年代初]]></summary>
         <author>
             <name>UX MILK編集部</name>
         </author>
