@@ -2,10 +2,401 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T00:14:17.218Z</updated>
+    <updated>2021-08-04T17:13:38.811Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Create CI/CD Pipelines Using CircleCI]]></title>
+        <id>https://medium.com/p/3110bb61ebf9</id>
+        <link href="https://betterprogramming.pub/how-to-create-ci-cd-pipelines-using-circleci-3110bb61ebf9?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T16:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Get started with CircleCI to perform practical DevOps tasks
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Kirshi Yin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create a Basic Debian Package]]></title>
+        <id>https://medium.com/p/927be001ad80</id>
+        <link href="https://betterprogramming.pub/how-to-create-a-basic-debian-package-927be001ad80?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T15:02:39.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step guide for beginners with a practical example
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Shinichi Okada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using CSS Shapes for Interesting User Controls and Navigation]]></title>
+        <id>https://css-tricks.com/?p=345274</id>
+        <link href="https://css-tricks.com/using-css-shapes-for-interesting-user-controls-and-navigation/"/>
+        <updated>2021-08-04T14:13:45.000Z</updated>
+        <summary type="html"><![CDATA[Straight across or down, that’s the proverbial order for user controls on a screen. Like a list of menu items. But what if we change that to a more fluid layout with bends, curves, and nooks? We can pull it …
+The post Using CSS Shapes for Interesting User Controls and Navigation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Look at Staticstring In Swift]]></title>
+        <id>https://medium.com/p/542213f3c0fe</id>
+        <link href="https://betterprogramming.pub/a-look-at-staticstring-in-swift-542213f3c0fe?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T14:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Understand how StaticString works in Swift
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Bruno Rocha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Cypress: Write Your First Angular Test]]></title>
+        <id>https://medium.com/p/77caf9f2a45e</id>
+        <link href="https://betterprogramming.pub/getting-started-with-cypress-write-your-first-angular-test-77caf9f2a45e?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T13:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Write robust E2E tests
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Rainer Hahnekamp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RustではじめるWebAssembly入門～JavaScriptを超える高速なWebアプリ開発を実践しよう (1/2)：CodeZine（コードジン）]]></title>
+        <id>https://codezine.jp/article/detail/14567</id>
+        <link href="https://codezine.jp/article/detail/14567"/>
+        <updated>2021-08-04T12:21:45.000Z</updated>
+        <summary type="html"><![CDATA[本連載では、Webブラウザー上でJavaScriptとともに動作できるバイナリ形式のプログラムファイル「WebAssembly」を、Rustプログラミング言語で実装する方法について、順を追って説明していきます。初回となる今回は、WebAssemblyの概要を説明するとともに、Rustを利用した簡単なサンプルで、実装方法のイメージを紹介しま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleの製品セキュリティ解説が面白い]]></title>
+        <id>https://zenn.dev/okuoku/articles/bc57255d35dfad</id>
+        <link href="https://zenn.dev/okuoku/articles/bc57255d35dfad"/>
+        <updated>2021-08-04T12:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Appleは自社の製品セキュリティについて割と詳細に解説したホワイトペーパーを公開している。何故か日本語版もある。 (PDF版) https://manuals.info.apple.com/MANUALS/1000/MA1902/ja_JP/apple-platform-security-guide-j.pdf このドキュメントは言わば ユーザのプライバシで商売をすることの決意表明 であり、このレベ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Programming Skills That Might Be Useful in Everyday Life Too]]></title>
+        <id>https://medium.com/p/b9871ba09b68</id>
+        <link href="https://betterprogramming.pub/7-programming-skills-that-might-be-useful-in-everyday-life-too-b9871ba09b68?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T12:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Programmers are competitive not only in the workplace but also in life
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Josef Cruz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building the perfect GitHub CI workflow for your frontend team - Maxime Heckel's Blog]]></title>
+        <id>https://blog.maximeheckel.com/posts/building-perfect-github-action-frontend-teams/</id>
+        <link href="https://blog.maximeheckel.com/posts/building-perfect-github-action-frontend-teams/"/>
+        <updated>2021-08-04T11:58:24.000Z</updated>
+        <summary type="html"><![CDATA[You've probably noticed if you've been following me for a while that I'm a ✨ big fan ✨ of automation. I wrote about automated CI/CD a year ago and also talked a lot about the concepts surrounding this subject, but never really touched upon the tools I use for my CI jobs and how I use them. One ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Electron」と「WebView2」はどう違う？ ～「Electron」の開発チームが解説 - やじうまの杜 - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/1342249.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1342249.html"/>
+        <updated>2021-08-04T11:34:41.000Z</updated>
+        <summary type="html"><![CDATA[“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Not for me」からの卒業――開発畑のプロダクトマネージャーの失敗から学べ (1/3)：ProductZine（プロダクトジン）]]></title>
+        <id>https://productzine.jp/article/detail/588</id>
+        <link href="https://productzine.jp/article/detail/588"/>
+        <updated>2021-08-04T11:19:31.000Z</updated>
+        <summary type="html"><![CDATA[本連載は、ソフトウェア開発者からプロダクトマネージャーに転身した、ゆずたそ（@yuzutas0）さんが自身の経験を振り返り、切り替えるべきだったと考えるマインドセットを紹介していく連載です。第2回は、「責任から逃げてしまう」という問題を取り上げます。自身の責任範囲は想像以上に広くなるのだ、ということを認識...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII.jp：SIMスワップ攻撃で電話番号は簡単に盗まれる]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064010/</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064010/"/>
+        <updated>2021-08-04T10:22:02.000Z</updated>
+        <summary type="html"><![CDATA[SIMスワップ攻撃はどれほど簡単に仕掛けることができるだろうか？また、攻撃者は電話番号を乗っ取った後、何ができるのだろうか？結論から言うと、SIMスワップ攻撃を仕掛けるのは驚くほど容易で、攻撃者はあらゆることが実行可能となるのだ。 SIMスワッピングは、SIMハイジャック、あるいはSIMスワップ詐欺とも呼ばれる...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カルマンフィルターが自動運転の自己位置推定で使われるまで - Tier IV Tech Blog]]></title>
+        <id>https://tech.tier4.jp/entry/2021/08/04/160000</id>
+        <link href="https://tech.tier4.jp/entry/2021/08/04/160000"/>
+        <updated>2021-08-04T09:38:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして、ティアフォー技術本部 Planning / Controlチームで開発を行っている堀部と申します。 今回は状態推定の王道技術「カルマンフィルター」が実際に自動運転で用いられるまでの道のりやノウハウなどを書いていこうと思います。 みなさんはカルマンフィルターという言葉を聞いたことがありますでしょうか。 カ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding reactive form in Angular.]]></title>
+        <id>https://dev.to/es404020/understanding-reactive-form-in-angular-eom</id>
+        <link href="https://dev.to/es404020/understanding-reactive-form-in-angular-eom"/>
+        <updated>2021-08-04T08:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Angular has two distinct way of handling form one is the template driven way and the other is the reactive form .In this post I am going to show you how is easy it is to get started with reactive form by creating a simple Username and password signup page  .
+Import the reactive form module which is ReactiveFormsModule from
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+
+This gives you access to all the classes required to create a reactive form in your module.
+Create a login component by using this command on your terminal.
+ng g c @component/logging 
+
+
+import the following
+import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+
+Create a variable of type FormGroup
+form: FormGroup;
+
+Configure your formGroup to accept both the username and password and set va…]]></summary>
+        <author>
+            <name>es404020</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Struggles of a Junior Developer and How To Deal With Them]]></title>
+        <id>https://medium.com/p/28e807e74b0e</id>
+        <link href="https://betterprogramming.pub/7-struggles-of-a-junior-developer-and-how-to-deal-with-them-28e807e74b0e?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T07:42:02.000Z</updated>
+        <summary type="html"><![CDATA[Dealing with a workload, issues with merge conflicts, and more
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Amy J. Andrews</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How theme child components in Angular using host-context]]></title>
+        <id>https://dev.to/danywalls/how-theme-child-components-in-angular-using-host-context-3mnh</id>
+        <link href="https://dev.to/danywalls/how-theme-child-components-in-angular-using-host-context-3mnh"/>
+        <updated>2021-08-04T07:28:16.000Z</updated>
+        <summary type="html"><![CDATA[When we create a component, it can be used in some places and also, his style should have a relation with his container or the context.
+To create a relation between components, and match styles with the container or another component, we use the :host-context pseudo-selector.
+you can read more https://angular.io/guide/component-styles#host-context
+For example,  we have a button component, it is used in the main app or into product component, the button need to adapt the styles, for both of them.  
+If the product component or the main app component change his colors, it needs to react to them. In short, something like:
+
+Let's build something like this using the :host-context selector.
+The :host-context pseudo-selector help us to create a relation between components, for example the product-…]]></summary>
+        <author>
+            <name>Dany Paredes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Git Commands That Saved My Life Atleast Once]]></title>
+        <id>https://medium.com/p/c76cc94244de</id>
+        <link href="https://betterprogramming.pub/7-git-commands-that-saved-my-life-once-or-forty-two-times-c76cc94244de?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T07:18:48.000Z</updated>
+        <summary type="html"><![CDATA[#5 — Editing an old commit message
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Lucas Tagliani Aguiar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、Windows 10で迷惑アプリのブロック機能をデフォルト有効に - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1342215.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1342215.html"/>
+        <updated>2021-08-04T07:16:37.000Z</updated>
+        <summary type="html"><![CDATA[「Windows 10 バージョン 2004」（May 2020 Update）には、「望ましくない可能性のあるアプリ」をブロックする機能が備わっているが、初期状態では有効になっておらず、ユーザー側で機能をONにする必要があった。Microsoftはユーザーのシステムを保護するため、この機能を2021年8月初旬からデフォルトで有効化する方針だ。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO、次世代のアンダースクリーンカメラを発表。表から目立たなくなり、画質も改善 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/oppo-next-gen-under-screen-camera-065021964.html</id>
+        <link href="https://japanese.engadget.com/oppo-next-gen-under-screen-camera-065021964.html"/>
+        <updated>2021-08-04T07:01:24.000Z</updated>
+        <summary type="html"><![CDATA[OPPOは8月4日、ディスプレイ下にカメラを搭載するUnder Screen Camera（USC）の第3世代となる技術を発表しました。 最近のハイエンドスマートフォンでは、フロントカメラをノッチではなくパンチホールで搭載するのが主流になりつつありますが、やはり画面内に丸く非表示のエリアができてしまうのは目障りなもの。このた...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hatのエンジニアが作り始めた新しいVMM「libkrun」　コンテナに特化したミニマリストな実装とは - ログミーTech]]></title>
+        <id>https://logmi.jp/tech/articles/324735</id>
+        <link href="https://logmi.jp/tech/articles/324735"/>
+        <updated>2021-08-04T06:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Kernel/VM探検隊はカーネルや仮想マシンなどを代表とした、低レイヤーな話題でワイワイ盛り上がるマニアックな勉強会です。太田氏からは、Red Hatの「libkrun」の概要と仕組みについて発表がありました。 Red Hatが新しく作ったVirtual Machine Monitorの「libkrun」 太田航平氏：これから「10分で完全理解したかったlib...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reactのパフォーマンス改善を勉強会で開催しました - JX通信社エンジニアブログ]]></title>
+        <id>https://tech.jxpress.net/entry/2021/08/04/140249</id>
+        <link href="https://tech.jxpress.net/entry/2021/08/04/140249"/>
+        <updated>2021-08-04T05:18:45.000Z</updated>
+        <summary type="html"><![CDATA[はじめまして、新卒フロントエンドエンジニアのぺいです。 JX通信社でフロントエンドの開発はReactが主流になっており、React Hooksを使った開発が欠かせません。hooksは便利な反面、適材適所使い所を理解していないと逆にパフォーマンスが悪くなってしまう場合があります。そこで今回は普段フロントエンドを書かない人...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQLの約30億レコードをRedshiftにDMSでニアリアルタイム同期した - クラウドワークス エンジニアブログ]]></title>
+        <id>https://engineer.crowdworks.jp/entry/aws-dms</id>
+        <link href="https://engineer.crowdworks.jp/entry/aws-dms"/>
+        <updated>2021-08-04T04:16:14.000Z</updated>
+        <summary type="html"><![CDATA[概要 こんにちは。クラウドワークス SREチームの@kangaechuです。最近好きなラジオ番組は空気階段の踊り場です。 企業にとってデータは非常に重要です。さまざまなデータを組み合わせて分析を行うことにより、ユーザをより深く知ることができ、それによりサービスやビジネスモデルを継続的に変革することが可能になりま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【スクープ 】1年で1兆円企業に、ECでZARAをすでに圧倒する中国 Shein（シーイン）の秘密に迫る 原材料費・関税ゼロの衝撃！ _小売・物流業界 ニュースサイト【ダイヤモンド・チェーンストアオンライン】]]></title>
+        <id>https://diamond-rm.net/management/90339/</id>
+        <link href="https://diamond-rm.net/management/90339/"/>
+        <updated>2021-08-04T04:05:46.000Z</updated>
+        <summary type="html"><![CDATA[１兆円を超える売上高を誇るアパレル企業でありながら、その中身はおろか多くのビジネスパーソンはその名前すら知らない。しかし、メーンターゲットである世界のZ世代には絶大な支持を得て、急成長するブランド。それが中国の越境EC企業、Shein(シーイン)である。同社とダイレクトコンタクトに成功。その安さを実現する...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1回タップするだけでアプリやサイトにサインインできる新機能「One Tap」をGoogleが発表 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210804-google-identity-services-apis/</id>
+        <link href="https://gigazine.net/news/20210804-google-identity-services-apis/"/>
+        <updated>2021-08-04T04:03:32.000Z</updated>
+        <summary type="html"><![CDATA[「Googleでサインイン(Sign in with Google)」は、いくつもパスワードを覚えておかなくても、Googleのアカウントでアプリやサービスにログインできる便利な機能です。Googleが2021年8月3日に、この「Googleでサインイン」がより簡単にできるようになる「One Tap」を発表しました。 Google Developers Blog: Launching ou...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[転職しました: メルペイ -> Ubie ~クセつよ組織を求めて~ - ブログ・ア・ラ・クレーム]]></title>
+        <id>https://syucream.hatenablog.jp/entry/2021/08/04/125435</id>
+        <link href="https://syucream.hatenablog.jp/entry/2021/08/04/125435"/>
+        <updated>2021-08-04T04:01:50.000Z</updated>
+        <summary type="html"><![CDATA[表題の通りで、 2021年7月より前職の株式会社メルペイ（メルカリ）を退職して Ubie に転職しました。というわけでいわゆる転職エントリです。 TL;DR メルカリ・メルペイに 3 年 10 ヶ月在籍しました スキルや経験の幅を持たせたい、サービス初期の雰囲気をまた味わいたくて転職 Ubie に入社して SWE ほど働き出して一ヶ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【特集】クラウドPC「Windows 365」を使ってみた。導入方法や条件を解説。月額2,720円から - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/topic/feature/1342103.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/topic/feature/1342103.html"/>
+        <updated>2021-08-04T03:19:32.000Z</updated>
+        <summary type="html"><![CDATA[8月3日、Microsoftから「Windows 365」の提供が開始された。クラウド上にホストされたWindowsをネットワーク経由でリモート操作する仮想デスクトップサービスだ。同様のことは、小規模ならAzure上の仮想マシン＋Azure Bastion、大規模ならAzure Virtual Desktopで利用可能だった。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「HTTP(S) Proxyを設定する」とはどういうことか、パケットレベルで解説 - SSTエンジニアブログ]]></title>
+        <id>https://techblog.securesky-tech.com/entry/2021/08/04/howto-create-proxied-http-request</id>
+        <link href="https://techblog.securesky-tech.com/entry/2021/08/04/howto-create-proxied-http-request"/>
+        <updated>2021-08-04T03:18:27.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、SSTでWeb脆弱性診断用のツール(スキャンツール)開発をしている坂本(Twitter, GitHub)です。 社内で診断ツールやプロキシを開発していることもあり、通信関連のトラブル相談を受けることがあります。 その中で「そもそも HTTP(S) Proxyを設定するとはどういうことか？」を解説する機会が何度かありましたので...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[約30万人のIDカードの顔写真データが流出(欧州、エストニア) | ビジネス短信 - ジェトロ]]></title>
+        <id>https://www.jetro.go.jp/biznews/2021/08/248233b34ae2abda.html</id>
+        <link href="https://www.jetro.go.jp/biznews/2021/08/248233b34ae2abda.html"/>
+        <updated>2021-08-04T02:20:43.000Z</updated>
+        <summary type="html"><![CDATA[エストニア国家情報システム庁（注）は7月28日、国民IDカードに登録されている28万6,438人分（エストニアの全人口の約2割に相当）の顔写真データが、ハッカーによって不正にダウンロードされたと発表した。同庁の発表によると、容疑者は偽のデジタル証明書を使用した上で、国家情報システム庁が運営する写真転送サービス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[早くしっかりユーザに価値を届けるためのチケットの書き方 - SmartHR Tech Blog]]></title>
+        <id>https://tech.smarthr.jp/entry/2021/08/03/120654</id>
+        <link href="https://tech.smarthr.jp/entry/2021/08/03/120654"/>
+        <updated>2021-08-04T01:21:55.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは。PM（プロダクトマネージャー）のhiroponchackです。 年末調整機能を担当しています。趣味はお絵描きと虚無になることです。 2年前に私が公開した記事「スクラムをうまく回すために受け入れ基準をきちんと書く」が、現在も思ったより多くの方にご覧いただいていることがわかりました。 スクラムやアジャイル...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSでブロック要素の幅をコンテンツのサイズぴったりにしたい時のこれからの記述方法 | コリス]]></title>
+        <id>https://coliss.com/articles/build-websites/operation/css/fit-content-instead-of-the-inline-block-value.html</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/fit-content-instead-of-the-inline-block-value.html"/>
+        <updated>2021-08-04T00:37:09.000Z</updated>
+        <summary type="html"><![CDATA[sectionやdivやpなど、ブロック要素をボーダーで囲うと、全幅（親要素の幅）になります。そのブロック要素の中のコンテンツが少なく、ボーダーの幅をコンテンツのサイズに合わせたい場合は、どう実装していますか？ ブロック要素のままでは親要素の幅になってしまうので、通常はdisplay: inline;やdisplay: inline-block...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSでブロック要素の幅をコンテンツのサイズぴったりにしたい時のこれからの記述方法]]></title>
+        <id>https://coliss.com/?p=30924</id>
+        <link href="https://coliss.com/articles/build-websites/operation/css/fit-content-instead-of-the-inline-block-value.html"/>
+        <updated>2021-08-04T00:36:56.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロゴのデザインにぴったりな有料フォントが今だけ無料！疾走感のあるストロークがかっこいい -Powerfulm Samara]]></title>
+        <id>https://coliss.com/?p=30938</id>
+        <link href="https://coliss.com/articles/products/powerfulm-samara-by-endeavour.html"/>
+        <updated>2021-08-04T00:26:46.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSLがコマンド一発でインストール可能に - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1342078.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1342078.html"/>
+        <updated>2021-08-03T23:49:15.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは8月2日（現地時間）、「Windows Subsystem for Linux」（WSL）が以下のコマンドでインストールできるようになったと発表した。従来よりも手順が大幅に簡略化され、セットアップの自動化も容易になっている。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Excel】IF関数の条件が複雑になりすぎて辛い！ エクセルで複数条件を簡単に記述できるIFS関数の使い方 - いまさら聞けないExcelの使い方講座 - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/exceltips/1340676.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/exceltips/1340676.html"/>
+        <updated>2021-08-03T22:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Excelでよく使う関数にIF関数がありますよね。Excelの参考書などにも、覚えるべき関数として載っていることが多いです。IF関数は、指定した条件によって表示内容を変えることができる関数で、習得していると活躍する場面は多いです。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 5-hour CDN · Fly]]></title>
+        <id>https://fly.io/blog/the-5-hour-content-delivery-network/</id>
+        <link href="https://fly.io/blog/the-5-hour-content-delivery-network/"/>
+        <updated>2021-08-03T22:06:46.000Z</updated>
+        <summary type="html"><![CDATA[The 5-hour CDN Author Name Kurt Mackey Twitter @mrkurt The term "CDN" ("content delivery network") conjures Google-scale companies managing huge racks of hardware, wrangling hundreds of gigabits per second. But CDNs are just web applications. That's not how we tend to think of them, but that's al...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TensorFlow.js Became a Performance Bottleneck for My App]]></title>
+        <id>https://medium.com/p/3db05b1de958</id>
+        <link href="https://betterprogramming.pub/web-performance-and-tensorflow-js-3db05b1de958?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-03T22:03:25.000Z</updated>
+        <summary type="html"><![CDATA[When your app becomes a CPU-sucker and a performance hog
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Rakia Ben Sassi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2.4GHz帯と5GHz帯は何が違う？【“Wi-Fiの困った”を解決：基本編 第7回】 - INTERNET Watch]]></title>
         <id>https://internet.watch.impress.co.jp/docs/column/wifi_qanda/1341365.html</id>
@@ -14,6 +405,17 @@
         <summary type="html"><![CDATA[電波にはさまざまな周波数帯があり、それぞれの周波数帯の用途は法律によって定められています。この周波数帯のうち、Wi-Fiで利用されているのが2.4GHz帯と5GHz帯と呼ばれているものです。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Ways to Link SwiftUI Views to SpriteKit Scene]]></title>
+        <id>https://medium.com/p/58180a57ab58</id>
+        <link href="https://betterprogramming.pub/7-ways-to-link-swiftui-views-to-spritekit-scene-58180a57ab58?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-03T21:02:26.000Z</updated>
+        <summary type="html"><![CDATA[A look at some different ways to link a class with a SwiftUI interface
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Mark Lucking</name>
         </author>
     </entry>
     <entry>
@@ -46,6 +448,17 @@ The post Serverless Functions as Proxies appeared first on CSS-Tricks. You can s
 The post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Rewind</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 Best JavaScript Books for Beginners and Advanced Developers]]></title>
+        <id>https://medium.com/p/f44c7e4a3af8</id>
+        <link href="https://betterprogramming.pub/9-best-javascript-books-for-beginners-and-advanced-developers-f44c7e4a3af8?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-03T20:02:14.000Z</updated>
+        <summary type="html"><![CDATA[Which book would you recommend someone to read?
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Claire D. Costa</name>
         </author>
     </entry>
     <entry>
@@ -87,6 +500,26 @@ export type FormControls<T> = {
   [key in keyof T]: T[key] extends TForm<any> | Form…]]></summary>
         <author>
             <name>Dan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Piで画像認識AIを作る——機械学習開発キット「Microsoft Machine Learning Kit for Lobe」 | fabcross]]></title>
+        <id>https://fabcross.jp/news/2021/20210803_raspberrypi_machinelearningkitforlobe.html</id>
+        <link href="https://fabcross.jp/news/2021/20210803_raspberrypi_machinelearningkitforlobe.html"/>
+        <updated>2021-08-03T16:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Raspberry Pi財団は2021年6月30日、Raspberry Pi活用事例として、機械学習開発キット「Microsoft Machine Learning Kit for Lobe」を紹介している。 Microsoft Machine Learning Kit for Lobeは、誰でも簡単に画像分類できる機械学習キットとして、Adafruit IndustriesとMicrosoftによって開発された。「Raspberry Pi 4...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript で文字数を length で数えるのはやめようの実例]]></title>
+        <id>https://zenn.dev/sosukesuzuki/articles/d21d69a5914a03</id>
+        <link href="https://zenn.dev/sosukesuzuki/articles/d21d69a5914a03"/>
+        <updated>2021-08-03T16:18:08.000Z</updated>
+        <summary type="html"><![CDATA[はじめに JavaScript において文字数を String の length で取得すると、期待した値が得られないことがある。この記事では、実際に String の length を使うことによって発生した Prettier のバグを紹介する。 前提 JavaScript の String には length というプロパティが存在する。このlengthプロパティは文字列の文字数...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -194,6 +627,16 @@ There are great apps available on both Google Play and the App Store, but a pers
         <link href="https://usaito.hatenablog.com/entry/2021/08/03/191339"/>
         <updated>2021-08-03T11:30:21.000Z</updated>
         <summary type="html"><![CDATA[Twitterでたびたび告知させていただいていますが、『施策デザインのための機械学習入門』という本を技術評論社さんから出させていただきます。紙版は8月4日発売（本記事公開の翌日）、電子版は7月30日にすでに発売されています。 gihyo.jp www.amazon.co.jp 本書の概要は次の通りです。 予測に基づいた広告配信や商品推...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プラットフォーム依存しない新しい「Docker Compose」　マルチコンテナをクラウドに簡単デプロイ - ログミーTech]]></title>
+        <id>https://logmi.jp/tech/articles/324732</id>
+        <link href="https://logmi.jp/tech/articles/324732"/>
+        <updated>2021-08-03T09:35:43.000Z</updated>
+        <summary type="html"><![CDATA[DockerCon 2021 にあわせて、ひさびさに開催された「Docker Meetup Tokyo」 DockerConの振り返りのほか、Docker 20.10の新機能や、大幅に新しくなったDocker Composeについてお知らせします。ゴリラ氏からは、Docker Composeの概要について発表がありました。 Docker CLIに梱包された新しいdocker compose ゴリラ氏：「...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -601,6 +1044,16 @@ Using the BEM style, we assign one class to each element class to keep specifici
         <link href="https://www.itmedia.co.jp/news/articles/2108/02/news139.html"/>
         <updated>2021-08-02T11:22:15.000Z</updated>
         <summary type="html"><![CDATA[東京都が都内の建物や交通状況を再現した3Dマップ「デジタルツイン3Dビュワー」を公開。今後はAIを使ったシミュレーションの場として、災害や人口減少などの課題解決にも活用するという。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝飯前に学べる！便利なPythonのヒント100選【後編】 - Qiita]]></title>
+        <id>https://qiita.com/baby-degu/items/532bea7be058c35f61a8</id>
+        <link href="https://qiita.com/baby-degu/items/532bea7be058c35f61a8"/>
+        <updated>2021-08-02T11:03:27.000Z</updated>
+        <summary type="html"><![CDATA[Help us understand the problem. What is going on with this article?]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -2243,6 +2696,16 @@ Today, whether we are developing in a large com…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【個人開発】リモートワーク時代なので、デスク周りに特化した写真投稿サービスを作りました - Qiita]]></title>
+        <id>https://qiita.com/en-Barry/items/1ee0f32fcf5b09687e68</id>
+        <link href="https://qiita.com/en-Barry/items/1ee0f32fcf5b09687e68"/>
+        <updated>2021-07-29T08:16:24.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、Barry（ばりゅー）と申します。 いきなりですが言わせてください。 このサービスは今読んでいるあなたのために作ったサービスです！ はじめに リモートワークが当たり前になった今、みなさんはどんなデスクで作業してますか？ 「もっと快適にしたい。」「もっとオシャレにしたい。」 デスクワーカーなら一度...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Retr0bright でキーボードを漂白する | IIJ Engineers Blog]]></title>
         <id>https://eng-blog.iij.ad.jp/archives/9756</id>
         <link href="https://eng-blog.iij.ad.jp/archives/9756"/>
@@ -3591,6 +4054,16 @@ Let's create…]]></summary>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朝飯前に学べる！便利なPythonのヒント100選【前編】 - Qiita]]></title>
+        <id>https://qiita.com/baby-degu/items/05cf809d4d992923020d</id>
+        <link href="https://qiita.com/baby-degu/items/05cf809d4d992923020d"/>
+        <updated>2021-07-26T00:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Photo by Jexo on Unsplash はじめに Pythonは、主にそのシンプルさと習得のしやすさから、最近では非常に人気があります。 データサイエンスや機械学習、ウェブ開発、スクリプト記述、自動化など、幅広い分野で利用することができます。 この記事はかなり長いので、すぐ始めましょう。 1. forループのelse条件 今までに...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
