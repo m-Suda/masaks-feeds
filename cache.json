@@ -117,6 +117,15 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://shinten-sem.com/website-access/",
+          "author": null,
+          "description": "なぜ人々はウェブサイトにアクセスするのでしょうか？ 2015年に、「Think With Google」は、すべてのマーケティング担当者が知っておくべき4つの新しい瞬間を公開しました。 一緒に見て、なぞを解いて行きましょう！ ウェブサイトにアクセスする「4つの瞬間」彼らは主にモバイルの使用に関心があり、これらの瞬間を次の...",
+          "link": "https://shinten-sem.com/website-access/",
+          "publishedOn": "2021-08-04T22:50:41.000Z",
+          "wordCount": 88,
+          "title": "ウェブサイトにアクセスする『4つの瞬間・8つのニーズ』 - SEMハック"
+        },
+        {
           "id": "https://codezine.jp/article/detail/14567",
           "author": null,
           "description": "本連載では、Webブラウザー上でJavaScriptとともに動作できるバイナリ形式のプログラムファイル「WebAssembly」を、Rustプログラミング言語で実装する方法について、順を追って説明していきます。初回となる今回は、WebAssemblyの概要を説明するとともに、Rustを利用した簡単なサンプルで、実装方法のイメージを紹介しま...",
@@ -133,6 +142,24 @@
           "publishedOn": "2021-08-04T12:19:58.000Z",
           "wordCount": 195,
           "title": "Appleの製品セキュリティ解説が面白い"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGKKZO74432900S1A800C2TB0000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 米グーグルでハードウエアを担当するリック・オステロー上級副社長が日本経済新聞などの取材に応じた。ソフトウエアを主力とする同社がハード部門を強化する理由や半導...",
+          "link": "https://www.nikkei.com/article/DGKKZO74432900S1A800C2TB0000/",
+          "publishedOn": "2021-08-04T12:08:48.000Z",
+          "wordCount": 108,
+          "title": "「高性能化、汎用品は限界」グーグル幹部に聞く: 日本経済新聞"
+        },
+        {
+          "id": "https://www.4gamer.net/games/520/G052080/20210719001/",
+          "author": null,
+          "description": "女性向けゲームの先駆者は，シリーズ18年ぶりの最新作で今の女性とどう向き合ったのか。「アンジェリーク ルミナライズ」開発者インタビュー 女性向けのゲーム，いわゆる“乙女ゲー”が人気ジャンルとなって久しい。コンシューマゲーム機やスマホ向けを中心に毎月多数のタイトルがリリースされ，その世界はアニメ化作品や“...",
+          "link": "https://www.4gamer.net/games/520/G052080/20210719001/",
+          "publishedOn": "2021-08-04T12:05:23.000Z",
+          "wordCount": 628,
+          "title": "女性向けゲームの先駆者は，シリーズ18年ぶりの最新作で今の女性とどう向き合ったのか。「アンジェリーク ルミナライズ」開発者インタビュー"
         },
         {
           "id": "https://blog.maximeheckel.com/posts/building-perfect-github-action-frontend-teams/",
@@ -162,6 +189,15 @@
           "title": "「Not for me」からの卒業――開発畑のプロダクトマネージャーの失敗から学べ (1/3)：ProductZine（プロダクトジン）"
         },
         {
+          "id": "https://trafficnews.jp/post/109586",
+          "author": null,
+          "description": "夜も自動運転を実施する方向です。 複数都市・複数台のバスを同時に遠隔操縦 自動運転バスの実証実験が、ひとつ上の次元に進むかもしれません。 東急は2021年8月4日（水）、静岡県内の4都市（松崎町、伊東市、沼津市、掛川市）において、複数都市の車両を遠隔監視し、また複数台の車両を遠隔操縦する実証実験を今年度に...",
+          "link": "https://trafficnews.jp/post/109586",
+          "publishedOn": "2021-08-04T10:40:01.000Z",
+          "wordCount": 740,
+          "title": "日本初、複数都市の自動運転バスを1か所で遠隔操縦 東急が実験 車両は「出光」 | 乗りものニュース"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/064/4064010/",
           "author": null,
           "description": "SIMスワップ攻撃はどれほど簡単に仕掛けることができるだろうか？また、攻撃者は電話番号を乗っ取った後、何ができるのだろうか？結論から言うと、SIMスワップ攻撃を仕掛けるのは驚くほど容易で、攻撃者はあらゆることが実行可能となるのだ。 SIMスワッピングは、SIMハイジャック、あるいはSIMスワップ詐欺とも呼ばれる...",
@@ -169,6 +205,24 @@
           "publishedOn": "2021-08-04T10:22:02.000Z",
           "wordCount": 265,
           "title": "ASCII.jp：SIMスワップ攻撃で電話番号は簡単に盗まれる"
+        },
+        {
+          "id": "https://gigazine.net/news/20210804-why-hard-to-make-skin-cg-look-real/",
+          "author": null,
+          "description": "近年はコンピューターグラフィックス(CG)が長足の進歩を遂げており、アニメや漫画などの映像・画像コンテンツの制作やゲーム・VRなどのインタラクティブコンテンツの制作などに用いられる一般的な手法として定着しています。そんな現代のCGでもリアル感を出すのが特に難しい「人間の肌」について、アメリカのニュースメ...",
+          "link": "https://gigazine.net/news/20210804-why-hard-to-make-skin-cg-look-real/",
+          "publishedOn": "2021-08-04T10:17:29.000Z",
+          "wordCount": 198,
+          "title": "コンピューターグラフィックスで「肌」をリアルに見せるのが難しい理由とは？ - GIGAZINE"
+        },
+        {
+          "id": "https://shuchi.php.co.jp/voice/detail/8740",
+          "author": null,
+          "description": "新型コロナ禍により、日本が長年にわたり着手できなかったデジタル化の遅れが露呈している。そんな状況を打開すべく、東京都では、DX（デジタルトランスフォーメーション）の推進を梃子に都の行政システムを変革する「シン・トセイ　都政の構造改革QOSアップグレード戦略」（以下「シン・トセイ」）が打ち出されている。...",
+          "link": "https://shuchi.php.co.jp/voice/detail/8740",
+          "publishedOn": "2021-08-04T09:42:09.000Z",
+          "wordCount": 182,
+          "title": "「仕事部屋にWi-Fiが無かった」ヤフー元社長の副知事、衝撃の初登庁から始まったデジタル化 | Web Voice"
         },
         {
           "id": "https://tech.tier4.jp/entry/2021/08/04/160000",
@@ -198,6 +252,24 @@
           "title": "OPPO、次世代のアンダースクリーンカメラを発表。表から目立たなくなり、画質も改善 - Engadget 日本版"
         },
         {
+          "id": "https://paiza.hatenablog.com/entry/2021/08/04/150000",
+          "author": null,
+          "description": "どうも、まさとらん（@0310lan）です！ 今回は、ブラウザ1つで多言語に対応したプログラミング環境を提供する「Replit」と、JavaScriptで手軽に2Dゲームを開発できるライブラリ「KaBoom.js」がコラボしたゲーム開発環境をご紹介します！ 誰でもブラウザからアクセスすれば無料ですぐに使えるうえ、面倒な初期設定なども...",
+          "link": "https://paiza.hatenablog.com/entry/2021/08/04/150000",
+          "publishedOn": "2021-08-04T06:59:50.000Z",
+          "wordCount": 427,
+          "title": "ReplitのクラウドIDEがゲーム開発環境に大変身する「Kaboom editor」を使ってみた！ - paiza開発日誌"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1342165.html",
+          "author": null,
+          "description": "プリンストンは、低遅延なBluetoothコーデックaptX LLに対応した送信機ユニット「PTM-BTLLTR」を8月13日に発売する。価格はオープンプライスで、店頭予想価格は8,480円前後。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1342165.html",
+          "publishedOn": "2021-08-04T06:56:46.000Z",
+          "wordCount": 87,
+          "title": "aptX LL対応のBluetooth送受信機。約8,480円 - AV Watch"
+        },
+        {
           "id": "https://logmi.jp/tech/articles/324735",
           "author": null,
           "description": "Kernel/VM探検隊はカーネルや仮想マシンなどを代表とした、低レイヤーな話題でワイワイ盛り上がるマニアックな勉強会です。太田氏からは、Red Hatの「libkrun」の概要と仕組みについて発表がありました。 Red Hatが新しく作ったVirtual Machine Monitorの「libkrun」 太田航平氏：これから「10分で完全理解したかったlib...",
@@ -223,6 +295,15 @@
           "publishedOn": "2021-08-04T04:16:14.000Z",
           "wordCount": 695,
           "title": "MySQLの約30億レコードをRedshiftにDMSでニアリアルタイム同期した - クラウドワークス エンジニアブログ"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/aws-certification-soa-c02/",
+          "author": null,
+          "description": "みずかみと申します。 2021/07/27に公開されたSOA（AWS認定SysOps アドミニストレーター – アソシエイト）の新試験を受けてきました。 せっかくなので簡単ですがレポートしたいと思います。 新試験の概要について記載された公式ページは以下となります。 執筆時点においてはまだSOAの概要ページは更新されていませんでし...",
+          "link": "https://dev.classmethod.jp/articles/aws-certification-soa-c02/",
+          "publishedOn": "2021-08-04T04:13:52.000Z",
+          "wordCount": 195,
+          "title": "SOA新試験（SOA-C02）受験レポート | DevelopersIO"
         },
         {
           "id": "https://diamond-rm.net/management/90339/",
@@ -270,6 +351,15 @@
           "title": "「HTTP(S) Proxyを設定する」とはどういうことか、パケットレベルで解説 - SSTエンジニアブログ"
         },
         {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01195/072600044/",
+          "author": null,
+          "description": "ほぼ50年間、情報システムを開発する仕事を続けてきた。ユーザー企業で業務処理システムの運用まで担当したこともあればIT企業で受託開発をしたり開発支援ツールをつくったりした。起業して業務処理パッケージを開発・販売し、借金をこしらえた経験もある。フリーランスになって以降もプログラミングが不要な開発・運用...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01195/072600044/",
+          "publishedOn": "2021-08-04T02:53:37.000Z",
+          "wordCount": 395,
+          "title": "「もっと楽はできないか」、プログラマーとして50年間考え続けたこと | 日経クロステック（xTECH）"
+        },
+        {
           "id": "https://www.jetro.go.jp/biznews/2021/08/248233b34ae2abda.html",
           "author": null,
           "description": "エストニア国家情報システム庁（注）は7月28日、国民IDカードに登録されている28万6,438人分（エストニアの全人口の約2割に相当）の顔写真データが、ハッカーによって不正にダウンロードされたと発表した。同庁の発表によると、容疑者は偽のデジタル証明書を使用した上で、国家情報システム庁が運営する写真転送サービス...",
@@ -295,6 +385,15 @@
           "publishedOn": "2021-08-04T00:37:09.000Z",
           "wordCount": 333,
           "title": "CSSでブロック要素の幅をコンテンツのサイズぴったりにしたい時のこれからの記述方法 | コリス"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/04/news046.html",
+          "author": null,
+          "description": "視線を追跡し入力する方法、顔の表情を読み取り入力する方法、口パク（音声発話）を認識する入力方法など、これまでにもウェアラブルデバイス向けのハンズフリー入力は、多数報告されてきた。今回は歯を使うハンズフリーの入力アプローチだ。 提案手法では、IMU（慣性計測装置）センサーとコンタクトマイクを左右の耳の...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/04/news046.html",
+          "publishedOn": "2021-08-04T00:02:21.000Z",
+          "wordCount": 143,
+          "title": "歯でジェスチャー入力　機械学習で13パターンを区別　コーネル大など「TeethTap」開発：Innovative Tech（1/2 ページ） - ITmedia NEWS"
         },
         {
           "id": "https://forest.watch.impress.co.jp/docs/news/1342078.html",
@@ -423,6 +522,15 @@
           "title": "『施策デザインのための機械学習入門』という本を技術評論社さんから出版します - Counterfactualを知りたい"
         },
         {
+          "id": "https://eetimes.itmedia.co.jp/ee/articles/2108/03/news066.html",
+          "author": null,
+          "description": "Intelがプロセスの名称を変更、「nm」から脱却へ：パッケージング技術の最新情報も（1/2 ページ） Intelは2021年7月26日（米国時間）、半導体プロセスとパッケージング技術の最新情報を説明するウェブキャスト「Intel Accelerated」を開催した。これを受けて、同社の日本法人インテルは7月28日に、Intel Acceleratedの内...",
+          "link": "https://eetimes.itmedia.co.jp/ee/articles/2108/03/news066.html",
+          "publishedOn": "2021-08-03T09:52:05.000Z",
+          "wordCount": 350,
+          "title": "Intelがプロセスの名称を変更、「nm」から脱却へ：パッケージング技術の最新情報も（1/2 ページ） - EE Times Japan"
+        },
+        {
           "id": "https://logmi.jp/tech/articles/324732",
           "author": null,
           "description": "DockerCon 2021 にあわせて、ひさびさに開催された「Docker Meetup Tokyo」 DockerConの振り返りのほか、Docker 20.10の新機能や、大幅に新しくなったDocker Composeについてお知らせします。ゴリラ氏からは、Docker Composeの概要について発表がありました。 Docker CLIに梱包された新しいdocker compose ゴリラ氏：「...",
@@ -502,6 +610,15 @@
           "publishedOn": "2021-08-03T05:33:31.000Z",
           "wordCount": 652,
           "title": "Googleマイビジネスは本当に集客効果があるの？ 来店予約を2倍にした美容室Ashの活用術 | 【レポート】Web担当者Forumミーティング 2021 春 | Web担当者Forum"
+        },
+        {
+          "id": "https://mag.osdn.jp/21/08/04/131400",
+          "author": null,
+          "description": "フリーソフトウェアを支援するFree Software Foundation（FSF）が、Git Hub（米Microsoft）のペアプログラミングサービス「GitHub Copilot」がフリーソフトウェアに与える影響についてホワイトペーパー作成を求めている。認められたペーパーの作者に500ドルを支払うという。 GitHub Copilotは6月末にGitHubが発表したAI...",
+          "link": "https://mag.osdn.jp/21/08/04/131400",
+          "publishedOn": "2021-08-03T05:25:03.000Z",
+          "wordCount": 94,
+          "title": "FSFが「GitHub Copilot」に疑問視、ホワイトペーパーを募集 | OSDN Magazine"
         },
         {
           "id": "https://note.lapras.com/interview/dnobori/",
@@ -682,6 +799,15 @@
           "publishedOn": "2021-08-02T12:47:29.000Z",
           "wordCount": 38,
           "title": "学術会議、6人が不服申し立てへ　政府の任命拒否理由、不開示に ｜ 共同通信"
+        },
+        {
+          "id": "https://sysprog21.github.io/lkmpg/",
+          "author": null,
+          "description": "Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang 0.1 Introduction 0.1.1 Authorship 0.1.2 Acknowledgements 0.1.3 What Is A Kernel Module? 0.1.4 Kernel module package 0.1.5 What Modules are in my Kernel? 0.1.6 Do I need to download and compile the kernel? 0.1.7 Before We Beg...",
+          "link": "https://sysprog21.github.io/lkmpg/",
+          "publishedOn": "2021-08-02T12:17:28.000Z",
+          "wordCount": 26389,
+          "title": "The Linux Kernel Module Programming Guide"
         },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2108/02/news139.html",
@@ -5755,6 +5881,15 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/thisdotmedia/advanced-ngrx-building-a-reusable-feature-store-4nd9",
+          "author": "Morgan Worrell",
+          "description": "As an angular application grows in scale and complexity, so often is the need for state management to help simplify its many moving parts. What often occurs is an increase in the amount of boilerplate involved in managing many feature states, and stores.\nIncrease in store size can often lead to repetitive patterns, much like in poor component design. However, if state is written well, an application can utilize a less common pattern- a reusable feature store- as we attempt to eliminate much of this boilerplate headache.\nThe following proposes a pattern where we’ll create a pattern for properly consolidating several stores, gain consistency across similar features with a reusable store, and address any pitfalls in this pattern.\nBefore we get too deep into consolidating, we should first stop…",
+          "link": "https://dev.to/thisdotmedia/advanced-ngrx-building-a-reusable-feature-store-4nd9",
+          "publishedOn": "2021-08-04T19:03:40.000Z",
+          "wordCount": 1616,
+          "title": "Advanced NgRx: Building a Reusable Feature Store"
+        },
+        {
           "id": "https://dev.to/es404020/understanding-reactive-form-in-angular-eom",
           "author": "es404020",
           "description": "Angular has two distinct way of handling form one is the template driven way and the other is the reactive form .In this post I am going to show you how is easy it is to get started with reactive form by creating a simple Username and password signup page  .\nImport the reactive form module which is ReactiveFormsModule from\nimport { FormsModule, ReactiveFormsModule } from '@angular/forms';\n\nThis gives you access to all the classes required to create a reactive form in your module.\nCreate a login component by using this command on your terminal.\nng g c @component/logging \n\n\nimport the following\nimport { FormBuilder, FormGroup, Validators } from '@angular/forms';\n\nCreate a variable of type FormGroup\nform: FormGroup;\n\nConfigure your formGroup to accept both the username and password and set va…",
@@ -6455,6 +6590,15 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/thisdotmedia/advanced-ngrx-building-a-reusable-feature-store-4nd9",
+          "author": "Morgan Worrell",
+          "description": "As an angular application grows in scale and complexity, so often is the need for state management to help simplify its many moving parts. What often occurs is an increase in the amount of boilerplate involved in managing many feature states, and stores.\nIncrease in store size can often lead to repetitive patterns, much like in poor component design. However, if state is written well, an application can utilize a less common pattern- a reusable feature store- as we attempt to eliminate much of this boilerplate headache.\nThe following proposes a pattern where we’ll create a pattern for properly consolidating several stores, gain consistency across similar features with a reusable store, and address any pitfalls in this pattern.\nBefore we get too deep into consolidating, we should first stop…",
+          "link": "https://dev.to/thisdotmedia/advanced-ngrx-building-a-reusable-feature-store-4nd9",
+          "publishedOn": "2021-08-04T19:03:40.000Z",
+          "wordCount": 1616,
+          "title": "Advanced NgRx: Building a Reusable Feature Store"
+        },
+        {
           "id": "https://dev.to/gitpaulo/reactive-programming-demystified-using-rxjs-53g5",
           "author": "Paulo Santos",
           "description": "If you're looking for an RxJS quick start then this article is not for you!\nHere I will be tackling Reactive Programming with the goal of shedding some light on its theory using RxJS as the example.\nI will be explaining the core Reactive Programming concepts, relating them to RxJS and how works they work in practice. Hopefully, by the end of the read, you'll have a truer understanding of RxJS and be able to pick up any Rx Implementation and immediately start coding. Let's get started!\nRxJS is an API for asynchronous programming\nTo understand what this means we need to define what is meant by asynchronous programming and what observable streams are. The best place to start? Reactive Programming!\nReactive Programming (not to be confused with Functional Reactive Programming!!) is a subset of …",
@@ -6711,6 +6855,51 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/fcbc6f614bda",
+          "author": "SeattleDataGuy",
+          "description": "It all starts with programming\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/going-from-zero-to-a-software-development-job-fcbc6f614bda?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-04T21:02:10.000Z",
+          "wordCount": 1791,
+          "title": "Going From Zero to a Software Development Job"
+        },
+        {
+          "id": "https://medium.com/p/99f66e5673ed",
+          "author": "Entreprogrammer",
+          "description": "Humiliation in front of others should be stopped\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/my-friend-quit-his-job-the-day-after-getting-humiliated-99f66e5673ed?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-04T18:25:13.000Z",
+          "wordCount": 1071,
+          "title": "My Friend Quit His Job the Day After Getting Humiliated"
+        },
+        {
+          "id": "https://medium.com/p/53454a50b0eb",
+          "author": "Tommaso De Ponti",
+          "description": "Cascading Style Sheets are powerful — let’s start using that power\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-build-amazing-css-art-as-a-beginner-53454a50b0eb?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-04T18:01:11.000Z",
+          "wordCount": 1270,
+          "title": "How To Build Amazing CSS Art as A Beginner"
+        },
+        {
+          "id": "https://medium.com/p/1eb271d04b1e",
+          "author": "Arnold Abraham",
+          "description": "What JavaScript has in common with the functional programming paradigm\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/why-javascript-might-be-a-functional-programming-language-to-simplify-your-web-code-1eb271d04b1e?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-04T17:05:13.000Z",
+          "wordCount": 1486,
+          "title": "Why JavaScript Might Be the Functional Programming Language To Simplify Your Code"
+        },
+        {
+          "id": "https://medium.com/p/9a47114119c",
+          "author": "Gourav Kajal",
+          "description": "Don’t load those big unnecessary files on the first load\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/dynamic-module-imports-in-javascript-the-how-and-why-9a47114119c?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-04T17:02:11.000Z",
+          "wordCount": 1580,
+          "title": "Dynamic Module Imports in JavaScript: The How And Why"
+        },
         {
           "id": "https://medium.com/p/3110bb61ebf9",
           "author": "Kirshi Yin",

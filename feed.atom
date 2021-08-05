@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-04T17:13:38.811Z</updated>
+    <updated>2021-08-05T00:16:47.691Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウェブサイトにアクセスする『4つの瞬間・8つのニーズ』 - SEMハック]]></title>
+        <id>https://shinten-sem.com/website-access/</id>
+        <link href="https://shinten-sem.com/website-access/"/>
+        <updated>2021-08-04T22:50:41.000Z</updated>
+        <summary type="html"><![CDATA[なぜ人々はウェブサイトにアクセスするのでしょうか？ 2015年に、「Think With Google」は、すべてのマーケティング担当者が知っておくべき4つの新しい瞬間を公開しました。 一緒に見て、なぞを解いて行きましょう！ ウェブサイトにアクセスする「4つの瞬間」彼らは主にモバイルの使用に関心があり、これらの瞬間を次の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going From Zero to a Software Development Job]]></title>
+        <id>https://medium.com/p/fcbc6f614bda</id>
+        <link href="https://betterprogramming.pub/going-from-zero-to-a-software-development-job-fcbc6f614bda?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T21:02:10.000Z</updated>
+        <summary type="html"><![CDATA[It all starts with programming
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>SeattleDataGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced NgRx: Building a Reusable Feature Store]]></title>
+        <id>https://dev.to/thisdotmedia/advanced-ngrx-building-a-reusable-feature-store-4nd9</id>
+        <link href="https://dev.to/thisdotmedia/advanced-ngrx-building-a-reusable-feature-store-4nd9"/>
+        <updated>2021-08-04T19:03:40.000Z</updated>
+        <summary type="html"><![CDATA[As an angular application grows in scale and complexity, so often is the need for state management to help simplify its many moving parts. What often occurs is an increase in the amount of boilerplate involved in managing many feature states, and stores.
+Increase in store size can often lead to repetitive patterns, much like in poor component design. However, if state is written well, an application can utilize a less common pattern- a reusable feature store- as we attempt to eliminate much of this boilerplate headache.
+The following proposes a pattern where we’ll create a pattern for properly consolidating several stores, gain consistency across similar features with a reusable store, and address any pitfalls in this pattern.
+Before we get too deep into consolidating, we should first stop…]]></summary>
+        <author>
+            <name>Morgan Worrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced NgRx: Building a Reusable Feature Store]]></title>
+        <id>https://dev.to/thisdotmedia/advanced-ngrx-building-a-reusable-feature-store-4nd9</id>
+        <link href="https://dev.to/thisdotmedia/advanced-ngrx-building-a-reusable-feature-store-4nd9"/>
+        <updated>2021-08-04T19:03:40.000Z</updated>
+        <summary type="html"><![CDATA[As an angular application grows in scale and complexity, so often is the need for state management to help simplify its many moving parts. What often occurs is an increase in the amount of boilerplate involved in managing many feature states, and stores.
+Increase in store size can often lead to repetitive patterns, much like in poor component design. However, if state is written well, an application can utilize a less common pattern- a reusable feature store- as we attempt to eliminate much of this boilerplate headache.
+The following proposes a pattern where we’ll create a pattern for properly consolidating several stores, gain consistency across similar features with a reusable store, and address any pitfalls in this pattern.
+Before we get too deep into consolidating, we should first stop…]]></summary>
+        <author>
+            <name>Morgan Worrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Friend Quit His Job the Day After Getting Humiliated]]></title>
+        <id>https://medium.com/p/99f66e5673ed</id>
+        <link href="https://betterprogramming.pub/my-friend-quit-his-job-the-day-after-getting-humiliated-99f66e5673ed?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T18:25:13.000Z</updated>
+        <summary type="html"><![CDATA[Humiliation in front of others should be stopped
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Entreprogrammer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build Amazing CSS Art as A Beginner]]></title>
+        <id>https://medium.com/p/53454a50b0eb</id>
+        <link href="https://betterprogramming.pub/how-to-build-amazing-css-art-as-a-beginner-53454a50b0eb?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T18:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Cascading Style Sheets are powerful — let’s start using that power
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Tommaso De Ponti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why JavaScript Might Be the Functional Programming Language To Simplify Your Code]]></title>
+        <id>https://medium.com/p/1eb271d04b1e</id>
+        <link href="https://betterprogramming.pub/why-javascript-might-be-a-functional-programming-language-to-simplify-your-web-code-1eb271d04b1e?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T17:05:13.000Z</updated>
+        <summary type="html"><![CDATA[What JavaScript has in common with the functional programming paradigm
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Arnold Abraham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic Module Imports in JavaScript: The How And Why]]></title>
+        <id>https://medium.com/p/9a47114119c</id>
+        <link href="https://betterprogramming.pub/dynamic-module-imports-in-javascript-the-how-and-why-9a47114119c?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-04T17:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Don’t load those big unnecessary files on the first load
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Gourav Kajal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Create CI/CD Pipelines Using CircleCI]]></title>
         <id>https://medium.com/p/3110bb61ebf9</id>
@@ -82,6 +173,16 @@ Continue reading on Better Programming »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「高性能化、汎用品は限界」グーグル幹部に聞く: 日本経済新聞]]></title>
+        <id>https://www.nikkei.com/article/DGKKZO74432900S1A800C2TB0000/</id>
+        <link href="https://www.nikkei.com/article/DGKKZO74432900S1A800C2TB0000/"/>
+        <updated>2021-08-04T12:08:48.000Z</updated>
+        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 米グーグルでハードウエアを担当するリック・オステロー上級副社長が日本経済新聞などの取材に応じた。ソフトウエアを主力とする同社がハード部門を強化する理由や半導...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[7 Programming Skills That Might Be Useful in Everyday Life Too]]></title>
         <id>https://medium.com/p/b9871ba09b68</id>
         <link href="https://betterprogramming.pub/7-programming-skills-that-might-be-useful-in-everyday-life-too-b9871ba09b68?source=rss----d0b105d10f0a---4"/>
@@ -90,6 +191,16 @@ Continue reading on Better Programming »]]></summary>
 Continue reading on Better Programming »]]></summary>
         <author>
             <name>Josef Cruz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女性向けゲームの先駆者は，シリーズ18年ぶりの最新作で今の女性とどう向き合ったのか。「アンジェリーク ルミナライズ」開発者インタビュー]]></title>
+        <id>https://www.4gamer.net/games/520/G052080/20210719001/</id>
+        <link href="https://www.4gamer.net/games/520/G052080/20210719001/"/>
+        <updated>2021-08-04T12:05:23.000Z</updated>
+        <summary type="html"><![CDATA[女性向けゲームの先駆者は，シリーズ18年ぶりの最新作で今の女性とどう向き合ったのか。「アンジェリーク ルミナライズ」開発者インタビュー 女性向けのゲーム，いわゆる“乙女ゲー”が人気ジャンルとなって久しい。コンシューマゲーム機やスマホ向けを中心に毎月多数のタイトルがリリースされ，その世界はアニメ化作品や“...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -123,11 +234,41 @@ Continue reading on Better Programming »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[日本初、複数都市の自動運転バスを1か所で遠隔操縦 東急が実験 車両は「出光」 | 乗りものニュース]]></title>
+        <id>https://trafficnews.jp/post/109586</id>
+        <link href="https://trafficnews.jp/post/109586"/>
+        <updated>2021-08-04T10:40:01.000Z</updated>
+        <summary type="html"><![CDATA[夜も自動運転を実施する方向です。 複数都市・複数台のバスを同時に遠隔操縦 自動運転バスの実証実験が、ひとつ上の次元に進むかもしれません。 東急は2021年8月4日（水）、静岡県内の4都市（松崎町、伊東市、沼津市、掛川市）において、複数都市の車両を遠隔監視し、また複数台の車両を遠隔操縦する実証実験を今年度に...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ASCII.jp：SIMスワップ攻撃で電話番号は簡単に盗まれる]]></title>
         <id>https://ascii.jp/elem/000/004/064/4064010/</id>
         <link href="https://ascii.jp/elem/000/004/064/4064010/"/>
         <updated>2021-08-04T10:22:02.000Z</updated>
         <summary type="html"><![CDATA[SIMスワップ攻撃はどれほど簡単に仕掛けることができるだろうか？また、攻撃者は電話番号を乗っ取った後、何ができるのだろうか？結論から言うと、SIMスワップ攻撃を仕掛けるのは驚くほど容易で、攻撃者はあらゆることが実行可能となるのだ。 SIMスワッピングは、SIMハイジャック、あるいはSIMスワップ詐欺とも呼ばれる...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンピューターグラフィックスで「肌」をリアルに見せるのが難しい理由とは？ - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210804-why-hard-to-make-skin-cg-look-real/</id>
+        <link href="https://gigazine.net/news/20210804-why-hard-to-make-skin-cg-look-real/"/>
+        <updated>2021-08-04T10:17:29.000Z</updated>
+        <summary type="html"><![CDATA[近年はコンピューターグラフィックス(CG)が長足の進歩を遂げており、アニメや漫画などの映像・画像コンテンツの制作やゲーム・VRなどのインタラクティブコンテンツの制作などに用いられる一般的な手法として定着しています。そんな現代のCGでもリアル感を出すのが特に難しい「人間の肌」について、アメリカのニュースメ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「仕事部屋にWi-Fiが無かった」ヤフー元社長の副知事、衝撃の初登庁から始まったデジタル化 | Web Voice]]></title>
+        <id>https://shuchi.php.co.jp/voice/detail/8740</id>
+        <link href="https://shuchi.php.co.jp/voice/detail/8740"/>
+        <updated>2021-08-04T09:42:09.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナ禍により、日本が長年にわたり着手できなかったデジタル化の遅れが露呈している。そんな状況を打開すべく、東京都では、DX（デジタルトランスフォーメーション）の推進を梃子に都の行政システムを変革する「シン・トセイ　都政の構造改革QOSアップグレード戦略」（以下「シン・トセイ」）が打ち出されている。...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -227,6 +368,26 @@ Continue reading on Better Programming »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ReplitのクラウドIDEがゲーム開発環境に大変身する「Kaboom editor」を使ってみた！ - paiza開発日誌]]></title>
+        <id>https://paiza.hatenablog.com/entry/2021/08/04/150000</id>
+        <link href="https://paiza.hatenablog.com/entry/2021/08/04/150000"/>
+        <updated>2021-08-04T06:59:50.000Z</updated>
+        <summary type="html"><![CDATA[どうも、まさとらん（@0310lan）です！ 今回は、ブラウザ1つで多言語に対応したプログラミング環境を提供する「Replit」と、JavaScriptで手軽に2Dゲームを開発できるライブラリ「KaBoom.js」がコラボしたゲーム開発環境をご紹介します！ 誰でもブラウザからアクセスすれば無料ですぐに使えるうえ、面倒な初期設定なども...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aptX LL対応のBluetooth送受信機。約8,480円 - AV Watch]]></title>
+        <id>https://av.watch.impress.co.jp/docs/news/1342165.html</id>
+        <link href="https://av.watch.impress.co.jp/docs/news/1342165.html"/>
+        <updated>2021-08-04T06:56:46.000Z</updated>
+        <summary type="html"><![CDATA[プリンストンは、低遅延なBluetoothコーデックaptX LLに対応した送信機ユニット「PTM-BTLLTR」を8月13日に発売する。価格はオープンプライスで、店頭予想価格は8,480円前後。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Red Hatのエンジニアが作り始めた新しいVMM「libkrun」　コンテナに特化したミニマリストな実装とは - ログミーTech]]></title>
         <id>https://logmi.jp/tech/articles/324735</id>
         <link href="https://logmi.jp/tech/articles/324735"/>
@@ -252,6 +413,16 @@ Continue reading on Better Programming »]]></summary>
         <link href="https://engineer.crowdworks.jp/entry/aws-dms"/>
         <updated>2021-08-04T04:16:14.000Z</updated>
         <summary type="html"><![CDATA[概要 こんにちは。クラウドワークス SREチームの@kangaechuです。最近好きなラジオ番組は空気階段の踊り場です。 企業にとってデータは非常に重要です。さまざまなデータを組み合わせて分析を行うことにより、ユーザをより深く知ることができ、それによりサービスやビジネスモデルを継続的に変革することが可能になりま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOA新試験（SOA-C02）受験レポート | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/aws-certification-soa-c02/</id>
+        <link href="https://dev.classmethod.jp/articles/aws-certification-soa-c02/"/>
+        <updated>2021-08-04T04:13:52.000Z</updated>
+        <summary type="html"><![CDATA[みずかみと申します。 2021/07/27に公開されたSOA（AWS認定SysOps アドミニストレーター – アソシエイト）の新試験を受けてきました。 せっかくなので簡単ですがレポートしたいと思います。 新試験の概要について記載された公式ページは以下となります。 執筆時点においてはまだSOAの概要ページは更新されていませんでし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -307,6 +478,16 @@ Continue reading on Better Programming »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[「もっと楽はできないか」、プログラマーとして50年間考え続けたこと | 日経クロステック（xTECH）]]></title>
+        <id>https://xtech.nikkei.com/atcl/nxt/column/18/01195/072600044/</id>
+        <link href="https://xtech.nikkei.com/atcl/nxt/column/18/01195/072600044/"/>
+        <updated>2021-08-04T02:53:37.000Z</updated>
+        <summary type="html"><![CDATA[ほぼ50年間、情報システムを開発する仕事を続けてきた。ユーザー企業で業務処理システムの運用まで担当したこともあればIT企業で受託開発をしたり開発支援ツールをつくったりした。起業して業務処理パッケージを開発・販売し、借金をこしらえた経験もある。フリーランスになって以降もプログラミングが不要な開発・運用...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[約30万人のIDカードの顔写真データが流出(欧州、エストニア) | ビジネス短信 - ジェトロ]]></title>
         <id>https://www.jetro.go.jp/biznews/2021/08/248233b34ae2abda.html</id>
         <link href="https://www.jetro.go.jp/biznews/2021/08/248233b34ae2abda.html"/>
@@ -354,6 +535,16 @@ Continue reading on Better Programming »]]></summary>
         <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
         <author>
             <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[歯でジェスチャー入力　機械学習で13パターンを区別　コーネル大など「TeethTap」開発：Innovative Tech（1/2 ページ） - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/04/news046.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/04/news046.html"/>
+        <updated>2021-08-04T00:02:21.000Z</updated>
+        <summary type="html"><![CDATA[視線を追跡し入力する方法、顔の表情を読み取り入力する方法、口パク（音声発話）を認識する入力方法など、これまでにもウェアラブルデバイス向けのハンズフリー入力は、多数報告されてきた。今回は歯を使うハンズフリーの入力アプローチだ。 提案手法では、IMU（慣性計測装置）センサーとコンタクトマイクを左右の耳の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -632,6 +823,16 @@ There are great apps available on both Google Play and the App Store, but a pers
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intelがプロセスの名称を変更、「nm」から脱却へ：パッケージング技術の最新情報も（1/2 ページ） - EE Times Japan]]></title>
+        <id>https://eetimes.itmedia.co.jp/ee/articles/2108/03/news066.html</id>
+        <link href="https://eetimes.itmedia.co.jp/ee/articles/2108/03/news066.html"/>
+        <updated>2021-08-03T09:52:05.000Z</updated>
+        <summary type="html"><![CDATA[Intelがプロセスの名称を変更、「nm」から脱却へ：パッケージング技術の最新情報も（1/2 ページ） Intelは2021年7月26日（米国時間）、半導体プロセスとパッケージング技術の最新情報を説明するウェブキャスト「Intel Accelerated」を開催した。これを受けて、同社の日本法人インテルは7月28日に、Intel Acceleratedの内...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[プラットフォーム依存しない新しい「Docker Compose」　マルチコンテナをクラウドに簡単デプロイ - ログミーTech]]></title>
         <id>https://logmi.jp/tech/articles/324732</id>
         <link href="https://logmi.jp/tech/articles/324732"/>
@@ -735,6 +936,16 @@ SSH Server: Secure Shell is a cryptographic network protocol for operating netwo
         <link href="https://webtan.impress.co.jp/e/2021/08/03/40749"/>
         <updated>2021-08-03T05:33:31.000Z</updated>
         <summary type="html"><![CDATA[最近、飲食店などのお店選びで地図アプリ上の店舗情報やクチコミを参考にすることが多くなっていないだろうか。ユーザーの利便性もあってGoogle検索における地図アプリ情報（Googleマイビジネス）の存在感が増していることもあるだろう。コロナ禍では緊急事態宣言などで営業時間の変更、テイクアウトの有無、感染対策状...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSFが「GitHub Copilot」に疑問視、ホワイトペーパーを募集 | OSDN Magazine]]></title>
+        <id>https://mag.osdn.jp/21/08/04/131400</id>
+        <link href="https://mag.osdn.jp/21/08/04/131400"/>
+        <updated>2021-08-03T05:25:03.000Z</updated>
+        <summary type="html"><![CDATA[フリーソフトウェアを支援するFree Software Foundation（FSF）が、Git Hub（米Microsoft）のペアプログラミングサービス「GitHub Copilot」がフリーソフトウェアに与える影響についてホワイトペーパー作成を求めている。認められたペーパーの作者に500ドルを支払うという。 GitHub Copilotは6月末にGitHubが発表したAI...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -1013,6 +1224,16 @@ PS: This is my first blog, apologies if I have made any mistakes. Hope you have 
         <link href="https://nordot.app/785834963257294848"/>
         <updated>2021-08-02T12:47:29.000Z</updated>
         <summary type="html"><![CDATA[日本学術会議の会員への任命を拒否された学者6人が8日、拒否の理由を記した文書を不開示とした政府の決定を巡り、行政不服審査法に基づき不服申し立てをする方針を明らかにした。 6人は4月、自らの情報を請求する「自己情報開示請求」で文書の開示を求めた。内閣府は「公正かつ円滑な人事の確保に支障を及ぼす恐れがある...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Linux Kernel Module Programming Guide]]></title>
+        <id>https://sysprog21.github.io/lkmpg/</id>
+        <link href="https://sysprog21.github.io/lkmpg/"/>
+        <updated>2021-08-02T12:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang 0.1 Introduction 0.1.1 Authorship 0.1.2 Acknowledgements 0.1.3 What Is A Kernel Module? 0.1.4 Kernel module package 0.1.5 What Modules are in my Kernel? 0.1.6 Do I need to download and compile the kernel? 0.1.7 Before We Beg...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
