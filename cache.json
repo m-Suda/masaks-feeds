@@ -94,20 +94,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://zenn.dev/nakano_shingo/articles/7463d115162bf6",
-          "author": "くまぽん",
-          "description": "背景\nAngularアプリケーションを、Google App Engineの環境にデプロイした利用しているアプリで、公式ドキュメントにある設定を試しても強制SSLが対応できなかった\nhttps://cloud.google.com/appengine/docs/standard/nodejs/application-security?hl=ja\n※ 一部抜粋\n\n      \n        app.yaml\n        handlers:\n- url: /.*\n  script: auto\n  secure: always\n  redirect_http_response_cod...",
-          "link": "https://zenn.dev/nakano_shingo/articles/7463d115162bf6",
-          "publishedOn": "2021-07-09T07:48:50.000Z",
-          "wordCount": 117,
-          "title": "【Ionic/Angular Universal】本番環境のみ強制SSL(httpsリダイレクト)の設定",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--LbWDIk9M--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%258F%25E3%2581%25BE%25E3%2581%25BD%25E3%2582%2593%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:%25E3%2580%2590Ionic%252FAngular%2520Universal%25E3%2580%2591%25E6%259C%25AC%25E7%2595%25AA%25E7%2592%25B0%25E5%25A2%2583%25E3%2581%25AE%25E3%2581%25BF%25E5%25BC%25B7%25E5%2588%25B6SSL%2528https%25E3%2583%25AA%25E3%2583%2580%25E3%2582%25A4%25E3%2583%25AC%25E3%2582%25AF%25E3%2583%2588%2529%25E3%2581%25AE%25E8%25A8%25AD%25E5%25AE%259A%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2haem8yaHdUamI4Y2RCLXllVGNNdnVwaW5FengzMHVoUURXQzBFalE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -116,6 +102,105 @@
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://speakerdeck.com/imagire/cgxue-xi-xiang-kefalsegao-xiao-shu-xue-a",
+          "author": null,
+          "description": "Transcript CG学習向けの 高校数学＋α ここで紹介していない内容が大事でないとは言ってません @imagire 数学 I, II, III • 数 • 関数 • 方程式と線 • 指数関数・対数関数 • 三角関数 • 微分 • 積分 数学 I, II, III • 数 • 関数 • 方程式と線 • 指数関数・対数関数 • 三角関数 • 微分 • 積分 絶対値 • 0からの距離が等...",
+          "link": "https://speakerdeck.com/imagire/cgxue-xi-xiang-kefalsegao-xiao-shu-xue-a",
+          "publishedOn": "2021-08-07T09:53:05.000Z",
+          "wordCount": 4397,
+          "title": "CG学習向けの高校数学＋α - Speaker Deck"
+        },
+        {
+          "id": "https://ongaeshi.hatenablog.com/entry/ruby-development-environment-for-windows",
+          "author": null,
+          "description": "2021年なのでこれくらいは欲しい。 Ruby 2.7.4 VSCode バイナリgemを確実にビルドできる コードフォーマッタ Lint デバッガ コード補完 それぞれは独立した機能なので全部入れなくてもいいと思います。(個人的には上から順に必須度が高い) Ruby 2.7.4 Ruby3自体は安定しているがgem周りの挙動が若干安定していなかったの...",
+          "link": "https://ongaeshi.hatenablog.com/entry/ruby-development-environment-for-windows",
+          "publishedOn": "2021-08-07T06:37:22.000Z",
+          "wordCount": 223,
+          "title": "Rubyの開発環境を2021年ぽくする for Windows - ブログのおんがえし"
+        },
+        {
+          "id": "https://twitter.com/dgentry/status/1423719948824694785",
+          "author": null,
+          "description": "Serverless @Tailscale Heroku: https://t.co/2ksrEEWQdW AWS Lambda: https://t.co/NXYMeWRQZy Google Cloud Run:… https://t.co/VbWAC2cnMI",
+          "link": "https://twitter.com/dgentry/status/1423719948824694785",
+          "publishedOn": "2021-08-07T04:47:02.000Z",
+          "wordCount": 196,
+          "title": "Denton Gentry 💉💉🎉 on Twitter: \"Serverless @Tailscale Heroku: https://t.co/2ksrEEWQdW AWS Lambda: https://t.co/NXYMeWRQZy Google Cloud Run:… https://t.co/VbWAC2cnMI\""
+        },
+        {
+          "id": "https://onk.hatenablog.jp/entry/2021/08/07/133352",
+          "author": null,
+          "description": "1on1 で伝えたので外にも書いておく。 プロダクトやチーム、メンバーのフェーズ まず現状分析。 自プロダクトは PPM で言う花形、金のなる木、問題児、負け犬のいずれに当たるのか 勢い MAX でめっちゃ盛り上げるのか、地味に役割を達成するのか。自チーム全集中なのか他チームのフォローに回るのかみたいな方針が変わる...",
+          "link": "https://onk.hatenablog.jp/entry/2021/08/07/133352",
+          "publishedOn": "2021-08-07T04:37:24.000Z",
+          "wordCount": 214,
+          "title": "体制を考えるときに意識していること - id:onk のはてなブログ"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2107/30/news032.html",
+          "author": null,
+          "description": "「コンテナ」「Kubernetes」はコスト削減のためではない――ガートナーが語る“誤解と真実”：最も重要なのは「組織変革」（1/2 ページ） 2021年6月21〜22日にガートナーが開催した「アプリケーション・イノベーション＆ビジネス・ソリューション サミット」で、ガートナー ジャパンの桂島 航氏が「コンテナとKubernetesをIT...",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2107/30/news032.html",
+          "publishedOn": "2021-08-07T04:17:49.000Z",
+          "wordCount": 173,
+          "title": "「コンテナ」「Kubernetes」はコスト削減のためではない――ガートナーが語る“誤解と真実”：最も重要なのは「組織変革」（1/2 ページ） - ＠IT"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210807/k10013186771000.html",
+          "author": null,
+          "description": "世界各国で、身代金要求型ウイルス＝ランサムウエアによるサイバー攻撃が深刻化する中、最大の被害を出しているとされるハッカー集団が使う「攻撃マニュアル」と見られるファイルが闇サイトに流出したことがわかりました。専門家は、ハッカー集団の攻撃の手口を知り、対策を取る手がかりになると分析しています。 流出し...",
+          "link": "https://www3.nhk.or.jp/news/html/20210807/k10013186771000.html",
+          "publishedOn": "2021-08-07T02:56:03.000Z",
+          "wordCount": 18,
+          "title": "ハッカー集団の「攻撃マニュアル」闇サイトに流出か | IT・ネット | NHKニュース"
+        },
+        {
+          "id": "https://ill-identified.hatenablog.com/entry/2021/08/06/200859",
+          "author": null,
+          "description": "概要 pysocviz が提供する機能 ggplot2 と同じようにできないところとその対策 aes() にクオートされてない変数を指定できない R のように改行できない ggplot2 で使えた色名が使えない ggplot2 で使えた linetype が使えない 文字化けの回避 ggrepel パッケージの利用 scales::percent などの単位・スケール指定 テーマ...",
+          "link": "https://ill-identified.hatenablog.com/entry/2021/08/06/200859",
+          "publishedOn": "2021-08-07T01:21:40.000Z",
+          "wordCount": 914,
+          "title": "Python ユーザでも『データ可視化入門』で練習できるようにパッケージを作った + Plotnine との互換性ガイド - ill-identified diary"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210807-1941101/",
+          "author": null,
+          "description": "多くのユーザが使用しているGmailだが、その機能の豊富さと使い勝手のよさの一方、メールの内容を読み取って関連性の高い広告を表示するなど、機密性の低さがしばしば問題視される。著名なサービスゆえ攻撃の対象となったり、偽装に使われやすいのも事実で、フリーのメールアドレスで登録できないサービスの中には、Gmai...",
+          "link": "https://news.mynavi.jp/article/20210807-1941101/",
+          "publishedOn": "2021-08-07T00:43:27.000Z",
+          "wordCount": 378,
+          "title": "Gmailから乗り換えるならコレ！ 普段使いにぴったりなWebメールサービス3選 | マイナビニュース"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/07/news020.html",
+          "author": null,
+          "description": "今週の秋葉原も7月下旬から変わらず、東京2020オリンピック・パラリンピック競技大会の影響はほとんど感じられない。ただし、金曜日（6日）の日中における秋葉原の人通りは、先週と比べて明らかに少なくなっていた。 「都で1日4000人を超えたあたりから人足が減りましたね」 PCパーツショップの店内でも、同様の変化が起...",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/07/news020.html",
+          "publishedOn": "2021-08-06T21:33:26.000Z",
+          "wordCount": 496,
+          "title": "「宣言じゃなくて感染者数で」――アキバの客足が鈍る：古田雄介の週末アキバ速報（1/2 ページ） - ITmedia PC USER"
+        },
+        {
+          "id": "https://matt-rickard.com/reflections-on-10-000-hours-of-programming/",
+          "author": null,
+          "description": "The key to achieving world-class expertise in any skill, is to a large extent, a matter of practicing the correct way, for a total of around 10,000 hours — Malcolm Gladwell in OutliersWell, I'm certainly not a world-class expert, but I have put my 10,000 hours of deliberate practice into programm...",
+          "link": "https://matt-rickard.com/reflections-on-10-000-hours-of-programming/",
+          "publishedOn": "2021-08-06T17:15:38.000Z",
+          "wordCount": 934,
+          "title": "Reflections on 10,000 Hours of Programming"
+        },
+        {
+          "id": "https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format",
+          "author": null,
+          "description": "dispatch BGP. Peabody Internet-Draft Updates: 4122 (if approved) K. Davis Intended status: Standards Track 26 April 2021 Expires: 28 October 2021 New UUID Formats draft-peabody-dispatch-new-uuid-format-01 Abstract This document presents new time-based UUID formats which are suited for use as a da...",
+          "link": "https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format",
+          "publishedOn": "2021-08-06T16:53:14.000Z",
+          "wordCount": 7986,
+          "title": "draft-peabody-dispatch-new-uuid-format-01"
+        },
         {
           "id": "https://jp.techcrunch.com/2021/08/06/2021-08-05-apple-icloud-photos-scanning/",
           "author": null,
@@ -126,6 +211,42 @@
           "title": "アップルがiCloud上の児童虐待画像を検出する新技術「NeuralHash」導入へ | TechCrunch Japan"
         },
         {
+          "id": "https://tomomano.github.io/learn-aws-by-coding/",
+          "author": null,
+          "description": "各方面でご好評をいただいている本講義資料ですが，この度書籍 (紙・電子両方) として出版することが決定いたしました！ 書籍限定の書き下ろしの３章を新たに追加して，9月に発売予定です． 追ってこのページにて書籍情報を告知いたします． この資料を気に入っていただいた方は，手に取っていただけるとありがたいです...",
+          "link": "https://tomomano.github.io/learn-aws-by-coding/",
+          "publishedOn": "2021-08-06T15:42:26.000Z",
+          "wordCount": 13753,
+          "title": "コードで学ぶAWS入門"
+        },
+        {
+          "id": "https://zenn.dev/karaage0703/articles/46806d77983b8a",
+          "author": null,
+          "description": "学生のときは「論文なんて、何の役に立つんだろ？」とか思っていたダメ学生でしたが、最近は「論文は最先端の研究にキャッチアップするための最高の知のアーカイブの一つ」と少しだけ思えるようになりました。 機械学習・ディープラーニング(AI)の分野では、無料で読める論文がたくさんありますし、コードが公開されてい...",
+          "link": "https://zenn.dev/karaage0703/articles/46806d77983b8a",
+          "publishedOn": "2021-08-06T13:48:30.000Z",
+          "wordCount": 48,
+          "title": "機械学習の論文を探す場所まとめ"
+        },
+        {
+          "id": "https://about.mercari.com/press/news/articles/20210806_incident_report/",
+          "author": null,
+          "description": "株式会社メルカリは、コードカバレッジツール※1「Codecov」利用に起因する第三者からの不正アクセスにより、当社のソースコードの一部および一部顧客情報が流出したこと（以下、本件）を2021年5月21日に公表※2いたしました。その後、外部の専門企業の協力のもと、本件の影響範囲に関する詳細な調査（以下、本調査）を進...",
+          "link": "https://about.mercari.com/press/news/articles/20210806_incident_report/",
+          "publishedOn": "2021-08-06T13:37:39.000Z",
+          "wordCount": 161,
+          "title": "【調査結果のご報告】「Codecov」への第三者からの不正アクセスによる 当社への影響および一部顧客情報等の流出について | 株式会社メルカリ"
+        },
+        {
+          "id": "https://nlab.itmedia.co.jp/nl/articles/2108/06/news154.html",
+          "author": null,
+          "description": "ドバイ警察がまたすごいヤツを制式採用……!?　三笠製作所（愛知県名古屋市）が、ドバイ警察とともに共同開発を進めてきた移動式交番「SPS-AMV（Smart Police Station-Autonomous Mobile Vehicle）」の2号機を、10月1日に開幕するドバイ国際博覧会（ドバイ万博）に向けて“納車”したと発表しました。 ドバイ警察に納車予定...",
+          "link": "https://nlab.itmedia.co.jp/nl/articles/2108/06/news154.html",
+          "publishedOn": "2021-08-06T13:29:28.000Z",
+          "wordCount": 282,
+          "title": "またすごいのが来たー！　ドバイ警察、スピード違反も自動で取り締まる「自動移動式交番2号機」を採用　開発は日本の三笠製作所（1/2 ページ） - ねとらぼ"
+        },
+        {
           "id": "https://www.ro-da.jp/suidorekishida/photo",
           "author": null,
           "description": "東京では近代水道の創設以来、その水源である多摩川の水量や水質の保全が課題となっていた。そのため東京府では明治34年（1901）3月、日原川流域の民営林を保安林に指定するとともに皇室の御料林8,500町歩余を譲り受け、水道水源林としての経営を開始した。明治43年（1910）には水源林の管理が東京市に移され、「東京市...",
@@ -133,6 +254,33 @@
           "publishedOn": "2021-08-06T13:08:44.000Z",
           "wordCount": 83,
           "title": "近代水道写真館 - 東京都水道歴史館デジタルアーカイブシステム"
+        },
+        {
+          "id": "https://note.com/japan_d2/n/n9a1324d0c05a",
+          "author": null,
+          "description": "なぜ日本語UIキットを公開するのか？ デザインチームの研究活動のひとつとして、体験設計やUIデザインの品質を高めたり、デザインチーム内の協働を円滑に行うために、汎用的なデザインテンプレートやデザインアセットを作成し、体験デザインプロセスの仕組み化と共有を行っています。 UIデザインにおいても、Figma Commu...",
+          "link": "https://note.com/japan_d2/n/n9a1324d0c05a",
+          "publishedOn": "2021-08-06T11:41:08.000Z",
+          "wordCount": 168,
+          "title": "モバイルアプリ日本語UIキットの公開｜Japan Digital Design, Inc.｜note"
+        },
+        {
+          "id": "https://idmlab.eidentity.jp/2021/08/linefido2oss.html",
+          "author": null,
+          "description": "こんにちは、富士榮です。 もうすでに記憶の彼方ですがLINEさんは過去にFIDO2サーバーをOSSで公開する！と宣言していました。それが遂に公開されました！素晴らしい！ ということでとりあえず動かしてみました。（まだ中身は全然みてません、単に動かしただけです） LINE Security R&DチームがFIDO2認証標準を実装したFI...",
+          "link": "https://idmlab.eidentity.jp/2021/08/linefido2oss.html",
+          "publishedOn": "2021-08-06T11:37:47.000Z",
+          "wordCount": 1293,
+          "title": "IdM実験室: LINEがFIDO2サーバーをOSSで公開したので触ってみた"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-387736/",
+          "author": null,
+          "description": "巨大テック企業は一国の国内総生産（GDP）を超えるほどの収益を上げているともいわれていますが、1秒あたりではどれくらいの収益額になるのでしょうか？カナダの番組制作会社BNN Bloombergの朝の番組「The Open」のキャスターを務めるジョン・アーリックマン氏が投稿した収益早見表が話題になっています。 Appleは1秒あ...",
+          "link": "https://iphone-mania.jp/news-387736/",
+          "publishedOn": "2021-08-06T11:26:55.000Z",
+          "wordCount": 261,
+          "title": "Appleは毎秒115万円の収益を上げている？テック企業の収益早見表が話題に - iPhone Mania"
         },
         {
           "id": "https://www.td-media.net/interview/what-is-ui-ux-vol-3/",
@@ -189,6 +337,15 @@
           "title": "夏休みに作品を見つけて、グリーンスターをもらおう！はてなインターネット文学賞「作品発掘部門」参加は8/31まで - はてなブックマーク開発ブログ"
         },
         {
+          "id": "https://nazology.net/archives/94197",
+          "author": null,
+          "description": "Credit:Canva . ナゾロジー編集部 全ての画像を見る 個人の持つiPhoneに対してスキャンがはじまります。 今週の木曜日にAppleは、米国内の個人のiPhoneに記録されている全ての画像データに対して、常に監視を行うシステムを導入すると発表しました。 目的は児童虐待画像（児童ポルノ）の拡散を防止するためとのこと。 シ...",
+          "link": "https://nazology.net/archives/94197",
+          "publishedOn": "2021-08-06T08:45:57.000Z",
+          "wordCount": 378,
+          "title": "AppleがiPhone内の画像から勝手に児童ポルノを通報すると発表！今年中に米国で開始 - ナゾロジー"
+        },
+        {
           "id": "https://zenn.dev/mizchi/articles/no-traspiled-typescript",
           "author": null,
           "description": "主張 現代では、 npm に publish するものを除けば TypeScript をコンパイルして配布する必要はほぼないと考えています。 TypeScript のコンパイルをしない環境、例えば deno や rome を使うと、コンパイルをするというステップが省くことで開発体験が大きく向上する、という肌感があり、ローカル環境ならこのメリットを...",
@@ -214,6 +371,15 @@
           "publishedOn": "2021-08-06T07:51:42.000Z",
           "wordCount": 407,
           "title": "社内で開催されている勉強会を紹介します 2021夏 - ペパボテックブログ"
+        },
+        {
+          "id": "https://gigazine.net/news/20210806-microsoft-edge-super-duper-secure-mode/",
+          "author": null,
+          "description": "ウェブブラウザでセキュリティ上の課題の1つとなっているのが、Javascriptの特定タスク高速化のためのテクノロジー「実行時コンパイラ(JITコンパイラ)」を含むJavascriptエンジン関連です。Microsoftがこの点に対応すべく、JITを無効化する「Super Duper Secure Mode」をEdgeのCanary・Dev・Betaチャンネルに追加しまし...",
+          "link": "https://gigazine.net/news/20210806-microsoft-edge-super-duper-secure-mode/",
+          "publishedOn": "2021-08-06T07:17:55.000Z",
+          "wordCount": 197,
+          "title": "MicrosoftがEdgeでJITを無効化し安全なブラウジングができる「Super Duper Secure Mode」をテスト - GIGAZINE"
         },
         {
           "id": "https://forest.watch.impress.co.jp/docs/news/1342849.html",
@@ -297,6 +463,33 @@
           "title": "村田製作所、再委託先が7.2万件の情報を不正持ち出し　IBM中国法人の社員が個人用クラウドにアップロード - ITmedia NEWS"
         },
         {
+          "id": "https://ledge.ai/kyotouniv-datasciencecourse2021/",
+          "author": null,
+          "description": "※この記事はデータサイエンス専門メディア「Da-nce」からの転載です 京都大学は8月2日、「京都大学データサイエンス講座」と題したオンライン講座の受講生を募集開始した。「文系のための統計入門講座～統計検定®3級を目指して～」「データ分析に役立つ統計基礎講座 ～統計分析ソフトウェアR活用を目指して～」の2講座だ...",
+          "link": "https://ledge.ai/kyotouniv-datasciencecourse2021/",
+          "publishedOn": "2021-08-06T04:12:26.000Z",
+          "wordCount": 169,
+          "title": "京都大学、データサイエンス講座のオンライン受講者募集を開始 | Ledge.ai"
+        },
+        {
+          "id": "https://japanese.engadget.com/apple-promotes-rip-off-apps-030042293.html",
+          "author": null,
+          "description": "アップルはApp Storeがユーザーの安全を守るために重要な役割を果たしていると主張していますが、特集にて複数の詐欺的アプリを推薦してしまっていたと報じられています。 iOSアプリ開発者Beau Nouvelle氏の報告によると、オーストラリアのApp Storeでのアプリ特集「Slime relaxations」（スライムを扱ったリラックス系...",
+          "link": "https://japanese.engadget.com/apple-promotes-rip-off-apps-030042293.html",
+          "publishedOn": "2021-08-06T03:55:14.000Z",
+          "wordCount": 280,
+          "title": "アップルがうっかり詐欺的アプリを宣伝、一部開発者の怒りを買う - Engadget 日本版"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2108/06/news030.html",
+          "author": null,
+          "description": "VS CodeでJupyterしてみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） VS CodeでJupyter Notebookを使うための準備をして、ノートブックを作成したり、ノートブックを操作したりする方法を紹介します。 連載目次 Visual Studio Code（以下、VS Code）にPython拡張機能をインストールすると、同時にJupyter...",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2108/06/news030.html",
+          "publishedOn": "2021-08-06T03:10:26.000Z",
+          "wordCount": 257,
+          "title": "VS CodeでJupyterしてみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT"
+        },
+        {
           "id": "https://www.atmarkit.co.jp/ait/articles/2108/06/news030.html",
           "author": null,
           "description": "VS CodeでJupyterしてみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） VS CodeでJupyter Notebookを使うための準備をして、ノートブックを作成したり、ノートブックを操作したりする方法を紹介します。 連載目次 Visual Studio Code（以下、VS Code）にPython拡張機能をインストールすると、同時にJupyter...",
@@ -322,6 +515,15 @@
           "publishedOn": "2021-08-06T02:33:08.000Z",
           "wordCount": 149,
           "title": "ペンライトを振るとアイドルの衣装が光り、動きが持つ手に伝わる　ライブでアイドルと身体的に同期する手法、埼玉大が開発：Innovative Tech（1/3 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/064/4064081/",
+          "author": null,
+          "description": "2021年6月16日、愛媛県松山市のWstudioREDにて「kintone hive matsuyama」が開催された。kintone hive（キントーンハイブ）は、kintoneを業務で活用しているユーザーがノウハウや経験を共有するイベントだ。全国6ヵ所で開催され、その優勝者がサイボウズの総合イベント「Cybozu Days」で開催される「kintone AWARD」に出...",
+          "link": "https://ascii.jp/elem/000/004/064/4064081/",
+          "publishedOn": "2021-08-06T02:28:48.000Z",
+          "wordCount": 401,
+          "title": "ASCII.jp：kintoneで受付業務の業務改善とペーパーレス化を実現！　愛媛の不動産会社が始めた不動産DX"
         },
         {
           "id": "https://nulab.com/ja/blog/nulab/git-team-e2e-test-automation-with-autify/",
@@ -6334,24 +6536,6 @@
           "publishedOn": "2021-07-09T14:31:57.000Z",
           "wordCount": 2485,
           "title": "SVG Favicons in Action"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344024",
-          "author": "Chris Coyier",
-          "description": "Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …\nThe post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://wesbos.com/javascript",
-          "publishedOn": "2021-07-08T22:25:22.000Z",
-          "wordCount": 700,
-          "title": "Beginner JavaScript Notes"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343623",
-          "author": "Amit Sheen",
-          "description": "The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …\nThe post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/",
-          "publishedOn": "2021-07-08T14:35:38.000Z",
-          "wordCount": 2007,
-          "title": "My Struggle to Use and Animate a Conic Gradient in SVG"
         }
       ]
     },
@@ -6360,6 +6544,15 @@
       "feedUrl": "https://ecmascript-daily.github.io/atom.xml",
       "siteUrl": "https://ecmascript-daily.github.io/atom.xml",
       "articles": [
+        {
+          "id": "https://ecmascript-daily.github.io/2021/08/07/notes-meetings-2021-07-at-master-tc39-notes",
+          "author": null,
+          "description": "2021-07 TC39 Meeting Notes",
+          "link": "https://ecmascript-daily.github.io/2021/08/07/notes-meetings-2021-07-at-master-tc39-notes",
+          "publishedOn": "2021-08-07T15:19:16.000Z",
+          "wordCount": 70,
+          "title": "notes/meetings/2021-07 at master · tc39/notes"
+        },
         {
           "id": "https://ecmascript-daily.github.io/2021/07/20/tc39-proposal-arraybuffer-base64-tc39-proposal-for-arraybuffer-base64-string-functions",
           "author": null,
@@ -6446,6 +6639,42 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/muhd_ahsanayaz/announcing-the-angular-cookbook-6d6",
+          "author": "Muhammad Ahsan Ayaz",
+          "description": "*Taking a deep breath in relief.... Sigh!\nPackt store and on the Amazon store as well.\n\nIf you are an 🅰️ngular developer and are always thinking what are the best\nJUST\n! I've been working with Angular for more than 8 years to the point\nGoogle acknowledged myself as a\nGoogle Developers Expert in Angular. And I've\nevery Angular developer should know. Be it\nComponent Communication, Performance Optimization, Routing Strategies,\n or even Progressive Web Apps with Angular, I've got you\n600 pages of 🅰️ngular goodness! 😎\nOpen the following link to see a sample of the Kindle version (PDF).\n✔️ Gain a better understanding of how components, services, and directives work\n✔️ Understand how to create Progressive Web Apps using Angular from scratch\n✔️ Build rich animations and add them to your Angular apps\n✔️ Manage your app's data reactivity using RxJS\n✔️ Implement state management for your Angular apps with NgRx\n✔️ Optimize the performance of your new and existing web apps\n✔️ Write fail-safe unit tests and end-to-end tests for your web apps using Jest\n✔️ Get familiar with Angular CDK components for designing effective Angular\nThe book is for intermediate-level 🅰️ngular web developers looking for\nYEAH, of course. How'll I get rich otherwise?\n\nJust kidding 😄. I have spent a lot of time learning lots of techniques with\nthe hard way. And I'd never want anyone to unnecessarily spent extensive\nExpert in developing Enterprise\nGet it from Amazon",
+          "link": "https://dev.to/muhd_ahsanayaz/announcing-the-angular-cookbook-6d6",
+          "publishedOn": "2021-08-07T17:37:06.000Z",
+          "wordCount": 815,
+          "title": "🔥 Announcing the \"Angular Cookbook\""
+        },
+        {
+          "id": "https://dev.to/wlucha/angular-12-eslint-material-transloco-jest-compodoc-docker-55la",
+          "author": "wlucha",
+          "description": "Angular 12 Starter project with ESLint, Material, Transloco, Jest & Compodoc\n\nby @wlucha\nProject\n\nYou can find the project here:\n\nhttps://github.com/wlucha/angular-starter  \n✅ Angular 12+\n\n✅ Angular Material Theming\n\n✅ Jest Unit Testing\n\n✅ Internationalization with Transloco\n\n✅ Auto documentation with Compodoc\n\n✅ Analyse your project with webpack-bundle-analyzer  \n\nDemo\ngit clone https://github.com/wlucha/angular-starter\ncd angular-starter\n\n# Install dependencies\nnpm install\n\n# Start server\nnpm run start\n\n# Open in browser: http://localhost:4200\n\nnpm run start             - start the app\nnpm run lint              - lint the project\nnpm run test              - run unit tests\nnpm run build             - build the project\nnpm run build:prod        - build the project in production mode\nnpm run build:prod:stats  - build the project in product mode with stats\nnpm run analyse           - analyse bundle with webpack-bundle-analyzer\n\n\nnpm run compodoc          - generate compodoc documentation\nnpm run changelog         - generate changelog",
+          "link": "https://dev.to/wlucha/angular-12-eslint-material-transloco-jest-compodoc-docker-55la",
+          "publishedOn": "2021-08-07T17:18:00.000Z",
+          "wordCount": 560,
+          "title": "Angular 12 + ESLint + Material + Transloco + Jest + Compodoc + Docker"
+        },
+        {
+          "id": "https://dev.to/sammyshear/angular-vs-react-a-newbie-s-perspective-5epb",
+          "author": "Sammy Shear",
+          "description": "As far as web development goes, I am not the newest person on the block, I've been designing websites for quite some time. Now, when it comes to web app frameworks, I'm relatively new. I have been making full apps with React for some months now, and I've played around with Angular in that time, but haven't gotten too deep into it until a little more recently. That being said, I wanted to share what I've learned  in these past few months about which framework is \"better\" for you. If you're experienced at developing web apps, this is probably not a list for you, but if you're just getting started, I hope this helps.\nBuilt with TypeScript\nDesigned by Google\nSomewhat less daunting for more experienced HTML users\nOut of the box support for SASS, SCSS, and LESS\nMuch more \"complete\" out of the bo…",
+          "link": "https://dev.to/sammyshear/angular-vs-react-a-newbie-s-perspective-5epb",
+          "publishedOn": "2021-08-07T15:59:13.000Z",
+          "wordCount": 781,
+          "title": "Angular vs React: A Newbie's Perspective"
+        },
+        {
+          "id": "https://dev.to/the_thinkster/how-to-detect-if-a-user-is-online-offline-with-angular-rxjs-48cm",
+          "author": "Rameez Rami",
+          "description": "We all might be familiar with the JavaScript way of checking Online/Offline status. But in the case of Angular, we need to properly unsubscribe the events we are listening to, otherwise, we might cause unnecessary behaviors and memory leaks.\nwindow.addEventListener(\"load\", () => {\n  this.networkStatus = navigator.onLine\n\n  window.addEventListener(\"online\", () => {\n    this.networkStatus = true\n  });\n\n  window.addEventListener(\"offline\", () => {\n    this.networkStatus = false\n  });\n});\n\nimport { Component, OnDestroy, OnInit, VERSION } from '@angular/core';\n\nimport { fromEvent, merge, of, Subscription } from 'rxjs';\nimport { map } from 'rxjs/operators';\n\n@Component({\n  selector: 'my-app',\n  templateUrl: './app.component.html',\n  styleUrls: ['./app.component.css']\n})\nexport class AppComponent implements OnInit, OnDestroy {\n  networkStatus: boolean = false;\n  networkStatus$: Subscription = Subscription.EMPTY;\n\n  constructor() {}\n\n  ngOnInit(): void {\n    this.checkNetworkStatus();\n  }\n\n  ngOnDestroy(): void {\n    this.networkStatus$.unsubscribe();\n  }\n\n  checkNetworkStatus() {\n    this.networkStatus = navigator.onLine;\n    this.networkStatus$ = merge(\n      of(null),\n      fromEvent(window, 'online'),\n      fromEvent(window, 'offline')\n    )\n      .pipe(map(() => navigator.onLine))\n      .subscribe(status => {\n        console.log('status', status);\n        this.networkStatus = status;\n      });\n  }\n}\n\n\nYou can see the demo here: https://angular-check-offline-online.stackblitz.io\nor check the code here: https://stackblitz.com/edit/angular-check-offline-online?file=src/app/app.component.ts\nHappy coding!!! 🎉🎉🎉",
+          "link": "https://dev.to/the_thinkster/how-to-detect-if-a-user-is-online-offline-with-angular-rxjs-48cm",
+          "publishedOn": "2021-08-07T09:45:34.000Z",
+          "wordCount": 613,
+          "title": "How to detect if network connection is Online/Offline with Angular - RXJS"
+        },
         {
           "id": "https://dev.to/matteogrilli/can-t-click-on-html-element-cao",
           "author": "MatteoGrilli",
@@ -7246,6 +7475,24 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/chihab/build-your-own-rxjs-3edd",
+          "author": "Chihab Otmani",
+          "description": "Introduction\n\n\nOne of the effective ways to better know a technology is to get an idea of the underlying implementation and ideally try to build your own.\nOur journey throughout this post is to build some of the core RxJS features from scratch, namely:\nThe Observable class to create and subscribe to an Observable stream\nObservable creation utilities like fromEvent and interval\n\nOperators like take, map, switchMapTo and takeWhile\n\nThe pipe utility method which simplifies the composition of several operators applied to an Observable\n\n\n\nConsider the code below that starts a new countdown every time the user clicks on the Reset button.\n<div id=\"text\"></div>\n<button id=\"reset\">Reset</div>\n\nimport { interval, fromEvent } from \"rxjs\";\nimport { switchMap, map, take } from \"rxjs/operators\";\n\nfuncti…",
+          "link": "https://dev.to/chihab/build-your-own-rxjs-3edd",
+          "publishedOn": "2021-08-07T20:04:10.000Z",
+          "wordCount": 2550,
+          "title": "Build Your Own RxJS"
+        },
+        {
+          "id": "https://dev.to/the_thinkster/how-to-detect-if-a-user-is-online-offline-with-angular-rxjs-48cm",
+          "author": "Rameez Rami",
+          "description": "We all might be familiar with the JavaScript way of checking Online/Offline status. But in the case of Angular, we need to properly unsubscribe the events we are listening to, otherwise, we might cause unnecessary behaviors and memory leaks.\nwindow.addEventListener(\"load\", () => {\n  this.networkStatus = navigator.onLine\n\n  window.addEventListener(\"online\", () => {\n    this.networkStatus = true\n  });\n\n  window.addEventListener(\"offline\", () => {\n    this.networkStatus = false\n  });\n});\n\nimport { Component, OnDestroy, OnInit, VERSION } from '@angular/core';\n\nimport { fromEvent, merge, of, Subscription } from 'rxjs';\nimport { map } from 'rxjs/operators';\n\n@Component({\n  selector: 'my-app',\n  templateUrl: './app.component.html',\n  styleUrls: ['./app.component.css']\n})\nexport class AppComponent implements OnInit, OnDestroy {\n  networkStatus: boolean = false;\n  networkStatus$: Subscription = Subscription.EMPTY;\n\n  constructor() {}\n\n  ngOnInit(): void {\n    this.checkNetworkStatus();\n  }\n\n  ngOnDestroy(): void {\n    this.networkStatus$.unsubscribe();\n  }\n\n  checkNetworkStatus() {\n    this.networkStatus = navigator.onLine;\n    this.networkStatus$ = merge(\n      of(null),\n      fromEvent(window, 'online'),\n      fromEvent(window, 'offline')\n    )\n      .pipe(map(() => navigator.onLine))\n      .subscribe(status => {\n        console.log('status', status);\n        this.networkStatus = status;\n      });\n  }\n}\n\n\nYou can see the demo here: https://angular-check-offline-online.stackblitz.io\nor check the code here: https://stackblitz.com/edit/angular-check-offline-online?file=src/app/app.component.ts\nHappy coding!!! 🎉🎉🎉",
+          "link": "https://dev.to/the_thinkster/how-to-detect-if-a-user-is-online-offline-with-angular-rxjs-48cm",
+          "publishedOn": "2021-08-07T09:45:34.000Z",
+          "wordCount": 613,
+          "title": "How to detect if network connection is Online/Offline with Angular - RXJS"
+        },
+        {
           "id": "https://dev.to/thisdotmedia/advanced-ngrx-building-a-reusable-feature-store-4nd9",
           "author": "Morgan Worrell",
           "description": "As an angular application grows in scale and complexity, so often is the need for state management to help simplify its many moving parts. What often occurs is an increase in the amount of boilerplate involved in managing many feature states, and stores.\nIncrease in store size can often lead to repetitive patterns, much like in poor component design. However, if state is written well, an application can utilize a less common pattern- a reusable feature store- as we attempt to eliminate much of this boilerplate headache.\nThe following proposes a pattern where we’ll create a pattern for properly consolidating several stores, gain consistency across similar features with a reusable store, and address any pitfalls in this pattern.\nBefore we get too deep into consolidating, we should first stop…",
@@ -7494,24 +7741,6 @@
           "publishedOn": "2021-07-11T00:06:48.000Z",
           "wordCount": 383,
           "title": "ロゴのデザイン書が本日限り、Kindleセールで75％オフのワンコイン！ロゴのアイデアやテクニックがよく分かる"
-        },
-        {
-          "id": "https://coliss.com/?p=29673",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/book-review/isbn-9784295011644.html",
-          "publishedOn": "2021-07-09T00:36:18.000Z",
-          "wordCount": 444,
-          "title": "初心者でもこれなら大丈夫、WordPressの入門書！いちばんやさしいWordPressの教本 第5版"
-        },
-        {
-          "id": "https://coliss.com/?p=30146",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/procreate-hair-brushes-by-labfcreations.html",
-          "publishedOn": "2021-07-09T00:26:27.000Z",
-          "wordCount": 322,
-          "title": "通常は有料だけど今週末まで無料！女性イラストの髪の毛を簡単に描けるブラシ素材 -20 Procreate Hair Brushes"
         }
       ]
     },
@@ -7520,6 +7749,15 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/75bdedb0ca35",
+          "author": "Dr Stuart Woolley",
+          "description": "Decades in the trenches have taught me the secret sauce of the software engineering great game — it’s not all about technology\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-top-tips-to-be-a-progressive-software-engineer-75bdedb0ca35?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-07T09:48:31.000Z",
+          "wordCount": 1910,
+          "title": "Top 5 Tips To Be a Progressive Software Engineer"
+        },
         {
           "id": "https://medium.com/p/aad1c641640e",
           "author": "Cole Gawin",

@@ -2,10 +2,376 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-07T00:14:23.800Z</updated>
+    <updated>2021-08-08T00:16:39.552Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own RxJS]]></title>
+        <id>https://dev.to/chihab/build-your-own-rxjs-3edd</id>
+        <link href="https://dev.to/chihab/build-your-own-rxjs-3edd"/>
+        <updated>2021-08-07T20:04:10.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+One of the effective ways to better know a technology is to get an idea of the underlying implementation and ideally try to build your own.
+Our journey throughout this post is to build some of the core RxJS features from scratch, namely:
+The Observable class to create and subscribe to an Observable stream
+Observable creation utilities like fromEvent and interval
+
+Operators like take, map, switchMapTo and takeWhile
+
+The pipe utility method which simplifies the composition of several operators applied to an Observable
+
+
+
+Consider the code below that starts a new countdown every time the user clicks on the Reset button.
+<div id="text"></div>
+<button id="reset">Reset</div>
+
+import { interval, fromEvent } from "rxjs";
+import { switchMap, map, take } from "rxjs/operators";
+
+functi…]]></summary>
+        <author>
+            <name>Chihab Otmani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔥 Announcing the "Angular Cookbook"]]></title>
+        <id>https://dev.to/muhd_ahsanayaz/announcing-the-angular-cookbook-6d6</id>
+        <link href="https://dev.to/muhd_ahsanayaz/announcing-the-angular-cookbook-6d6"/>
+        <updated>2021-08-07T17:37:06.000Z</updated>
+        <summary type="html"><![CDATA[*Taking a deep breath in relief.... Sigh!
+Packt store and on the Amazon store as well.
+
+If you are an 🅰️ngular developer and are always thinking what are the best
+JUST
+! I've been working with Angular for more than 8 years to the point
+Google acknowledged myself as a
+Google Developers Expert in Angular. And I've
+every Angular developer should know. Be it
+Component Communication, Performance Optimization, Routing Strategies,
+ or even Progressive Web Apps with Angular, I've got you
+600 pages of 🅰️ngular goodness! 😎
+Open the following link to see a sample of the Kindle version (PDF).
+✔️ Gain a better understanding of how components, services, and directives work
+✔️ Understand how to create Progressive Web Apps using Angular from scratch
+✔️ Build rich animations and add them to your Angular apps
+✔️ Manage your app's data reactivity using RxJS
+✔️ Implement state management for your Angular apps with NgRx
+✔️ Optimize the performance of your new and existing web apps
+✔️ Write fail-safe unit tests and end-to-end tests for your web apps using Jest
+✔️ Get familiar with Angular CDK components for designing effective Angular
+The book is for intermediate-level 🅰️ngular web developers looking for
+YEAH, of course. How'll I get rich otherwise?
+
+Just kidding 😄. I have spent a lot of time learning lots of techniques with
+the hard way. And I'd never want anyone to unnecessarily spent extensive
+Expert in developing Enterprise
+Get it from Amazon]]></summary>
+        <author>
+            <name>Muhammad Ahsan Ayaz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular 12 + ESLint + Material + Transloco + Jest + Compodoc + Docker]]></title>
+        <id>https://dev.to/wlucha/angular-12-eslint-material-transloco-jest-compodoc-docker-55la</id>
+        <link href="https://dev.to/wlucha/angular-12-eslint-material-transloco-jest-compodoc-docker-55la"/>
+        <updated>2021-08-07T17:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Angular 12 Starter project with ESLint, Material, Transloco, Jest & Compodoc
+
+by @wlucha
+Project
+
+You can find the project here:
+
+https://github.com/wlucha/angular-starter  
+✅ Angular 12+
+
+✅ Angular Material Theming
+
+✅ Jest Unit Testing
+
+✅ Internationalization with Transloco
+
+✅ Auto documentation with Compodoc
+
+✅ Analyse your project with webpack-bundle-analyzer  
+
+Demo
+git clone https://github.com/wlucha/angular-starter
+cd angular-starter
+
+# Install dependencies
+npm install
+
+# Start server
+npm run start
+
+# Open in browser: http://localhost:4200
+
+npm run start             - start the app
+npm run lint              - lint the project
+npm run test              - run unit tests
+npm run build             - build the project
+npm run build:prod        - build the project in production mode
+npm run build:prod:stats  - build the project in product mode with stats
+npm run analyse           - analyse bundle with webpack-bundle-analyzer
+
+
+npm run compodoc          - generate compodoc documentation
+npm run changelog         - generate changelog]]></summary>
+        <author>
+            <name>wlucha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular vs React: A Newbie's Perspective]]></title>
+        <id>https://dev.to/sammyshear/angular-vs-react-a-newbie-s-perspective-5epb</id>
+        <link href="https://dev.to/sammyshear/angular-vs-react-a-newbie-s-perspective-5epb"/>
+        <updated>2021-08-07T15:59:13.000Z</updated>
+        <summary type="html"><![CDATA[As far as web development goes, I am not the newest person on the block, I've been designing websites for quite some time. Now, when it comes to web app frameworks, I'm relatively new. I have been making full apps with React for some months now, and I've played around with Angular in that time, but haven't gotten too deep into it until a little more recently. That being said, I wanted to share what I've learned  in these past few months about which framework is "better" for you. If you're experienced at developing web apps, this is probably not a list for you, but if you're just getting started, I hope this helps.
+Built with TypeScript
+Designed by Google
+Somewhat less daunting for more experienced HTML users
+Out of the box support for SASS, SCSS, and LESS
+Much more "complete" out of the bo…]]></summary>
+        <author>
+            <name>Sammy Shear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[notes/meetings/2021-07 at master · tc39/notes]]></title>
+        <id>https://ecmascript-daily.github.io/2021/08/07/notes-meetings-2021-07-at-master-tc39-notes</id>
+        <link href="https://ecmascript-daily.github.io/2021/08/07/notes-meetings-2021-07-at-master-tc39-notes"/>
+        <updated>2021-08-07T15:19:16.000Z</updated>
+        <summary type="html"><![CDATA[2021-07 TC39 Meeting Notes]]></summary>
+        <author>
+            <name>ECMAScript Daily</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CG学習向けの高校数学＋α - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/imagire/cgxue-xi-xiang-kefalsegao-xiao-shu-xue-a</id>
+        <link href="https://speakerdeck.com/imagire/cgxue-xi-xiang-kefalsegao-xiao-shu-xue-a"/>
+        <updated>2021-08-07T09:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Transcript CG学習向けの 高校数学＋α ここで紹介していない内容が大事でないとは言ってません @imagire 数学 I, II, III • 数 • 関数 • 方程式と線 • 指数関数・対数関数 • 三角関数 • 微分 • 積分 数学 I, II, III • 数 • 関数 • 方程式と線 • 指数関数・対数関数 • 三角関数 • 微分 • 積分 絶対値 • 0からの距離が等...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Tips To Be a Progressive Software Engineer]]></title>
+        <id>https://medium.com/p/75bdedb0ca35</id>
+        <link href="https://betterprogramming.pub/5-top-tips-to-be-a-progressive-software-engineer-75bdedb0ca35?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-07T09:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Decades in the trenches have taught me the secret sauce of the software engineering great game — it’s not all about technology
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Dr Stuart Woolley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to detect if network connection is Online/Offline with Angular - RXJS]]></title>
+        <id>https://dev.to/the_thinkster/how-to-detect-if-a-user-is-online-offline-with-angular-rxjs-48cm</id>
+        <link href="https://dev.to/the_thinkster/how-to-detect-if-a-user-is-online-offline-with-angular-rxjs-48cm"/>
+        <updated>2021-08-07T09:45:34.000Z</updated>
+        <summary type="html"><![CDATA[We all might be familiar with the JavaScript way of checking Online/Offline status. But in the case of Angular, we need to properly unsubscribe the events we are listening to, otherwise, we might cause unnecessary behaviors and memory leaks.
+window.addEventListener("load", () => {
+  this.networkStatus = navigator.onLine
+
+  window.addEventListener("online", () => {
+    this.networkStatus = true
+  });
+
+  window.addEventListener("offline", () => {
+    this.networkStatus = false
+  });
+});
+
+import { Component, OnDestroy, OnInit, VERSION } from '@angular/core';
+
+import { fromEvent, merge, of, Subscription } from 'rxjs';
+import { map } from 'rxjs/operators';
+
+@Component({
+  selector: 'my-app',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+export class AppComponent implements OnInit, OnDestroy {
+  networkStatus: boolean = false;
+  networkStatus$: Subscription = Subscription.EMPTY;
+
+  constructor() {}
+
+  ngOnInit(): void {
+    this.checkNetworkStatus();
+  }
+
+  ngOnDestroy(): void {
+    this.networkStatus$.unsubscribe();
+  }
+
+  checkNetworkStatus() {
+    this.networkStatus = navigator.onLine;
+    this.networkStatus$ = merge(
+      of(null),
+      fromEvent(window, 'online'),
+      fromEvent(window, 'offline')
+    )
+      .pipe(map(() => navigator.onLine))
+      .subscribe(status => {
+        console.log('status', status);
+        this.networkStatus = status;
+      });
+  }
+}
+
+
+You can see the demo here: https://angular-check-offline-online.stackblitz.io
+or check the code here: https://stackblitz.com/edit/angular-check-offline-online?file=src/app/app.component.ts
+Happy coding!!! 🎉🎉🎉]]></summary>
+        <author>
+            <name>Rameez Rami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to detect if network connection is Online/Offline with Angular - RXJS]]></title>
+        <id>https://dev.to/the_thinkster/how-to-detect-if-a-user-is-online-offline-with-angular-rxjs-48cm</id>
+        <link href="https://dev.to/the_thinkster/how-to-detect-if-a-user-is-online-offline-with-angular-rxjs-48cm"/>
+        <updated>2021-08-07T09:45:34.000Z</updated>
+        <summary type="html"><![CDATA[We all might be familiar with the JavaScript way of checking Online/Offline status. But in the case of Angular, we need to properly unsubscribe the events we are listening to, otherwise, we might cause unnecessary behaviors and memory leaks.
+window.addEventListener("load", () => {
+  this.networkStatus = navigator.onLine
+
+  window.addEventListener("online", () => {
+    this.networkStatus = true
+  });
+
+  window.addEventListener("offline", () => {
+    this.networkStatus = false
+  });
+});
+
+import { Component, OnDestroy, OnInit, VERSION } from '@angular/core';
+
+import { fromEvent, merge, of, Subscription } from 'rxjs';
+import { map } from 'rxjs/operators';
+
+@Component({
+  selector: 'my-app',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+export class AppComponent implements OnInit, OnDestroy {
+  networkStatus: boolean = false;
+  networkStatus$: Subscription = Subscription.EMPTY;
+
+  constructor() {}
+
+  ngOnInit(): void {
+    this.checkNetworkStatus();
+  }
+
+  ngOnDestroy(): void {
+    this.networkStatus$.unsubscribe();
+  }
+
+  checkNetworkStatus() {
+    this.networkStatus = navigator.onLine;
+    this.networkStatus$ = merge(
+      of(null),
+      fromEvent(window, 'online'),
+      fromEvent(window, 'offline')
+    )
+      .pipe(map(() => navigator.onLine))
+      .subscribe(status => {
+        console.log('status', status);
+        this.networkStatus = status;
+      });
+  }
+}
+
+
+You can see the demo here: https://angular-check-offline-online.stackblitz.io
+or check the code here: https://stackblitz.com/edit/angular-check-offline-online?file=src/app/app.component.ts
+Happy coding!!! 🎉🎉🎉]]></summary>
+        <author>
+            <name>Rameez Rami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubyの開発環境を2021年ぽくする for Windows - ブログのおんがえし]]></title>
+        <id>https://ongaeshi.hatenablog.com/entry/ruby-development-environment-for-windows</id>
+        <link href="https://ongaeshi.hatenablog.com/entry/ruby-development-environment-for-windows"/>
+        <updated>2021-08-07T06:37:22.000Z</updated>
+        <summary type="html"><![CDATA[2021年なのでこれくらいは欲しい。 Ruby 2.7.4 VSCode バイナリgemを確実にビルドできる コードフォーマッタ Lint デバッガ コード補完 それぞれは独立した機能なので全部入れなくてもいいと思います。(個人的には上から順に必須度が高い) Ruby 2.7.4 Ruby3自体は安定しているがgem周りの挙動が若干安定していなかったの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denton Gentry 💉💉🎉 on Twitter: "Serverless @Tailscale Heroku: https://t.co/2ksrEEWQdW AWS Lambda: https://t.co/NXYMeWRQZy Google Cloud Run:… https://t.co/VbWAC2cnMI"]]></title>
+        <id>https://twitter.com/dgentry/status/1423719948824694785</id>
+        <link href="https://twitter.com/dgentry/status/1423719948824694785"/>
+        <updated>2021-08-07T04:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Serverless @Tailscale Heroku: https://t.co/2ksrEEWQdW AWS Lambda: https://t.co/NXYMeWRQZy Google Cloud Run:… https://t.co/VbWAC2cnMI]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体制を考えるときに意識していること - id:onk のはてなブログ]]></title>
+        <id>https://onk.hatenablog.jp/entry/2021/08/07/133352</id>
+        <link href="https://onk.hatenablog.jp/entry/2021/08/07/133352"/>
+        <updated>2021-08-07T04:37:24.000Z</updated>
+        <summary type="html"><![CDATA[1on1 で伝えたので外にも書いておく。 プロダクトやチーム、メンバーのフェーズ まず現状分析。 自プロダクトは PPM で言う花形、金のなる木、問題児、負け犬のいずれに当たるのか 勢い MAX でめっちゃ盛り上げるのか、地味に役割を達成するのか。自チーム全集中なのか他チームのフォローに回るのかみたいな方針が変わる...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「コンテナ」「Kubernetes」はコスト削減のためではない――ガートナーが語る“誤解と真実”：最も重要なのは「組織変革」（1/2 ページ） - ＠IT]]></title>
+        <id>https://atmarkit.itmedia.co.jp/ait/articles/2107/30/news032.html</id>
+        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2107/30/news032.html"/>
+        <updated>2021-08-07T04:17:49.000Z</updated>
+        <summary type="html"><![CDATA[「コンテナ」「Kubernetes」はコスト削減のためではない――ガートナーが語る“誤解と真実”：最も重要なのは「組織変革」（1/2 ページ） 2021年6月21〜22日にガートナーが開催した「アプリケーション・イノベーション＆ビジネス・ソリューション サミット」で、ガートナー ジャパンの桂島 航氏が「コンテナとKubernetesをIT...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハッカー集団の「攻撃マニュアル」闇サイトに流出か | IT・ネット | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210807/k10013186771000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210807/k10013186771000.html"/>
+        <updated>2021-08-07T02:56:03.000Z</updated>
+        <summary type="html"><![CDATA[世界各国で、身代金要求型ウイルス＝ランサムウエアによるサイバー攻撃が深刻化する中、最大の被害を出しているとされるハッカー集団が使う「攻撃マニュアル」と見られるファイルが闇サイトに流出したことがわかりました。専門家は、ハッカー集団の攻撃の手口を知り、対策を取る手がかりになると分析しています。 流出し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python ユーザでも『データ可視化入門』で練習できるようにパッケージを作った + Plotnine との互換性ガイド - ill-identified diary]]></title>
+        <id>https://ill-identified.hatenablog.com/entry/2021/08/06/200859</id>
+        <link href="https://ill-identified.hatenablog.com/entry/2021/08/06/200859"/>
+        <updated>2021-08-07T01:21:40.000Z</updated>
+        <summary type="html"><![CDATA[概要 pysocviz が提供する機能 ggplot2 と同じようにできないところとその対策 aes() にクオートされてない変数を指定できない R のように改行できない ggplot2 で使えた色名が使えない ggplot2 で使えた linetype が使えない 文字化けの回避 ggrepel パッケージの利用 scales::percent などの単位・スケール指定 テーマ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gmailから乗り換えるならコレ！ 普段使いにぴったりなWebメールサービス3選 | マイナビニュース]]></title>
+        <id>https://news.mynavi.jp/article/20210807-1941101/</id>
+        <link href="https://news.mynavi.jp/article/20210807-1941101/"/>
+        <updated>2021-08-07T00:43:27.000Z</updated>
+        <summary type="html"><![CDATA[多くのユーザが使用しているGmailだが、その機能の豊富さと使い勝手のよさの一方、メールの内容を読み取って関連性の高い広告を表示するなど、機密性の低さがしばしば問題視される。著名なサービスゆえ攻撃の対象となったり、偽装に使われやすいのも事実で、フリーのメールアドレスで登録できないサービスの中には、Gmai...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can't click on html element]]></title>
         <id>https://dev.to/matteogrilli/can-t-click-on-html-element-cao</id>
@@ -28,6 +394,16 @@ So the question is: why do clicks stop at the angular component and don't go all
 Continue reading on Better Programming »]]></summary>
         <author>
             <name>Cole Gawin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「宣言じゃなくて感染者数で」――アキバの客足が鈍る：古田雄介の週末アキバ速報（1/2 ページ） - ITmedia PC USER]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/07/news020.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/07/news020.html"/>
+        <updated>2021-08-06T21:33:26.000Z</updated>
+        <summary type="html"><![CDATA[今週の秋葉原も7月下旬から変わらず、東京2020オリンピック・パラリンピック競技大会の影響はほとんど感じられない。ただし、金曜日（6日）の日中における秋葉原の人通りは、先週と比べて明らかに少なくなっていた。 「都で1日4000人を超えたあたりから人足が減りましたね」 PCパーツショップの店内でも、同様の変化が起...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -54,11 +430,41 @@ The post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reflections on 10,000 Hours of Programming]]></title>
+        <id>https://matt-rickard.com/reflections-on-10-000-hours-of-programming/</id>
+        <link href="https://matt-rickard.com/reflections-on-10-000-hours-of-programming/"/>
+        <updated>2021-08-06T17:15:38.000Z</updated>
+        <summary type="html"><![CDATA[The key to achieving world-class expertise in any skill, is to a large extent, a matter of practicing the correct way, for a total of around 10,000 hours — Malcolm Gladwell in OutliersWell, I'm certainly not a world-class expert, but I have put my 10,000 hours of deliberate practice into programm...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[draft-peabody-dispatch-new-uuid-format-01]]></title>
+        <id>https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format</id>
+        <link href="https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format"/>
+        <updated>2021-08-06T16:53:14.000Z</updated>
+        <summary type="html"><![CDATA[dispatch BGP. Peabody Internet-Draft Updates: 4122 (if approved) K. Davis Intended status: Standards Track 26 April 2021 Expires: 28 October 2021 New UUID Formats draft-peabody-dispatch-new-uuid-format-01 Abstract This document presents new time-based UUID formats which are suited for use as a da...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[アップルがiCloud上の児童虐待画像を検出する新技術「NeuralHash」導入へ | TechCrunch Japan]]></title>
         <id>https://jp.techcrunch.com/2021/08/06/2021-08-05-apple-icloud-photos-scanning/</id>
         <link href="https://jp.techcrunch.com/2021/08/06/2021-08-05-apple-icloud-photos-scanning/"/>
         <updated>2021-08-06T16:16:33.000Z</updated>
         <summary type="html"><![CDATA[Apple（アップル）は、既知の児童性的虐待素材を検知し、ユーザープライバシーが守られる方法で警察機関に通報する技術を2021年中に展開する。 Appleは、児童性的虐待素材（CSAM）の検出は同社のサービスを使用する子どもたちをオンライン危害から守ることを目的とした新機能の一環であるとTechCrunchに語った。子どもの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コードで学ぶAWS入門]]></title>
+        <id>https://tomomano.github.io/learn-aws-by-coding/</id>
+        <link href="https://tomomano.github.io/learn-aws-by-coding/"/>
+        <updated>2021-08-06T15:42:26.000Z</updated>
+        <summary type="html"><![CDATA[各方面でご好評をいただいている本講義資料ですが，この度書籍 (紙・電子両方) として出版することが決定いたしました！ 書籍限定の書き下ろしの３章を新たに追加して，9月に発売予定です． 追ってこのページにて書籍情報を告知いたします． この資料を気に入っていただいた方は，手に取っていただけるとありがたいです...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -108,6 +514,16 @@ Continue reading on Better Programming »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[機械学習の論文を探す場所まとめ]]></title>
+        <id>https://zenn.dev/karaage0703/articles/46806d77983b8a</id>
+        <link href="https://zenn.dev/karaage0703/articles/46806d77983b8a"/>
+        <updated>2021-08-06T13:48:30.000Z</updated>
+        <summary type="html"><![CDATA[学生のときは「論文なんて、何の役に立つんだろ？」とか思っていたダメ学生でしたが、最近は「論文は最先端の研究にキャッチアップするための最高の知のアーカイブの一つ」と少しだけ思えるようになりました。 機械学習・ディープラーニング(AI)の分野では、無料で読める論文がたくさんありますし、コードが公開されてい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Advance Angular Dynamic Component]]></title>
         <id>https://dev.to/this-is-angular/advance-angular-dynamic-component-12e</id>
         <link href="https://dev.to/this-is-angular/advance-angular-dynamic-component-12e"/>
@@ -131,6 +547,26 @@ To work around the problem we would use a custom directive that could help as…
 Continue reading on Better Programming »]]></summary>
         <author>
             <name>Dev by RayRay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【調査結果のご報告】「Codecov」への第三者からの不正アクセスによる 当社への影響および一部顧客情報等の流出について | 株式会社メルカリ]]></title>
+        <id>https://about.mercari.com/press/news/articles/20210806_incident_report/</id>
+        <link href="https://about.mercari.com/press/news/articles/20210806_incident_report/"/>
+        <updated>2021-08-06T13:37:39.000Z</updated>
+        <summary type="html"><![CDATA[株式会社メルカリは、コードカバレッジツール※1「Codecov」利用に起因する第三者からの不正アクセスにより、当社のソースコードの一部および一部顧客情報が流出したこと（以下、本件）を2021年5月21日に公表※2いたしました。その後、外部の専門企業の協力のもと、本件の影響範囲に関する詳細な調査（以下、本調査）を進...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[またすごいのが来たー！　ドバイ警察、スピード違反も自動で取り締まる「自動移動式交番2号機」を採用　開発は日本の三笠製作所（1/2 ページ） - ねとらぼ]]></title>
+        <id>https://nlab.itmedia.co.jp/nl/articles/2108/06/news154.html</id>
+        <link href="https://nlab.itmedia.co.jp/nl/articles/2108/06/news154.html"/>
+        <updated>2021-08-06T13:29:28.000Z</updated>
+        <summary type="html"><![CDATA[ドバイ警察がまたすごいヤツを制式採用……!?　三笠製作所（愛知県名古屋市）が、ドバイ警察とともに共同開発を進めてきた移動式交番「SPS-AMV（Smart Police Station-Autonomous Mobile Vehicle）」の2号機を、10月1日に開幕するドバイ国際博覧会（ドバイ万博）に向けて“納車”したと発表しました。 ドバイ警察に納車予定...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -176,6 +612,36 @@ Now that we have learned about some essential information regarding the…]]></s
 Continue reading on Better Programming »]]></summary>
         <author>
             <name>Josef Cruz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モバイルアプリ日本語UIキットの公開｜Japan Digital Design, Inc.｜note]]></title>
+        <id>https://note.com/japan_d2/n/n9a1324d0c05a</id>
+        <link href="https://note.com/japan_d2/n/n9a1324d0c05a"/>
+        <updated>2021-08-06T11:41:08.000Z</updated>
+        <summary type="html"><![CDATA[なぜ日本語UIキットを公開するのか？ デザインチームの研究活動のひとつとして、体験設計やUIデザインの品質を高めたり、デザインチーム内の協働を円滑に行うために、汎用的なデザインテンプレートやデザインアセットを作成し、体験デザインプロセスの仕組み化と共有を行っています。 UIデザインにおいても、Figma Commu...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IdM実験室: LINEがFIDO2サーバーをOSSで公開したので触ってみた]]></title>
+        <id>https://idmlab.eidentity.jp/2021/08/linefido2oss.html</id>
+        <link href="https://idmlab.eidentity.jp/2021/08/linefido2oss.html"/>
+        <updated>2021-08-06T11:37:47.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、富士榮です。 もうすでに記憶の彼方ですがLINEさんは過去にFIDO2サーバーをOSSで公開する！と宣言していました。それが遂に公開されました！素晴らしい！ ということでとりあえず動かしてみました。（まだ中身は全然みてません、単に動かしただけです） LINE Security R&DチームがFIDO2認証標準を実装したFI...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleは毎秒115万円の収益を上げている？テック企業の収益早見表が話題に - iPhone Mania]]></title>
+        <id>https://iphone-mania.jp/news-387736/</id>
+        <link href="https://iphone-mania.jp/news-387736/"/>
+        <updated>2021-08-06T11:26:55.000Z</updated>
+        <summary type="html"><![CDATA[巨大テック企業は一国の国内総生産（GDP）を超えるほどの収益を上げているともいわれていますが、1秒あたりではどれくらいの収益額になるのでしょうか？カナダの番組制作会社BNN Bloombergの朝の番組「The Open」のキャスターを務めるジョン・アーリックマン氏が投稿した収益早見表が話題になっています。 Appleは1秒あ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -250,6 +716,16 @@ Continue reading on Better Programming »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AppleがiPhone内の画像から勝手に児童ポルノを通報すると発表！今年中に米国で開始 - ナゾロジー]]></title>
+        <id>https://nazology.net/archives/94197</id>
+        <link href="https://nazology.net/archives/94197"/>
+        <updated>2021-08-06T08:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Credit:Canva . ナゾロジー編集部 全ての画像を見る 個人の持つiPhoneに対してスキャンがはじまります。 今週の木曜日にAppleは、米国内の個人のiPhoneに記録されている全ての画像データに対して、常に監視を行うシステムを導入すると発表しました。 目的は児童虐待画像（児童ポルノ）の拡散を防止するためとのこと。 シ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[内部モジュールでは TypeScript をコンパイルせずに配る]]></title>
         <id>https://zenn.dev/mizchi/articles/no-traspiled-typescript</id>
         <link href="https://zenn.dev/mizchi/articles/no-traspiled-typescript"/>
@@ -275,6 +751,16 @@ Continue reading on Better Programming »]]></summary>
         <link href="https://tech.pepabo.com/2021/08/06/study-meetings-in-pepabo/"/>
         <updated>2021-08-06T07:51:42.000Z</updated>
         <summary type="html"><![CDATA[はじめに @june29 と申します。minne事業部のシニアエンジニアリングリードを担当しています。 この夏、エンジニア #採用目的フェス を開催します!! - ペパボテックブログ さて、上記の記事の通りペパボは「#採用目的フェス」を開催しておりまして、とにかくエンジニアを採用したすぎて穏やかじゃない気持ちでこの夏を過...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicrosoftがEdgeでJITを無効化し安全なブラウジングができる「Super Duper Secure Mode」をテスト - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210806-microsoft-edge-super-duper-secure-mode/</id>
+        <link href="https://gigazine.net/news/20210806-microsoft-edge-super-duper-secure-mode/"/>
+        <updated>2021-08-06T07:17:55.000Z</updated>
+        <summary type="html"><![CDATA[ウェブブラウザでセキュリティ上の課題の1つとなっているのが、Javascriptの特定タスク高速化のためのテクノロジー「実行時コンパイラ(JITコンパイラ)」を含むJavascriptエンジン関連です。Microsoftがこの点に対応すべく、JITを無効化する「Super Duper Secure Mode」をEdgeのCanary・Dev・Betaチャンネルに追加しまし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -370,6 +856,26 @@ Continue reading on Better Programming »]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[京都大学、データサイエンス講座のオンライン受講者募集を開始 | Ledge.ai]]></title>
+        <id>https://ledge.ai/kyotouniv-datasciencecourse2021/</id>
+        <link href="https://ledge.ai/kyotouniv-datasciencecourse2021/"/>
+        <updated>2021-08-06T04:12:26.000Z</updated>
+        <summary type="html"><![CDATA[※この記事はデータサイエンス専門メディア「Da-nce」からの転載です 京都大学は8月2日、「京都大学データサイエンス講座」と題したオンライン講座の受講生を募集開始した。「文系のための統計入門講座～統計検定®3級を目指して～」「データ分析に役立つ統計基礎講座 ～統計分析ソフトウェアR活用を目指して～」の2講座だ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アップルがうっかり詐欺的アプリを宣伝、一部開発者の怒りを買う - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/apple-promotes-rip-off-apps-030042293.html</id>
+        <link href="https://japanese.engadget.com/apple-promotes-rip-off-apps-030042293.html"/>
+        <updated>2021-08-06T03:55:14.000Z</updated>
+        <summary type="html"><![CDATA[アップルはApp Storeがユーザーの安全を守るために重要な役割を果たしていると主張していますが、特集にて複数の詐欺的アプリを推薦してしまっていたと報じられています。 iOSアプリ開発者Beau Nouvelle氏の報告によると、オーストラリアのApp Storeでのアプリ特集「Slime relaxations」（スライムを扱ったリラックス系...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Updates on dev.to clone in Angular - August 6]]></title>
         <id>https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-august-6-3de4</id>
         <link href="https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-august-6-3de4"/>
@@ -383,6 +889,16 @@ This week I added article details page the styling is left so I added the basic 
 This week I focused on the article details section and joining the homepage articles to article details section. It was a bit tiresome this week. There were some problems like getting a specific article by path requires you to set the article username which I came to know that can be either username or organization name but if organization name exists it has to be organization name. There is no API to get featured …]]></summary>
         <author>
             <name>Ajit Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS CodeでJupyterしてみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT]]></title>
+        <id>https://atmarkit.itmedia.co.jp/ait/articles/2108/06/news030.html</id>
+        <link href="https://atmarkit.itmedia.co.jp/ait/articles/2108/06/news030.html"/>
+        <updated>2021-08-06T03:10:26.000Z</updated>
+        <summary type="html"><![CDATA[VS CodeでJupyterしてみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） VS CodeでJupyter Notebookを使うための準備をして、ノートブックを作成したり、ノートブックを操作したりする方法を紹介します。 連載目次 Visual Studio Code（以下、VS Code）にPython拡張機能をインストールすると、同時にJupyter...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -411,6 +927,16 @@ This week I focused on the article details section and joining the homepage arti
         <link href="https://www.itmedia.co.jp/news/articles/2108/06/news072.html"/>
         <updated>2021-08-06T02:33:08.000Z</updated>
         <summary type="html"><![CDATA[ペンライトを振るとアイドルの衣装が光り、動きが持つ手に伝わる　ライブでアイドルと身体的に同期する手法、埼玉大が開発：Innovative Tech（1/3 ページ）]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII.jp：kintoneで受付業務の業務改善とペーパーレス化を実現！　愛媛の不動産会社が始めた不動産DX]]></title>
+        <id>https://ascii.jp/elem/000/004/064/4064081/</id>
+        <link href="https://ascii.jp/elem/000/004/064/4064081/"/>
+        <updated>2021-08-06T02:28:48.000Z</updated>
+        <summary type="html"><![CDATA[2021年6月16日、愛媛県松山市のWstudioREDにて「kintone hive matsuyama」が開催された。kintone hive（キントーンハイブ）は、kintoneを業務で活用しているユーザーがノウハウや経験を共有するイベントだ。全国6ヵ所で開催され、その優勝者がサイボウズの総合イベント「Cybozu Days」で開催される「kintone AWARD」に出...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -9560,69 +10086,6 @@ The task is more non-trivial than you might think. As we will see in this …
 The post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Philippe Bernard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Ionic/Angular Universal】本番環境のみ強制SSL(httpsリダイレクト)の設定]]></title>
-        <id>https://zenn.dev/nakano_shingo/articles/7463d115162bf6</id>
-        <link href="https://zenn.dev/nakano_shingo/articles/7463d115162bf6"/>
-        <updated>2021-07-09T07:48:50.000Z</updated>
-        <summary type="html"><![CDATA[背景
-Angularアプリケーションを、Google App Engineの環境にデプロイした利用しているアプリで、公式ドキュメントにある設定を試しても強制SSLが対応できなかった
-https://cloud.google.com/appengine/docs/standard/nodejs/application-security?hl=ja
-※ 一部抜粋
-
-      
-        app.yaml
-        handlers:
-- url: /.*
-  script: auto
-  secure: always
-  redirect_http_response_cod...]]></summary>
-        <author>
-            <name>くまぽん</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初心者でもこれなら大丈夫、WordPressの入門書！いちばんやさしいWordPressの教本 第5版]]></title>
-        <id>https://coliss.com/?p=29673</id>
-        <link href="https://coliss.com/articles/book-review/isbn-9784295011644.html"/>
-        <updated>2021-07-09T00:36:18.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通常は有料だけど今週末まで無料！女性イラストの髪の毛を簡単に描けるブラシ素材 -20 Procreate Hair Brushes]]></title>
-        <id>https://coliss.com/?p=30146</id>
-        <link href="https://coliss.com/articles/products/procreate-hair-brushes-by-labfcreations.html"/>
-        <updated>2021-07-09T00:26:27.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner JavaScript Notes]]></title>
-        <id>https://css-tricks.com/?p=344024</id>
-        <link href="https://wesbos.com/javascript"/>
-        <updated>2021-07-08T22:25:22.000Z</updated>
-        <summary type="html"><![CDATA[Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …
-The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Struggle to Use and Animate a Conic Gradient in SVG]]></title>
-        <id>https://css-tricks.com/?p=343623</id>
-        <link href="https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/"/>
-        <updated>2021-07-08T14:35:38.000Z</updated>
-        <summary type="html"><![CDATA[The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …
-The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
         </author>
     </entry>
 </feed>
