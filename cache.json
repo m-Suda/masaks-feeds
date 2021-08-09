@@ -103,6 +103,195 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://itlaw.hatenablog.com/entry/2021/08/08/221130",
+          "author": null,
+          "description": "ソフトウェアの1ライセンスで許諾される利用可能な範囲と，通常料金の10倍という高額な違約金を定める条項の有効性が問題となった事例。 事案の概要 Xは，メタボリックシンドロームに着目した健康診査及び保健指導に関するデータ作成用のプログラム（本件プログラム）の著作権者である。本件プログラムには，平成30年の...",
+          "link": "https://itlaw.hatenablog.com/entry/2021/08/08/221130",
+          "publishedOn": "2021-08-08T22:28:05.000Z",
+          "wordCount": 153,
+          "title": "１ライセンスでの使用可能な範囲の解釈と，違約金合意の有効性　東京地判令3.3.24（平30ワ38486） - IT・システム判例メモ"
+        },
+        {
+          "id": "https://piyolog.hatenadiary.jp/entry/2021/08/09/070000",
+          "author": null,
+          "description": "東京オリンピックについて、これまで関係組織からの発表や報道されたサイバー関連事象についてまとめます。この記事は個別事象を整理したもので各々の関連性は一部を除きありません。また大会期間中のものを判別つきやすくするためタイトル部を赤文字で記載しています。 大会中に起きたこと 東京オリンピック期間中、過...",
+          "link": "https://piyolog.hatenadiary.jp/entry/2021/08/09/070000",
+          "publishedOn": "2021-08-08T22:22:14.000Z",
+          "wordCount": 608,
+          "title": "東京オリンピックのサイバー関連の出来事についてまとめてみた - piyolog"
+        },
+        {
+          "id": "https://www.moguravr.com/oculus-quest-additional-functions/",
+          "author": null,
+          "description": "Facebookの一体型VRヘッドセットOculus Quest（オキュラス クエスト）には、2019年5月のリリース以降、ソフトウェア・アップデートによって、様々な新機能が定期的に追加されてきました。この流れは、2020年10月のQuest 2登場後も継続中。120Hzモードや「Air Link」など、VR体験をより快適に、より拡張する機能の実装が...",
+          "link": "https://www.moguravr.com/oculus-quest-additional-functions/",
+          "publishedOn": "2021-08-08T10:45:35.000Z",
+          "wordCount": 263,
+          "title": "アプデで進化するVRヘッドセット Oculus Questシリーズの機能追加をまとめてみた | Mogura VR"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-388210/",
+          "author": null,
+          "description": "Googleは先日、独自設計のシステムオンチップ（SoC）「Tensor」を発表、年内にリリース予定の次期フラッグシップスマートフォンPixel 6シリーズに搭載することを明らかにしました。 しかしこの「独自設計」TensorについてオランダメディアGalaxyClubは「その実態はSamsung Exynos 9855だ」と指摘しています。 Tensor、Ex...",
+          "link": "https://iphone-mania.jp/news-388210/",
+          "publishedOn": "2021-08-08T10:34:18.000Z",
+          "wordCount": 234,
+          "title": "Google Tensorチップの実態はExynos 9855であるとの指摘 - iPhone Mania"
+        },
+        {
+          "id": "https://speakerdeck.com/hiroki_hasegawa/domeinqu-dong-she-ji-toyi-cun-xing-ni-zhuan-falseyuan-ze",
+          "author": null,
+          "description": "Transcript ドメイン駆動設計 と 依存性逆転の原則 株式会社ユニクエスト 2021/08/06 長谷川広樹 GitHub： https://github.com/hiroki-it 自己紹介 長谷川広樹（はせがわひろき） ▪ 経歴 『生き物の研究者になるぞ！ ▶ IT技術おもしろいな... ▶ エンジニアになるぞ！』 を経て，バックエンドエンジニアになった．現在は...",
+          "link": "https://speakerdeck.com/hiroki_hasegawa/domeinqu-dong-she-ji-toyi-cun-xing-ni-zhuan-falseyuan-ze",
+          "publishedOn": "2021-08-08T10:01:26.000Z",
+          "wordCount": 593,
+          "title": "ドメイン駆動設計と依存性逆転の原則 - Speaker Deck"
+        },
+        {
+          "id": "https://smhn.info/202108-apple-csam",
+          "author": null,
+          "description": "プライバシー軽視や検閲行為？ Appleは児童保護対策として、児童性的虐待資料（CSAM）と照合検知し警察に通報する機能を発表しました。米国では2021年内に開始。米国外には各国法律に基づいて拡大予定。 しかしこうした機能はEdward Snowden氏や暗号研究者Matthew Green氏など多数の識者が批判。電子フロンティア財団は...",
+          "link": "https://smhn.info/202108-apple-csam",
+          "publishedOn": "2021-08-08T09:54:01.000Z",
+          "wordCount": 264,
+          "title": "Appleの「児童保護」対策、批判集まる – すまほん!!"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065378/",
+          "author": null,
+          "description": "スマホの料金を抑えるために、今春にさまざまな新プランの登場したMVNOの格安SIMは有利。ただし通話機能については、通話定額や安くするためには専用アプリが必要だったり、音質の問題で不利な部分もある。しかし、専用アプリ無しに通話定額や高音質通話に対応した格安SIMがある。それが日本通信とHISの協力でサービスを...",
+          "link": "https://ascii.jp/elem/000/004/065/4065378/",
+          "publishedOn": "2021-08-08T09:09:21.000Z",
+          "wordCount": 553,
+          "title": "ASCII.jp：格安SIMなのにアプリ無しで通話定額＆低料金、そして高音質通話が可能なHISモバイルを試した (1/2)"
+        },
+        {
+          "id": "https://mactkg.hateblo.jp/entry/2021/08/08/174730",
+          "author": null,
+          "description": "「自分ができるタスクもうないので次のスプリントのPBIに着手します」問題をなるべくわかりやすく説明したい。良い例え話あるかな。— ama-ch (@ama_ch) August 6, 2021 を見ていて、うちのチームのデイリースクラムを紹介したくなったのでかいてみます。こういうのを書くのははじめてかもしれない。 全体デイリースクラ...",
+          "link": "https://mactkg.hateblo.jp/entry/2021/08/08/174730",
+          "publishedOn": "2021-08-08T09:00:34.000Z",
+          "wordCount": 135,
+          "title": "うちのチームのデイリースクラム 2021年夏編 - 半空洞男女関係"
+        },
+        {
+          "id": "https://www.shoeisha.co.jp/book/detail/9784798154411",
+          "author": null,
+          "description": "ゲーム開発者、AIエンジニア、 すべての意思決定に悩んでいる方に必見！ 戦略ゲームAIの仕組み、戦略的意思決定プロセスを紐解くバイブル書 【戦略ゲームAIについて】 戦略ゲームの元にとなるストラテジー＆シミュレーションゲームはボードゲームを発端として、発展してきました。 近年では、スマートフォン向けのソーシ...",
+          "link": "https://www.shoeisha.co.jp/book/detail/9784798154411",
+          "publishedOn": "2021-08-08T08:21:01.000Z",
+          "wordCount": 231,
+          "title": "戦略ゲームAI 解体新書 ストラテジー＆シミュレーションゲームから学ぶ最先端アルゴリズム（三宅 陽一郎）｜翔泳社の本"
+        },
+        {
+          "id": "https://togetter.com/li/1756505",
+          "author": null,
+          "description": "リンク 東京2020オリンピック | NHK アーティスティックスイミング | 東京2020オリンピック | NHK 東京2020オリンピックのアーティスティックスイミング競技の紹介です。放送・配信予定や競技日程・結果、メダル速報、気になる選手情報などをお届けします。 275",
+          "link": "https://togetter.com/li/1756505",
+          "publishedOn": "2021-08-08T06:46:33.000Z",
+          "wordCount": 696,
+          "title": "「プールの壁が透明なの？」水上と水中両方が見えるアーティスティックスイミングの中継に反響→すごい技術で合成してた - Togetter"
+        },
+        {
+          "id": "https://togetter.com/li/1756501",
+          "author": null,
+          "description": "アキヤ @K_akiya @boat_10ku @bookdraught 兵庫の誇るレジです、よろしくお願いします。店員さんで学習データを補正していくので、認識されなくなる日がくるかもしれません。bakeryscan.com 2021-08-08 11:22:46 リンク BakeryScan(ベーカリースキャン) BakeryScan(ベーカリースキャン) トレイ上のパンの種類･値段をカメ...",
+          "link": "https://togetter.com/li/1756501",
+          "publishedOn": "2021-08-08T05:45:03.000Z",
+          "wordCount": 631,
+          "title": "「お客様…」商品のパンを自動でスキャンしてくれるお店で買ったはずのないクリームパン２つがスキャン…原因はかわいい商品にあった！ - Togetter"
+        },
+        {
+          "id": "https://sorae.info/space/20210808-120m-sn20.html",
+          "author": null,
+          "description": "【▲ スーパーヘビー試験機「BN4」に搭載されたスターシップ試験機「SN20」。イーロン・マスク氏のツイートより（Credit: SpaceX/Elon Musk）】 日本時間2021年8月6日22時頃、スペースXはテキサス州ボカチカの同社施設「スターベース」において、開発中の大型宇宙船「スターシップ（Starship）」の無人試験機「SN20」を、...",
+          "link": "https://sorae.info/space/20210808-120m-sn20.html",
+          "publishedOn": "2021-08-08T02:53:16.000Z",
+          "wordCount": 85,
+          "title": "全長120m！ スペースXのスターシップ試験機がブースターに搭載される | sorae 宇宙へのポータルサイト"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065377/",
+          "author": null,
+          "description": "Windows Terminalの-wオプションを使えば、コマンドラインから、同一ウィンドウのタブ内、別ウィンドウなどで任意のコマンドを実行させることが可能になる。うまく利用すると、コマンドラインの使い勝手が大きく変わる Windows Terminalは、UWPではあるが、wt.exeという「アプリ実行エイリアス」を使って、Win32コンソー...",
+          "link": "https://ascii.jp/elem/000/004/065/4065377/",
+          "publishedOn": "2021-08-08T02:47:39.000Z",
+          "wordCount": 657,
+          "title": "ASCII.jp：Windows Terminalのコマンドラインを極める (1/2)"
+        },
+        {
+          "id": "https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages/",
+          "author": null,
+          "description": "はじめに@typesスコープを管理しているDefinitely Typedは、Microsoftから支援を受けているものの、Microsoftの脆弱性報奨金制度におけるセーフハーバーの対象ではありません。1 本記事は、公開されている情報を元に脆弱性の存在を推測し、実際に検証することなく潜在的な脆弱性として報告した問題に関して説明したもの...",
+          "link": "https://blog.ryotak.me/post/definitelytyped-tamper-with-arbitrary-packages/",
+          "publishedOn": "2021-08-08T02:05:31.000Z",
+          "wordCount": 190,
+          "title": "npmの@typesスコープにおける任意のパッケージの改竄 - RyotaK's Blog"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/072700243/072700001/",
+          "author": null,
+          "description": "みずほ銀行で2021年2～3月にかけて、2週間で4件のシステム障害が発生した。起点は小さなトラブルだったが、金融機関ではあり得ない問題が次々に生じ、被害を広げた。問題点は35件。その中には過去の大規模システム障害でも見られたものがあった。 4件のシステム障害は、いずれも2019年7月に本格稼働した勘定系システム「...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/072700243/072700001/",
+          "publishedOn": "2021-08-08T00:47:24.000Z",
+          "wordCount": 402,
+          "title": "2週間で障害4件　背景に35の問題点 | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://jabba.cloud/20210807-elon-musk",
+          "author": null,
+          "description": "イーロン・マスクがYouTubeチャネルでスペースXのテキサス工場スターベースの中を歩き回りながらロケット製造や電気自動車について説明しているのを観た。ツイートしたこの件。 今までいろんなイーロン・マスクのインタビューを観てきたけど、これがダントツで面白い。 やっぱり工場内で「作ること」に特化して話すから...",
+          "link": "https://jabba.cloud/20210807-elon-musk",
+          "publishedOn": "2021-08-08T00:15:01.000Z",
+          "wordCount": 34,
+          "title": "イーロン・マスクのロケット製造５つのステップがサイコーだった – ベルリンで働くソフトウェアエンジニアのブログ"
+        },
+        {
+          "id": "https://newspicks.com/news/6081414/body/",
+          "author": null,
+          "description": "プロジェクトの企画書から、プロダクトやサービスのUI/UXデザイン、ユーザーに訴える広告クリエイティブと、あらゆるビジネスのあらゆる工程で、デザインの力は非常に重要になってきている。 いくら中身が優れていても、それを十分に伝えるデザインが伴っていなければ、情報があふれる今、見向きもされない状況が当たり...",
+          "link": "https://newspicks.com/news/6081414/body/",
+          "publishedOn": "2021-08-08T00:03:12.000Z",
+          "wordCount": 306,
+          "title": "【実例多数】デザインが劇的によくなる3つのステップ"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUC134R40T10C21A7000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 人工知能（AI）研究で独走していた米国を中国が追い越しつつある。研究の質を示す論文の引用実績で2020年に中国が米国を初めて逆転した。AIは幅広い産業に組み込まれ、...",
+          "link": "https://www.nikkei.com/article/DGXZQOUC134R40T10C21A7000000/",
+          "publishedOn": "2021-08-07T20:37:54.000Z",
+          "wordCount": 115,
+          "title": "中国AI研究、米を逆転　論文の質・量や人材で首位: 日本経済新聞"
+        },
+        {
+          "id": "https://github.com/Shopify/polaris/discussions/44",
+          "author": null,
+          "description": "We’ve noticed several growing pain points to using Sass at scale. Some of these apply to Polaris and teams using Polaris, while others impact development across Shopify. In Polaris, the original Sass variables, functions, and mixins are creating a burden with newer technologies that have been int...",
+          "link": "https://github.com/Shopify/polaris/discussions/44",
+          "publishedOn": "2021-08-07T15:53:13.000Z",
+          "wordCount": 2252,
+          "title": "Replacing Sass · Discussion #44 · Shopify/polaris · GitHub"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/20210807-amazon-athena-unload/",
+          "author": null,
+          "description": "データアナリティクス事業本部コンサルティングチームの石川です。先日、Amazon Athenaが、UNLOADコマンドをサポートしました。SELECTクエリの結果をCSV、Parquet、Avro、ORC、JSONフォーマットでS3出力できるようになりました。本日は、UNLOADコマンドを実際に試してみます。 UNLOADコマンド UNLOADコマンドの構文は、...",
+          "link": "https://dev.classmethod.jp/articles/20210807-amazon-athena-unload/",
+          "publishedOn": "2021-08-07T15:07:56.000Z",
+          "wordCount": 334,
+          "title": "[新機能] Amazon Athena UNLOADコマンドによるCSV、Parquet、Avro、ORC、JSON出力をサポートしました！ | DevelopersIO"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-387887/",
+          "author": null,
+          "description": "英メディアTech Advisorが、Apple Watch Series 7はストレージ容量が増えるかもしれないとの予想を伝えました。 ストレージ容量32GB以上、チタニウムケースもラインナップ？ Tech AdvisorがApple Watch Series 7に関する報道やリーク情報をまとめた中で、同製品はストレージ容量が増えるかもしれないと伝えています。 現...",
+          "link": "https://iphone-mania.jp/news-387887/",
+          "publishedOn": "2021-08-07T12:52:34.000Z",
+          "wordCount": 261,
+          "title": "Apple Watch Series 7がストレージ容量増加、駆動時間延長か - iPhone Mania"
+        },
+        {
           "id": "https://speakerdeck.com/imagire/cgxue-xi-xiang-kefalsegao-xiao-shu-xue-a",
           "author": null,
           "description": "Transcript CG学習向けの 高校数学＋α ここで紹介していない内容が大事でないとは言ってません @imagire 数学 I, II, III • 数 • 関数 • 方程式と線 • 指数関数・対数関数 • 三角関数 • 微分 • 積分 数学 I, II, III • 数 • 関数 • 方程式と線 • 指数関数・対数関数 • 三角関数 • 微分 • 積分 絶対値 • 0からの距離が等...",
@@ -139,6 +328,15 @@
           "title": "体制を考えるときに意識していること - id:onk のはてなブログ"
         },
         {
+          "id": "https://www.ipa.go.jp/ikc/reports/learning_vol-2.html",
+          "author": null,
+          "description": "学び続けている実践者の方からお話を伺いました。 ご自身の組織や個人としての学びのご参考になれば幸いです。 2004年東京大学理科一類で入学するも、心理学に関心を持ち文学部に転籍。2008年東京大学文学部卒業。その後2社のベンチャー企業を経て2011年に起業、2年弱で代表を交代し2012年にスローガン株式会社にジョイ...",
+          "link": "https://www.ipa.go.jp/ikc/reports/learning_vol-2.html",
+          "publishedOn": "2021-08-07T04:28:53.000Z",
+          "wordCount": 87,
+          "title": "学びのススメ vol.2：IPA 独立行政法人 情報処理推進機構"
+        },
+        {
           "id": "https://atmarkit.itmedia.co.jp/ait/articles/2107/30/news032.html",
           "author": null,
           "description": "「コンテナ」「Kubernetes」はコスト削減のためではない――ガートナーが語る“誤解と真実”：最も重要なのは「組織変革」（1/2 ページ） 2021年6月21〜22日にガートナーが開催した「アプリケーション・イノベーション＆ビジネス・ソリューション サミット」で、ガートナー ジャパンの桂島 航氏が「コンテナとKubernetesをIT...",
@@ -155,6 +353,15 @@
           "publishedOn": "2021-08-07T02:56:03.000Z",
           "wordCount": 18,
           "title": "ハッカー集団の「攻撃マニュアル」闇サイトに流出か | IT・ネット | NHKニュース"
+        },
+        {
+          "id": "https://wired.jp/2021/08/06/capsule-hotel-hack-lights-fan-bed/",
+          "author": null,
+          "description": "自分の体ほどの小さな部屋がひしめき合う日本の格安宿泊施設を「カプセルホテル」と呼ぶ。こうした部屋に滞在する際には、隣人への配慮が必要だ。宿泊先のカプセルホテルがデジタル技術で自動化されていて、ハッカーが隣の部屋に泊まっている場合はなおさらだろう。 ある匿名のセキュリティ研究者が、ラスヴェガスで開催...",
+          "link": "https://wired.jp/2021/08/06/capsule-hotel-hack-lights-fan-bed/",
+          "publishedOn": "2021-08-07T01:55:41.000Z",
+          "wordCount": 129,
+          "title": "カプセルホテルの照明やベッドを“ハッキング”した男、その手口を明らかに | WIRED.jp"
         },
         {
           "id": "https://ill-identified.hatenablog.com/entry/2021/08/06/200859",
@@ -218,6 +425,15 @@
           "publishedOn": "2021-08-06T15:42:26.000Z",
           "wordCount": 13753,
           "title": "コードで学ぶAWS入門"
+        },
+        {
+          "id": "https://ferret-plus.com//39985",
+          "author": null,
+          "description": "営まれている業種によってはサイトに予約機能を追加することで、従来なら人が行っていた予約の受付から顧客の管理までの業務すべてを自動で行えるため、大きな業務効率化になりえるでしょう。 WordPressでも、プラグインを活用すれば予約システムを設けることができます。また、サイトに予約システムを設置する別の方法...",
+          "link": "https://ferret-plus.com//39985",
+          "publishedOn": "2021-08-06T13:59:13.000Z",
+          "wordCount": 189,
+          "title": "WordPressで予約システムを設置できるプラグイン9選＆ツール3選を紹介｜ferret"
         },
         {
           "id": "https://zenn.dev/karaage0703/articles/46806d77983b8a",
@@ -499,6 +715,15 @@
           "title": "VS CodeでJupyterしてみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT"
         },
         {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2108/06/news050.html",
+          "author": null,
+          "description": "サイバーセキュリティツールベンダーのPortSwiggerは2021年8月4日（米国時間）、セキュリティカンファレンス「Black Hat USA 2021」（2021年7月31日～8月5日、米ラスベガスで開催）で公開されたサイバーセキュリティ対策用のツールをブログ記事で紹介した。 公開れたのはインターネットを間接的に「grep」してWeb脆弱（...",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2108/06/news050.html",
+          "publishedOn": "2021-08-06T03:01:41.000Z",
+          "wordCount": 179,
+          "title": "Webスケールの脆弱性調査が可能なオープンソースツール「WARCannon」が公開：Black Hat USA 2021 - ＠IT"
+        },
+        {
           "id": "https://www.ipa.go.jp/ikc/reports/learning_vol-3.html",
           "author": null,
           "description": "学び続けている実践者の方からお話を伺いました。 ご自身の組織や個人としての学びのご参考になれば幸いです。 岩手県釜石市出身。株式会社翔泳社 取締役。日本最大級のITエンジニアイベント「Developers Summit （通称：デブサミ）」を、2003年の第一回より10年以上コーディネートし、異種の技術領域に携わるエンジニア...",
@@ -641,6 +866,15 @@
           "publishedOn": "2021-08-05T11:02:33.000Z",
           "wordCount": 343,
           "title": "急成長中の「ポイ活」アプリ、進むビジネスでの位置情報活用 | TechCrunch Japan"
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/08/machi-ya-metabird-start.html",
+          "author": null,
+          "description": "本物も寄ってくるリアルさだとか。 姉妹サイトmachi-yaに登場した鳥型ラジコン｢MetaBird｣はバイオミメティクス（生物模倣技術）により、羽の動きや飛行の様子などが実際の鳥そのものな動きを再現してくれます。 わずか9.5gと軽量さとスマホひとつでコントロールできる手軽さもあるとのことですので、早速詳細をチェック...",
+          "link": "https://www.lifehacker.jp/2021/08/machi-ya-metabird-start.html",
+          "publishedOn": "2021-08-05T10:24:03.000Z",
+          "wordCount": 48,
+          "title": "鳥の動きをリアルに再現。スマホで操縦できる小型ラジコンが登場 | ライフハッカー［日本版］"
         },
         {
           "id": "https://pc.watch.impress.co.jp/docs/news/1342547.html",
@@ -812,6 +1046,15 @@
           "publishedOn": "2021-08-04T22:50:41.000Z",
           "wordCount": 88,
           "title": "ウェブサイトにアクセスする『4つの瞬間・8つのニーズ』 - SEMハック"
+        },
+        {
+          "id": "https://ledge.ai/voicevox/",
+          "author": null,
+          "description": "🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉 無料で使える中品質なテキスト音声合成ソフトウェア、#VOICEVOX をリリースしました 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉 ぜひダウンロードして遊んでみてください！https://t.co/6MMth631mf — ヒホ（ヒロシバ）🗑️ (@hiho_karuta) July 31, 2021 8月1日、商用・非商用問わず無料で使える...",
+          "link": "https://ledge.ai/voicevox/",
+          "publishedOn": "2021-08-04T12:26:25.000Z",
+          "wordCount": 154,
+          "title": "AI音声合成ソフトウェア「VOICEVOX」が無料公開、商用利用も可 | Ledge.ai"
         },
         {
           "id": "https://codezine.jp/article/detail/14567",
@@ -1190,6 +1433,15 @@
           "publishedOn": "2021-08-03T13:23:55.000Z",
           "wordCount": 363,
           "title": "ASCII.jp：Zen 3世代のAPU「Ryzen 7 5700G」「Ryzen 5 5600G」はPCパーツ高騰時代の救世主なのか？ (1/5)"
+        },
+        {
+          "id": "http://www.kaminotane.com/2021/08/03/16219/",
+          "author": null,
+          "description": "ハイファンタジーの傑作『ゲド戦記』や両性具有の世界を描いたフェミニズムSF『闇の左手』などの名作を生み出し、文学史にその名を刻んだアーシュラ・Ｋ・ル＝グウィン。そのル＝グウィンが「自作の執筆に励んでいる人たち」に向けて、小説執筆の技巧（クラフト）を簡潔にまとめた手引書『文体の舵をとれ　ル＝グウィン...",
+          "link": "http://www.kaminotane.com/2021/08/03/16219/",
+          "publishedOn": "2021-08-03T13:07:51.000Z",
+          "wordCount": 254,
+          "title": "『文体の舵をとれ　ル＝グウィンの小説教室』訳者解説 | かみのたね"
         },
         {
           "id": "https://pc.watch.impress.co.jp/docs/column/hothot/1341994.html",
@@ -6518,24 +6770,6 @@
           "publishedOn": "2021-07-12T14:30:34.000Z",
           "wordCount": 999,
           "title": "Using the Specificity of :where() as a CSS Reset"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344334",
-          "author": "Chris Coyier",
-          "description": "This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …\nThe post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/",
-          "publishedOn": "2021-07-09T18:53:51.000Z",
-          "wordCount": 1281,
-          "title": ":focus-visible in WebKit"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343598",
-          "author": "Philippe Bernard",
-          "description": "Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?\nThe task is more non-trivial than you might think. As we will see in this …\nThe post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-favicons-in-action/",
-          "publishedOn": "2021-07-09T14:31:57.000Z",
-          "wordCount": 2485,
-          "title": "SVG Favicons in Action"
         }
       ]
     },
@@ -6639,6 +6873,24 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/valoni01/ng-magical-directives-series-ngtemplateoutlet-2mp1",
+          "author": "Valentine Awe",
+          "description": "\"Magic is just science that we do not understand yet\" \nThis article is part of what I call the magical directives series. In this series, we will unravel the mystery behind some interesting Angular directives. Afterwards, we can add this little magic to our tool box. I call them magical directives because they play a very important role in building reusable components across our Angular applications.\nBelow are the directives that we will be looking at in this series.\nng-template\nng-container\nng-content\n*ngTemplateOutlet\nlinks to other articles in this series are below\n\n\n  \n  \n  The ngTemplateOutlet\n\n\nIn our last article ng-content, We said that we are going to discuss the conditional content projection in this particular article. One of the major draw backs in using the ng-content is the a…",
+          "link": "https://dev.to/valoni01/ng-magical-directives-series-ngtemplateoutlet-2mp1",
+          "publishedOn": "2021-08-08T13:31:30.000Z",
+          "wordCount": 1835,
+          "title": "Ng-magical directives series (*ngTemplateOutlet)"
+        },
+        {
+          "id": "https://dev.to/priteshbhoi/most-popular-icon-for-mobile-and-web-2021-2307",
+          "author": "Pritesh Bhoi",
+          "description": "The world's most popular and easiest to use icon set. More icons. More styles. More Options.\nhttps://github.com/showcases/icon-fonts\nhttps://creativemarket.com/PictoFoundry/10494-850-Vector-Stroke-Icons\nhttp://stackicons.com\nhttps://useiconic.com\nhttp://line25.com/articles/roundup-best-free-icon-fonts-web-design\nhttp://colebemis.com/feather\nhttp://mariodelvalle.github.io/CaptainIconWeb\nhttp://thenounproject.com\nhttp://graphicburger.com/tag/icon/\nhttps://icons8.com/icon/new-icons/androidL\nhttps://www.iconshock.com/material-design-icons/\nhttps://www.uplabs.com/posts/c/all/market/icons\nhttp://www.streamlineicons.com\nhttp://www.streamlineicons.com/ux/\nhttp://www.webalys.com/nova/\nhttp://codepen.io/jasonspeaking/pen/xHfhJ\nhttp://css-tricks.com/icon-fonts-vs-svg\nhttps://github.com/shakyshane/gulp-svg-sprites\nhttps://github.com/ben-eb/gulp-svgmin\nTools\nhttp://icomoon.io\nhttps://aminkodaganur.github.io/iconplus/",
+          "link": "https://dev.to/priteshbhoi/most-popular-icon-for-mobile-and-web-2021-2307",
+          "publishedOn": "2021-08-08T02:04:00.000Z",
+          "wordCount": 469,
+          "title": "Most popular icon for Mobile and web 2021"
+        },
         {
           "id": "https://dev.to/muhd_ahsanayaz/announcing-the-angular-cookbook-6d6",
           "author": "Muhammad Ahsan Ayaz",
@@ -7475,6 +7727,15 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/chihab/build-your-own-rxjs-operators-part-2-l89",
+          "author": "Chihab Otmani",
+          "description": "Introduction\n\n\nOn the previous post of the series we built our own Observable class.\nclass Observable {\n  private _subscribe;\n  private _unsubscribe;\n  private _stopped = true;\n  constructor(subscribe) {\n    this._subscribe = subscribe;\n  }\n  _stop() {\n    this._stopped = true;\n    setTimeout(() => {\n      this._unsubscribe();\n    });\n  }\n  subscribe(observer) {\n    this._stopped = false;\n    this._unsubscribe = this._subscribe({\n      next: (value) => {\n        if (!this._stopped) {\n          observer.next(value);\n        }\n      },\n      complete: () => {\n        if (!this._stopped) {\n          observer.complete();\n          this._stop();\n        }\n      },\n      error: () => {\n        if (!this._stopped) {\n          observer.error();\n          this._stop();\n        }\n      },\n    });\n  …",
+          "link": "https://dev.to/chihab/build-your-own-rxjs-operators-part-2-l89",
+          "publishedOn": "2021-08-08T08:06:40.000Z",
+          "wordCount": 1492,
+          "title": "Build Your Own RxJS - Operators - (Part 2)"
+        },
+        {
           "id": "https://dev.to/chihab/build-your-own-rxjs-3edd",
           "author": "Chihab Otmani",
           "description": "Introduction\n\n\nOne of the effective ways to better know a technology is to get an idea of the underlying implementation and ideally try to build your own.\nOur journey throughout this post is to build some of the core RxJS features from scratch, namely:\nThe Observable class to create and subscribe to an Observable stream\nObservable creation utilities like fromEvent and interval\n\nOperators like take, map, switchMapTo and takeWhile\n\nThe pipe utility method which simplifies the composition of several operators applied to an Observable\n\n\n\nConsider the code below that starts a new countdown every time the user clicks on the Reset button.\n<div id=\"text\"></div>\n<button id=\"reset\">Reset</div>\n\nimport { interval, fromEvent } from \"rxjs\";\nimport { switchMap, map, take } from \"rxjs/operators\";\n\nfuncti…",
@@ -7749,6 +8010,33 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/69d0250379c9",
+          "author": "Matthew Weiler",
+          "description": "Make everyone’s job easier as a software developer\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-make-everyones-job-easier-as-a-software-developer-69d0250379c9?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-08T18:31:24.000Z",
+          "wordCount": 1060,
+          "title": "How to Communicate Effectively Within an Agile Team"
+        },
+        {
+          "id": "https://medium.com/p/2177421d5fce",
+          "author": "GreekDataGuy",
+          "description": "And why I plan on working remotely forever\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/why-software-developers-werent-meant-to-work-in-offices-2177421d5fce?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-08T14:31:52.000Z",
+          "wordCount": 1317,
+          "title": "Why Software Developers Weren’t Meant To Work in Offices"
+        },
+        {
+          "id": "https://medium.com/p/1e58c7bd339c",
+          "author": "Guy Ariely",
+          "description": "Use the beloved Python range() operator in JavaScript via Iterators\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/using-python-range-in-javascript-1e58c7bd339c?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-08T14:16:16.000Z",
+          "wordCount": 715,
+          "title": "How to Create Python range() in JavaScript"
+        },
         {
           "id": "https://medium.com/p/75bdedb0ca35",
           "author": "Dr Stuart Woolley",
