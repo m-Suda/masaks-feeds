@@ -80,20 +80,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://zenn.dev/masaks/articles/a87449f953561d",
-          "author": "masaks",
-          "description": "はじめに\n今回は ngx-sweetalert2のCheckbox付きダイアログにおいて、Checkboxがチェックの状態によってConfirmButtonの活性非活性を制御する方法を共有していく。\n\n\n 実装の背景\n今回は Serviceクラスのみで実現できる 実装方法にしている。\n独自の Swal コンポーネントを実装することでタイトルのことを実現できかつデザイン等も柔軟にできるが、それをするとこのダイアログを使用するPage Component側でこのコンポーネントと @ViewChild() を定義しないといけなくなるため、利用者側としても不便だ。\nおそらく、確認ダイアログで...",
-          "link": "https://zenn.dev/masaks/articles/a87449f953561d",
-          "publishedOn": "2021-07-10T18:39:44.000Z",
-          "wordCount": 329,
-          "title": "ngx-sweetalert2でCheckboxの状態によってConfirmButtonのdisabledを制御したい",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--4FOjAUyx--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:masaks%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:ngx-sweetalert2%25E3%2581%25A7Checkbox%25E3%2581%25AE%25E7%258A%25B6%25E6%2585%258B%25E3%2581%25AB%25E3%2582%2588%25E3%2581%25A3%25E3%2581%25A6ConfirmButton%25E3%2581%25AEdisabled%25E3%2582%2592%25E5%2588%25B6%25E5%25BE%25A1%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2k5YzVoTjBUUGJLX21tS1pIdmc4WExVNHkyUnNXdUFGeG02VnNmNmc9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -102,6 +88,150 @@
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://piyolog.hatenadiary.jp/entry/2021/08/10/063000",
+          "author": null,
+          "description": "2021年8月5日、村田製作所は再委託先企業の従業員が取引先情報や個人情報などを含むデータを無許可でダウンロードした上、外部のクラウドサービスへアップロードを行っていたとして不適切な取り扱いの発生を公表しました。ここでは関連する情報をまとめます。 外部流出ないが状況鑑み公表 不適切な取り扱いを行ったのは...",
+          "link": "https://piyolog.hatenadiary.jp/entry/2021/08/10/063000",
+          "publishedOn": "2021-08-09T22:04:28.000Z",
+          "wordCount": 168,
+          "title": "個人利用クラウドへのアップロードも行われた再委託先従業員による情報持ち出しについてまとめてみた - piyolog"
+        },
+        {
+          "id": "https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env",
+          "author": null,
+          "description": "TL;DR VS Code前提になってしまいますが、VS Code Remote Containers拡張最強です、という話。実際にどういう風に作れば良いかは参考リポジトリ作ったので見て下さい。 はじめに 背景ぼかしのような推論結果を使ってカメラ画像にフィルタを入れる処理を書くとき、今だと選択肢は大きく分けて2つあります。 tfjsを使う Wa...",
+          "link": "https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env",
+          "publishedOn": "2021-08-09T21:48:33.000Z",
+          "wordCount": 211,
+          "title": "ぼくがかんがえたさいきょうのWasmビルド環境"
+        },
+        {
+          "id": "https://webweb.hatenablog.com/blog/search-engine/covid19-search",
+          "author": null,
+          "description": "コロナ禍への現状での最大の対抗策、ワクチン接種に関する誤解の広がりが大きな問題になっています｡ コロナウイルスやワクチンに関する誤解は、通常の人間関係での口コミなど様々な経路で伝わるでしょうが､ネットが主な経路というケースも少なくないでしょう。 どのような人々がワクチン接種をしたがらないか独立行政法...",
+          "link": "https://webweb.hatenablog.com/blog/search-engine/covid19-search",
+          "publishedOn": "2021-08-09T21:44:08.000Z",
+          "wordCount": 270,
+          "title": "コロナワクチンの誤情報拡散 検索エンジンの取組みと問題点 - web > SEO"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html",
+          "author": null,
+          "description": "ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 オープンソースの検索エンジンElasticsearchは、ログ解析による運用監視やセキュリティインシデントの発見、データ分析などに使われている人気のソフトウェアです。 その開発元であるElasticは、E...",
+          "link": "https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html",
+          "publishedOn": "2021-08-09T15:02:34.000Z",
+          "wordCount": 240,
+          "title": "ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 － Publickey"
+        },
+        {
+          "id": "https://tam5917.hatenablog.com/entry/2021/08/09/203647",
+          "author": null,
+          "description": "はじめに 異常検知（外れ値検知）のための便利なPythonパッケージとしてPyODが存在する。 pyod.readthedocs.io クラシックな手法から比較的最先端の手法まで実装されており、インタフェースも使いやすいのでオススメできる。 2021年8月9日現在、PyODにカーネル密度推定（Kernel Density Estimation; KDE）ベースの異常検...",
+          "link": "https://tam5917.hatenablog.com/entry/2021/08/09/203647",
+          "publishedOn": "2021-08-09T11:50:14.000Z",
+          "wordCount": 102,
+          "title": "Pythonの異常検知パッケージPyODのフォーマットに従って、カーネル密度推定に基づく異常検知を実装した - 備忘録"
+        },
+        {
+          "id": "https://goropikari.hatenablog.com/entry/postgres_client_dbms",
+          "author": null,
+          "description": "最近、Go の練習がてら書いていた自作 DBMS が PostgreSQL client から接続できるようになったので、そのやり方を残しておきます。(これから紹介するサンプルコードはすべて Python ですが) github.com psql --version psql (PostgreSQL) 13.2 pgcon の資料と PostgreSQL の公式 Document、加えて PostgreSQL server と ...",
+          "link": "https://goropikari.hatenablog.com/entry/postgres_client_dbms",
+          "publishedOn": "2021-08-09T09:18:48.000Z",
+          "wordCount": 3091,
+          "title": "PostgreSQL Client から自作 DBMS に接続する - goropikariの備忘録"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210809165601",
+          "author": null,
+          "description": "根性、根性、ど根性！ 泣いて笑ってケンカして 「にくいよーッ！このォ！ ど根性アジャイル！！」 ドッコイ生きてる プロジェクト",
+          "link": "https://anond.hatelabo.jp/20210809165601",
+          "publishedOn": "2021-08-09T07:56:32.000Z",
+          "wordCount": 93,
+          "title": "ど根性アジャイル"
+        },
+        {
+          "id": "https://gigazine.net/news/20210809-tesla-cybertruck-production-delayed-2022/",
+          "author": null,
+          "description": "電気自動車メーカーのテスラが2019年に発表した電気ピックアップトラックの「Cybertruck」について、生産が2022年まで延期されることが明らかになっています。 Tesla finally confirms Cybertruck electric pickup is delayed to 2022 - Electrek https://electrek.co/2021/08/07/tesla-confirms-cybertruck-electric-pi...",
+          "link": "https://gigazine.net/news/20210809-tesla-cybertruck-production-delayed-2022/",
+          "publishedOn": "2021-08-09T06:48:38.000Z",
+          "wordCount": 185,
+          "title": "テスラのSFの世界から抜け出してきたかのような「Cybertruck」の生産が2022年まで延期されることが明らかに - GIGAZINE"
+        },
+        {
+          "id": "https://applech2.com/archives/20210809-sudo-using-magic-keyboard-with-touch-id.html",
+          "author": null,
+          "description": "Touch ID搭載Magic KeyboardのTouch IDを利用してApple Silicon搭載のMacで「sudo」を実行する方法です。詳細は以下から。 　Appleは2021年04月、Apple M1チッ The post Touch ID搭載Magic KeyboardのTouch IDを利用してApple Silicon搭載のMacで「sudo」を実行する。 first appeared on AAPL Ch..",
+          "link": "https://applech2.com/archives/20210809-sudo-using-magic-keyboard-with-touch-id.html",
+          "publishedOn": "2021-08-09T04:50:01.000Z",
+          "wordCount": 262,
+          "title": "Touch ID搭載Magic KeyboardのTouch IDを利用してApple Silicon搭載のMacで「sudo」を実行する。"
+        },
+        {
+          "id": "https://graneed.hatenablog.com/entry/2021/08/09/115452",
+          "author": null,
+          "description": "はじめに 対象イベント 読み方、使い方 Remote Code Execution(RCE) 親ディレクトリ指定によるopen_basedirのバイパス PHP-FPMのTCPソケット接続によるopen_basedirとdisable_functionsのバイパス JavaのRuntime.execでシェルを実行 Cross-Site Scripting(XSS) nginx環境でHTTPステータスコードが操作できる場合にCSPヘ...",
+          "link": "https://graneed.hatenablog.com/entry/2021/08/09/115452",
+          "publishedOn": "2021-08-09T04:43:05.000Z",
+          "wordCount": 5888,
+          "title": "【2020年】CTF Web問題の攻撃手法まとめ - こんとろーるしーこんとろーるぶい"
+        },
+        {
+          "id": "https://gigazine.net/news/20210809-artificial-intelligence-copy-dragonfly-brains/",
+          "author": null,
+          "description": "AIと聞くと「人間の脳を模倣したもの、あるいは人間の脳を上回る性能を持つもの」という印象を持つ人も多いかもしれません。しかし、軍事科学や安全保障の研究を行うアメリカのサンディア国立研究所に勤めるフランシス・チャンス博士は、人間の脳ではなく「トンボの脳」をモデルにしたAIの開発を行っているとのことです...",
+          "link": "https://gigazine.net/news/20210809-artificial-intelligence-copy-dragonfly-brains/",
+          "publishedOn": "2021-08-09T04:00:43.000Z",
+          "wordCount": 182,
+          "title": "効率的なミサイル迎撃用のAIを開発する研究者が「トンボの脳」をコピーする意味とは？ - GIGAZINE"
+        },
+        {
+          "id": "https://transparencyreport.google.com/copyright/domains/localhost",
+          "author": null,
+          "description": "",
+          "link": "https://transparencyreport.google.com/copyright/domains/localhost",
+          "publishedOn": "2021-08-09T03:54:31.000Z",
+          "wordCount": 3,
+          "title": "Google Transparency Report"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35174795/",
+          "author": null,
+          "description": "DX推進のキーテクノロジーとなるのは「AI」です。実際に、世界有数のデジタル企業はAIを活用してビジネスを成長させています。最近では、プログラミングコードを書かずにAIを構築できるツールも生まれ、AIの活用は急速に拡大しています。 ところが、日本国内を見れば、AIをうまく取り入れられない企業が多いのが実態です...",
+          "link": "https://japan.cnet.com/article/35174795/",
+          "publishedOn": "2021-08-09T03:17:06.000Z",
+          "wordCount": 491,
+          "title": "DX推進キーマンの「AI人材」が大幅不足--その中で企業が打つべき一手は？ - CNET Japan"
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/08/238841all-the-features-worth-knowing-about-in-the-new-google.html",
+          "author": null,
+          "description": "Googleは、Windows版とmacOS版の｢Google ドライブ｣アプリを発表しました。 10月1日に終了する｢バックアップと同期｣と｢ドライブファイルストリーム｣に替わるものです。 Googleは、同期が中断されないように9月までには｢Google ドライブ｣アプリに移行するよう全ユーザーに推奨していますが、昔のアプリが使えなくなるから...",
+          "link": "https://www.lifehacker.jp/2021/08/238841all-the-features-worth-knowing-about-in-the-new-google.html",
+          "publishedOn": "2021-08-09T01:08:39.000Z",
+          "wordCount": 82,
+          "title": "｢Google ドライブ｣最新アプリがリリース！ 現行版から何が変わった？ | ライフハッカー［日本版］"
+        },
+        {
+          "id": "https://zenn.dev/ababup1192/articles/568836a26e5b83",
+          "author": null,
+          "description": "先日Connpassにて、関数型プログラミングなんもわからん。を考えようと言うイベントを開かせていただきました。 関数型プログラミングがわからない！ と言う方達の疑問に対して、普段関数型プログラミング言語を使っているわかる人たちが回答をして行くと言うスタイルのイベントでした。関数型プログラミング言語と一口...",
+          "link": "https://zenn.dev/ababup1192/articles/568836a26e5b83",
+          "publishedOn": "2021-08-08T23:28:50.000Z",
+          "wordCount": 330,
+          "title": "関数型プログラミングなんもわからん。を考えようと言うイベントを開きました。"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/topic/review/1341272.html",
+          "author": null,
+          "description": "ONE-NETBOOKの8.4型液晶搭載のポータブルWindowsゲーム機「ONEXPLAYER」が、いよいよ8月下旬に発売される。",
+          "link": "https://pc.watch.impress.co.jp/docs/topic/review/1341272.html",
+          "publishedOn": "2021-08-08T23:04:35.000Z",
+          "wordCount": 232,
+          "title": "【レビュー】GeForce RTX 3070 Tiなら、ONEXPLAYERのネイティブ解像度でも快適にゲームプレイができるのか？ - PC Watch"
+        },
         {
           "id": "https://itlaw.hatenablog.com/entry/2021/08/08/221130",
           "author": null,
@@ -119,6 +249,33 @@
           "publishedOn": "2021-08-08T22:22:14.000Z",
           "wordCount": 608,
           "title": "東京オリンピックのサイバー関連の出来事についてまとめてみた - piyolog"
+        },
+        {
+          "id": "https://forbesjapan.com/articles/detail/42088?internal=ranking",
+          "author": null,
+          "description": "グーグルは、自社の広告エコシステム内でのサードパーティー製クッキーの廃止を約2年延期し、2023年末とすると発表した。関係する広告業界が変更に対応する時間を設けるための措置だと説明している。 この決定により、グーグルにとっての真の顧客とは誰なのか、そして誰の声を真っ先に聞き入れるのかといった同社の優先...",
+          "link": "https://forbesjapan.com/articles/detail/42088?internal=ranking",
+          "publishedOn": "2021-08-08T18:25:33.000Z",
+          "wordCount": 174,
+          "title": "グーグルは一線を越えた　私たちがクロームをボイコットすべき理由 | Forbes JAPAN（フォーブス ジャパン）"
+        },
+        {
+          "id": "https://arxiv.org/abs/2108.02497",
+          "author": null,
+          "description": "This document gives a concise outline of some of the common mistakes that occur when using machine learning techniques, and what can be done to avoid them. It is intended primarily as a guide for research students, and focuses on issues that are of particular concern within academic research, suc...",
+          "link": "https://arxiv.org/abs/2108.02497",
+          "publishedOn": "2021-08-08T12:37:36.000Z",
+          "wordCount": 530,
+          "title": "How to avoid machine learning pitfalls: a guide for academic researchers"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/aws-cloud9-introduces-features-browse-cloudwatch-logs-s3-ec2-instance-profiles/",
+          "author": null,
+          "description": "コンバンハ、千葉（幸）です。 AWS Cloud9 で新たな機能が使用できるようになりました。 3 つ……ないし 2 つの機能が増えています。（どちらなんだ。） 何ができるようになったか 冒頭のブログを確認すると、以下のように説明されています。 AWS Cloud9 introduces 3 new features, including support for CloudWatch Log...",
+          "link": "https://dev.classmethod.jp/articles/aws-cloud9-introduces-features-browse-cloudwatch-logs-s3-ec2-instance-profiles/",
+          "publishedOn": "2021-08-08T11:06:25.000Z",
+          "wordCount": 811,
+          "title": "[アップデート] AWS Cloud9 がまた少し便利になりました (CloudWatch Logs、S3、インスタンスプロファイル) | DevelopersIO"
         },
         {
           "id": "https://www.moguravr.com/oculus-quest-additional-functions/",
@@ -202,6 +359,15 @@
           "title": "「お客様…」商品のパンを自動でスキャンしてくれるお店で買ったはずのないクリームパン２つがスキャン…原因はかわいい商品にあった！ - Togetter"
         },
         {
+          "id": "http://blog.father.gedow.net/2021/08/08/mysql-slow-query-python/",
+          "author": null,
+          "description": "久々に溜まったブログネタ放出をしようかなと、その前に下書きから掘り起こしてきた、いまさらなスロークエリ関連で準備運動です。 RDSのスロークエリ情報は当然、集計を自動化していつでも見れるようにしてあるのですが、ちょいと必要があったので、今回はあえて単発ログを集計する形に切り出したものを用意してみまし...",
+          "link": "http://blog.father.gedow.net/2021/08/08/mysql-slow-query-python/",
+          "publishedOn": "2021-08-08T05:06:52.000Z",
+          "wordCount": 392,
+          "title": "PythonでMySQLのスロークエリログを集計 | 外道父の匠"
+        },
+        {
           "id": "https://sorae.info/space/20210808-120m-sn20.html",
           "author": null,
           "description": "【▲ スーパーヘビー試験機「BN4」に搭載されたスターシップ試験機「SN20」。イーロン・マスク氏のツイートより（Credit: SpaceX/Elon Musk）】 日本時間2021年8月6日22時頃、スペースXはテキサス州ボカチカの同社施設「スターベース」において、開発中の大型宇宙船「スターシップ（Starship）」の無人試験機「SN20」を、...",
@@ -283,6 +449,15 @@
           "title": "[新機能] Amazon Athena UNLOADコマンドによるCSV、Parquet、Avro、ORC、JSON出力をサポートしました！ | DevelopersIO"
         },
         {
+          "id": "https://zenn.dev/psyashes/articles/380734829fd8aa",
+          "author": null,
+          "description": "GameDayとは 起源はAWSが毎年行っているAWS re:inventの中で開催される行事の1つです。 チームを組んでクラウド・アプリケーションを襲う謎の障害や悪意のある攻撃に対処し、トラブルシューティング能力を競うコンテストとなっています。 のちに様々な企業が社内でも実施するようになり、今ではAWS Well-Architectedのセ...",
+          "link": "https://zenn.dev/psyashes/articles/380734829fd8aa",
+          "publishedOn": "2021-08-07T13:17:20.000Z",
+          "wordCount": 103,
+          "title": "SREチームで社内GameDayを実施しました"
+        },
+        {
           "id": "https://iphone-mania.jp/news-387887/",
           "author": null,
           "description": "英メディアTech Advisorが、Apple Watch Series 7はストレージ容量が増えるかもしれないとの予想を伝えました。 ストレージ容量32GB以上、チタニウムケースもラインナップ？ Tech AdvisorがApple Watch Series 7に関する報道やリーク情報をまとめた中で、同製品はストレージ容量が増えるかもしれないと伝えています。 現...",
@@ -344,6 +519,15 @@
           "publishedOn": "2021-08-07T04:17:49.000Z",
           "wordCount": 173,
           "title": "「コンテナ」「Kubernetes」はコスト削減のためではない――ガートナーが語る“誤解と真実”：最も重要なのは「組織変革」（1/2 ページ） - ＠IT"
+        },
+        {
+          "id": "https://www.saga-s.co.jp/articles/-/719682",
+          "author": null,
+          "description": "伊万里市で、グーグルとヤフーのインターネット検索サイトから市のホームページ（ＨＰ）が表示されない状態が１週間近く続いている。市によると、ＨＰに対する検索エンジン側の認証が外れているためで、復旧に数日かかる見込み。 市の説明では、グーグルとヤフーのサイトは同一の検索エンジンを使っている。ＨＰを表示す...",
+          "link": "https://www.saga-s.co.jp/articles/-/719682",
+          "publishedOn": "2021-08-07T03:46:23.000Z",
+          "wordCount": 374,
+          "title": "伊万里市、大手検索サイトでＨＰ表示されず　復旧に数日｜行政・社会｜佐賀新聞ニュース｜佐賀新聞LiVE"
         },
         {
           "id": "https://www3.nhk.or.jp/news/html/20210807/k10013186771000.html",
@@ -497,6 +681,15 @@
           "publishedOn": "2021-08-06T11:26:55.000Z",
           "wordCount": 261,
           "title": "Appleは毎秒115万円の収益を上げている？テック企業の収益早見表が話題に - iPhone Mania"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/topic/special/1337338.html",
+          "author": null,
+          "description": "家で過ごす時間が多くなった事で、「オーディオをはじめてみよう!」「小さくても音の良いスピーカーを買ってみよう」と考えている人も多いだろう。だが、多くのスピーカーを聴き比べに出かけるのも大変な昨今。そこで、“買いやすい値段”かつ注目のブックシェルフスピーカー5台を用意。オーディオ評論家の三浦孝仁氏と、編集部の山崎で、その実力をじっくり聴き比べてみた。",
+          "link": "https://av.watch.impress.co.jp/docs/topic/special/1337338.html",
+          "publishedOn": "2021-08-06T11:10:17.000Z",
+          "wordCount": 317,
+          "title": "オーディオ入門に最適！ 注目小型スピーカー5台を聴き比べる - AV Watch[Sponsored]"
         },
         {
           "id": "https://www.td-media.net/interview/what-is-ui-ux-vol-3/",
@@ -6230,15 +6423,6 @@
           "publishedOn": "2021-07-12T03:22:56.000Z",
           "wordCount": 241,
           "title": "モダンアジャイルについて - やっとむでぽん"
-        },
-        {
-          "id": "https://note.com/4bata/n/nec40df9eb61f",
-          "author": null,
-          "description": "柴田（@4bata）です。1年以上試行錯誤して「これがひとつの答えだ！」というのが見えました。プレゼンやワークショップでも使えますし、普通の会議でも使えます。 いいまとめのツイートがあったので最初に引用 目から鱗な実践のコツ！ ・オンライン会議はビデオオフ＆ミュートで良い ・司会はDJ感覚で ・フォームを使っ...",
-          "link": "https://note.com/4bata/n/nec40df9eb61f",
-          "publishedOn": "2021-07-11T01:26:24.000Z",
-          "wordCount": 66,
-          "title": "オンラインの会議で参加者の発言を活発にするgoogleフォーム活用法｜柴田史郎｜note"
         }
       ]
     },
@@ -6331,6 +6515,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346368",
+          "author": "Chris Coyier",
+          "description": "It might be the very first thing a lot of people learn in JavaScript:\nalert(\"Hello, World\");\nOne day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …\nThe post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/choice-words-about-the-upcoming-deprecation-of-javascript-dialogs/",
+          "publishedOn": "2021-08-09T21:23:44.000Z",
+          "wordCount": 1484,
+          "title": "Choice Words about the Upcoming Deprecation of JavaScript Dialogs"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346316",
+          "author": "Chris Coyier",
+          "description": "We’ve got viewport units (e.g. vw, vh, vmin, vmax), and they are mostly pretty great. It’s cool to always have a unit available that is relative to the entire screen. But when you ask people what …\nThe post The Large, Small, and Dynamic Viewports appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/",
+          "publishedOn": "2021-08-09T20:37:39.000Z",
+          "wordCount": 1999,
+          "title": "The Large, Small, and Dynamic Viewports"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345642",
+          "author": "Temani Afif",
+          "description": "In my previous article, I created a fragmentation effect using CSS mask and custom properties. It was a neat effect but it has one drawback: it uses a lot of CSS code (generated using Sass). This time I am …\nThe post Exploring the CSS Paint API: Image Fragmentation Effect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/",
+          "publishedOn": "2021-08-09T14:27:18.000Z",
+          "wordCount": 2534,
+          "title": "Exploring the CSS Paint API: Image Fragmentation Effect"
+        },
+        {
           "id": "https://css-tricks.com/?p=346259",
           "author": "Chris Coyier",
           "description": "Great little project from Ross Moody: \nSVG Gobbler is a browser extension that finds the vector content on the page you’re viewing and gives you the option to download, optimize, copy, view the code, or export it as an image.\n…\nThe post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -6338,6 +6549,15 @@
           "publishedOn": "2021-08-06T19:32:54.000Z",
           "wordCount": 757,
           "title": "SVG Gobbler"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346290",
+          "author": "Sarah Drasner",
+          "description": "Nuxt offers an incredible developer experience, with a lot of performance and application setup best practices baked in. In recent releases, they’ve been working on taking this developer experience to the next level, with some newer features that speed up …\nThe post New Nuxt Features past v2.10 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/new-nuxt-features-past-v2-10/",
+          "publishedOn": "2021-08-06T15:43:44.000Z",
+          "wordCount": 1089,
+          "title": "New Nuxt Features past v2.10"
         },
         {
           "id": "https://css-tricks.com/?p=345467",
@@ -6874,6 +7094,51 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/rfornal/using-json-in-angular-19ca",
+          "author": "bob.js",
+          "description": "Being able to import and process JSON files provides a whole host of configuration options, as well as providing a means of capturing data locally for development purposes.\nWhen I started using this pattern, I was looking for a means to provide basic configuration (i.e. Feature Flags). The process quickly evolved into ...\nAuthorization\nConfiguration (Feature Flags)\nLanguage\nHost Names\nCore Structures (think titles matching data keys)\nBut first, I needed to be able to read these files.\nIn the tsconfig.json file I added the \"resolveJsonModule\": true configuration option under the compilerOptions key:\n{\n  \"compileOnSave\": false,\n  \"compilerOptions\": {\n    ...\n    \"resolveJsonModule\": true,\n    ...\n}\n\nAdditionally, I learned that I can read a JSON file that is in the assets folder via an http.…",
+          "link": "https://dev.to/rfornal/using-json-in-angular-19ca",
+          "publishedOn": "2021-08-09T14:40:17.000Z",
+          "wordCount": 1236,
+          "title": "Using JSON in Angular"
+        },
+        {
+          "id": "https://dev.to/primetek/how-to-switch-your-angular-app-between-material-bootstrap-and-custom-themes-at-runtime-5788",
+          "author": "PrimeTek",
+          "description": "UI Component libraries usually depend on a certain style such as material, bootstrap, bulma and others. One of the most powerful features of PrimeNG is being design agnostic so that you can switch between material, bootstrap, fluentui, primeone themes and your very own themes easily without having to rewrite your app with another library. Read more about PrimeNG Theming for technical details.\nA certain theme can be bundled within an app by importing the css to the bundle easily but how to do it dynamically at runtime. Luckily Angular CLI has built-in options to implement this so that your users can switch it on-the-fly. Implementation consists of two parts, creating a theme css to lazy load and importing it to your page.\nWatch the Tutorial on Youtube\n\n\n\n\n\n  \n  \n  Create Theme Files\n\n\nWe ne…",
+          "link": "https://dev.to/primetek/how-to-switch-your-angular-app-between-material-bootstrap-and-custom-themes-at-runtime-5788",
+          "publishedOn": "2021-08-09T10:51:31.000Z",
+          "wordCount": 988,
+          "title": "How to Switch Your Angular App Between Material, Bootstrap and Custom Themes at Runtime"
+        },
+        {
+          "id": "https://dev.to/primetek/end-of-summer-sale-starts-now-546f",
+          "author": "PrimeTek",
+          "description": "It is that time again! We know you are feeling the heat but now is the time for amazing deals at PrimeStore to bring up to 50% discount on all the Premium Templates, Theme Designers, PrimeFaces Elite, PrimeNG LTS Subscriptions and License Upgrades!\nVisit PrimeStore now to begin shopping.",
+          "link": "https://dev.to/primetek/end-of-summer-sale-starts-now-546f",
+          "publishedOn": "2021-08-09T08:07:22.000Z",
+          "wordCount": 441,
+          "title": "Summer Sale Starts Now!"
+        },
+        {
+          "id": "https://dev.to/siddharthshyniben/angular-pros-and-cons-m9l",
+          "author": "Siddharth",
+          "description": "Angular, maintained by Google and one of the most powerful web development frameworks out there, is a pretty good choice for web development. To help you decide whether Angular is good for you, here's a list of Angular pros and cons.\nNote: We are talking about Angular (2-12), NOT Angular.js.\nScroll to the end of the post for a summary if you don't want to read the whole thing.\n Angular sites are Single Page Applications (SPA). SPAs allow us to load new pages without requesting the server, giving a more dynamic and interactive experience. For example, GMail is a SPA.\n Angular is feature-packed. State? Baked in. Reactivity? Baked in. Routing? Baked in. DI? Baked in. Services? Baked in.\n Angular is cross-platform.\n\n\n\nPWAs: Use modern web platform capabilities to deliver app-like experiences. …",
+          "link": "https://dev.to/siddharthshyniben/angular-pros-and-cons-m9l",
+          "publishedOn": "2021-08-09T03:49:19.000Z",
+          "wordCount": 1659,
+          "title": "Angular: Pros and Cons"
+        },
+        {
+          "id": "https://dev.to/morgueye4/how-to-use-polkadot-angular-identicon-4659",
+          "author": "Mor GUEYE",
+          "description": "This guides shows how to use the polkadot-angular-identicon, a generic identity icon that can render icons in Angular applications for Substrate based chains.\nWe assume that you have the angular cli installed if not then inslall it by typing\nnpm install -g @angular/cli.\nAfter the cli installation is done just type ng --version and it will display the Angular cli version For more info please visit this link.\nTo create an angular project type: ng new my-project and the my-project will be created.\nIn our case let's create a project called pai (like polkadot-angular-identicon 😎)\nng new pai and you will see something like this\n\ninstall polkadot-angular-identicon npm dependency\nnpm i polkadot-angular-identicon.\nAfter the package is installed open the app.module.ts file in the project under src …",
+          "link": "https://dev.to/morgueye4/how-to-use-polkadot-angular-identicon-4659",
+          "publishedOn": "2021-08-09T03:09:35.000Z",
+          "wordCount": 802,
+          "title": "How to use Polkadot Angular Identicon"
+        },
+        {
           "id": "https://dev.to/valoni01/ng-magical-directives-series-ngtemplateoutlet-2mp1",
           "author": "Valentine Awe",
           "description": "\"Magic is just science that we do not understand yet\" \nThis article is part of what I call the magical directives series. In this series, we will unravel the mystery behind some interesting Angular directives. Afterwards, we can add this little magic to our tool box. I call them magical directives because they play a very important role in building reusable components across our Angular applications.\nBelow are the directives that we will be looking at in this series.\nng-template\nng-container\nng-content\n*ngTemplateOutlet\nlinks to other articles in this series are below\n\n\n  \n  \n  The ngTemplateOutlet\n\n\nIn our last article ng-content, We said that we are going to discuss the conditional content projection in this particular article. One of the major draw backs in using the ng-content is the a…",
@@ -6883,6 +7148,15 @@
           "title": "Ng-magical directives series (*ngTemplateOutlet)"
         },
         {
+          "id": "https://dev.to/chihab/build-your-own-rxjs-operators-part-2-l89",
+          "author": "Chihab Otmani",
+          "description": "Introduction\n\n\nOn the previous post of the series we built our own Observable class.\nclass Observable {\n  private _subscribe;\n  private _unsubscribe;\n  private _stopped = true;\n  constructor(subscribe) {\n    this._subscribe = subscribe;\n  }\n  _stop() {\n    this._stopped = true;\n    setTimeout(() => {\n      this._unsubscribe();\n    });\n  }\n  subscribe(observer) {\n    this._stopped = false;\n    this._unsubscribe = this._subscribe({\n      next: (value) => {\n        if (!this._stopped) {\n          observer.next(value);\n        }\n      },\n      complete: () => {\n        if (!this._stopped) {\n          observer.complete();\n          this._stop();\n        }\n      },\n      error: () => {\n        if (!this._stopped) {\n          observer.error();\n          this._stop();\n        }\n      },\n    });\n  …",
+          "link": "https://dev.to/chihab/build-your-own-rxjs-operators-part-2-l89",
+          "publishedOn": "2021-08-08T08:06:40.000Z",
+          "wordCount": 1503,
+          "title": "Build Your Own RxJS - Operators - (Part 2)"
+        },
+        {
           "id": "https://dev.to/priteshbhoi/most-popular-icon-for-mobile-and-web-2021-2307",
           "author": "Pritesh Bhoi",
           "description": "The world's most popular and easiest to use icon set. More icons. More styles. More Options.\nhttps://github.com/showcases/icon-fonts\nhttps://creativemarket.com/PictoFoundry/10494-850-Vector-Stroke-Icons\nhttp://stackicons.com\nhttps://useiconic.com\nhttp://line25.com/articles/roundup-best-free-icon-fonts-web-design\nhttp://colebemis.com/feather\nhttp://mariodelvalle.github.io/CaptainIconWeb\nhttp://thenounproject.com\nhttp://graphicburger.com/tag/icon/\nhttps://icons8.com/icon/new-icons/androidL\nhttps://www.iconshock.com/material-design-icons/\nhttps://www.uplabs.com/posts/c/all/market/icons\nhttp://www.streamlineicons.com\nhttp://www.streamlineicons.com/ux/\nhttp://www.webalys.com/nova/\nhttp://codepen.io/jasonspeaking/pen/xHfhJ\nhttp://css-tricks.com/icon-fonts-vs-svg\nhttps://github.com/shakyshane/gulp-svg-sprites\nhttps://github.com/ben-eb/gulp-svgmin\nTools\nhttp://icomoon.io\nhttps://aminkodaganur.github.io/iconplus/",
@@ -6890,6 +7164,15 @@
           "publishedOn": "2021-08-08T02:04:00.000Z",
           "wordCount": 469,
           "title": "Most popular icon for Mobile and web 2021"
+        },
+        {
+          "id": "https://dev.to/chihab/build-your-own-rxjs-3edd",
+          "author": "Chihab Otmani",
+          "description": "Introduction\n\n\nOne of the effective ways to better know a technology is to get an idea of the underlying implementation and ideally try to build your own.\nOur journey throughout this series is to build some of the core RxJS features from scratch, namely:\nThe Observable class to create and subscribe to an Observable stream\nObservable creation utilities like fromEvent and interval\n\nOperators like take, map and switchMapTo\n\nThe pipe utility method which simplifies the composition of several operators applied to an Observable\n\n\n\nConsider the code below that starts a new countdown every time the user clicks on the Reset button.\n<div id=\"text\"></div>\n<button id=\"reset\">Reset</div>\n\nimport { interval, fromEvent } from \"rxjs\";\nimport { switchMap, map, take } from \"rxjs/operators\";\n\nfunction countd…",
+          "link": "https://dev.to/chihab/build-your-own-rxjs-3edd",
+          "publishedOn": "2021-08-07T20:04:10.000Z",
+          "wordCount": 1744,
+          "title": "Build Your Own RxJS - Observables - (Part 1)"
         },
         {
           "id": "https://dev.to/muhd_ahsanayaz/announcing-the-angular-cookbook-6d6",
@@ -7993,15 +8276,6 @@
           "publishedOn": "2021-07-12T00:36:05.000Z",
           "wordCount": 333,
           "title": "CSSで上下左右の中央に配置する時の「position: fixed;」での新しい記述方法"
-        },
-        {
-          "id": "https://coliss.com/?p=30296",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/kindle-sale-b085rvn7vg.html",
-          "publishedOn": "2021-07-11T00:06:48.000Z",
-          "wordCount": 383,
-          "title": "ロゴのデザイン書が本日限り、Kindleセールで75％オフのワンコイン！ロゴのアイデアやテクニックがよく分かる"
         }
       ]
     },
@@ -8010,6 +8284,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/1c3358a34e5d",
+          "author": "Isabel Nyo",
+          "description": "Leverage the most significant development in the future of work\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-hire-the-best-freelance-developers-in-the-gig-economy-1c3358a34e5d?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-09T17:52:44.000Z",
+          "wordCount": 1749,
+          "title": "How To Hire the Best Freelance Developers in the Gig Economy"
+        },
+        {
+          "id": "https://medium.com/p/ba77700cf4b8",
+          "author": "Fernando Doglio",
+          "description": "Falling in love with your code is the worst thing you can do as a developer\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/should-you-be-deleting-your-own-code-ba77700cf4b8?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-09T17:03:44.000Z",
+          "wordCount": 2363,
+          "title": "Should You Be Deleting Your Own Code?"
+        },
+        {
+          "id": "https://medium.com/p/fb20166b4fe0",
+          "author": "Christian Behler",
+          "description": "Using the Binance API to stream real-time cryptocurrency prices\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-create-interactive-candlestick-charts-with-real-time-bitcoin-data-in-javascript-fb20166b4fe0?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-09T16:46:03.000Z",
+          "wordCount": 1317,
+          "title": "How to Create Interactive Candlestick Charts With Real-Time Bitcoin Data in JavaScript"
+        },
+        {
+          "id": "https://medium.com/p/d9939062d2b7",
+          "author": "Vishal Kataria",
+          "description": "Know how they lead by example to increase their team’s productivity\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/the-5-rules-of-highly-effective-managers-d9939062d2b7?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-09T16:38:21.000Z",
+          "wordCount": 1464,
+          "title": "The 5 Rules Of Highly Effective Managers"
+        },
+        {
+          "id": "https://medium.com/p/e951885f47d2",
+          "author": "Tyler Hawkins",
+          "description": "Soft skills often trump hard skills at this level\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/what-i-look-for-when-hiring-senior-software-engineers-e951885f47d2?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-09T16:33:14.000Z",
+          "wordCount": 1316,
+          "title": "What I Look for When Hiring Senior Software Engineers"
+        },
+        {
+          "id": "https://medium.com/p/b2494b587855",
+          "author": "Tate Galbraith",
+          "description": "Nobody wants a dense and grey terminal. Liven things up with these great libraries\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-python-libraries-for-better-console-output-b2494b587855?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-09T16:25:21.000Z",
+          "wordCount": 1018,
+          "title": "5 Python Libraries For Better Console Output"
+        },
+        {
+          "id": "https://medium.com/p/d6ae00581170",
+          "author": "Mohamed Barouma",
+          "description": "I’m currently going through a design and implementation process with Lope, and I don’t want to repeat my past mistakes\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/why-programming-language-design-is-hard-and-a-few-ways-to-make-it-easier-d6ae00581170?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-09T16:03:16.000Z",
+          "wordCount": 1781,
+          "title": "Why Programming Language Design Is Hard (And a Few Ways To Make It Easier)"
+        },
+        {
+          "id": "https://medium.com/p/6514c8643c94",
+          "author": "Gourav Kajal",
+          "description": "Don’t get stuck or confused on the way to start your career\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-front-end-development-skills-to-land-your-first-job-6514c8643c94?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-09T16:03:12.000Z",
+          "wordCount": 1803,
+          "title": "5 Front End Development Skills To Land Your First Job"
+        },
+        {
+          "id": "https://medium.com/p/a2baaf5abad3",
+          "author": "Andreas D.",
+          "description": "Motivate yourself to work hard\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-climb-the-career-ladder-when-feeling-talentless-a2baaf5abad3?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-09T16:01:13.000Z",
+          "wordCount": 1413,
+          "title": "How to Climb the Career Ladder When Feeling Talentless"
+        },
+        {
+          "id": "https://medium.com/p/6691df98a518",
+          "author": "Joseph Gefroh",
+          "description": "Learn how to create a reusable report generation system using the template design pattern\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-design-software-report-generators-in-ruby-6691df98a518?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-09T15:39:36.000Z",
+          "wordCount": 1190,
+          "title": "How to Design Software Report Generators in Ruby"
+        },
         {
           "id": "https://medium.com/p/69d0250379c9",
           "author": "Matthew Weiler",

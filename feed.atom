@@ -2,10 +2,414 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-09T00:17:35.070Z</updated>
+    <updated>2021-08-10T00:17:25.460Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[個人利用クラウドへのアップロードも行われた再委託先従業員による情報持ち出しについてまとめてみた - piyolog]]></title>
+        <id>https://piyolog.hatenadiary.jp/entry/2021/08/10/063000</id>
+        <link href="https://piyolog.hatenadiary.jp/entry/2021/08/10/063000"/>
+        <updated>2021-08-09T22:04:28.000Z</updated>
+        <summary type="html"><![CDATA[2021年8月5日、村田製作所は再委託先企業の従業員が取引先情報や個人情報などを含むデータを無許可でダウンロードした上、外部のクラウドサービスへアップロードを行っていたとして不適切な取り扱いの発生を公表しました。ここでは関連する情報をまとめます。 外部流出ないが状況鑑み公表 不適切な取り扱いを行ったのは...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぼくがかんがえたさいきょうのWasmビルド環境]]></title>
+        <id>https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env</id>
+        <link href="https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env"/>
+        <updated>2021-08-09T21:48:33.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR VS Code前提になってしまいますが、VS Code Remote Containers拡張最強です、という話。実際にどういう風に作れば良いかは参考リポジトリ作ったので見て下さい。 はじめに 背景ぼかしのような推論結果を使ってカメラ画像にフィルタを入れる処理を書くとき、今だと選択肢は大きく分けて2つあります。 tfjsを使う Wa...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナワクチンの誤情報拡散 検索エンジンの取組みと問題点 - web > SEO]]></title>
+        <id>https://webweb.hatenablog.com/blog/search-engine/covid19-search</id>
+        <link href="https://webweb.hatenablog.com/blog/search-engine/covid19-search"/>
+        <updated>2021-08-09T21:44:08.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍への現状での最大の対抗策、ワクチン接種に関する誤解の広がりが大きな問題になっています｡ コロナウイルスやワクチンに関する誤解は、通常の人間関係での口コミなど様々な経路で伝わるでしょうが､ネットが主な経路というケースも少なくないでしょう。 どのような人々がワクチン接種をしたがらないか独立行政法...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choice Words about the Upcoming Deprecation of JavaScript Dialogs]]></title>
+        <id>https://css-tricks.com/?p=346368</id>
+        <link href="https://css-tricks.com/choice-words-about-the-upcoming-deprecation-of-javascript-dialogs/"/>
+        <updated>2021-08-09T21:23:44.000Z</updated>
+        <summary type="html"><![CDATA[It might be the very first thing a lot of people learn in JavaScript:
+alert("Hello, World");
+One day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …
+The post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Large, Small, and Dynamic Viewports]]></title>
+        <id>https://css-tricks.com/?p=346316</id>
+        <link href="https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/"/>
+        <updated>2021-08-09T20:37:39.000Z</updated>
+        <summary type="html"><![CDATA[We’ve got viewport units (e.g. vw, vh, vmin, vmax), and they are mostly pretty great. It’s cool to always have a unit available that is relative to the entire screen. But when you ask people what …
+The post The Large, Small, and Dynamic Viewports appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Hire the Best Freelance Developers in the Gig Economy]]></title>
+        <id>https://medium.com/p/1c3358a34e5d</id>
+        <link href="https://betterprogramming.pub/how-to-hire-the-best-freelance-developers-in-the-gig-economy-1c3358a34e5d?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-09T17:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Leverage the most significant development in the future of work
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Isabel Nyo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should You Be Deleting Your Own Code?]]></title>
+        <id>https://medium.com/p/ba77700cf4b8</id>
+        <link href="https://betterprogramming.pub/should-you-be-deleting-your-own-code-ba77700cf4b8?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-09T17:03:44.000Z</updated>
+        <summary type="html"><![CDATA[Falling in love with your code is the worst thing you can do as a developer
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Fernando Doglio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Interactive Candlestick Charts With Real-Time Bitcoin Data in JavaScript]]></title>
+        <id>https://medium.com/p/fb20166b4fe0</id>
+        <link href="https://betterprogramming.pub/how-to-create-interactive-candlestick-charts-with-real-time-bitcoin-data-in-javascript-fb20166b4fe0?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-09T16:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Using the Binance API to stream real-time cryptocurrency prices
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Christian Behler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 5 Rules Of Highly Effective Managers]]></title>
+        <id>https://medium.com/p/d9939062d2b7</id>
+        <link href="https://betterprogramming.pub/the-5-rules-of-highly-effective-managers-d9939062d2b7?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-09T16:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Know how they lead by example to increase their team’s productivity
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Vishal Kataria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Look for When Hiring Senior Software Engineers]]></title>
+        <id>https://medium.com/p/e951885f47d2</id>
+        <link href="https://betterprogramming.pub/what-i-look-for-when-hiring-senior-software-engineers-e951885f47d2?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-09T16:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Soft skills often trump hard skills at this level
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Tyler Hawkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Python Libraries For Better Console Output]]></title>
+        <id>https://medium.com/p/b2494b587855</id>
+        <link href="https://betterprogramming.pub/5-python-libraries-for-better-console-output-b2494b587855?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-09T16:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Nobody wants a dense and grey terminal. Liven things up with these great libraries
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Tate Galbraith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Programming Language Design Is Hard (And a Few Ways To Make It Easier)]]></title>
+        <id>https://medium.com/p/d6ae00581170</id>
+        <link href="https://betterprogramming.pub/why-programming-language-design-is-hard-and-a-few-ways-to-make-it-easier-d6ae00581170?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-09T16:03:16.000Z</updated>
+        <summary type="html"><![CDATA[I’m currently going through a design and implementation process with Lope, and I don’t want to repeat my past mistakes
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Mohamed Barouma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Front End Development Skills To Land Your First Job]]></title>
+        <id>https://medium.com/p/6514c8643c94</id>
+        <link href="https://betterprogramming.pub/5-front-end-development-skills-to-land-your-first-job-6514c8643c94?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-09T16:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Don’t get stuck or confused on the way to start your career
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Gourav Kajal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Climb the Career Ladder When Feeling Talentless]]></title>
+        <id>https://medium.com/p/a2baaf5abad3</id>
+        <link href="https://betterprogramming.pub/how-to-climb-the-career-ladder-when-feeling-talentless-a2baaf5abad3?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-09T16:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Motivate yourself to work hard
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Andreas D.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Software Report Generators in Ruby]]></title>
+        <id>https://medium.com/p/6691df98a518</id>
+        <link href="https://betterprogramming.pub/how-to-design-software-report-generators-in-ruby-6691df98a518?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-09T15:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to create a reusable report generation system using the template design pattern
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Joseph Gefroh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html</id>
+        <link href="https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html"/>
+        <updated>2021-08-09T15:02:34.000Z</updated>
+        <summary type="html"><![CDATA[ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 オープンソースの検索エンジンElasticsearchは、ログ解析による運用監視やセキュリティインシデントの発見、データ分析などに使われている人気のソフトウェアです。 その開発元であるElasticは、E...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using JSON in Angular]]></title>
+        <id>https://dev.to/rfornal/using-json-in-angular-19ca</id>
+        <link href="https://dev.to/rfornal/using-json-in-angular-19ca"/>
+        <updated>2021-08-09T14:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Being able to import and process JSON files provides a whole host of configuration options, as well as providing a means of capturing data locally for development purposes.
+When I started using this pattern, I was looking for a means to provide basic configuration (i.e. Feature Flags). The process quickly evolved into ...
+Authorization
+Configuration (Feature Flags)
+Language
+Host Names
+Core Structures (think titles matching data keys)
+But first, I needed to be able to read these files.
+In the tsconfig.json file I added the "resolveJsonModule": true configuration option under the compilerOptions key:
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    ...
+    "resolveJsonModule": true,
+    ...
+}
+
+Additionally, I learned that I can read a JSON file that is in the assets folder via an http.…]]></summary>
+        <author>
+            <name>bob.js</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the CSS Paint API: Image Fragmentation Effect]]></title>
+        <id>https://css-tricks.com/?p=345642</id>
+        <link href="https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/"/>
+        <updated>2021-08-09T14:27:18.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article, I created a fragmentation effect using CSS mask and custom properties. It was a neat effect but it has one drawback: it uses a lot of CSS code (generated using Sass). This time I am …
+The post Exploring the CSS Paint API: Image Fragmentation Effect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonの異常検知パッケージPyODのフォーマットに従って、カーネル密度推定に基づく異常検知を実装した - 備忘録]]></title>
+        <id>https://tam5917.hatenablog.com/entry/2021/08/09/203647</id>
+        <link href="https://tam5917.hatenablog.com/entry/2021/08/09/203647"/>
+        <updated>2021-08-09T11:50:14.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 異常検知（外れ値検知）のための便利なPythonパッケージとしてPyODが存在する。 pyod.readthedocs.io クラシックな手法から比較的最先端の手法まで実装されており、インタフェースも使いやすいのでオススメできる。 2021年8月9日現在、PyODにカーネル密度推定（Kernel Density Estimation; KDE）ベースの異常検...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Switch Your Angular App Between Material, Bootstrap and Custom Themes at Runtime]]></title>
+        <id>https://dev.to/primetek/how-to-switch-your-angular-app-between-material-bootstrap-and-custom-themes-at-runtime-5788</id>
+        <link href="https://dev.to/primetek/how-to-switch-your-angular-app-between-material-bootstrap-and-custom-themes-at-runtime-5788"/>
+        <updated>2021-08-09T10:51:31.000Z</updated>
+        <summary type="html"><![CDATA[UI Component libraries usually depend on a certain style such as material, bootstrap, bulma and others. One of the most powerful features of PrimeNG is being design agnostic so that you can switch between material, bootstrap, fluentui, primeone themes and your very own themes easily without having to rewrite your app with another library. Read more about PrimeNG Theming for technical details.
+A certain theme can be bundled within an app by importing the css to the bundle easily but how to do it dynamically at runtime. Luckily Angular CLI has built-in options to implement this so that your users can switch it on-the-fly. Implementation consists of two parts, creating a theme css to lazy load and importing it to your page.
+Watch the Tutorial on Youtube
+
+
+
+
+
+  
+  
+  Create Theme Files
+
+
+We ne…]]></summary>
+        <author>
+            <name>PrimeTek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL Client から自作 DBMS に接続する - goropikariの備忘録]]></title>
+        <id>https://goropikari.hatenablog.com/entry/postgres_client_dbms</id>
+        <link href="https://goropikari.hatenablog.com/entry/postgres_client_dbms"/>
+        <updated>2021-08-09T09:18:48.000Z</updated>
+        <summary type="html"><![CDATA[最近、Go の練習がてら書いていた自作 DBMS が PostgreSQL client から接続できるようになったので、そのやり方を残しておきます。(これから紹介するサンプルコードはすべて Python ですが) github.com psql --version psql (PostgreSQL) 13.2 pgcon の資料と PostgreSQL の公式 Document、加えて PostgreSQL server と ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer Sale Starts Now!]]></title>
+        <id>https://dev.to/primetek/end-of-summer-sale-starts-now-546f</id>
+        <link href="https://dev.to/primetek/end-of-summer-sale-starts-now-546f"/>
+        <updated>2021-08-09T08:07:22.000Z</updated>
+        <summary type="html"><![CDATA[It is that time again! We know you are feeling the heat but now is the time for amazing deals at PrimeStore to bring up to 50% discount on all the Premium Templates, Theme Designers, PrimeFaces Elite, PrimeNG LTS Subscriptions and License Upgrades!
+Visit PrimeStore now to begin shopping.]]></summary>
+        <author>
+            <name>PrimeTek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ど根性アジャイル]]></title>
+        <id>https://anond.hatelabo.jp/20210809165601</id>
+        <link href="https://anond.hatelabo.jp/20210809165601"/>
+        <updated>2021-08-09T07:56:32.000Z</updated>
+        <summary type="html"><![CDATA[根性、根性、ど根性！ 泣いて笑ってケンカして 「にくいよーッ！このォ！ ど根性アジャイル！！」 ドッコイ生きてる プロジェクト]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスラのSFの世界から抜け出してきたかのような「Cybertruck」の生産が2022年まで延期されることが明らかに - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210809-tesla-cybertruck-production-delayed-2022/</id>
+        <link href="https://gigazine.net/news/20210809-tesla-cybertruck-production-delayed-2022/"/>
+        <updated>2021-08-09T06:48:38.000Z</updated>
+        <summary type="html"><![CDATA[電気自動車メーカーのテスラが2019年に発表した電気ピックアップトラックの「Cybertruck」について、生産が2022年まで延期されることが明らかになっています。 Tesla finally confirms Cybertruck electric pickup is delayed to 2022 - Electrek https://electrek.co/2021/08/07/tesla-confirms-cybertruck-electric-pi...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touch ID搭載Magic KeyboardのTouch IDを利用してApple Silicon搭載のMacで「sudo」を実行する。]]></title>
+        <id>https://applech2.com/archives/20210809-sudo-using-magic-keyboard-with-touch-id.html</id>
+        <link href="https://applech2.com/archives/20210809-sudo-using-magic-keyboard-with-touch-id.html"/>
+        <updated>2021-08-09T04:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Touch ID搭載Magic KeyboardのTouch IDを利用してApple Silicon搭載のMacで「sudo」を実行する方法です。詳細は以下から。 　Appleは2021年04月、Apple M1チッ The post Touch ID搭載Magic KeyboardのTouch IDを利用してApple Silicon搭載のMacで「sudo」を実行する。 first appeared on AAPL Ch..]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2020年】CTF Web問題の攻撃手法まとめ - こんとろーるしーこんとろーるぶい]]></title>
+        <id>https://graneed.hatenablog.com/entry/2021/08/09/115452</id>
+        <link href="https://graneed.hatenablog.com/entry/2021/08/09/115452"/>
+        <updated>2021-08-09T04:43:05.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 対象イベント 読み方、使い方 Remote Code Execution(RCE) 親ディレクトリ指定によるopen_basedirのバイパス PHP-FPMのTCPソケット接続によるopen_basedirとdisable_functionsのバイパス JavaのRuntime.execでシェルを実行 Cross-Site Scripting(XSS) nginx環境でHTTPステータスコードが操作できる場合にCSPヘ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[効率的なミサイル迎撃用のAIを開発する研究者が「トンボの脳」をコピーする意味とは？ - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210809-artificial-intelligence-copy-dragonfly-brains/</id>
+        <link href="https://gigazine.net/news/20210809-artificial-intelligence-copy-dragonfly-brains/"/>
+        <updated>2021-08-09T04:00:43.000Z</updated>
+        <summary type="html"><![CDATA[AIと聞くと「人間の脳を模倣したもの、あるいは人間の脳を上回る性能を持つもの」という印象を持つ人も多いかもしれません。しかし、軍事科学や安全保障の研究を行うアメリカのサンディア国立研究所に勤めるフランシス・チャンス博士は、人間の脳ではなく「トンボの脳」をモデルにしたAIの開発を行っているとのことです...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Transparency Report]]></title>
+        <id>https://transparencyreport.google.com/copyright/domains/localhost</id>
+        <link href="https://transparencyreport.google.com/copyright/domains/localhost"/>
+        <updated>2021-08-09T03:54:31.000Z</updated>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular: Pros and Cons]]></title>
+        <id>https://dev.to/siddharthshyniben/angular-pros-and-cons-m9l</id>
+        <link href="https://dev.to/siddharthshyniben/angular-pros-and-cons-m9l"/>
+        <updated>2021-08-09T03:49:19.000Z</updated>
+        <summary type="html"><![CDATA[Angular, maintained by Google and one of the most powerful web development frameworks out there, is a pretty good choice for web development. To help you decide whether Angular is good for you, here's a list of Angular pros and cons.
+Note: We are talking about Angular (2-12), NOT Angular.js.
+Scroll to the end of the post for a summary if you don't want to read the whole thing.
+ Angular sites are Single Page Applications (SPA). SPAs allow us to load new pages without requesting the server, giving a more dynamic and interactive experience. For example, GMail is a SPA.
+ Angular is feature-packed. State? Baked in. Reactivity? Baked in. Routing? Baked in. DI? Baked in. Services? Baked in.
+ Angular is cross-platform.
+
+
+
+PWAs: Use modern web platform capabilities to deliver app-like experiences. …]]></summary>
+        <author>
+            <name>Siddharth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DX推進キーマンの「AI人材」が大幅不足--その中で企業が打つべき一手は？ - CNET Japan]]></title>
+        <id>https://japan.cnet.com/article/35174795/</id>
+        <link href="https://japan.cnet.com/article/35174795/"/>
+        <updated>2021-08-09T03:17:06.000Z</updated>
+        <summary type="html"><![CDATA[DX推進のキーテクノロジーとなるのは「AI」です。実際に、世界有数のデジタル企業はAIを活用してビジネスを成長させています。最近では、プログラミングコードを書かずにAIを構築できるツールも生まれ、AIの活用は急速に拡大しています。 ところが、日本国内を見れば、AIをうまく取り入れられない企業が多いのが実態です...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Polkadot Angular Identicon]]></title>
+        <id>https://dev.to/morgueye4/how-to-use-polkadot-angular-identicon-4659</id>
+        <link href="https://dev.to/morgueye4/how-to-use-polkadot-angular-identicon-4659"/>
+        <updated>2021-08-09T03:09:35.000Z</updated>
+        <summary type="html"><![CDATA[This guides shows how to use the polkadot-angular-identicon, a generic identity icon that can render icons in Angular applications for Substrate based chains.
+We assume that you have the angular cli installed if not then inslall it by typing
+npm install -g @angular/cli.
+After the cli installation is done just type ng --version and it will display the Angular cli version For more info please visit this link.
+To create an angular project type: ng new my-project and the my-project will be created.
+In our case let's create a project called pai (like polkadot-angular-identicon 😎)
+ng new pai and you will see something like this
+
+install polkadot-angular-identicon npm dependency
+npm i polkadot-angular-identicon.
+After the package is installed open the app.module.ts file in the project under src …]]></summary>
+        <author>
+            <name>Mor GUEYE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[｢Google ドライブ｣最新アプリがリリース！ 現行版から何が変わった？ | ライフハッカー［日本版］]]></title>
+        <id>https://www.lifehacker.jp/2021/08/238841all-the-features-worth-knowing-about-in-the-new-google.html</id>
+        <link href="https://www.lifehacker.jp/2021/08/238841all-the-features-worth-knowing-about-in-the-new-google.html"/>
+        <updated>2021-08-09T01:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Googleは、Windows版とmacOS版の｢Google ドライブ｣アプリを発表しました。 10月1日に終了する｢バックアップと同期｣と｢ドライブファイルストリーム｣に替わるものです。 Googleは、同期が中断されないように9月までには｢Google ドライブ｣アプリに移行するよう全ユーザーに推奨していますが、昔のアプリが使えなくなるから...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[関数型プログラミングなんもわからん。を考えようと言うイベントを開きました。]]></title>
+        <id>https://zenn.dev/ababup1192/articles/568836a26e5b83</id>
+        <link href="https://zenn.dev/ababup1192/articles/568836a26e5b83"/>
+        <updated>2021-08-08T23:28:50.000Z</updated>
+        <summary type="html"><![CDATA[先日Connpassにて、関数型プログラミングなんもわからん。を考えようと言うイベントを開かせていただきました。 関数型プログラミングがわからない！ と言う方達の疑問に対して、普段関数型プログラミング言語を使っているわかる人たちが回答をして行くと言うスタイルのイベントでした。関数型プログラミング言語と一口...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【レビュー】GeForce RTX 3070 Tiなら、ONEXPLAYERのネイティブ解像度でも快適にゲームプレイができるのか？ - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/topic/review/1341272.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/topic/review/1341272.html"/>
+        <updated>2021-08-08T23:04:35.000Z</updated>
+        <summary type="html"><![CDATA[ONE-NETBOOKの8.4型液晶搭載のポータブルWindowsゲーム機「ONEXPLAYER」が、いよいよ8月下旬に発売される。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[１ライセンスでの使用可能な範囲の解釈と，違約金合意の有効性　東京地判令3.3.24（平30ワ38486） - IT・システム判例メモ]]></title>
         <id>https://itlaw.hatenablog.com/entry/2021/08/08/221130</id>
@@ -35,6 +439,16 @@
 Continue reading on Better Programming »]]></summary>
         <author>
             <name>Matthew Weiler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[グーグルは一線を越えた　私たちがクロームをボイコットすべき理由 | Forbes JAPAN（フォーブス ジャパン）]]></title>
+        <id>https://forbesjapan.com/articles/detail/42088?internal=ranking</id>
+        <link href="https://forbesjapan.com/articles/detail/42088?internal=ranking"/>
+        <updated>2021-08-08T18:25:33.000Z</updated>
+        <summary type="html"><![CDATA[グーグルは、自社の広告エコシステム内でのサードパーティー製クッキーの廃止を約2年延期し、2023年末とすると発表した。関係する広告業界が変更に対応する時間を設けるための措置だと説明している。 この決定により、グーグルにとっての真の顧客とは誰なのか、そして誰の声を真っ先に聞き入れるのかといった同社の優先...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -82,6 +496,26 @@ links to other articles in this series are below
 In our last article ng-content, We said that we are going to discuss the conditional content projection in this particular article. One of the major draw backs in using the ng-content is the a…]]></summary>
         <author>
             <name>Valentine Awe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to avoid machine learning pitfalls: a guide for academic researchers]]></title>
+        <id>https://arxiv.org/abs/2108.02497</id>
+        <link href="https://arxiv.org/abs/2108.02497"/>
+        <updated>2021-08-08T12:37:36.000Z</updated>
+        <summary type="html"><![CDATA[This document gives a concise outline of some of the common mistakes that occur when using machine learning techniques, and what can be done to avoid them. It is intended primarily as a guide for research students, and focuses on issues that are of particular concern within academic research, suc...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[アップデート] AWS Cloud9 がまた少し便利になりました (CloudWatch Logs、S3、インスタンスプロファイル) | DevelopersIO]]></title>
+        <id>https://dev.classmethod.jp/articles/aws-cloud9-introduces-features-browse-cloudwatch-logs-s3-ec2-instance-profiles/</id>
+        <link href="https://dev.classmethod.jp/articles/aws-cloud9-introduces-features-browse-cloudwatch-logs-s3-ec2-instance-profiles/"/>
+        <updated>2021-08-08T11:06:25.000Z</updated>
+        <summary type="html"><![CDATA[コンバンハ、千葉（幸）です。 AWS Cloud9 で新たな機能が使用できるようになりました。 3 つ……ないし 2 つの機能が増えています。（どちらなんだ。） 何ができるようになったか 冒頭のブログを確認すると、以下のように説明されています。 AWS Cloud9 introduces 3 new features, including support for CloudWatch Log...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -203,6 +637,54 @@ class Observable {
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Build Your Own RxJS - Operators - (Part 2)]]></title>
+        <id>https://dev.to/chihab/build-your-own-rxjs-operators-part-2-l89</id>
+        <link href="https://dev.to/chihab/build-your-own-rxjs-operators-part-2-l89"/>
+        <updated>2021-08-08T08:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+On the previous post of the series we built our own Observable class.
+class Observable {
+  private _subscribe;
+  private _unsubscribe;
+  private _stopped = true;
+  constructor(subscribe) {
+    this._subscribe = subscribe;
+  }
+  _stop() {
+    this._stopped = true;
+    setTimeout(() => {
+      this._unsubscribe();
+    });
+  }
+  subscribe(observer) {
+    this._stopped = false;
+    this._unsubscribe = this._subscribe({
+      next: (value) => {
+        if (!this._stopped) {
+          observer.next(value);
+        }
+      },
+      complete: () => {
+        if (!this._stopped) {
+          observer.complete();
+          this._stop();
+        }
+      },
+      error: () => {
+        if (!this._stopped) {
+          observer.error();
+          this._stop();
+        }
+      },
+    });
+  …]]></summary>
+        <author>
+            <name>Chihab Otmani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「プールの壁が透明なの？」水上と水中両方が見えるアーティスティックスイミングの中継に反響→すごい技術で合成してた - Togetter]]></title>
         <id>https://togetter.com/li/1756505</id>
         <link href="https://togetter.com/li/1756505"/>
@@ -218,6 +700,16 @@ class Observable {
         <link href="https://togetter.com/li/1756501"/>
         <updated>2021-08-08T05:45:03.000Z</updated>
         <summary type="html"><![CDATA[アキヤ @K_akiya @boat_10ku @bookdraught 兵庫の誇るレジです、よろしくお願いします。店員さんで学習データを補正していくので、認識されなくなる日がくるかもしれません。bakeryscan.com 2021-08-08 11:22:46 リンク BakeryScan(ベーカリースキャン) BakeryScan(ベーカリースキャン) トレイ上のパンの種類･値段をカメ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PythonでMySQLのスロークエリログを集計 | 外道父の匠]]></title>
+        <id>http://blog.father.gedow.net/2021/08/08/mysql-slow-query-python/</id>
+        <link href="http://blog.father.gedow.net/2021/08/08/mysql-slow-query-python/"/>
+        <updated>2021-08-08T05:06:52.000Z</updated>
+        <summary type="html"><![CDATA[久々に溜まったブログネタ放出をしようかなと、その前に下書きから掘り起こしてきた、いまさらなスロークエリ関連で準備運動です。 RDSのスロークエリ情報は当然、集計を自動化していつでも見れるようにしてあるのですが、ちょいと必要があったので、今回はあえて単発ログを集計する形に切り出したものを用意してみまし...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -322,6 +814,37 @@ https://aminkodaganur.github.io/iconplus/]]></summary>
         <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 人工知能（AI）研究で独走していた米国を中国が追い越しつつある。研究の質を示す論文の引用実績で2020年に中国が米国を初めて逆転した。AIは幅広い産業に組み込まれ、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own RxJS - Observables - (Part 1)]]></title>
+        <id>https://dev.to/chihab/build-your-own-rxjs-3edd</id>
+        <link href="https://dev.to/chihab/build-your-own-rxjs-3edd"/>
+        <updated>2021-08-07T20:04:10.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+
+
+One of the effective ways to better know a technology is to get an idea of the underlying implementation and ideally try to build your own.
+Our journey throughout this series is to build some of the core RxJS features from scratch, namely:
+The Observable class to create and subscribe to an Observable stream
+Observable creation utilities like fromEvent and interval
+
+Operators like take, map and switchMapTo
+
+The pipe utility method which simplifies the composition of several operators applied to an Observable
+
+
+
+Consider the code below that starts a new countdown every time the user clicks on the Reset button.
+<div id="text"></div>
+<button id="reset">Reset</div>
+
+import { interval, fromEvent } from "rxjs";
+import { switchMap, map, take } from "rxjs/operators";
+
+function countd…]]></summary>
+        <author>
+            <name>Chihab Otmani</name>
         </author>
     </entry>
     <entry>
@@ -485,6 +1008,16 @@ Much more "complete" out of the bo…]]></summary>
         <link href="https://dev.classmethod.jp/articles/20210807-amazon-athena-unload/"/>
         <updated>2021-08-07T15:07:56.000Z</updated>
         <summary type="html"><![CDATA[データアナリティクス事業本部コンサルティングチームの石川です。先日、Amazon Athenaが、UNLOADコマンドをサポートしました。SELECTクエリの結果をCSV、Parquet、Avro、ORC、JSONフォーマットでS3出力できるようになりました。本日は、UNLOADコマンドを実際に試してみます。 UNLOADコマンド UNLOADコマンドの構文は、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SREチームで社内GameDayを実施しました]]></title>
+        <id>https://zenn.dev/psyashes/articles/380734829fd8aa</id>
+        <link href="https://zenn.dev/psyashes/articles/380734829fd8aa"/>
+        <updated>2021-08-07T13:17:20.000Z</updated>
+        <summary type="html"><![CDATA[GameDayとは 起源はAWSが毎年行っているAWS re:inventの中で開催される行事の1つです。 チームを組んでクラウド・アプリケーションを襲う謎の障害や悪意のある攻撃に対処し、トラブルシューティング能力を競うコンテストとなっています。 のちに様々な企業が社内でも実施するようになり、今ではAWS Well-Architectedのセ...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -701,6 +1234,16 @@ Happy coding!!! 🎉🎉🎉]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[伊万里市、大手検索サイトでＨＰ表示されず　復旧に数日｜行政・社会｜佐賀新聞ニュース｜佐賀新聞LiVE]]></title>
+        <id>https://www.saga-s.co.jp/articles/-/719682</id>
+        <link href="https://www.saga-s.co.jp/articles/-/719682"/>
+        <updated>2021-08-07T03:46:23.000Z</updated>
+        <summary type="html"><![CDATA[伊万里市で、グーグルとヤフーのインターネット検索サイトから市のホームページ（ＨＰ）が表示されない状態が１週間近く続いている。市によると、ＨＰに対する検索エンジン側の認証が外れているためで、復旧に数日かかる見込み。 市の説明では、グーグルとヤフーのサイトは同一の検索エンジンを使っている。ＨＰを表示す...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ハッカー集団の「攻撃マニュアル」闇サイトに流出か | IT・ネット | NHKニュース]]></title>
         <id>https://www3.nhk.or.jp/news/html/20210807/k10013186771000.html</id>
         <link href="https://www3.nhk.or.jp/news/html/20210807/k10013186771000.html"/>
@@ -825,6 +1368,17 @@ The post SVG Gobbler appeared first on CSS-Tricks. You can support CSS-Tricks by
         <summary type="html"><![CDATA[Apple（アップル）は、既知の児童性的虐待素材を検知し、ユーザープライバシーが守られる方法で警察機関に通報する技術を2021年中に展開する。 Appleは、児童性的虐待素材（CSAM）の検出は同社のサービスを使用する子どもたちをオンライン危害から守ることを目的とした新機能の一環であるとTechCrunchに語った。子どもの...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Nuxt Features past v2.10]]></title>
+        <id>https://css-tricks.com/?p=346290</id>
+        <link href="https://css-tricks.com/new-nuxt-features-past-v2-10/"/>
+        <updated>2021-08-06T15:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Nuxt offers an incredible developer experience, with a lot of performance and application setup best practices baked in. In recent releases, they’ve been working on taking this developer experience to the next level, with some newer features that speed up …
+The post New Nuxt Features past v2.10 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sarah Drasner</name>
         </author>
     </entry>
     <entry>
@@ -1018,6 +1572,16 @@ Continue reading on Better Programming »]]></summary>
         <link href="https://iphone-mania.jp/news-387736/"/>
         <updated>2021-08-06T11:26:55.000Z</updated>
         <summary type="html"><![CDATA[巨大テック企業は一国の国内総生産（GDP）を超えるほどの収益を上げているともいわれていますが、1秒あたりではどれくらいの収益額になるのでしょうか？カナダの番組制作会社BNN Bloombergの朝の番組「The Open」のキャスターを務めるジョン・アーリックマン氏が投稿した収益早見表が話題になっています。 Appleは1秒あ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オーディオ入門に最適！ 注目小型スピーカー5台を聴き比べる - AV Watch[Sponsored]]]></title>
+        <id>https://av.watch.impress.co.jp/docs/topic/special/1337338.html</id>
+        <link href="https://av.watch.impress.co.jp/docs/topic/special/1337338.html"/>
+        <updated>2021-08-06T11:10:17.000Z</updated>
+        <summary type="html"><![CDATA[家で過ごす時間が多くなった事で、「オーディオをはじめてみよう!」「小さくても音の良いスピーカーを買ってみよう」と考えている人も多いだろう。だが、多くのスピーカーを聴き比べに出かけるのも大変な昨今。そこで、“買いやすい値段”かつ注目のブックシェルフスピーカー5台を用意。オーディオ評論家の三浦孝仁氏と、編集部の山崎で、その実力をじっくり聴き比べてみた。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -10444,43 +11008,6 @@ https://ja.wikipedia.org/wiki/Singleton_パターン
         <summary type="html"><![CDATA[よくある古典的な、終わりのない葛藤と同じように、開発チームをどのように組織し、自律的にするかという議論は依然として盛り上がっています。目下のところ、スクラムについては好意的な見方よりも批判の方が多いかのように思えます。も]]></summary>
         <author>
             <name>UX MILK編集部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[オンラインの会議で参加者の発言を活発にするgoogleフォーム活用法｜柴田史郎｜note]]></title>
-        <id>https://note.com/4bata/n/nec40df9eb61f</id>
-        <link href="https://note.com/4bata/n/nec40df9eb61f"/>
-        <updated>2021-07-11T01:26:24.000Z</updated>
-        <summary type="html"><![CDATA[柴田（@4bata）です。1年以上試行錯誤して「これがひとつの答えだ！」というのが見えました。プレゼンやワークショップでも使えますし、普通の会議でも使えます。 いいまとめのツイートがあったので最初に引用 目から鱗な実践のコツ！ ・オンライン会議はビデオオフ＆ミュートで良い ・司会はDJ感覚で ・フォームを使っ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロゴのデザイン書が本日限り、Kindleセールで75％オフのワンコイン！ロゴのアイデアやテクニックがよく分かる]]></title>
-        <id>https://coliss.com/?p=30296</id>
-        <link href="https://coliss.com/articles/products/kindle-sale-b085rvn7vg.html"/>
-        <updated>2021-07-11T00:06:48.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ngx-sweetalert2でCheckboxの状態によってConfirmButtonのdisabledを制御したい]]></title>
-        <id>https://zenn.dev/masaks/articles/a87449f953561d</id>
-        <link href="https://zenn.dev/masaks/articles/a87449f953561d"/>
-        <updated>2021-07-10T18:39:44.000Z</updated>
-        <summary type="html"><![CDATA[はじめに
-今回は ngx-sweetalert2のCheckbox付きダイアログにおいて、Checkboxがチェックの状態によってConfirmButtonの活性非活性を制御する方法を共有していく。
-
-
- 実装の背景
-今回は Serviceクラスのみで実現できる 実装方法にしている。
-独自の Swal コンポーネントを実装することでタイトルのことを実現できかつデザイン等も柔軟にできるが、それをするとこのダイアログを使用するPage Component側でこのコンポーネントと @ViewChild() を定義しないといけなくなるため、利用者側としても不便だ。
-おそらく、確認ダイアログで...]]></summary>
-        <author>
-            <name>masaks</name>
         </author>
     </entry>
 </feed>
