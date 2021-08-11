@@ -66,20 +66,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://zenn.dev/hashito/articles/f24b066962f58d",
-          "author": "hashito",
-          "description": "背景\nAngularでServiceを作成して下記の一文を入れておくとクラスがシングルストン構成となるはずです。\n\n      \n        \n        @Injectable({\n  providedIn: 'root'\n})\n\n\n      \n      シングルストン構成とは、アプリケーション上単一のインスタンスしか持たいない構成で、通常のクラスは複数の実態を持つが、シングルストンなクラスはどこからアクセスしても単一な実態へアクセスすることになります。\n詳しくは下記。\nhttps://ja.wikipedia.org/wiki/Singleton_パターン\nこれで構成...",
-          "link": "https://zenn.dev/hashito/articles/f24b066962f58d",
-          "publishedOn": "2021-07-11T23:32:45.000Z",
-          "wordCount": 84,
-          "title": "AngularでRoutingしてもServiceが再作成されるときの原因",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--Z4Egesx3--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:hashito%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Angular%25E3%2581%25A7Routing%25E3%2581%2597%25E3%2581%25A6%25E3%2582%2582Service%25E3%2581%258C%25E5%2586%258D%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E5%258E%259F%25E5%259B%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMWYyZGE5MTQwYy5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -88,6 +74,231 @@
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://smhn.info/202108-xiaomi-mi-pad-5-mi-pad-5-pro-spec",
+          "author": null,
+          "description": "Mi Pad 5のSoCはSnapdragon 855のクロックアップであるSnapdragon 860を採用。ディスプレイは11インチ液晶で2560×1600の120Hz、10億色の表示やDolby Visionに対応。スピーカーは4台搭載されており、Dolby Atmosに対応しています。メモリは6GB、ストレージは128/256GBを用意。 カメラは1300万画素、インカメラは800万画素...",
+          "link": "https://smhn.info/202108-xiaomi-mi-pad-5-mi-pad-5-pro-spec",
+          "publishedOn": "2021-08-10T15:20:34.000Z",
+          "wordCount": 390,
+          "title": "シャオミのタブ復活！3万4000円からの超コスパ「Mi Pad 5」、67W急速充電とオクタスピーカー対応「Mi Pad 5 Pro」 – すまほん!!"
+        },
+        {
+          "id": "https://blog.shibayu36.org/entry/2021/08/10/173000",
+          "author": null,
+          "description": "以前Pull Requestから社内全チームの開発パフォーマンス指標を可視化し、開発チーム改善に活かそう - Hatena Developer Blogの記事で、開発パフォーマンスを可視化する話を書いた。その後、バリューストリームマップを作り開発フローの課題を洗い出して、チームの改善を行い、そして開発パフォーマンス指標で効果を検証...",
+          "link": "https://blog.shibayu36.org/entry/2021/08/10/173000",
+          "publishedOn": "2021-08-10T13:59:17.000Z",
+          "wordCount": 200,
+          "title": "開発パフォーマンス指標とバリューストリームマップでチーム改善をする - $shibayu36->blog;"
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/08/11-clever-google-maps-settings-everyone-should-be-usin.html",
+          "author": null,
+          "description": "車のナビがわりにGoogle マップを使う人も増えたのではないでしょうか？ ナビゲーションや交通情報の確認に関して、これ以上のツールはありません。しかし、毎日Google マップを使っている人でも、活用していない機能があります。 今回は、Google マップの知られざる便利機能をご紹介しましょう。 ナビゲーションの設定...",
+          "link": "https://www.lifehacker.jp/2021/08/11-clever-google-maps-settings-everyone-should-be-usin.html",
+          "publishedOn": "2021-08-10T13:44:40.000Z",
+          "wordCount": 95,
+          "title": "Google マップの知られざる11の便利機能 | ライフハッカー［日本版］"
+        },
+        {
+          "id": "https://note.com/udzura/n/n02f2ffc532e3",
+          "author": null,
+          "description": "最初に注意: この文章は「はじめに」「総論」が長いです🙃 はじめに・「仕事のコード」、つまり、業務などで作ったコードが、なるべく負債にならず、なるべく俗人化しないようにするために留意すると良さそうなことを自分の経験などから列挙したものです。 ・ちなみに、「対象読者」に書いてありますが、そもそものモチ...",
+          "link": "https://note.com/udzura/n/n02f2ffc532e3",
+          "publishedOn": "2021-08-10T13:41:50.000Z",
+          "wordCount": 111,
+          "title": "「仕事のコード」を残す際のチェックリスト｜Uchio Kondo｜note"
+        },
+        {
+          "id": "https://ainow.ai/2021/08/10/257419/",
+          "author": null,
+          "description": "この記事では、機械学習をこれから勉強するうえで数学に対してどのように向き合っていけばいいのかについて解説します。 初学者や特に人文学系など理系科目を専門にしていない人たちにとって、どうしても数学には難しい、取っつきにくいというイメージがつきものだと思います。 この記事では、機械学習に必要な数学のロ...",
+          "link": "https://ainow.ai/2021/08/10/257419/",
+          "publishedOn": "2021-08-10T12:26:26.000Z",
+          "wordCount": 1419,
+          "title": "機械学習のための数学について解説｜おすすめの書籍や講座も紹介！ | AI専門ニュースメディア AINOW"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8B67CZP8BUCVL015.html",
+          "author": null,
+          "description": "囲碁の日本棋院は、AI（人工知能）を使った棋士の不正着手を防ぐため、対局中に抜き打ちで身体、荷物検査をすることを決めた。日本将棋連盟は不定期で対局前に検査をしているが、日本棋院は「抑止効果を高めるため」として、より踏み込んだ措置をとる。 人間の棋力をはるかに超えるようになったAIはスマートフォンで簡単...",
+          "link": "https://www.asahi.com/articles/ASP8B67CZP8BUCVL015.html",
+          "publishedOn": "2021-08-10T12:08:43.000Z",
+          "wordCount": 199,
+          "title": "囲碁の日本棋院、対局中の棋士をAI対策で抜き打ち検査：朝日新聞デジタル"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/10/news140.html",
+          "author": null,
+          "description": "佐賀県伊万里市の公式WebサイトがGoogleとYahoo！JAPANの検索エンジンで検索上位に表示されない状態が1週間以上続いていた。現在は復旧済み。 市の公式WebサイトがGoogleとYahoo！JAPANの検索結果に表示されない――磁器「伊万里焼」で有名な佐賀県伊万里市の公式Webサイトが、日本の2大検索エンジンの上位結果に表示され...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/10/news140.html",
+          "publishedOn": "2021-08-10T11:42:53.000Z",
+          "wordCount": 145,
+          "title": "市の公式ページが検索上位に表示されない――伊万里市がGoogleとヤフーにSOS（現在は復旧済み） - ITmedia NEWS"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210810195912",
+          "author": null,
+          "description": "いよいよブクマがつかなくなってきたな そこで、俺もKnoa氏にならって予測しようと思う ■予測に用いる条件 前週までのブクマ数。あとなにか左右する事象があったら俺のフィーリングで適当に数字を増減させる。 そうして書いた分布図から、それらしき数字をエイやっと決めます。細かい数字を出しても仕方ないので10の位ま...",
+          "link": "https://anond.hatelabo.jp/20210810195912",
+          "publishedOn": "2021-08-10T11:08:14.000Z",
+          "wordCount": 2051,
+          "title": "「東京の感染者数を5週間ぶん予測した」のブクマ数予測（8月10日分）"
+        },
+        {
+          "id": "https://photoshopvip.net/130442",
+          "author": null,
+          "description": "Web制作のたびに繰り返し手こずって、時間のかかってしまう作業ってないでしょうか。 作業の効率化や時短において、限界を感じているひとにこそ刺さる、知っておきたい最新オンラインツールをまとめてご紹介します。 面倒な作業もあっという間に終わるだけでなく、どれも無料で利用でき、これまでのWeb制作がガラリと変...",
+          "link": "https://photoshopvip.net/130442",
+          "publishedOn": "2021-08-10T10:44:25.000Z",
+          "wordCount": 313,
+          "title": "面倒なWeb制作におさらば！便利すぎる新登場オンラインツール48個まとめ - PhotoshopVIP"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210810090602",
+          "author": null,
+          "description": "はてなブックマークをやってるだけで人生を損している。 やってるっていうかやらされている感じ。 ブックマークされる側の人間を目指さねばならないのに、 ブックマークコメントへの評価で自己発露欲が解消されて、 人類への貢献もない。",
+          "link": "https://anond.hatelabo.jp/20210810090602",
+          "publishedOn": "2021-08-10T09:31:55.000Z",
+          "wordCount": 90,
+          "title": "はてなブックマークをやってるだけで人生を損している。 やってるっていう.."
+        },
+        {
+          "id": "https://ledge.ai/microsoft-iot-for-beginners-curriculum/",
+          "author": null,
+          "description": "米マイクロソフト（Microsoft）は、あらゆる年齢層の人がIoT（モノのインターネット）の基礎を学べるように、GitHub上に無料のカリキュラム「はじめてのIoT、カリキュラム（IoT for Beginners, curriculum）」を無料公開した。 本カリキュラムは「IoT入門」「デバイスをインターネットに接続する」「アプリケーションロ...",
+          "link": "https://ledge.ai/microsoft-iot-for-beginners-curriculum/",
+          "publishedOn": "2021-08-10T09:14:39.000Z",
+          "wordCount": 148,
+          "title": "マイクロソフト、初心者向けのIoTカリキュラム無料公開 12週間で学習できる | Ledge.ai"
+        },
+        {
+          "id": "https://japanese.engadget.com/realme-xiaomi-080029419.html",
+          "author": null,
+          "description": "世界的に新型コロナウィルスが経済に影響を落としている中、調査会社が発表したスマートフォン出荷量で大きな動きがありました。シャオミが暫定ながらも史上初の1位に、またrealmeが恐ろしいほどの急成長で存在感を高めています。 カウンターポイントの調査では、2021年6月の全世界のスマートフォン出荷量でシャオミがサ...",
+          "link": "https://japanese.engadget.com/realme-xiaomi-080029419.html",
+          "publishedOn": "2021-08-10T09:04:44.000Z",
+          "wordCount": 237,
+          "title": "サムスンを抜きシャオミがスマホ出荷台数で世界1位に（山根博士） - Engadget 日本版"
+        },
+        {
+          "id": "https://engineering.mercari.com/blog/entry/20210810-the-new-mercari-web/",
+          "author": null,
+          "description": "@1000ch です、今回は新しいメルカリ Web について書きます。この大きなプロジェクトのリリースは、多くの人の多大なる貢献によって成されたものです。そのプロジェクトの立ち上がりから今日まで、リードする役割でプロジェクトを見てきた一部始終を記録するべく書きます。 メルカリにおけるレガシーなソフトウェア ソフ...",
+          "link": "https://engineering.mercari.com/blog/entry/20210810-the-new-mercari-web/",
+          "publishedOn": "2021-08-10T08:09:52.000Z",
+          "wordCount": 277,
+          "title": "新しいメルカリ Web の話 | メルカリエンジニアリング"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/10/news120.html",
+          "author": null,
+          "description": "電気通信大学が、炎天下で発熱したスマートフォンの効果的な冷却方法について実験した結果を公開した。最も効果的だったのは、スマホの電源を切って直射日光を避け、扇風機の風を当てる方法だったという。一方、冷蔵庫や保冷剤での冷却は故障の原因になるとした。 電気通信大学は8月10日、炎天下で発熱したスマートフォ...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/10/news120.html",
+          "publishedOn": "2021-08-10T08:08:51.000Z",
+          "wordCount": 139,
+          "title": "炎天下で60度に発熱したスマホ、効果的な冷却方法は？　電通大が実験 - ITmedia NEWS"
+        },
+        {
+          "id": "https://japanese.engadget.com/14-16-inch-macbookpro-finally-enter-mass-production-070020304.html",
+          "author": null,
+          "description": "次期14インチおよび16インチMacBook Proの発売が間近と噂されてきたなか、ついに量産が開始されたとのサプライチェーン情報が伝えられています。 台湾の電子部品業界情報誌DigiTimes報道によると、アップルはデザインを刷新した「MacBook Pro」両モデルの量産を開始し、11月末までに月間80万台の出荷を見込んでいるとの...",
+          "link": "https://japanese.engadget.com/14-16-inch-macbookpro-finally-enter-mass-production-070020304.html",
+          "publishedOn": "2021-08-10T08:06:25.000Z",
+          "wordCount": 215,
+          "title": "次期14インチおよび16インチMacBook Pro、ついに量産開始の噂 - Engadget 日本版"
+        },
+        {
+          "id": "https://jp.reuters.com/article/health-coronavirus-vaccine-israel-idJPKBN2FA26H",
+          "author": null,
+          "description": "イスラエルで新型コロナウイルスワクチンの３回目の接種を受けた人を対象に行われた調査によると、大半の人に２回目の接種後と同程度、もしくはそれよりも軽い副反応が出たことが分かった。写真はファイザーのロゴ。ニューヨークで３月撮影（２０２１年　ロイター／Carlo Allegri） ［エルサレム　８日　ロイター］ - イ...",
+          "link": "https://jp.reuters.com/article/health-coronavirus-vaccine-israel-idJPKBN2FA26H",
+          "publishedOn": "2021-08-10T06:47:27.000Z",
+          "wordCount": 25,
+          "title": "ファイザー製ワクチンの追加接種、副反応は2回目と同程度＝調査 | ロイター"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2108/10/news106.html",
+          "author": null,
+          "description": "Appleの決済システム「Apple Pay」において、イオングループの「WAON（ワオン）」とセブン&アイグループの「nanaco（ナナコ）」が利用できるようになる。2021年内の対応を予定しているが、詳細は後日発表されるという。 イオンリテールなどが発行する電子マネー「WAON（ワオン）」と、セブン・カードサービスが発行する...",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2108/10/news106.html",
+          "publishedOn": "2021-08-10T06:05:19.000Z",
+          "wordCount": 514,
+          "title": "「WAON」「nanaco」がApple Payに対応　2021年内に - ITmedia Mobile"
+        },
+        {
+          "id": "https://zenn.dev/nana/articles/f20970c2d77214",
+          "author": null,
+          "description": "はじめに この記事はこれからReactやJavaScriptを0から学びたいと思う人に向けての記事です。 こちらの本を紹介したいなという、ただの布教記事です。 自分もそれなりにJavaScriptを書いて、Reactを勉強してきたと思っていましたが こちらの本を読んで、まだまだ序の口だったのだなと感じました。 もちろん、何年もJavaS...",
+          "link": "https://zenn.dev/nana/articles/f20970c2d77214",
+          "publishedOn": "2021-08-10T06:02:10.000Z",
+          "wordCount": 156,
+          "title": "Reactハンズオンラーニングを読んだので感想"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/08/10/2021-07-18-the-end-of-open-source/",
+          "author": null,
+          "description": "本稿の著者Shaun O’Meara（ショーン・オメーラ）氏は、MirantisのグローバルフィールドCTO。企業のITインフラストラクチャの設計と構築において20年間、顧客と仕事をしてきた。 ーーー 数週間前、ミネソタ大学の研究者らにより「偽善者のコミット」と彼らが呼ぶものをLinuxカーネルに投入するメソッドが展開されたという...",
+          "link": "https://jp.techcrunch.com/2021/08/10/2021-07-18-the-end-of-open-source/",
+          "publishedOn": "2021-08-10T05:28:00.000Z",
+          "wordCount": 357,
+          "title": "【コラム】オープンソースの終焉が来ているのだろうか？ | TechCrunch Japan"
+        },
+        {
+          "id": "https://wired.jp/2021/08/10/ai-phishing-emails/",
+          "author": null,
+          "description": "自然言語処理の意外な分野への進出が止まらない。今度はフィッシング詐欺のメールだ。高性能な言語生成アルゴリズムとして知られる「GPT-3」とAIaaS（サーヴィスとしてのAI）のプラットフォームを利用することで、特定の個人や団体を標的にした大規模なスピアフィッシング詐欺への参入障壁を大幅に下げられることを、あ...",
+          "link": "https://wired.jp/2021/08/10/ai-phishing-emails/",
+          "publishedOn": "2021-08-10T05:06:44.000Z",
+          "wordCount": 131,
+          "title": "説得力のあるフィッシング詐欺のメールを、AIが人間よりうまく“書く”時代がやってきた | WIRED.jp"
+        },
+        {
+          "id": "https://engineering.mercari.com/blog/entry/20210810-mercari-shops-tech-stack/",
+          "author": null,
+          "description": "7月末にメルカリShopsという新しいサービスが公開されました。メルカリShops は、2021年1月にメルカリのグループ会社として設立したソウゾウが新たに立ち上げたサービスです。 この記事では、メルカリShops を作るにあたり、どういった技術、アーキテクチャを選定したのか、その背景と意思決定をまとめて共有したいと思...",
+          "link": "https://engineering.mercari.com/blog/entry/20210810-mercari-shops-tech-stack/",
+          "publishedOn": "2021-08-10T03:41:22.000Z",
+          "wordCount": 401,
+          "title": "メルカリShops の技術スタックと、その選定理由 | メルカリエンジニアリング"
+        },
+        {
+          "id": "https://gigazine.net/news/20210810-udemy-free-course/",
+          "author": null,
+          "description": "新たなスキルを身につけたいと思った時に問題になるのが「どうやって身につけるか」です。インターネットが発達したおかげで、書籍以外にもさまざまな方法を選べるようになりましたが、新しい方法というのはなかなか手を出しづらいもの。今回は、ムービー形式で講座を受講できるというサービス「Udemy」から、ムービーの...",
+          "link": "https://gigazine.net/news/20210810-udemy-free-course/",
+          "publishedOn": "2021-08-10T03:28:23.000Z",
+          "wordCount": 246,
+          "title": "【全編無料】GoogleやAdobeなど実力ある講師が多数登場、マーケ・デザイン・プログラミング・ゲーム作成などが学べるオンライン学習プラットフォーム「Udemy」のおすすめ無料講座7選 - GIGAZINE"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/10/news074.html",
+          "author": null,
+          "description": "格安ながら機能はハイエンド！　税込み2980円のネットワークカメラ「ATOM Cam 2」を試す：防水／防じん対応でさらに盤石に（1/3 ページ） 圧倒的な低価格で人気を集めたATOM techのネットワークカメラ「ATOM Cam」に、後継モデルが登場した。新モデル「ATOM Cam 2」は何が変わったのか、実機を使って試してみた。 アトム...",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/10/news074.html",
+          "publishedOn": "2021-08-10T03:17:35.000Z",
+          "wordCount": 540,
+          "title": "格安ながら機能はハイエンド！　税込み2980円のネットワークカメラ「ATOM Cam 2」を試す：防水／防じん対応でさらに盤石に（1/3 ページ） - ITmedia PC USER"
+        },
+        {
+          "id": "https://tech.mobilefactory.jp/entry/2021/08/10/100000",
+          "author": null,
+          "description": "はじめに こんにちは。ブロックチェーンチームのエンジニア、 @nanamachi です。 tech.mobilefactory.jp 前回の記事ではたくさんの方に閲覧&コメントいただきありがとうございました。この記事から1年。モバイルファクトリーは日本のどこからでも働けるようになり、書籍購入、資格取得、セミナー参加、懇親会の支援制度...",
+          "link": "https://tech.mobilefactory.jp/entry/2021/08/10/100000",
+          "publishedOn": "2021-08-10T01:23:31.000Z",
+          "wordCount": 440,
+          "title": "突撃！ 在宅の開発環境 2021年夏 - Mobile Factory Tech Blog"
+        },
+        {
+          "id": "https://blog.ichikaway.com/entry/2021/08/09/161426/aite9",
+          "author": null,
+          "description": "IP制限しているTCP 22(sshd)や3306(MySQL)のようなポートが空いていないかチェックするツールを作りました。 たとえば設定ミスで22番ポートがすべてのIPを許可している状態になってしまっていたというケースがありそうで、サーバ台数が数百台になってくるといちいち気にしているのが面倒なのでチェックする簡易ポートス...",
+          "link": "https://blog.ichikaway.com/entry/2021/08/09/161426/aite9",
+          "publishedOn": "2021-08-10T00:37:16.000Z",
+          "wordCount": 118,
+          "title": "ポートが閉じてることを外部から監視するポートスキャナー（slack通知付き） - Code Day's Night"
+        },
         {
           "id": "https://piyolog.hatenadiary.jp/entry/2021/08/10/063000",
           "author": null,
@@ -132,6 +343,15 @@
           "publishedOn": "2021-08-09T11:50:14.000Z",
           "wordCount": 102,
           "title": "Pythonの異常検知パッケージPyODのフォーマットに従って、カーネル密度推定に基づく異常検知を実装した - 備忘録"
+        },
+        {
+          "id": "https://news.mynavi.jp/article/20210809-1942390/",
+          "author": null,
+          "description": "Microsoftは現地時間2021年8月6日、Visual Studio Code用拡張機能「Python バージョン2021.8.1105858891」をリリースした旨を公式ブログで報告した。最新の拡張機能は先のマーケットプレイスや、Visual Studio Code内の拡張機能ギャラリーからインストールできる。新バージョンはJupyter Notebook標準サポート機能が正式...",
+          "link": "https://news.mynavi.jp/article/20210809-1942390/",
+          "publishedOn": "2021-08-09T09:32:15.000Z",
+          "wordCount": 317,
+          "title": "Jupyter Notebook標準サポートが正式版にVisual Studio Code用拡張機能「Python」 | TECH+"
         },
         {
           "id": "https://goropikari.hatenablog.com/entry/postgres_client_dbms",
@@ -368,6 +588,15 @@
           "title": "PythonでMySQLのスロークエリログを集計 | 外道父の匠"
         },
         {
+          "id": "https://zenn.dev/hee/articles/ce9002ae525622",
+          "author": null,
+          "description": "ネットワークを集中的に勉強したのでそのうちの基礎的な部分だけを抽出して記事にしました。主にL2とL3の話しかしてないです。 参考文献(とても良書なので興味ある人は是非) ・tanenbaum先生の教科書(Networkの世界的bible) ・CでネットワークプログラミングをするHands-on本(とても読みやすかった) ・Linuxで仮想ネット...",
+          "link": "https://zenn.dev/hee/articles/ce9002ae525622",
+          "publishedOn": "2021-08-08T04:31:07.000Z",
+          "wordCount": 163,
+          "title": "最低限のNetwork知識"
+        },
+        {
           "id": "https://sorae.info/space/20210808-120m-sn20.html",
           "author": null,
           "description": "【▲ スーパーヘビー試験機「BN4」に搭載されたスターシップ試験機「SN20」。イーロン・マスク氏のツイートより（Credit: SpaceX/Elon Musk）】 日本時間2021年8月6日22時頃、スペースXはテキサス州ボカチカの同社施設「スターベース」において、開発中の大型宇宙船「スターシップ（Starship）」の無人試験機「SN20」を、...",
@@ -465,6 +694,15 @@
           "publishedOn": "2021-08-07T12:52:34.000Z",
           "wordCount": 261,
           "title": "Apple Watch Series 7がストレージ容量増加、駆動時間延長か - iPhone Mania"
+        },
+        {
+          "id": "https://github.com/hora-search/hora",
+          "author": null,
+          "description": "🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .",
+          "link": "https://github.com/hora-search/hora",
+          "publishedOn": "2021-08-07T11:19:03.000Z",
+          "wordCount": 1565,
+          "title": "GitHub - hora-search/hora: 🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 ."
         },
         {
           "id": "https://speakerdeck.com/imagire/cgxue-xi-xiang-kefalsegao-xiao-shu-xue-a",
@@ -1113,6 +1351,15 @@
           "publishedOn": "2021-08-05T06:50:54.000Z",
           "wordCount": 355,
           "title": "HDDよりもSSDのほうが低い故障率、Backblaze発表 | TECH+"
+        },
+        {
+          "id": "https://qiita.com/nshimizu-gxp/items/d29084574f06c26ba483",
+          "author": null,
+          "description": "こんにちは！GxPの清水です。 今回は、私がチーム開発を行う上でチームワークがよくなり、とてもありがたいな、助かるなと感じている「私の周りにいる人たちの素敵な習慣」をご紹介します！ 書き起こしてみるとたくさん見つかったので、この記事では「打ち合わせ系」「チームワーク系」に絞りました。 もしご自身が実践...",
+          "link": "https://qiita.com/nshimizu-gxp/items/d29084574f06c26ba483",
+          "publishedOn": "2021-08-05T06:28:19.000Z",
+          "wordCount": 249,
+          "title": "チームワークがよくなる！私の周りにいる人たちの素敵な習慣【打ち合わせ・チームワーク編】 - Qiita"
         },
         {
           "id": "https://shujisado.com/2021/08/05/opensource-program-office/",
@@ -6398,6 +6645,15 @@
           "title": "WebサーバのDNSへの登録方法が変わるよ – JANOG48 Meeting"
         },
         {
+          "id": "https://github.com/microsoft/IoT-For-Beginners",
+          "author": null,
+          "description": "IoT for Beginners - A Curriculum Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based peda...",
+          "link": "https://github.com/microsoft/IoT-For-Beginners",
+          "publishedOn": "2021-07-15T05:13:51.000Z",
+          "wordCount": 2465,
+          "title": "GitHub - microsoft/IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!"
+        },
+        {
           "id": "https://www.commercepick.com/archives/1800",
           "author": null,
           "description": "多様化する問い合わせ手段SNSが浸透した今、ECにおける顧客からの問い合わせはメールや電話だけではなくなりました。特に10～20代の若年層は、メールや電話よりもFacebookやTwitter、Instagram、LINEなどから問い合わせする傾向があります。 またWeb接客ツールの台頭により、ECサイトにチャット機能を導入する企業も増え...",
@@ -6414,15 +6670,6 @@
           "publishedOn": "2021-07-13T15:01:46.000Z",
           "wordCount": 672,
           "title": "「つみたてNISAは米国インデックスファンド放置で良い」は本当か？ - Qiita"
-        },
-        {
-          "id": "https://yattom.hatenablog.com/entry/2021/07/12/100433",
-          "author": null,
-          "description": "2021年7月1日に「モダンアジャイル 再考 2021」というイベントが分散アジャイルチームについて考える会の主催でありました。 distributed-agile-team.connpass.com このイベントのきっかけは、私のFacebookでのつぶやき？でした。 これへのコメントできょんさん、鬼木さん、川口さんらに反応していただけ、さっそくオン...",
-          "link": "https://yattom.hatenablog.com/entry/2021/07/12/100433",
-          "publishedOn": "2021-07-12T03:22:56.000Z",
-          "wordCount": 241,
-          "title": "モダンアジャイルについて - やっとむでぽん"
         }
       ]
     },
@@ -6481,15 +6728,6 @@
           "publishedOn": "2021-07-13T22:45:13.000Z",
           "wordCount": 177,
           "title": "ダークパターンUX：マニピュリンクとコンファームシェイミング"
-        },
-        {
-          "id": "https://uxmilk.jp/?p=84822",
-          "author": "UX MILK編集部",
-          "description": "よくある古典的な、終わりのない葛藤と同じように、開発チームをどのように組織し、自律的にするかという議論は依然として盛り上がっています。目下のところ、スクラムについては好意的な見方よりも批判の方が多いかのように思えます。も",
-          "link": "https://uxmilk.jp/84822",
-          "publishedOn": "2021-07-11T22:45:58.000Z",
-          "wordCount": 126,
-          "title": "スクラムへの間違った５つの期待とその修復法"
         }
       ]
     },
@@ -6514,6 +6752,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=346392",
+          "author": "Chris Coyier",
+          "description": "Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …\nThe post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/view-source-on-mobile/",
+          "publishedOn": "2021-08-10T21:26:34.000Z",
+          "wordCount": 566,
+          "title": "View Source (on Mobile)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345861",
+          "author": "Kitty Giraudel",
+          "description": "Markdown truly is a great format. It’s close enough to plain text so that anyone can quickly learn it, and it’s structured enough that it can be parsed and eventually converted to you name it.\nThat being said: parsing, processing, …\nThe post Responsible Markdown in Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/responsible-markdown-in-next-js/",
+          "publishedOn": "2021-08-10T14:55:07.000Z",
+          "wordCount": 1590,
+          "title": "Responsible Markdown in Next.js"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345799",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nGot a WooCommerce store? It behooves you to offer a variety of payment methods. Just anecdotally, I’m sure both you and me have been annoyed and even abandoned purchases when a merchant, online or …\nThe post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/woocommerce-with-apple-pay-and-google-pay/",
+          "publishedOn": "2021-08-10T14:54:56.000Z",
+          "wordCount": 1293,
+          "title": "WooCommerce With Apple Pay and Google Pay"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346355",
+          "author": "Robin Rendle",
+          "description": "Here’s Kilian Valkhof on CSS nesting which isn’t available in browsers yet, but will be soon. There are a few differences he notes between CSS nesting and nesting in Sass or Less though. Take, for example, the following code:\ndiv \n…\nThe post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://kilianvalkhof.com/2021/css-html/css-nesting-specificity-and-you/",
+          "publishedOn": "2021-08-10T14:51:39.000Z",
+          "wordCount": 2378,
+          "title": "CSS Nesting, specificity, and you"
+        },
         {
           "id": "https://css-tricks.com/?p=346368",
           "author": "Chris Coyier",
@@ -7093,6 +7367,51 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/ippatev/rxjs-reduce-vs-scan-1n5b",
+          "author": "Aleksandr Ippatev",
+          "description": "Reduce operator - reduces the values from source observable to a single value that's emitted when the source completes\n// RxJS v6+\nimport { of } from 'rxjs';\nimport { reduce } from 'rxjs/operators';\n\nconst source = of(1, 2, 3, 4);\nconst example = source.pipe(reduce((acc, val) => acc + val));\n//output: Sum: 10\nconst subscribe = example.subscribe(val => console.log('Sum:', val));\n\nScan operator - reduce over time!\n// RxJS v6+\nimport { of } from 'rxjs';\nimport { scan } from 'rxjs/operators';\n\nconst source = of(1, 2, 3);\n// basic scan example, sum over time starting with zero\nconst example = source.pipe(scan((acc, curr) => acc + curr, 0));\n// log accumulated values\n// output: 1,3,6\nconst subscribe = example.subscribe(val => console.log(val));",
+          "link": "https://dev.to/ippatev/rxjs-reduce-vs-scan-1n5b",
+          "publishedOn": "2021-08-10T16:48:38.000Z",
+          "wordCount": 463,
+          "title": "RxJS: Reduce vs Scan"
+        },
+        {
+          "id": "https://dev.to/renancferro/output-compartilhando-dados-entre-filho-e-pai-e-ate-avo-57hn",
+          "author": "Renan C. Ferro",
+          "description": "Imagine o cenário acima, que na qual por algum motivo precisamos avisar o componente modal(Pai) que houve um click no botão(Filho), para que assim o componente pai através de um método que só ele tem contabilize o total de clicks em seu componente filho. \nEntão, se formos pensar em algumas possibilidades para utilizar o método que contabiliza o total de click poderíamos talvez criar uma service e remover o método do componente pai, e se você for bem \"malaco\" talvez possa pensar na idéia de importar o componente-pai.component.ts dentro do componente-filho.componente.ts, o que como meu líder Vitor Hugo, o \"Vitão\" disse, é extremamente e simplesmente proibido importar componente.ts ! haha\nEntão, voilà, temos a maravilhosa propriedade @Output()\nQuando utilizamos o @Output() marcamos uma propri…",
+          "link": "https://dev.to/renancferro/output-compartilhando-dados-entre-filho-e-pai-e-ate-avo-57hn",
+          "publishedOn": "2021-08-10T13:31:02.000Z",
+          "wordCount": 1045,
+          "title": "@Output(), compartilhando dados entre filho e pai, e até avô !"
+        },
+        {
+          "id": "https://dev.to/raj_sekhar/insights-on-web-frameworks-from-3y-stack-overflow-surveys-16o1",
+          "author": "Raj Sekhar",
+          "description": "Stackoverflow surveys play a big role to understand trends and also impact the decision making for new projects. So I though of analyzing and finding small insights, specifically on frontend and backend web frameworks from the survey results since 2019 to 2021. I kept developers and freshers in mind and have added few points that could help in understanding the trends and opportunities.\nAll the figures displayed below are in %.\nPopularity tells us the number of available projects and developers. Hence, the higher %, the easy it is to find a job/developer.\n\n\n\nFramework\n2019\n2020\n2021\n\n\n\n\nReact\n32.3\n36.8\n41.4\n\n\nAngular\n32.4\n26.5\n26.2\n\n\nVue\n15.5\n17.8\n20.1\n\n\nSvelte\n\n\n02.6\n\n\n\nThis tells us the satisfaction level of developers, and if they would like to continue using it. Hence, the higher %, th…",
+          "link": "https://dev.to/raj_sekhar/insights-on-web-frameworks-from-3y-stack-overflow-surveys-16o1",
+          "publishedOn": "2021-08-10T10:41:59.000Z",
+          "wordCount": 1186,
+          "title": "Insights On Web Frameworks From 3Y Stack overflow Surveys"
+        },
+        {
+          "id": "https://dev.to/ippatev/how-can-i-set-yarn-as-the-default-packagemanager-for-angular-cli-3i59",
+          "author": "Aleksandr Ippatev",
+          "description": "You hav to update package manager from npm to yarn.\nng config --global cli.packageManager yarn\n\nif you need back yarn to npm then\nng config --global cli.packageManager npm",
+          "link": "https://dev.to/ippatev/how-can-i-set-yarn-as-the-default-packagemanager-for-angular-cli-3i59",
+          "publishedOn": "2021-08-10T07:26:02.000Z",
+          "wordCount": 381,
+          "title": "How can I set yarn as the default packageManager for Angular CLI?"
+        },
+        {
+          "id": "https://dev.to/karvel/a-curated-list-of-angular-resources-57ga",
+          "author": "Elanna Grossman",
+          "description": "Having worked with Angular since mid-2017, I have collected many resources that I have found useful. I will keep this list up to date.\nAngular.io Includes good tutorials, detailed documentation, and API references along with interactive code snippets. This should be the default destination for Angular questions. Note: There are multiple versions of the “Tour of Heroes” tutorial demonstrating different concepts.\nAngular.io Resources The official and hopefully maintained list of resources from the Angular team.\nJohn Papa style guide The de facto style guide for Angular has been officially adopted by the Angular team and is now hosted on the official website. It is highly opinionated, but makes good cases for its suggestions. I follow most of it and do not disagree strongly with any of its su…",
+          "link": "https://dev.to/karvel/a-curated-list-of-angular-resources-57ga",
+          "publishedOn": "2021-08-10T02:18:41.000Z",
+          "wordCount": 1488,
+          "title": "A Curated List of Angular Resources"
+        },
         {
           "id": "https://dev.to/rfornal/using-json-in-angular-19ca",
           "author": "bob.js",
@@ -8010,6 +8329,24 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/ippatev/rxjs-reduce-vs-scan-1n5b",
+          "author": "Aleksandr Ippatev",
+          "description": "Reduce operator - reduces the values from source observable to a single value that's emitted when the source completes\n// RxJS v6+\nimport { of } from 'rxjs';\nimport { reduce } from 'rxjs/operators';\n\nconst source = of(1, 2, 3, 4);\nconst example = source.pipe(reduce((acc, val) => acc + val));\n//output: Sum: 10\nconst subscribe = example.subscribe(val => console.log('Sum:', val));\n\nScan operator - reduce over time!\n// RxJS v6+\nimport { of } from 'rxjs';\nimport { scan } from 'rxjs/operators';\n\nconst source = of(1, 2, 3);\n// basic scan example, sum over time starting with zero\nconst example = source.pipe(scan((acc, curr) => acc + curr, 0));\n// log accumulated values\n// output: 1,3,6\nconst subscribe = example.subscribe(val => console.log(val));",
+          "link": "https://dev.to/ippatev/rxjs-reduce-vs-scan-1n5b",
+          "publishedOn": "2021-08-10T16:48:38.000Z",
+          "wordCount": 463,
+          "title": "RxJS: Reduce vs Scan"
+        },
+        {
+          "id": "https://dev.to/karvel/a-curated-list-of-angular-resources-57ga",
+          "author": "Elanna Grossman",
+          "description": "Having worked with Angular since mid-2017, I have collected many resources that I have found useful. I will keep this list up to date.\nAngular.io Includes good tutorials, detailed documentation, and API references along with interactive code snippets. This should be the default destination for Angular questions. Note: There are multiple versions of the “Tour of Heroes” tutorial demonstrating different concepts.\nAngular.io Resources The official and hopefully maintained list of resources from the Angular team.\nJohn Papa style guide The de facto style guide for Angular has been officially adopted by the Angular team and is now hosted on the official website. It is highly opinionated, but makes good cases for its suggestions. I follow most of it and do not disagree strongly with any of its su…",
+          "link": "https://dev.to/karvel/a-curated-list-of-angular-resources-57ga",
+          "publishedOn": "2021-08-10T02:18:41.000Z",
+          "wordCount": 1488,
+          "title": "A Curated List of Angular Resources"
+        },
+        {
           "id": "https://dev.to/chihab/build-your-own-rxjs-operators-part-2-l89",
           "author": "Chihab Otmani",
           "description": "Introduction\n\n\nOn the previous post of the series we built our own Observable class.\nclass Observable {\n  private _subscribe;\n  private _unsubscribe;\n  private _stopped = true;\n  constructor(subscribe) {\n    this._subscribe = subscribe;\n  }\n  _stop() {\n    this._stopped = true;\n    setTimeout(() => {\n      this._unsubscribe();\n    });\n  }\n  subscribe(observer) {\n    this._stopped = false;\n    this._unsubscribe = this._subscribe({\n      next: (value) => {\n        if (!this._stopped) {\n          observer.next(value);\n        }\n      },\n      complete: () => {\n        if (!this._stopped) {\n          observer.complete();\n          this._stop();\n        }\n      },\n      error: () => {\n        if (!this._stopped) {\n          observer.error();\n          this._stop();\n        }\n      },\n    });\n  …",
@@ -8267,15 +8604,6 @@
           "publishedOn": "2021-07-13T00:36:30.000Z",
           "wordCount": 1701,
           "title": "スクロールに連動するアニメーションを実装する時は、JSのIntersection Observerを使用すると簡単に実装できる"
-        },
-        {
-          "id": "https://coliss.com/?p=30282",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/css/position-fixed-centering-new-way.html",
-          "publishedOn": "2021-07-12T00:36:05.000Z",
-          "wordCount": 333,
-          "title": "CSSで上下左右の中央に配置する時の「position: fixed;」での新しい記述方法"
         }
       ]
     },
@@ -8284,6 +8612,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/4f82a02554b5",
+          "author": "Meghna Bhave",
+          "description": "Devs are from Venus, Ops are from Mars\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/production-outages-the-biggest-test-of-the-devops-culture-4f82a02554b5?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-10T19:52:57.000Z",
+          "wordCount": 1367,
+          "title": "Production Outages: The Biggest Test of the DevOps Culture"
+        },
+        {
+          "id": "https://medium.com/p/31cdd3d85be7",
+          "author": "Vinita",
+          "description": "Embrace a little pain in the moment for a lot of gains in the future\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/i-said-no-to-my-boss-and-it-didnt-work-out-so-well-or-did-it-31cdd3d85be7?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-10T19:11:04.000Z",
+          "wordCount": 1578,
+          "title": "I Said No to My Boss, and It Didn’t Work Out So Well (Or Did It?)"
+        },
+        {
+          "id": "https://medium.com/p/e9a84c4c2f97",
+          "author": "Gaurav Agarwal",
+          "description": "Declarative management of Kubernetes resources with a hands-on example\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/getting-started-with-kustomize-e9a84c4c2f97?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-10T19:10:20.000Z",
+          "wordCount": 1793,
+          "title": "Getting Started With Kustomize"
+        },
+        {
+          "id": "https://medium.com/p/cc6b9e5c3aec",
+          "author": "Percy Bolmér",
+          "description": "Learn how to use the React router to develop a SPA website\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-implement-a-single-page-application-using-react-router-cc6b9e5c3aec?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-10T19:09:07.000Z",
+          "wordCount": 2379,
+          "title": "How To Implement a Single Page Application Using React-Router"
+        },
+        {
+          "id": "https://medium.com/p/c78519d73e3b",
+          "author": "Riccardo Cipolleschi",
+          "description": "Easily animate views in your iOS apps\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-animate-autolayout-constraints-in-mvvm-with-combine-c78519d73e3b?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-10T17:45:35.000Z",
+          "wordCount": 1345,
+          "title": "How To Animate AutoLayout Constraints in MVVM With Combine"
+        },
+        {
+          "id": "https://medium.com/p/ed3879cd94f3",
+          "author": "Hussain Arif",
+          "description": "A beginner’s introduction to Netlify serverless functions\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/build-a-serverless-app-with-netlify-and-javascript-ed3879cd94f3?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-10T17:01:17.000Z",
+          "wordCount": 1953,
+          "title": "Build a Serverless App With Netlify and JavaScript"
+        },
+        {
+          "id": "https://medium.com/p/42ab3ef0a7e0",
+          "author": "Blake Norrish",
+          "description": "Why this is a toxic question and what you should ask instead\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/hey-qa-why-didnt-you-find-that-bug-42ab3ef0a7e0?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-10T16:01:08.000Z",
+          "wordCount": 2011,
+          "title": "Hey QA, Why Didn’t You Find That Bug?"
+        },
+        {
+          "id": "https://medium.com/p/7ef84b94e58",
+          "author": "Lokajit Tikayatray",
+          "description": "Learn the actions to avoid at your workplace to set your teammates up for success\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-ways-senior-developers-destroy-junior-developers-career-7ef84b94e58?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-10T15:01:11.000Z",
+          "wordCount": 1446,
+          "title": "5 Ways Senior Developers Destroy Junior Developers’ Career"
+        },
+        {
+          "id": "https://medium.com/p/3229c23bdba0",
+          "author": "Mark Lucking",
+          "description": "A look at using tilesets programmatically in SpriteKit\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/build-a-game-of-chess-with-spritekit-3229c23bdba0?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-10T14:02:33.000Z",
+          "wordCount": 1229,
+          "title": "Build a Game of Chess With SpriteKit"
+        },
+        {
+          "id": "https://medium.com/p/aa44c976b3a5",
+          "author": "Sunny Beatteay",
+          "description": "And how to prevent it from happening to you\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-one-rogue-user-took-down-our-api-aa44c976b3a5?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-10T13:02:41.000Z",
+          "wordCount": 2225,
+          "title": "How One Rogue User Took Down Our API"
+        },
         {
           "id": "https://medium.com/p/1c3358a34e5d",
           "author": "Isabel Nyo",

@@ -2,10 +2,580 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-08-10T00:17:25.460Z</updated>
+    <updated>2021-08-11T00:23:24.936Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[View Source (on Mobile)]]></title>
+        <id>https://css-tricks.com/?p=346392</id>
+        <link href="https://css-tricks.com/view-source-on-mobile/"/>
+        <updated>2021-08-10T21:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …
+The post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production Outages: The Biggest Test of the DevOps Culture]]></title>
+        <id>https://medium.com/p/4f82a02554b5</id>
+        <link href="https://betterprogramming.pub/production-outages-the-biggest-test-of-the-devops-culture-4f82a02554b5?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-10T19:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Devs are from Venus, Ops are from Mars
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Meghna Bhave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Said No to My Boss, and It Didn’t Work Out So Well (Or Did It?)]]></title>
+        <id>https://medium.com/p/31cdd3d85be7</id>
+        <link href="https://betterprogramming.pub/i-said-no-to-my-boss-and-it-didnt-work-out-so-well-or-did-it-31cdd3d85be7?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-10T19:11:04.000Z</updated>
+        <summary type="html"><![CDATA[Embrace a little pain in the moment for a lot of gains in the future
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Vinita</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Kustomize]]></title>
+        <id>https://medium.com/p/e9a84c4c2f97</id>
+        <link href="https://betterprogramming.pub/getting-started-with-kustomize-e9a84c4c2f97?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-10T19:10:20.000Z</updated>
+        <summary type="html"><![CDATA[Declarative management of Kubernetes resources with a hands-on example
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Gaurav Agarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Implement a Single Page Application Using React-Router]]></title>
+        <id>https://medium.com/p/cc6b9e5c3aec</id>
+        <link href="https://betterprogramming.pub/how-to-implement-a-single-page-application-using-react-router-cc6b9e5c3aec?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-10T19:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use the React router to develop a SPA website
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Percy Bolmér</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Animate AutoLayout Constraints in MVVM With Combine]]></title>
+        <id>https://medium.com/p/c78519d73e3b</id>
+        <link href="https://betterprogramming.pub/how-to-animate-autolayout-constraints-in-mvvm-with-combine-c78519d73e3b?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-10T17:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Easily animate views in your iOS apps
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Riccardo Cipolleschi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Serverless App With Netlify and JavaScript]]></title>
+        <id>https://medium.com/p/ed3879cd94f3</id>
+        <link href="https://betterprogramming.pub/build-a-serverless-app-with-netlify-and-javascript-ed3879cd94f3?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-10T17:01:17.000Z</updated>
+        <summary type="html"><![CDATA[A beginner’s introduction to Netlify serverless functions
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Hussain Arif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RxJS: Reduce vs Scan]]></title>
+        <id>https://dev.to/ippatev/rxjs-reduce-vs-scan-1n5b</id>
+        <link href="https://dev.to/ippatev/rxjs-reduce-vs-scan-1n5b"/>
+        <updated>2021-08-10T16:48:38.000Z</updated>
+        <summary type="html"><![CDATA[Reduce operator - reduces the values from source observable to a single value that's emitted when the source completes
+// RxJS v6+
+import { of } from 'rxjs';
+import { reduce } from 'rxjs/operators';
+
+const source = of(1, 2, 3, 4);
+const example = source.pipe(reduce((acc, val) => acc + val));
+//output: Sum: 10
+const subscribe = example.subscribe(val => console.log('Sum:', val));
+
+Scan operator - reduce over time!
+// RxJS v6+
+import { of } from 'rxjs';
+import { scan } from 'rxjs/operators';
+
+const source = of(1, 2, 3);
+// basic scan example, sum over time starting with zero
+const example = source.pipe(scan((acc, curr) => acc + curr, 0));
+// log accumulated values
+// output: 1,3,6
+const subscribe = example.subscribe(val => console.log(val));]]></summary>
+        <author>
+            <name>Aleksandr Ippatev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RxJS: Reduce vs Scan]]></title>
+        <id>https://dev.to/ippatev/rxjs-reduce-vs-scan-1n5b</id>
+        <link href="https://dev.to/ippatev/rxjs-reduce-vs-scan-1n5b"/>
+        <updated>2021-08-10T16:48:38.000Z</updated>
+        <summary type="html"><![CDATA[Reduce operator - reduces the values from source observable to a single value that's emitted when the source completes
+// RxJS v6+
+import { of } from 'rxjs';
+import { reduce } from 'rxjs/operators';
+
+const source = of(1, 2, 3, 4);
+const example = source.pipe(reduce((acc, val) => acc + val));
+//output: Sum: 10
+const subscribe = example.subscribe(val => console.log('Sum:', val));
+
+Scan operator - reduce over time!
+// RxJS v6+
+import { of } from 'rxjs';
+import { scan } from 'rxjs/operators';
+
+const source = of(1, 2, 3);
+// basic scan example, sum over time starting with zero
+const example = source.pipe(scan((acc, curr) => acc + curr, 0));
+// log accumulated values
+// output: 1,3,6
+const subscribe = example.subscribe(val => console.log(val));]]></summary>
+        <author>
+            <name>Aleksandr Ippatev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey QA, Why Didn’t You Find That Bug?]]></title>
+        <id>https://medium.com/p/42ab3ef0a7e0</id>
+        <link href="https://betterprogramming.pub/hey-qa-why-didnt-you-find-that-bug-42ab3ef0a7e0?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-10T16:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Why this is a toxic question and what you should ask instead
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Blake Norrish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[シャオミのタブ復活！3万4000円からの超コスパ「Mi Pad 5」、67W急速充電とオクタスピーカー対応「Mi Pad 5 Pro」 – すまほん!!]]></title>
+        <id>https://smhn.info/202108-xiaomi-mi-pad-5-mi-pad-5-pro-spec</id>
+        <link href="https://smhn.info/202108-xiaomi-mi-pad-5-mi-pad-5-pro-spec"/>
+        <updated>2021-08-10T15:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Mi Pad 5のSoCはSnapdragon 855のクロックアップであるSnapdragon 860を採用。ディスプレイは11インチ液晶で2560×1600の120Hz、10億色の表示やDolby Visionに対応。スピーカーは4台搭載されており、Dolby Atmosに対応しています。メモリは6GB、ストレージは128/256GBを用意。 カメラは1300万画素、インカメラは800万画素...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Ways Senior Developers Destroy Junior Developers’ Career]]></title>
+        <id>https://medium.com/p/7ef84b94e58</id>
+        <link href="https://betterprogramming.pub/5-ways-senior-developers-destroy-junior-developers-career-7ef84b94e58?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-10T15:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Learn the actions to avoid at your workplace to set your teammates up for success
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Lokajit Tikayatray</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsible Markdown in Next.js]]></title>
+        <id>https://css-tricks.com/?p=345861</id>
+        <link href="https://css-tricks.com/responsible-markdown-in-next-js/"/>
+        <updated>2021-08-10T14:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Markdown truly is a great format. It’s close enough to plain text so that anyone can quickly learn it, and it’s structured enough that it can be parsed and eventually converted to you name it.
+That being said: parsing, processing, …
+The post Responsible Markdown in Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Kitty Giraudel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WooCommerce With Apple Pay and Google Pay]]></title>
+        <id>https://css-tricks.com/?p=345799</id>
+        <link href="https://css-tricks.com/woocommerce-with-apple-pay-and-google-pay/"/>
+        <updated>2021-08-10T14:54:56.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Got a WooCommerce store? It behooves you to offer a variety of payment methods. Just anecdotally, I’m sure both you and me have been annoyed and even abandoned purchases when a merchant, online or …
+The post WooCommerce With Apple Pay and Google Pay appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Nesting, specificity, and you]]></title>
+        <id>https://css-tricks.com/?p=346355</id>
+        <link href="https://kilianvalkhof.com/2021/css-html/css-nesting-specificity-and-you/"/>
+        <updated>2021-08-10T14:51:39.000Z</updated>
+        <summary type="html"><![CDATA[Here’s Kilian Valkhof on CSS nesting which isn’t available in browsers yet, but will be soon. There are a few differences he notes between CSS nesting and nesting in Sass or Less though. Take, for example, the following code:
+div 
+…
+The post CSS Nesting, specificity, and you appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Game of Chess With SpriteKit]]></title>
+        <id>https://medium.com/p/3229c23bdba0</id>
+        <link href="https://betterprogramming.pub/build-a-game-of-chess-with-spritekit-3229c23bdba0?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-10T14:02:33.000Z</updated>
+        <summary type="html"><![CDATA[A look at using tilesets programmatically in SpriteKit
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Mark Lucking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開発パフォーマンス指標とバリューストリームマップでチーム改善をする - $shibayu36->blog;]]></title>
+        <id>https://blog.shibayu36.org/entry/2021/08/10/173000</id>
+        <link href="https://blog.shibayu36.org/entry/2021/08/10/173000"/>
+        <updated>2021-08-10T13:59:17.000Z</updated>
+        <summary type="html"><![CDATA[以前Pull Requestから社内全チームの開発パフォーマンス指標を可視化し、開発チーム改善に活かそう - Hatena Developer Blogの記事で、開発パフォーマンスを可視化する話を書いた。その後、バリューストリームマップを作り開発フローの課題を洗い出して、チームの改善を行い、そして開発パフォーマンス指標で効果を検証...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google マップの知られざる11の便利機能 | ライフハッカー［日本版］]]></title>
+        <id>https://www.lifehacker.jp/2021/08/11-clever-google-maps-settings-everyone-should-be-usin.html</id>
+        <link href="https://www.lifehacker.jp/2021/08/11-clever-google-maps-settings-everyone-should-be-usin.html"/>
+        <updated>2021-08-10T13:44:40.000Z</updated>
+        <summary type="html"><![CDATA[車のナビがわりにGoogle マップを使う人も増えたのではないでしょうか？ ナビゲーションや交通情報の確認に関して、これ以上のツールはありません。しかし、毎日Google マップを使っている人でも、活用していない機能があります。 今回は、Google マップの知られざる便利機能をご紹介しましょう。 ナビゲーションの設定...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「仕事のコード」を残す際のチェックリスト｜Uchio Kondo｜note]]></title>
+        <id>https://note.com/udzura/n/n02f2ffc532e3</id>
+        <link href="https://note.com/udzura/n/n02f2ffc532e3"/>
+        <updated>2021-08-10T13:41:50.000Z</updated>
+        <summary type="html"><![CDATA[最初に注意: この文章は「はじめに」「総論」が長いです🙃 はじめに・「仕事のコード」、つまり、業務などで作ったコードが、なるべく負債にならず、なるべく俗人化しないようにするために留意すると良さそうなことを自分の経験などから列挙したものです。 ・ちなみに、「対象読者」に書いてありますが、そもそものモチ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[@Output(), compartilhando dados entre filho e pai, e até avô !]]></title>
+        <id>https://dev.to/renancferro/output-compartilhando-dados-entre-filho-e-pai-e-ate-avo-57hn</id>
+        <link href="https://dev.to/renancferro/output-compartilhando-dados-entre-filho-e-pai-e-ate-avo-57hn"/>
+        <updated>2021-08-10T13:31:02.000Z</updated>
+        <summary type="html"><![CDATA[Imagine o cenário acima, que na qual por algum motivo precisamos avisar o componente modal(Pai) que houve um click no botão(Filho), para que assim o componente pai através de um método que só ele tem contabilize o total de clicks em seu componente filho. 
+Então, se formos pensar em algumas possibilidades para utilizar o método que contabiliza o total de click poderíamos talvez criar uma service e remover o método do componente pai, e se você for bem "malaco" talvez possa pensar na idéia de importar o componente-pai.component.ts dentro do componente-filho.componente.ts, o que como meu líder Vitor Hugo, o "Vitão" disse, é extremamente e simplesmente proibido importar componente.ts ! haha
+Então, voilà, temos a maravilhosa propriedade @Output()
+Quando utilizamos o @Output() marcamos uma propri…]]></summary>
+        <author>
+            <name>Renan C. Ferro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How One Rogue User Took Down Our API]]></title>
+        <id>https://medium.com/p/aa44c976b3a5</id>
+        <link href="https://betterprogramming.pub/how-one-rogue-user-took-down-our-api-aa44c976b3a5?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-08-10T13:02:41.000Z</updated>
+        <summary type="html"><![CDATA[And how to prevent it from happening to you
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Sunny Beatteay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[機械学習のための数学について解説｜おすすめの書籍や講座も紹介！ | AI専門ニュースメディア AINOW]]></title>
+        <id>https://ainow.ai/2021/08/10/257419/</id>
+        <link href="https://ainow.ai/2021/08/10/257419/"/>
+        <updated>2021-08-10T12:26:26.000Z</updated>
+        <summary type="html"><![CDATA[この記事では、機械学習をこれから勉強するうえで数学に対してどのように向き合っていけばいいのかについて解説します。 初学者や特に人文学系など理系科目を専門にしていない人たちにとって、どうしても数学には難しい、取っつきにくいというイメージがつきものだと思います。 この記事では、機械学習に必要な数学のロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[囲碁の日本棋院、対局中の棋士をAI対策で抜き打ち検査：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8B67CZP8BUCVL015.html</id>
+        <link href="https://www.asahi.com/articles/ASP8B67CZP8BUCVL015.html"/>
+        <updated>2021-08-10T12:08:43.000Z</updated>
+        <summary type="html"><![CDATA[囲碁の日本棋院は、AI（人工知能）を使った棋士の不正着手を防ぐため、対局中に抜き打ちで身体、荷物検査をすることを決めた。日本将棋連盟は不定期で対局前に検査をしているが、日本棋院は「抑止効果を高めるため」として、より踏み込んだ措置をとる。 人間の棋力をはるかに超えるようになったAIはスマートフォンで簡単...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市の公式ページが検索上位に表示されない――伊万里市がGoogleとヤフーにSOS（現在は復旧済み） - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/10/news140.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/10/news140.html"/>
+        <updated>2021-08-10T11:42:53.000Z</updated>
+        <summary type="html"><![CDATA[佐賀県伊万里市の公式WebサイトがGoogleとYahoo！JAPANの検索エンジンで検索上位に表示されない状態が1週間以上続いていた。現在は復旧済み。 市の公式WebサイトがGoogleとYahoo！JAPANの検索結果に表示されない――磁器「伊万里焼」で有名な佐賀県伊万里市の公式Webサイトが、日本の2大検索エンジンの上位結果に表示され...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「東京の感染者数を5週間ぶん予測した」のブクマ数予測（8月10日分）]]></title>
+        <id>https://anond.hatelabo.jp/20210810195912</id>
+        <link href="https://anond.hatelabo.jp/20210810195912"/>
+        <updated>2021-08-10T11:08:14.000Z</updated>
+        <summary type="html"><![CDATA[いよいよブクマがつかなくなってきたな そこで、俺もKnoa氏にならって予測しようと思う ■予測に用いる条件 前週までのブクマ数。あとなにか左右する事象があったら俺のフィーリングで適当に数字を増減させる。 そうして書いた分布図から、それらしき数字をエイやっと決めます。細かい数字を出しても仕方ないので10の位ま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面倒なWeb制作におさらば！便利すぎる新登場オンラインツール48個まとめ - PhotoshopVIP]]></title>
+        <id>https://photoshopvip.net/130442</id>
+        <link href="https://photoshopvip.net/130442"/>
+        <updated>2021-08-10T10:44:25.000Z</updated>
+        <summary type="html"><![CDATA[Web制作のたびに繰り返し手こずって、時間のかかってしまう作業ってないでしょうか。 作業の効率化や時短において、限界を感じているひとにこそ刺さる、知っておきたい最新オンラインツールをまとめてご紹介します。 面倒な作業もあっという間に終わるだけでなく、どれも無料で利用でき、これまでのWeb制作がガラリと変...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insights On Web Frameworks From 3Y Stack overflow Surveys]]></title>
+        <id>https://dev.to/raj_sekhar/insights-on-web-frameworks-from-3y-stack-overflow-surveys-16o1</id>
+        <link href="https://dev.to/raj_sekhar/insights-on-web-frameworks-from-3y-stack-overflow-surveys-16o1"/>
+        <updated>2021-08-10T10:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Stackoverflow surveys play a big role to understand trends and also impact the decision making for new projects. So I though of analyzing and finding small insights, specifically on frontend and backend web frameworks from the survey results since 2019 to 2021. I kept developers and freshers in mind and have added few points that could help in understanding the trends and opportunities.
+All the figures displayed below are in %.
+Popularity tells us the number of available projects and developers. Hence, the higher %, the easy it is to find a job/developer.
+
+
+
+Framework
+2019
+2020
+2021
+
+
+
+
+React
+32.3
+36.8
+41.4
+
+
+Angular
+32.4
+26.5
+26.2
+
+
+Vue
+15.5
+17.8
+20.1
+
+
+Svelte
+
+
+02.6
+
+
+
+This tells us the satisfaction level of developers, and if they would like to continue using it. Hence, the higher %, th…]]></summary>
+        <author>
+            <name>Raj Sekhar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はてなブックマークをやってるだけで人生を損している。 やってるっていう..]]></title>
+        <id>https://anond.hatelabo.jp/20210810090602</id>
+        <link href="https://anond.hatelabo.jp/20210810090602"/>
+        <updated>2021-08-10T09:31:55.000Z</updated>
+        <summary type="html"><![CDATA[はてなブックマークをやってるだけで人生を損している。 やってるっていうかやらされている感じ。 ブックマークされる側の人間を目指さねばならないのに、 ブックマークコメントへの評価で自己発露欲が解消されて、 人類への貢献もない。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイクロソフト、初心者向けのIoTカリキュラム無料公開 12週間で学習できる | Ledge.ai]]></title>
+        <id>https://ledge.ai/microsoft-iot-for-beginners-curriculum/</id>
+        <link href="https://ledge.ai/microsoft-iot-for-beginners-curriculum/"/>
+        <updated>2021-08-10T09:14:39.000Z</updated>
+        <summary type="html"><![CDATA[米マイクロソフト（Microsoft）は、あらゆる年齢層の人がIoT（モノのインターネット）の基礎を学べるように、GitHub上に無料のカリキュラム「はじめてのIoT、カリキュラム（IoT for Beginners, curriculum）」を無料公開した。 本カリキュラムは「IoT入門」「デバイスをインターネットに接続する」「アプリケーションロ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サムスンを抜きシャオミがスマホ出荷台数で世界1位に（山根博士） - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/realme-xiaomi-080029419.html</id>
+        <link href="https://japanese.engadget.com/realme-xiaomi-080029419.html"/>
+        <updated>2021-08-10T09:04:44.000Z</updated>
+        <summary type="html"><![CDATA[世界的に新型コロナウィルスが経済に影響を落としている中、調査会社が発表したスマートフォン出荷量で大きな動きがありました。シャオミが暫定ながらも史上初の1位に、またrealmeが恐ろしいほどの急成長で存在感を高めています。 カウンターポイントの調査では、2021年6月の全世界のスマートフォン出荷量でシャオミがサ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新しいメルカリ Web の話 | メルカリエンジニアリング]]></title>
+        <id>https://engineering.mercari.com/blog/entry/20210810-the-new-mercari-web/</id>
+        <link href="https://engineering.mercari.com/blog/entry/20210810-the-new-mercari-web/"/>
+        <updated>2021-08-10T08:09:52.000Z</updated>
+        <summary type="html"><![CDATA[@1000ch です、今回は新しいメルカリ Web について書きます。この大きなプロジェクトのリリースは、多くの人の多大なる貢献によって成されたものです。そのプロジェクトの立ち上がりから今日まで、リードする役割でプロジェクトを見てきた一部始終を記録するべく書きます。 メルカリにおけるレガシーなソフトウェア ソフ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[炎天下で60度に発熱したスマホ、効果的な冷却方法は？　電通大が実験 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2108/10/news120.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2108/10/news120.html"/>
+        <updated>2021-08-10T08:08:51.000Z</updated>
+        <summary type="html"><![CDATA[電気通信大学が、炎天下で発熱したスマートフォンの効果的な冷却方法について実験した結果を公開した。最も効果的だったのは、スマホの電源を切って直射日光を避け、扇風機の風を当てる方法だったという。一方、冷蔵庫や保冷剤での冷却は故障の原因になるとした。 電気通信大学は8月10日、炎天下で発熱したスマートフォ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次期14インチおよび16インチMacBook Pro、ついに量産開始の噂 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/14-16-inch-macbookpro-finally-enter-mass-production-070020304.html</id>
+        <link href="https://japanese.engadget.com/14-16-inch-macbookpro-finally-enter-mass-production-070020304.html"/>
+        <updated>2021-08-10T08:06:25.000Z</updated>
+        <summary type="html"><![CDATA[次期14インチおよび16インチMacBook Proの発売が間近と噂されてきたなか、ついに量産が開始されたとのサプライチェーン情報が伝えられています。 台湾の電子部品業界情報誌DigiTimes報道によると、アップルはデザインを刷新した「MacBook Pro」両モデルの量産を開始し、11月末までに月間80万台の出荷を見込んでいるとの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How can I set yarn as the default packageManager for Angular CLI?]]></title>
+        <id>https://dev.to/ippatev/how-can-i-set-yarn-as-the-default-packagemanager-for-angular-cli-3i59</id>
+        <link href="https://dev.to/ippatev/how-can-i-set-yarn-as-the-default-packagemanager-for-angular-cli-3i59"/>
+        <updated>2021-08-10T07:26:02.000Z</updated>
+        <summary type="html"><![CDATA[You hav to update package manager from npm to yarn.
+ng config --global cli.packageManager yarn
+
+if you need back yarn to npm then
+ng config --global cli.packageManager npm]]></summary>
+        <author>
+            <name>Aleksandr Ippatev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ファイザー製ワクチンの追加接種、副反応は2回目と同程度＝調査 | ロイター]]></title>
+        <id>https://jp.reuters.com/article/health-coronavirus-vaccine-israel-idJPKBN2FA26H</id>
+        <link href="https://jp.reuters.com/article/health-coronavirus-vaccine-israel-idJPKBN2FA26H"/>
+        <updated>2021-08-10T06:47:27.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルで新型コロナウイルスワクチンの３回目の接種を受けた人を対象に行われた調査によると、大半の人に２回目の接種後と同程度、もしくはそれよりも軽い副反応が出たことが分かった。写真はファイザーのロゴ。ニューヨークで３月撮影（２０２１年　ロイター／Carlo Allegri） ［エルサレム　８日　ロイター］ - イ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「WAON」「nanaco」がApple Payに対応　2021年内に - ITmedia Mobile]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2108/10/news106.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2108/10/news106.html"/>
+        <updated>2021-08-10T06:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Appleの決済システム「Apple Pay」において、イオングループの「WAON（ワオン）」とセブン&アイグループの「nanaco（ナナコ）」が利用できるようになる。2021年内の対応を予定しているが、詳細は後日発表されるという。 イオンリテールなどが発行する電子マネー「WAON（ワオン）」と、セブン・カードサービスが発行する...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reactハンズオンラーニングを読んだので感想]]></title>
+        <id>https://zenn.dev/nana/articles/f20970c2d77214</id>
+        <link href="https://zenn.dev/nana/articles/f20970c2d77214"/>
+        <updated>2021-08-10T06:02:10.000Z</updated>
+        <summary type="html"><![CDATA[はじめに この記事はこれからReactやJavaScriptを0から学びたいと思う人に向けての記事です。 こちらの本を紹介したいなという、ただの布教記事です。 自分もそれなりにJavaScriptを書いて、Reactを勉強してきたと思っていましたが こちらの本を読んで、まだまだ序の口だったのだなと感じました。 もちろん、何年もJavaS...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【コラム】オープンソースの終焉が来ているのだろうか？ | TechCrunch Japan]]></title>
+        <id>https://jp.techcrunch.com/2021/08/10/2021-07-18-the-end-of-open-source/</id>
+        <link href="https://jp.techcrunch.com/2021/08/10/2021-07-18-the-end-of-open-source/"/>
+        <updated>2021-08-10T05:28:00.000Z</updated>
+        <summary type="html"><![CDATA[本稿の著者Shaun O’Meara（ショーン・オメーラ）氏は、MirantisのグローバルフィールドCTO。企業のITインフラストラクチャの設計と構築において20年間、顧客と仕事をしてきた。 ーーー 数週間前、ミネソタ大学の研究者らにより「偽善者のコミット」と彼らが呼ぶものをLinuxカーネルに投入するメソッドが展開されたという...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[説得力のあるフィッシング詐欺のメールを、AIが人間よりうまく“書く”時代がやってきた | WIRED.jp]]></title>
+        <id>https://wired.jp/2021/08/10/ai-phishing-emails/</id>
+        <link href="https://wired.jp/2021/08/10/ai-phishing-emails/"/>
+        <updated>2021-08-10T05:06:44.000Z</updated>
+        <summary type="html"><![CDATA[自然言語処理の意外な分野への進出が止まらない。今度はフィッシング詐欺のメールだ。高性能な言語生成アルゴリズムとして知られる「GPT-3」とAIaaS（サーヴィスとしてのAI）のプラットフォームを利用することで、特定の個人や団体を標的にした大規模なスピアフィッシング詐欺への参入障壁を大幅に下げられることを、あ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メルカリShops の技術スタックと、その選定理由 | メルカリエンジニアリング]]></title>
+        <id>https://engineering.mercari.com/blog/entry/20210810-mercari-shops-tech-stack/</id>
+        <link href="https://engineering.mercari.com/blog/entry/20210810-mercari-shops-tech-stack/"/>
+        <updated>2021-08-10T03:41:22.000Z</updated>
+        <summary type="html"><![CDATA[7月末にメルカリShopsという新しいサービスが公開されました。メルカリShops は、2021年1月にメルカリのグループ会社として設立したソウゾウが新たに立ち上げたサービスです。 この記事では、メルカリShops を作るにあたり、どういった技術、アーキテクチャを選定したのか、その背景と意思決定をまとめて共有したいと思...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【全編無料】GoogleやAdobeなど実力ある講師が多数登場、マーケ・デザイン・プログラミング・ゲーム作成などが学べるオンライン学習プラットフォーム「Udemy」のおすすめ無料講座7選 - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210810-udemy-free-course/</id>
+        <link href="https://gigazine.net/news/20210810-udemy-free-course/"/>
+        <updated>2021-08-10T03:28:23.000Z</updated>
+        <summary type="html"><![CDATA[新たなスキルを身につけたいと思った時に問題になるのが「どうやって身につけるか」です。インターネットが発達したおかげで、書籍以外にもさまざまな方法を選べるようになりましたが、新しい方法というのはなかなか手を出しづらいもの。今回は、ムービー形式で講座を受講できるというサービス「Udemy」から、ムービーの...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[格安ながら機能はハイエンド！　税込み2980円のネットワークカメラ「ATOM Cam 2」を試す：防水／防じん対応でさらに盤石に（1/3 ページ） - ITmedia PC USER]]></title>
+        <id>https://www.itmedia.co.jp/pcuser/articles/2108/10/news074.html</id>
+        <link href="https://www.itmedia.co.jp/pcuser/articles/2108/10/news074.html"/>
+        <updated>2021-08-10T03:17:35.000Z</updated>
+        <summary type="html"><![CDATA[格安ながら機能はハイエンド！　税込み2980円のネットワークカメラ「ATOM Cam 2」を試す：防水／防じん対応でさらに盤石に（1/3 ページ） 圧倒的な低価格で人気を集めたATOM techのネットワークカメラ「ATOM Cam」に、後継モデルが登場した。新モデル「ATOM Cam 2」は何が変わったのか、実機を使って試してみた。 アトム...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Curated List of Angular Resources]]></title>
+        <id>https://dev.to/karvel/a-curated-list-of-angular-resources-57ga</id>
+        <link href="https://dev.to/karvel/a-curated-list-of-angular-resources-57ga"/>
+        <updated>2021-08-10T02:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Having worked with Angular since mid-2017, I have collected many resources that I have found useful. I will keep this list up to date.
+Angular.io Includes good tutorials, detailed documentation, and API references along with interactive code snippets. This should be the default destination for Angular questions. Note: There are multiple versions of the “Tour of Heroes” tutorial demonstrating different concepts.
+Angular.io Resources The official and hopefully maintained list of resources from the Angular team.
+John Papa style guide The de facto style guide for Angular has been officially adopted by the Angular team and is now hosted on the official website. It is highly opinionated, but makes good cases for its suggestions. I follow most of it and do not disagree strongly with any of its su…]]></summary>
+        <author>
+            <name>Elanna Grossman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Curated List of Angular Resources]]></title>
+        <id>https://dev.to/karvel/a-curated-list-of-angular-resources-57ga</id>
+        <link href="https://dev.to/karvel/a-curated-list-of-angular-resources-57ga"/>
+        <updated>2021-08-10T02:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Having worked with Angular since mid-2017, I have collected many resources that I have found useful. I will keep this list up to date.
+Angular.io Includes good tutorials, detailed documentation, and API references along with interactive code snippets. This should be the default destination for Angular questions. Note: There are multiple versions of the “Tour of Heroes” tutorial demonstrating different concepts.
+Angular.io Resources The official and hopefully maintained list of resources from the Angular team.
+John Papa style guide The de facto style guide for Angular has been officially adopted by the Angular team and is now hosted on the official website. It is highly opinionated, but makes good cases for its suggestions. I follow most of it and do not disagree strongly with any of its su…]]></summary>
+        <author>
+            <name>Elanna Grossman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[突撃！ 在宅の開発環境 2021年夏 - Mobile Factory Tech Blog]]></title>
+        <id>https://tech.mobilefactory.jp/entry/2021/08/10/100000</id>
+        <link href="https://tech.mobilefactory.jp/entry/2021/08/10/100000"/>
+        <updated>2021-08-10T01:23:31.000Z</updated>
+        <summary type="html"><![CDATA[はじめに こんにちは。ブロックチェーンチームのエンジニア、 @nanamachi です。 tech.mobilefactory.jp 前回の記事ではたくさんの方に閲覧&コメントいただきありがとうございました。この記事から1年。モバイルファクトリーは日本のどこからでも働けるようになり、書籍購入、資格取得、セミナー参加、懇親会の支援制度...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポートが閉じてることを外部から監視するポートスキャナー（slack通知付き） - Code Day's Night]]></title>
+        <id>https://blog.ichikaway.com/entry/2021/08/09/161426/aite9</id>
+        <link href="https://blog.ichikaway.com/entry/2021/08/09/161426/aite9"/>
+        <updated>2021-08-10T00:37:16.000Z</updated>
+        <summary type="html"><![CDATA[IP制限しているTCP 22(sshd)や3306(MySQL)のようなポートが空いていないかチェックするツールを作りました。 たとえば設定ミスで22番ポートがすべてのIPを許可している状態になってしまっていたというケースがありそうで、サーバ台数が数百台になってくるといちいち気にしているのが面倒なのでチェックする簡易ポートス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[個人利用クラウドへのアップロードも行われた再委託先従業員による情報持ち出しについてまとめてみた - piyolog]]></title>
         <id>https://piyolog.hatenadiary.jp/entry/2021/08/10/063000</id>
@@ -249,6 +819,16 @@ Watch the Tutorial on Youtube
 We ne…]]></summary>
         <author>
             <name>PrimeTek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jupyter Notebook標準サポートが正式版にVisual Studio Code用拡張機能「Python」 | TECH+]]></title>
+        <id>https://news.mynavi.jp/article/20210809-1942390/</id>
+        <link href="https://news.mynavi.jp/article/20210809-1942390/"/>
+        <updated>2021-08-09T09:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftは現地時間2021年8月6日、Visual Studio Code用拡張機能「Python バージョン2021.8.1105858891」をリリースした旨を公式ブログで報告した。最新の拡張機能は先のマーケットプレイスや、Visual Studio Code内の拡張機能ギャラリーからインストールできる。新バージョンはJupyter Notebook標準サポート機能が正式...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
     </entry>
     <entry>
@@ -715,6 +1295,16 @@ class Observable {
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[最低限のNetwork知識]]></title>
+        <id>https://zenn.dev/hee/articles/ce9002ae525622</id>
+        <link href="https://zenn.dev/hee/articles/ce9002ae525622"/>
+        <updated>2021-08-08T04:31:07.000Z</updated>
+        <summary type="html"><![CDATA[ネットワークを集中的に勉強したのでそのうちの基礎的な部分だけを抽出して記事にしました。主にL2とL3の話しかしてないです。 参考文献(とても良書なので興味ある人は是非) ・tanenbaum先生の教科書(Networkの世界的bible) ・CでネットワークプログラミングをするHands-on本(とても読みやすかった) ・Linuxで仮想ネット...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全長120m！ スペースXのスターシップ試験機がブースターに搭載される | sorae 宇宙へのポータルサイト]]></title>
         <id>https://sorae.info/space/20210808-120m-sn20.html</id>
         <link href="https://sorae.info/space/20210808-120m-sn20.html"/>
@@ -1028,6 +1618,16 @@ Much more "complete" out of the bo…]]></summary>
         <link href="https://iphone-mania.jp/news-387887/"/>
         <updated>2021-08-07T12:52:34.000Z</updated>
         <summary type="html"><![CDATA[英メディアTech Advisorが、Apple Watch Series 7はストレージ容量が増えるかもしれないとの予想を伝えました。 ストレージ容量32GB以上、チタニウムケースもラインナップ？ Tech AdvisorがApple Watch Series 7に関する報道やリーク情報をまとめた中で、同製品はストレージ容量が増えるかもしれないと伝えています。 現...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - hora-search/hora: 🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .]]></title>
+        <id>https://github.com/hora-search/hora</id>
+        <link href="https://github.com/hora-search/hora"/>
+        <updated>2021-08-07T11:19:03.000Z</updated>
+        <summary type="html"><![CDATA[🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -2308,6 +2908,16 @@ The post How to Build a Full-Stack Mobile Application With Flutter, Fauna, and G
         <link href="https://news.mynavi.jp/article/20210805-1939708/"/>
         <updated>2021-08-05T06:50:54.000Z</updated>
         <summary type="html"><![CDATA[オンラインバックアップサービス企業のBackblazeは8月4日(米国時間)、「Hard Drive Reliability: A Look at HDD and SDD Failure Rates」において、2021年第2四半期のハードディスク/SSD故障率を発表した。 2021年第2四半期の主な動向は次のとおり。 故障率0% ：6TB Seagate (ST6000DX000)、12TB HGST (HUH721212ALE600)...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チームワークがよくなる！私の周りにいる人たちの素敵な習慣【打ち合わせ・チームワーク編】 - Qiita]]></title>
+        <id>https://qiita.com/nshimizu-gxp/items/d29084574f06c26ba483</id>
+        <link href="https://qiita.com/nshimizu-gxp/items/d29084574f06c26ba483"/>
+        <updated>2021-08-05T06:28:19.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは！GxPの清水です。 今回は、私がチーム開発を行う上でチームワークがよくなり、とてもありがたいな、助かるなと感じている「私の周りにいる人たちの素敵な習慣」をご紹介します！ 書き起こしてみるとたくさん見つかったので、この記事では「打ち合わせ系」「チームワーク系」に絞りました。 もしご自身が実践...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -10783,6 +11393,16 @@ export class AppComponent implements AfterVi...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub - microsoft/IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!]]></title>
+        <id>https://github.com/microsoft/IoT-For-Beginners</id>
+        <link href="https://github.com/microsoft/IoT-For-Beginners"/>
+        <updated>2021-07-15T05:13:51.000Z</updated>
+        <summary type="html"><![CDATA[IoT for Beginners - A Curriculum Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based peda...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[問い合わせ管理システムとは？メールや電話、SNSの問い合わせを一元管理 | EC・ネット通販を中心とした物販ビジネス専門メディア 「コマースピック」]]></title>
         <id>https://www.commercepick.com/archives/1800</id>
         <link href="https://www.commercepick.com/archives/1800"/>
@@ -10954,60 +11574,6 @@ You might yell at me and say I can just put those in my CSS …
 The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Mojtaba Seyedi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モダンアジャイルについて - やっとむでぽん]]></title>
-        <id>https://yattom.hatenablog.com/entry/2021/07/12/100433</id>
-        <link href="https://yattom.hatenablog.com/entry/2021/07/12/100433"/>
-        <updated>2021-07-12T03:22:56.000Z</updated>
-        <summary type="html"><![CDATA[2021年7月1日に「モダンアジャイル 再考 2021」というイベントが分散アジャイルチームについて考える会の主催でありました。 distributed-agile-team.connpass.com このイベントのきっかけは、私のFacebookでのつぶやき？でした。 これへのコメントできょんさん、鬼木さん、川口さんらに反応していただけ、さっそくオン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSで上下左右の中央に配置する時の「position: fixed;」での新しい記述方法]]></title>
-        <id>https://coliss.com/?p=30282</id>
-        <link href="https://coliss.com/articles/build-websites/operation/css/position-fixed-centering-new-way.html"/>
-        <updated>2021-07-12T00:36:05.000Z</updated>
-        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
-        <author>
-            <name>コリス🥦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AngularでRoutingしてもServiceが再作成されるときの原因]]></title>
-        <id>https://zenn.dev/hashito/articles/f24b066962f58d</id>
-        <link href="https://zenn.dev/hashito/articles/f24b066962f58d"/>
-        <updated>2021-07-11T23:32:45.000Z</updated>
-        <summary type="html"><![CDATA[背景
-AngularでServiceを作成して下記の一文を入れておくとクラスがシングルストン構成となるはずです。
-
-      
-        
-        @Injectable({
-  providedIn: 'root'
-})
-
-
-      
-      シングルストン構成とは、アプリケーション上単一のインスタンスしか持たいない構成で、通常のクラスは複数の実態を持つが、シングルストンなクラスはどこからアクセスしても単一な実態へアクセスすることになります。
-詳しくは下記。
-https://ja.wikipedia.org/wiki/Singleton_パターン
-これで構成...]]></summary>
-        <author>
-            <name>hashito</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スクラムへの間違った５つの期待とその修復法]]></title>
-        <id>https://uxmilk.jp/?p=84822</id>
-        <link href="https://uxmilk.jp/84822"/>
-        <updated>2021-07-11T22:45:58.000Z</updated>
-        <summary type="html"><![CDATA[よくある古典的な、終わりのない葛藤と同じように、開発チームをどのように組織し、自律的にするかという議論は依然として盛り上がっています。目下のところ、スクラムについては好意的な見方よりも批判の方が多いかのように思えます。も]]></summary>
-        <author>
-            <name>UX MILK編集部</name>
         </author>
     </entry>
 </feed>
