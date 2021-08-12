@@ -75,6 +75,222 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html",
+          "author": null,
+          "description": "Firefoxのユーザが激減していることについて考察したレポートが海外で話題だ。",
+          "link": "https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html",
+          "publishedOn": "2021-08-11T22:01:31.000Z",
+          "wordCount": 93,
+          "title": "Firefoxのユーザー、約3年で4600万人減……その理由を考察したレポートが海外で話題に【やじうまWatch】 - INTERNET Watch"
+        },
+        {
+          "id": "https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/",
+          "author": null,
+          "description": "Today, GitHub is making Codespaces available to Team and Enterprise Cloud plans on github.com. Codespaces provides software teams a faster, more collaborative development environment in the cloud. Read more on our Codespaces page. The GitHub.com codebase is almost 14 years old. When the first com...",
+          "link": "https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/",
+          "publishedOn": "2021-08-11T20:15:49.000Z",
+          "wordCount": 2296,
+          "title": "GitHub’s Engineering Team has moved to Codespaces | The GitHub Blog"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1343478.html",
+          "author": null,
+          "description": "サムスンのフォルダブルスマートフォン「Galaxy Z Fold3 5G」が11日夜（日本時間）に発表された。一見するとストレートなスマートフォン、しかし開くと大画面になるという「Fold」シリーズの最新モデルで、その特徴のひとつとして「Sペン」が挙げられる。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1343478.html",
+          "publishedOn": "2021-08-11T16:34:34.000Z",
+          "wordCount": 130,
+          "title": "「Galaxy Z Fold3 5G」、折りたためるディスプレイでもSペンが使える理由 - ケータイ Watch"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1343449.html",
+          "author": null,
+          "description": "楽天グループは11日、2021年度第2四半期決算を発表した。売上収益は7936億7100万円（前年同期比＋16.9％）、営業利益はー1008億8900万円（前年同期207億2100万円）、グループ全体の純利益は―663億400万円（同278億2400万円）だった。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1343449.html",
+          "publishedOn": "2021-08-11T15:25:49.000Z",
+          "wordCount": 145,
+          "title": "楽天決算で三木谷氏「ローミング費用が本当に高い」、通信事業・RCP・エコシステムの「一石三鳥」を狙う - ケータイ Watch"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210812001054",
+          "author": null,
+          "description": "増田でほぼ誰も読まないホロコーストネタを時々投稿してる私であるが、「サラダ油は燃えないネタ」がバスっていると、どーーーしても気になって仕方がなかった。というのはこんな話があるからである。 死体を焼却するための火葬場は溝の中に置かれ、その底には溝の長さに沿って水路が掘られていて、（液化脂肪の）通り道...",
+          "link": "https://anond.hatelabo.jp/20210812001054",
+          "publishedOn": "2021-08-11T15:24:04.000Z",
+          "wordCount": 79,
+          "title": "サラダ油とホロコーストの謎"
+        },
+        {
+          "id": "https://japanese.engadget.com/galaxy-z-flip3-5g-140429378.html",
+          "author": null,
+          "description": "サムスンが縦折りスマートフォンの新モデル「Galaxy Z Flip3 5G」を発表しました。価格は折りたたみスマートフォンでは破格となる999.99ドル（約11万円）で、グローバルで8月27日より販売します。 関連 Galaxy Z Fold3 5G発表。Sペン対応・防水に進化した元祖フォルダブルスマホ 「Galaxy Z Flip3」は、ディスプレイを縦...",
+          "link": "https://japanese.engadget.com/galaxy-z-flip3-5g-140429378.html",
+          "publishedOn": "2021-08-11T15:02:37.000Z",
+          "wordCount": 286,
+          "title": "Galaxy Z Flip3 5G発表、折りたたみスマホでは破格の999ドル（約11万円） - Engadget 日本版"
+        },
+        {
+          "id": "https://sinsoku.hatenablog.com/entry/2021/08/11/232201",
+          "author": null,
+          "description": "ECSを触っていて今まで難しいと思ったことを雑にまとめておく。 ECSを仕事で運用するときに必要な知識が多すぎる。こんなの社内に1人AWSマスターいないと無理だ...— 神速 (@sinsoku_listy) 2021年8月10日 タスクロールとタスク実行ロールの違い ECSを長く触っているのに、いつも混乱する。 タスクロール コンテナ内の権...",
+          "link": "https://sinsoku.hatenablog.com/entry/2021/08/11/232201",
+          "publishedOn": "2021-08-11T14:30:53.000Z",
+          "wordCount": 283,
+          "title": "ECSを運用で使っていて難しいと思った点 - アジャイルSEの憂鬱"
+        },
+        {
+          "id": "https://zenn.dev/katsumanarisawa/articles/58103deb4f12b4",
+          "author": null,
+          "description": "TypeScriptのProject Referencesを使ってソースコードを分割し、レイヤー間の依存関係を強制する サマリ Project Referencesを使うと、1つの巨大なtypescriptプロジェクトを、複数のプロジェクトに分割し、プロジェクト間の依存関係を整理することができる。これにより、例えば以下のようなことができる test/ ディレク...",
+          "link": "https://zenn.dev/katsumanarisawa/articles/58103deb4f12b4",
+          "publishedOn": "2021-08-11T13:08:04.000Z",
+          "wordCount": 322,
+          "title": "TypeScriptのProject Referencesを使ってソースコードを分割し、レイヤー間の依存関係を強制する"
+        },
+        {
+          "id": "https://jp.reuters.com/article/bccc-idJPKBN2FC0FH",
+          "author": null,
+          "description": "分散型金融（ＤｅＦｉ、ディーファイ）を手掛けるポリ・ネットワークは８月１０日、仮想通貨が不正流出したとツイッターで明らかにした。写真はイメージ。２０１４年１０月撮影（２０２１年　ロイター/Dado Ruvic） ［東京／香港　１１日　ロイター］ - 分散型金融（ＤｅＦｉ、ディーファイ）を手掛けるポリ・ネットワー...",
+          "link": "https://jp.reuters.com/article/bccc-idJPKBN2FC0FH",
+          "publishedOn": "2021-08-11T12:44:16.000Z",
+          "wordCount": 27,
+          "title": "ポリ、約6億ドルの仮想通貨が流出か　「被害者限られる」との見方も | ロイター"
+        },
+        {
+          "id": "https://neatnik.net/view-source/",
+          "author": null,
+          "description": "· About · Changelog URL: Fetched 1.23 KB in 0.007203 seconds Don’t wrap lines · Tidy markup  \n  Example Domain   <meta name=\"viewport\" content=\"width=device-width,...",
+          "link": "https://neatnik.net/view-source/",
+          "publishedOn": "2021-08-11T12:19:34.000Z",
+          "wordCount": 150,
+          "title": "View Source"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/news/18/10983/",
+          "author": null,
+          "description": "ネットマーケティングは2021年8月11日、同社が運営する婚活マッチングアプリ「Omiai」で起こった不正アクセスによる会員情報流出の調査結果と今後の対応策を発表した。調査の結果、同社が契約するクラウドサーバーが不正アクセスを受け、年齢確認書類の画像データが複数回にわたって外部に流出したことが分かった。 Omia...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/news/18/10983/",
+          "publishedOn": "2021-08-11T11:11:11.000Z",
+          "wordCount": 362,
+          "title": "婚活アプリ「Omiai」情報流出の詳細判明、API経由でクラウドに不正アクセス | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/11/news129.html",
+          "author": null,
+          "description": "小学館は8月10日、「藤子・Ｆ・不二雄ミュージアム」（神奈川県川崎市）の開館10周年を記念して「藤子・Ｆ・不二雄大全集」を電子書籍化すると発表した。9月3日から全115冊と別冊4冊を3回に分けて配信する。 第1弾は「ドラえもん」「パーマン」「オバケのQ太郎」「エスパー魔美」など50冊。第2弾は11月1日、第3弾は12月1...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/11/news129.html",
+          "publishedOn": "2021-08-11T10:49:46.000Z",
+          "wordCount": 150,
+          "title": "全115冊＋別冊4冊の「藤子・Ｆ・不二雄大全集」を電子書籍化　小学館、9月から順次配信 - ITmedia NEWS"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/news/18/10982/",
+          "author": null,
+          "description": "富士通は2021年8月11日、同社のプロジェクト情報共有ツール「ProjectWEB」が不正アクセスを受けた問題について、情報が流出した企業や機関が計129に及んだと発表した。同ツールの脆弱性を悪用されたことでIDとパスワードが流出し、不正アクセスにつながった可能性が高いことも明らかにした。 ProjectWEBはシステム開発な...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/news/18/10982/",
+          "publishedOn": "2021-08-11T10:37:27.000Z",
+          "wordCount": 356,
+          "title": "富士通「ProjectWEB」は脆弱性を悪用され情報流出か、被害企業・機関は計129に | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://pr.fujitsu.com/jp/news/2021/08/11.html",
+          "author": null,
+          "description": "DX実現に向けたオファリング お客様のDXを加速 様々な業種・業態のお客様との取り組みのなかで得たノウハウに基づき、お客様のデジタルトランスフォーメーションをご支援します。 もっと詳しく 関連情報ものづくり保守・保全モビリティロジスティクス食・農業都市インフラ暮らし デジタルマーケティング 個々のニーズに...",
+          "link": "https://pr.fujitsu.com/jp/news/2021/08/11.html",
+          "publishedOn": "2021-08-11T07:50:59.000Z",
+          "wordCount": null,
+          "title": "プロジェクト情報共有ツールへの不正アクセスについて（第二報） : 富士通"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35175069/",
+          "author": null,
+          "description": "Mozillaは米国時間8月10日にリリースした「Firefox 91」で、Cookieを削除するより強力な仕組みを導入した。「Enhanced Cookie Clearing」というこの新機能は、ウェブサイトだけでなく、サイトにコードを埋め込んでいるサードパーティーからの追跡も防ぐように設計されている。 この機能は特定のウェブサイトからのCookie...",
+          "link": "https://japan.cnet.com/article/35175069/",
+          "publishedOn": "2021-08-11T07:15:15.000Z",
+          "wordCount": 471,
+          "title": "「Firefox 91」がリリース--Cookie削除機能の強化でプライバシー向上 - CNET Japan"
+        },
+        {
+          "id": "https://techtarget.itmedia.co.jp/tt/news/2108/10/news01.html",
+          "author": null,
+          "description": "関連キーワード ネットワーク | ネットワーク管理 ネットワークの「帯域幅」の要件を求める際、計算式を間違えると大きな影響が出る。十分な帯域幅を確保していない場合は、帯域制限がかかり「スループット」（データ伝送速度）が遅くなるのはほぼ確実だ。逆に、帯域幅のオーバープロビジョニング（過度な配備）は、過剰...",
+          "link": "https://techtarget.itmedia.co.jp/tt/news/2108/10/news01.html",
+          "publishedOn": "2021-08-11T07:10:12.000Z",
+          "wordCount": 346,
+          "title": "「帯域幅」を計算する簡単な方法は？　ユーザー数の上限を把握する方法も：ネットワーク帯域幅の求め方【後編】 - TechTargetジャパン ネットワーク"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/fnetwork/index_index.html",
+          "author": null,
+          "description": "Master of IP Networkフォーラム　全記事インデックス 過去に掲載された全ての記事にアクセスできる目次です。更新： 2008/12/9",
+          "link": "https://atmarkit.itmedia.co.jp/fnetwork/index_index.html",
+          "publishedOn": "2021-08-11T06:19:09.000Z",
+          "wordCount": 1705,
+          "title": "＠IT：Master of IP Networkフォーラム　全記事インデックス"
+        },
+        {
+          "id": "https://eng-blog.iij.ad.jp/archives/10539",
+          "author": null,
+          "description": "Haskellコミュニティでは、ネットワーク関連を担当。 4児の父であり、家庭では子供たちと、ジョギング、サッカー、スキー、釣り、クワガタ採集をして過ごす。 前回の説明では、「Initial パケット」や「Version Negotiation パケット」といった用語を未定義で使いました。今回は、こういった「パケット」や「フレーム」...",
+          "link": "https://eng-blog.iij.ad.jp/archives/10539",
+          "publishedOn": "2021-08-11T05:44:35.000Z",
+          "wordCount": 1726,
+          "title": "QUICをゆっくり解説(3)：QUICパケットの構造 | IIJ Engineers Blog"
+        },
+        {
+          "id": "https://techblog.securesky-tech.com/entry/2021/08/11/raspberrypi4-wifiap-burp-invisible-proxy-setup",
+          "author": null,
+          "description": "こんにちは、SSTでWeb脆弱性診断用のツール(スキャンツール)開発をしている坂本(Twitter, GitHub)です。 前回の記事では Raspberry Pi 4 Model B Starter Kit (以下「ラズパイ」) をセットアップしました。 本記事では WiFi AP 化した上で、HTTP(S) アクセスを PC 上の Burp の Invisible (透過型) Proxy に転送し、スマ...",
+          "link": "https://techblog.securesky-tech.com/entry/2021/08/11/raspberrypi4-wifiap-burp-invisible-proxy-setup",
+          "publishedOn": "2021-08-11T04:08:59.000Z",
+          "wordCount": 991,
+          "title": "Raspberry Pi 4 を使ったスマホ向け透過型Proxy環境の構築 - SSTエンジニアブログ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/11/news084.html",
+          "author": null,
+          "description": "中国Xiaomi（小米科技）が犬型ロボット「CyberDog」を発表した。価格は約17万円で、米Boston Dynamicsの最新機種「Spot」（約820万円）に比べて約50分の1の価格に抑えた。開発者向けに1000台限定で販売する。 中国スマートフォン大手のXiaomi（小米科技）は8月10日（現地時間）、犬型ロボット「CyberDog」を発表した。価...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/11/news084.html",
+          "publishedOn": "2021-08-11T04:06:16.000Z",
+          "wordCount": 159,
+          "title": "中国Xiaomiが犬型ロボット「CyberDog」発表　価格は17万円、他社類似モデルの50分の1 - ITmedia NEWS"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/column/wifi_qanda/1342857.html",
+          "author": null,
+          "description": "Wi-Fiアクセスポイントの多くには、ルーターとしての機能が組み込まれています。ルーターとは、ネットワークとネットワークを接続するための機能であり、インターネットと自宅のネットワーク（家庭内LAN）を接続するために必要になります。このルーターとしての機能を使わずに、Wi-Fiアクセスポイントを利用することを「ブリッジ接続」と呼びます。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/wifi_qanda/1342857.html",
+          "publishedOn": "2021-08-11T02:07:12.000Z",
+          "wordCount": 96,
+          "title": "Wi-Fiのブリッジ接続って何？【“Wi-Fiの困った”を解決：基本編 第7回】 - INTERNET Watch"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/completely-uninstall-nodejs-from-windows/",
+          "author": null,
+          "description": "Node.js を直にインストールし、後からNode.js バージョン管理ツールを導入する際には Node.js を完全にアンインストールすることを求められる場合があります。 Microsoft 公式ドキュメントを読んでみる Windows に Node.js をインストールする方法は Microsoft 公式ドキュメントに記載されています。 上記に Node.js バ...",
+          "link": "https://dev.classmethod.jp/articles/completely-uninstall-nodejs-from-windows/",
+          "publishedOn": "2021-08-11T01:57:44.000Z",
+          "wordCount": 425,
+          "title": "Windows 環境から Node.js を完全に削除する方法をやってみた | DevelopersIO"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210811101559",
+          "author": null,
+          "description": "最低限のNetwork知識 https://zenn.dev/hee/articles/ce9002ae525622 という記事がブックマーク400を超えていて、どうしてこのレベルの記事に400もブックマークが集まるのかと問いたい。 覚えたことをまとめてアウトプットするのは素晴らしいことだと思うしそれは否定しないんだけど、勉強したての見習いが書いた薄い内...",
+          "link": "https://anond.hatelabo.jp/20210811101559",
+          "publishedOn": "2021-08-11T01:16:09.000Z",
+          "wordCount": 174,
+          "title": "ネットワークをちゃんと学びたいなら"
+        },
+        {
+          "id": "https://speakerdeck.com/lmt_swallow/build-your-own-web-browser",
+          "author": null,
+          "description": "Transcript ͍ͪ͞ͳ�8FC�ϒϥ΢βΛ࡞ͬͯΈΑ͏ ηΩϡϦςΟɾΩϟϯϓ�શࠃେձ������ #�τϥοΫ :0/&6$)* �5BLBTIJ� IUUQT���TIJGU�KT�JOGP © 2021 shift-js.info ͍ͪ͞ͳWebϒϥ΢βΛ࡞ͬͯΈΑ͏ 2 ຊߨٛࢿྉʹ͍ͭͯ� 4QFBLFS�%FDL�ެ։൛޲͚ͷิ଍ w ຊࢿྉ͸ʮηΩϡϦςΟɾΩϟϯϓશࠃେձ������ΦϯϥΠϯ�#�ʯͷߨٛ౰೔ʹར༻ ͞ΕͨࢿྉΛ࠶ฤͨ͠΋ͷͰ͢ɻ� w ࣮ࡍʹ�8FC�ϒϥ΢βΛ࡞ΔͨΊͷઆ໌͸ɺ͜ͷࢿྉʹ͸ͳ͘ɺࣄલ՝୊ࢿྉͱͯ͠ ެ։ͨ͠ΦϯϥΠϯϒοΫ�IUUQT���CSPXTFSCPPL�TIJGU�KT�JOGP�ʹ͋Γ...",
+          "link": "https://speakerdeck.com/lmt_swallow/build-your-own-web-browser",
+          "publishedOn": "2021-08-10T22:41:13.000Z",
+          "wordCount": 1998,
+          "title": "ちいさな Web ブラウザを作ってみよう（オンライン講義版） / Build Your Own Web Browser - Speaker Deck"
+        },
+        {
           "id": "https://smhn.info/202108-xiaomi-mi-pad-5-mi-pad-5-pro-spec",
           "author": null,
           "description": "Mi Pad 5のSoCはSnapdragon 855のクロックアップであるSnapdragon 860を採用。ディスプレイは11インチ液晶で2560×1600の120Hz、10億色の表示やDolby Visionに対応。スピーカーは4台搭載されており、Dolby Atmosに対応しています。メモリは6GB、ストレージは128/256GBを用意。 カメラは1300万画素、インカメラは800万画素...",
@@ -82,6 +298,15 @@
           "publishedOn": "2021-08-10T15:20:34.000Z",
           "wordCount": 390,
           "title": "シャオミのタブ復活！3万4000円からの超コスパ「Mi Pad 5」、67W急速充電とオクタスピーカー対応「Mi Pad 5 Pro」 – すまほん!!"
+        },
+        {
+          "id": "https://commte.net/7295",
+          "author": null,
+          "description": "作成：2021/08/10 エンジニアニュース 今回はプログラミング独学法について完全公開しますが、その前に、最近話題になった「プログラミングスクールなんか行かなくていいからこれやれ」という記事が削除されていたので、思い出す範囲で概要を書いておきます。 エンジニア速報は Twitter の@commteで 1 日 5 回配信してい...",
+          "link": "https://commte.net/7295",
+          "publishedOn": "2021-08-10T14:00:36.000Z",
+          "wordCount": 394,
+          "title": "最短でエンジニアになって起業する独学勉強法 | コムテブログ"
         },
         {
           "id": "https://blog.shibayu36.org/entry/2021/08/10/173000",
@@ -147,6 +372,15 @@
           "title": "「東京の感染者数を5週間ぶん予測した」のブクマ数予測（8月10日分）"
         },
         {
+          "id": "https://zenn.dev/nanaki14/articles/html-template-react",
+          "author": null,
+          "description": "前置き HTMLを納品する形式の仕事の際にEJSやpugではなくReact+TypeScriptを使ってHTMLを生成しつつ開発体験を高めてほしい。 ということで具体的にどのようなメリットがあるのかを伝えたくてまとめてみました。 開発環境 1から環境を作るのは大変なので今回はクラクさんのministaを拡張していきます。 ministaの紹介記...",
+          "link": "https://zenn.dev/nanaki14/articles/html-template-react",
+          "publishedOn": "2021-08-10T10:56:54.000Z",
+          "wordCount": 286,
+          "title": "HTMLコーディングでもReact+TypeScriptの開発体験を得る"
+        },
+        {
           "id": "https://photoshopvip.net/130442",
           "author": null,
           "description": "Web制作のたびに繰り返し手こずって、時間のかかってしまう作業ってないでしょうか。 作業の効率化や時短において、限界を感じているひとにこそ刺さる、知っておきたい最新オンラインツールをまとめてご紹介します。 面倒な作業もあっという間に終わるだけでなく、どれも無料で利用でき、これまでのWeb制作がガラリと変...",
@@ -154,6 +388,15 @@
           "publishedOn": "2021-08-10T10:44:25.000Z",
           "wordCount": 313,
           "title": "面倒なWeb制作におさらば！便利すぎる新登場オンラインツール48個まとめ - PhotoshopVIP"
+        },
+        {
+          "id": "https://www.infoq.com/jp/articles/github-monolith-microservices/",
+          "author": null,
+          "description": "GitHubでこの移行に取り掛かる前に、私たちは、決定の背後にある理由と、この変更を行うための目標について考えることに時間を費やしました。それは文化的な観点から私たちにとって大きな変化であり、多くの作業を必要とします。 私たちは意図的に考え、解決しようとしている問題や問題点について考える必要があります。...",
+          "link": "https://www.infoq.com/jp/articles/github-monolith-microservices/",
+          "publishedOn": "2021-08-10T10:01:23.000Z",
+          "wordCount": 1736,
+          "title": "GitHubのモノリスからマイクロサービスへのジャーニー"
         },
         {
           "id": "https://anond.hatelabo.jp/20210810090602",
@@ -6753,6 +6996,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=346388",
+          "author": "Chris Coyier",
+          "description": "Heck of a CSS trick here from Dongsung Kim. \nThere are hidden HDR videos playing at the corners of this page. When a HDR-capable browser encounters one, it switches to HDR mode. For some reason, CSS backdrop-filter + brightness >100% \n…\nThe post Wanna see a whiter white? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://kidi.ng/wanna-see-a-whiter-white/",
+          "publishedOn": "2021-08-11T19:09:36.000Z",
+          "wordCount": 351,
+          "title": "Wanna see a whiter white?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345889",
+          "author": "Mike Neumegen",
+          "description": "You’ll often hear developers talking about “static” vs. “dynamic” sites, or you may have heard someone use the term Jamstack. What do these terms mean, and when does a “static” site become either a Jamstack or dynamic site? These …\nThe post Static vs. Dynamic vs. Jamstack: Where’s The Line? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/",
+          "publishedOn": "2021-08-11T14:31:20.000Z",
+          "wordCount": 3744,
+          "title": "Static vs. Dynamic vs. Jamstack: Where’s The Line?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346384",
+          "author": "Chris Coyier",
+          "description": "We took a surface level look at Pipedream the other day, which really does look cool. It’s like a much more modern and fancy version of what Yahoo Pipes was. A better comparison might be Zapier, except you …\nThe post Napkin appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.napkin.io/",
+          "publishedOn": "2021-08-11T14:31:13.000Z",
+          "wordCount": 104,
+          "title": "Napkin"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346392",
+          "author": "Chris Coyier",
+          "description": "Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …\nThe post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://neatnik.net/view-source/",
+          "publishedOn": "2021-08-10T21:26:34.000Z",
+          "wordCount": 150,
+          "title": "View Source (on Mobile)"
+        },
+        {
           "id": "https://css-tricks.com/?p=346392",
           "author": "Chris Coyier",
           "description": "Have you ever wished you could see the HTML source of a web page while on a mobile browser, which generally doesn’t offer that feature? If you have a desktop machine around, there are ways, but what I mean …\nThe post View Source (on Mobile) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -7246,24 +7525,6 @@
           "publishedOn": "2021-07-13T14:34:48.000Z",
           "wordCount": 142,
           "title": "Jamstack Community Survey 2021"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344355",
-          "author": "Chris Coyier",
-          "description": "The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …\nThe post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "publishedOn": "2021-07-12T19:45:00.000Z",
-          "wordCount": 2793,
-          "title": "Meet `:has`, A Native CSS Parent Selector"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343613",
-          "author": "Mojtaba Seyedi",
-          "description": "I don’t know about you, but I write these three declarations many times in my CSS:\nul {\n  padding: 0;\n  margin: 0;\n  list-style-type: none;\n}\nYou might yell at me and say I can just put those in my CSS …\nThe post Using the Specificity of :where() as a CSS Reset appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/",
-          "publishedOn": "2021-07-12T14:30:34.000Z",
-          "wordCount": 999,
-          "title": "Using the Specificity of :where() as a CSS Reset"
         }
       ]
     },
@@ -7367,6 +7628,33 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/kamanatripathi/vote-in-chat-based-application-in-ionic-4-3l2",
+          "author": "Kamana",
+          "description": "Hey,  \nI thought of writing a blog. \nMy professor asked me why did I add this feature or what is the one feature that stood your app out. I bluntly blurred out the Vote feature. \nFriend 1 : Hey lets go to ABC Café. Friend 2: No, Lets go to DEF Café. ME: Just vote it out guys.. That's when it was clicked oh! why isn't there any feature of vote. Would have made my life easier.\nBut when my teacher asked I said, So that we can vote if we want the test or not without you knowing that I want the test or not.\nLet me cut this shot if you want to know what is Ionic and what is Angular just head to the official website. (Because no one is going to read the blog).\nLet's go slowly!! See you in my next blog 😉",
+          "link": "https://dev.to/kamanatripathi/vote-in-chat-based-application-in-ionic-4-3l2",
+          "publishedOn": "2021-08-11T10:06:26.000Z",
+          "wordCount": 604,
+          "title": "Vote in Chat based Application in Ionic 4. ✨"
+        },
+        {
+          "id": "https://dev.to/srdvtech/how-to-turn-your-10-major-features-of-an-online-travel-agency-from-zero-to-hero-2p2o",
+          "author": "SRDV Technologies",
+          "description": "Travel is the most enjoyable and happy moment for any person. There are so many people who spend a lot of money on traveling. So day by day, the travel and tourism industry business is growing. if you are looking to invest in the travel industry, then an Online Travel Portal Development is the best option to invest. For developing an Online Travel Portal you have to find the best Technology Partner for your travel portal which makes your dreams come true, who will develop a best-featured packed online travel portal for you.\nTop 10 Features That Must Be On Your Online Travel Portal\nAdvanced Search Filters: Search filtering is useful as there are different parameters involved in traveling which makes more confusion into the head of a visitor or traveler. \nResponsive And Dynamic Design: The d…",
+          "link": "https://dev.to/srdvtech/how-to-turn-your-10-major-features-of-an-online-travel-agency-from-zero-to-hero-2p2o",
+          "publishedOn": "2021-08-11T06:37:21.000Z",
+          "wordCount": 896,
+          "title": "How to turn your 10 major features of an online travel agency from zero to Hero."
+        },
+        {
+          "id": "https://dev.to/techguy/angular-testing-succinctly-free-ebook-1g16",
+          "author": "Techguy",
+          "description": "OVERVIEW\nThough sometimes perceived as a hurdle, testing can save developers from heartbreak in the long run. In Angular Testing Succinctly, author Joseph D. Booth provides a quick introduction to different tools and approaches to testing Angular projects to make them higher quality from the start and easier to maintain down the road. Topics covered include lint checking, test-driven development, unit testing, and end-to-end testing. Tools covered include TSLint, ESLint, SonarLint, Karma, Jasmine, Protractor, and Cucumber.\nTABLE OF CONTENTS\nIntroduction\nLint Checking\nOther Linters\nTest-Driven Development\nAngular CLI\nSample Application\nUnit Testing\nE2E Testing with Jasmine\nE2E Testing with Cucumber\nPlanning E2E\nSummary\nAuthor\nJoseph D. Booth\nhttps://www.syncfusion.com/succinctly-free-ebooks/angular-testing-succinctly",
+          "link": "https://dev.to/techguy/angular-testing-succinctly-free-ebook-1g16",
+          "publishedOn": "2021-08-11T03:15:02.000Z",
+          "wordCount": 465,
+          "title": "Angular Testing Succinctly - Free Ebook"
+        },
         {
           "id": "https://dev.to/ippatev/rxjs-reduce-vs-scan-1n5b",
           "author": "Aleksandr Ippatev",
@@ -8595,15 +8883,6 @@
           "publishedOn": "2021-07-14T00:36:55.000Z",
           "wordCount": 328,
           "title": "ビジネスやオンラインショップに使えるおしゃれなイラスト素材！商用プロジェクトでも完全に無料 - Scale"
-        },
-        {
-          "id": "https://coliss.com/?p=30220",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/javascript/animate-on-scroll-using-intersectionobserver.html",
-          "publishedOn": "2021-07-13T00:36:30.000Z",
-          "wordCount": 1701,
-          "title": "スクロールに連動するアニメーションを実装する時は、JSのIntersection Observerを使用すると簡単に実装できる"
         }
       ]
     },
@@ -8612,6 +8891,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/d9e029efa755",
+          "author": "Bruno Rocha",
+          "description": "Quickly build scalable iOS apps\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/adding-intelligent-code-generation-to-swift-projects-with-sourcekit-d9e029efa755?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-11T20:02:47.000Z",
+          "wordCount": 2250,
+          "title": "Adding Intelligent Code Generation to Swift Projects With SourceKit"
+        },
+        {
+          "id": "https://medium.com/p/9173808bfb8f",
+          "author": "Yong Cui",
+          "description": "Write readable and maintainable Python code\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/6-best-practices-for-defining-the-initialization-method-in-python-9173808bfb8f?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-11T17:41:20.000Z",
+          "wordCount": 1150,
+          "title": "6 Best Practices for Defining the Initialization Method In Python"
+        },
+        {
+          "id": "https://medium.com/p/cb510bcb9fb6",
+          "author": "Ander Rodriguez",
+          "description": "Learn how to build a web crawler for scraping at scale. Start by visiting pages one by one and scale up with parallelism in a thread-safe…\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/mastering-web-scraping-in-python-crawling-from-scratch-cb510bcb9fb6?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-11T17:35:04.000Z",
+          "wordCount": 2003,
+          "title": "Mastering Web Scraping in Python: Crawling From the Scratch"
+        },
+        {
+          "id": "https://medium.com/p/2dc0acf47cef",
+          "author": "Anna Geller",
+          "description": "Amazon CTO Werner Vogels might be right — and here’s why\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/all-the-code-you-will-ever-write-is-business-logic-2dc0acf47cef?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-11T17:26:42.000Z",
+          "wordCount": 2408,
+          "title": "All the Code You Will Ever Write Is Business Logic"
+        },
+        {
+          "id": "https://medium.com/p/bdd28ce4aa70",
+          "author": "Daniel Yefet",
+          "description": "How to reduce noise and communicate effectively in JavaScript\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/shhh-keep-quiet-and-just-code-for-humans-bdd28ce4aa70?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-11T17:22:03.000Z",
+          "wordCount": 1394,
+          "title": "Shhh! Keep Quiet and Just Code for Humans"
+        },
+        {
+          "id": "https://medium.com/p/1dc9c2edc3ef",
+          "author": "Sanjeet Chatterjee",
+          "description": "Listen to your favorite podcast — forever\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/generate-conversational-podcasts-with-gpt-2-and-google-wavenet-1dc9c2edc3ef?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-11T17:02:38.000Z",
+          "wordCount": 931,
+          "title": "Generate Conversational Podcasts With GPT-2 and Google WaveNet"
+        },
+        {
+          "id": "https://medium.com/p/47511fba0a6a",
+          "author": "Lucas Sonnabend",
+          "description": "And why our team chose merging over rebasing\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/git-merge-vs-git-rebase-workflow-which-is-better-47511fba0a6a?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-11T16:25:02.000Z",
+          "wordCount": 2495,
+          "title": "Git Merge vs. Git Rebase Workflow: Which Is Better?"
+        },
+        {
+          "id": "https://medium.com/p/770d31cd5940",
+          "author": "Coach Tony",
+          "description": "Our publishing is paid for by Medium’s subscription.",
+          "link": "https://betterprogramming.pub/support-better-programming-by-subscribing-to-medium-770d31cd5940?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-11T16:21:57.000Z",
+          "wordCount": 525,
+          "title": "Support Better Programming by Subscribing to Medium."
+        },
+        {
+          "id": "https://medium.com/p/ac0eaef9d9c2",
+          "author": "Shubh Patni",
+          "description": "A guide for understanding the internal implementation of Python strings\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/an-interviewers-favorite-question-how-are-python-strings-stored-in-internal-memory-ac0eaef9d9c2?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-11T15:03:43.000Z",
+          "wordCount": 1402,
+          "title": "An Interviewer’s Favorite Question: “How Are Python Strings Stored in Internal Memory”"
+        },
+        {
+          "id": "https://medium.com/p/790316e6e777",
+          "author": "Dr Stuart Woolley",
+          "description": "As an accomplished software engineer, it can take some time for your employer to replace you. But should you help?\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/when-youre-considering-moving-on-should-you-tell-your-employer-790316e6e777?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-11T14:35:37.000Z",
+          "wordCount": 85,
+          "title": "When You’re Considering Moving On, Should You Tell Your Employer?"
+        },
         {
           "id": "https://medium.com/p/4f82a02554b5",
           "author": "Meghna Bhave",
