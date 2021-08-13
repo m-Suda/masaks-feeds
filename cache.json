@@ -52,20 +52,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://zenn.dev/hashito/articles/17239288bb63c5",
-          "author": "hashito",
-          "description": "現象\nng newコマンドで下記のようなエラーが出るようになった。\n何らかの依存関係が解決できなくてプロジェクトを初期化出来ない様子\n\n      \n        \n        % ng new           \n? What name would you like to use for the new workspace and initial project? p\n? Would you like to add Angular routing? Yes\n? Which stylesheet format would you like to use? CSS\n⠏ Inst...",
-          "link": "https://zenn.dev/hashito/articles/17239288bb63c5",
-          "publishedOn": "2021-07-13T22:49:46.000Z",
-          "wordCount": 1476,
-          "title": "Angular@cliでng newするとエラーになる",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/dlhzyuewr/image/upload/s--t4GB0yGe--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:hashito%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Angular%2540cli%25E3%2581%25A7ng%2520new%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A8%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%25AB%25E3%2581%25AA%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMWYyZGE5MTQwYy5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1609308637/og/new_txlqub.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -74,6 +60,231 @@
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/yajiuma/1343659.html",
+          "author": null,
+          "description": "Amazonの電子書籍リーダー「Kindle」に、悪意のある第三者がユーザー情報を参照できる脆弱性があったことを、海外の調査会社が公表した。",
+          "link": "https://internet.watch.impress.co.jp/docs/yajiuma/1343659.html",
+          "publishedOn": "2021-08-12T22:22:38.000Z",
+          "wordCount": 94,
+          "title": "電子書籍を開くだけでKindleが乗っ取られる脆弱性が発覚、利用者はアップデートの確認を【やじうまWatch】 - INTERNET Watch"
+        },
+        {
+          "id": "https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755",
+          "author": null,
+          "description": "I didn't much care for vanilla JavaScript prior to ES6. Through all of the 2000s, I chased different approaches to avoid writing too much of it. First there was RJS (Ruby-to-JavaScript). Then there was CoffeeScript. Both transpiling approaches that turned more enjoyable-to-write source code into ...",
+          "link": "https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755",
+          "publishedOn": "2021-08-12T18:14:26.000Z",
+          "wordCount": 1418,
+          "title": "Modern web apps without JavaScript bundling or transpiling"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1343382.html",
+          "author": null,
+          "description": "アンカー・ジャパンは、独自のノイズキャンセリング技術を搭載した完全ワイヤレスイヤフォンの新モデル「Soundcore Life P3」を12日に発売した。価格はブラックが8,990円、オフホワイト/ネイビー/ライトブルー/コーラルレッドが9,990円。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1343382.html",
+          "publishedOn": "2021-08-12T13:16:10.000Z",
+          "wordCount": 108,
+          "title": "Anker、1万円未満の“ウルトラノイキャン”搭載完全ワイヤレス - AV Watch"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1343677.html",
+          "author": null,
+          "description": "NTT-X Storeマガジンが8月11日付けで発行したメールマガジンにおいて「Wi-Fi 6 ルーター」を「Wi-Fi6シェーバー」と誤表記をしていたとして、12日付けのメールマガジンにて「お客様の混乱を招いてしまいましたこと、謹んで深くお詫び申し上げます」と謝罪している。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1343677.html",
+          "publishedOn": "2021-08-12T13:05:40.000Z",
+          "wordCount": 113,
+          "title": "【やじうまPC Watch】Wi-Fi6ルーターをWi-Fi6シェーバーと誤記で、NTT-Xが謝罪 - PC Watch"
+        },
+        {
+          "id": "https://tech.smartcamp.co.jp/entry/try-go-unit-test",
+          "author": null,
+          "description": "こんにちは！スマートキャンプ、エンジニアの中田です。 以前書いた記事の内容に引き続き今回も、現在業務で利用している Go のお話しです！ 以前の記事 tech.smartcamp.co.jp 突然ですが、みなさんはテストを書かれてますか？ 僕も「書いてます！」と声を張りたいところですが、4 月に新卒入社をしてから開発を始めた G...",
+          "link": "https://tech.smartcamp.co.jp/entry/try-go-unit-test",
+          "publishedOn": "2021-08-12T12:21:03.000Z",
+          "wordCount": 969,
+          "title": "Go製のREST APIにUnitテストを追加した話 - SMARTCAMP Engineer Blog"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000047.000064534.html",
+          "author": null,
+          "description": "株式会社スイッチサイエンス（以下スイッチサイエンス、本社：東京都新宿区、代表取締役：金本茂）は、M5Stack社の新製品「M5Stamp Pico」シリーズを、スイッチサイエンスのウェブショップにて2021年8月12日より販売開始します。 「M5Stamp Pico」は、切手サイズの極めて小さい基板上にWi-Fiチップとアンテナ、プッシュ...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000047.000064534.html",
+          "publishedOn": "2021-08-12T11:25:58.000Z",
+          "wordCount": 804,
+          "title": "M5Stack社超コンパクト設計新製品「M5Stamp Pico」シリーズを2021年8月12日より販売開始します｜株式会社スイッチサイエンスのプレスリリース"
+        },
+        {
+          "id": "https://jvn.jp/vu/JVNVU99039870/",
+          "author": null,
+          "description": "JVNVU#99039870 HTTP WebプロキシやWebアクセラレータのHTTP/2実装不備によるHTTPリクエストスマグリングの脆弱性 HTTP/2をサポートするHTTP WebプロキシやWebアクセラレータに対して、HTTP/1への変換処理の実装不備によりHTTP Request Smuggling攻撃が可能になる脆弱性が報告されています。 HTTP/2 をサポートするWebプ...",
+          "link": "https://jvn.jp/vu/JVNVU99039870/",
+          "publishedOn": "2021-08-12T10:55:55.000Z",
+          "wordCount": 123,
+          "title": "JVNVU#99039870: HTTP WebプロキシやWebアクセラレータのHTTP/2実装不備によるHTTPリクエストスマグリングの脆弱性"
+        },
+        {
+          "id": "https://zenn.dev/mizchi/articles/yarn-v1-to-v3",
+          "author": null,
+          "description": "yarn v3 が出ました。詳しい解説は譲るとして、esbuild integration や パフォーマンス向上が目玉です。 Yarn 3.0 🚀🤖 Performances, ESBuild, Better Patches, ... - DEV Community 流石に v1 はもう古いが、 v2 からの独自路線は受け付けがたい…という立場なのですが(yarn オリジナル作者の sebmck も難色を示してい...",
+          "link": "https://zenn.dev/mizchi/articles/yarn-v1-to-v3",
+          "publishedOn": "2021-08-12T10:28:32.000Z",
+          "wordCount": 432,
+          "title": "yarn v3 の独自機能を避けつつ yarn v1 から v3 へのアップグレードをする"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/08/12/2021-08-10-amazon-says-it-will-now-compensate-consumers-for-defective-products-sold-on-its-marketplace/",
+          "author": null,
+          "description": "Amazon（アマゾン）は米国時間8月10日、Amazonマーケットプレイスを通じて第三者から販売された欠陥商品の問題に対処するため「A-to-Z保証」として知られる返品ポリシーを大幅に変更することを発表した。これまでは、Amazonマーケットプレイスで販売された欠陥商品が原因で、物的損害や人的被害が発生した場合、アマゾン...",
+          "link": "https://jp.techcrunch.com/2021/08/12/2021-08-10-amazon-says-it-will-now-compensate-consumers-for-defective-products-sold-on-its-marketplace/",
+          "publishedOn": "2021-08-12T10:10:02.000Z",
+          "wordCount": 351,
+          "title": "アマゾンがマーケットプレイスで販売された欠陥製品にも自社で補償を行うと発表 | TechCrunch Japan"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/12/news143.html",
+          "author": null,
+          "description": "富士通製のプロジェクト情報共有ツール「ProjectWEB」を導入していた官公庁などから情報が流出していた問題で、富士通は8月11日、計129組織から情報が流出していたとする調査結果を発表した。第三者が同ツールの脆弱性を突き、正規のID・パスワードを不正に取得し、ログインしていたという。 5月に判明した不正アクセス...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/12/news143.html",
+          "publishedOn": "2021-08-12T10:04:50.000Z",
+          "wordCount": 136,
+          "title": "富士通製ツール「ProjectWEB」への不正アクセス調査、129組織での情報流出が判明　「正規のIDとパスワードでログインされた」 - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/12/news145.html",
+          "author": null,
+          "description": "法人向け料金は従量制で、計算に使用するCPUの性能と利用時間で変動する。最も安い2コアのCPUを使う場合は1時間で0.18ドル（約20円）。使用したデータの容量1GB当たり0.07ドル（約7円）も月額で別途請求する。 Visual Studio Codeは米Microsoftが手掛けるソースコードエディタ。Microsoftは2018年にGitHubを買収した。 ...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/12/news145.html",
+          "publishedOn": "2021-08-12T10:03:58.000Z",
+          "wordCount": 159,
+          "title": "「便利すぎる」──GitHubから直接「Visual Studio Code」を起動できる新機能が話題に - ITmedia NEWS"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1343608.html",
+          "author": null,
+          "description": "イオンリテールは、MVNOサービス「イオンモバイル」に関して12日、今秋以降に開始する新料金、新サービス発表会をオンラインで実施した。「音声SIMの一律220円値下げ」「音声通話料金一律30秒11円」「かけ放題プランの新設」「端末販売方法」などについて、同社住居余暇本部イオンモバイルユニット イオンモバイル商品マネージャーの井原 龍二氏が説明した。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1343608.html",
+          "publishedOn": "2021-08-12T09:25:17.000Z",
+          "wordCount": 127,
+          "title": "「キャリア端末をMVNOで」イオンモバイルの今秋以降の新料金／サービスを発表 - ケータイ Watch"
+        },
+        {
+          "id": "https://blog.shibayu36.org/entry/2021/08/12/173000",
+          "author": null,
+          "description": "最近プロジェクトマネジャーを担当していた仕事で、開発チーム内の相談しやすさ向上・知見展開・透明性向上・WIPタスク数減少を狙ってペア制度というのを導入した。今回は導入した背景、導入した仕組み、そしてその振り返りについてブログに書いておきたい。 導入した背景 ちょっとした相談のしづらさ 知見展開のしづら...",
+          "link": "https://blog.shibayu36.org/entry/2021/08/12/173000",
+          "publishedOn": "2021-08-12T08:48:37.000Z",
+          "wordCount": 198,
+          "title": "ペア制度を導入して、開発チーム内の相談しやすさ向上・知見展開・透明性向上を狙う - $shibayu36->blog;"
+        },
+        {
+          "id": "https://www.nic.ad.jp/ja/materials/iw/2017/proceedings/s15/s15-shimizu.pdf",
+          "author": null,
+          "description": "モンスターストライクの信頼性 を⽀えるSREの組織化について 株式会社ミクシィ XFLAG スタジオ ゲーム開発室 SREグループ 清⽔ 勲 Internet Week 2017 S15 ⾼信頼性運⽤を実現するSREという新潮流 2 ⾃⼰紹介 清⽔ 勲 / Isao SHIMIZU @isaoshimizu 株式会社ミクシィ XFLAG 事業本部 ゲーム開発室 SREグループ 所属 経歴 ...",
+          "link": "https://www.nic.ad.jp/ja/materials/iw/2017/proceedings/s15/s15-shimizu.pdf",
+          "publishedOn": "2021-08-12T06:40:14.000Z",
+          "wordCount": 64125,
+          "title": "モンスターストライクの信頼性を支えるSREの組織化について"
+        },
+        {
+          "id": "https://gigazine.net/news/20210812-british-library-million-newspaper-free/",
+          "author": null,
+          "description": "大英図書館が所蔵する新聞を電子化するプロジェクトのBritish Newspaper Archive(BNA)が2021年8月9日に、電子化済みのアーカイブの一部を無料公開することを発表しました。今回無料公開の対象になるのは1880年までに刊行された100万ページで、今後4年間で毎年100万ページずつ、合計で500万ページが無料で閲覧可能になる...",
+          "link": "https://gigazine.net/news/20210812-british-library-million-newspaper-free/",
+          "publishedOn": "2021-08-12T06:22:50.000Z",
+          "wordCount": 193,
+          "title": "無料で500万ページの新聞記事を大英図書館がネット上で公開すると発表 - GIGAZINE"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/baf9345734748bc84ef4ae63fcadf05d670bab8c",
+          "author": null,
+          "description": "アメリカのIT大手「グーグル」が、在宅勤務を続ける従業員に対して住む場所に応じて給与を最大で25％削減する方針であることが分かりました。 ロイター通信が10日に報じたグーグルの給与計算表によりますと、今後もオフィスに出勤せず在宅勤務の継続を選択した従業員を対象に給与を削減する方針だということです。 在宅...",
+          "link": "https://news.yahoo.co.jp/articles/baf9345734748bc84ef4ae63fcadf05d670bab8c",
+          "publishedOn": "2021-08-12T04:31:44.000Z",
+          "wordCount": 77,
+          "title": "グーグル　在宅勤務続ける職員の給与最大25％削減へ（テレビ朝日系（ANN）） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://gigazine.net/news/20210812-amazon-nsa-contract-wildandstormy/",
+          "author": null,
+          "description": "2021年8月10日、アメリカ国家安全保障局(NSA)がAmazonと100億ドル(約1兆1000億円)のクラウド契約「WildandStormy」を締結したと報じられました。この契約はNSAを統括するアメリカ国防総省がMicrosoftとの同規模の契約をキャンセルした直後のものであり、Microsoftは選択プロセスをめぐって政府監査院に抗議しています。 ...",
+          "link": "https://gigazine.net/news/20210812-amazon-nsa-contract-wildandstormy/",
+          "publishedOn": "2021-08-12T03:40:03.000Z",
+          "wordCount": 196,
+          "title": "AmazonがNSAと1兆円規模のクラウド契約を締結、Microsoftは抗議 - GIGAZINE"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1343528.html",
+          "author": null,
+          "description": "アンチウイルスなどのセキュリティソフトを提供するNortonLifeLockおよびAvastは10日(現地時間)、事業統合を発表した。統合はAvastが発行する通常株式をNortonが買い取る形で行なわれ、Avastの株主は1株あたり7.61ドルの現金、およびNortonが発行する0.0302株の所有権を得ることができる。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1343528.html",
+          "publishedOn": "2021-08-12T03:30:43.000Z",
+          "wordCount": 102,
+          "title": "アンチウイルスのAvastとNortonが合併 - PC Watch"
+        },
+        {
+          "id": "http://blog.father.gedow.net/2021/08/12/sre-four-elements/",
+          "author": null,
+          "description": "元々なんでも屋ってたけど、我が部署名もSREになったし、インフラエンジニアって書くと『IT』警察が寄ってくるからSREでいきましょう。短いのはイィ。 SREがやることは書籍『O’Reilly Japan – サイトリライアビリティワークブック』がほぼ語っていますが、もうちょっと噛み砕いて自分的にはこの四大行を軸に活動すれば、...",
+          "link": "http://blog.father.gedow.net/2021/08/12/sre-four-elements/",
+          "publishedOn": "2021-08-12T03:24:03.000Z",
+          "wordCount": 275,
+          "title": "SRE四大行 | 外道父の匠"
+        },
+        {
+          "id": "https://www.sakura.ad.jp/information/announcements/2021/08/12/1968207782/",
+          "author": null,
+          "description": "さくらインターネット株式会社は、PaaS型クラウドサービス「Hacobune（はこぶね）」のβ版を、2021年8月12日よりLabプロダクト※1として無料で提供開始します。 また8月27日にこのたびの提供開始を記念して、オンライン発表会を開催いたします。 Hacobuneは、当社が「インフラを意識しない世界を実現する」をビジョンに開...",
+          "link": "https://www.sakura.ad.jp/information/announcements/2021/08/12/1968207782/",
+          "publishedOn": "2021-08-12T02:50:20.000Z",
+          "wordCount": 253,
+          "title": "インフラを意識せずにSaaS開発ができる 次世代PaaS「Hacobune」のオープンβ版を2021年8月12日に無料提供開始 ～8月27日にオンライン発表会を開催～ | さくらインターネット"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-389478/",
+          "author": null,
+          "description": "ヤマダ電機がオンラインストア「ヤマダウェブコム」で、Apple製品をApple Payで購入すると最大10％のポイントを還元する「ヤマダウェブコム × Apple Pay キャンペーン」を実施しています。iPadやApple Watchが最大11,000円割引となるセールと併用可能です。 すべてのApple製品・サービスで10％還元 「ヤマダウェブコム ×...",
+          "link": "https://iphone-mania.jp/news-389478/",
+          "publishedOn": "2021-08-12T02:43:39.000Z",
+          "wordCount": 245,
+          "title": "ヤマダウェブコム、Apple製品をApple Payで買うと10％還元中 - iPhone Mania"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/column/chizu3/1343270.html",
+          "author": null,
+          "description": "地理空間情報を扱うスタートアップ企業の株式会社Geoloniaは8月5日、これまでベータ版として提供していた地図作成サービス「Geolonia Maps」をアップデートし、正式サービスとして提供開始した。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/1343270.html",
+          "publishedOn": "2021-08-12T02:21:39.000Z",
+          "wordCount": 112,
+          "title": "地図表示が1000回／月までは無料、低コストで自由度の高い地図サービス「Geolonia Maps」正式提供開始【地図と位置情報】 - INTERNET Watch"
+        },
+        {
+          "id": "https://lealog.hateblo.jp/entry/2021/08/12/103111",
+          "author": null,
+          "description": "Your shopping website is not an SPA. I repeat: your shopping website is not an SPA. Stop trying to sculpt David with a JS chainsaw and get yourself an HTML/CSS chisel.— Alex Russell (@slightlylate) 2021年8月10日 この主張、界隈（少なくとも自分の観測範囲）では割とよく見かけるし、なんか定期的に話題...",
+          "link": "https://lealog.hateblo.jp/entry/2021/08/12/103111",
+          "publishedOn": "2021-08-12T01:55:39.000Z",
+          "wordCount": 432,
+          "title": "なんでもSPAにするんじゃねぇ！という主張のその先 - console.lealog();"
+        },
+        {
+          "id": "https://web.dev/accent-color/",
+          "author": null,
+          "description": "Today's HTML form elements are difficult to customize. It feels as if it's a choice between few or no custom styles, or resetting input styles and build it up from scratch. Building it up from scratch ends up being much more work than anticipated. It can also lead to forgotten styles for element ...",
+          "link": "https://web.dev/accent-color/",
+          "publishedOn": "2021-08-12T01:13:55.000Z",
+          "wordCount": 518,
+          "title": "CSS accent-color"
+        },
+        {
+          "id": "https://togetter.com/li/1758424",
+          "author": null,
+          "description": "たろ丸 @tenche1204 某大企業が十分な報酬水準を用意して実際に応募も多いのに良い技術者が採用できないと嘆いていたので具体的な採用プロセスを伺うと一次面接が人事担当で超優秀な人材をコミュ力が低いという理由で落としまくっているのが理由でした。しかも人事部視点で低いだけで大半は普通に話せる人たちでした。 2...",
+          "link": "https://togetter.com/li/1758424",
+          "publishedOn": "2021-08-12T00:31:46.000Z",
+          "wordCount": 1363,
+          "title": "某大企業『良い技術者が採用できない』 → 人事担当が超優秀な人材をコミュ力が低いという理由で落としまくってた - Togetter"
+        },
         {
           "id": "https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html",
           "author": null,
@@ -138,6 +349,15 @@
           "title": "ECSを運用で使っていて難しいと思った点 - アジャイルSEの憂鬱"
         },
         {
+          "id": "https://xtech.nikkei.com/atcl/nxt/news/18/10984/",
+          "author": null,
+          "description": "厚生労働省が開発・運用している「新型コロナウイルス感染者等情報把握・管理支援システム（HER-SYS）」で2021年8月11日午後3時すぎから障害が発生した。新型コロナ感染者のデータ入力などの業務ができない状態に陥ったという。 厚労省の担当者によると、HER-SYSの開発・運用で採用している米Microsoft（マイクロソフト...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/news/18/10984/",
+          "publishedOn": "2021-08-11T14:10:56.000Z",
+          "wordCount": 361,
+          "title": "厚労省の新型コロナ感染者管理システム「HER-SYS」に障害、データ入力できず | 日経クロステック（xTECH）"
+        },
+        {
           "id": "https://zenn.dev/katsumanarisawa/articles/58103deb4f12b4",
           "author": null,
           "description": "TypeScriptのProject Referencesを使ってソースコードを分割し、レイヤー間の依存関係を強制する サマリ Project Referencesを使うと、1つの巨大なtypescriptプロジェクトを、複数のプロジェクトに分割し、プロジェクト間の依存関係を整理することができる。これにより、例えば以下のようなことができる test/ ディレク...",
@@ -192,6 +412,15 @@
           "title": "富士通「ProjectWEB」は脆弱性を悪用され情報流出か、被害企業・機関は計129に | 日経クロステック（xTECH）"
         },
         {
+          "id": "https://smbiz.asahi.com/article/14409694",
+          "author": null,
+          "description": "作業効率を上げるために、マニュアルは欠かせないツールです。特にテレワークが増えたことで、企業内のさまざまな作業の見直しが進み、これまで以上にマニュアルが重要だと位置づけられるようになりました。ここではエクセルを使ったマニュアル作成の方法や注意点について説明します。 テレワークで高まるマニュアル化の...",
+          "link": "https://smbiz.asahi.com/article/14409694",
+          "publishedOn": "2021-08-11T08:15:58.000Z",
+          "wordCount": 352,
+          "title": "エクセルでマニュアルを作成　基本作業の図解と便利なツール紹介 | ツギノジダイ"
+        },
+        {
           "id": "https://pr.fujitsu.com/jp/news/2021/08/11.html",
           "author": null,
           "description": "DX実現に向けたオファリング お客様のDXを加速 様々な業種・業態のお客様との取り組みのなかで得たノウハウに基づき、お客様のデジタルトランスフォーメーションをご支援します。 もっと詳しく 関連情報ものづくり保守・保全モビリティロジスティクス食・農業都市インフラ暮らし デジタルマーケティング 個々のニーズに...",
@@ -217,6 +446,15 @@
           "publishedOn": "2021-08-11T07:10:12.000Z",
           "wordCount": 346,
           "title": "「帯域幅」を計算する簡単な方法は？　ユーザー数の上限を把握する方法も：ネットワーク帯域幅の求め方【後編】 - TechTargetジャパン ネットワーク"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/headless-cms-with-s3-website-hosting/",
+          "author": null,
+          "description": "ヘッドレスCMS + S3 静的ウェブページで記事投稿システムをサクッと実装してみた（microCMS + Amazon S3） はじめに みんなが大好きな Amazon S3 の「静的ウェブサイトホスティング」。 サーバー不要でお手軽にウェブページを公開できる便利な機能ですが、HTMLを触らずにちょっとしたお知らせなどを更新できるようにした...",
+          "link": "https://dev.classmethod.jp/articles/headless-cms-with-s3-website-hosting/",
+          "publishedOn": "2021-08-11T06:22:47.000Z",
+          "wordCount": 529,
+          "title": "ヘッドレスCMS + S3 静的ウェブページで記事投稿システムをサクッと実装してみた（microCMS + Amazon S3） | DevelopersIO"
         },
         {
           "id": "https://atmarkit.itmedia.co.jp/fnetwork/index_index.html",
@@ -1855,6 +2093,15 @@
           "publishedOn": "2021-08-04T09:38:37.000Z",
           "wordCount": 323,
           "title": "カルマンフィルターが自動運転の自己位置推定で使われるまで - Tier IV Tech Blog"
+        },
+        {
+          "id": "https://docs.github.com/en/actions/learn-github-actions/security-hardening-for-github-actions",
+          "author": null,
+          "description": "GitHub Actions is available with GitHub Free, GitHub Pro, GitHub Free for organizations, GitHub Team, GitHub Enterprise Cloud, GitHub Enterprise Server, and GitHub AE. GitHub Actions is not available for private repositories owned by accounts using legacy per-repository plans. For more informatio...",
+          "link": "https://docs.github.com/en/actions/learn-github-actions/security-hardening-for-github-actions",
+          "publishedOn": "2021-08-04T08:23:33.000Z",
+          "wordCount": 5012,
+          "title": "Security hardening for GitHub Actions - GitHub Docs"
         },
         {
           "id": "https://developers.cyberagent.co.jp/blog/archives/31081/",
@@ -6904,15 +7151,6 @@
           "publishedOn": "2021-07-15T01:25:32.000Z",
           "wordCount": 208,
           "title": "問い合わせ管理システムとは？メールや電話、SNSの問い合わせを一元管理 | EC・ネット通販を中心とした物販ビジネス専門メディア 「コマースピック」"
-        },
-        {
-          "id": "https://qiita.com/para-yama/items/800cdb1092bf4312c30a",
-          "author": null,
-          "description": "こんにちは、最近になってつみたてNISAを始めた今年2年目の社会人です。つみたてNISAは運用益が非課税、半自動的に積立運用可能、途中で取り崩し可能と様々なメリットがあり、非常に有益な制度です。そんなつみたてNISAを活用する上でよく耳にするのは「信託報酬が安くてパフォーマンスの高い米国インデックスファンド一...",
-          "link": "https://qiita.com/para-yama/items/800cdb1092bf4312c30a",
-          "publishedOn": "2021-07-13T15:01:46.000Z",
-          "wordCount": 672,
-          "title": "「つみたてNISAは米国インデックスファンド放置で良い」は本当か？ - Qiita"
         }
       ]
     },
@@ -6962,15 +7200,6 @@
           "publishedOn": "2021-07-18T22:45:32.000Z",
           "wordCount": 119,
           "title": "プロトタイピングで陥りがちな６つの落とし穴"
-        },
-        {
-          "id": "https://uxmilk.jp/?p=83422",
-          "author": "UX MILK編集部",
-          "description": "メールマーケティング絶頂期だった2005年には、ほとんどの人がお気に入りの出版社やブランドからのメールを楽しんでいました。しかし、数か月以上受信していると、受信フォルダからあふれたメールを削除しなければなりませんでした。",
-          "link": "https://uxmilk.jp/83422",
-          "publishedOn": "2021-07-13T22:45:13.000Z",
-          "wordCount": 177,
-          "title": "ダークパターンUX：マニピュリンクとコンファームシェイミング"
         }
       ]
     },
@@ -6995,6 +7224,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=346608",
+          "author": "Robin Rendle",
+          "description": "A few days ago, Chris wrote up his thoughts about how alert(), confirm(), and prompt() were being deprecated by Chrome and collected a bunch of thoughts from developers. If certain features can essentially be turned off by …\nThe post Stay alert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://dev.to/richharris/stay-alert-d",
+          "publishedOn": "2021-08-12T21:10:22.000Z",
+          "wordCount": 7934,
+          "title": "Stay alert"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345687",
+          "author": "John Rhea",
+          "description": "Now that we’ve seen that web components and interactive web components are both easier than you think, let’s take a look at adding them to a content management system, namely WordPress.\nThere are three major ways we can add them. …\nThe post Using Web Components in WordPress is Easier Than You Think appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-web-components-in-wordpress-is-easier-than-you-think/",
+          "publishedOn": "2021-08-12T14:38:36.000Z",
+          "wordCount": 3452,
+          "title": "Using Web Components in WordPress is Easier Than You Think"
+        },
         {
           "id": "https://css-tricks.com/?p=346388",
           "author": "Chris Coyier",
@@ -7498,33 +7745,6 @@
           "publishedOn": "2021-07-14T14:25:08.000Z",
           "wordCount": 2673,
           "title": "A Bashful Button Worth $8 Million"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344316",
-          "author": "Chris Coyier",
-          "description": "As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …\nThe post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-react-and-javascript/",
-          "publishedOn": "2021-07-13T19:57:10.000Z",
-          "wordCount": 1003,
-          "title": "Links on React and JavaScript"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343850",
-          "author": "Manuel Matuzovic",
-          "description": "Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…\nThe post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/meta-theme-color-and-trickery/",
-          "publishedOn": "2021-07-13T14:58:33.000Z",
-          "wordCount": 2735,
-          "title": "Meta Theme Color and Trickery"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344542",
-          "author": "Geoff Graham",
-          "description": "(This is a sponsored post.)\nThe folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …\nThe post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.surveymonkey.com/r/jamstack-survey-css-tricks",
-          "publishedOn": "2021-07-13T14:34:48.000Z",
-          "wordCount": 142,
-          "title": "Jamstack Community Survey 2021"
         }
       ]
     },
@@ -7595,6 +7815,15 @@
       "siteUrl": "https://gihyo.jp/design",
       "articles": [
         {
+          "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202108/12",
+          "author": "アシカガコウジ",
+          "description": "ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年8月2日～8日の間に見つけた記事のベスト5です。",
+          "link": "https://gihyo.jp/design/clip/01/weekly-web-tech/202108/12",
+          "publishedOn": "2021-08-12T00:15:00.000Z",
+          "wordCount": 487,
+          "title": "2021年8月第2週号 1位は，Font AwesomeがデザインツールをFigmaに変えた理由，気になるネタは，Google Nestの新製品，ネットワークカメラとカメラ付きドアホンが2万円台で発売 ── 週刊Webテク通信"
+        },
+        {
           "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202108/05",
           "author": "アシカガコウジ",
           "description": "ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年7月26日～8月1日の間に見つけた記事のベスト5です。",
@@ -7628,6 +7857,51 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/cathysmith/why-angularjs-is-more-suitable-for-your-startup-4e2n",
+          "author": "Cathy Smith",
+          "description": "Why AngularJS is More Suitable for Your Startup? \nThere are several technological solutions accessible to you for your startup. Finding the finest, most popular, most trustworthy, and most acceptable technology for startup projects is a difficult and complex task. Many factors influence your selection, including where to hire developers, availability of developers, the soft and technical capabilities of developers, and so on. \nAngularJS is the finest solution for your new firm to tackle any challenge. You can readily discover talented AngularJS developers, and you can hire an AngularJS developer with additional services and sophisticated features from an AngularJS development firm.\nLet's start with an introduction to AngularJS.\nOverview of AngularJS:\nBecause it delivers a huge market, grea…",
+          "link": "https://dev.to/cathysmith/why-angularjs-is-more-suitable-for-your-startup-4e2n",
+          "publishedOn": "2021-08-12T15:53:22.000Z",
+          "wordCount": 1133,
+          "title": "Why AngularJS is More Suitable for Your Startup?"
+        },
+        {
+          "id": "https://dev.to/agiratechologies/how-does-angular-js-bring-success-to-your-organization-4i7c",
+          "author": "Cathy Smith",
+          "description": "How does Angular JS Bring Success To Your Business?  \nBuilding an online presence through a mobile-responsive website has become a gateway for firms looking to enter any market.\nDeveloping a responsive website isn't rocket science. However, if critical aspects are ignored, it will cause severe business problems.\nThere are many things that you need to consider when building your website. Such aspects are quick web app development, website maintenance, secured access, website speed, and much more.\nBusinesses must go through the various technologies, tools, frameworks, programming languages, and APIs to determine which is the best fit for their company website.\nangular 9 latest release\nAngularJS is one of the technologies that should be investigated and utilized for commercial purposes. It ha…",
+          "link": "https://dev.to/agiratechologies/how-does-angular-js-bring-success-to-your-organization-4i7c",
+          "publishedOn": "2021-08-12T14:58:53.000Z",
+          "wordCount": 1465,
+          "title": "How does Angular JS Bring Success To Your Organization?"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/passing-a-custom-angular-property-to-child-components-2966",
+          "author": "Lorenzo Zarantonello",
+          "description": "While there are several ways to make properties available throughout your Angular app, I found this 3-step process pretty easy to follow and remember.\nFor the sake of simplicity, we call the parent component Parent and the child component Child. If you prefer a more practical approach, check out this practical example to get a better understanding. \nHere are the three steps to pass a property to a child component:\n1. Prepare Child.ts for external Input\n\n\nPrepare the child component class (Child.ts) to receive external inputs. \nExternal refers to data that is not available inside the component itself (In this case, Child). \nInput refers to the property that the parent component (Parent) passes to the child component.\n\n\n\n\n// Child.ts\n\nexport class Child implements OnInit {\n  @Input() expecte…",
+          "link": "https://dev.to/this-is-angular/passing-a-custom-angular-property-to-child-components-2966",
+          "publishedOn": "2021-08-12T14:12:23.000Z",
+          "wordCount": 779,
+          "title": "Passing a custom Angular property to child components"
+        },
+        {
+          "id": "https://dev.to/es404020/lazy-loading-angular-429g",
+          "author": "es404020",
+          "description": "Lazy loading is the best way to separate component into different modules. For large application lazy loading help structure routes for easy readability and fast page  load.\n1.Create Modules for route you intent to lazy load\nng g m @module/main --routing\n\n2.Add components to the new module created\nng g c components/home --m @module/main\n\nThis automatically adds home to the main module\n3.Setting up route in main module\nconst routes: Routes = [\n  {\n    path: '',\n    component: HomeComponent\n  }\n];\n\n\n4.Finally lazy load Main Route in your application route or (App Route)\nconst routes: Routes = [\n  {\n    path: '',\n    loadChildren: () => import('./main/main.module').then(m => m.MainModule)\n  }\n];\n\n\nThanks for reading",
+          "link": "https://dev.to/es404020/lazy-loading-angular-429g",
+          "publishedOn": "2021-08-12T07:39:05.000Z",
+          "wordCount": 466,
+          "title": "Lazy loading Angular"
+        },
+        {
+          "id": "https://dev.to/primetek/primeng-12-1-0-rc-1-is-ready-308j",
+          "author": "PrimeTek",
+          "description": "PrimeNG 12.1.0 is a major version that brings new components, internal enhancements, new DataTable scrolling along with maintenance improvements. First release candidate is out now and we'd appreciate if you could take it for a test run to provide feedback before the final. \n \nPrimeNG 12.1.0 introduces new DataTable scrolling implementation that eliminates the use of multiple tables by using css sticky. New implementation greatly simplifies the codebase by removing significant amount of code related to scrolling and also provides new features like freezing columns on the right and sticky row groups. TreeSelect TreeSelect is a new form component to choose from hierarchical data.  \nSpeedDial is another new addition to the suite. It is mainly a floating button with menu items displayed around…",
+          "link": "https://dev.to/primetek/primeng-12-1-0-rc-1-is-ready-308j",
+          "publishedOn": "2021-08-12T07:08:25.000Z",
+          "wordCount": 811,
+          "title": "PrimeNG 12.1.0-rc.1 is Ready"
+        },
         {
           "id": "https://dev.to/kamanatripathi/vote-in-chat-based-application-in-ionic-4-3l2",
           "author": "Kamana",
@@ -8617,6 +8891,15 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/es404020/lazy-loading-angular-429g",
+          "author": "es404020",
+          "description": "Lazy loading is the best way to separate component into different modules. For large application lazy loading help structure routes for easy readability and fast page  load.\n1.Create Modules for route you intent to lazy load\nng g m @module/main --routing\n\n2.Add components to the new module created\nng g c components/home --m @module/main\n\nThis automatically adds home to the main module\n3.Setting up route in main module\nconst routes: Routes = [\n  {\n    path: '',\n    component: HomeComponent\n  }\n];\n\n\n4.Finally lazy load Main Route in your application route or (App Route)\nconst routes: Routes = [\n  {\n    path: '',\n    loadChildren: () => import('./main/main.module').then(m => m.MainModule)\n  }\n];\n\n\nThanks for reading",
+          "link": "https://dev.to/es404020/lazy-loading-angular-429g",
+          "publishedOn": "2021-08-12T07:39:05.000Z",
+          "wordCount": 466,
+          "title": "Lazy loading Angular"
+        },
+        {
           "id": "https://dev.to/ippatev/rxjs-reduce-vs-scan-1n5b",
           "author": "Aleksandr Ippatev",
           "description": "Reduce operator - reduces the values from source observable to a single value that's emitted when the source completes\n// RxJS v6+\nimport { of } from 'rxjs';\nimport { reduce } from 'rxjs/operators';\n\nconst source = of(1, 2, 3, 4);\nconst example = source.pipe(reduce((acc, val) => acc + val));\n//output: Sum: 10\nconst subscribe = example.subscribe(val => console.log('Sum:', val));\n\nScan operator - reduce over time!\n// RxJS v6+\nimport { of } from 'rxjs';\nimport { scan } from 'rxjs/operators';\n\nconst source = of(1, 2, 3);\n// basic scan example, sum over time starting with zero\nconst example = source.pipe(scan((acc, curr) => acc + curr, 0));\n// log accumulated values\n// output: 1,3,6\nconst subscribe = example.subscribe(val => console.log(val));",
@@ -8713,6 +8996,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=31125",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/kindle-sale-20210812.html",
+          "publishedOn": "2021-08-12T00:26:00.000Z",
+          "wordCount": 332,
+          "title": "本日限り、デザインの良書がKindleセールで70％オフのワンコイン！デザインの原則を自分のデザインで使えるようになる実践的な解説書"
+        },
         {
           "id": "https://coliss.com/?p=30821",
           "author": "コリス🥦",
@@ -8874,15 +9166,6 @@
           "publishedOn": "2021-07-15T00:36:41.000Z",
           "wordCount": 457,
           "title": "Web制作に役立つ！面倒なCSSのコードを簡単に生成できる便利ツールをまとめました"
-        },
-        {
-          "id": "https://coliss.com/?p=30360",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/freebies/royalty-free-vector-illustrations-scale.html",
-          "publishedOn": "2021-07-14T00:36:55.000Z",
-          "wordCount": 328,
-          "title": "ビジネスやオンラインショップに使えるおしゃれなイラスト素材！商用プロジェクトでも完全に無料 - Scale"
         }
       ]
     },
@@ -8891,6 +9174,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/7b14c27a168e",
+          "author": "Zachary Minott",
+          "description": "And how to survive the test of time\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/why-most-software-developers-burnout-7b14c27a168e?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-12T17:39:38.000Z",
+          "wordCount": 1458,
+          "title": "Why Most Software Developers Burnout"
+        },
+        {
+          "id": "https://medium.com/p/1cc0e35abe2a",
+          "author": "Entreprogrammer",
+          "description": "How long should you stick to it?\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/what-should-you-do-when-you-are-stuck-on-a-programming-problem-1cc0e35abe2a?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-12T16:22:53.000Z",
+          "wordCount": 1295,
+          "title": "What Should You Do When You Are Stuck on a Programming Problem?"
+        },
+        {
+          "id": "https://medium.com/p/8e24aff27e93",
+          "author": "Oliver Spryn",
+          "description": "This battle-tested approach is simpler than you think\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-design-complex-android-app-start-ups-using-rxjava-8e24aff27e93?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-12T16:21:33.000Z",
+          "wordCount": 2364,
+          "title": "How to Design Complex Android App Start-Ups Using RxJava"
+        },
+        {
+          "id": "https://medium.com/p/7e76b4a2d4ba",
+          "author": "Marc H. Weiner",
+          "description": "Sometimes being logical is more important than being right\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/what-i-learned-as-a-developer-while-working-for-the-inventor-of-ibms-watson-7e76b4a2d4ba?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-12T16:19:16.000Z",
+          "wordCount": 2782,
+          "title": "What I Learned as a Developer While Working for the Inventor of IBM’s Watson"
+        },
+        {
+          "id": "https://medium.com/p/e6ed14658d17",
+          "author": "Alessio Di Salvo",
+          "description": "Some errors that we should try to avoid\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-deal-with-continuous-changes-at-work-e6ed14658d17?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-12T16:02:53.000Z",
+          "wordCount": 1994,
+          "title": "How To Deal With Continuous Changes At Work"
+        },
+        {
+          "id": "https://medium.com/p/5b4a4b9f744d",
+          "author": "Marija Naumovska",
+          "description": "#3 — Separate build and deploy process (CI and CD)\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/3-steps-you-need-to-know-for-a-successful-gitops-implementation-5b4a4b9f744d?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-12T15:23:54.000Z",
+          "wordCount": 1262,
+          "title": "3 Steps You Need To Know for a Successful GitOps Implementation"
+        },
+        {
+          "id": "https://medium.com/p/7e81877fd970",
+          "author": "Samrat Dutta",
+          "description": "Train a model with your dataset to detect plagiarisms in texts\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/build-your-own-plagiarism-checker-with-python-and-machine-learning-7e81877fd970?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-12T15:18:55.000Z",
+          "wordCount": 845,
+          "title": "Build Your Own Plagiarism Checker With Python and Machine Learning"
+        },
+        {
+          "id": "https://medium.com/p/e849ab4179e0",
+          "author": "Mika Yeap",
+          "description": "3. Build as quickly as possible\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/the-worst-programming-advice-ive-ever-heard-e849ab4179e0?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-12T15:09:16.000Z",
+          "wordCount": 1414,
+          "title": "The 3 Worst Pieces of Programming Advice I’ve Ever Heard"
+        },
+        {
+          "id": "https://medium.com/p/691b0b39f610",
+          "author": "Alexandre Couëdelo",
+          "description": "Build better command-line tools\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-tips-to-customise-python-command-line-interfaces-691b0b39f610?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-12T14:42:37.000Z",
+          "wordCount": 1708,
+          "title": "5 Tips to Customise Python Command-Line Interfaces"
+        },
+        {
+          "id": "https://medium.com/p/79506abc07c9",
+          "author": "Bharat Sharma",
+          "description": "Learn how to store data locally and manage nested data models in Flutter\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-handle-data-locally-in-flutter-79506abc07c9?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-12T13:30:36.000Z",
+          "wordCount": 999,
+          "title": "How to Handle Data Locally in Flutter"
+        },
         {
           "id": "https://medium.com/p/d9e029efa755",
           "author": "Bruno Rocha",
