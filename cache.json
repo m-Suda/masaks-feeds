@@ -61,6 +61,231 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://togetter.com/li/1759098",
+          "author": null,
+          "description": "ししかわ/Shinya Ishikawa @meganetaaan さらにサッケード（眼球の不随意運動）を追加だいぶリアルな動きにできた気がする。 あとは邪魔されてもターゲットの方向を向こうとします。健気でかわいい。 #ｽﾀｯｸﾁｬﾝ #stackchan #M5Stack pic.twitter.com/n9lLcspvDn 2021-07-17 00:42:23",
+          "link": "https://togetter.com/li/1759098",
+          "publishedOn": "2021-08-13T14:24:58.000Z",
+          "wordCount": 453,
+          "title": "手乗りロボット「ｽﾀｯｸﾁｬﾝ」を作ってみた - Togetter"
+        },
+        {
+          "id": "https://kondoyuko.com/entry/2021/08/13/223831",
+          "author": null,
+          "description": "こんにちは、近藤佑子（@kondoyuko）です。 渋谷のIT企業4社が主催するカンファレンス「BIT VALLEY 2021」において、「私たちがエンジニアになるまで」というセッションでモデレーターを担当しました。 このセッションの企画のもとになった「1人の女性がエンジニアになるまで」という記事は、自分はこれまでどのように生...",
+          "link": "https://kondoyuko.com/entry/2021/08/13/223831",
+          "publishedOn": "2021-08-13T13:48:09.000Z",
+          "wordCount": 274,
+          "title": "私がエンジニア向け編集者になるまで - 踊る編集室"
+        },
+        {
+          "id": "http://turntokyo.com/features/henry-kawahara/",
+          "author": null,
+          "description": "【はじめに】 昭和天皇崩御のちょうど1年前、日本の書店の局所で、『ホロフォニクス・ライブ』と題されたまがまがしい装丁のカセットブックがとぶように売れていた。そのカセットの中味は外装から連想できそうもない日常に付帯する音が収録され、定価は当時のミュージックテープの倍近い4800円。てっとり早くいえば、生...",
+          "link": "http://turntokyo.com/features/henry-kawahara/",
+          "publishedOn": "2021-08-13T10:39:57.000Z",
+          "wordCount": 502,
+          "title": "立体音響と90年代のイルカ ヘンリー川原論考（時代考証資料編） | TURN"
+        },
+        {
+          "id": "https://blog.shibayu36.org/entry/2021/08/13/190000",
+          "author": null,
+          "description": "2021年8月13日の本日が最終出社日でした。しばらく休暇を取り、10月から別の会社でエンジニアをする予定です。 はてなには2010年4月にアルバイトとして入社し、2012年4月からは社員として入社したので、アルバイト2年、社員9年4ヶ月と非常に長い間所属した。仕事の中で、周囲の人の優秀さに圧倒されながら学習とアウトプ...",
+          "link": "https://blog.shibayu36.org/entry/2021/08/13/190000",
+          "publishedOn": "2021-08-13T10:02:11.000Z",
+          "wordCount": 126,
+          "title": "株式会社はてなを退職しました - $shibayu36->blog;"
+        },
+        {
+          "id": "https://kazeburo.hatenablog.com/entry/2021/08/13/180414",
+          "author": null,
+          "description": "昨日オープンベータが開始されたさくらインターネットの新しいPaaS、DockerイメージやGitHubとの連携することで、インフラにとらわれることなく、アプリケーションのデプロイができるようになっています。データベースや永続ボリュームがすでにサポートされ、今後、WebサービスやSaaSの基盤として、またチームでの開発に...",
+          "link": "https://kazeburo.hatenablog.com/entry/2021/08/13/180414",
+          "publishedOn": "2021-08-13T09:18:21.000Z",
+          "wordCount": 291,
+          "title": "さくらインターネットの新PaaSの「Hacobune」で phpMyAdmin と WordPress を動かす - Hateburo: kazeburo hatenablog"
+        },
+        {
+          "id": "https://automaton-media.com/articles/newsjp/20210813-172274/",
+          "author": null,
+          "description": "SNS上などで特定人物に批判が殺到する際に、しばしば起こってしまうのが「人違い」だ。批難の対象とは無関係の同名の人物が“とばっちり”を受けるケースは多く、対策が必要になる場合もある。今回、ある国内ゲームクリエイターが「とばっちり対策」を迫られることになってしまったようだ。 すべての発端は、メンタリストD...",
+          "link": "https://automaton-media.com/articles/newsjp/20210813-172274/",
+          "publishedOn": "2021-08-13T08:53:12.000Z",
+          "wordCount": 442,
+          "title": "メンタリストDaiGo氏の騒動を受け、とあるゲーム開発者がとばっちりを受ける。新作ゲームに込めた想いに思わぬ影響 | AUTOMATON"
+        },
+        {
+          "id": "https://github.com/tandasat/SecurityCamp",
+          "author": null,
+          "description": "Launching GitHub Desktop If nothing happens, download GitHub Desktop and try again. Go back",
+          "link": "https://github.com/tandasat/SecurityCamp",
+          "publishedOn": "2021-08-13T08:48:16.000Z",
+          "wordCount": 414,
+          "title": "GitHub - tandasat/SecurityCamp: セキュリティキャンプ2021"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-389902/",
+          "author": null,
+          "description": "東京オリンピック、パラリンピックに出場するアスリートにSamsungが配布した限定モデル「Galaxy S21 5G Olympic Games Athlete Edition」の対応周波数帯が、国内で販売されているNTTドコモ版と同じであるため、海外では国・地域によって使えないようだ、と話題になっています。 出場選手に無償配布されたGalaxyの限定モ...",
+          "link": "https://iphone-mania.jp/news-389902/",
+          "publishedOn": "2021-08-13T08:37:21.000Z",
+          "wordCount": 322,
+          "title": "東京オリパラ出場選手に配布されたGalaxy限定モデル、海外では使用不可の国も？ - iPhone Mania"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1343734.html",
+          "author": null,
+          "description": "クラウドファンディングサイトのIndiegogoにて、3型の小型スマートフォン「Mint」が出資を募っている。製品入手に必要な最低出資額は、執筆時点で769香港ドル(日本円で約1万913円)。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1343734.html",
+          "publishedOn": "2021-08-13T08:01:42.000Z",
+          "wordCount": 98,
+          "title": "手のひらサイズの3型スマホ「Mint」がIndiegogoに登場。約1万1千円から - PC Watch"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-389715/",
+          "author": null,
+          "description": "中国聯合新聞網（UDN）が、IntelはTSMCの3nmプロセスの生産枠の大半を確保したと報じました。 TSMCの3nmプロセスで、4製品の生産を計画 UDNがサプライチェーンから得た情報によれば、IntelはTSMCの3nmプロセスで3種類のサーバー向けプロセッサと1種類のグラフィックチップを生産することを計画しているようです。 生産は...",
+          "link": "https://iphone-mania.jp/news-389715/",
+          "publishedOn": "2021-08-13T07:30:09.000Z",
+          "wordCount": 217,
+          "title": "IntelがTSMCの3nmの生産枠の大半を確保、Appleや他社製品の生産に影響か - iPhone Mania"
+        },
+        {
+          "id": "https://askgit.substack.com/p/which-go-modules-does-google-use",
+          "author": null,
+          "description": "The Google GitHub org has over 2k public repositories. At the time of writing, 200+ are Golang codebases (at least according to GitHub’s primary_language field), and 125 of those repos have a go.mod file. Can we compose a query that finds the most commonly declared dependencies in these 125 go pr...",
+          "link": "https://askgit.substack.com/p/which-go-modules-does-google-use",
+          "publishedOn": "2021-08-13T07:09:09.000Z",
+          "wordCount": 647,
+          "title": "Which Go Modules Does Google Use? - by Patrick DeVivo - AskGit Newsletter"
+        },
+        {
+          "id": "https://qiita.com/uikou/items/1feb83865f9d638807ad",
+          "author": null,
+          "description": "米国時間 8 月 11 日、ブラウザから利用可能な統合開発環境 GitHub Codespaces (以下 Codespaces) が GA しました。本記事は、情報のまとめとなります。随時引用元を記載していますので、詳細について気になる点などはドキュメントをご覧くださいませ。 注 : Team および Enterprise Cloud プランの場合、Organization O...",
+          "link": "https://qiita.com/uikou/items/1feb83865f9d638807ad",
+          "publishedOn": "2021-08-13T06:52:03.000Z",
+          "wordCount": 601,
+          "title": "GitHub Codespaces が GA しました（概要、課金など色々まとめ） - Qiita"
+        },
+        {
+          "id": "https://www.jpx.co.jp/corporate/news/news-releases/0010/20210813-01.html",
+          "author": null,
+          "description": "2021/08/13 JPX ITやデータ分析を活用した取引の学習環境の提供に係る実証実験プロジェクト —データ分析コンペティション表彰式の開催について— 2021年1月より取り組んでおります、ITやデータ分析を活用した取引の学習環境の提供に係る実証実験プロジェクト「J-Quants」（以下、「本実証実験」という。）（※）に関しまし...",
+          "link": "https://www.jpx.co.jp/corporate/news/news-releases/0010/20210813-01.html",
+          "publishedOn": "2021-08-13T06:34:38.000Z",
+          "wordCount": 228,
+          "title": "ITやデータ分析を活用した取引の学習環境の提供に係る実証実験プロジェクト —データ分析コンペティション表彰式の開催について— | 日本取引所グループ"
+        },
+        {
+          "id": "https://applech2.com/archives/20210813-5-guis-for-mac.html",
+          "author": null,
+          "description": "アプリをドラッグ＆ドロップするだけで、アプリに使用されているAppKitやSwiftUI、macOS Catalyst、UIKit、Electronフレームワークを特定してくれるMac用ユーティリティ「5 GUIs」を The post Macアプリに使用されているフレームワークをAppKit、SwiftUI、macOS Catalyst、UIKit、Electronの5つから特定してくれるユーテ...",
+          "link": "https://applech2.com/archives/20210813-5-guis-for-mac.html",
+          "publishedOn": "2021-08-13T06:24:55.000Z",
+          "wordCount": 250,
+          "title": "Macアプリに使用されているフレームワークをAppKit、SwiftUI、macOS Catalyst、UIKit、Electronの5つから特定してくれるユーティリティ「5 GUIs」を使ってみた。"
+        },
+        {
+          "id": "https://gigazine.net/news/20210813-humans-apes-hello-good-bye/",
+          "author": null,
+          "description": "by Mark Dumont 人間は他人と会話などのコミュニケーションを取る時、最初に「こんにちは」、別れ際に「さようなら」とあいさつをします。このあいさつは「他人と共通の目標に向かって協力してコミュニケーションを取るための合図」として「ジョイントコミットメント」と呼ばれ、人間特有の行動とされていました。しかし...",
+          "link": "https://gigazine.net/news/20210813-humans-apes-hello-good-bye/",
+          "publishedOn": "2021-08-13T06:09:22.000Z",
+          "wordCount": 193,
+          "title": "類人猿も「こんにちは」「さようなら」とコミュニケーションの開始・終了を合図することが判明 - GIGAZINE"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/1343694.html",
+          "author": null,
+          "description": "新型コロナの影響で、テレワークを余儀なくされている読者も多いだろう。かく言うINTERNET Watch編集部でもそれは同じ。それぞれの住環境の中で、テレワーク環境をより改善すべく日々工夫を凝らしている。そこでこの連載では、そんなスタッフが実際に使ってオススメできると思ったテレワークグッズのレビューをリレー形式で紹介していく。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/teleworkgoods/1343694.html",
+          "publishedOn": "2021-08-13T06:02:48.000Z",
+          "wordCount": 139,
+          "title": "車載冷蔵庫をテレワークで使ったら予想以上に快適だった【テレワークグッズレビュー 第8回】 - INTERNET Watch"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1343707.html",
+          "author": null,
+          "description": "深センGPDは12日、物理コントローラを備えたAndroidタブレット「XP」をFacebook公式アカウントで予告した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1343707.html",
+          "publishedOn": "2021-08-13T05:05:10.000Z",
+          "wordCount": 101,
+          "title": "GPD、コントローラ付きのゲーム向けAndroidタブレット「XP」 - PC Watch"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210813132225",
+          "author": null,
+          "description": "ホームレスや生活保護民には生きてる価値がないって言われて怒ってるけど、はてな民がそれを批判する権利なんてないじゃん 例えば、ネトウヨやパヨク、嫌いな政治家、非モテKKO、底辺労働者、野良猫餌やりBBA、低脳先生ほか特定アカウント etc 死ねだの、消えろだの、殺されればいいのにだの、一度も言った事の無い奴が...",
+          "link": "https://anond.hatelabo.jp/20210813132225",
+          "publishedOn": "2021-08-13T04:22:37.000Z",
+          "wordCount": 158,
+          "title": "「弱者差別やめろ」なんて、はてな民が言う資格ないよね？"
+        },
+        {
+          "id": "https://www.m3tech.blog/entry/sudachi-es",
+          "author": null,
+          "description": "エムスリーエンジニアリンググループ AI・機械学習チームでソフトウェアエンジニアをしている中村(@po3rin) です。最近、AI・機械学習チーム配下の検索基盤チームでElasticsearchのAnalyzerをKuromojiからSudachiに移行しました。今回はSudachi移行の背景と、Sudachiの概要、実際に移行するにあたってのプロセスや注意事...",
+          "link": "https://www.m3tech.blog/entry/sudachi-es",
+          "publishedOn": "2021-08-13T03:38:05.000Z",
+          "wordCount": 742,
+          "title": "検索基盤チームのElasticsearch×Sudachi移行戦略と実践 - エムスリーテックブログ"
+        },
+        {
+          "id": "https://github.com/Letscoder/PlayCover",
+          "author": null,
+          "description": "PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested.",
+          "link": "https://github.com/Letscoder/PlayCover",
+          "publishedOn": "2021-08-13T03:21:33.000Z",
+          "wordCount": 736,
+          "title": "GitHub - Letscoder/PlayCover: PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested."
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/13/news075.html",
+          "author": null,
+          "description": "コニカミノルタは8月12日、複合機向けトナーを生産する子会社の工場で同日夕に爆発が起き、生産設備が被害を受けたと発表した。この工場では7月6日にも爆発火災があり、原因を検証・対策した上で、8月7日に操業を再開したばかりだった。 爆発があったのは、長野県辰野町にあるコニカミノルタサプライズの工場（敷地面積4...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/13/news075.html",
+          "publishedOn": "2021-08-13T03:02:29.000Z",
+          "wordCount": 136,
+          "title": "コニカミノルタの工場でまた爆発　7月の爆発火災から復旧直後 - ITmedia NEWS"
+        },
+        {
+          "id": "https://eng-blog.iij.ad.jp/archives/10486",
+          "author": null,
+          "description": "Microsoft365のPowerPlatformを主に担当しています。だんだんPowerPlatformのサービスが増えて業務が自然拡大していく。好きな寿司のネタはたまご。 こんにちは、Power Platform のあれやこれやを検証している r-ito です。 Power Platformというと通じにくいので、もっぱら Power なんとか ってやつ全部と紹介してたり...",
+          "link": "https://eng-blog.iij.ad.jp/archives/10486",
+          "publishedOn": "2021-08-13T02:41:04.000Z",
+          "wordCount": 723,
+          "title": "Power Automateを使ったTeamsのチームメンバーの一括登録とエクスポート | IIJ Engineers Blog"
+        },
+        {
+          "id": "https://www.moguravr.com/virtual-influencer-guidelines-india/",
+          "author": null,
+          "description": "人間そっくりの外見で、SNSを利用して自身の活動を発信する「バーチャルインフルエンサー」。多くの企業や組織がその影響力を活用する中、インドでは世界で初となるバーチャルインフルエンサーのガイドラインが設けられました。「バーチャルインフルエンサーが、バーチャルな存在であることを、広告等に明記すべし」とい...",
+          "link": "https://www.moguravr.com/virtual-influencer-guidelines-india/",
+          "publishedOn": "2021-08-13T02:40:20.000Z",
+          "wordCount": 181,
+          "title": "インドが「バーチャルインフルエンサー」向けのガイドラインを制定。他国はこれに続くか？ | Mogura VR"
+        },
+        {
+          "id": "https://techblog.zozo.com/entry/itcss-to-zozotown",
+          "author": null,
+          "description": "こんにちは。ZOZOTOWN部フロントエンドチームの菊地（@hiro0218）です。 2021年3月、ZOZOTOWNは10年ぶりのリニューアルをしました。この記事では、そのリニューアルで再考したCSS設計について紹介します。 背景 今回のリニューアルでは、ウェブとアプリが部分的に共通のデザインになりました。 アプリ ウェブ このデザイ...",
+          "link": "https://techblog.zozo.com/entry/itcss-to-zozotown",
+          "publishedOn": "2021-08-13T02:07:17.000Z",
+          "wordCount": 1148,
+          "title": "ITCSSを採用して共同開発しやすいCSS設計をZOZOTOWNに導入した話 - ZOZO Technologies TECH BLOG"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/column/zaitaku_work/1343563.html",
+          "author": null,
+          "description": "皆様、こんにちは。株式会社マウスコンピューターの“SGNM”（ハンドルネーム）と申します。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/zaitaku_work/1343563.html",
+          "publishedOn": "2021-08-12T22:55:31.000Z",
+          "wordCount": 178,
+          "title": "自宅での仕事がはかどる「高解像度デュアルディスプレイ」環境が最高！ ～ SGNM（株式会社マウスコンピューター）の在宅ワークスタイル【みんなの在宅ワーク：第57回】 - INTERNET Watch"
+        },
+        {
           "id": "https://internet.watch.impress.co.jp/docs/yajiuma/1343659.html",
           "author": null,
           "description": "Amazonの電子書籍リーダー「Kindle」に、悪意のある第三者がユーザー情報を参照できる脆弱性があったことを、海外の調査会社が公表した。",
@@ -68,6 +293,24 @@
           "publishedOn": "2021-08-12T22:22:38.000Z",
           "wordCount": 94,
           "title": "電子書籍を開くだけでKindleが乗っ取られる脆弱性が発覚、利用者はアップデートの確認を【やじうまWatch】 - INTERNET Watch"
+        },
+        {
+          "id": "https://gigazine.net/news/20210813-apple-settles-lawsuit-against-corellium/",
+          "author": null,
+          "description": "iOS・Androidを搭載したモバイルデバイスをブラウザ上で動かせるツールを販売するセキュリティ企業・Corelliumは、Appleから「iOSの正確なコピーを販売している」として訴訟を起こされていました。2021年8月16日には連邦裁判所で裁判が行われる予定でしたが、8月10日にAppleとCorelliumが和解に達し、訴訟が取り下げられ...",
+          "link": "https://gigazine.net/news/20210813-apple-settles-lawsuit-against-corellium/",
+          "publishedOn": "2021-08-12T21:49:20.000Z",
+          "wordCount": 220,
+          "title": "Appleが「仮想iPhone」を販売するCorelliumと和解、「Appleはあまりにも多くの訴訟を抱えすぎた」との指摘も - GIGAZINE"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210204104014",
+          "author": null,
+          "description": "１５歳のとき、ベル・フックスの「フェミニズムはみんなのもの―情熱の政治学」を読み、それが私のバイブルになった。そこに書いてあったフェミニズムの説明を読んだだけで、それが世界を変えるとわかった。地元の図書館にかろうじてあったフェミニズム書籍コーナーに潜り込むや否や、 牟田一恵や田嶋陽子の世界に浸りこ...",
+          "link": "https://anond.hatelabo.jp/20210204104014",
+          "publishedOn": "2021-08-12T21:45:00.000Z",
+          "wordCount": 199,
+          "title": "フェミニズムが死すべき理由"
         },
         {
           "id": "https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755",
@@ -160,6 +403,15 @@
           "title": "「便利すぎる」──GitHubから直接「Visual Studio Code」を起動できる新機能が話題に - ITmedia NEWS"
         },
         {
+          "id": "https://photoshopvip.net/130506",
+          "author": null,
+          "description": "「筆記体でかわいい、おしゃれなデザインにしたい」と思っていても、いざ文字を入力してみると「なんか思ってたのと違う」と感じたことはないでしょうか。また、お気に入りのフォントをやっと見つけたら個人利用のみだった、なんて経験も。 当ブログで10年以上に渡り、コツコツと集めてきたフォントのなかから、商用利用...",
+          "link": "https://photoshopvip.net/130506",
+          "publishedOn": "2021-08-12T09:43:53.000Z",
+          "wordCount": 422,
+          "title": "無料で商用OK！筆記体フリーフォント10年分をまとめた秘密リスト - PhotoshopVIP"
+        },
+        {
           "id": "https://k-tai.watch.impress.co.jp/docs/news/1343608.html",
           "author": null,
           "description": "イオンリテールは、MVNOサービス「イオンモバイル」に関して12日、今秋以降に開始する新料金、新サービス発表会をオンラインで実施した。「音声SIMの一律220円値下げ」「音声通話料金一律30秒11円」「かけ放題プランの新設」「端末販売方法」などについて、同社住居余暇本部イオンモバイルユニット イオンモバイル商品マネージャーの井原 龍二氏が説明した。",
@@ -176,6 +428,15 @@
           "publishedOn": "2021-08-12T08:48:37.000Z",
           "wordCount": 198,
           "title": "ペア制度を導入して、開発チーム内の相談しやすさ向上・知見展開・透明性向上を狙う - $shibayu36->blog;"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/news/1343576.html",
+          "author": null,
+          "description": "ワークマンは、世界初の「Wind Core ヒータースーツジャケット」を8月中旬より発売する。価格は4,900円。",
+          "link": "https://www.watch.impress.co.jp/docs/news/1343576.html",
+          "publishedOn": "2021-08-12T07:01:57.000Z",
+          "wordCount": 76,
+          "title": "ワークマン、世界初「着るコタツ」ジャケット。コート無しで暖かい - Impress Watch"
         },
         {
           "id": "https://www.nic.ad.jp/ja/materials/iw/2017/proceedings/s15/s15-shimizu.pdf",
@@ -7088,69 +7349,6 @@
           "publishedOn": "2021-07-15T21:34:54.000Z",
           "wordCount": 196,
           "title": "チャエン🇨🇳 海外テック図解 on Twitter: \"中国の会社が開発した交通情報が投影されるフロントガラス。 目的地までのナビ、速度、障害物、道路標識などの情報が確認できる。 カーナビが不要になって、運転に集中できる画期的なアイテム。 https://t.co/2F2Yv5ZJTs\""
-        },
-        {
-          "id": "https://asnokaze.hatenablog.com/entry/2021/07/15/041348",
-          "author": null,
-          "description": "Facebookの方々から「RUSH - Reliable (unreliable) streaming protocol」というプロトコル仕様が、IETFに提出されています。 簡単に眺めていきます。 Facebookとライブ動画 このRUSHはRTMP代替として、クライアント(配信者)のアプリからライブ動画を取り込むためのプロトコルのようです。Facebookではすでに使っている...",
-          "link": "https://asnokaze.hatenablog.com/entry/2021/07/15/041348",
-          "publishedOn": "2021-07-15T11:45:12.000Z",
-          "wordCount": 208,
-          "title": "FacebookのQUICを活用したライブ動画用プロトコルRUSHについて - ASnoKaze blog"
-        },
-        {
-          "id": "https://jp.quora.com/%E3%81%AA%E3%81%9C%E5%A4%9A%E3%81%8F%E3%81%AE%E8%8B%A5%E3%81%84%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AF-C-%E3%82%84Java%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%84%AA%E3%82%8C%E3%81%9F%E8%A8%80",
-          "author": null,
-          "description": "問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください",
-          "link": "https://jp.quora.com/%E3%81%AA%E3%81%9C%E5%A4%9A%E3%81%8F%E3%81%AE%E8%8B%A5%E3%81%84%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AF-C-%E3%82%84Java%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E5%84%AA%E3%82%8C%E3%81%9F%E8%A8%80",
-          "publishedOn": "2021-07-15T10:43:26.000Z",
-          "wordCount": 5,
-          "title": "なぜ多くの若いフリーランスは、C#やJavaのような優れた言語ではなく、Pythonのような信頼性が低い言語を使いたがるのでしょう？ - Quora"
-        },
-        {
-          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00244/",
-          "author": null,
-          "description": "日本橋上空の首都高速道路を地下へ移設し、青空を取り戻す事業の初弾工事がいよいよ始まった。まずは、既存の2カ所の出入り口を撤去する。首都高速道路会社は2021年6月30日、報道機関を対象に現場見学会を開催。その模様と共に、今後の工程をお伝えする。 日本橋川に沿って上空を通る首都高の都心環状線は、前回の東京五...",
-          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00110/00244/",
-          "publishedOn": "2021-07-15T10:39:24.000Z",
-          "wordCount": 290,
-          "title": "日本橋の首都高地下化がいよいよ始動、待ち構える難工事 | 日経クロステック（xTECH）"
-        },
-        {
-          "id": "https://voyagegroup.com/news/press/01_20210715_01/",
-          "author": null,
-          "description": "国内の辞書サイトとして多数の言語を無料で閲覧できる唯一の百科事典に 株式会社VOYAGE MARKETING 株式会社CARTA HOLDINGSのグループ会社で、マーケティングソリューション事業を展開する株式会社VOYAGE MARKETING(東京都渋谷区、代表取締役：古谷 和幸)が運営する無料ウェブ百科事典「コトバンク」は、2021年7月、株式...",
-          "link": "https://voyagegroup.com/news/press/01_20210715_01/",
-          "publishedOn": "2021-07-15T10:39:02.000Z",
-          "wordCount": 107,
-          "title": "無料ウェブ百科事典「コトバンク」、小学館の外国語辞書8ヵ国分を初収録 | 株式会社VOYAGE GROUP"
-        },
-        {
-          "id": "https://www.janog.gr.jp/meeting/janog48/lt5/",
-          "author": null,
-          "description": "場所 OHGAKI(完全リモート) 日時 Day3 2021年7月16日(金) 14:45～15:15(05分) 概要 HTTPSというDNSレコードタイプを定義するdraft-ietf-dnsop-svcb-httpsがもうすぐRFCになります。実利用はすでにはじまっており、WebサーバのDNSへの登録は従来のA/AAAAレコードから今後は新しいHTTPSレコードに移行していくことになるで...",
-          "link": "https://www.janog.gr.jp/meeting/janog48/lt5/",
-          "publishedOn": "2021-07-15T10:12:48.000Z",
-          "wordCount": 95,
-          "title": "WebサーバのDNSへの登録方法が変わるよ – JANOG48 Meeting"
-        },
-        {
-          "id": "https://github.com/microsoft/IoT-For-Beginners",
-          "author": null,
-          "description": "IoT for Beginners - A Curriculum Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based peda...",
-          "link": "https://github.com/microsoft/IoT-For-Beginners",
-          "publishedOn": "2021-07-15T05:13:51.000Z",
-          "wordCount": 2465,
-          "title": "GitHub - microsoft/IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!"
-        },
-        {
-          "id": "https://www.commercepick.com/archives/1800",
-          "author": null,
-          "description": "多様化する問い合わせ手段SNSが浸透した今、ECにおける顧客からの問い合わせはメールや電話だけではなくなりました。特に10～20代の若年層は、メールや電話よりもFacebookやTwitter、Instagram、LINEなどから問い合わせする傾向があります。 またWeb接客ツールの台頭により、ECサイトにチャット機能を導入する企業も増え...",
-          "link": "https://www.commercepick.com/archives/1800",
-          "publishedOn": "2021-07-15T01:25:32.000Z",
-          "wordCount": 208,
-          "title": "問い合わせ管理システムとは？メールや電話、SNSの問い合わせを一元管理 | EC・ネット通販を中心とした物販ビジネス専門メディア 「コマースピック」"
         }
       ]
     },
@@ -7224,6 +7422,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=346665",
+          "author": "Chris Coyier",
+          "description": "Looks like… 253 of them. I love the little water ⥾ spout one. (U+297e). Because. And I like how it’s a fairly useful little site at a great domain and with a little business model behind it. \nReminds …\nThe post Unicode Arrows appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://unicodearrows.com/",
+          "publishedOn": "2021-08-13T18:08:07.000Z",
+          "wordCount": 10,
+          "title": "Unicode Arrows"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345944",
+          "author": "John Polacek",
+          "description": "Whether you are just starting out on the front end, or you’ve been doing it for a long time, building a tool that can generate some cool front-end magic can help you learn something new, develop your skills and maybe …\nThe post Building a Cool Front End Thing Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-cool-front-end-thing-generator/",
+          "publishedOn": "2021-08-13T14:41:21.000Z",
+          "wordCount": 2034,
+          "title": "Building a Cool Front End Thing Generator"
+        },
         {
           "id": "https://css-tricks.com/?p=346608",
           "author": "Robin Rendle",
@@ -7727,24 +7943,6 @@
           "publishedOn": "2021-07-15T14:40:03.000Z",
           "wordCount": 1984,
           "title": "How to Get a Pixel-Perfect, Linearly Scaled UI"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344249",
-          "author": "Temani Afif",
-          "description": "I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …\nThe post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/",
-          "publishedOn": "2021-07-14T14:31:02.000Z",
-          "wordCount": 1964,
-          "title": "Build Complex CSS Transitions using Custom Properties and cubic-bezier()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344407",
-          "author": "Chris Coyier",
-          "description": "Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …\nThe post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://cloudfour.com/thinks/a-bashful-button-worth-8-million/",
-          "publishedOn": "2021-07-14T14:25:08.000Z",
-          "wordCount": 2673,
-          "title": "A Bashful Button Worth $8 Million"
         }
       ]
     },
@@ -7840,15 +8038,6 @@
           "publishedOn": "2021-07-29T00:15:20.000Z",
           "wordCount": 450,
           "title": "2021年7月第5週号 1位は，Webデザイナーはそろそろスライダーを辞めるべきという提案，気になるネタは，音声SNS「Clubhouse」が脱ベータ，招待・承認が不要な正式サービスに ── 週刊Webテク通信"
-        },
-        {
-          "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202107/15",
-          "author": "アシカガコウジ",
-          "description": "ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年7月5日～7月11日の間に見つけた記事のベスト5です。",
-          "link": "https://gihyo.jp/design/clip/01/weekly-web-tech/202107/15",
-          "publishedOn": "2021-07-15T00:15:20.000Z",
-          "wordCount": 468,
-          "title": "2021年7月第3週号 1位は，ユーザー体験の原則を5つ紹介，気になるネタは，東京駅などの屋内を「Googleマップ」がナビする新機能--JR東日本の17駅から順次提供へ ── 週刊Webテク通信"
         }
       ]
     },
@@ -7857,6 +8046,60 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/ahmedsaba/how-to-add-progress-bar-when-click-upload-button-1623",
+          "author": "ahmedsaba",
+          "description": "I work on angular 8 application I need to add progress bar\nwhen click upload button so progress bar will work when click\nbutton upload until finish upload\nupload service\nPostUpload(file)\nhttp://localhost:61265/api/DeliverySys/', formData,{responseType: 'blob'});\npublic uploadFile = () => {\n.subscribe((response: Blob) => saveAs(response, this.fileToUpload.name + '.xlsx'));\n}\ncomponent upload.html",
+          "link": "https://dev.to/ahmedsaba/how-to-add-progress-bar-when-click-upload-button-1623",
+          "publishedOn": "2021-08-13T18:36:03.000Z",
+          "wordCount": 404,
+          "title": "How to add progress bar when click upload button?"
+        },
+        {
+          "id": "https://dev.to/vladsolokha/notes-on-angular-forms-terms-bindings-23kj",
+          "author": "Vlad Solokha",
+          "description": "I was working on a project and didn't know what the next steps should be to make a button work and do stuff. \nSo I read the documentation. Why the documentation? Because it's the best and most efficient way to learn and grow. \nSo I learned a couple things about \nAll forms should capture user input from view, validate input, help create form model and data model to update, and provide ways to track changes. \nThere are 2 types of forms: \nReactive - robust, scalable, reusable, testable, model driven. Use only if forms are a key part of your application\nTemplate-driven - less than reactive, but simple, easy to add to just a template (not component)\nMore on Angular Forms here\nI learned while looking for answer to make my app work.\nDOM - basically a model that presents to the user's view. Contains organization of elements, attributes, objects...\npipe - transforms input values data before displaying it in template. Uses the pipe character (as operator)\ndata binding - coordinates the application and DOM data\ndirectives - apply application logic to what gets displayed (think: ngFor and ngIF) <-- those are template syntax elements\nthere are 2 directives:\n-attribute - alter the appearance or behavior of elements such as ngModel or ngSwitch\nThere are 4 basic bindings between the DOM and component of an application. \n2 bindings travel from component to DOM as it requests them\n1 binding travels from the DOM to the component\n1 two way binding that connects DOM to component\n-two-way binding - combines event binding + property binding for a two way data transfer",
+          "link": "https://dev.to/vladsolokha/notes-on-angular-forms-terms-bindings-23kj",
+          "publishedOn": "2021-08-13T17:24:01.000Z",
+          "wordCount": 708,
+          "title": "Notes on Angular Forms, Terms, Bindings"
+        },
+        {
+          "id": "https://dev.to/antoomartini/i-learned-it-from-an-interview-is-this-a-library-or-a-framework-23bn",
+          "author": "Maria Antonella 🦋",
+          "description": "I learned a lot of things I didn't know during a job interview. Today I share with you the first one: Is there a difference between library and framework?  Of course there is, but I didn't know it. For me they were the same.\nThe first thing that we have to know is both libraries and frameworks are pieces of code written by someone else that is used to help solve common problems and helps you to write your code faster and easier.\nI think developers often use the terms “library” and “framework” interchangeably. There is a technical difference.\nThe technical difference between a framework and a library lies in a term called inversion of control. In other words, inversion of control defines the relationship between the code and a library or a framework.\n🔹 When you use a library, you are in the charge of the application flow. You choose when and where to call the library and use it. React is a good example of a JavaScript library.\nLet’s use an example of baking a cake. You are the baker. So you have control over the baking process. You have a recipe and some of the ingredients, which represent your program. However, you need to go to the supermarket to buy the rest of the ingredients, which represents a library.\n🔹 When you use a framework, the framework is in charge of the flow. It will provide you the places you can plug your code and it calls your code when needed. Angular is an example of a Javascript framework.\nA framework inverts the control of the program. It tells the developer what they need. A library doesn’t. The programmer calls the library where and when they need it.\nSo what do you think? Did you know the difference between these two words?\nWhat else did you learn during a job interview ?",
+          "link": "https://dev.to/antoomartini/i-learned-it-from-an-interview-is-this-a-library-or-a-framework-23bn",
+          "publishedOn": "2021-08-13T16:16:43.000Z",
+          "wordCount": 821,
+          "title": "I learned it from an interview: Is this a library or a framework?"
+        },
+        {
+          "id": "https://dev.to/eyalbmma/trying-to-add-ads-txt-to-the-root-of-my-domain-3o90",
+          "author": "eyalbmma",
+          "description": "i added a file to the root directory next to the index.html page in angular project the file name is ads.txt\nconst routes: Routes = [\ni would like when browse to http://mydomain/ads.txt  the text file should be seen on browser",
+          "link": "https://dev.to/eyalbmma/trying-to-add-ads-txt-to-the-root-of-my-domain-3o90",
+          "publishedOn": "2021-08-13T13:56:11.000Z",
+          "wordCount": 421,
+          "title": "trying  to add ads.txt to the root of my domain"
+        },
+        {
+          "id": "https://dev.to/vivek_singh/how-to-do-seo-for-journal-websites-on-angular-4o4k",
+          "author": "Vivek Singh",
+          "description": "Hello can anyone tell me that how could I do the SEO for journal websites articles to make them rank in google search engine and google scholar?\nWhat changes should make in the code to make it crawlable? Please Help!",
+          "link": "https://dev.to/vivek_singh/how-to-do-seo-for-journal-websites-on-angular-4o4k",
+          "publishedOn": "2021-08-13T07:35:54.000Z",
+          "wordCount": 475,
+          "title": "How to do SEO for journal websites on angular?"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-august-13-19gh",
+          "author": "Ajit Singh",
+          "description": "Help me improve these updates by giving suggestions.\n\n\nGithub Repo - https://github.com/ajitsinghkaler/devto-clone\nDeployed on Firebase - https://dev-toclone.firebaseapp.com/\nLast week we added basic details page.\n\nThis week I added user details and a reaction section in article details. There is no API for adding reactions to actual dev.to site so the reactions component is read-only for now.\nThis week I have good news Chellappan did the listings page for us. I am really happy this is a first opensource contribution in my project. Thanks Chellapan\n\nHe implemented the masonry layout in this and next I'll write how he implemented the masonry layout. \nNow back to my work this time added a global component store for user details in the article-details component. I also had a lot of problems with the layout of the page the layout was not working correctly whatever I set in the grid-template-columns but after putting a lot of time in it I realized its just that article details content is not working correctly either the image was bigger then the body or the code-snippets were. I was really tired of this, to solved this problem my mind told so what is not styled the details content. This made me realize that the problem should be there. Then I checked and then there it was so for now I made images with width 100% and its working  fine for now. This is where we are now.\n\nThe article section is really getting on my nerves. Making so many stores for articles is annoying.\n\n\nMoving it to Nx. I've heard a lot about Nx this will be my first Nx project.\n\n\n\n\n  \n  \n  Commits done\n\n\nBranch\nWIP: added listing pages and masonary layout\n\n\nwip: listings cleanup\n\n\ncleanup: review comment fix\n\n\ncleanup: remove unused code\n\n\nadded sidenav nav functionality\n\n\narticle details page with sidenav\n\n\nresolve splice bugs\n\n\n\nAs you can see a lot of content was added. Now we will soon dive into improving it more using Nx and Tailwind once we finish the basic application.",
+          "link": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-august-13-19gh",
+          "publishedOn": "2021-08-13T07:23:51.000Z",
+          "wordCount": 879,
+          "title": "Updates on Dev.to clone in Angular - August 13"
+        },
         {
           "id": "https://dev.to/cathysmith/why-angularjs-is-more-suitable-for-your-startup-4e2n",
           "author": "Cathy Smith",
@@ -8891,6 +9134,15 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/mparpaillon/lazy-load-a-firestore-realtime-query-with-dynamic-result-2662",
+          "author": "Michel Parpaillon",
+          "description": "Introduction\n\n\nTales is the first application from Harpy, a web platform for Tabletop RPG lovers (D&D, Cthulhu, Pathfinder, L5R, etc). It's a collective story telling app. A Roleplay chat where you speak as your character instead of as yourself.\nIn Tales, a player can create a Story divided in Chapters. A Chapter is basically a chat where characters speak. So \"just\" a list of posts ordered by creation date, right?\nNot really. Here's the catch:\nWe should load the posts from the latest post a player has seen\nLazy load should work in both directions (previous posts, next posts)\nSince a character can come and go in a Chapter, all the posts are not necessarily visible by the current user.\nThis is live data. If a post is created, updated or deleted  by a player, then other players should see the…",
+          "link": "https://dev.to/mparpaillon/lazy-load-a-firestore-realtime-query-with-dynamic-result-2662",
+          "publishedOn": "2021-08-13T10:13:57.000Z",
+          "wordCount": 1727,
+          "title": "Lazy load a Firestore query (with realtime result)"
+        },
+        {
           "id": "https://dev.to/es404020/lazy-loading-angular-429g",
           "author": "es404020",
           "description": "Lazy loading is the best way to separate component into different modules. For large application lazy loading help structure routes for easy readability and fast page  load.\n1.Create Modules for route you intent to lazy load\nng g m @module/main --routing\n\n2.Add components to the new module created\nng g c components/home --m @module/main\n\nThis automatically adds home to the main module\n3.Setting up route in main module\nconst routes: Routes = [\n  {\n    path: '',\n    component: HomeComponent\n  }\n];\n\n\n4.Finally lazy load Main Route in your application route or (App Route)\nconst routes: Routes = [\n  {\n    path: '',\n    loadChildren: () => import('./main/main.module').then(m => m.MainModule)\n  }\n];\n\n\nThanks for reading",
@@ -9157,15 +9409,6 @@
           "publishedOn": "2021-07-16T00:36:35.000Z",
           "wordCount": 1559,
           "title": "レスポンシブ対応のレイアウトやコンポーネントだけを実装するCSSのシンプルなコードのまとめ -SmolCSS"
-        },
-        {
-          "id": "https://coliss.com/?p=29856",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/css/css-code-generators.html",
-          "publishedOn": "2021-07-15T00:36:41.000Z",
-          "wordCount": 457,
-          "title": "Web制作に役立つ！面倒なCSSのコードを簡単に生成できる便利ツールをまとめました"
         }
       ]
     },
@@ -9174,6 +9417,60 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/5f0b7e9a44ec",
+          "author": "Catalin's Tech",
+          "description": "Learn how to build and monetize your APIs\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/want-to-make-more-money-as-a-developer-start-selling-apis-5f0b7e9a44ec?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-13T16:58:52.000Z",
+          "wordCount": 4074,
+          "title": "Want To Make More Money as a Developer? Start Selling APIs"
+        },
+        {
+          "id": "https://medium.com/p/1b87b94abd21",
+          "author": "Marko Milojevic",
+          "description": "Techniques that help me having zero bugs on production, for 2 years\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-and-a-half-techniques-for-effectively-writing-unit-tests-in-go-1b87b94abd21?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-13T16:11:50.000Z",
+          "wordCount": 2883,
+          "title": "5 and a Half Techniques for  Effectively Writing Unit Tests in Go"
+        },
+        {
+          "id": "https://medium.com/p/bbf96939b15",
+          "author": "Krupesh Raikar",
+          "description": "How to be a wizard of Regex\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/everything-you-need-to-know-about-regular-expressions-in-python-bbf96939b15?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-13T16:00:11.000Z",
+          "wordCount": 2719,
+          "title": "Everything You Need To Know About Regular Expressions in Python"
+        },
+        {
+          "id": "https://medium.com/p/2329a2cd953a",
+          "author": "Fernando Doglio",
+          "description": "Break free from the juniority typecasting\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/heres-what-you-need-to-get-promoted-from-a-junior-developer-role-2329a2cd953a?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-13T15:02:15.000Z",
+          "wordCount": 2028,
+          "title": "Here’s What You Need To Get Promoted From a Junior Developer Role"
+        },
+        {
+          "id": "https://medium.com/p/9b09269ad3f3",
+          "author": "Gerard van der Put",
+          "description": "Being a freelance developer is not a career for everyone. You might be a great developer, but do you have all that it takes?\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-traits-every-freelance-developer-should-have-9b09269ad3f3?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-13T14:03:37.000Z",
+          "wordCount": 2405,
+          "title": "5 Traits Every Freelance Developer Should Have"
+        },
+        {
+          "id": "https://medium.com/p/c6b5a03ebf38",
+          "author": "Prem Kumar",
+          "description": "Augmentations have never been easier to perform model training\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-common-image-augmentations-for-machine-learning-c6b5a03ebf38?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-13T13:32:41.000Z",
+          "wordCount": 1343,
+          "title": "5 Image Augmentation Machine Learning Techniques Using “imgAug”"
+        },
         {
           "id": "https://medium.com/p/7b14c27a168e",
           "author": "Zachary Minott",
