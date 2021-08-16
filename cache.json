@@ -33,6 +33,231 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://ja.softether.org/9-about/news/901-210816",
+          "author": null,
+          "description": "2021/08/16 日本の広範囲のグローバル IP の IPsec VPN 装置宛へのサイバー攻撃の注意喚起と「SoftEther VPN」/「PacketiX VPN」への影響を防ぐための設定の確認のお願い・新ビルドのお知らせ はじめに 本ドキュメントは、2021/08/16 公開の 「SoftEther VPN」/「PacketiX VPN」の Ver 4.37 Build 9758 Beta に関連する...",
+          "link": "https://ja.softether.org/9-about/news/901-210816",
+          "publishedOn": "2021-08-15T18:28:09.000Z",
+          "wordCount": 543,
+          "title": "2021/08/16 日本の広範囲のグローバル IP の IPsec VPN 装置宛へのサイバー攻撃の注意喚起と「SoftEther VPN」/「PacketiX VPN」への影響を防ぐための設定の確認のお願い・新ビルドのお知らせ - SoftEther VPN プロジェクト"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/lineline_fido2_serverfido2webauthn.html",
+          "author": null,
+          "description": "LINEがオープンソースで「LINE FIDO2 Server」公開。パスワード不要でログインできる「FIDO2/WebAuthn」を実現 LINEは、スマートフォンやPCの指紋認証や顔認証などを用いることでパスワード不要でログイン処理を可能にする標準技術「FIDO2」や「WebAuhn」に対応したサーバ「LINE FIDO2 Server」をオープンソースで公開し...",
+          "link": "https://www.publickey1.jp/blog/21/lineline_fido2_serverfido2webauthn.html",
+          "publishedOn": "2021-08-15T15:43:03.000Z",
+          "wordCount": 176,
+          "title": "LINEがオープンソースで「LINE FIDO2 Server」公開。パスワード不要でログインできる「FIDO2/WebAuthn」を実現 － Publickey"
+        },
+        {
+          "id": "https://twitter.com/ImAI_Eruel/status/1426880863455698945",
+          "author": null,
+          "description": "コンピュータ科学・プログラミングの講義で無料で受けられる大学のコースなど700個以上を、難易度別に三段階に分けてまとめたサイトのようです https://t.co/BJH4pd9tMW",
+          "link": "https://twitter.com/ImAI_Eruel/status/1426880863455698945",
+          "publishedOn": "2021-08-15T13:21:17.000Z",
+          "wordCount": 196,
+          "title": "えるエル on Twitter: \"コンピュータ科学・プログラミングの講義で無料で受けられる大学のコースなど700個以上を、難易度別に三段階に分けてまとめたサイトのようです https://t.co/BJH4pd9tMW\""
+        },
+        {
+          "id": "https://jabba.cloud/20210814-pixar",
+          "author": null,
+          "description": "世界一のCGアニメーションスタジオであるピクサーで働く人達をYouTubeで観ると不思議なぐらいにその熱量を感じとることができる。いろんな会社の中をYouTubeで観るのが好きで結構観ている。どんな会社でも自社のいいところだけ切り取って出してるんだろうけど、なぜかピクサーだけは別格に感じる。 こんなに働く人達の熱...",
+          "link": "https://jabba.cloud/20210814-pixar",
+          "publishedOn": "2021-08-15T12:38:53.000Z",
+          "wordCount": 37,
+          "title": "ピクサーで働く人達をYouTubeで観て「仕事はこうでないとあかんな」と思った – ベルリンで働くソフトウェアエンジニアのブログ"
+        },
+        {
+          "id": "https://and-engineer.com/articles/YPuC3xIAACQAic3M",
+          "author": null,
+          "description": "Webアプリ開発にPythonが向いている理由PythonはWebアプリ開発に向いているとされています。実際、Python案件でもっとも多いのはWebアプリ開発です。なぜPythonがWebアプリ開発に向いているのか、理由をまとめました。 Pythonは開発効率を上げやすく、短い納期でも対応しやすいのが特徴です。Pythonはコード量が短いため...",
+          "link": "https://and-engineer.com/articles/YPuC3xIAACQAic3M",
+          "publishedOn": "2021-08-15T10:05:06.000Z",
+          "wordCount": 12,
+          "title": "PythonでのWebアプリ開発で使うフレームワークを解説！ | アンドエンジニア"
+        },
+        {
+          "id": "https://iphone-mania.jp/manual/kihon-389147/",
+          "author": null,
+          "description": "iPhoneのバッテリーの消耗が早くなった場合、Apple StoreやApple 正規サービスプロバイダでバッテリーの交換が可能です。iPhoneの種類や保険加入有無によって、修理の値段が変わります。 バッテリーの劣化状態の確認方法や、修理予約の取り方についてもご紹介します。",
+          "link": "https://iphone-mania.jp/manual/kihon-389147/",
+          "publishedOn": "2021-08-15T09:45:28.000Z",
+          "wordCount": 299,
+          "title": "【Tips】電池持ちが改善！iPhoneのバッテリーを交換する方法 - iPhone Mania"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065911/",
+          "author": null,
+          "description": "Windows 11へのアップグレードでは、古いハードウェアだけでなく、Windows 10であまり人気が無かった機能も大きく「リストラ」される。 Windows 10では年2回の機能アップデートがあり、毎回さまざまな新機能があった。なかには「Sets」のようにプレビュー段階で消えたものもあったが、それでも多くの機能追加があった。...",
+          "link": "https://ascii.jp/elem/000/004/065/4065911/",
+          "publishedOn": "2021-08-15T08:17:23.000Z",
+          "wordCount": 584,
+          "title": "ASCII.jp：Windows 11では、Windows 10で追加された数々の新機能が早くもリストラされる (1/2)"
+        },
+        {
+          "id": "https://blog.h13i32maru.jp/entry/2021/08/15/163619",
+          "author": null,
+          "description": "こんにちは丸山@h13i32maruです。つい先日、devchat.fmというポッドキャストに出演して、「ドキュメント」というお題について話しました。なぜこんなニッチなお題について話したかというと、Ubie Discoveryに入社して5ヶ月の間にいくつか*1まとまったソフトウェアドキュメントを書いたので、自分の中でホットな話題だっ...",
+          "link": "https://blog.h13i32maru.jp/entry/2021/08/15/163619",
+          "publishedOn": "2021-08-15T08:06:01.000Z",
+          "wordCount": 199,
+          "title": "ソフトウェアドキュメント作法 - maru source"
+        },
+        {
+          "id": "https://togetter.com/li/1760087",
+          "author": null,
+          "description": "くぼ@SE @kubo_vbapg プログラマーになって2年経って学んだこと。 ・豚肉に片栗粉をまぶしてから焼くと、硬くならずにめっちゃ美味しくなる 2021-08-12 19:30:41",
+          "link": "https://togetter.com/li/1760087",
+          "publishedOn": "2021-08-15T07:58:28.000Z",
+          "wordCount": 629,
+          "title": "『プログラマーになってから2年間で学んだこと』諸先輩方から知っておくとためになる知識も寄せられ活躍間違いなし - Togetter"
+        },
+        {
+          "id": "https://zenn.dev/umatoma/articles/e6c4051f4c882d",
+          "author": null,
+          "description": "Flexboxはレイアウト組む上でとても便利だが、justifyだとかalignだとか名前と意味の対応が曖昧で毎回調べていた。 仕組み・使い方を理解しようと思い、図を使って整理してみた。 Flexbox Flexboxは縦・横に要素を並べられるレイアウト方法です。 Flexboxを使うことにより、縦・横に並べるだけでなく、並べた要素の中央...",
+          "link": "https://zenn.dev/umatoma/articles/e6c4051f4c882d",
+          "publishedOn": "2021-08-15T07:36:57.000Z",
+          "wordCount": 246,
+          "title": "図で理解するFlexbox"
+        },
+        {
+          "id": "https://japanese.engadget.com/3-d-printing-system-for-lunar-soil-051007572.html",
+          "author": null,
+          "description": "NASAの最新の国際宇宙ステーション(ISS)ミッションには、月の土(レゴリス)を使って現地に建物を作るための3Dプリンター実証機が搭載されています。 Redwire Regolith Print(RRP)と呼ばれるこのプロジェクトは、既存のプリンティング機材と連携してレゴリスに見立てた材料を用いて3Dプリントの実証試験を行い、出力された...",
+          "link": "https://japanese.engadget.com/3-d-printing-system-for-lunar-soil-051007572.html",
+          "publishedOn": "2021-08-15T07:13:53.000Z",
+          "wordCount": 242,
+          "title": "NASA、ISSで月基地建設用3Dプリンターの実証機をテストへ。必要な強度が出るかを確認 - Engadget 日本版"
+        },
+        {
+          "id": "https://www.news24.jp/articles/2021/08/12/07922305.html",
+          "author": null,
+          "description": "見出し、記事、写真、動画、図表などの無断転載を禁じます。 当サイトにおけるクッキーの扱いについてはこちら 『日テレNEWS24 ライブ配信』の推奨環境はこちら",
+          "link": "https://www.news24.jp/articles/2021/08/12/07922305.html",
+          "publishedOn": "2021-08-15T06:05:37.000Z",
+          "wordCount": 42,
+          "title": "“若者ワクチン接種促進”都がアプリ開発へ｜日テレNEWS24"
+        },
+        {
+          "id": "https://tech.marksblogg.com/meilisearch-full-text-search.html",
+          "author": null,
+          "description": "MeiliSearch is a fast, feature-rich full-text search engine. Its built on top of the LMDB key-value store and lives as a 35 MB binary when installed on Ubuntu or MacOS. It comes with a built-in client, server and WebUI. Features such as stemming, stop words, synonyms, ranking, filters and facetin...",
+          "link": "https://tech.marksblogg.com/meilisearch-full-text-search.html",
+          "publishedOn": "2021-08-15T05:33:45.000Z",
+          "wordCount": 2587,
+          "title": "MeiliSearch: A Minimalist Full-Text Search Engine"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/15/news022.html",
+          "author": null,
+          "description": "Twitterが8月11日に実施したボタンやフォントのデザイン変更に、「目が痛くなる」「分かりにくい」などの苦情が殺到。ボタンのコントラストは既に弱める修正を行った。フォローボタンについてはまだだ。 米Twitterは8月13日（現地時間）、11日に実施したボタンやフォントのデザイン変更に対する様々なフィードバックに基...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/15/news022.html",
+          "publishedOn": "2021-08-15T05:13:27.000Z",
+          "wordCount": 138,
+          "title": "Twitter、新デザインは「目が痛い、頭痛がする」という苦情を受け修正　「今後もフィードバックを」 - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.huffingtonpost.jp/entry/story_jp_61187384e4b07b9118abb298",
+          "author": null,
+          "description": "8月15日で終戦から76年を迎えた。 戦争の時代に生きた世代は、年々少なくなっている。日本人の大半が戦後生まれとなり、太平洋戦争を、はるか昔の出来事と感じる人も多いかもしれない。 戦時中にカラーフィルムは普及していなかったため、現存する写真の多くはモノクロだ。色彩が失われた光景は「歴史上の出来事」という...",
+          "link": "https://www.huffingtonpost.jp/entry/story_jp_61187384e4b07b9118abb298",
+          "publishedOn": "2021-08-15T04:32:21.000Z",
+          "wordCount": 228,
+          "title": "【終戦の日】戦争は「過去」ではない。人工知能でカラー化された写真が伝える記憶（画像集） | ハフポスト"
+        },
+        {
+          "id": "https://otona-life.com/2021/08/15/78405/",
+          "author": null,
+          "description": "アナタはWindowsパソコンのブラウザアプリに何を使っているだろうか？　おそらくGoogleの「Chrome（クローム）」を使っている人が多いと思うが、そもそもWindows 10の標準ブラウザアプリは「Microsoft Edge（マイクロソフト エッジ）」である。もちろん、Chromeに何の不満もないだろうが、Microsoft Edgeのほうがメモリ...",
+          "link": "https://otona-life.com/2021/08/15/78405/",
+          "publishedOn": "2021-08-15T04:16:11.000Z",
+          "wordCount": 257,
+          "title": "「Microsoft Edge」最新の知られざる便利機能7選！ Chromeを使っている場合じゃない - OTONA LIFE | オトナライフ - OTONA LIFE | オトナライフ"
+        },
+        {
+          "id": "https://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html",
+          "author": null,
+          "description": "Posted by Neil Zeghidour, Research Scientist and Marco Tagliasacchi, Staff Research Scientist, Google Research Audio codecs are used to e...",
+          "link": "https://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html",
+          "publishedOn": "2021-08-15T04:15:08.000Z",
+          "wordCount": 2235,
+          "title": "Google AI Blog: SoundStream: An End-to-End Neural Audio Codec"
+        },
+        {
+          "id": "https://togetter.com/li/1760061",
+          "author": null,
+          "description": "ふらノラ@紫電会長 @breakfrandle （´-`）.｡oO（もしよったらエスビー食品さんのねぎしょうが、「あぁ、アレかw」くらいのノリで買ってね… ただ単にみんなで笑いましたってよりはそれがきっかけで美味しいものに出会えましたって人が1人でもいた方が本望よ… 2021-08-14 21:21:24 ふらノラ@紫電会長 @breakfrandle 昼は駅...",
+          "link": "https://togetter.com/li/1760061",
+          "publishedOn": "2021-08-15T04:12:15.000Z",
+          "wordCount": 500,
+          "title": "「並んだ時のこれまでは思い浮かばなかったんだろうな…」あるネギ生姜の瓶詰め、デザインの影響で店頭で突然罵倒してくる存在になっていた - Togetter"
+        },
+        {
+          "id": "https://thinkami.hatenablog.com/entry/2021/08/14/224121",
+          "author": null,
+          "description": "OAuth2やOpenID Connectの理解を深めようと思い、 OAuth徹底入門 セキュアな認可システムを適用するための原則と実践（Justin Richer Antonio Sanso 須田 智之 Authlete, Inc.）｜翔泳社の本 Auth屋さんの書籍 【電子版】雰囲気でOAuth2.0を使っているエンジニアがOAuth2.0を整理して、手を動かしながら学べる本 - Auth...",
+          "link": "https://thinkami.hatenablog.com/entry/2021/08/14/224121",
+          "publishedOn": "2021-08-15T01:04:09.000Z",
+          "wordCount": 3383,
+          "title": "Railsとdoorkeeper-openid_connectやOmniAuth を使って、OpenID Connectの OpenID Provider と Relying Party を作ってみた - メモ的な思考的な"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9b4f22e9db4d60b9cceb7416159f076247761ecd",
+          "author": null,
+          "description": "76回目となる終戦記念日に先立ち、原爆の“きのこ雲”の白黒写真をカラー化した画像に「76年前の今日」というコメントを添えた投稿がTwitterで注目を集めている。",
+          "link": "https://news.yahoo.co.jp/articles/9b4f22e9db4d60b9cceb7416159f076247761ecd",
+          "publishedOn": "2021-08-15T00:26:21.000Z",
+          "wordCount": 93,
+          "title": "「当時もこんな空だったのかな」──カラー化した原爆写真がネットで反響　AIと人力で戦時中などの写真を色付ける「記憶の解凍」（ITmedia NEWS） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/15/news017.html",
+          "author": null,
+          "description": "「Pokemon Go」で知られるNianticのジョン・ハンケCEOが、仮想世界に没入するいわゆる「メタバース」はディストピアの悪夢だと警鐘を鳴らした。NianticはARを採用する「現実世界のメタバース」を目指すとして参加を呼び掛けた。 「メタバースはディストピアの悪夢です」──。「Pokemon Go」などのAR（拡張現実）ゲームで...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/15/news017.html",
+          "publishedOn": "2021-08-14T23:45:14.000Z",
+          "wordCount": 183,
+          "title": "NianticのハンケCEO、「メタバースはディストピア。よりよい現実を構築しよう」 - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/14/news044.html",
+          "author": null,
+          "description": "「当時もこんな空だったのかな」──カラー化した原爆写真がネットで反響　AIと人力で戦時中などの写真を色付ける「記憶の解凍」（1/2 ページ） 広島と長崎に投下された原爆の“きのこ雲”のカラー化画像がTwitterに投稿され、注目された。「記憶の解凍」という活動の一環で、AIツールと戦争体験者の証言、Twitterのコメント...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/14/news044.html",
+          "publishedOn": "2021-08-14T23:14:18.000Z",
+          "wordCount": 165,
+          "title": "「当時もこんな空だったのかな」──カラー化した原爆写真がネットで反響　AIと人力で戦時中などの写真を色付ける「記憶の解凍」（1/2 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210815020532",
+          "author": null,
+          "description": "三十と数年を生きてきて文才があるなんて言われたのは数年前から匿名ダイアリーへ投稿するようになってからだ。 ビックリするくらいはてブ付くんよな、えっそんなに付けて良いの？と逆に申し訳なくなる。 そんなこんなで色々試していくうち、懐かしのテキストサイト文体や２ちゃんねるにあるようなネタカキコ文体、JK文...",
+          "link": "https://anond.hatelabo.jp/20210815020532",
+          "publishedOn": "2021-08-14T17:13:40.000Z",
+          "wordCount": 78,
+          "title": "俺には文才があるらしい、ブコメ民がそう言って多くのはてブを付けて"
+        },
+        {
+          "id": "https://cio.go.jp/sites/default/files/uploads/documents/210812_BidBriefingMeeting.pdf",
+          "author": null,
+          "description": "「政府統一Webサイト構築に向けたサービス基盤及び デザインシステム等の実証に関する調査業務」 の公告に係る説明会 2021年8月12日 内閣官房IT総合戦略室 はじめに 2 本日は説明会へのご参加ありがとうございます。 ・15:00-15:30 仕様書内容のご説明（IT室） ・15:30-16:00 質疑応答 ※最大16:30まで 【お願い】 ・ご説...",
+          "link": "https://cio.go.jp/sites/default/files/uploads/documents/210812_BidBriefingMeeting.pdf",
+          "publishedOn": "2021-08-14T17:05:39.000Z",
+          "wordCount": 20433,
+          "title": "「政府統一Webサイト構築に向けたサービス基盤及びデザインシステム等の実証に関する調査業務」の公告に係る説明会 | 内閣官房IT総合戦略室"
+        },
+        {
+          "id": "https://note.com/usagimaruma/n/n3b055fba91cf",
+          "author": null,
+          "description": "プラットフォームによってはアプリケーションの実装技術には複数の方法があり、開発側の要件や制約、好み等に合わせて適した技術を選ぶことができます。例えばiOSアプリケーションの実装技術には、Appleが提供するCocoa Touch（およびUIKitやSwiftUIなどのフレームワーク群）がありますが、そのほかのベンダーから提供さ...",
+          "link": "https://note.com/usagimaruma/n/n3b055fba91cf",
+          "publishedOn": "2021-08-14T16:05:24.000Z",
+          "wordCount": 751,
+          "title": "ネイティブアプリケーションの意味｜usagimaru｜note"
+        },
+        {
           "id": "https://togetter.com/li/1759689",
           "author": null,
           "description": "まつぼ @1matsubo 庁内の大規模なDXプロジェクトに関わっている。新規システム導入に必要な予算が数億円規模だと知った偉い人が「エクセルとか使って職員が内製すれば予算無くても出来るんじゃないか？詳しい人いないのか？」って言ったので場の雰囲気が最悪になった。その後、みんなあんまり反論せずに帰った。 2021-08...",
@@ -60,6 +285,15 @@
           "title": "バーチャルファッションの\"現在地\"──chloma Virtual Store in GHOSTCLUB 制作インタビュー｜VRChatワールド探索部｜note"
         },
         {
+          "id": "https://iphone-mania.jp/news-390054/",
+          "author": null,
+          "description": "ゴシックホラーアクションゲームシリーズとして様々なハードで発売されてきた「悪魔城ドラキュラ」が、Apple Arcade専用の最新作『悪魔城ドラキュラ Grimoire of Souls』として復活します。 ゲームは近日中に公開 「悪魔城ドラキュラ」は、1986年に発売されたファミリーコンピュータ ディスクシステム用のソフトで、ヴァ...",
+          "link": "https://iphone-mania.jp/news-390054/",
+          "publishedOn": "2021-08-14T10:43:41.000Z",
+          "wordCount": 219,
+          "title": "「悪魔城ドラキュラ」シリーズ完全新作がApple Arcadeに登場 - iPhone Mania"
+        },
+        {
           "id": "https://nlab.itmedia.co.jp/nl/articles/2108/14/news047.html",
           "author": null,
           "description": "日本大学商学部水野学ゼミが開発した、家の中に出た虫を殺さず“逃がす”ことに特化したグッズ「むしキャッチリー」を8月17日からAmazonで再販売します。これはなかなかありがたいグッズかも。 むしキャッチリー 「むしキャッチリー」は、透明な箱状の捕獲器。見つけた虫に被せて取っ手を引っ張ると捕まえられ、そのまま外...",
@@ -67,6 +301,15 @@
           "publishedOn": "2021-08-14T10:15:19.000Z",
           "wordCount": 263,
           "title": "家で出た虫を殺さず“外に逃がす”グッズが登場　退治に気が引ける人や後処理が怖い人に - ねとらぼ"
+        },
+        {
+          "id": "https://blog.magnolia.tech/entry/2021/08/14/160420",
+          "author": null,
+          "description": "2021/8/15: 最初の言説のところ、微妙に何が何だかって記述だったので少し見直しました。 昔初めてPMBOKで「段階的詳細化」って用語を知った時、随分と当たり前のことにわざわざ名前がついてるんだなぁと思ったことが有るけど、案外ちゃんと名前をつけてあげないと最初から細部まで完璧な計画が(実際に有るかは別として)...",
+          "link": "https://blog.magnolia.tech/entry/2021/08/14/160420",
+          "publishedOn": "2021-08-14T08:45:41.000Z",
+          "wordCount": 123,
+          "title": "計画の解像度を上げていく - Magnolia Tech"
         },
         {
           "id": "https://japanese.engadget.com/eu-law-force-iphone-switch-usbc-025600313.html",
@@ -7132,231 +7375,6 @@
           "publishedOn": "2021-07-17T12:28:39.000Z",
           "wordCount": 194,
           "title": "無料でUSBメモリーなどをFAT32/NTFS/exFAT/ReFS/ext2/ext3にフォーマットできる「Rufus」の使い方レビュー - GIGAZINE"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/07/17/2021-07-06-kill-the-standard-privacy-notice/",
-          "author": null,
-          "description": "編集部注：本稿の著者Leif-Nissen Lundbæk（レイフ-ニッセン・ルンドベック）氏は、Xaynの共同設立者兼CEO。専門はプライバシー保護を目的としたAIだ。 ーーー 「プライバシー」は誰もが気にする言葉であり、大手テック企業でさえもこの問題に取り組んでいる。最近では、Apple（アップル）がiOS バージョン14.5の要（か...",
-          "link": "https://jp.techcrunch.com/2021/07/17/2021-07-06-kill-the-standard-privacy-notice/",
-          "publishedOn": "2021-07-17T10:34:54.000Z",
-          "wordCount": 331,
-          "title": "コラム】消費者の同意を取り付けるためだけのプライバシー通知をやめませんか？ | TechCrunch Japan"
-        },
-        {
-          "id": "https://blog.evsmart.net/test-drive-reports/broken-iga-supercharger/",
-          "author": null,
-          "description": "テスラ『モデル3』パフォーマンスで、東京から伊賀スーパーチャージャーで充電して京都府へ。でもスーパーチャージャー（SC）は故障で使えず、チャデモ急速充電で繋ぐことになり。あてにしていたSCが使えないと、テスラがただの電気自動車になってしまうことを痛感しました。代官山SC開設！ のニュースとともにお伝えし...",
-          "link": "https://blog.evsmart.net/test-drive-reports/broken-iga-supercharger/",
-          "publishedOn": "2021-07-17T09:59:38.000Z",
-          "wordCount": 1514,
-          "title": "スーパーチャージャー故障でテスラ モデル3も「ただの電気自動車になるのを実感」レポート | EVsmartブログ"
-        },
-        {
-          "id": "https://github.com/grafana/k6",
-          "author": null,
-          "description": "Like unit testing, for performance A modern load testing tool for developers and testers in the DevOps era. Download · Install · Documentation · Community k6 is a modern load testing tool, building on our years of experience in the load and performance testing industry. It provides a clean, appro...",
-          "link": "https://github.com/grafana/k6",
-          "publishedOn": "2021-07-17T08:43:08.000Z",
-          "wordCount": 5127,
-          "title": "GitHub - grafana/k6: A modern load testing tool, using Go and JavaScript - https://k6.io"
-        },
-        {
-          "id": "https://www.lifehacker.jp/2021/07/how-to-use-assistivetouch-on-the-apple-watc.html",
-          "author": null,
-          "description": "AssistiveTouchは、Apple Watchのアクセシビリティ機能の1つ。watchOS8から導入されると言われています。 画面に触れることなくApple Watchを操作することができるこの機能は、Apple Watchに搭載されたジャイロスコープ、加速度センサー、光学式心拍センサーを利用して、Apple Watchを装着した腕の指や手首の動き、たと...",
-          "link": "https://www.lifehacker.jp/2021/07/how-to-use-assistivetouch-on-the-apple-watc.html",
-          "publishedOn": "2021-07-17T07:23:40.000Z",
-          "wordCount": 93,
-          "title": "Apple WatchでAssistiveTouchを使う方法 | ライフハッカー［日本版］"
-        },
-        {
-          "id": "https://ledge.ai/ai-quest-2021-start/",
-          "author": null,
-          "description": "AI人材が不足している――。 日本国内でAI活用が進まない大きな理由のひとつに「AI人材の不足」が第一に挙げられる。これは、中小企業だけでなく大企業にも言える話だ。 政府としても現状を打開するために政策を打ち出している。そのなかのひとつに経済産業省が推進するAI人材育成事業「AI Quest」がある。 AI Questを担当...",
-          "link": "https://ledge.ai/ai-quest-2021-start/",
-          "publishedOn": "2021-07-17T07:12:35.000Z",
-          "wordCount": 209,
-          "title": "経済産業省のAI人材育成事業「AI Quest」 評判の良い理由は「学んで終わりではない」内容構成 | Ledge.ai"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/07/17/2021-07-07-youtubes-recommender-ai-still-a-horrorshow-finds-major-crowdsourced-study/",
-          "author": null,
-          "description": "YouTubeの動画推薦アルゴリズムは長年、さまざまな社会悪を煽ってきたとして非難されてきた。YouTubeには、AIで増幅されたヘイトスピーチ、過激な政治思想、そして同社の広告インベントリに数十億人の目を釘付けにして荒稼ぎするための策略やデマの類があふれている。 YouTubeの親会社であるGoogle（グーグル）は、YouTu...",
-          "link": "https://jp.techcrunch.com/2021/07/17/2021-07-07-youtubes-recommender-ai-still-a-horrorshow-finds-major-crowdsourced-study/",
-          "publishedOn": "2021-07-17T05:08:59.000Z",
-          "wordCount": 404,
-          "title": "YouTubeの動画レコメンドAIは依然として悪行を重ねていることが大規模調査で判明 | TechCrunch Japan"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1338868.html",
-          "author": null,
-          "description": "グーグル（Google）は、グループウェア「Google Workspace」において、7月初旬から新たな有料プラン「Google Workspace Individual」の提供を開始している。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1338868.html",
-          "publishedOn": "2021-07-17T04:11:42.000Z",
-          "wordCount": 109,
-          "title": "グーグルから有料プラン「Google Workspace Individual」、個人事業主など向けに - ケータイ Watch"
-        },
-        {
-          "id": "https://www.cnn.co.jp/travel/35174051.html",
-          "author": null,
-          "description": "グーグルマップが示す登山ルートについて「死の危険がある」と英国の登山団体が警告/Google/Mountaineering Scotland （ＣＮＮ） 英スコットランドの複数の登山団体はこのほど、ベンネビス山などの登頂を目指す登山客がグーグルマップによって「死に至る可能性」のあるルートに誘導されていると警告を発した。 英ジョン...",
-          "link": "https://www.cnn.co.jp/travel/35174051.html",
-          "publishedOn": "2021-07-17T03:26:52.000Z",
-          "wordCount": 166,
-          "title": "CNN.co.jp : グーグルマップ、「死の可能性」のある登山ルートに誘導　英団体が警告"
-        },
-        {
-          "id": "https://ledge.ai/en-japan-web-development-ranking/",
-          "author": null,
-          "description": "TOP > Article Theme > 人工知能（AI）ニュース > Webサービスで使用される開発言語 JavaScriptとPHPが1位、Pythonは3位 エン・ジャパン株式会社は7月8日、「Webサービスの開発環境」に関するランキングを発表した。「Webサービスの開発で使用されている開発言語 TOP10」は、1位がJavaScriptとPHP、3位はPythonだった。 ...",
-          "link": "https://ledge.ai/en-japan-web-development-ranking/",
-          "publishedOn": "2021-07-17T03:25:16.000Z",
-          "wordCount": 150,
-          "title": "Webサービスで使用される開発言語 JavaScriptとPHPが1位、Pythonは3位 | Ledge.ai"
-        },
-        {
-          "id": "https://satoru-takeuchi.hatenablog.com/entry/2021/07/16/231642",
-          "author": null,
-          "description": "ソフトウェア技術者として名を上げたい人向けの記事です。 まずは前置き。ソフトウェア技術者の世界にはスーパースターといえるような凄まじい能力を持つ人達がいます。彼らのうちの一部は生活能力がゼロだったり、口や態度が悪かったり、好きなこと以外は一切できなかったりといった様々な欠点があります。すごい人の中...",
-          "link": "https://satoru-takeuchi.hatenablog.com/entry/2021/07/16/231642",
-          "publishedOn": "2021-07-17T01:55:49.000Z",
-          "wordCount": 89,
-          "title": "ソフトウェア技術者はなるべくソフトウェア技術で目立つほうがいい - 覚書"
-        },
-        {
-          "id": "https://robertfaldo.medium.com/improving-rails-scalability-using-the-modular-monolith-approach-with-enforced-boundaries-f8cea89e85b9",
-          "author": null,
-          "description": "Improving Rails scalability using the modular monolith approach with enforced boundaries Ruby & Rails have a reputation for not scaling well — you’ve probably heard this already. TLDR for this postThere’s 3 things I’m going to talk about that have been used to improve the scalability of a Rails a...",
-          "link": "https://robertfaldo.medium.com/improving-rails-scalability-using-the-modular-monolith-approach-with-enforced-boundaries-f8cea89e85b9",
-          "publishedOn": "2021-07-17T01:26:50.000Z",
-          "wordCount": 2804,
-          "title": "Improving Rails scalability using the modular monolith approach with enforced boundaries | by Rob Faldo | Jul, 2021 | Medium"
-        },
-        {
-          "id": "https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet/",
-          "author": null,
-          "description": "Blender Bot 2.0: An open source chatbot that builds long-term memory and searches the internet Facebook AI Research has built and open-sourced BlenderBot 2.0, the first chatbot that can simultaneously build long-term memory it can continually access, search the internet for timely information, an...",
-          "link": "https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet/",
-          "publishedOn": "2021-07-17T00:11:44.000Z",
-          "wordCount": 2071,
-          "title": "Blender Bot 2.0: An open source chatbot that builds long-term memory and searches the internet"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1338781.html",
-          "author": null,
-          "description": "米Googleは7月12日（現地時間）、「Gmail」全体でBIMI（Brand Indicators for Message Identification）をサポートしたことを発表した。今後数週間にわたって展開される見込み。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1338781.html",
-          "publishedOn": "2021-07-16T22:48:57.000Z",
-          "wordCount": 110,
-          "title": "「Gmail」で信頼できるドメインからのメールアイコンにブランドロゴを表示する機能 - 窓の杜"
-        },
-        {
-          "id": "https://blog.nownabe.com/2020/12/13/home-finance-with-bigquery/",
-          "author": null,
-          "description": "弊家では銀行やクレジットカードの明細を BigQuery に取り込んでダッシュボードを作ったりしています。 また、そのために作った BigQuery 向けの Go 製 ETL フレームワークを OSS として公開しました。 本記事ではざっくりどんなもんかを紹介して、どう作るのかを説明します。 Google Cloud Platform Advent Calendar 20...",
-          "link": "https://blog.nownabe.com/2020/12/13/home-finance-with-bigquery/",
-          "publishedOn": "2021-07-16T22:48:54.000Z",
-          "wordCount": 951,
-          "title": "我が家の BigQuery による台所事情分析 - nownab.log"
-        },
-        {
-          "id": "https://www.watto.nagoya/entry/2021/07/16/233000",
-          "author": null,
-          "description": "FF さんでもある b:id:Tetrapost さんが、ツイッター連携でブックマークコメントしたところブックマークコメントへのリンクが表示されない、という趣旨のツイートをされていました。 FF さんがたまたまツイートしているところに居合わせたときには、安易にリプをつける傾向があります。このときは「記事タイトル+コメン...",
-          "link": "https://www.watto.nagoya/entry/2021/07/16/233000",
-          "publishedOn": "2021-07-16T21:16:29.000Z",
-          "wordCount": 190,
-          "title": "はてなブックマークとTwittterの連携機能の設定変更について備忘メモ - しいたげられたしいたけ"
-        },
-        {
-          "id": "https://japanese.engadget.com/worlds-first-3-d-printed-stainless-steel-bridge-205031971.html",
-          "author": null,
-          "description": "オランダ・アムステルダムに世界初のステンレス鋼で3Dプリントされた橋がかかりました。この橋はAutodeskと技術協力して開発されたMX3Dソフトウェアを使い、溶接トーチを装着した産業用ロボットアーム4台で、約6か月をかけて”出力”されました。 完成したこの3Dプリント橋の大きさは、全長12.5メートル、幅6.3メートル、...",
-          "link": "https://japanese.engadget.com/worlds-first-3-d-printed-stainless-steel-bridge-205031971.html",
-          "publishedOn": "2021-07-16T21:01:00.000Z",
-          "wordCount": 187,
-          "title": "世界初、ステンレスの3Dプリント橋がアムステルダムにかかる。センサーで交通量や痛み具合を監視 - Engadget 日本版"
-        },
-        {
-          "id": "https://www.vuemastery.com/blog/vue-3-migration-build/",
-          "author": null,
-          "description": "Vue 3 Migration Build: safely upgrade your app to Vue 3 (Pt. 1) The Vue team has recently released the highly anticipated migration build for Vue 3. If you’ve been thinking about upgrading your Vue 2 app to Vue 3, this is what you need. The process of upgrading an app to the latest version of the...",
-          "link": "https://www.vuemastery.com/blog/vue-3-migration-build/",
-          "publishedOn": "2021-07-16T17:35:13.000Z",
-          "wordCount": 1871,
-          "title": "Vue 3 Migration Build: safely upgrade your app to Vue 3 (Pt. 1) | Vue Mastery"
-        },
-        {
-          "id": "https://ja.stateofaiguides.com/20210716-github-copilot-codex/",
-          "author": null,
-          "description": "高性能なコードをコメント等から生成・補完してくれる GitHub Copilot。２週間ほど前にリリースされてから、ネット上にて何かと話題になりました。今週、GitHub Copilot を支える大規模言語モデルである 「Codex」の技術詳細に関する論文が OpenAI から発表されましたので、速報的に解説してみたいと思います。なお、こ...",
-          "link": "https://ja.stateofaiguides.com/20210716-github-copilot-codex/",
-          "publishedOn": "2021-07-16T17:30:09.000Z",
-          "wordCount": 382,
-          "title": "GitHub の コード自動生成 AI「Copilot」の技術詳細を解説 【論文解説】"
-        },
-        {
-          "id": "https://zenn.dev/eringiv3/articles/56f2b9f90a0632",
-          "author": null,
-          "description": "フロントエンドアプリケーションの開発を行う上で避けては通れないデータフェッチの実装。 REST APIを使うか、GraphQLを使うか、クライアントでキャッシュするか、APIレスポンスにどのようにして型を付けるか、状態管理はどうするのかなど、開発者の悩みが尽きないけれども、それに関しての設計を考えたり議論を行うのは...",
-          "link": "https://zenn.dev/eringiv3/articles/56f2b9f90a0632",
-          "publishedOn": "2021-07-16T13:30:37.000Z",
-          "wordCount": 768,
-          "title": "ぼくのかんがえたさいきょうのデータフェッチ 2021Summer🏄‍♂️【Next.js / Hasura】"
-        },
-        {
-          "id": "https://japan.cnet.com/article/35174005/",
-          "author": null,
-          "description": "Microsoftは、オンラインで開催中のパートナー向けカンファレンス「Microsoft Inspire」のセッションで、「Windows 365 Cloud PC」のSKUの1つについて正式価格と思われる情報を明らかにした。 Microsoftは、Windows 365を「Business」と「Enterprise」の2種類のプランで提供することを明らかにしている。セッションを視...",
-          "link": "https://japan.cnet.com/article/35174005/",
-          "publishedOn": "2021-07-16T13:30:07.000Z",
-          "wordCount": 483,
-          "title": "マイクロソフトの「Windows 365」、構成の1つは月額約3400円 - CNET Japan"
-        },
-        {
-          "id": "https://www.oreilly.co.jp//books/9784873119380/",
-          "author": null,
-          "description": "Facebookが開発したJavaScriptライブラリ「React」の解説書。2013年にオープンソース化されたReactですが、ここ数年で大きな変更が加えられ、またReactを取り巻くエコシステムも大きく変化しました。本書では実際に動くコンポーネントを作りながら、最新のReactの記法について解説しつつ、最新のツールやライブラリも紹...",
-          "link": "https://www.oreilly.co.jp//books/9784873119380/",
-          "publishedOn": "2021-07-16T13:19:16.000Z",
-          "wordCount": 403,
-          "title": "O'Reilly Japan - Reactハンズオンラーニング 第2版"
-        },
-        {
-          "id": "https://speakerdeck.com/helloyuk13/rusthanzuon-at-eurekashe",
-          "author": null,
-          "description": "Transcript 2021/7/16 @ 株式会社エウレカ Rust ハンズオン 江間さんご招待ありがとうございます Hello, I’m... Yuki Toyoda Software Engineer @ CyberAgent Dynalyst Next Experts in Rust @ CyberAgent 共著『実践Rustプログラミング入門』 Rust.Tokyo, RustFest Global オーガナイザ Contributor to rust-lang/rust,...",
-          "link": "https://speakerdeck.com/helloyuk13/rusthanzuon-at-eurekashe",
-          "publishedOn": "2021-07-16T12:46:13.000Z",
-          "wordCount": 1187,
-          "title": "Rustハンズオン@エウレカ社 - Speaker Deck"
-        },
-        {
-          "id": "https://nordot.app/788737487652585472",
-          "author": null,
-          "description": "新型コロナウイルスワクチンの供給を巡り、政府と自治体で在庫量の認識に差があるのは、政府が2種の異なるシステムで在庫を把握しているのが一因であることが16日、政府関係者への取材で分かった。当初はワクチンの配送と接種実績を単一システムで管理していたが、接種実績はマイナンバー（個人番号）を活用する新システ...",
-          "link": "https://nordot.app/788737487652585472",
-          "publishedOn": "2021-07-16T12:44:17.000Z",
-          "wordCount": 42,
-          "title": "ワクチン問題、新システムに一因　2種併存で在庫把握困難 ｜ 共同通信"
-        },
-        {
-          "id": "https://av.watch.impress.co.jp/docs/news/1338874.html",
-          "author": null,
-          "description": "カルチュア・コンビニエンス・クラブのTSUTAYAチェーンにおいて、最大のフランチャイズ加盟会社として、1都9県で蔦屋書店・TSUTAYAを74店舗展開しているトップカルチャーは15日、2023年10月期を目処にレンタル事業からの撤退を発表。「新しい“蔦屋書店/TSUTAYA”へのチャレンジ」という中期経営方針を掲げ、特撰雑貨文具やジャンルの拡大や、コワーキング事業への進出を行なうという。なお、レンタル事業から撤退するのはトップカルチャーが展開する店舗のみで、全てのTSUTAYAがレンタル事業を終了するわけではない。",
-          "link": "https://av.watch.impress.co.jp/docs/news/1338874.html",
-          "publishedOn": "2021-07-16T12:37:40.000Z",
-          "wordCount": 86,
-          "title": "蔦屋書店・TSUTAYA 74店展開のトップカルチャー、レンタル事業撤退へ - AV Watch"
-        },
-        {
-          "id": "https://response.jp/article/2021/07/16/347751.html",
-          "author": null,
-          "description": "◆サイドドアはなくリアから室内へ ◆乗員の好みなどに応じて自動運転モードを切り替え ◆ガラスに表示された情報にタッチして詳細を確認できる",
-          "link": "https://response.jp/article/2021/07/16/347751.html",
-          "publishedOn": "2021-07-16T12:26:19.000Z",
-          "wordCount": 282,
-          "title": "ピニンファリーナ、未来のシューティングブレーク提案…自動運転EVで | レスポンス（Response.jp）"
         }
       ]
     },
@@ -7915,33 +7933,6 @@
           "publishedOn": "2021-07-19T14:43:29.000Z",
           "wordCount": 2018,
           "title": "Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344217",
-          "author": "Chris Coyier",
-          "description": "We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …\nThe post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/",
-          "publishedOn": "2021-07-16T20:27:46.000Z",
-          "wordCount": 670,
-          "title": "WordPress Admin Warnings in the Block Editor"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344147",
-          "author": "Mate Marschalko",
-          "description": "Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!\nHere’s a quick look at the clocks …\nThe post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/",
-          "publishedOn": "2021-07-16T14:43:01.000Z",
-          "wordCount": 4450,
-          "title": "Of Course We Can Make a CSS-Only Clock That Tells the Current Time!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344411",
-          "author": "Chris Coyier",
-          "description": "Glitter text — whO (I learned a name for people who go by a one-word moniker like that: Mononymous) created a builder for fancy SVG-based type. It’s a custom font with <text>, and the fancy comes in with a \n…\nThe post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/some-typography-links-3/",
-          "publishedOn": "2021-07-16T14:42:40.000Z",
-          "wordCount": 727,
-          "title": "Some Typography Links"
         }
       ]
     },
@@ -8045,6 +8036,87 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/geekchao/scope-12d8",
+          "author": "邹明潮",
+          "description": "Scope\nScope is one of fundamental building blocks in the Angular1.x framework. Its main purposes are the followings: sharing data, broadcasting and listening events, and watching for changes in data. Poking around the source code of the scope assists me in having a better understanding of what it is going on under the hood. In addition, I will share what I learned from the implementation of the scope in this blog. The scope has five components:\nThe Angular Scope makes use of two main functions to implement the dirty-checking mechanism: the $watch and $digest function.\nA watch function(watchFn): return the piece of data you’re interested in.\nA listen function(listenFn): when the observed data changes, this function will be invoked.\nWith $watch you can attach a watcher to a scope. The scope maintains a queue called $$watchers, which stores all the watchers attached to it.\n$digest\nOptimization\nAs I mentioned, Angular Scope iterates over the watches as opposed to the properties of a scope in each digest round. Therefore, it is a good idea to pay attention to the number of watches you have, which will affect the performance of your application.",
+          "link": "https://dev.to/geekchao/scope-12d8",
+          "publishedOn": "2021-08-15T22:56:52.000Z",
+          "wordCount": 672,
+          "title": "Scope"
+        },
+        {
+          "id": "https://dev.to/pavankjadda/add-cypress-to-new-existing-angular-project-63e",
+          "author": "Pavan K Jadda",
+          "description": "This blog post demonstrates steps to setup Cypress with Angular. Cypress can be initialized using @briebug/cypress-schematic or manually. See the source code uploaded to Github\nAutomatic Initialization @briebug/cypress-schematic\n First, Install Cypress using the following command in Angular project\n\n\n\n\nnpm i -D cypress\n\n2. Initialize and Configure the Cypress with @briebug/cypress-schematic plugin. This will generate cypress directory, cypress.json, and updates package.json file\nng add @briebug/cypress-schematic\n\nThis will ask to remove Protractor from project with prompt “Would you like to remove Protractor from the project?”, enter Y if want to do so.\n4. Create new test under cypress/integration directory\ndescribe('Home Page Test', () =>{    \nbeforeEach(function () {      \ncy.visit('/');…",
+          "link": "https://dev.to/pavankjadda/add-cypress-to-new-existing-angular-project-63e",
+          "publishedOn": "2021-08-15T16:52:09.000Z",
+          "wordCount": 705,
+          "title": "Add Cypress to New/Existing Angular Project"
+        },
+        {
+          "id": "https://dev.to/pavankjadda/jwt-authentication-in-spring-security-and-angular-2ehk",
+          "author": "Pavan K Jadda",
+          "description": "This blog post explains the JSON web token(JWT) authentication using Spring Security, Spring Boot, Spring Data and Angular. Source code uploaded to Github repository\nImage by MasterTux from Pixabay\nJSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.\nIn its compact form, JSON Web Tokens consist of three parts separated by dots (.), which are:\n  Header\n  Payload\n  Signature\nTherefore, a JWT typically looks like the following.\nxxxxx.yyyyy.zzzzz\nThe header typically consists of two parts: the ty…",
+          "link": "https://dev.to/pavankjadda/jwt-authentication-in-spring-security-and-angular-2ehk",
+          "publishedOn": "2021-08-15T16:48:47.000Z",
+          "wordCount": 1136,
+          "title": "JWT authentication in Spring Security and Angular"
+        },
+        {
+          "id": "https://dev.to/valoni01/injecting-angular-environment-variables-at-build-time-84c",
+          "author": "Valentine Awe",
+          "description": "In this article, I assume that you are containerizing your Angular application and also have a CI/CD process in place. While the example in the article is also AWS specific, you can use the same principle across other cloud services.\nBy default, Angular injects the environment variable at the  application build time.\n\nThe above diagram depicts a regular flow for our application deployment. \nOur frontend app. inclusive of the environment variables \nis pushed to the repo\nOur build process picks it up, builds and deploy to our \nserver. \nWhile the above works very well, there are very unique cases where you would be required not to push your environment files to your application repository. If this happens, knowing that angular injects the environment variables at build time, we would need to …",
+          "link": "https://dev.to/valoni01/injecting-angular-environment-variables-at-build-time-84c",
+          "publishedOn": "2021-08-15T15:38:38.000Z",
+          "wordCount": 1295,
+          "title": "Injecting Angular Environment Variables at Build Time"
+        },
+        {
+          "id": "https://dev.to/rodrigokamada/adding-the-notification-component-to-an-angular-application-28m5",
+          "author": "Rodrigo Kamada",
+          "description": "Introduction\n\n\nAngular is a development platform for building WEB, mobile and desktop applications using HTML, CSS and TypeScript (JavaScript). Currently, Angular is at version 12 and Google is the main maintainer of the project.\nngx-toastr is a notification component library with many configuration options.\nBefore you start, you need to install and configure the tools:\ngit\nNode.js and npm\nAngular CLI\nIDE (e.g. Visual Studio Code)\n1. Let's create the application with the Angular base structure using the @angular/cli with the route file and the SCSS style format.\nng new angular-toastr\n? Would you like to add Angular routing? Yes\n? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/documentation/syntax#scss                ]\nCREATE angular-toastr/README.md (1059 byt…",
+          "link": "https://dev.to/rodrigokamada/adding-the-notification-component-to-an-angular-application-28m5",
+          "publishedOn": "2021-08-15T13:33:07.000Z",
+          "wordCount": 1052,
+          "title": "Adding the notification component to an Angular application"
+        },
+        {
+          "id": "https://dev.to/paviad/angular-wait-for-all-images-to-load-3hp1",
+          "author": "Aviad Pineles",
+          "description": "I was recently engaged in a long discussion on StackOverflow with some programmer who was having a problem. They wanted to run some process which was sensitive to the particular sizes and locations of the images on the page, so they had to find a way to wait for all the images to be done loading, before proceeding.\nThe naïve solution that was considered, was to subscribe to the window.load event, which fires when all images are loaded on initial page load. This would work only for the initial load of the Angular page, but thereafter, navigating within the app would not cause a page reload and there would be no obvious way to detect when new images were being added to the page.\nThe actual solution I came up with involved creating an Angular directive and a service. The directive attaches to…",
+          "link": "https://dev.to/paviad/angular-wait-for-all-images-to-load-3hp1",
+          "publishedOn": "2021-08-15T12:49:42.000Z",
+          "wordCount": 866,
+          "title": "Angular - Wait for All Images to Load"
+        },
+        {
+          "id": "https://dev.to/suvik023/angular-zoned-out-hi0",
+          "author": "Suvendu Karmakar",
+          "description": "A short guide to understand ZoneJs and to solve a problem.\n\n\n\n\n\nHow about no upfront elucidation of the topic but a story. Okay here it goes -  it was a regular morning at work. I as usual was sipping my coffee and trying to think of solution to a problem. The problem at hand was to implement a progress bar which tracks all the API calls before landing onto the actual page (loaded with the API data, Obviously!). As the application deals with myriads of data, this loader was to be designed to track lot of API calls. \"How hard can it be?\" , I thought. But the problem which seemed puny at the beginning, later turned out to be a nightmare.\nI was almost a novice in understanding how to use Angular's powerful tools to develop this. So,like any other problem I started looking out for possible way…",
+          "link": "https://dev.to/suvik023/angular-zoned-out-hi0",
+          "publishedOn": "2021-08-15T10:19:50.000Z",
+          "wordCount": 2335,
+          "title": "Angular - Zoned Out !"
+        },
+        {
+          "id": "https://dev.to/ippatev/how-to-use-the-vue-component-in-an-angular-project-2ag4",
+          "author": "Aleksandr Ippatev",
+          "description": "Vue 3.2 introduces a new defineCustomElement method for easily creating native custom elements using Vue component APIs:\nimport { defineCustomElement } from 'vue'\n\nconst MyVueElement = defineCustomElement({\n  // normal Vue component options here\n})\n\n// Register the custom element.\n// After registration, all `<my-vue-element>` tags\n// on the page will be upgraded.\ncustomElements.define('my-vue-element', MyVueElement)\n\nThis API allows develpers to create Vue-powered UI component libraries that can be used with any framework, or no framework at all. We have also added a new section in our docs on consuming and creating Web Components in Vue.\n\n<script src=\"https://unpkg.com/vue@next\"></script>\n<!-- <script src=\"https://unpkg.com/vue-custom-element@3.0.0/dist/vue-custom-element.js\"></script> --…",
+          "link": "https://dev.to/ippatev/how-to-use-the-vue-component-in-an-angular-project-2ag4",
+          "publishedOn": "2021-08-15T09:55:45.000Z",
+          "wordCount": 632,
+          "title": "How to use the vue component in an angular project"
+        },
+        {
+          "id": "https://dev.to/cchirag/reactez-4lkp",
+          "author": "Chirag Chandrashekhar",
+          "description": "Reactez\n\n\nA simple React CLI for Component and Page creation.\nThese instructions will get you a copy of the project up and running on your local machine.\nnpm i -g reactez\n\nWith the new Version of reactez (v1.1.0)\nrez generate\n\nor\nrez g\n\nThis takes you to an easy-to-use prompt that helps you to generate Components,Pages and implement Axios into your project with ease.\nrez component [COMPONENTNAME]\n\nor\nrez c [COMPONENTNAME]\n\nThis command creates a default Functional Component.\nThe component is created at /src/components/.\nThe generated component consists of a .jsx(component file) and a .css(style sheet) files.\nGenerated component comes with a Functional Component boilerplate with the style sheet imported.\nrez component [COMPONENTNAME] -c\n\nor\nrez c [COMPONENTNAME] -c\n\nThis command creates a C…",
+          "link": "https://dev.to/cchirag/reactez-4lkp",
+          "publishedOn": "2021-08-15T07:47:53.000Z",
+          "wordCount": 778,
+          "title": "Reactez"
+        },
         {
           "id": "https://dev.to/javatpoint/an-ultimate-guides-to-angular-8-4p4j",
           "author": "JavaTpoint",
@@ -9124,15 +9196,6 @@
           "publishedOn": "2021-07-17T12:27:22.000Z",
           "wordCount": 1631,
           "title": "Introducing Angular Mini Blog Series - Part 1"
-        },
-        {
-          "id": "https://dev.to/mateuszto/code-review-angular-p7b",
-          "author": "Mateusz Tomczyk",
-          "description": "Here's my small app https://github.com/Mateuszto/trui\nCan someone give feedback?",
-          "link": "https://dev.to/mateuszto/code-review-angular-p7b",
-          "publishedOn": "2021-07-17T10:13:27.000Z",
-          "wordCount": 349,
-          "title": "Code review - Angular"
         }
       ]
     },
@@ -9141,6 +9204,15 @@
       "feedUrl": "https://dev.to/feed/tag/rxjs",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/paviad/reactively-retrieving-all-rows-from-a-paginated-source-4f49",
+          "author": "Aviad Pineles",
+          "description": "Let's say you have a data source which is paginated, so you can request this page or that, but you can't request all the entries at once. Now, regardless of whether it is right or not, how would you approach this task, if you wanted to do it anyway?\nOne approach would be imperative. In the imperative way, we use a loop, get one page, wait for the results, get the next one, and so on. When a page query returns no results, we return the collected results.\nlet pageNumber = 0;\nlet results = [];\n\ndo {\n  const pageResults = await getPage(pageNumber++).toPromise();\n  results = results.concat(pageResults);\n} while(pageResults.length !== 0);\n\nreturn results;\n\nBut imperative is so 2nd millennium, we want to do some reactive magic! Enter expand...\nThe expand Rxjs operator takes an input, and returns …",
+          "link": "https://dev.to/paviad/reactively-retrieving-all-rows-from-a-paginated-source-4f49",
+          "publishedOn": "2021-08-15T09:22:15.000Z",
+          "wordCount": 834,
+          "title": "Rxjs Expand - Reactively Retrieve All Rows From a Paginated Source"
+        },
         {
           "id": "https://dev.to/mparpaillon/lazy-load-a-firestore-realtime-query-with-dynamic-result-2662",
           "author": "Michel Parpaillon",
@@ -9230,15 +9302,6 @@
           "publishedOn": "2021-07-21T14:51:21.000Z",
           "wordCount": 764,
           "title": "Angular infinite scrolling using RxJS and NgRx"
-        },
-        {
-          "id": "https://dev.to/thisdotmedia/how-to-implement-drag-drop-using-rxjs-16m9",
-          "author": "Chris Trześniewski",
-          "description": "Drag & drop is one of the features that can be very useful for the end-users of our application. Additionally, it is a great example to show how RxJS can be used to handle drag-and-drop functionality with ease. Let's see how we can implement the simple dragging behavior.\nTo follow along with all the code examples in this article, I recommend opening this Stackblitz starter example. All examples will be based on this starter project.\nBefore we start the implementation, let's consider what the drag and drop functionality consists of. It can be split into 3 phases:\ndrag start\ndrag move\ndrag end (drop)\nIn a nutshell, drag start happens whenever we press mouse down on a draggable item. Following that each time we move a cursor a drag move event should be emitted. Drag move should continue, but …",
-          "link": "https://dev.to/thisdotmedia/how-to-implement-drag-drop-using-rxjs-16m9",
-          "publishedOn": "2021-07-16T18:57:22.000Z",
-          "wordCount": 1745,
-          "title": "How to implement drag & drop using RxJS"
         }
       ]
     },
@@ -9407,6 +9470,24 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/cfdfc5369e1",
+          "author": "Jacob Latonis",
+          "description": "Stop using Python to interact with JSON — switch to Go instead\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/why-you-should-be-using-go-when-working-with-json-cfdfc5369e1?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-15T19:16:27.000Z",
+          "wordCount": 963,
+          "title": "Why You Should Be Using Go When Working With JSON"
+        },
+        {
+          "id": "https://medium.com/p/2d4776866808",
+          "author": "The Hosk",
+          "description": "You cannot automate creativity to create the unknown\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/software-development-cannot-be-automated-because-its-a-creative-process-with-an-unknown-end-goal-2d4776866808?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-15T07:23:06.000Z",
+          "wordCount": 879,
+          "title": "Software Development Can’t Be Automated — It’s a Creative Process With an Unknown End Goal"
+        },
         {
           "id": "https://medium.com/p/6cc992055c13",
           "author": "Alireza Bonab",
