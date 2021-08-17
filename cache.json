@@ -33,6 +33,204 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000002.000079105.html",
+          "author": null,
+          "description": "医療法人社団新潮会（本社：東京都足立区、理事長 北城 雅照）は、2021年6月にトライアル開校した医療者向けのプログラミングスクール「ものづくり医療センター（通称：もいせん）」を、2021年10月に本格開校いたします。これにともない、2021年8月16日よりプログラミング教育入院希望者の募集を開始いたします。 ■医療...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000002.000079105.html",
+          "publishedOn": "2021-08-16T22:34:18.000Z",
+          "wordCount": 677,
+          "title": "現役の医師が手がけるプログラミングスクール 『ものづくり医療センター（通称：もいせん）』が本格開校。医療現場の課題を自ら解決できる医療者を育てる、日本初の医療者向けプログラミングスクールがスタート。｜医療法人社団新潮会のプレスリリース"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/googlefacebookosebpfebpf_foundation.html",
+          "author": null,
+          "description": "Google、Facebook、マイクロソフトらが、OSカーネルをプログラマブルに拡張できる「eBPF」の開発と発展を目指す「eBPF Foundation」を結成 eBPFとは、Linuxカーネルのコードを変更することなく、カーネルの持つさまざまな機能をフックすることでカーネルに対してある種の機能拡張を実現する技術です。 このeBPFの開発促...",
+          "link": "https://www.publickey1.jp/blog/21/googlefacebookosebpfebpf_foundation.html",
+          "publishedOn": "2021-08-16T15:10:38.000Z",
+          "wordCount": 217,
+          "title": "Google、Facebook、マイクロソフトらが、OSカーネルをプログラマブルに拡張できる「eBPF」の開発と発展を目指す「eBPF Foundation」を結成 － Publickey"
+        },
+        {
+          "id": "https://zenn.dev/mattn/articles/d1b114e2d4a421",
+          "author": null,
+          "description": "はじめに データベースを扱う際に、データベースサーバがローカルネットワーク内に存在すれば直接接続できるのですが、時にはデータベースサーバが遠隔にあり ssh を介してしか接続できないケースもあります。そういった場合、ポートフォワーディング等を使って接続するなどしないといけません。 しかしながら、その為に...",
+          "link": "https://zenn.dev/mattn/articles/d1b114e2d4a421",
+          "publishedOn": "2021-08-16T14:42:49.000Z",
+          "wordCount": 107,
+          "title": "Go で SSH 超しに PostgreSQL に接続できる database/sql ドライバを作った。"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253576",
+          "author": null,
+          "description": "データベースと「ソフトの定跡」 渡辺　連盟（日本将棋連盟）のデータベースも新しく変わりました。タブレット記録だから、終わった瞬間に棋譜が入るんですよね。終局して提出すると入る。これとか昨日の（棋譜）なんですけど。タブレットだからリアルタイムで見れるソフトもあって。いまはもう、ほぼほぼ全部がリアルタ...",
+          "link": "https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253576",
+          "publishedOn": "2021-08-16T14:38:17.000Z",
+          "wordCount": 157,
+          "title": "渡辺明名人、１秒間に8000万手読むコンピュータを購入しディープラーニング系のソフトも導入（６）（松本博文） - 個人 - Yahoo!ニュース"
+        },
+        {
+          "id": "https://www.slideshare.net/storywriterjp/ss-249984164",
+          "author": null,
+          "description": "We use your LinkedIn profile and activity data to personalize ads and to show you more relevant ads. You can change your ad preferences anytime.",
+          "link": "https://www.slideshare.net/storywriterjp/ss-249984164",
+          "publishedOn": "2021-08-16T14:32:56.000Z",
+          "wordCount": 1437,
+          "title": "「顧客の声を聞かない」とはどういうことか"
+        },
+        {
+          "id": "https://gigazine.net/news/20210816-google-buy-android/",
+          "author": null,
+          "description": "iOSと並んでスマートフォン向けOSとして確固たる地位を築いてるAndroidの初期バージョンは、2003年に設立されたAndroid社によって開発されました。このAndroid社がGoogleに買収されるまでの経緯を、Androidの開発に長年関わってきたチェット・ハーゼ氏が解説しています。 Excerpt: How Google bought Android—according ...",
+          "link": "https://gigazine.net/news/20210816-google-buy-android/",
+          "publishedOn": "2021-08-16T14:32:22.000Z",
+          "wordCount": 184,
+          "title": "GoogleがAndroidを手に入れるに至った知られざる経緯とは？ - GIGAZINE"
+        },
+        {
+          "id": "https://slinkity.dev/",
+          "author": null,
+          "description": "To eleventy and beyond Follow along on Twitter for project updates ❤️ Slinkity is now available as an early alpha! No, it's not ready for production use. But if you want to have some fun and don't mind logging bugs, head to the quick start guide :) What is it? Slinkity is a plugin that can extend ...",
+          "link": "https://slinkity.dev/",
+          "publishedOn": "2021-08-16T13:48:14.000Z",
+          "wordCount": 600,
+          "title": "Slinkity"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253570",
+          "author": null,
+          "description": "ソフトはなぜすぐ千日手を主張するのか？ 松本　将棋の中継を見ていると、ソフトはすぐに千日手を主張するような気がしますね。 渡辺　dlshogiはあまり千日手は言わないんですか？ 杉村　言わないです。基本的には（評価値が）１ケタぐらいになったら千日手に近づくんですけど。 渡辺　水匠はわりとすぐに千日手って言う...",
+          "link": "https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253570",
+          "publishedOn": "2021-08-16T13:45:43.000Z",
+          "wordCount": 158,
+          "title": "渡辺明名人、１秒間に8000万手読むコンピュータを購入しディープラーニング系のソフトも導入（５）（松本博文） - 個人 - Yahoo!ニュース"
+        },
+        {
+          "id": "https://zenn.dev/azukiazusa/articles/c89d4bdc7dacf2",
+          "author": null,
+          "description": "普段からTypeScriptで開発されている方ならば、TypeScriptの恩恵を十分に堪能されていることと思います。 特に私はVS Codeのインテリセンスには頼りっぱなしでこれがなければまともにコーディングができない体になってしまいました。 しかし時には、TypeScriptという概念が存在しない退屈な世界で開発を行わなけらばなら...",
+          "link": "https://zenn.dev/azukiazusa/articles/c89d4bdc7dacf2",
+          "publishedOn": "2021-08-16T12:23:24.000Z",
+          "wordCount": 634,
+          "title": "JSDocで型を定義してTypeScriptの恩恵を受ける"
+        },
+        {
+          "id": "https://ledge.ai/meti-learning-0816/",
+          "author": null,
+          "description": "画像は「巣ごもりDXステップ講座情報ナビ」より 経済産業省は、AI（人工知能）やデータサイエンスなどのデジタルスキルを学べる、無料オンライン講座を紹介する「巣ごもりDXステップ講座情報ナビ」を公開している。 この記事では、同サイトに載っている無料の学習コンテンツのなかから、AIおよびデータサイエンス関連の...",
+          "link": "https://ledge.ai/meti-learning-0816/",
+          "publishedOn": "2021-08-16T11:28:23.000Z",
+          "wordCount": 144,
+          "title": "Pythonの実装やMicrosoftのAI講座が無料に | Ledge.ai"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/16/news126.html",
+          "author": null,
+          "description": "京都大学大学院の橋本幸士教授が「たこ焼きが崩れないように巨大化させるには扁平な形状にする必要がある」という予想を、論文形式でまとめた文書を公開した。風味を落とさず巨大化するための予想を「オイラー・ラグランジュ形式」という方程式を使って説明している。 京都大学大学院の橋本幸士教授（理学研究科）は8月1...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/16/news126.html",
+          "publishedOn": "2021-08-16T11:02:16.000Z",
+          "wordCount": 144,
+          "title": "「たこ焼きはどこまで大きくできるのか」解明に数学で挑戦　京大大学院の橋本教授と理系YouTuberが論文公開 - ITmedia NEWS"
+        },
+        {
+          "id": "https://togetter.com/li/1760687",
+          "author": null,
+          "description": "Masayuki Hatta @mhatta 半可通の技術屋がWi-Fi関係で変なマウントを取ってきたら、ワイファイのワイはいいけどファイは何の略だよと聞くと面白い反応が見られることがあります 2021-08-16 14:23:30 Masayuki Hatta @mhatta A hacker wannabe from Japan. This account features my rants mainly in Japanese or English...",
+          "link": "https://togetter.com/li/1760687",
+          "publishedOn": "2021-08-16T10:54:11.000Z",
+          "wordCount": 801,
+          "title": "半可通の技術屋にWi-Fi関係でマウントを取られたら「ワイファイのファイは何の略？」と聞くといい→実は名前の由来が想定外過ぎたんです - Togetter"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253543",
+          "author": null,
+          "description": "最善の研究手法を求めて 松本　思い出すのは2005年当時のBonanzaが出てきた頃のことですね。Bonanzaはそれまでの将棋ソフトとは全然違う手法で開発されて、突然彗星のように現れ、ブレイクスルーになりました。 （2007年、渡辺竜王と対戦したBonanza、上に乗せられているのは扇風機） 松本　ただしBonanza以前の、精巧に...",
+          "link": "https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253543",
+          "publishedOn": "2021-08-16T10:27:05.000Z",
+          "wordCount": 123,
+          "title": "渡辺明名人、１秒間に8000万手読むコンピュータを購入しディープラーニング系のソフトも導入（３）（松本博文） - 個人 - Yahoo!ニュース"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2108/16/news113.html",
+          "author": null,
+          "description": "DataSignは、8月13日に個人向けプライバシー保護アプリ「Bunsin（ブンシン）」をリリースした。現在は招待制のため、サービスの利用には既存ユーザーからの招待が必要だ。 本サービスは自分の身代わりとなる「ブンシン」を作成し、そのブンシンを盾にして自分のプライバシーを保護するというもの。まずはメールアドレス...",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2108/16/news113.html",
+          "publishedOn": "2021-08-16T09:32:52.000Z",
+          "wordCount": 485,
+          "title": "身代わりのメールアドレスでプライバシーを保護　「Bunsin」アプリ - ITmedia Mobile"
+        },
+        {
+          "id": "http://blog.livedoor.jp/bluejay01-review/archives/58366615.html",
+          "author": null,
+          "description": "2021年08月16日14:02 Windowsユーザーの俺が独断と偏見で有能なフリーソフト書いてく カテゴリVIP 1: 以下、5ちゃんねるからVIPがお送りします 2021/08/16(月) 03:21:55.532 ID:iHYEg/A30 ちょっと時間が空いたので 皆もいいのあったら教えてくれ！ 4: 以下、5ちゃんねるからVIPがお送りします 2021/08/16(月) 03:22:41....",
+          "link": "http://blog.livedoor.jp/bluejay01-review/archives/58366615.html",
+          "publishedOn": "2021-08-16T05:50:45.000Z",
+          "wordCount": 1325,
+          "title": "Windowsユーザーの俺が独断と偏見で有能なフリーソフト書いてく : PCパーツまとめ"
+        },
+        {
+          "id": "https://keyv.js.org/",
+          "author": null,
+          "description": "It supports MySQL, PostgreSQL, SQLite, Redis, Mongo, DynamoDB, Firestore, Memcached, and more",
+          "link": "https://keyv.js.org/",
+          "publishedOn": "2021-08-16T04:29:36.000Z",
+          "wordCount": 11,
+          "title": "Keyv is a simple key-value storage with multi-backend support"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253492",
+          "author": null,
+          "description": "【渡辺明名人】37歳。名人・棋王・王将の三冠を保持し、現将棋界の序列１位。近年はコンピュータ将棋（AI）を用いての綿密な研究でも知られる。ほとんどの棋士を相手に勝ち越し「現役最強」とも言われるが、棋聖戦五番勝負では藤井聡太棋聖に挑戦して敗れた。 （７月某日、LINEにて、渡辺名人が研究用の新しいマシンの購...",
+          "link": "https://news.yahoo.co.jp/byline/matsumotohirofumi/20210816-00253492",
+          "publishedOn": "2021-08-16T04:17:10.000Z",
+          "wordCount": 137,
+          "title": "渡辺明名人、１秒間に8000万手読むコンピュータを購入しディープラーニング系のソフトも導入（１）（松本博文） - 個人 - Yahoo!ニュース"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/16/news076.html",
+          "author": null,
+          "description": "「SoftEther VPN」などにサイバー攻撃　開発者の登大遊さん、アップデートと設定確認を呼び掛け ソフトイーサが、VPNサービス「SoftEther VPN」「PacketiX VPN」の新ビルドを公開した。海外経由とみられるサイバー攻撃が多発しているという。同社はアップデートとともに、事前共有鍵の確認を呼び掛けている。 筑波大学発...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/16/news076.html",
+          "publishedOn": "2021-08-16T04:03:16.000Z",
+          "wordCount": 152,
+          "title": "「SoftEther VPN」などにサイバー攻撃　開発者の登大遊さん、アップデートと設定確認を呼び掛け - ITmedia NEWS"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/065/4065920/",
+          "author": null,
+          "description": "今回は、久々にCPU黒歴史をお届けしよう。黒歴史シリーズそのものも、公式には連載211回のIntel G965が最後だったので8年ぶりである。 さて、久々の黒歴史であるが、ついにインテルのItaniumが最終製品の出荷を完了した。現時点でark.intel.comを参照すると、まだItanium 9750以外は出荷中に見えるが、実は2019年1月末の...",
+          "link": "https://ascii.jp/elem/000/004/065/4065920/",
+          "publishedOn": "2021-08-16T03:37:28.000Z",
+          "wordCount": 545,
+          "title": "ASCII.jp：CPU黒歴史　周回遅れの性能を20年間供給したItanium (1/4)"
+        },
+        {
+          "id": "https://www.oreilly.co.jp//books/9784873119618/",
+          "author": null,
+          "description": "SREの探求 ――様々な企業におけるサイトリライアビリティエンジニアリングの導入と実践 David N. Blank-Edelman　編、山口 能迪　監訳、渡邉 了介　訳 2021年09月03日 発売予定 632ページ ISBN978-4-87311-961-8 原書: Seeking SRE フォーマット 組織の大小を問わず、システムやアプリケーションの信頼性がビジネスにとっ...",
+          "link": "https://www.oreilly.co.jp//books/9784873119618/",
+          "publishedOn": "2021-08-16T02:24:08.000Z",
+          "wordCount": 546,
+          "title": "O'Reilly Japan - SREの探求"
+        },
+        {
+          "id": "https://zenn.dev/nomura2020/articles/18b8974358bba1",
+          "author": null,
+          "description": "この記事は何？ Googleが開発した画像圧縮Webアプリ/CLIを紹介する記事です。 Webサイトを作成する時は、画像を利用することはなかなか避けられません。 画像サイズが大きいと、ページの読み込み速度が遅くなってしまうため、容量の大きい画像はできるだけ避けたいです。 そこで、画像を圧縮し、なるべく見た目は劣化さ...",
+          "link": "https://zenn.dev/nomura2020/articles/18b8974358bba1",
+          "publishedOn": "2021-08-16T00:13:38.000Z",
+          "wordCount": 191,
+          "title": "Google発の画像圧縮ツール「Squoosh」を使ってみた"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1343810.html",
+          "author": null,
+          "description": "ここ数年、な〜んか電子ペーパーデバイスが気になる俺。一昔前は「同じものを表示し続けるならツカエル」という印象だったが、日進月歩でデバイスの性能が上がり、最近では「個人で汎用するにも実用的かも」という雰囲気になってきた。紙の代替品として書いたりするのに使えつつ、デジタルなドキュメントを表示するのにもツカエルかな、と。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1343810.html",
+          "publishedOn": "2021-08-15T23:21:48.000Z",
+          "wordCount": 161,
+          "title": "最新電子ペーパー・デバイスを鋭意試用ッ!!!　そして思わず買（以下略） - ケータイ Watch"
+        },
+        {
           "id": "https://ja.softether.org/9-about/news/901-210816",
           "author": null,
           "description": "2021/08/16 日本の広範囲のグローバル IP の IPsec VPN 装置宛へのサイバー攻撃の注意喚起と「SoftEther VPN」/「PacketiX VPN」への影響を防ぐための設定の確認のお願い・新ビルドのお知らせ はじめに 本ドキュメントは、2021/08/16 公開の 「SoftEther VPN」/「PacketiX VPN」の Ver 4.37 Build 9758 Beta に関連する...",
@@ -40,6 +238,24 @@
           "publishedOn": "2021-08-15T18:28:09.000Z",
           "wordCount": 543,
           "title": "2021/08/16 日本の広範囲のグローバル IP の IPsec VPN 装置宛へのサイバー攻撃の注意喚起と「SoftEther VPN」/「PacketiX VPN」への影響を防ぐための設定の確認のお願い・新ビルドのお知らせ - SoftEther VPN プロジェクト"
+        },
+        {
+          "id": "https://zenn.dev/eagle/articles/ts-coproduct-introduction",
+          "author": null,
+          "description": "代数的データ型とはなにか 代数的データ型とは、要素の個数の足し算と掛け算のアナロジーで語ることができる型のことを指すというふわっとしたコンセンサスがありますが、 厳密に「これが代数的データ型である」という定義はおそらくありません[1]。 また、代数的データ型はいわゆる関数型言語で実装されることが多い言...",
+          "link": "https://zenn.dev/eagle/articles/ts-coproduct-introduction",
+          "publishedOn": "2021-08-15T18:18:57.000Z",
+          "wordCount": 1719,
+          "title": "TypeScriptで学ぶ代数的データ型"
+        },
+        {
+          "id": "https://togetter.com/li/1760368",
+          "author": null,
+          "description": "道民の人＠コミティア新刊ひなび・廃墟本制作中 @North_ern2 1-1：愛知県 1-2：静岡県 1-3：北海道 1-4：鳥取県 2-1：群馬県 2-2：島根県 2-3：広島県 2-4：静岡県 2021-08-14 18:18:43 道民の人＠コミティア新刊ひなび・廃墟本制作中 @North_ern2 fantia.jp/fanclubs/34782 「廃墟」「ひなびた風景」「異界」を主題に、...",
+          "link": "https://togetter.com/li/1760368",
+          "publishedOn": "2021-08-15T16:19:46.000Z",
+          "wordCount": 592,
+          "title": "Googleストリートビューの写真、確実に私より写真が上手だから悔しくて泣く「こんな枚数を撮った写真家はいない」 - Togetter"
         },
         {
           "id": "https://www.publickey1.jp/blog/21/lineline_fido2_serverfido2webauthn.html",
@@ -213,6 +429,15 @@
           "title": "「当時もこんな空だったのかな」──カラー化した原爆写真がネットで反響　AIと人力で戦時中などの写真を色付ける「記憶の解凍」（ITmedia NEWS） - Yahoo!ニュース"
         },
         {
+          "id": "https://qiita.com/greatonbi/items/4dafd8d1559016f29f9f",
+          "author": null,
+          "description": "最近データサイエンティストが多くなってきて、めでたいな～、いいことだな～と思っているのですが、多くの人は機械学習寄りの話から入っていくことが多く、統計学から入っていく人は少ないような気もします。 重回帰分析は、おそらく最も多くのデータサイエンティストと呼ばれる人達がお世話になっている手法だと思いま...",
+          "link": "https://qiita.com/greatonbi/items/4dafd8d1559016f29f9f",
+          "publishedOn": "2021-08-15T00:13:54.000Z",
+          "wordCount": 1284,
+          "title": "腑に落ちない人のための回帰診断 - Qiita"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2108/15/news017.html",
           "author": null,
           "description": "「Pokemon Go」で知られるNianticのジョン・ハンケCEOが、仮想世界に没入するいわゆる「メタバース」はディストピアの悪夢だと警鐘を鳴らした。NianticはARを採用する「現実世界のメタバース」を目指すとして参加を呼び掛けた。 「メタバースはディストピアの悪夢です」──。「Pokemon Go」などのAR（拡張現実）ゲームで...",
@@ -312,6 +537,15 @@
           "title": "計画の解像度を上げていく - Magnolia Tech"
         },
         {
+          "id": "https://note.com/pokarim/n/na0c01d42c574",
+          "author": null,
+          "description": "@m2ymと@pokarimで開発中のちょっと変わったエディタ、Kakau.appのα版をリリースしました。今回はエディタのかんたんな紹介をしたいと思います。 （kakau.app/demoにてログインせずに試用できます。よかったら試してみてください。いまのところWindowsとMac上のChromeでのみ動作確認をしています。） Kakauはどんなエデ...",
+          "link": "https://note.com/pokarim/n/na0c01d42c574",
+          "publishedOn": "2021-08-14T05:02:31.000Z",
+          "wordCount": 77,
+          "title": "Kakau.appのα版をリリースしました｜pokarim｜note"
+        },
+        {
           "id": "https://japanese.engadget.com/eu-law-force-iphone-switch-usbc-025600313.html",
           "author": null,
           "description": "欧州連合（EU）の政策執行機関・欧州委員会が9月に提出する予定の法案により、アップルがiPhoneにUSB-Cポートの採用を余儀なくされる可能性があると報じられています。 Reuters報道によると、本法案はすべてのEU加盟国においてスマートフォンやその他の電子機器に共通の充電ポートを設けることを義務づけるもの。すでに...",
@@ -373,6 +607,15 @@
           "publishedOn": "2021-08-14T02:11:09.000Z",
           "wordCount": 302,
           "title": "TCP/IPスタックに脆弱性「INFRA:HALT」、多くの制御機器に影響 | TECH+"
+        },
+        {
+          "id": "https://medium.com/js-dojo/lazy-rendering-in-vue-to-improve-performance-dcccd445d5f",
+          "author": null,
+          "description": "Last year, a lot has been in happening on the web in terms of performance. Unsurprisingly, everyone agrees the web should be fast. Google introduced its Web Vitals metrics to stress that the web applications should load fast even on slower devices and slow networks. Svelte showed that web apps ca...",
+          "link": "https://medium.com/js-dojo/lazy-rendering-in-vue-to-improve-performance-dcccd445d5f",
+          "publishedOn": "2021-08-14T01:40:34.000Z",
+          "wordCount": 2384,
+          "title": "<Lazy> rendering in Vue to improve performance | by Martin Malinda | Vue.js Developers | Aug, 2021 | Medium"
         },
         {
           "id": "https://selmertsx.hatenablog.com/entry/2021/08/11/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%AE%E6%B1%BA%E3%82%81%E6%96%B9",
@@ -1237,6 +1480,15 @@
           "publishedOn": "2021-08-11T01:16:09.000Z",
           "wordCount": 174,
           "title": "ネットワークをちゃんと学びたいなら"
+        },
+        {
+          "id": "https://atfzl.com/don-t-attach-tooltips-to-document-body",
+          "author": null,
+          "description": "TL;DR Instead of attaching tooltips directly to document.body, attach them to a predefined div in document.body. BAD   \nmy tooltip\n  GOOD   <div id=\"toolti...",
+          "link": "https://atfzl.com/don-t-attach-tooltips-to-document-body",
+          "publishedOn": "2021-08-11T00:08:13.000Z",
+          "wordCount": 1430,
+          "title": "Don’t attach tooltips to document.body - Atif Afzal"
         },
         {
           "id": "https://speakerdeck.com/lmt_swallow/build-your-own-web-browser",
@@ -4290,6 +4542,15 @@
           "title": "heyの統合データ基盤と今後の展望 - STORES Tech Blog"
         },
         {
+          "id": "https://www.smashingmagazine.com/2021/07/css-absolute-units/",
+          "author": null,
+          "description": "Quick summary ↬ What are absolute units? What are the differences between relative and absolute units, and how do we create accurate sizes on the web? In this article, Elad Shechter explains why CSS absolute units aren’t so absolute. When we start learning CSS, we find that CSS units of measureme...",
+          "link": "https://www.smashingmagazine.com/2021/07/css-absolute-units/",
+          "publishedOn": "2021-07-30T04:51:37.000Z",
+          "wordCount": 2970,
+          "title": "There Is No Such Thing As A CSS Absolute Unit — Smashing Magazine"
+        },
+        {
           "id": "https://codezine.jp/article/detail/14617",
           "author": null,
           "description": "米Microsoftは、最新のVisual Studio CodeにてJavaScriptデバッガが組み込まれ、ブラウザで容易にデバッグができるようになったことを、7月16日（現地時間）付の公式ブログ投稿にて紹介している。 Visual Studio CodeにJavaScriptデバッガが組み込まれたことで、従来Visual Studio CodeでのJavaScriptデバッグで用いられ...",
@@ -7204,177 +7465,6 @@
           "publishedOn": "2021-07-18T13:05:07.000Z",
           "wordCount": 210,
           "title": "AmazonがAppleに「偽レビュー検出アプリ」の削除を求め実際に削除される - GIGAZINE"
-        },
-        {
-          "id": "https://qiita.com/neko-suki/items/604095f60ec5f334d896",
-          "author": null,
-          "description": "本記事ではIETFで標準化が行われている、QUICなどのロギングを行うフォーマットであるqlogの、QUICに関するイベントを定義している「QUIC event definitions for qlog」について紹介します。 QUIC event definitions for qlog とは qlogには発生したイベントを記録するeventという情報をロギングする仕組みがあります。...",
-          "link": "https://qiita.com/neko-suki/items/604095f60ec5f334d896",
-          "publishedOn": "2021-07-18T11:51:51.000Z",
-          "wordCount": 2735,
-          "title": "QUIC event definitions for qlog の紹介 - Qiita"
-        },
-        {
-          "id": "https://it.srad.jp/story/21/07/18/0838210/",
-          "author": null,
-          "description": "Microsoft は 15 日、Windows 10 バージョン 21H2 に導入予定の新機能を紹介するとともに、Windows 10 Insider Preview 初の 21H2 ビルドとなるビルド 19044.1147 を提供開始した(Windows Experience Blog の記事、 Windows Insider Blog の記事)。 Microsoft は Windows 11 を発表する一方で Windows 10 バージョン 21H...",
-          "link": "https://it.srad.jp/story/21/07/18/0838210/",
-          "publishedOn": "2021-07-18T11:00:02.000Z",
-          "wordCount": 441,
-          "title": "21H2 ビルドの Windows 10 Insider Preview、提供開始 | スラド IT"
-        },
-        {
-          "id": "https://ledge.ai/ndl-clovaocr/",
-          "author": null,
-          "description": "LINEは、国立国会図書館（東京都千代田区）のOCRテキストデータ化プロジェクトに、同社の「CLOVA OCR」が採用されたと発表した。昭和前期以前の資料を中心にした247万点、2億2300万枚を超えるデジタル化資料が2022年3月までにテキストデータ化される。 国立国会図書館では「ビジョン2021-2025 国立国会図書館のデジタル...",
-          "link": "https://ledge.ai/ndl-clovaocr/",
-          "publishedOn": "2021-07-18T09:33:38.000Z",
-          "wordCount": 142,
-          "title": "国立国会図書館、来春までに247万点・2億2300万枚超の資料を全文テキストデータ化へ | Ledge.ai"
-        },
-        {
-          "id": "https://speakerdeck.com/tomoki10/compare-aws-cdk-and-terraform-from-n-perspectives",
-          "author": null,
-          "description": "Transcript \"84�$%,ͱ5FSSBGPSNΛOݸͷ؍఺Ͱపఈൺֱ ���������� ࠤ౻ஐथ $9ࣄۀຊ෦�*P5ࣄۀ෦ � nݸͬͯԿݸͩΑ � n = 14 ͙Β͍Ͱ͓࿩͠͠·͢ \"84�$%,ͱ5FSSBGPSNΛ��ݸͷ؍఺Ͱపఈൺֱ ���������� ࠤ౻ஐथ $9ࣄۀຊ෦�*P5ࣄۀ෦ 5 ࣗݾ঺հ @tmk2154 @tomoki10 • ࠤ౻ஐथ • Ϋϥεϝιουגࣜձࣾ • CXࣄۀຊ෦ IoTࣄۀ෦ new! • લ৬ɿSIerͷSEΛ4೥ऑ • ݱࡏɿΠϯϑϥ݉αʔόʔαΠυΤϯδχΞ݉ etc • ޷͖ͳAWSαʔϏεɿLambdaɺCDK ൃ୺ � ࠓճͷ July Tec...",
-          "link": "https://speakerdeck.com/tomoki10/compare-aws-cdk-and-terraform-from-n-perspectives",
-          "publishedOn": "2021-07-18T07:22:12.000Z",
-          "wordCount": 1044,
-          "title": "AWS CDKとTerraformをn個の観点で徹底比較/compare-aws-cdk-and-terraform-from-n-perspectives - Speaker Deck"
-        },
-        {
-          "id": "https://gendai.ismedia.jp/articles/-/85259",
-          "author": null,
-          "description": "最新OSの明確な特徴 アップルは毎年、秋に各種デバイス向けOSの新バージョンを更新するが、その一般向けテスト公開（パブリックベータテスト）がすでに始まっている。 特に多くの人が気になるのは、iPhone向けのOSである「iOS 15」と、iPad向けのOSである「iPadOS 15」だろう。 今回提供される最新OSには、明確な特徴が1...",
-          "link": "https://gendai.ismedia.jp/articles/-/85259",
-          "publishedOn": "2021-07-18T07:19:49.000Z",
-          "wordCount": 175,
-          "title": "賛成！アップルが「iPhoneの中」でできることを増やす2つの理由（西田 宗千佳） | ブルーバックス | 講談社（1/4）"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP7L4QKHP7LUHBI009.html",
-          "author": null,
-          "description": "台湾の行政院（内閣）の羅秉成報道官は18日、東京五輪の開会式に来賓として出席予定だったオードリー・タンIT担当相の派遣を取りやめると発表した。国際オリンピック委員会（IOC）が参加国・地域に出した新型コロナウイルスの防疫ガイドラインや、日本の防疫対策に協力する必要性を考慮したとしている。 タン氏も18日、...",
-          "link": "https://www.asahi.com/articles/ASP7L4QKHP7LUHBI009.html",
-          "publishedOn": "2021-07-18T05:53:26.000Z",
-          "wordCount": 217,
-          "title": "オードリー・タン氏の五輪開会式派遣を取りやめ　台湾 - 東京オリンピック：朝日新聞デジタル"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/aws-fargate-with-firelens-minimum/",
-          "author": null,
-          "description": "rain deploy時のパラメータ指定。VPC ID、サブネットIDはご自身の環境に合わせ変更してください。 rain deploy ./fargateWithFirelens.yml fargateWithFirelens-stack --params \\ AppName=webapp,\\ ClusterName=cluster,\\ DesiredCount=1,\\ Environment=test,\\ ImageNameFirelens=public.ecr.aws/aws-observability/aws-...",
-          "link": "https://dev.classmethod.jp/articles/aws-fargate-with-firelens-minimum/",
-          "publishedOn": "2021-07-18T04:23:25.000Z",
-          "wordCount": 1242,
-          "title": "AWS FargateでFireLens（Fluent Bit）を最小構成で起動し、ECS ExecでFireLensコンテナを入ってみる | DevelopersIO"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210718/k10013145711000.html",
-          "author": null,
-          "description": "台湾当局は、IT担当の閣僚の唐鳳氏、英語名オードリー・タン氏を7月23日に開幕する東京オリンピックにあわせて日本へ派遣する予定でしたが、「開会式の出席者が制限されることになり、唐氏が出席できない可能性がある」として、日本訪問を取りやめると発表しました。 台湾当局は7月10日、唐鳳氏を東京オリンピックに代表...",
-          "link": "https://www3.nhk.or.jp/news/html/20210718/k10013145711000.html",
-          "publishedOn": "2021-07-18T04:15:14.000Z",
-          "wordCount": 23,
-          "title": "台湾 オードリー・タン氏の五輪派遣取りやめ 開会式出席制限で | オリンピック・パラリンピック | NHKニュース"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/jtf2021-compare-aws-cdk-and-terraform-from-n-perspectives/",
-          "author": null,
-          "description": "はじめに CX事業本部 IoT事業部の佐藤智樹です。 July Tech Festa 2021 というイベントで「AWS CDKとTerraformをn個の観点で徹底比較」というタイトルで登壇しました。 登壇資料 登壇経緯 以前のPJで両方使う機会があったのと、たまたま今回のイベントのテーマが「#今更聞けないIT技術」であり、議題として挙がった中の...",
-          "link": "https://dev.classmethod.jp/articles/jtf2021-compare-aws-cdk-and-terraform-from-n-perspectives/",
-          "publishedOn": "2021-07-18T04:10:10.000Z",
-          "wordCount": 150,
-          "title": "July Tech Festa 2021に「AWS CDKとTerraformをn個の観点で徹底比較」というタイトルで登壇しました | DevelopersIO"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/8549f37f6bd2eda69b2366738a21cf3e5e5f04e0",
-          "author": null,
-          "description": "台湾のデジタル担当相、唐鳳（オードリー・タン）氏＝台北市の台湾行政院で2020年11月23日、福岡静哉撮影 台湾行政院（内閣）は18日、デジタル担当相の唐鳳（オードリー・タン）氏（40）の日本への派遣を中止すると発表した。唐氏は23日の東京オリンピック開会式に出席する予定だった。唐氏は18日、「日本への感謝の心は...",
-          "link": "https://news.yahoo.co.jp/articles/8549f37f6bd2eda69b2366738a21cf3e5e5f04e0",
-          "publishedOn": "2021-07-18T03:45:45.000Z",
-          "wordCount": 70,
-          "title": "オードリー・タン氏、訪日中止　開会式出席制限「感謝の心変わらず」（毎日新聞） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210718/k00/00m/030/048000c",
-          "author": null,
-          "description": "台湾のデジタル担当相、唐鳳（オードリー・タン）氏＝台北市の台湾行政院で2020年11月23日、福岡静哉撮影 台湾行政院（内閣）は18日、デジタル担当相の唐鳳（オードリー・タン）氏（40）の日本への派遣を中止すると発表した。唐氏は23日の東京オリンピック開会式に出席する予定だった。唐氏は18日、「日本への感謝の心は...",
-          "link": "https://mainichi.jp/articles/20210718/k00/00m/030/048000c",
-          "publishedOn": "2021-07-18T03:43:51.000Z",
-          "wordCount": 545,
-          "title": "オードリー・タン氏、訪日中止　開会式出席制限「感謝の心変わらず」 | 毎日新聞"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGKKZO73950020W1A710C2MY1000/",
-          "author": null,
-          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら SNS（交流サイト）を蝕（むしば）む偽りや誤った情報はどこに潜んでいるのか。膨大な数の個人がやり取りするネットワークにあって、その足取りをたどるのは不可能だと...",
-          "link": "https://www.nikkei.com/article/DGKKZO73950020W1A710C2MY1000/",
-          "publishedOn": "2021-07-18T00:24:59.000Z",
-          "wordCount": 110,
-          "title": "オピニオンの科学(2)フェイクの姿が見えた: 日本経済新聞"
-        },
-        {
-          "id": "https://diamond.jp/articles/-/276498",
-          "author": null,
-          "description": "Google 認定トレーナー/イーディーエル株式会社代表取締役 「Google 認定トレーナー」および「Google Cloud Partner Specialization Education」の2つを保有する国内唯一の女性トレーナー経営者。 数時間でITスキルを劇的に引き上げる指導に定評があり、「Google 最高位パートナー」と呼ばれ、ITビギナーから絶大な信頼...",
-          "link": "https://diamond.jp/articles/-/276498",
-          "publishedOn": "2021-07-17T19:17:16.000Z",
-          "wordCount": 287,
-          "title": "【9割の人が知らないGoogleの使い方】埋もれた重要メールを「1秒」で発見できるGmailの使い方 | Google 式10Xリモート仕事術 | ダイヤモンド・オンライン"
-        },
-        {
-          "id": "https://browserbook.shift-js.info/",
-          "author": null,
-          "description": "ようこそ本オンラインブックはセキュリティ・キャンプ全国大会 2021 オンラインの講義「ちいさな Web ブラウザを作ってみよう」 の事前課題資料です。 同講義の概要Web ブラウザが持つセキュリティ機構や、Web ブラウザ内で行われる先鋭的な攻撃手法の研究は発展を続けています。 この流れに沿って、それらの中には、Web...",
-          "link": "https://browserbook.shift-js.info/",
-          "publishedOn": "2021-07-17T16:11:52.000Z",
-          "wordCount": 66,
-          "title": "ちいさな Web ブラウザを作ってみよう"
-        },
-        {
-          "id": "https://gigazine.net/news/20210717-record-screen-with-vlc/",
-          "author": null,
-          "description": "PCでの作業を記録したり、ソフトウェアの使い方を説明したり、PCの画面を録画できるとお役立ちなケースはよくあります。PCの画面を録画するにはWindowsの標準搭載されている「ゲームバー」機能や、オープンソースの配信ソフト「OBS」を利用する方法がありますが、このほかに「メディアプレイヤーソフト『VLC』で録画する...",
-          "link": "https://gigazine.net/news/20210717-record-screen-with-vlc/",
-          "publishedOn": "2021-07-17T15:11:20.000Z",
-          "wordCount": 186,
-          "title": "無料でオープンソースのメディアプレイヤー「VLC」で簡単にPCの画面を録画する方法 - GIGAZINE"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/07/17/2021-07-16-intel-rumored-to-be-in-talks-to-buy-chip-manufacturer-globalfoundries-for-30b/",
-          "author": null,
-          "description": "チップ業界でのM&Aとなると、数字は決して小さなものではない。NVIDIA（エヌビディア）がARM（アーム）を400億ドル（約4兆4030億円）で買収したのをはじめ、2020年のチップ業界の4件の取引合計額は1060億ドル（約11兆6680億円）だった。2020年のチップをめぐるM&A騒ぎで1つ驚きだったのは、Intel（インテル）が傍観者の...",
-          "link": "https://jp.techcrunch.com/2021/07/17/2021-07-16-intel-rumored-to-be-in-talks-to-buy-chip-manufacturer-globalfoundries-for-30b/",
-          "publishedOn": "2021-07-17T14:13:29.000Z",
-          "wordCount": 320,
-          "title": "Intelが3.3兆円でチップメーカーGlobalFoundries買収を交渉中との噂 | TechCrunch Japan"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2107/17/news027.html",
-          "author": null,
-          "description": "GeForce RTX 3080／3070周辺から徐々に安く――グラフィックスカード価格の今：古田雄介の週末アキバ速報（1/2 ページ） 五輪開催まで1週間を切ったが、電気街に祭典の風は吹いていない。PCパーツショップはどこも「だいたい（全く）変わらないですね」という。その中で少しずつ変化しているのが、高騰しきったグラフィッ...",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2107/17/news027.html",
-          "publishedOn": "2021-07-17T13:36:59.000Z",
-          "wordCount": 543,
-          "title": "GeForce RTX 3080／3070周辺から徐々に安く――グラフィックスカード価格の今：古田雄介の週末アキバ速報（1/2 ページ） - ITmedia PC USER"
-        },
-        {
-          "id": "https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA",
-          "author": null,
-          "description": "問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください",
-          "link": "https://jp.quora.com/Windows%E3%81%8CLinux%E3%82%88%E3%82%8A%E5%84%AA%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E7%82%B9%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B-OS%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%B3%AA",
-          "publishedOn": "2021-07-17T12:37:00.000Z",
-          "wordCount": 7,
-          "title": "WindowsがLinuxより優れている点は何ですか？ (OSの設計に関する質問であり、利用者の使い勝手の話ではありません) 。 - Quora"
-        },
-        {
-          "id": "https://gigazine.net/news/20210717-rufus/",
-          "author": null,
-          "description": "Windows 10の標準機能でディスク領域をフォーマットする時、FAT32形式を選ぶことはできません。オープンソースなフォーマットソフトウェア「Rufus」ならば、無料でUSBメモリーなどをFAT32/NTFS/exFAT/ReFS/ext2/ext3形式でフォーマット可能とのことなので、実際に使ってみました。 Rufus - 起動可能なUSBドライブを簡単...",
-          "link": "https://gigazine.net/news/20210717-rufus/",
-          "publishedOn": "2021-07-17T12:28:39.000Z",
-          "wordCount": 194,
-          "title": "無料でUSBメモリーなどをFAT32/NTFS/exFAT/ReFS/ext2/ext3にフォーマットできる「Rufus」の使い方レビュー - GIGAZINE"
         }
       ]
     },
@@ -7448,6 +7538,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=346418",
+          "author": "Chris Coyier",
+          "description": "Brian Kardell shares a bit about the progress of bringing \"Tabs\" to HTML. We kinda think we know what they are, but you have to be really specific when dealing with specs and defining them. It's tricky.\nThe post Tabs in HTML? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bkardell.com/blog/SpicySections.html",
+          "publishedOn": "2021-08-16T23:31:01.000Z",
+          "wordCount": 1914,
+          "title": "Tabs in HTML?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346686",
+          "author": "Chris Coyier",
+          "description": "Ahmad Shadeed dug into shape “cutouts” the other day. Imagine a shape with another smaller shape carved out of it. In his typical comprehensive way, Ahmad laid out the situation well—looking at tricky situations that complicate things. \nThe first thing …\nThe post Cutouts appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ishadeed.com/article/thinking-about-the-cut-out-effect/",
+          "publishedOn": "2021-08-16T20:49:09.000Z",
+          "wordCount": 2944,
+          "title": "Cutouts"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346318",
+          "author": "Alvaro Montoro",
+          "description": "HTML is not a programming language.\nI’ve heard that sentence so many times and it’s tiring. Normally, it is followed by something like, It doesn’t have logic, or, It is not Turing complete,.so… obviously it is not a programming …\nThe post HTML is Not a Programming Language? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-is-not-a-programming-language/",
+          "publishedOn": "2021-08-16T14:44:35.000Z",
+          "wordCount": 3453,
+          "title": "HTML is Not a Programming Language?"
+        },
         {
           "id": "https://css-tricks.com/?p=346665",
           "author": "Chris Coyier",
@@ -8036,6 +8153,42 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/pavankjadda/synchronous-http-calls-in-angular-using-async-and-await-fdm",
+          "author": "Pavan K Jadda",
+          "description": "Observables in Angular offer significant benefits over other techniques for event handling, asynchronous programming, and handling multiple values. But some times we may want to wait for the response from previous HTTP call or load default settings for an application. In that case, we use Async and Await functions to achieve this. This blog post explains the steps and provides code samples. As usual complete code uploaded to Github\nAn asynchronous function is a function that operates asynchronously via the event loop, using an implicit Promise to return its result. But the syntax and structure of your code using async functions are much more like using standard synchronous functions. The await operator is used to wait for a Promise. It can only be used inside an async function.\nasync metho…",
+          "link": "https://dev.to/pavankjadda/synchronous-http-calls-in-angular-using-async-and-await-fdm",
+          "publishedOn": "2021-08-16T20:14:07.000Z",
+          "wordCount": 829,
+          "title": "Synchronous HTTP calls in Angular using Async and Await"
+        },
+        {
+          "id": "https://dev.to/rfornal/angular-unit-test-mock-service-3m95",
+          "author": "bob.js",
+          "description": "So, I needed to mock a service.\nIn particular, I wanted to mock the API Handler Service. This service is the abstraction layer I use to interact with the back-end. There's often a lot going on here.\nWhen testing other code, I wanted to mock the calls and data responses to ensure stability.\nWhile there are a lot of tools that can mock or replace an HTTP server, what I wanted to do was mock THIS service so that other code had consistent data coming back.\nI started with something like this ...\n// createSpyObj returns the attached OBJECT,\n// if a function is attached, that is what is\n// returned (not executed).\nlet MockApiHandlerService = jasmine.createSpyObj('ApiHandlerService', {\n  ...\n  getChartData: Promise.resolve(chartData),\n  getEventDetail: Promise.resolve(eventDetail),\n  getEventSumma…",
+          "link": "https://dev.to/rfornal/angular-unit-test-mock-service-3m95",
+          "publishedOn": "2021-08-16T12:57:43.000Z",
+          "wordCount": 947,
+          "title": "Angular: Unit Test Mock Service"
+        },
+        {
+          "id": "https://dev.to/tarungurang/what-is-angular-9-explanation-with-features-pros-cons-5d5b",
+          "author": "Tarun Gurang",
+          "description": "What is Angular 9?\nFeatures of Angular 9:\nThe major updates in Angular 9 include the addition of new Ivy Compiler and Runtime, better debugging process, faster testing features, better application development, smaller bundle size, etc.\nThe applications build using Angular 9 platform, would use Ivy Compiler and Runtime, by default rather than the View engine.\nRead More: Evolution And History Of Angular As Web Development Platform\nYou might be thinking what is Ivy here. Basically, Ivy is the code name for next-generation compilation and rendering pipeline. The Ivy compiler is designed with the purpose of generating less code for each Angular component. And Ivy compiler does this just by removing the unwanted parts of Angular which are not used through tree-shaking.\nTree shaking is a terminol…",
+          "link": "https://dev.to/tarungurang/what-is-angular-9-explanation-with-features-pros-cons-5d5b",
+          "publishedOn": "2021-08-16T09:58:04.000Z",
+          "wordCount": 1039,
+          "title": "What is Angular 9? Explanation with Features, Pros & Cons"
+        },
+        {
+          "id": "https://dev.to/yonatankorem/migrating-your-web-application-to-ngxs-state-management-33je",
+          "author": "Yonatan Korem",
+          "description": "What's state management?\n\n\nState management is the concept of having the state of your application be decoupled from the logic or UI of your application, but also not having multiple copies of your data. That saves you from having to sync your data, and allows for an application that will be more consistent and have less defects.\nOne of the most popular state management patterns is REDUX which emphasizes reactive programming. With this pattern, you have a \"single source of truth\" and your application observes that data. When it changes, your application reacts to that change as needed by the specific component.\nNGXS is a front end state management framework for Angular. It's similar to the popular NgRx framework, but offers a lower learning curve, and with it your code contains less boiler…",
+          "link": "https://dev.to/yonatankorem/migrating-your-web-application-to-ngxs-state-management-33je",
+          "publishedOn": "2021-08-16T07:53:54.000Z",
+          "wordCount": 2391,
+          "title": "Migrating your web application to NGXS state management"
+        },
         {
           "id": "https://dev.to/geekchao/scope-12d8",
           "author": "邹明潮",
@@ -9160,42 +9313,6 @@
           "publishedOn": "2021-07-18T15:20:57.000Z",
           "wordCount": 735,
           "title": "Generate documentation for your Angular App in just 5 simple steps"
-        },
-        {
-          "id": "https://dev.to/marcinwosinek/how-to-speed-up-angular-cli-app-with-esbuild-loader-1aj6",
-          "author": "Marcin Wosinek",
-          "description": "A previews article in this series showed how to build Angular CLI app with esbuild. There are two downsides of this approach:\nwe drop every piece of configuration that is there in the Angular CLI build configuration\nour build is faster, but it's way bigger - ~760kb instead of ~170kb\nThis article will try a different approach to harvest esbuild speed for your Angular CLI application. As I already shown in another post, using esbuild-loader provided minimization plugin can be pretty effective.\nThis is not an easy configuration. Getting it up & running made my head spin, and I started questioning my framework and tooling choices along the way. In the end, I got something working, but the results are not impressive. It probably deserves a heavier test, similar to the benchmark used in the post…",
-          "link": "https://dev.to/marcinwosinek/how-to-speed-up-angular-cli-app-with-esbuild-loader-1aj6",
-          "publishedOn": "2021-07-18T10:01:11.000Z",
-          "wordCount": 1129,
-          "title": "How to speed up Angular CLI app with esbuild-loader"
-        },
-        {
-          "id": "https://dev.to/marcinwosinek/how-to-make-angular-cli-built-app-work-from-a-subfolder-3ha5",
-          "author": "Marcin Wosinek",
-          "description": "Angular CLI, along with many boilerplate generating tools for other frameworks, insists on outputting the built code in a way that will work only on the top-level domain. I can't understand the reason for this, and definitively is not working well with quick&drity example apps you would like to show anywhere easily.\nIn this article, I'll show you how to make angular build code in a way that you can just drop on any level of subfolders & it will work.\nAfter generating your application with:\n$ npx -p @angular/cli ng new my-app\n\nwhen you build your app with:\n$ npm run build\n\nyou will get the dist/my-app/index.html file with:\n<!DOCTYPE html><html lang=\"en\"><head>\n  <meta charset=\"utf-8\">\n  <title>MyApp</title>\n  <base href=\"/\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale…",
-          "link": "https://dev.to/marcinwosinek/how-to-make-angular-cli-built-app-work-from-a-subfolder-3ha5",
-          "publishedOn": "2021-07-18T06:17:25.000Z",
-          "wordCount": 783,
-          "title": "How to make Angular CLI built app work from a subfolder"
-        },
-        {
-          "id": "https://dev.to/farithadnan/how-to-allow-access-to-localhost-from-other-devices-within-the-same-network-2ejh",
-          "author": "Farith Adnan",
-          "description": "Usually, during the web-development using Angular it's require for the project to be run locally but what if we want to access our project from other devices, can we do that with Angular?\n\n\nThe answer is of course we can! with Angular we can also grant access to other devices  BUT  you need to make sure that the external devices is within the same network as your project host (localhost).\n\n\n\n\n\n Enough with the introduction, let's jump into it! \n\n\n\n  \n  \n  Access Local Project From Other Devices\n\n\n\n\nAs we all know, when we want to run our project in Angular we just need to open the terminal in our code editor or whatever terminal your usually use and run the command below right?\n ng-serve \n\n\n\n\n\n\nBut if you want to access the project from other devices within the same network you only need to run:\n\n\n\n\n  \n  \n    ng-serve --host 0.0.0.0 \n\n\n\n\n\n\nand done! you now only need to enter the URL below from other devices within your network to access to your localhost by specify your Ip Address and the Angular project port. \n  http://192.xxx.x.x:4200 \n\n\n\n\n Thanks for reading! for any question or enquires please send me a message or comment down below",
-          "link": "https://dev.to/farithadnan/how-to-allow-access-to-localhost-from-other-devices-within-the-same-network-2ejh",
-          "publishedOn": "2021-07-17T17:55:29.000Z",
-          "wordCount": 690,
-          "title": "How to access localhost from other devices within the same network?"
-        },
-        {
-          "id": "https://dev.to/shreyapd06/introducing-angular-mini-blog-series-part-1-4hdg",
-          "author": "Shreya Prasad",
-          "description": "In this series of blog posts, we are going to learn about Angular from beginning. I will try to keep the blogs very short, crisp and easy to understand.\nAngular's official website if you want to learn basic stuff like: \nWhat Angular is \nHow to create a basic application\nGenerate Components\nStart Angular Live Server\nBasic Directory Structure\nHere, we will get started with:\nComponents\nModules \nHow Angular Apps loads\nAppModule\nYou know about <html>, <head> and <body> tags and so on right? These are native HTML elements that are provided to us. But what if we could create our own HTML elements?\n\nYes, this is where components come in! Components are typically custom built HTML elements, and each of these elements can instantiate only one component. \n\nAngular is not present as one monolithic cod…",
-          "link": "https://dev.to/shreyapd06/introducing-angular-mini-blog-series-part-1-4hdg",
-          "publishedOn": "2021-07-17T12:27:22.000Z",
-          "wordCount": 1631,
-          "title": "Introducing Angular Mini Blog Series - Part 1"
         }
       ]
     },
@@ -9311,6 +9428,15 @@
       "siteUrl": "https://coliss.com",
       "articles": [
         {
+          "id": "https://coliss.com/?p=31185",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/work/ai-image-resizer-for-social-media.html",
+          "publishedOn": "2021-08-16T00:36:02.000Z",
+          "wordCount": 298,
+          "title": "各ソーシャルメディアに適した画像サイズは102種類！画像を1クリックでトリミングしてくれる無料ツール"
+        },
+        {
           "id": "https://coliss.com/?p=31125",
           "author": "コリス🥦",
           "description": "...記事の続きを読む",
@@ -9372,6 +9498,15 @@
           "publishedOn": "2021-08-02T00:36:59.000Z",
           "wordCount": 303,
           "title": "デベロッパーツールの新機能が便利！CSS Gridの実装と検証が簡単になるCSS Grid editorとオーバーレイ"
+        },
+        {
+          "id": "http://coliss.com/?p=19021",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/css3-flexbox-properties-by-scotch.html",
+          "publishedOn": "2021-08-01T13:45:30.000Z",
+          "wordCount": 1366,
+          "title": "CSS Flexbox の基礎知識と使い方をやさしく解説"
         },
         {
           "id": "https://coliss.com/?p=30392",
@@ -9470,6 +9605,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/9ae5e001936f",
+          "author": "Sunny Beatteay",
+          "description": "Here’s how to make your resume stand out to hiring managers\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/your-resume-is-boring-and-thats-why-you-aren-t-getting-interviews-9ae5e001936f?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-16T22:56:42.000Z",
+          "wordCount": 1648,
+          "title": "Your Resume Is Boring and That’s Why You Aren’t Getting Interviews"
+        },
+        {
+          "id": "https://medium.com/p/e7d33c0b606",
+          "author": "Jerry Ng",
+          "description": "Python generators explained through 4Ws\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/using-generators-in-python-the-why-the-what-and-the-when-e7d33c0b606?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-16T22:55:55.000Z",
+          "wordCount": 1346,
+          "title": "Using Generators in Python: The Why, The What, and The When"
+        },
+        {
+          "id": "https://medium.com/p/567548eb78a2",
+          "author": "Siva Ganesh Kantamani",
+          "description": "A look at getDrawingCache and PixelCopy API implementations\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-capture-in-app-screenshots-in-android-567548eb78a2?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-16T22:17:15.000Z",
+          "wordCount": 927,
+          "title": "How To Capture In-App Screenshots In Android"
+        },
+        {
+          "id": "https://medium.com/p/f81e4c83ad38",
+          "author": "Rob Sturgeon",
+          "description": "Create a DCA calculator app to track your portfolio\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/build-a-swiftui-app-for-tracking-your-cryptocurrency-trades-f81e4c83ad38?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-16T16:35:06.000Z",
+          "wordCount": 1133,
+          "title": "Build a SwiftUI App For Tracking Your Cryptocurrency Trades"
+        },
+        {
+          "id": "https://medium.com/p/fee71e54ec0c",
+          "author": "Kirshi Yin",
+          "description": "Pin your trip memories on a “HERE” map using Python\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/build-a-python-flask-app-to-see-the-places-youve-travelled-fee71e54ec0c?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-16T16:02:36.000Z",
+          "wordCount": 1291,
+          "title": "Build a Python Flask App To See the Places You’ve Travelled"
+        },
+        {
+          "id": "https://medium.com/p/7bfd2f63cc4c",
+          "author": "Gayle Kurtzer-Meyers",
+          "description": "Let JavaScript roll off your tongue\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/top-7-javascript-trends-to-adopt-in-2021-7bfd2f63cc4c?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-16T15:03:29.000Z",
+          "wordCount": 1739,
+          "title": "Top 7 JavaScript Trends To Adopt In 2021"
+        },
+        {
+          "id": "https://medium.com/p/ffd6a31e89d6",
+          "author": "Jose Granja",
+          "description": "Update cookie values, detect hover effect, and more\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/10-awesome-javascript-one-liners-utilities-for-daily-usage-ffd6a31e89d6?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-16T14:03:43.000Z",
+          "wordCount": 1424,
+          "title": "10 Awesome JavaScript One-Liners Utilities for Daily Usage"
+        },
+        {
+          "id": "https://medium.com/p/72938027fbf5",
+          "author": "Arnold Abraham",
+          "description": "Avoid associated defects using the power of functional programming\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-allow-only-one-click-events-in-javascript-72938027fbf5?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-16T13:59:50.000Z",
+          "wordCount": 1561,
+          "title": "How To Allow Only One-Click Events in JavaScript"
+        },
+        {
+          "id": "https://medium.com/p/8ada8df7e448",
+          "author": "Artturi Jalli",
+          "description": "Give meaning to an operator in different contexts\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-handle-operator-overloading-in-python-8ada8df7e448?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-16T13:07:44.000Z",
+          "wordCount": 1401,
+          "title": "How To Handle Operator Overloading In Python"
+        },
+        {
+          "id": "https://medium.com/p/d56cdad4fa78",
+          "author": "Yong Cui",
+          "description": "If DeepDebug is fixing your work, your project has bigger problems\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/will-automatic-bug-fixing-work-on-your-codebases-d56cdad4fa78?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-16T12:27:59.000Z",
+          "wordCount": 1614,
+          "title": "Will Automatic Bug Fixing Work on Your Codebases?"
+        },
         {
           "id": "https://medium.com/p/cfdfc5369e1",
           "author": "Jacob Latonis",
