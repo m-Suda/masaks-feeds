@@ -47,6 +47,231 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://blog.a-know.me/entry/2021/08/20/225135",
+          "author": null,
+          "description": "この文章で出てくる用語たち： SRE Site Reliability Engineering / Engineer 。 前者のことを指して SREing, 後者のことを指して SREs, と表記することもある サイトリライアビリティエンジニアリング - Wikipedia CRE Customer Reliability Engineering / Engineer 。 「CRE」という言葉が使われるときはだいたい後者...",
+          "link": "https://blog.a-know.me/entry/2021/08/20/225135",
+          "publishedOn": "2021-08-20T23:03:16.000Z",
+          "wordCount": 263,
+          "title": "僕は CREing：ソフトウェアエンジニアにカスタマーサクセスを任せたときに起こるもの、を Autify で実現したいと思っている - えいのうにっき"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/af80e9e1cdd311920bbaa4c1e376d0d279172b8b",
+          "author": null,
+          "description": "電気自動車を手掛ける米Teslaは8月19日（米国時間）、同社のイベント「AI Day」の中で、人型ロボット「Tesla Bot」の開発を発表した。2022年にプロトタイプを公開するという。 【画像】Tesla Botの身長や重量、移動速度など詳細スペック ロボットの身長は約173cmで重量は約57kg。約20kgまでの荷物を持って時速8kmで移動...",
+          "link": "https://news.yahoo.co.jp/articles/af80e9e1cdd311920bbaa4c1e376d0d279172b8b",
+          "publishedOn": "2021-08-20T18:16:04.000Z",
+          "wordCount": 85,
+          "title": "Tesla、人型ロボット開発に参入　2022年にプロトタイプ公開（ITmedia NEWS） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://yamap55.hatenablog.com/entry/2021/08/21/010529",
+          "author": null,
+          "description": "まとめ GitHub Pagesは「GitHub Enterprise Cloud 」プランの場合privateで使用する事ができる 企業でお金払っていてオンプレのGitHubでなければこのプランのはず GitHub ActionsでbuildしたドキュメントをGitHub Pagesに簡単に反映可能 peaceiris/actions-gh-pagesというGitHub Actionsが便利すぎる ほぼ無料 はじめに ...",
+          "link": "https://yamap55.hatenablog.com/entry/2021/08/21/010529",
+          "publishedOn": "2021-08-20T16:06:21.000Z",
+          "wordCount": 187,
+          "title": "GitHub ActionsでビルドしたドキュメントをGitHub Pagesで表示する - 山ｐの楽しいお勉強生活"
+        },
+        {
+          "id": "https://speakerdeck.com/recruitengineers/browser-b45d3a59-af2b-449c-992e-fd7563745f80",
+          "author": null,
+          "description": "Transcript Browser 2021/04/06 @ Recruit Twitter: @yosuke_furukawa Github: yosuke-furukawa Browser • ஌ͬͯΔΑ͏Ͱ஌Βͳ͍ • ΢ΣϒΞϓϦέʔγϣϯΛ࡞Δ࣌ʹඞͣ࢖͏ ΋ͷͷɺத਎͕Ͳ͏ͳͬͯΔ͔Λઆ໌ͯ͘͠ ͍ͩ͞ͱݴΘΕΔͱͲ͏ͨ͠Β͍͍͔Θ͔Β ͳ͍΋ͷ • ࠓճ͸ͦΜͳϒϥ΢βʹ৮ΕΑ͏ͱࢥ͍·͢ Browse + er ோΊΔ΋ͷ ຊߨٛͷͶΒ͍ • օ͞Μʹϒϥ΢βͷத਎Λೝࣝͯ͠΋Β͍ɺ಄ͷதʹ ϚοϓΛ࡞ͬͯ΋Β͏ɻ • ϒϥ΢βͷ஍ਤΛ࡞্ͬͨͰ͜ͷ͋ͱͷߨٛʢύ ϑΥʔϚϯεɺηΩϡϦςΟɺJavaScript/ TypeScriptʣΛड͚ͯ΋Β͏͜ͱͰཧղ౓ΛਂΊΔɻ • ...",
+          "link": "https://speakerdeck.com/recruitengineers/browser-b45d3a59-af2b-449c-992e-fd7563745f80",
+          "publishedOn": "2021-08-20T14:56:31.000Z",
+          "wordCount": 2279,
+          "title": "ブラウザ / Browser - Speaker Deck"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/20/news151.html",
+          "author": null,
+          "description": "みずほ銀のシステム障害、基幹システムと店舗端末をつなぐシステムが故障　バックアップも機能せず　「原因は調査中」 システム障害により、みずほ銀行とみずほ信託銀行の店頭窓口で入出金や振り込みが一時できなくなっていた問題で、みずほフィナンシャルグループが会見を開き、勘定系システムと店舗の事務処理端末をつ...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/20/news151.html",
+          "publishedOn": "2021-08-20T14:17:41.000Z",
+          "wordCount": 140,
+          "title": "みずほ銀のシステム障害、基幹システムと店舗端末をつなぐシステムが故障　バックアップも機能せず　「原因は調査中」 - ITmedia NEWS"
+        },
+        {
+          "id": "https://zenn.dev/syumai/articles/c42hdg1e0085btnen5hg",
+          "author": null,
+          "description": "本記事では、GoのGenerics関連のProposal一覧のまとめと、簡単な解説を行います。 本記事の内容をGo 1.17 リリースパーティーにて発表しました。 スライド版はこちらにあります。 Generics関連のProposal一覧 GoのGitHub Issueと、Gerritから見付けたGenerics関連のProposalを表にまとめました。 Proposal Status Author...",
+          "link": "https://zenn.dev/syumai/articles/c42hdg1e0085btnen5hg",
+          "publishedOn": "2021-08-20T11:53:42.000Z",
+          "wordCount": 1780,
+          "title": "GoのGenerics関連プロポーザル最新状況まとめと簡単な解説 (2021年8月版)"
+        },
+        {
+          "id": "https://twitter.com/tmiyatake1/status/1428593390929600522",
+          "author": null,
+          "description": "Epicが何故Googleを訴えたのかがようやく明らかになった。 今回訴訟資料が公開されるように命じられたが、GoogleはEpicがPlay Storeを離れるのが他の開発者を影響するのを恐れて、多くの開発者をキープするため多… https://t.co/bI9jyjd19A",
+          "link": "https://twitter.com/tmiyatake1/status/1428593390929600522",
+          "publishedOn": "2021-08-20T11:25:54.000Z",
+          "wordCount": 196,
+          "title": "Tetsuro Miyatake on Twitter: \"Epicが何故Googleを訴えたのかがようやく明らかになった。 今回訴訟資料が公開されるように命じられたが、GoogleはEpicがPlay Storeを離れるのが他の開発者を影響するのを恐れて、多くの開発者をキープするため多… https://t.co/bI9jyjd19A\""
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/20/news148.html",
+          "author": null,
+          "description": "ドール（球体関節人形）のECサイト「DOLK STATION」を運営するボーダレス（大阪府大阪市）は8月20日、第三者からの不正アクセスを受け、最大2万4228件の個人情報が流出したと発表した。流出したのはDOLK STATIONに2019年3月31日以前に登録された会員情報で、住所や氏名、電話番号、メールアドレス、生年月日の一部、性別...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/20/news148.html",
+          "publishedOn": "2021-08-20T11:01:36.000Z",
+          "wordCount": 146,
+          "title": "ドール通販サイトで最大2万人超の個人情報流出　脅迫メールで不正アクセス発覚 - ITmedia NEWS"
+        },
+        {
+          "id": "https://blog.jxck.io/entries/2021-08-20/how-to-debug-mouseover.html",
+          "author": null,
+          "description": "Intro 先日、後輩が「mouseover 中にしか表示されない DOM のデバッグ」に手こずっていたのを見て、たまには小ネタもということで、いくつかのテクニックを紹介する。 実際には、発生しているイベントを制御するというテクニックなので、応用すると色々使えるだろう。 mouseover tooltip 対象として、 Github のユーザア...",
+          "link": "https://blog.jxck.io/entries/2021-08-20/how-to-debug-mouseover.html",
+          "publishedOn": "2021-08-20T10:13:59.000Z",
+          "wordCount": 313,
+          "title": "mouseover 中に表示される DOM のデバッグ | blog.jxck.io"
+        },
+        {
+          "id": "https://quipper.hatenablog.com/entry/sre-vision-mission-values",
+          "author": null,
+          "description": "小中高 SRE チームで Engineering Manager をやっている @yuya-takeyama です。 Quipper にはスタディサプリ ENGLISH の SRE である ENGLISH SRE チームと合わせて 2 つの SRE チームがありますが、この記事では自分たち小中高 SRE チームについての話です。 少し前の話になるんですが、小中高 SRE チームの Vision, Mis...",
+          "link": "https://quipper.hatenablog.com/entry/sre-vision-mission-values",
+          "publishedOn": "2021-08-20T09:55:09.000Z",
+          "wordCount": 415,
+          "title": "SRE チームをよりサステナブルにするために Vision/Mission/Values を作った話 - Quipper Product Team Blog"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1345268.html",
+          "author": null,
+          "description": "YouTuberのSam Zeloof氏は14日、自身のYouTubeチャンネルにおいて、“自宅ファブ”で1,200トランジスタを集積した半導体「twelve Z2」の製造に成功したことを発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1345268.html",
+          "publishedOn": "2021-08-20T09:51:18.000Z",
+          "wordCount": 98,
+          "title": "【やじうまPC Watch】“自宅”で1,200トランジスタの半導体を製造したYouTuber現る - PC Watch"
+        },
+        {
+          "id": "https://piyolog.hatenadiary.jp/entry/2021/08/20/180000",
+          "author": null,
+          "description": "2021年7月9日、ニップンは社内でウイルス感染に起因したシステム障害が発生したと公表。8月16日時点で完全復旧に至っておらず、早期復旧が困難だとして第1四半期の決算報告を延期する対応がとられました。ここでは関連する情報をまとめます。 専門家が「例がない」と評価した攻撃 ニップンビジネスシステムが運用、管理...",
+          "link": "https://piyolog.hatenadiary.jp/entry/2021/08/20/180000",
+          "publishedOn": "2021-08-20T09:03:44.000Z",
+          "wordCount": 259,
+          "title": "BCP想定を上回ったニップンへのサイバー攻撃についてまとめてみた - piyolog"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1345202.html",
+          "author": null,
+          "description": "中国・深センGPDは20日、コントローラを装備したゲーミング向けのAndroidタブレット「GPD XP」を正式発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1345202.html",
+          "publishedOn": "2021-08-20T07:12:36.000Z",
+          "wordCount": 121,
+          "title": "コントローラ付きのゲーミング向けAndroidタブレット「GPD XP」正式発表 - PC Watch"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/news/1345198.html",
+          "author": null,
+          "description": "テスラは、同社が開催したイベント「AI Day」で、人型ロボットの開発を表明。2022年にプロトタイプを公開する。",
+          "link": "https://www.watch.impress.co.jp/docs/news/1345198.html",
+          "publishedOn": "2021-08-20T07:04:13.000Z",
+          "wordCount": 77,
+          "title": "テスラ、人型ロボット開発へ。2022年公開 - Impress Watch"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2108/20/news031.html",
+          "author": null,
+          "description": "Jupyter対話環境を使ってVS Codeでノートブックのデバッグ：Visual Studio Codeで快適Pythonライフ（1/2 ページ）",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2108/20/news031.html",
+          "publishedOn": "2021-08-20T06:25:19.000Z",
+          "wordCount": 225,
+          "title": "Jupyter対話環境を使ってVS Codeでノートブックのデバッグ：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT"
+        },
+        {
+          "id": "https://logmi.jp/tech/articles/324836",
+          "author": null,
+          "description": "Optuna™は、オープンソースのハイパーパラメーター自動最適化フレームワークです。 「Optuna Meetup #1」では、Optunaのユーザー、導入を検討している方、また開発者を中心に、Optunaの様々な活用方法が共有されました。Yamazaki氏は、Optunaの開発のきっかけ、歴史、そして概要について発表をしました。全2回。後半は、...",
+          "link": "https://logmi.jp/tech/articles/324836",
+          "publishedOn": "2021-08-20T06:15:49.000Z",
+          "wordCount": 517,
+          "title": "Pure Pythonで書かれた“Optuna”の仕組み　ハイパーパラメーター自動最適化のフレームワーク - ログミーTech"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210820/k10013214051000.html",
+          "author": null,
+          "description": "みずほフィナンシャルグループはみずほ銀行とみずほ信託銀行で発生していたシステム障害が、20日正午ごろ復旧し、全国の店舗の窓口ですべての取り引きができるようになったことを明らかにしました。 みずほ銀行とみずほ信託銀行では19日午後9時すぎから店頭での取り引きを行うシステムで機器の障害が発生し、2つの銀行の...",
+          "link": "https://www3.nhk.or.jp/news/html/20210820/k10013214051000.html",
+          "publishedOn": "2021-08-20T05:59:05.000Z",
+          "wordCount": 22,
+          "title": "みずほ銀行 システム障害全面復旧 記者会見開き原因など説明へ | NHKニュース"
+        },
+        {
+          "id": "https://japan.cnet.com/article/35175505/",
+          "author": null,
+          "description": "Teslaの最高経営責任者（CEO）であるElon Musk氏は米国時間8月19日、同社の自動運転車と同じ人工知能（AI）を搭載した人型ロボット、「Tesla Bot」を発表した。発表の中では、Tesla Botと同じ装いのダンサーがやや奇妙なダンスを演じたが、実機が披露されることはなかった。 予想外の発表は、「Tesla AI Day」のプレゼン...",
+          "link": "https://japan.cnet.com/article/35175505/",
+          "publishedOn": "2021-08-20T05:47:19.000Z",
+          "wordCount": 481,
+          "title": "テスラ、人型ロボット「Tesla Bot」を発表--2022年に試作機登場へ - CNET Japan"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1345181.html",
+          "author": null,
+          "description": "米Microsoftは19日(現地時間)、同社の提供する企業/法人向けサブスクリプション型サービス「Microsoft 365 Business」および「Office 365」の価格改定を発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1345181.html",
+          "publishedOn": "2021-08-20T05:31:02.000Z",
+          "wordCount": 108,
+          "title": "Microsoft 365/Office 365が値上げへ。法人向け製品を対象に - PC Watch"
+        },
+        {
+          "id": "https://speakerdeck.com/recruitengineers/software-engineers-survival-guide",
+          "author": null,
+          "description": "Transcript ιϑτ΢ΣΞ� ΤϯδχΞͱͯ͠ͷ� ࢟੎ͱ৺ߏ͑ ࿨ా�୎ਓ� !U@XBEB \"QS��� ������!�ϦΫϧʔτ U�XBEB� U@XBEB� UXBEB ࿨ా୎ਓ खֻ͚ͨຊͨͪ wେֶࡏֶத͔ΒઃܭͱϓϩάϥϛϯάͷΞϧόΠτ Λ࢝ΊΔ� wଔۀޙϓϩάϥϚͱͯ͠ͷΩϟϦΞΛ։࢝� wిࢠ੓෎ͷαϒϓϩδΣΫτ ਺ઍਓن໛ ͰϦʔυ ϓϩάϥϚ� w91�ͷίʔνͱͯ͠���ਓͷΞδϟΠϧνʔϜʹࢀՃ� wߨԋɺࣥචɺ�044�׆ಈΛ࢝ΊΔ� wݱࡏ͸ٕज़ސ໰ۀΛߦ͍ͬͯΔ ΩϟϦΞతͳ΋ͷ None None ֶͼଓ͚Δ࢟੎ l͋ͳͨͷ� ஌ࣝϙʔτϑΥϦΦ ʹରͯ͠ఆظతͳ౤ ࢿΛߦ͏͜ͱz ٕज़ΛֶͿͷͰ ͸ͳ͘ɺٕज़ͷ ֶ...",
+          "link": "https://speakerdeck.com/recruitengineers/software-engineers-survival-guide",
+          "publishedOn": "2021-08-20T03:57:04.000Z",
+          "wordCount": 621,
+          "title": "ソフトウェアエンジニアとしての姿勢と心構え / Software Engineer's Survival Guide - Speaker Deck"
+        },
+        {
+          "id": "https://www.newsweekjapan.jp/stories/world/2021/08/vs-40.php",
+          "author": null,
+          "description": "＜米テスラが火をつけたEV（電気自動車）シフトが欧米で進む一方、トヨタはハイブリッド車（HV）、プラグインハイブリッド車（PHV）、燃料電池車（FCV）にEVを加えた全方位戦略で受けて立とうとしている。果たしてトヨタに勝機があるのか。『TechnoKING　イーロン・マスク　奇跡を呼び込む光速経営』の著者、竹内一正氏...",
+          "link": "https://www.newsweekjapan.jp/stories/world/2021/08/vs-40.php",
+          "publishedOn": "2021-08-20T03:29:03.000Z",
+          "wordCount": 267,
+          "title": "テスラvsトヨタ、豊田社長肝いりの燃料電池車は失敗だったのか｜ニューズウィーク日本版 オフィシャルサイト"
+        },
+        {
+          "id": "https://recruit-tech.co.jp/blog/2021/08/20/recruit-bootcamp-2021/",
+          "author": null,
+          "description": "こんにちは！ Webフロントエンドエンジニアの眞野 隼輔です。 毎年大きな反響を頂いている、エンジニアコースの新人研修の内容を紹介させていただきます。 研修の概要 リクルートでは、エンジニアコースでスペシャリスト採用された新卒のエンジニアを対象に、現場で培われた「本当に必要な生きた知識・技術」を取り入れ...",
+          "link": "https://recruit-tech.co.jp/blog/2021/08/20/recruit-bootcamp-2021/",
+          "publishedOn": "2021-08-20T03:16:02.000Z",
+          "wordCount": 198,
+          "title": "株式会社リクルート　エンジニアコース新人研修の内容を公開します！（2021年度版） | リクルート　メンバーズブログ"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/08/20/symmetry-dimensions-digital-twin-chaos-map-2021-08/",
+          "author": null,
+          "description": "デジタルツイン関連技術・サービスを展開する企業をまとめた「デジタルツイン 業界カオスマップ」2021年8月版公開 View Slideshow Previous Next Exit デジタルツインプラットフォームの開発・提供を行うSymmetry Dimensions（シンメトリー・ディメンションズ）は8月19日、2021年8月版「デジタルツイン 業界カオスマップ...",
+          "link": "https://jp.techcrunch.com/2021/08/20/symmetry-dimensions-digital-twin-chaos-map-2021-08/",
+          "publishedOn": "2021-08-20T03:04:53.000Z",
+          "wordCount": 335,
+          "title": "デジタルツイン関連技術・サービスを展開する企業をまとめた「デジタルツイン 業界カオスマップ」2021年8月版 | TechCrunch Japan"
+        },
+        {
+          "id": "https://www.jnsa.org/result/incidentdamage/data/incidentdamage_20210818.pdf",
+          "author": null,
+          "description": "インシデント発生時の被害額について インシデント被害調査WG 2021 調査レポート インシデント損害額 Version 1.00 １ 目次 目次 ................................................................................................................................. 1 Ⅰ はじめに.....................................",
+          "link": "https://www.jnsa.org/result/incidentdamage/data/incidentdamage_20210818.pdf",
+          "publishedOn": "2021-08-20T02:49:20.000Z",
+          "wordCount": 59520,
+          "title": "Microsoft Word - œi"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2108/20/news023.html",
+          "author": null,
+          "description": "Windows 365入門「買って、試して分かったWindows 365（契約・セットアップ編） 」では、Windows 365の契約からクラウドPC上のWindows 10の日本語化まで紹介した。本稿では、引き続きクラウドPC上のWindows 10で筆者の仕事環境を構築し、その過程で分かったことをまとめていこうと思う。 クラウドPC上のWindows 10の初期...",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2108/20/news023.html",
+          "publishedOn": "2021-08-20T02:19:21.000Z",
+          "wordCount": 278,
+          "title": "クラウドPC「Windows 365」で仕事環境を構築してみた：Windows 365入門（1/2 ページ） - ＠IT"
+        },
+        {
           "id": "https://www.nikkei.com/article/DGXZQOUB200S20Q1A820C2000000/",
           "author": null,
           "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら みずほ銀行は20日、システムの障害により窓口での入出金や振り込みができない事態が起きていると発表した。店舗での取引を処理するシステムの部品故障が原因といい、AT...",
@@ -54,6 +279,24 @@
           "publishedOn": "2021-08-20T00:05:35.000Z",
           "wordCount": 113,
           "title": "みずほ銀行でシステム障害、窓口の取引できず: 日本経済新聞"
+        },
+        {
+          "id": "https://www.jnsa.org/result/incidentdamage/2021.html",
+          "author": null,
+          "description": "目的 サイバー攻撃の脅威およびその対策の必要性については、理解の程度に差はあるものの、マスコミによる報道ほか、経済産業省、総務省、警察、IPA（アイピーエー。独立行政法人情報処理推進機構）などの公的機関・団体や、JNSA（ジェーエヌエスエー。NPO法人日本ネットワークセキュリティ協会）、セキュリティベンダー...",
+          "link": "https://www.jnsa.org/result/incidentdamage/2021.html",
+          "publishedOn": "2021-08-19T23:48:16.000Z",
+          "wordCount": 38,
+          "title": "インシデント損害額調査レポート　2021年版 （インシデント被害調査ワーキンググループ）/ 2021.8.18 NPO日本ネットワークセキュリティ協会　報告書・公開資料"
+        },
+        {
+          "id": "https://karaage.hatenadiary.jp/entry/2021/08/20/073000",
+          "author": null,
+          "description": "「Deep Running」が産まれた日 もう元記事は消えてしまったのですが、なんか的はずれだなーと個人的に感じた「分身ロボットカフェ」を批判する記事がありました。記事の内容はどうでも良いのですが（すでに忘れました）。その記事にあった「ディープランニング」というパワーワードがみょうにツボに入ってしまいました。...",
+          "link": "https://karaage.hatenadiary.jp/entry/2021/08/20/073000",
+          "publishedOn": "2021-08-19T23:32:05.000Z",
+          "wordCount": 243,
+          "title": "GitHubで「Deep Running」というREADMEだけのリポジトリを作ったら奇跡が起こった - karaage. [からあげ]"
         },
         {
           "id": "https://aws.amazon.com/blogs/aws/introducing-amazon-memorydb-for-redis-a-redis-compatible-durable-in-memory-database-service/",
@@ -128,6 +371,15 @@
           "title": "プロダクト開発組織のチームビジョンを作ったらすごいパワーが生まれた話 - Uzabase Tech"
         },
         {
+          "id": "https://finders.me/articles.php?id=2976",
+          "author": null,
+          "description": "古川享 1954年東京生まれ。麻布高校卒業後、和光大学人間関係学科中退。1979年（株）アスキー入社。出版、ソフトウェアの開発事業に携わる。1982年同社取締役、1986年3月同社退社、1986年5月　米マイクロソフトの日本法人マイクロソフト株式会社を設立。初代代表取締役社長就任。1991年同社代表取締役会長兼米マイクロソ...",
+          "link": "https://finders.me/articles.php?id=2976",
+          "publishedOn": "2021-08-19T11:01:36.000Z",
+          "wordCount": 166,
+          "title": "ビル・ゲイツに怒鳴られ、坂本龍一に理解され【連載】インターネットの歴史教科書(3)｜FINDERS"
+        },
+        {
           "id": "https://speakerdeck.com/kurochan/wireguardtoopenid-connectfalselian-xi-wogoteshi-zhuang-sitemita",
           "author": null,
           "description": "Transcript WireGuardとOpenID Connectの連携を Goで実装してみた 株式会社サイバーエージェント AI事業本部 黒崎 優太 (@kuro_m ) 黒崎 優太 • 株式会社サイバーエージェント AI事業本部 アプリ運⽤センター • ⼩売業界 x DXの事業をやっています • バックエンドエンジニア 直近はAWSとかGCPとかセキュリティまわりの ...",
@@ -135,6 +387,15 @@
           "publishedOn": "2021-08-19T10:49:11.000Z",
           "wordCount": 493,
           "title": "WireGuardとOpenID Connectの連携をGoで実装してみた - Speaker Deck"
+        },
+        {
+          "id": "https://www.slideshare.net/yamatech/dx-250008866",
+          "author": null,
+          "description": "We use your LinkedIn profile and activity data to personalize ads and to show you more relevant ads. You can change your ad preferences anytime.",
+          "link": "https://www.slideshare.net/yamatech/dx-250008866",
+          "publishedOn": "2021-08-19T10:14:39.000Z",
+          "wordCount": 797,
+          "title": "道南ではじめるこれからの自治体DX"
         },
         {
           "id": "https://kaden.watch.impress.co.jp/docs/news/1344847.html",
@@ -270,6 +531,15 @@
           "publishedOn": "2021-08-19T00:19:43.000Z",
           "wordCount": 343,
           "title": "障害発生！全員集合？ － オンコールアンチパターンからの一歩前進 - Cybozu Inside Out | サイボウズエンジニアのブログ"
+        },
+        {
+          "id": "https://dekiru.net/article/22001/",
+          "author": null,
+          "description": "嫌われ者の「セル結合」と上手に付き合う 表を見やすくしようとして「セル結合」を使う場面は多いですが、安易に使ってしまうと、その表の扱いに苦労することがあります。主に、次のような問題が起こりがちです。 表の並べ替えができない セル範囲をうまく選択できない コピー・移動で結合されたままペーストされる 例え...",
+          "link": "https://dekiru.net/article/22001/",
+          "publishedOn": "2021-08-18T23:15:50.000Z",
+          "wordCount": 160,
+          "title": "Excelで「セル結合」をやめる3つの方法。結合されたように見せる代替機能も便利！ | できるネット"
         },
         {
           "id": "https://gigazine.net/news/20210819-neuroprosthetic-hand-mit/",
@@ -7191,222 +7461,6 @@
           "publishedOn": "2021-07-22T12:35:45.000Z",
           "wordCount": 682,
           "title": "GitHub - flouthoc/wiser: Extremely minimal vmm for linux written in C. Hopefully someday will spin linux-vm for you."
-        },
-        {
-          "id": "https://japanese.engadget.com/chrome-os-login-issue-typo-091029543.html",
-          "author": null,
-          "description": "Googleは、Chrome OS 91のアップデート(91.0.4472.147)を配信したところ、多くのユーザーからデバイスのCPU負荷が非常に高くなるとの苦情を受け取ることになりました。そのためGoogleはすぐにこのアップデートの配布を中止し、元のバージョン(91.0.4472.114)に戻しました。 ところがその結果、今度はLinuxアプリケーショ...",
-          "link": "https://japanese.engadget.com/chrome-os-login-issue-typo-091029543.html",
-          "publishedOn": "2021-07-22T10:02:05.000Z",
-          "wordCount": 210,
-          "title": "更新したChrome OSに紛れこんだ「1文字のタイポ」、ログイン不能やファイル損失の不具合を誘発 - Engadget 日本版"
-        },
-        {
-          "id": "https://gigazine.net/news/20210722-isoflow/",
-          "author": null,
-          "description": "ネットワークの構成を視覚的に把握しやすいアイソメトリック図で表現でき、作成した図面を共有して相手に見せることができるオンラインサービスが「Isoflow」です。 Isoflow https://isoflow.io/ まずはお試しですぐに図面の作成画面に行くことができます。「CREATE A DIAGRAM」をクリック。 表示されたキャンバス上の好...",
-          "link": "https://gigazine.net/news/20210722-isoflow/",
-          "publishedOn": "2021-07-22T09:35:49.000Z",
-          "wordCount": 194,
-          "title": "立体的な表現で見やすいネットワーク図がブラウザ上で作成できる「Isoflow」 - GIGAZINE"
-        },
-        {
-          "id": "https://ledge.ai/toonme-re-posting/",
-          "author": null,
-          "description": "2021年上半期にAI（人工知能）関連メディアであるLedge.aiで公開した記事のうち、反響の大きかったもの再掲します（※初公開日：2021年1月22日）。 今回は、AIのアルゴリズムを活用し、写真に写った人物をあっという間に、『トイ・ストーリー』シリーズや『ファインディング・ニモ』シリーズなどで知られる、ピクサー・ア...",
-          "link": "https://ledge.ai/toonme-re-posting/",
-          "publishedOn": "2021-07-22T08:55:52.000Z",
-          "wordCount": 144,
-          "title": "AIで人をピクサー風に変える無料アプリ 国内外のSNSで話題に！ | Ledge.ai"
-        },
-        {
-          "id": "https://www.security-next.com/128356",
-          "author": null,
-          "description": "情報処理推進機構（IPA）は、セキュリティの動向を広く紹介する年次白書の最新版「情報セキュリティ白書2021」を7月30日に発刊する。書籍として販売するほか、無料のPDF版も提供する予定。 同白書は、セキュリティ分野の概況を幅広く紹介する資料。2008年より毎年発行している。組織における注意喚起や教育、講演資料、...",
-          "link": "https://www.security-next.com/128356",
-          "publishedOn": "2021-07-22T07:38:10.000Z",
-          "wordCount": 139,
-          "title": "【セキュリティ ニュース】IPA、「情報セキュリティ白書2021」を発行 - 無料PDF版も提供予定（1ページ目 / 全1ページ）：Security NEXT"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2021/07/ipad-mini-a15.html",
-          "author": null,
-          "description": "次期iPad miniはA15チップ搭載の噂？ ノートPCの代わりになるかも2021.07.22 12:0011,343 Victoria Song - Gizmodo US ［原文］ （ そうこ ） かなり期待高まっています。 ネタ元の9to5Macの報道によれば、秋頃発表と言われているiPad miniにはA15チップが搭載されるようです。A15チップは、Apple独自チップの次モデルで...",
-          "link": "https://www.gizmodo.jp/2021/07/ipad-mini-a15.html",
-          "publishedOn": "2021-07-22T07:02:56.000Z",
-          "wordCount": 99,
-          "title": "次期iPad miniはA15チップ搭載の噂？ ノートPCの代わりになるかも | ギズモード・ジャパン"
-        },
-        {
-          "id": "https://japanese.engadget.com/apple-confirm-ios147-wifi-bugfix-060055964.html",
-          "author": null,
-          "description": "今年5月に配信されたiOS 14.6では、iPhoneが特定のSSID（ネットワーク名）を持つWi-Fiネットワークに接続するとWi-Fi機能が無効化される不具合が報告されていました。 この不具合は先日から配信されたiOS 14.7での修正が噂されていたのですが、今回、アップルがiOS 14.7での解決を公式に認めるセキュリティ文書を公開し...",
-          "link": "https://japanese.engadget.com/apple-confirm-ios147-wifi-bugfix-060055964.html",
-          "publishedOn": "2021-07-22T06:12:18.000Z",
-          "wordCount": 217,
-          "title": "iOS 14.7は「悪意SSIDに繋ぐとWi-Fi機能破壊」バグを修正。アップルが文書公開 - Engadget 日本版"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/063/4063399/",
-          "author": null,
-          "description": "AC（USB）でもDC（単3乾電池）でも動作する、高精度のCO2濃度みまもりセンサー「まもセンサーAir」は、クラウド利用でユーザーがどこに居てもチェック可能なコロナ禍の「蜜」監視の便利アイテムだ 新型コロナウイルス感染症対策専門家会議の見解では、集団感染が確認された場所で共通する3条件への対応が示されています...",
-          "link": "https://ascii.jp/elem/000/004/063/4063399/",
-          "publishedOn": "2021-07-22T05:55:08.000Z",
-          "wordCount": 566,
-          "title": "ASCII.jp：電源オン即“CO2濃度みまもり”のできる「まもセンサーAir」を衝動買い (1/8)"
-        },
-        {
-          "id": "https://gist.github.com/sadnessOjisan/50d0bcb20b41aae6f281cdc44d5f8b9a",
-          "author": null,
-          "description": "sinukato-omotta-yo.md モデルナ2回目接種の副反応の記録 勢いで書いたこともあり、語尾が断定口調で強くなってしまっていますが、あくまでも個人の体験の記録ということを加味して読んでいただければと思います。 全員が全員このような症状が出ることはないと思いますが、もし不安を覚えているのでしたらここに書いたこ...",
-          "link": "https://gist.github.com/sadnessOjisan/50d0bcb20b41aae6f281cdc44d5f8b9a",
-          "publishedOn": "2021-07-22T04:33:53.000Z",
-          "wordCount": 410,
-          "title": "モデルナ2回目接種の副反応の記録 · GitHub"
-        },
-        {
-          "id": "https://twitter.com/mishiki/status/1418021707466493952",
-          "author": null,
-          "description": "アカン人物がアカン言動をするフィクションで作者や演者を叩いてはいけない。まあ多くの人がこの区別をつけられないのは分かっているけれど、いま辿れる限りでみる発信源のre-geinouというよく分からんサイトと、名前を検索しても何も出て… https://t.co/mqh7oXiEQU",
-          "link": "https://twitter.com/mishiki/status/1418021707466493952",
-          "publishedOn": "2021-07-22T04:15:39.000Z",
-          "wordCount": 196,
-          "title": "未識魚 /中川譲 @技術書典11 い16 on Twitter: \"アカン人物がアカン言動をするフィクションで作者や演者を叩いてはいけない。まあ多くの人がこの区別をつけられないのは分かっているけれど、いま辿れる限りでみる発信源のre-geinouというよく分からんサイトと、名前を検索しても何も出て… https://t.co/mqh7oXiEQU\""
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210722094316",
-          "author": null,
-          "description": "そんなコメントでAI対策する必要ないだろʕ•̫͡•ʔ•̫͡•ʕ•̫͡•ʕ•̫͡•ʔ•̫͡•ʔ",
-          "link": "https://anond.hatelabo.jp/20210722094316",
-          "publishedOn": "2021-07-22T03:53:38.000Z",
-          "wordCount": 82,
-          "title": "コメントの末尾をクマ？で埋めてるのに0スターの人"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/22/news032.html",
-          "author": null,
-          "description": "「Clubhouse」の招待制が終了し、待たずに入会できるようになった。新しい正式ロゴとWebサイトも披露した。 ソーシャル音声プラットフォームの「Clubhouse」を運営する米Alpha Explorationは7月21日（現地時間）、これまでClubhouseへの入会に必要だった招待制を終了すると発表した。順番待ちの約1000万人が段階的に入会...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/22/news032.html",
-          "publishedOn": "2021-07-22T02:02:11.000Z",
-          "wordCount": 155,
-          "title": "Clubhouse、招待制ようやく終了　新ロゴも披露 - ITmedia NEWS"
-        },
-        {
-          "id": "https://liginc.co.jp/549508",
-          "author": null,
-          "description": "こんにちは、LIGのマーケターのまこりーぬ（@makosaito214）です。 ふだんはマーケティング関連の記事ばかり書いている私ですが、今回はめずらしく自分自身について文章を書こうと思います。LIGブログは100本以上書いてきたものの、自分のことを綴るのは実は2回目です（笑）。1本目はLIGでマーケティング職として働くお...",
-          "link": "https://liginc.co.jp/549508",
-          "publishedOn": "2021-07-22T01:34:23.000Z",
-          "wordCount": 365,
-          "title": "「自分でやった方が早い病」を克服したい。 | 株式会社LIG"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/22/news030.html",
-          "author": null,
-          "description": "Twitterが、ツイートの返信に「賛成」か「反対」をつける機能のテストを開始した。現在は「賛成」は現行の「いいね」に相当するが、「反対」は「よくないね」ではないとしている。 米Twitterは7月21日（現地時間）、Twitterの返信に「up vote（賛成）」か「down vote（反対）」をつけられるボタンのテストを一部のiOSア...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/22/news030.html",
-          "publishedOn": "2021-07-22T01:06:31.000Z",
-          "wordCount": 152,
-          "title": "Twitter、返信に「反対票」（dislikeではない）をつけるテストを開始 - ITmedia NEWS"
-        },
-        {
-          "id": "https://wirelesswire.jp/2021/07/80246/",
-          "author": null,
-          "description": "DXを阻む障害 2021.07.22 Updated by Ryo Shimizu on July 22, 2021, 09:12 am JST いわゆるDX、デジタルトランスフォーメーションする必要性を多くの企業が迫られている。 ところが、これがなかなか難しい。 たとえば、DXをコンサルティング会社に依頼するも、そもそもそのコンサルティング会社そのものがDXしてないの...",
-          "link": "https://wirelesswire.jp/2021/07/80246/",
-          "publishedOn": "2021-07-22T00:16:34.000Z",
-          "wordCount": 177,
-          "title": "DXを阻む障害 - WirelessWire News（ワイヤレスワイヤーニュース）"
-        },
-        {
-          "id": "https://www.fastly.com/press/press-releases/fastly-launches-new-era-of-highly-secure-serverless-javascript-with-zero",
-          "author": null,
-          "description": "Fastly Launches New Era of Highly-Secure Serverless JavaScript With Zero Cold Starts Compute@Edge’s unique isolation sandbox technology enables a fast, secure JavaScript experience as developers continue to enter into the growing serverless computing landscape. SAN FRANCISCO -- JULY 21, 2021 -- F...",
-          "link": "https://www.fastly.com/press/press-releases/fastly-launches-new-era-of-highly-secure-serverless-javascript-with-zero",
-          "publishedOn": "2021-07-22T00:00:24.000Z",
-          "wordCount": 926,
-          "title": "Fastly Launches New Era of Highly-Secure Serverless JavaScript With Zero Cold Starts | Fastly"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1338703.html",
-          "author": null,
-          "description": "PC Watch編集長の若杉です。おかげさまでPC Watchは2021年7月をもって25周年を迎えることとなりました。これまでPC Watchを支えてくださった読者の方、メーカーの方、ライターさん、その他大勢の関係者の皆様にこの場を借りて厚く御礼申し上げます。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1338703.html",
-          "publishedOn": "2021-07-21T21:16:50.000Z",
-          "wordCount": 233,
-          "title": "おかげさまでPC Watchは25周年を迎えました - PC Watch"
-        },
-        {
-          "id": "https://www.kb.cert.org/vuls/id/506989",
-          "author": null,
-          "description": "Microsoft Windows gives unprivileged user access to system32\\config files Vulnerability Note VU#506989 Original Release Date: 2021-07-20 | Last Revised: 2021-07-22 Overview Multiple versions of Windows grant non-administrative users read access to files in the %windir%\\system32\\config directory. ...",
-          "link": "https://www.kb.cert.org/vuls/id/506989",
-          "publishedOn": "2021-07-21T17:35:08.000Z",
-          "wordCount": 819,
-          "title": "VU#506989 - Microsoft Windows gives unprivileged user access to system32\\config files"
-        },
-        {
-          "id": "https://japan.zdnet.com/article/35174227/",
-          "author": null,
-          "description": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Microsoftは米国時間7月20日、Windows 10に存在する特権昇格の脆弱性（CVE-2021-36934）に関する情報を公開した。これを修正するセキュリティ更新プログラムはまだ無く、同社は...",
-          "link": "https://japan.zdnet.com/article/35174227/",
-          "publishedOn": "2021-07-21T14:51:42.000Z",
-          "wordCount": 432,
-          "title": "Windows 10に特権昇格の未修正の脆弱性、マイクロソフトが回避策 - ZDNet Japan"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210721231208",
-          "author": null,
-          "description": "基本新着しか見てなかったので、人気のコメントの基準変更でこんなに大騒ぎになってる事に驚きを禁じ得ない。 ブックマーカーって人気のコメント入りする事に命をかけてたりしてたのか。",
-          "link": "https://anond.hatelabo.jp/20210721231208",
-          "publishedOn": "2021-07-21T14:46:05.000Z",
-          "wordCount": 86,
-          "title": "はてブの人気のコメント"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1339729.html",
-          "author": null,
-          "description": "米Microsoftは7月14日（現地時間）、「Windows Terminal 1.9」を正式リリースした。このアップデートの目玉は、いつでもデスクトップ上部に「Windows Terminal」画面を呼び出せる「Quake」モードだ。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1339729.html",
-          "publishedOn": "2021-07-21T13:54:35.000Z",
-          "wordCount": 171,
-          "title": "「Quake」モードを追加した「Windows Terminal 1.9」が正式版に ～既定ターミナルの置き換えは搭載見送り - 窓の杜"
-        },
-        {
-          "id": "https://speakerdeck.com/show_kanamaru/hururimotodedekirumian-qiang-sezaruwode-naihuan-jing-falsezuo-rifang",
-          "author": null,
-          "description": "勉強を継続するには意識ではなく仕組みを変えることがとても重要です。いかに勉強せざるを得ない環境を作り続けることができるのか。 今回はフルリモートでできる勉強せざるを得ない環境の作り方についてまとめました！ 2021/07/21 【Hedge #10】エンジニアの勉強法ハックLTにて登壇した内容になります！ https://rakus....",
-          "link": "https://speakerdeck.com/show_kanamaru/hururimotodedekirumian-qiang-sezaruwode-naihuan-jing-falsezuo-rifang",
-          "publishedOn": "2021-07-21T13:48:19.000Z",
-          "wordCount": 294,
-          "title": "フルリモートでできる勉強せざるを得ない環境の作り方 - Speaker Deck"
-        },
-        {
-          "id": "https://www.mbsd.jp/research/20210721/blog/",
-          "author": null,
-          "description": "東京五輪に関係するファイルを装った以下のファイル名を持つマルウェアが2021年07月20日(火) 15時頃、VirusTotalにアップロードされたことを確認しました。 【至急】東京オリンピック開催に伴うサイバー攻撃等発生に関する被害報告について.exe 早速ですが、本記事では該当検体の解析結果を共有します。 該当のファイル...",
-          "link": "https://www.mbsd.jp/research/20210721/blog/",
-          "publishedOn": "2021-07-21T12:25:58.000Z",
-          "wordCount": 402,
-          "title": "東京五輪に関係する日本語のファイル名を持つマルウェア(ワイパー)の解析 | 調査研究/ブログ | 三井物産セキュアディレクション株式会社"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/3ea364a90a3a6d3ca126c42bd3dac423b63df7c0",
-          "author": null,
-          "description": "東京五輪・パラリンピックのチケット購入者とボランティアのID、パスワードが盗まれ、インターネット上に流出していたことが21日、政府関係者への取材で分かった。大会組織委員会が調査している。",
-          "link": "https://news.yahoo.co.jp/articles/3ea364a90a3a6d3ca126c42bd3dac423b63df7c0",
-          "publishedOn": "2021-07-21T12:24:35.000Z",
-          "wordCount": 59,
-          "title": "五輪チケット購入者の情報流出（共同通信） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://nordot.app/790552913157406720",
-          "author": null,
-          "description": "東京五輪・パラリンピックのチケット購入者とボランティアのID、パスワードが盗まれ、インターネット上に流出していたことが21日、政府関係者への取材で分かった。大会組織委員会が調査している。",
-          "link": "https://nordot.app/790552913157406720",
-          "publishedOn": "2021-07-21T12:17:13.000Z",
-          "wordCount": 35,
-          "title": "五輪チケット購入者の情報流出 ｜ 共同通信"
         }
       ]
     },
@@ -7462,6 +7516,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=350186",
+          "author": "Chris Coyier",
+          "description": "I appreciated this bit of nuance from a post on Viget’s blog:\nThere could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:\n1. Stock tailwind, ie. no changes to the \n…\nThe post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/disambiguating-tailwind/",
+          "publishedOn": "2021-08-20T19:59:47.000Z",
+          "wordCount": 585,
+          "title": "“Disambiguating Tailwind”"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346702",
+          "author": "Ganesh Dahal",
+          "description": "Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …\nThe post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-headless-wordpress-site-with-frontity/",
+          "publishedOn": "2021-08-20T14:59:30.000Z",
+          "wordCount": 2966,
+          "title": "Creating a Headless WordPress Site With Frontity"
+        },
         {
           "id": "https://css-tricks.com/?p=350054",
           "author": "Chris Coyier",
@@ -7965,33 +8037,6 @@
           "publishedOn": "2021-07-22T14:39:09.000Z",
           "wordCount": 967,
           "title": "Hashnode: A Blogging Platform for Developers"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344950",
-          "author": "Chris Coyier",
-          "description": "Remember Tyler Hall’s personal story of a UX moment where the popup sharing context menu on iOS had no visible indication that the content inside was scrollable? The thing his mom wanted to do seemed impossible iOS isn’t alone here …\nThe post Yet Another Mobile Context Menu With No Indication it Can Scroll appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/yet-another-mobile-context-menu-with-no-indication-it-can-scroll/",
-          "publishedOn": "2021-07-21T21:08:17.000Z",
-          "wordCount": 513,
-          "title": "Yet Another Mobile Context Menu With No Indication it Can Scroll"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344948",
-          "author": "Chris Coyier",
-          "description": "Dr. Axel Rauschmayer looks at JSON modules, which is already live in Chrome 91 (but nothing else). It looks just like an ES Modules-style import, only you asset the type at the end. \nimport configData from './config-data.json' assert {type: \n…\nThe post ECMAScript proposal: JSON modules appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://2ality.com/2021/06/json-modules.html",
-          "publishedOn": "2021-07-21T21:08:08.000Z",
-          "wordCount": 634,
-          "title": "ECMAScript proposal: JSON modules"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344337",
-          "author": "Mark Noonan",
-          "description": "Turning website design files into a combination of HTML, CSS and JavaScript is the bread and butter of many front-end web development jobs, but there’s a part of this work that doesn’t neatly fit in to tutorials on any specific …\nThe post A Step-By-Step Process for Turning Designs Into Code appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-step-by-step-process-for-turning-designs-into-code/",
-          "publishedOn": "2021-07-21T14:37:07.000Z",
-          "wordCount": 4131,
-          "title": "A Step-By-Step Process for Turning Designs Into Code"
         }
       ]
     },
@@ -8035,6 +8080,15 @@
       "siteUrl": "https://gihyo.jp/design",
       "articles": [
         {
+          "id": "https://gihyo.jp/design/serial/01/ui-design-unsung/0025",
+          "author": "池田拓司",
+          "description": "今回は，デザインシステムがどのようなものか，実際のサービスでどのように利用されてどのような効果を発揮しているかについて事例をもとに触れていきます。",
+          "link": "https://gihyo.jp/design/serial/01/ui-design-unsung/0025",
+          "publishedOn": "2021-08-20T00:15:20.000Z",
+          "wordCount": 422,
+          "title": "第25回　デザインシステムで，使い勝手／デザイン／コードに統一感を持たせる ── 縁の下のUIデザイン―少しの工夫で大きな改善！"
+        },
+        {
           "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202108/19",
           "author": "アシカガコウジ",
           "description": "ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年8月9日～15日の間に見つけた記事のベスト5です。",
@@ -8077,6 +8131,69 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/gabrielomarq/spa-ssr-y-ssg-como-cuando-y-por-que-2d7e",
+          "author": "GabrielOmar",
+          "description": "Hace unos años, basábamos el desarrollo web en frameworks puros como son Angular, React y Vue, todos ellos proveen lo que conocemos como client-side rendering (Single Page Application). Pero, con el paso del tiempo descubrimos diferentes necesidades a la hora de renderizar las aplicaciones es ahí donde entra lo que conocemos como SSR y SGR. ¿El problema?, muchos desarrolladores no tienen del todo claro cuando optar por alguno.\nPodemos diferir que no tendría mucho sentido usar SSR para una TODO App así como no tendría sentido construir tu blog usando SPA, ¿o quizás si lo tendría?.\nEs ahí el detalle, no existe una lista definida de cuando usar que. Sin embargo, explicaremos en que consiste cada uno, los pro y contras para que puedas tomar la mejor decisión al desarrollar tu próxima aplicació…",
+          "link": "https://dev.to/gabrielomarq/spa-ssr-y-ssg-como-cuando-y-por-que-2d7e",
+          "publishedOn": "2021-08-20T15:53:37.000Z",
+          "wordCount": 1532,
+          "title": "🚀😎SPA, SSR Y SSG ¿cómo, cuándo y por qué?"
+        },
+        {
+          "id": "https://dev.to/rodrigokamada/adding-the-internationalization-i18n-component-to-an-angular-application-4pac",
+          "author": "Rodrigo Kamada",
+          "description": "Introduction\n\n\nAngular is a development platform for building WEB, mobile and desktop applications using HTML, CSS and TypeScript (JavaScript). Currently, Angular is at version 12 and Google is the main maintainer of the project.\n@ngx-translate is an internationalization (i18n) component library with many configuration options.\nBefore you start, you need to install and configure the tools:\ngit\nNode.js and npm\nAngular CLI\nIDE (e.g. Visual Studio Code)\n1. Let's create the application with the Angular base structure using the @angular/cli with the route file and the SCSS style format.\nng new angular-internationalization\n? Would you like to add Angular routing? Yes\n? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/documentation/syntax#scss                ]\nCREATE …",
+          "link": "https://dev.to/rodrigokamada/adding-the-internationalization-i18n-component-to-an-angular-application-4pac",
+          "publishedOn": "2021-08-20T12:33:05.000Z",
+          "wordCount": 1071,
+          "title": "Adding the internationalization (i18n) component to an Angular application"
+        },
+        {
+          "id": "https://dev.to/primetek/last-3-days-to-save-up-to-50-off-1113",
+          "author": "PrimeTek",
+          "description": "Don't miss your last chance to save up to 50% on Premium Templates, Theme Designer, LTS and License Upgrades at PrimeStore!\nHurry up to access the high quality premium items for PrimeFaces, PrimeNG, PrimeReact and PrimeVue with exclusive discounts.\nThe offer ends on 23rd August morning EST.",
+          "link": "https://dev.to/primetek/last-3-days-to-save-up-to-50-off-1113",
+          "publishedOn": "2021-08-20T12:03:55.000Z",
+          "wordCount": 441,
+          "title": "LAST 3 DAYS to Save up to 50 % OFF!"
+        },
+        {
+          "id": "https://dev.to/ronancodes/why-nx-modern-web-development-2fjl",
+          "author": "Ronan Connolly 🛠",
+          "description": "I am in the process of setting up a Monorepo which will contain many large apps and libs, and I've absolutely fallen in love with NX.\nI've done a lot of research into NX the past few weeks and here's what I've found.\nUpgrading Angular -- The \"nx migrate\" commands from reading, seems to make upgrading your version of Angular much easier by letting you complete the migration in a multi-step way instead of all at once: https://nx.dev/latest/angular/core-concepts/updating-nx\n\n\nOnly run commands on affected project with \"nx affected\" -- Lets you auto test all libraries that have been affected by updating one library, on the pipeline this will be very handy as all affected libraries will auto build, and you can have your CD auto publish too.\n\n\nReduce redundant computations with the computational…",
+          "link": "https://dev.to/ronancodes/why-nx-modern-web-development-2fjl",
+          "publishedOn": "2021-08-20T10:23:44.000Z",
+          "wordCount": 1460,
+          "title": "Why NX == Modern Web Development"
+        },
+        {
+          "id": "https://dev.to/krishnapolanki/angular-ng-content-and-content-projection-2ie5",
+          "author": "KrishnaSai Polanki",
+          "description": "In order to create the re-usable and flexible components content projection is a great option in Angular. Using ng-content we can do the content projection in Angular.\nIn general content projection means inserting or projecting some content from one component into another component. For example you want to insert some dynamic html element(s) into component(child component) when it is used inside a parent component.\nCommon implementation of content projection in Angular are\nSingle Slot Content Projection\nMulti Slot Content Projection\nConditional Content Projection\nSingle slot content projection means there will be single source of the content which needs to project into component. Let's understand with an example.\nchild-component.html (selector: cp-child)\n<h2>Single Slot Content Projection …",
+          "link": "https://dev.to/krishnapolanki/angular-ng-content-and-content-projection-2ie5",
+          "publishedOn": "2021-08-20T10:08:42.000Z",
+          "wordCount": 810,
+          "title": "Angular ng-content and Content Projection"
+        },
+        {
+          "id": "https://dev.to/siddharthshyniben/how-to-add-auth0-to-your-angular-app-16j3",
+          "author": "Siddharth",
+          "description": "Pro Tip: look out for the 🛠 emoji if you want to skim\nThe number of apps on the cloud are rising, and so are the challenges in maintaining them. Secure authentication is one way in which we can mitigate some of the challenges in building cloud apps.\nHere, I'll show you how to add authentication to your Angular app using Auth0.\nAuthentication is a term that refers to the process of proving that some fact or some document is genuine.\nIn tech, this term is typically associated with proving a user’s identity. Usually, a user proves their identity by providing their credentials, like a username and password.\nAuthentication is not to be confused with authorization. Authentication is the process of verifying who a user is, while authorization is the process of verifying what they have access to.…",
+          "link": "https://dev.to/siddharthshyniben/how-to-add-auth0-to-your-angular-app-16j3",
+          "publishedOn": "2021-08-20T09:48:12.000Z",
+          "wordCount": 907,
+          "title": "How to add Auth0 to your Angular app"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-august-20-o1l",
+          "author": "Ajit Singh",
+          "description": "Help me improve these updates by giving suggestions.\n\n\nGithub Repo - https://github.com/ajitsinghkaler/devto-clone\nDeployed on Firebase - https://dev-toclone.firebaseapp.com/\nLast week we added details page but did not style the middle articles portion.\n\nThis week I added the article section CSS and added basic comments the comments section. Is on a different branch so will not deployed right now.\nWe have new contributors too Nivetha Mani who is building the videos detail page did a great job she has already completed it added infinite scroll and made everything responsive too she has already completed her work but there are some small changes after that her work would be merged. To have a look you can have a look at her pull request and let me give you a sneak peek.\n\nThis week I had a lot…",
+          "link": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-august-20-o1l",
+          "publishedOn": "2021-08-20T03:34:51.000Z",
+          "wordCount": 1330,
+          "title": "Updates on Dev.to clone in Angular - August 20"
+        },
         {
           "id": "https://dev.to/enappd/how-to-make-api-calls-in-ionic-capacitor-apps-4318",
           "author": "Abhijeet Rathore",
@@ -9237,51 +9354,6 @@
           "publishedOn": "2021-07-22T12:37:15.000Z",
           "wordCount": 754,
           "title": "My First Impression of Angular"
-        },
-        {
-          "id": "https://dev.to/the-guild/apollo-angular-1-2-using-graphql-in-your-apps-just-got-a-whole-lot-easier-3ome",
-          "author": "TheGuildBot",
-          "description": "This article was published on 2018-08-21 by Kamil Kisiela @ The Guild Blog\nCheck what’s new in Apollo Angular and how to get the full potential benefits of using Angular + GraphQL + TypeScript combined thanks to GraphQL-Code-Generator.\nWe are very excited to announce a new version of Apollo Angular that dramatically improves and simplifies the usage of GraphQL with Angular.\nThis version also adds production and scale related features, that our large Enterprise and production users had been asking for.\n  Code generation for Apollo Angular\n\n  Query, Mutation, Subscription as an Angular service\n  Apollo Angular Boost\n\n  Testing tools\nThrough almost two years of using GraphQL in Angular we gained a lot of experience, and learned how people use the library.\nWith the current API, having query an…",
-          "link": "https://dev.to/the-guild/apollo-angular-1-2-using-graphql-in-your-apps-just-got-a-whole-lot-easier-3ome",
-          "publishedOn": "2021-07-22T08:22:25.000Z",
-          "wordCount": 1390,
-          "title": "Apollo-Angular 1.2 - using GraphQL in your apps just got a whole lot easier!"
-        },
-        {
-          "id": "https://dev.to/the-guild/apollo-angular-0-11-a8h",
-          "author": "TheGuildBot",
-          "description": "This article was published on 2017-03-01 by Kamil Kisiela @ The Guild Blog\nWe recently released version0.11.0of apollo-angular and a lot of things have changed and improved since our last update blog!\nFirst, here is a overview list of the main changes:\n  New name\n  Support for Apollo Client 0.8+\n  AoT support\n  Multiple Apollo Client instances in a single app\n  TypeScript improvements and TypeScript codegen\n  Apollo Client Developer Tools\n  ES6 Modules and Tree Shaking\n  Support for Angular 4\nSo let’s dive into it!\n\nAs you all know, the term “Angular 2” is no longer a thing, now it’s just “Angular”, without the version suffix (#justAngular). So we renamed the package to be “apollo-angular”. We really wanted “angular-apollo” to match up with react-apollo, but it was already taken. That mean…",
-          "link": "https://dev.to/the-guild/apollo-angular-0-11-a8h",
-          "publishedOn": "2021-07-22T08:22:20.000Z",
-          "wordCount": 1735,
-          "title": "Apollo Angular 0.11"
-        },
-        {
-          "id": "https://dev.to/the-guild/angular-cli-meteor-no-more-ejecting-webpack-configuration-3k14",
-          "author": "TheGuildBot",
-          "description": "This article was published on 2018-07-13 by Arda Tanrikulu @ The Guild Blog\nPreviously, we have to eject Webpack configuration generated by Angular CLI to modify module aliases for Meteor’s special import syntax such as meteor/meteor and meteor/mongo etc.. However, this is not required after the latest release of Meteor Client Bundler. Now, MCB can create stub modules for these imports.\nCheck out the example in angular-meteor ; https://github.com/Urigo/angular-meteor/tree/master/examples/AngularCLI\n  After installation of meteor-client-bundler ;\n\n\n\n\nyarn add meteor-client-bundler --dev\n// or\nnpm install meteor-client-bundler --save-dev\n\n  Add meteor-client.config.json with the necessary options;\n\n\n\n\n// meteor-client.config.json\n{\n  \"runtime\": {\n    \"DDP_DEFAULT_CONNECTION_URL\": \"http://localhost:3000\",\n    \"ROOT_URL\": \"http://localhost:3000\"\n  },\n  // This option enables the generation of stub modules\n  \"generateNodeModules\": true\n}\n\n  After that; don’t forget to add generated meteor-client.js to angular.json ;\n\n\n\n\n{\n  \"scripts: [\"node_modules/meteor-client.js\"]\n}\n\n  Optionally, you can add postinstall script to generate all modules in every node_modules generation; because yarn or npm may remove your generated modules from this directory.\n\n\n\n\n// package.json\n{\n  \"scripts\": {\n    \"postinstall\": \"meteor-client bundle -s <PATH-TO-METEOR-PROJECT>\"\n  }\n}\n\n  Ready to use!\nThank you for reading my blog post about using Angular CLI with new MCB. I’d appreciate your claps to this post if you like it.",
-          "link": "https://dev.to/the-guild/angular-cli-meteor-no-more-ejecting-webpack-configuration-3k14",
-          "publishedOn": "2021-07-22T08:17:07.000Z",
-          "wordCount": 580,
-          "title": "Angular CLI + Meteor — No more ejecting Webpack Configuration"
-        },
-        {
-          "id": "https://dev.to/anirbmuk/angular-infinite-scrolling-using-rxjs-and-ngrx-4p8i",
-          "author": "Anirban Mukherjee",
-          "description": "/ \n        angular-scroll-demo\n      \n    \nI have seen multiple blog posts on this topic which make use of one method or the other. I just thought of putting everything together under one hood - RxJS, NgRx, Angular Material and in the end, pure document property access. This is what is leads to:\n\nLet's quickly talk about the setup here - I am using an Angular CLI 12.1.0 project. I have NgRx state management set up, with a root state and a feature state. Of course, NgRx is in no way related to the purpose of this application, but I just thought it would not hurt to implement it. We have to admit, as your application grows in size, NgRx does give you some peace of mind :-)\nThe UI is built using angular material. I have used the mat-list and and the mat-spinner components. I have some hard-coded dummy data, which I have converted into an observable stream, with a delay of 1500 ms, which gives some feeling of having fetched data from a REST service.\nThe key logic is to calculate when the user has scrolled down to the edge of the page. I chose a simple formula derived from the document object. Of course there are other fancy approaches like using an IntersectionObserver, but that's something I felt was too much for me!\n\nI set up the scroll action using RxJS fromEvent.\n\nOnce the scroll event is set up, whenever the above formula is satisfied, the next set of data is called for. For my sample use case, I have used a limit and skip value, which I have used to slice off a chunk from my dummy data set. Every time a new set is emitted by my data observable, I have made use of a reducer function to append it to my previous list of data.\n\nThis is where I store the next limit and skip values for the next data load, and also make a simple calculation of whether my data load is complete, and set it on my state. Once this flag becomes true, subsequent scroll actions do not trigger any more data fetch.\n\nCheers :-)",
-          "link": "https://dev.to/anirbmuk/angular-infinite-scrolling-using-rxjs-and-ngrx-4p8i",
-          "publishedOn": "2021-07-21T14:51:21.000Z",
-          "wordCount": 764,
-          "title": "Angular infinite scrolling using RxJS and NgRx"
-        },
-        {
-          "id": "https://dev.to/poulahelmy/the-ultimate-angular-community-meetups-and-conferences-2ml7",
-          "author": "PoulaHelmy",
-          "description": "The Missing part in learning in Angular.\nhttps://poulahelmy-blog.hashnode.dev/the-missing-part",
-          "link": "https://dev.to/poulahelmy/the-ultimate-angular-community-meetups-and-conferences-2ml7",
-          "publishedOn": "2021-07-21T13:48:29.000Z",
-          "wordCount": 429,
-          "title": "The Ultimate Angular community, meetups and conferences"
         }
       ]
     },
@@ -9397,15 +9469,6 @@
           "publishedOn": "2021-07-23T22:38:48.000Z",
           "wordCount": 3972,
           "title": "Reactive Programming 🌫️ - Demystified using RxJS"
-        },
-        {
-          "id": "https://dev.to/anirbmuk/angular-infinite-scrolling-using-rxjs-and-ngrx-4p8i",
-          "author": "Anirban Mukherjee",
-          "description": "/ \n        angular-scroll-demo\n      \n    \nI have seen multiple blog posts on this topic which make use of one method or the other. I just thought of putting everything together under one hood - RxJS, NgRx, Angular Material and in the end, pure document property access. This is what is leads to:\n\nLet's quickly talk about the setup here - I am using an Angular CLI 12.1.0 project. I have NgRx state management set up, with a root state and a feature state. Of course, NgRx is in no way related to the purpose of this application, but I just thought it would not hurt to implement it. We have to admit, as your application grows in size, NgRx does give you some peace of mind :-)\nThe UI is built using angular material. I have used the mat-list and and the mat-spinner components. I have some hard-coded dummy data, which I have converted into an observable stream, with a delay of 1500 ms, which gives some feeling of having fetched data from a REST service.\nThe key logic is to calculate when the user has scrolled down to the edge of the page. I chose a simple formula derived from the document object. Of course there are other fancy approaches like using an IntersectionObserver, but that's something I felt was too much for me!\n\nI set up the scroll action using RxJS fromEvent.\n\nOnce the scroll event is set up, whenever the above formula is satisfied, the next set of data is called for. For my sample use case, I have used a limit and skip value, which I have used to slice off a chunk from my dummy data set. Every time a new set is emitted by my data observable, I have made use of a reducer function to append it to my previous list of data.\n\nThis is where I store the next limit and skip values for the next data load, and also make a simple calculation of whether my data load is complete, and set it on my state. Once this flag becomes true, subsequent scroll actions do not trigger any more data fetch.\n\nCheers :-)",
-          "link": "https://dev.to/anirbmuk/angular-infinite-scrolling-using-rxjs-and-ngrx-4p8i",
-          "publishedOn": "2021-07-21T14:51:21.000Z",
-          "wordCount": 764,
-          "title": "Angular infinite scrolling using RxJS and NgRx"
         }
       ]
     },
@@ -9414,6 +9477,24 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=31022",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784802512251.html",
+          "publishedOn": "2021-08-20T00:36:41.000Z",
+          "wordCount": 362,
+          "title": "シンプルなデザインは、奥が深い！ピクトグラムの選考委員を務めるサインデザイナーが専門家の視点からピクトグラムのデザインを解説したデザイン書"
+        },
+        {
+          "id": "https://coliss.com/?p=31283",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/beach-town-script-by-beckmccormick.html",
+          "publishedOn": "2021-08-20T00:26:59.000Z",
+          "wordCount": 272,
+          "title": "おしゃれなデザインにぴったりな有料フォントが今だけ無料！サインスタイルの手書きフォント -Beach Town Script"
+        },
         {
           "id": "https://coliss.com/?p=31089",
           "author": "コリス🥦",
@@ -9583,6 +9664,78 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/d9b42b040bb3",
+          "author": "Evgeniia",
+          "description": "A complete guide to one of the most powerful data analytics tools\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/pivot-tables-in-python-with-pandas-d9b42b040bb3?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-20T18:32:28.000Z",
+          "wordCount": 1708,
+          "title": "Pivot Tables in Python With Pandas"
+        },
+        {
+          "id": "https://medium.com/p/3b18a43400b5",
+          "author": "Mitadru Datta",
+          "description": "Exploring the dark sides of pair programming\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-scenarios-where-pair-programming-can-cause-stress-3b18a43400b5?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-20T18:06:31.000Z",
+          "wordCount": 1546,
+          "title": "5 Scenarios Where Pair Programming Can Cause Stress"
+        },
+        {
+          "id": "https://medium.com/p/928b4a776c94",
+          "author": "Anna Geller",
+          "description": "Some activities we don’t spend enough time on\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/10-challenging-aspects-of-software-engineering-928b4a776c94?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-20T18:05:30.000Z",
+          "wordCount": 1619,
+          "title": "10 Challenging  Aspects of Software Engineering"
+        },
+        {
+          "id": "https://medium.com/p/e282a1874c79",
+          "author": "Thomas Smith",
+          "description": "It won’t replace human programmers, but it will make them far more powerful\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/i-beta-tested-openais-codex-and-the-results-are-spooky-good-e282a1874c79?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-20T17:55:12.000Z",
+          "wordCount": 2511,
+          "title": "I Beta Tested OpenAI’s Codex, and the Results Are Spooky Good"
+        },
+        {
+          "id": "https://medium.com/p/9e7a5751fe7f",
+          "author": "Rahul Banerjee",
+          "description": "Never make another bad commit\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/automate-javascript-code-linting-and-formatting-in-5-simple-steps-9e7a5751fe7f?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-20T17:10:55.000Z",
+          "wordCount": 984,
+          "title": "Automate JavaScript Code Linting and Formatting in 5 Simple Steps"
+        },
+        {
+          "id": "https://medium.com/p/176686c2c65b",
+          "author": "Karl Sprague",
+          "description": "Turn delegation from a necessary evil to a massive difference-maker\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/9-steps-to-master-delegation-as-a-leader-176686c2c65b?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-20T17:03:36.000Z",
+          "wordCount": 1967,
+          "title": "9 Steps To Master Delegation as a Leader"
+        },
+        {
+          "id": "https://medium.com/p/5f8b1cdfd3b3",
+          "author": "Frank Andrade",
+          "description": "Collaborate, set coding standards, and more\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/7-habits-i-learned-from-programmers-more-successful-than-me-5f8b1cdfd3b3?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-20T16:17:46.000Z",
+          "wordCount": 1607,
+          "title": "7 Habits I Learned From Programmers More Successful Than Me"
+        },
+        {
+          "id": "https://medium.com/p/38b2da5b8257",
+          "author": "Zack West",
+          "description": "Leverage the power of the standard textwrap library to format text like a pro!\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/text-wrapping-in-python-with-the-standard-textwrap-module-38b2da5b8257?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-20T15:32:44.000Z",
+          "wordCount": 1872,
+          "title": "Text Wrapping in Python With the Standard “textwrap” Module"
+        },
         {
           "id": "https://medium.com/p/5fca2158b001",
           "author": "Kevin Borders",
