@@ -47,6 +47,213 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://memo.sugyan.com/entry/2021/08/23/003752",
+          "author": null,
+          "description": "ISUCON11 予選おつかれさまでした。 ここ数年は参加者として予選敗退を繰り返してきたのだけど、今年はちょっと違う関わり方をしてみるか、と思い 「参考実装の移植」に立候補してみました。 isucon.net Node.js担当として採用していただき、ちょっと不安もあったので id:hokaccha 氏にレビュアーとしてついてもらって、...",
+          "link": "https://memo.sugyan.com/entry/2021/08/23/003752",
+          "publishedOn": "2021-08-22T22:13:38.000Z",
+          "wordCount": 453,
+          "title": "ISUCON11予選のNode.js実装を書いた - すぎゃーんメモ"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1345180.html",
+          "author": null,
+          "description": "サンワサプライから発売された2種類の“VESA取付けプレート”。「MR-VESA7」と「MR-VESA8」だが、あまりにも俺的ジャストタイミング製品だったので音の速さでポチッと購入して光の速さで使った途端、俺の用途要望欲望を完全に満たしてくれてビビった。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1345180.html",
+          "publishedOn": "2021-08-22T15:40:06.000Z",
+          "wordCount": 133,
+          "title": "こういうのでいいんだよ、こういうVESAプレートで - ケータイ Watch"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/windows_server_2022smb_over_quicvpn.html",
+          "author": null,
+          "description": "Windows Server 2022正式版がひっそりとリリース。セキュアコアサーバ搭載、SMB over QUICでVPN不要のファイルアクセスなど マイクロソフトからの発表はまだありませんが、Windows Server 2022正式版のリリースが事実上開始されました。 ライフサイクルのページに製品が登録され、2021年8月18日がサポート開始日となって...",
+          "link": "https://www.publickey1.jp/blog/21/windows_server_2022smb_over_quicvpn.html",
+          "publishedOn": "2021-08-22T14:55:06.000Z",
+          "wordCount": 209,
+          "title": "Windows Server 2022正式版がひっそりとリリース。セキュアコアサーバ搭載、SMB over QUICでVPN不要のファイルアクセスなど － Publickey"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-392107/",
+          "author": null,
+          "description": "Bloombergのマーク・ガーマン記者が自身のニュースレター「Power On」で、M1X搭載Mac miniが数ケ月以内に発表されると伝えました。 Thunderbolt/USBポートが4つに増える？ ガーマン記者によれば、M1X搭載Mac miniはIntelプロセッサ搭載Mac miniを置き換えるモデルになるようです。 M1X搭載Mac miniは、外部接続端子の数...",
+          "link": "https://iphone-mania.jp/news-392107/",
+          "publishedOn": "2021-08-22T14:23:07.000Z",
+          "wordCount": 221,
+          "title": "M1X搭載Mac miniが数ケ月以内に発表〜新型MacBook Proと同時か - iPhone Mania"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2021/08/successful-experiment-of-eye-cup-generation-process.html",
+          "author": null,
+          "description": "人間の脳のオルガノイドを培養したら｢目｣ができた2021.08.22 22:005,232 ByIsaac Schultz - Gizmodo US ［原文］ （ satomi ） こんにちは 目だ…目だよオイ…（泣）。 国際研究チームがラボで人間の脳を模した組織を培養したところ、つぶらな瞳のようなものがポッカリとでき世界が震えています。左右対称な眼杯で、光も感...",
+          "link": "https://www.gizmodo.jp/2021/08/successful-experiment-of-eye-cup-generation-process.html",
+          "publishedOn": "2021-08-22T13:15:22.000Z",
+          "wordCount": 75,
+          "title": "人間の脳のオルガノイドを培養したら｢目｣ができた | ギズモード・ジャパン"
+        },
+        {
+          "id": "https://blog.endflow.net/build-rust-app-image-faster/",
+          "author": null,
+          "description": "Rust + Docker + GitHub Actions = めちゃ遅い 以前、GitHub Actions 上の Rust ビルドを高速化する記事を書いたけど、 今回は Kubernetes 環境にスムーズに移行できるよう Docker イメージ化するという要件も加わったことで、改めて試行錯誤する必要が出てきた。 それぞれに対するビルド速度の最適化は存在しているもの...",
+          "link": "https://blog.endflow.net/build-rust-app-image-faster/",
+          "publishedOn": "2021-08-22T13:09:28.000Z",
+          "wordCount": 254,
+          "title": "GitHub Actions上のRustアプリのDockerイメージビルドを高速化する - blog.endflow.net"
+        },
+        {
+          "id": "https://note.com/nikonote/n/n1896258c40d9",
+          "author": null,
+          "description": "新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...",
+          "link": "https://note.com/nikonote/n/n1896258c40d9",
+          "publishedOn": "2021-08-22T10:48:37.000Z",
+          "wordCount": 123,
+          "title": "新型コロナにおける子供からの家庭内感染　傾向と対策｜ai｜note"
+        },
+        {
+          "id": "https://yro.srad.jp/story/21/08/22/0543253/",
+          "author": null,
+          "description": "アプリストアの独占をめぐって Epic Games が Google を訴えている裁判では、Google の要請により大量に墨塗りされた訴状 (PDF) が公開されていたが、判事の命令により墨塗りを外したバージョン (PDF、修正部分の赤線入り PDF) が先日公開された (The Register の記事、 The Verge の記事、 Ghacks の記事、 9to5Google ...",
+          "link": "https://yro.srad.jp/story/21/08/22/0543253/",
+          "publishedOn": "2021-08-22T10:30:01.000Z",
+          "wordCount": 597,
+          "title": "Epic 対 Google の裁判、訴状で Google が隠したかった部分が公開される | スラド YRO"
+        },
+        {
+          "id": "https://togetter.com/li/1763492",
+          "author": null,
+          "description": "shao / 澤田 翔 #FullyVaccinated @shao1555 医薬品のネット販売は薬機法で「実店舗を持っていること」とあり、これはAmazonも例外ではない。というわけでAmazonが届出している実店舗はこちらです。在庫やる気なさ過ぎｗ amazon.co.jp/gp/help/custom… pic.twitter.com/9nUKr6cozC 2021-08-22 12:01:15",
+          "link": "https://togetter.com/li/1763492",
+          "publishedOn": "2021-08-22T09:49:00.000Z",
+          "wordCount": 589,
+          "title": "医薬品のネット販売は薬機法で「実店舗を持っていること」が必要→Amazonが届出している実店舗のやる気が無さすぎた - Togetter"
+        },
+        {
+          "id": "https://wired.jp/2021/08/22/on-roblox-kids-learn-its-hard-to-earn-money-making-games/",
+          "author": null,
+          "description": "いまや「Roblox」はゲーム界の巨人に成長し、子ども向けゲームの世界を支配するまでになった。直近の四半期だけでも4億5,400万ドル（約498億円）の収益を上げている。ところが、ある報道によるとRobloxの成功は、ゲームのコンテンツをつくっている若いゲーム開発者（その多くは子どもたち）を搾取することで成り立ってい...",
+          "link": "https://wired.jp/2021/08/22/on-roblox-kids-learn-its-hard-to-earn-money-making-games/",
+          "publishedOn": "2021-08-22T07:28:38.000Z",
+          "wordCount": 143,
+          "title": "子どもに人気のゲームプラットフォーム「Roblox」は、若年層からの“搾取”で成り立っている | WIRED.jp"
+        },
+        {
+          "id": "https://etechnologyreview.com/2021/08/20/tesla%E3%81%AF%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E9%80%9F%E3%81%AEai%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%82%92%E7%99%BA%E8%A1%A8%E3%80%81%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E8%BB%8A/",
+          "author": null,
+          "description": "TeslaはAIイベント「AI Day」で自動運転車開発の最新状況を公開した。自動運転の中核技術は高度なコンピュータビジョンで、これを開発するためにはAIスパコンが必要となる。TeslaはAIプロセッサを開発し、これをベースに独自のAIスパコンを構築した。更に、自動運転技術をロボットに応用したヒューマノイドを開発するこ...",
+          "link": "https://etechnologyreview.com/2021/08/20/tesla%E3%81%AF%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E9%80%9F%E3%81%AEai%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%82%92%E7%99%BA%E8%A1%A8%E3%80%81%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E8%BB%8A/",
+          "publishedOn": "2021-08-22T06:13:13.000Z",
+          "wordCount": 209,
+          "title": "Teslaは世界最高速のAIプロセッサを発表、自動運転車開発でメーカーがAIスパコンを開発し垂直統合が進む | Emerging Technology Review"
+        },
+        {
+          "id": "https://isucon.net/archives/56021246.html",
+          "author": null,
+          "description": "全てのチームのスコアを掲載いたします。下記は主催者の追試を通過しているチームです。通過しなかったチームは別途記載しています。 スコアチーム名1464232shallowverse1026200都営三田線東急目黒線直通急行日吉行919720NaruseJun769405fujiwara組530673Oops!462239FetchDecodeExecWrite449781百万円ドリブン389509ウー...",
+          "link": "https://isucon.net/archives/56021246.html",
+          "publishedOn": "2021-08-22T05:41:36.000Z",
+          "wordCount": 209,
+          "title": "ISUCON11 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog"
+        },
+        {
+          "id": "https://matsuu.hatenablog.com/entry/2021/08/22/141130",
+          "author": null,
+          "description": "TL;DR ISUCON11予選にチーム ウー馬場ーイー2 として出場しました。 上位25チームに残り本選進出が決まりました。やったね。 最終スコアは未公開ですが予選中のベストスコアは394682でした。本選もがんばるぞ！ 毎年素晴らしいコンテストを開催してくださる運営様には感謝しかありません。本当にありがとうございます！...",
+          "link": "https://matsuu.hatenablog.com/entry/2021/08/22/141130",
+          "publishedOn": "2021-08-22T05:13:11.000Z",
+          "wordCount": 1320,
+          "title": "ISUCON11予選でチーム ウー馬場ーイー2 として参加し、本選進出を決めました - Gマイナー志向"
+        },
+        {
+          "id": "https://isucon.net/archives/56021237.html",
+          "author": null,
+          "description": "ISUCON11 本選出場者発表 ISUCON11 本選出場者を発表いたします。 今回のオンライン予選は598チーム、1421名の方にご参加いただきました。 本選への出場枠についておさらいです。 ISUCON11 予選レギュレーション, ISUCON11 予選当日マニュアル において、オンラインで開催される本選へ参加する30チームの選出条件は以下...",
+          "link": "https://isucon.net/archives/56021237.html",
+          "publishedOn": "2021-08-22T05:01:24.000Z",
+          "wordCount": 213,
+          "title": "ISUCON11 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGKKZO75013310R20C21A8EA5000/",
+          "author": null,
+          "description": "ネットの閲覧履歴を記録する「クッキー」がサイバー攻撃に悪用され始めた。社員になりすまして企業のシステムに不正アクセスし、機密データを抜き出した事例も確認された。盗み取られたクッキー情報90万件超を売る闇サイトもあり、今後も被害が広がる恐れがある。企業などは、ログイン時に複数の端末や生体認証を使う「2...",
+          "link": "https://www.nikkei.com/article/DGKKZO75013310R20C21A8EA5000/",
+          "publishedOn": "2021-08-22T03:11:22.000Z",
+          "wordCount": 113,
+          "title": "「クッキー」でサイバー攻撃　闇サイトで90万件販売も: 日本経済新聞"
+        },
+        {
+          "id": "https://idle.srad.jp/story/21/08/22/0235257/",
+          "author": null,
+          "description": "Amazon がバーチャルアシスタントの名前に選んだことで、「Alexa」が人名としては使えない名前になってしまったと The Atlantic が主張している (The Atlantic の記事、 GeekWire の記事)。 スラドでは米国の新生児名に対するバーチャルアシスタントの影響が 2018 年に話題となったが、女児名の Alexa は米国で Amazon A...",
+          "link": "https://idle.srad.jp/story/21/08/22/0235257/",
+          "publishedOn": "2021-08-22T03:00:02.000Z",
+          "wordCount": 769,
+          "title": "Amazon は Alexa という名前を人類から奪ったのか | スラド idle"
+        },
+        {
+          "id": "https://applech2.com/archives/20210822-monitorcontrol-v3-will-support-apple-silicon-mac.html",
+          "author": null,
+          "description": "Macに接続された外部ディスプレイの輝度とボリュームをメニューバーから操作できるユーティリティ「MonitorControl v3.0」のRC1がリリースされています。詳細は以下から。 　AppleやLG製の外部ディス The post Macに接続された外部ディスプレイの輝度やボリュームをメニューバーから操作できるユーティリティ「MonitorCo...",
+          "link": "https://applech2.com/archives/20210822-monitorcontrol-v3-will-support-apple-silicon-mac.html",
+          "publishedOn": "2021-08-22T02:14:14.000Z",
+          "wordCount": 708,
+          "title": "Macに接続された外部ディスプレイの輝度やボリュームをメニューバーから操作できるユーティリティ「MonitorControl v3.0」のRC1がリリース。"
+        },
+        {
+          "id": "https://qiita.com/watawuwu/items/c177d1bc8a4b9a1d3a91",
+          "author": null,
+          "description": "Kubernetes 1.20 SIG Instrumentation の変更内容 Kubernetes 1.21 SIG Instrumentation の変更内容 はじめに ここでは、Kubernetes v1.22 の CHANGELOG から Metrics の変更と SIG Instrumentation の取り組みについてまとめています。 Kubernetes 1.22: Reaching New Peaks | Kubernetes Kubernetes 1.22 CHANGELOG 今...",
+          "link": "https://qiita.com/watawuwu/items/c177d1bc8a4b9a1d3a91",
+          "publishedOn": "2021-08-22T02:01:34.000Z",
+          "wordCount": 1191,
+          "title": "Kubernetes 1.22: Metrics Changes と SIG Instrumentation の変更内容 - Qiita"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/066/4066675/",
+          "author": null,
+          "description": "自宅のネットワークなどで、接続しているPCを全部見つけたいことがある。エクスプローラーのネットワークから見つけることもできるが、スクリプトなどで処理したい場合に手入力するのは面倒だ。そんなときには、PowerShellのGet-NetNeighborコマンドが利用できる。 PowerShellのGet-NetNeighborコマンドは、ネットワーク...",
+          "link": "https://ascii.jp/elem/000/004/066/4066675/",
+          "publishedOn": "2021-08-22T01:55:22.000Z",
+          "wordCount": 579,
+          "title": "ASCII.jp：WindowsのコマンドでLAN内のデバイスを探す (1/2)"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUA1057X0Q1A810C2000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 9月発足のデジタル庁が挑む重要テーマの一つに地方自治体のコンピューターシステムを共通仕様にする「標準化」がある。現状では住民の氏名や住所などの基本データの保...",
+          "link": "https://www.nikkei.com/article/DGXZQOUA1057X0Q1A810C2000000/",
+          "publishedOn": "2021-08-21T23:42:35.000Z",
+          "wordCount": 116,
+          "title": "自治体システムまだ昭和仕様　標準化阻むご当地主義: 日本経済新聞"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUC045220U1A800C2000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら ネットの閲覧履歴を記録する「クッキー」がサイバー攻撃に悪用され始めた。社員になりすまして企業のシステムに不正アクセスし、機密データを抜き出した事例も確認され...",
+          "link": "https://www.nikkei.com/article/DGXZQOUC045220U1A800C2000000/",
+          "publishedOn": "2021-08-21T20:44:21.000Z",
+          "wordCount": 114,
+          "title": "クッキー悪用しサイバー攻撃　闇サイトで90万件販売も: 日本経済新聞"
+        },
+        {
+          "id": "https://www.oilshell.org/blog/2021/08/xargs.html",
+          "author": null,
+          "description": "Preliminaries What Is xargs? It's an adapter between text streams and argv arrays, two essential concepts in shell. You pass it flags that specify how to split stdin. Then it generates arguments and invokes processes. Example: $ echo 'alice bob' | xargs -n 1 -- echo hi hi alice hi bob What's happ...",
+          "link": "https://www.oilshell.org/blog/2021/08/xargs.html",
+          "publishedOn": "2021-08-21T16:49:40.000Z",
+          "wordCount": 2261,
+          "title": "An Opinionated Guide to xargs"
+        },
+        {
+          "id": "https://twitter.com/kanawang_/status/1428918036686323718",
+          "author": null,
+          "description": "PayPal使ってる人多いと思うので書いておきます。 【PayPalの問題点】 ①一度クレームを取り下げる(または審査が終わる)と同じケースは二度と審査してもらえない。 ②PayPalへの支払いはカードではなく銀行口座から。 下に続きます。",
+          "link": "https://twitter.com/kanawang_/status/1428918036686323718",
+          "publishedOn": "2021-08-21T15:48:02.000Z",
+          "wordCount": 196,
+          "title": "Kana on Twitter: \"PayPal使ってる人多いと思うので書いておきます。 【PayPalの問題点】 ①一度クレームを取り下げる(または審査が終わる)と同じケースは二度と審査してもらえない。 ②PayPalへの支払いはカードではなく銀行口座から。 下に続きます。\""
+        },
+        {
           "id": "https://twitter.com/ImAI_Eruel/status/1428924191110094848",
           "author": null,
           "description": "コンピュータサイエンスの世界でプログラマーに特に影響のある有名な書籍について、Web上で無料で読めるものがまとめてあります https://t.co/kU9FmMkXDw 現在でも変わらず読まれているものや、昔からこの業界にいるほ… https://t.co/kHEBpVdgrL",
@@ -135,6 +342,15 @@
           "publishedOn": "2021-08-21T01:30:20.000Z",
           "wordCount": 287,
           "title": "The Missing README: A Guide for the New Software Engineerを読んだ | Web Scratch"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/08/21/2021-08-19-top-five-highlights-of-elon-musks-tesla-ai-day/",
+          "author": null,
+          "description": "Elon Musk（イーロン・マスク）氏はTesla（テスラ）を「単なる電気自動車会社ではない」と見てもらいたいと考えている。米国時間8月19日に開催されたTesla AI Day（テスラ・AI・デー）で、イーロン・マスクCEOはテスラのことを「推論レベルとトレーニングレベルの両方でハードウェアにおける深いAI活動」を行っている企...",
+          "link": "https://jp.techcrunch.com/2021/08/21/2021-08-19-top-five-highlights-of-elon-musks-tesla-ai-day/",
+          "publishedOn": "2021-08-21T00:26:31.000Z",
+          "wordCount": 397,
+          "title": "ロボット、チップ、完全自動運転、イーロン・マスク氏のTesla AI Dayハイライト5選 | TechCrunch Japan"
         },
         {
           "id": "https://ffmpegwasm.netlify.app/",
@@ -7218,213 +7434,6 @@
           "publishedOn": "2021-07-24T12:26:22.000Z",
           "wordCount": 230,
           "title": "AI時代における外国語学習の意義とは？　漫画機械翻訳エンジン開発者と言語学者に聞く機械翻訳と外国語学習のリアリティー　 | 東大新聞オンライン"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210724203504",
-          "author": null,
-          "description": "A会場はこちらでーす ブコメ、スターはご自由にどうぞー",
-          "link": "https://anond.hatelabo.jp/20210724203504",
-          "publishedOn": "2021-07-24T11:36:45.000Z",
-          "wordCount": 79,
-          "title": "建設的APIハック会場A"
-        },
-        {
-          "id": "https://blog.uhy.ooo/entry/2021-07-24/react-state-management/",
-          "author": null,
-          "description": "こんにちは。Reactの話題の中でもかなりの部分を占めるのがステート管理、さらに言えば各種のステート管理ライブラリです。今さらながら、Reactにおけるステート管理の手法やいくつかのステート管理ライブラリを比較考察して記事にまとめました。 useState + バケツリレーReactにおける基本的なステート管理はuseStateで...",
-          "link": "https://blog.uhy.ooo/entry/2021-07-24/react-state-management/",
-          "publishedOn": "2021-07-24T11:34:49.000Z",
-          "wordCount": 115,
-          "title": "React ステート管理 比較考察 - uhyo/blog"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210724202104",
-          "author": null,
-          "description": "他の所より治安悪くね？",
-          "link": "https://anond.hatelabo.jp/20210724202104",
-          "publishedOn": "2021-07-24T11:28:04.000Z",
-          "wordCount": 166,
-          "title": "ブクマカ「はてブは治安がいい方」←これなんなん？"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210724190609",
-          "author": null,
-          "description": "このシステム、ヤフコメでは確かに効果が出ていて、導入後はかなりコメント欄の治安が良くなった。今のヤフコメが優れた言論空間になってるかと言われたらなかなか首肯しがたいところもあるが、それでも、NGワードが平気で横行していた頃を考えれば雲泥の差だ。 それでは、何故はてブであんまりうまく行っていない感じな...",
-          "link": "https://anond.hatelabo.jp/20210724190609",
-          "publishedOn": "2021-07-24T10:07:54.000Z",
-          "wordCount": 128,
-          "title": "はてブのヤフコメAPI導入の件"
-        },
-        {
-          "id": "https://gigazine.net/news/20210724-password-is-not-dead/",
-          "author": null,
-          "description": "PCやスマートフォンからウェブサービスにログインする時に、個人を証明するための方法としてIDとパスワードを入力するのが一般的です。しかし、ただの文字列を入力するだけである従来のパスワード方式は、流出したり総当たり攻撃で解析されたりとセキュリティリスクが高く、近年は生体認証や物理セキュリティキーを使っ...",
-          "link": "https://gigazine.net/news/20210724-password-is-not-dead/",
-          "publishedOn": "2021-07-24T09:38:18.000Z",
-          "wordCount": 203,
-          "title": "「セキュリティリスクが高い」のにパスワードが認証方法として使われ続ける理由とは？ - GIGAZINE"
-        },
-        {
-          "id": "https://newspicks.com/news/5817227/body/",
-          "author": null,
-          "description": "ビジネス資料に必須の要素は「わかりやすさ」です。どんなに美しく、クールな見た目でも、わかりにくい資料に価値はありません。そして、わかりやすい資料のデザインに必要なのは、「センス」じゃなくて「ロジック」です。",
-          "link": "https://newspicks.com/news/5817227/body/",
-          "publishedOn": "2021-07-24T04:28:01.000Z",
-          "wordCount": 228,
-          "title": "【入門】非デザイナーのための「デザインのルール」"
-        },
-        {
-          "id": "https://www.afpbb.com/articles/-/3358206",
-          "author": null,
-          "description": "米フロリダ州のケネディ宇宙センターで、発射台にセットされた米宇宙開発企業スペースXのロケット「ファルコンヘビー」。米航空宇宙局提供（2019年6月24日撮影）。(c)AFP PHOTO / KIM SHIFLETT / NASA 【7月24日 AFP】米航空宇宙局（NASA）は23日、木星の衛星エウロパ（Europa）探査機の打ち上げに米宇宙開発企業スペー...",
-          "link": "https://www.afpbb.com/articles/-/3358206",
-          "publishedOn": "2021-07-24T03:06:51.000Z",
-          "wordCount": 147,
-          "title": "NASA、木星の衛星エウロパ探査機打ち上げにスペースX選定　写真1枚　国際ニュース：AFPBB News"
-        },
-        {
-          "id": "https://gigazine.net/news/20210724-automatic-pool-stick/",
-          "author": null,
-          "description": "ビリヤードはキューという棒状の道具を使って手玉をつくスポーツであり、いかにキューを巧みに操って手玉を思い通りに動かすかが勝敗に直結します。工作系YouTubeチャンネル・Stuff Made Hereが、コンピューター制御で誰でも正確なショットを繰り出せる「自動式キュー」を開発するまでのムービーを公開しています。 Auto...",
-          "link": "https://gigazine.net/news/20210724-automatic-pool-stick/",
-          "publishedOn": "2021-07-24T02:25:34.000Z",
-          "wordCount": 214,
-          "title": "素人でもビリヤードで正確なショットを繰り出せる「コンピューター制御の自動式キュー」を開発した猛者が登場 - GIGAZINE"
-        },
-        {
-          "id": "https://iphone-mania.jp/news-384807/",
-          "author": null,
-          "description": "Appleが、iPadやiPhoneを活用した作品制作を紹介した「続・キッズのためのクリエイティブなアクティビティ30」を無料公開しています。夏休みに、家族一緒に楽しむことができます。 家族みんなで楽しめるアクティビティ Appleが公開した「続・キッズのためのクリエイティブなアクティビティ30」は、8歳〜12歳くらいの子ど...",
-          "link": "https://iphone-mania.jp/news-384807/",
-          "publishedOn": "2021-07-24T01:58:40.000Z",
-          "wordCount": 232,
-          "title": "夏休みに！Apple、iPadやiPhoneを使って子どもと楽しめるガイドを公開 - iPhone Mania"
-        },
-        {
-          "id": "https://github.com/ajitid/fzf-for-js",
-          "author": null,
-          "description": "import { Fzf } from 'fzf' const list = ['go', 'javascript', 'python', 'rust', 'swift', 'kotlin', 'elixir', 'java', 'lisp', 'v', 'zig', 'nim', 'rescript', 'd', 'haskell'] const fzf = new Fzf(list) const entries = fzf.find('li') console.log('ranking is:') entries.forEach(entry => console.log(entry....",
-          "link": "https://github.com/ajitid/fzf-for-js",
-          "publishedOn": "2021-07-24T01:38:18.000Z",
-          "wordCount": 857,
-          "title": "GitHub - ajitid/fzf-for-js: Do fuzzy matching using FZF algorithm in JavaScript"
-        },
-        {
-          "id": "https://github.com/udecode/plate",
-          "author": null,
-          "description": "🎉 🎉 🎉 Version 1 of @udecode/plate is now available! 🎉 🎉 🎉 The Slate Plugins project has evolved to Plate. Visit plate.udecode.io for docs, guides, API and more! Introduction Slate is a low-level editor framework that helps you deal with difficult parts when building an editor, such as event...",
-          "link": "https://github.com/udecode/plate",
-          "publishedOn": "2021-07-24T01:24:36.000Z",
-          "wordCount": 1364,
-          "title": "GitHub - udecode/plate: A plugin framework for building rich text editors with slate."
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/tried-rd-root-on-windows-server/",
-          "author": null,
-          "description": "よい子(大人を含む)はマネしないでね。 このブログに書いてある内容を、自分が所有するPC以外（業務用PC、公共のPCなどで）で行った場合、 電子計算機損壊等業務妨害罪（刑法234条の2）に問われ、5年以下の懲役または100万円以下の罰金の可能性や損害賠償を求められる可能性があるらしいです。 Windows版「rm -rf /*」を...",
-          "link": "https://dev.classmethod.jp/articles/tried-rd-root-on-windows-server/",
-          "publishedOn": "2021-07-24T01:06:04.000Z",
-          "wordCount": 3265,
-          "title": "Windows版「rm -rf /*」の「cmd /c rd /s /q c:\\」を実行してみた | DevelopersIO"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGXZQOGN240830U1A720C2000000/",
-          "author": null,
-          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 【シリコンバレー=奥平和行】米グーグルの親会社である米アルファベットは23日、産業用ロボットの制御ソフトに参入したことを明らかにした。人工知能（AI）などを活用...",
-          "link": "https://www.nikkei.com/article/DGXZQOGN240830U1A720C2000000/",
-          "publishedOn": "2021-07-24T00:26:24.000Z",
-          "wordCount": 114,
-          "title": "Google持ち株会社、産業用ロボ制御ソフト参入　AI活用: 日本経済新聞"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/07/24/2021-07-22-a-dns-outage-just-took-down-a-good-chunk-of-the-internet/",
-          "author": null,
-          "description": "米国時間7月22日、インターネットのかなり大きな部分がオフラインになった。一部の人気サイトやアプリそしてサービスがダウン、その中にはUPSやFedEx（その後回復）、Airbnb、Fidelityなどもあり、報告ではSteamやLastPass、PlayStation Networkなどもダウンタイムを経験している。 世界中のウェブサイトが被害を受け、...",
-          "link": "https://jp.techcrunch.com/2021/07/24/2021-07-22-a-dns-outage-just-took-down-a-good-chunk-of-the-internet/",
-          "publishedOn": "2021-07-24T00:03:55.000Z",
-          "wordCount": 305,
-          "title": "DNSの障害でインターネットに大規模なダウンが発生 | TechCrunch Japan"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2107/24/news018.html",
-          "author": null,
-          "description": "東京2020オリンピック・パラリンピック競技大会の開会式を数時間後に控えた7月23日の日中。秋葉原電気街を回遊して見かけた“五輪色”は中央通りを通過するタクシーの外装だけだった。 秋葉原のPCパーツショップは、4連休初日の7月22日から来客がグンと伸びたところが多いという。TSUKUMO eX.は「学生さんやカップル、お子...",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2107/24/news018.html",
-          "publishedOn": "2021-07-23T23:19:22.000Z",
-          "wordCount": 499,
-          "title": "開会式当日に五輪色のないアキバ：古田雄介の週末アキバ速報（1/2 ページ） - ITmedia PC USER"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/24/news021.html",
-          "author": null,
-          "description": "東京五輪の開会式の上空で、エンブレムから地球に変わるパフォーマンスを演じたのは、Intelの1824台の「Shooting Star」ドローンだった。 東京五輪の開会式が7月23日、国立競技場で行われた。競技場の上空で多数のドローンが市松模様のエンブレムを形成し、地球の形に変わるパフォーマンスがハイライトの1つになった。使...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/24/news021.html",
-          "publishedOn": "2021-07-23T22:36:18.000Z",
-          "wordCount": 173,
-          "title": "開会式で地球をかたどったドローンは1824台のIntel製「Shooting Star」 - ITmedia NEWS"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/topic/feature/1339890.html",
-          "author": null,
-          "description": "初代からUSB 2.0、USB 3.0へと明解な名称でバージョンアップされていったUSBだが、USB 3.1で採用された「Gen」表記をきっかけに、さっぱり理解できなくなったという声は少なくない。USB対応の機器を取り扱うメーカー、さらにメディアによっても表記には揺れがあり、ユーザーが混乱する原因になっている。",
-          "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1339890.html",
-          "publishedOn": "2021-07-23T22:09:03.000Z",
-          "wordCount": 342,
-          "title": "【特集】「USB 3.0」＝「USB 3.1 Gen 1」＝「USB 3.2 Gen 1」？ すぐ分かるUSBの「Gen」表記ルール - PC Watch"
-        },
-        {
-          "id": "https://togetter.com/li/1749056",
-          "author": null,
-          "description": "てんこ @violetenko オリンピック開会式に使われるはずだったKIMONOプロジェクトの振袖たち。一昨年、私が着用させていただいたカメルーンの振袖をどうぞ。選手入場行進、カメルーンのみなさんド派手で可愛かったね✨ #カメルーン #イマジンワンワールド #キモノプロジェクト #オリンピック #オリンピック開会式 pic.twi...",
-          "link": "https://togetter.com/li/1749056",
-          "publishedOn": "2021-07-23T17:58:37.000Z",
-          "wordCount": 770,
-          "title": "オリンピックの開会式に使われるはずだったが中止されてしまった『207ヶ国をイメージした着物』をまとめました - Togetter"
-        },
-        {
-          "id": "https://inteldronelightshows.com/",
-          "author": null,
-          "description": "We’re honored to be the official drone light show partner for the Tokyo 2020 Olympics. As viewers from across the globe came together to watch the opening ceremony on July 23, our drones took to the skies above Japan’s National Stadium in an unforgettable performance that celebrated the athletes’...",
-          "link": "https://inteldronelightshows.com/",
-          "publishedOn": "2021-07-23T14:23:00.000Z",
-          "wordCount": 958,
-          "title": "INTEL DRONE LIGHT SHOWS | Illuminate Your Story"
-        },
-        {
-          "id": "https://news.mynavi.jp/article/20210723-1928371/",
-          "author": null,
-          "description": "Qualysは7月20日(米国時間)、「Qualys Security Advisory - Sequoia: A deep root in Linux's filesystem layer (CVE-2021-33909)」において、Linuxカーネルに特権昇格可能な脆弱性が存在すると伝えた。この脆弱性が少なくとも2014年7月にLinux 3.16に混入して以来存在していると説明しており、7年間にわたってLinuxカー...",
-          "link": "https://news.mynavi.jp/article/20210723-1928371/",
-          "publishedOn": "2021-07-23T14:08:16.000Z",
-          "wordCount": 310,
-          "title": "Linuxに特権昇格可能な脆弱性、7年間存在 | TECH+"
-        },
-        {
-          "id": "https://gigazine.net/news/20210723-the-era-of-visual-studio-code/",
-          "author": null,
-          "description": "テキスト編集だけでなく、表計算やイラスト作成など、何かの目的を達成しようとした際には「どのツールを選ぶのか」が問題になってきます。テキストエディタの世界でVisual Studio Codeがその地位を不動のものにしつつある点について、ロビン・クリーンさんがデータをまとめています。 The Era of Visual Studio Code | ...",
-          "link": "https://gigazine.net/news/20210723-the-era-of-visual-studio-code/",
-          "publishedOn": "2021-07-23T12:36:11.000Z",
-          "wordCount": 212,
-          "title": "戦国時代だったテキストエディタ界をVisual Studio Codeが天下統一しつつある - GIGAZINE"
-        },
-        {
-          "id": "https://b.hatena.ne.jp/entry/4705870456499214914/comment/cringe",
-          "author": null,
-          "description": "これらすべてのコンピュータゲームをひとつでも遊んだことのある人間は死んでも償えない罪を背負うことになったね。五輪開催、絶対に許さない。",
-          "link": "https://b.hatena.ne.jp/entry/4705870456499214914/comment/cringe",
-          "publishedOn": "2021-07-23T12:33:58.000Z",
-          "wordCount": 108,
-          "title": "これらすべてのコンピュータゲームをひとつでも遊んだことのある人間は死んでも償えない罪を背負うことになったね。五輪開催、絶対に許さない。 - cringe のブックマーク / はてなブックマーク"
-        },
-        {
-          "id": "https://ledge.ai/keio-ac-deep/",
-          "author": null,
-          "description": "TOP > Article Theme > 人工知能（AI）ニュース > 慶應大、経済学部でデータサイエンス教育を2020年度に開始 DX人材の欠如が日本の競争力を低下させる懸念を払拭目指す 画像は慶應義塾大学 公式サイトより 慶應義塾大学経済学部（慶應大）は7月6日、データサイエンス教育プログラム「DEEP（Data-driven Economics and Ec...",
-          "link": "https://ledge.ai/keio-ac-deep/",
-          "publishedOn": "2021-07-23T12:26:28.000Z",
-          "wordCount": 144,
-          "title": "慶應大、経済学部でデータサイエンス教育を2020年度に開始 DX人材の欠如が日本の競争力を低下させる懸念を払拭目指す | Ledge.ai"
         }
       ]
     },
@@ -7956,24 +7965,6 @@
           "publishedOn": "2021-07-26T14:36:04.000Z",
           "wordCount": 550,
           "title": "Slinkity"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344019",
-          "author": "Farai Gandiya",
-          "description": "As the web gets more and more capable, developers are able to make richer online experiences. There are times, however, where some new web capabilities may not work as you would expect in the interest of usability, security and privacy.…\nThe post Web Features That May Not Work As You’d Expect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/web-features-that-may-not-work-as-youd-expect/",
-          "publishedOn": "2021-07-23T15:12:11.000Z",
-          "wordCount": 1889,
-          "title": "Web Features That May Not Work As You’d Expect"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345209",
-          "author": "Chris Coyier",
-          "description": "Dave:\npetite-vue is a new cut of the Vue project specifically built with progressive enhancement in mind. At 5kb, petite-vue is a lightweight Alpine (or jQuery) alternative that can be “sprinkled” over your project requiring no extra bundling steps \n…\nThe post My petite-vue review appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://daverupert.com/2021/07/petite-vue-review/",
-          "publishedOn": "2021-07-23T15:10:08.000Z",
-          "wordCount": 1060,
-          "title": "My petite-vue review"
         }
       ]
     },
@@ -8068,6 +8059,33 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/enappd/google-login-in-ionic-capacitor-app-with-angular-1igd",
+          "author": "Abhijeet Rathore",
+          "description": "In this post, you’ll learn how to implement Google login in your Ionic Angular Capacitor apps. We will also retrieve user name and profile photo to show after login. We will test the authentication on Web, Android and iOS.\nSince Google login is applicable in a lot of app frameworks, it is possible you landed here by (SEO) mistake. If you are looking for Google login in\nIonic Angular (Cordova) apps —&hairsp;Please check this post\n\nReact Native&hairsp;—&hairsp;Please check this for Android and iOS\n\nIonic React Capacitor Apps —Check this post\n\nIonic Angular Capacitor Apps&hairsp;—&hairsp;Continue reading 🙂\nAs you can see from above, there are several options available for Hybrid app development these days, and it is easy to get confused between them. This post is focussed on Ionic framework …",
+          "link": "https://dev.to/enappd/google-login-in-ionic-capacitor-app-with-angular-1igd",
+          "publishedOn": "2021-08-22T16:32:19.000Z",
+          "wordCount": 3862,
+          "title": "Google login in Ionic Capacitor app with Angular"
+        },
+        {
+          "id": "https://dev.to/kovalforpublic/how-to-keep-your-imports-beautiful-in-angular-app-w-o-cyclic-deps-309j",
+          "author": "George Koval.",
+          "description": "You're probably familiar with imports like that\n import { UsersListComponent } from '../../../ui/users-list/users-list.component.ts\n\nAnd that doesn't look great. What can be done about it? \nWe could try to add aliases in tsconfig.json like this\n {\n   \"paths\": {\n      \"@myApp/ui\": [\"src/app/my-module/ui\"]\n    }\n }\n\nand combine it with index.ts files in the users-list and ui folders\n  export * from './users-list.component.ts';\n\nYes, that way an import could be turned into this\n  import { UsersListComponent } from '@myApp/ui';\n\nIt will work if there's only one such a component. But probably \"ui\" general name implies at least several components (moreover with nested relationships), which could lead to a painful circular dependency error. So, what should we do? \nI came up with a solution. I'm not sure whether it's the best way (probably not, and if you know better way, I'd be more than happy to read about it in the comments). \ntsconfig into this:\n {\n   ...\n   \"@myApp/ui/*\" : \"src/app/my-module/ui/*\",\n   ...\n }\n\nAnd then import your component like this\n import { UsersListComponent } from '@myApp/ui/users-list';\n\nby using index.ts file in the users-list folder we don't have to duplicate the same name ('users-list/users-list.component'), and by using asterisk sign (*) & aliases we're able to specify a particular folder avoiding circular dependency error. \nimport { UserComponent } from '@myApp/ui/user';\nimport { AvatarComponent } from '@myApp/ui/avatar';\n...",
+          "link": "https://dev.to/kovalforpublic/how-to-keep-your-imports-beautiful-in-angular-app-w-o-cyclic-deps-309j",
+          "publishedOn": "2021-08-22T15:21:15.000Z",
+          "wordCount": 694,
+          "title": "How to keep your imports beautiful in Angular app (w/o cyclic deps)"
+        },
+        {
+          "id": "https://dev.to/rareyesrd/multiples-modulos-en-angular-18c9",
+          "author": "Rafael Alexander Reyes Perez",
+          "description": "Entiende los módulos en Angular, ¿qué son, cómo crearlos, cómo usarlos, para qué usarlos?\nLink del vídeo: https://youtu.be/TJ9IPJ-Qgao",
+          "link": "https://dev.to/rareyesrd/multiples-modulos-en-angular-18c9",
+          "publishedOn": "2021-08-22T03:43:30.000Z",
+          "wordCount": 402,
+          "title": "MULTIPLES MODULOS EN ANGULAR"
+        },
         {
           "id": "https://dev.to/chihab/announcing-ngx-env-builder-13m2",
           "author": "Chihab Otmani",
@@ -9282,15 +9300,6 @@
           "publishedOn": "2021-07-24T16:20:46.000Z",
           "wordCount": 3055,
           "title": "Unit Testing - Introduction"
-        },
-        {
-          "id": "https://dev.to/debanjandeveloper/how-to-start-learning-angular-3fpe",
-          "author": "Debanjan Roy",
-          "description": "I am a backend developer, working in Laravel. Now I want to start learning Angular. There have lots of contents are available on Intenert. I need to know which version should I learn first? \nThanks in advance.",
-          "link": "https://dev.to/debanjandeveloper/how-to-start-learning-angular-3fpe",
-          "publishedOn": "2021-07-24T04:25:55.000Z",
-          "wordCount": 517,
-          "title": "How to start learning Angular."
         }
       ]
     },
@@ -9397,15 +9406,6 @@
           "publishedOn": "2021-08-04T19:03:40.000Z",
           "wordCount": 1616,
           "title": "Advanced NgRx: Building a Reusable Feature Store"
-        },
-        {
-          "id": "https://dev.to/gitpaulo/reactive-programming-demystified-using-rxjs-53g5",
-          "author": "Paulo Santos",
-          "description": "If you're looking for an RxJS quick start then this article is not for you!\nHere I will be tackling Reactive Programming with the goal of shedding some light on its theory using RxJS as the example.\nI will be explaining the core Reactive Programming concepts, relating them to RxJS and how works they work in practice. Hopefully, by the end of the read, you'll have a truer understanding of RxJS and be able to pick up any Rx Implementation and immediately start coding. Let's get started!\nRxJS is an API for asynchronous programming\nTo understand what this means we need to define what is meant by asynchronous programming and what observable streams are. The best place to start? Reactive Programming!\nReactive Programming (not to be confused with Functional Reactive Programming!!) is a subset of …",
-          "link": "https://dev.to/gitpaulo/reactive-programming-demystified-using-rxjs-53g5",
-          "publishedOn": "2021-07-23T22:38:48.000Z",
-          "wordCount": 3972,
-          "title": "Reactive Programming 🌫️ - Demystified using RxJS"
         }
       ]
     },
