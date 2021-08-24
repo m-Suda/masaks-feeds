@@ -47,6 +47,231 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345710.html",
+          "author": null,
+          "description": "“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345710.html",
+          "publishedOn": "2021-08-23T21:59:53.000Z",
+          "wordCount": 113,
+          "title": "動画をブラウザーだけで変換 ～「FFmpeg」をWebAssembly/JavaScriptへ移植した「ffmpeg.wasm」に期待 - やじうまの杜 - 窓の杜"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/topic/feature/1345384.html",
+          "author": null,
+          "description": "放送関連機器を手がけるBlackmagic Designの「ATEM Mini」シリーズは、高度な放送用の機能をコンパクトかつ低価格にまとめたスイッチャー製品。中でもローエンドのATEM Mini(無印)は、4系統のHDMI入力を持ちながら3万円台中盤という価格設定により、配信を行なう個人ユーザーにも人気を博している。本稿ではそんなATEM Miniに、Elgato製マクロボタンデバイス「Stream Deck」と制御ソフト「Companion」を組み合わせることで、ATEM Mini単体では複雑な操作になったり、あるいはそもそも不可能なアクションをボタン1発で実現できることを紹介していく。",
+          "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1345384.html",
+          "publishedOn": "2021-08-23T21:58:59.000Z",
+          "wordCount": 518,
+          "title": "【特集】生配信ユーザー必携。ATEM Miniの複雑な操作をStream Deckで1ボタン化するCompanion - PC Watch"
+        },
+        {
+          "id": "https://togetter.com/li/1764245",
+          "author": null,
+          "description": "法政大学出版局 @hosei_up 【新刊】B.エーレンライク、D.イングリッシュ著／長瀬久子訳『魔女・産婆・看護婦［増補改訂版］』◆豊かな知恵と経験で身近な人々を治療していた女たちを迫害し、排除し、閉じ込めてきた歴史。h-up.com/books/isbn978-… pic.twitter.com/GiJGJzum8U 2015-09-09 14:01:37 リンク 法政大学出版局...",
+          "link": "https://togetter.com/li/1764245",
+          "publishedOn": "2021-08-23T18:55:03.000Z",
+          "wordCount": 1280,
+          "title": "「魔女狩りは科学技術の担い手たる女性への、教会の嫉妬が原因」との説～それは事実か江戸しぐさ的偽史か？と議論 - Togetter"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/066/4066690/",
+          "author": null,
+          "description": "日本時間の8月19日、Intel Architecture Day 2021がオンラインで公開になった。その内容はこのページのほか、YouTubeでも視聴可能だ。ちなみに全部で2時間16分にもおよぶ長大なセッションで、11ものテーマについて説明があった。 これだけのネタを2時間15分あまりにぶっこんで来るわけで、当然説明もいろいろ省かれたと...",
+          "link": "https://ascii.jp/elem/000/004/066/4066690/",
+          "publishedOn": "2021-08-23T14:00:54.000Z",
+          "wordCount": 687,
+          "title": "ASCII.jp：Intel Architecture Day 2021で発表された11のテーマ　インテル CPUロードマップ (1/5)"
+        },
+        {
+          "id": "https://tech.bitbank.cc/20210823/",
+          "author": null,
+          "description": "まえがき開発中のソフトウェアのライセンスを策定するため、現時点でのベストプラクティスについて探っていたところ、ここ数年の OSS ライセンスの動向が面白かったので復習も兼ねてまとめました。 特に、Umbrel が採用したという PolyForm という新しいライセンス形態が面白かったので、これについて詳しく述べます。 ...",
+          "link": "https://tech.bitbank.cc/20210823/",
+          "publishedOn": "2021-08-23T14:00:01.000Z",
+          "wordCount": 594,
+          "title": "OSS ライセンスの最近の潮流: PolyForm License について"
+        },
+        {
+          "id": "https://fashiontechnews.zozo.com/philosophy/chloma",
+          "author": null,
+          "description": "仮想空間で目の前に人がいるかのようにコミュニケーションを取ったり、イベントに参加することができるソーシャルVR「VRChat」。そこで2018年頃から定期的に開催されている音楽イベント「GHOSTCLUB」とファッションブランドclomaがコラボレーションし、バーチャルファッション・ストア「chloma Virtual Store in GHOSTCL...",
+          "link": "https://fashiontechnews.zozo.com/philosophy/chloma",
+          "publishedOn": "2021-08-23T13:10:17.000Z",
+          "wordCount": 83,
+          "title": "バーチャルファッションの先駆者chlomaが導く、VRコミュニティとファッション | Fashion Tech News"
+        },
+        {
+          "id": "https://zenn.dev/hishinuma_t/articles/intel-oneapi_clang",
+          "author": null,
+          "description": "はじめに TL;DR. Intel oneAPIとClangは競合する可能性があります iccが無償になって，yumやaptで簡単に入るよって書いてる記事が増えてきました． 気軽な気持ちで入れられるような顔をしていますが，これは罠です． setvars.sh とかいうクソスクリプトがシステムの環境変数設定をぶち壊す可能性があります． 自分のマシ...",
+          "link": "https://zenn.dev/hishinuma_t/articles/intel-oneapi_clang",
+          "publishedOn": "2021-08-23T12:57:05.000Z",
+          "wordCount": 465,
+          "title": "Intel oneAPIを入れるとClangが死ぬかもしれない"
+        },
+        {
+          "id": "https://engineering.mercari.com/blog/entry/20210823-8128e0d987/",
+          "author": null,
+          "description": "@nekobatoです。メルカリDesign SystemのWeb版開発者をしています。以前の記事で新しくなったメルカリ Webの紹介がありましたが、本記事ではそこで使われている、同じく新しくなったDesign System Webの紹介をします。 Design System Webの提供 Design Systemを元にした実装の構造はプラットフォームごとに異なりますが...",
+          "link": "https://engineering.mercari.com/blog/entry/20210823-8128e0d987/",
+          "publishedOn": "2021-08-23T12:17:31.000Z",
+          "wordCount": 216,
+          "title": "新しいメルカリDesign System Web | メルカリエンジニアリング"
+        },
+        {
+          "id": "https://gigazine.net/news/20210823-cloudflare-ddos-attack-17-2-million-rps/",
+          "author": null,
+          "description": "2021年の初夏に、Cloudflareに対して毎秒1720万リクエストのDDos攻撃が行われていたことがわかりました。Cloudflareによれば、これは過去に受けたあらゆる攻撃と比べて3倍と大規模なもので、同時期の正当なHTTPトラフィック量と比較して68％もの分量に及ぶものだったとのことです。 Cloudflare thwarts 17.2M rps DDoS a...",
+          "link": "https://gigazine.net/news/20210823-cloudflare-ddos-attack-17-2-million-rps/",
+          "publishedOn": "2021-08-23T10:21:33.000Z",
+          "wordCount": 170,
+          "title": "Cloudflareが毎秒1720万リクエストのDDoS攻撃を検出、世界125カ国の2万超のボットからの攻撃 - GIGAZINE"
+        },
+        {
+          "id": "https://gigazine.net/news/20210823-razer-synapse-exploit/",
+          "author": null,
+          "description": "PC周辺機器メーカー・Razerのマウスやキーボードを管理するツール「Razer Synapse」に、ローカルで特権昇格が可能になるゼロデイ脆弱性が発見され、Twitterで公開されました。Razerはすでにこの脆弱性の修正に取り組んでいるとのことです。 Razer bug lets you become a Windows 10 admin by plugging in a mouse https:...",
+          "link": "https://gigazine.net/news/20210823-razer-synapse-exploit/",
+          "publishedOn": "2021-08-23T10:21:22.000Z",
+          "wordCount": 181,
+          "title": "Razerのマウスを接続するだけでシステム特権昇格が可能になる脆弱性が発見される - GIGAZINE"
+        },
+        {
+          "id": "https://joker1007.hatenablog.com/entry/2021/08/23/191446",
+          "author": null,
+          "description": "社内向けのドキュメントと兼用したので、前提とかメンバー向けの解説が含まれているので、前後のパフォーマンスの変化だけを見たい人は、下の方のグラフ画像までスクロールしてください。 gravitonインスタンスを活用するモチベーション ワークロードによる相性はあるが、特にマルチスレッド性能で既存のインスタンスよ...",
+          "link": "https://joker1007.hatenablog.com/entry/2021/08/23/191446",
+          "publishedOn": "2021-08-23T10:16:13.000Z",
+          "wordCount": 270,
+          "title": "Kafkaに接続するJavaアプリケーションをGravitonインスタンスへ移行してパフォーマンスを改善する - joker1007’s diary"
+        },
+        {
+          "id": "https://kabumatome.doorblog.jp/archives/65930508.html",
+          "author": null,
+          "description": "空き缶@akikankeriみずほの障害 中の人達「あああああああぁぁぁ」 その他「またか」 2021/08/20 10:01:28 みずほ銀行、ATMが一時停止 － 全国130台、今年6回目https://t.co/6YjgahJ70v — 共同通信公式 (@kyodo_official) August 23, 2021 ・ATM8台で現金がのみ込まれるトラブル ・ネットワークが不安定になったことが障...",
+          "link": "https://kabumatome.doorblog.jp/archives/65930508.html",
+          "publishedOn": "2021-08-23T09:58:01.000Z",
+          "wordCount": 551,
+          "title": "みずほ銀行で恒例のシステム障害、今度は一部ATMが停止するみずほ基準では軽めの不具合 : 市況かぶ全力２階建"
+        },
+        {
+          "id": "https://www.businessinsider.jp/post-240864",
+          "author": null,
+          "description": "アマゾンのクラウド部門、アマゾン・ウェブ・サービス（AWS）で最も著名な経営幹部が突然の退社を発表。社内が揺れている。 Sundry Photography/Shutterstock.com アマゾン在籍23年のベテラン、チャーリー・ベルは、ジェフ・ベゾスから最高経営責任者（CEO）の座を引き継いだアンディ・ジャシーと並ぶ、アマゾン・ウェブ...",
+          "link": "https://www.businessinsider.jp/post-240864",
+          "publishedOn": "2021-08-23T09:40:08.000Z",
+          "wordCount": 168,
+          "title": "AWS｢エンジニア部門のハートであり、魂｣ベルSVPが電撃退社。最有力の経営幹部流出でアマゾン社内に動揺 | Business Insider Japan"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210823180350",
+          "author": null,
+          "description": "b:id:aox相撲で解決あらゆる揉め事を当事者に相撲で対決させる事で解決しようとする。 当人の「相撲で解決」タグを参照。 物心着く前に子宮を男性に移植男女論関係の記事で解決策として提示しがち。 b:id:aukusoe俺だ俺だ俺だった全文は 「 耳が長くてウサギちゃん！ 首が長くてキリンさん！ ブコメが面白くてaukusoe！ ...",
+          "link": "https://anond.hatelabo.jp/20210823180350",
+          "publishedOn": "2021-08-23T09:11:33.000Z",
+          "wordCount": 346,
+          "title": "【令和最新版】はてな初心者のためのブクマカ持ちネタ集"
+        },
+        {
+          "id": "https://toranoana-lab.hatenablog.com/entry/2021/08/23/165618",
+          "author": null,
+          "description": "虎の穴ラボのかのたんです。 AWS認定試験をオンラインで受けてきましたので、今回はそちらのレポートになります。 試験の学習方法に関してはまた別の機会に書こうと思うので、今回は申し込みや受験に関する内容に絞って書かせていただきます。 なぜ受けようと思ったのか コロナ禍で勉強会がオンラインで開催されるように...",
+          "link": "https://toranoana-lab.hatenablog.com/entry/2021/08/23/165618",
+          "publishedOn": "2021-08-23T08:35:59.000Z",
+          "wordCount": 264,
+          "title": "AWS認定試験をオンライン受験してきました！ - 虎の穴開発室ブログ"
+        },
+        {
+          "id": "https://u-site.jp/alertbox/why-does-design-look-good",
+          "author": null,
+          "description": "視覚的に美しいデザインとは、タイポグラフィが一貫していて、明確な階層があり、洗練されたカラーパレットが活用されていて、グリッドに沿って要素が配置されているものだ。 Why Does a Design Look Good? by Sarah Gibbons and Kelley Gordon on March 7, 2021 フォントや色、配置などの視覚的なディテールは、ユーザ...",
+          "link": "https://u-site.jp/alertbox/why-does-design-look-good",
+          "publishedOn": "2021-08-23T07:15:45.000Z",
+          "wordCount": 207,
+          "title": "デザインが良いと思える理由 – U-Site"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/23/news099.html",
+          "author": null,
+          "description": "リクルートが、新人エンジニア向けの社内研修資料を無償公開した。Webブラウザの仕組みやAWS入門、トヨタ生産方式など20講座以上の資料を公開している。 リクルートは8月20日、同社の新人エンジニア向け研修資料を無償公開した。Amazon Web Services（AWS）やJavaScriptなど技術分野だけでなく、トヨタ生産方式のような...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/23/news099.html",
+          "publishedOn": "2021-08-23T06:34:14.000Z",
+          "wordCount": 142,
+          "title": "リクルート、新人エンジニア向け社内研修資料を公開　AWS入門やマネジメント手法など20講座以上 - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/23/news105.html",
+          "author": null,
+          "description": "歌手の加山雄三さんが、自身の歌声を音声合成AIで再現したプロジェクト「バーチャル若大将」のYouTubeチャンネルを開設し、“歌ってみた”動画を投稿した。 歌手の加山雄三さんは8月22日、自身の歌声を音声合成AIで再現したプロジェクト「バーチャル若大将」のYouTubeチャンネルを開設し、シャ乱Q「シングルベッド」の“歌...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/23/news105.html",
+          "publishedOn": "2021-08-23T06:15:30.000Z",
+          "wordCount": 143,
+          "title": "「AI加山雄三」が“歌ってみた”動画をYouTubeに　24時間テレビで反響 - ITmedia NEWS"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/getting-start-radware-cloud-native-protector/",
+          "author": null,
+          "description": "AWS上のインシデントをわかりやすいフロー図にして可視化できるRadware Cloud Native Protectorを使って攻撃された痕跡を調査してみた AWS環境でどんな経路でどんな攻撃がされたか、一発で見てわかるセキュリティインシデントを調査するサービスであるRadware社のCloud Native Protectorの紹介です。とにかく図を見てく...",
+          "link": "https://dev.classmethod.jp/articles/getting-start-radware-cloud-native-protector/",
+          "publishedOn": "2021-08-23T04:17:18.000Z",
+          "wordCount": 241,
+          "title": "AWS上のインシデントをわかりやすいフロー図にして可視化できるRadware Cloud Native Protectorを使って攻撃された痕跡を調査してみた | DevelopersIO"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/yajiuma/1345450.html",
+          "author": null,
+          "description": "Amazon.co.jpが、転売サイトからAmazonギフト券を購入しないよう、具体的なサイト名を挙げて呼び掛けを行っている。",
+          "link": "https://internet.watch.impress.co.jp/docs/yajiuma/1345450.html",
+          "publishedOn": "2021-08-23T04:16:04.000Z",
+          "wordCount": 76,
+          "title": "Amazonギフト券を転売サイトから購入しないで！ Amazon.co.jpが業者名リストを公開中【やじうまWatch】 - INTERNET Watch"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/08/23/2021-07-27-no-code-bubble-series-a/",
+          "author": null,
+          "description": "シリコンバレーでは、コンピュータサイエンスや技術教育の不足が世界のGDPレベルをどの程度押し下げているのかを議論するゲームが盛んに行われている。もし何十万人、何百万人もがコードを書けるようになって、起業家としてアイデアを実現できるようになったら、どれだけ多くのスタートアップ企業が誕生するだろうか？す...",
+          "link": "https://jp.techcrunch.com/2021/08/23/2021-07-27-no-code-bubble-series-a/",
+          "publishedOn": "2021-08-23T03:59:33.000Z",
+          "wordCount": 332,
+          "title": "技術者はもはや時代遅れ？コーディング不要のツールを開発するBubbleが111億円調達 | TechCrunch Japan"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1345483.html",
+          "author": null,
+          "description": "米国時間の2021年8月24日に、Windows XPのRTMが完成してから20年を迎える。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1345483.html",
+          "publishedOn": "2021-08-23T03:59:13.000Z",
+          "wordCount": 106,
+          "title": "【やじうまPC Watch】Windows XP、24日に20歳を迎える - PC Watch"
+        },
+        {
+          "id": "https://tarao.hatenablog.com/entry/deep-equality",
+          "author": null,
+          "description": "数日前にTwitterで, JavaScriptのオブジェクトに対する===の挙動が初心者には難しいみたいな話を見かけた. 発端や周辺の議論をちゃんと追いかけてないからとくに出典は貼らない. たぶん元々の話は「へぇ, こういう挙動なんだ, 簡単ではないね」くらいの話だったのかもしれない. 自分のタイムラインの観測範囲では「そう...",
+          "link": "https://tarao.hatenablog.com/entry/deep-equality",
+          "publishedOn": "2021-08-23T03:54:36.000Z",
+          "wordCount": 1075,
+          "title": "再帰的な構造のデータの同値性判定はどうしたらいいか - 貳佰伍拾陸夜日記"
+        },
+        {
+          "id": "https://webdesign-trends.net/entry/13147",
+          "author": null,
+          "description": "VSCodeを使ってHTML/CSS/JavaScriptなどを使ったWeb制作、Webコーディングを行っている人も多いのではないでしょうか。 VSCodeは様々な拡張機能が公開されていて、それらを活用するとさらにWeb制作の作業効率が向上したり、使い勝手が良くなったりします。 今回は、Web制作者、WebコーダーにおすすめのVSCode拡張機能を...",
+          "link": "https://webdesign-trends.net/entry/13147",
+          "publishedOn": "2021-08-23T02:34:47.000Z",
+          "wordCount": 462,
+          "title": "Web制作者必見！VSCodeのおすすめ拡張機能15個まとめ - Web Design Trends"
+        },
+        {
+          "id": "https://engineering.mercari.com/blog/entry/20210823-a57631d32e/",
+          "author": null,
+          "description": "こんにちは。ソウゾウの Software Engineer の hiroppy です。「連載：「メルカリ Shops」プレオープンまでの開発の裏側」 の最後は、Web フロントエンドの紹介をしたいと思います。メルカリ Shops は既存のメルカリアプリの中に独立した Web アプリケーションとして動いています。本記事では、どのようなライブラリを選...",
+          "link": "https://engineering.mercari.com/blog/entry/20210823-a57631d32e/",
+          "publishedOn": "2021-08-23T01:06:01.000Z",
+          "wordCount": 482,
+          "title": "メルカリShops のフロントエンド | メルカリエンジニアリング"
+        },
+        {
           "id": "https://memo.sugyan.com/entry/2021/08/23/003752",
           "author": null,
           "description": "ISUCON11 予選おつかれさまでした。 ここ数年は参加者として予選敗退を繰り返してきたのだけど、今年はちょっと違う関わり方をしてみるか、と思い 「参考実装の移植」に立候補してみました。 isucon.net Node.js担当として採用していただき、ちょっと不安もあったので id:hokaccha 氏にレビュアーとしてついてもらって、...",
@@ -54,6 +279,15 @@
           "publishedOn": "2021-08-22T22:13:38.000Z",
           "wordCount": 453,
           "title": "ISUCON11予選のNode.js実装を書いた - すぎゃーんメモ"
+        },
+        {
+          "id": "https://blog.edunote.jp/entry/2021/08/23/060000",
+          "author": null,
+          "description": "市の発表会で発表してきました。 夏休みといえば研修です。 勤務している市では、夏に発表したい人が集まっての発表会があります。今年は完全オンラインでの実施となりました。 よく考えると、完全オンラインで教育イベントを市が主体で開くって、結構スゴいことだと今思いました。（遅い と言う訳で、日頃から市のGIGA...",
+          "link": "https://blog.edunote.jp/entry/2021/08/23/060000",
+          "publishedOn": "2021-08-22T20:29:32.000Z",
+          "wordCount": 233,
+          "title": "小学校でChromebook（Google Workspace for Education)はこう使われているよ、という実例を発表してきました - パパ教員の戯れ言日記"
         },
         {
           "id": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1345180.html",
@@ -153,6 +387,15 @@
           "publishedOn": "2021-08-22T05:41:36.000Z",
           "wordCount": 209,
           "title": "ISUCON11 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog"
+        },
+        {
+          "id": "https://shinyorke.hatenablog.com/entry/dataproc-baseball",
+          "author": null,
+          "description": "最近の野球界隈の出来事が斜め上すぎて驚いてるマンです.*1 本業の仕事および, 本業じゃない個人開発や趣味プログラミングにおいて, データの量が多くて 単位やフォーマットが不揃いで それでも仕事（もしくは趣味の分析）をこなすため, いい感じの使いやすいデータセットにしないと（使命感） という機会は非常に多いで...",
+          "link": "https://shinyorke.hatenablog.com/entry/dataproc-baseball",
+          "publishedOn": "2021-08-22T05:40:41.000Z",
+          "wordCount": 849,
+          "title": "野球のビッグデータをGCPとPySparkでいい感じに使いやすくしてみた - DataprocとGCFを使った緩いデータ基盤 - Lean Baseball"
         },
         {
           "id": "https://matsuu.hatenablog.com/entry/2021/08/22/141130",
@@ -297,6 +540,15 @@
           "publishedOn": "2021-08-21T07:01:52.000Z",
           "wordCount": 232,
           "title": "アップル、中国や台湾向け刻印サービスで「ダライ・ラマ」や「雨傘革命」などを検閲していると明らかに - Engadget 日本版"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b682fd3c516ed455ced69b30e447724316d7389e",
+          "author": null,
+          "description": "部屋の片隅にある「テレビコンセント」。アンテナやケーブルテレビからの信号をテレビに引き込むためのものですが、それ以外の用途にも使えること、ご存知ですか？ 「テレビコンセント」はLANとして使える！ 実はこのテレビコンセント、ホームネットワーク／LANに利用できます。家庭用LANといえば、有線／イーサネット（...",
+          "link": "https://news.yahoo.co.jp/articles/b682fd3c516ed455ced69b30e447724316d7389e",
+          "publishedOn": "2021-08-21T05:17:10.000Z",
+          "wordCount": 76,
+          "title": "壁面の「アンテナ端子」はネット接続に使える！サクッと解説（PHILE WEB） - Yahoo!ニュース"
         },
         {
           "id": "https://news.yahoo.co.jp/articles/4ffd98e47ce18f96508421f88cb89a11d0fe5424",
@@ -596,6 +848,15 @@
           "title": "Microsoft 365/Office 365が値上げへ。法人向け製品を対象に - PC Watch"
         },
         {
+          "id": "https://tech.leverages.jp/entry/2021/08/19/141229",
+          "author": null,
+          "description": "対象読者 マイクロサービス化を検討しており、実際に作る場合の構成を参考にしたい。 ドメイン駆動設計について、基本的な用語の知識がある。 TypeScript を多少触ったことがある。理解がある。 はじめに こんにちは。エンジニアの吉村です。 現在、弊社が運営する teratail というサービスに携わっており、CakePHP で動...",
+          "link": "https://tech.leverages.jp/entry/2021/08/19/141229",
+          "publishedOn": "2021-08-20T05:00:45.000Z",
+          "wordCount": 1296,
+          "title": "実践！ Typescript で DDD - マイクロサービス設計のすすめ - Leverages Tech Blog"
+        },
+        {
           "id": "https://speakerdeck.com/recruitengineers/software-engineers-survival-guide",
           "author": null,
           "description": "Transcript ιϑτ΢ΣΞ� ΤϯδχΞͱͯ͠ͷ� ࢟੎ͱ৺ߏ͑ ࿨ా�୎ਓ� !U@XBEB \"QS��� ������!�ϦΫϧʔτ U�XBEB� U@XBEB� UXBEB ࿨ా୎ਓ खֻ͚ͨຊͨͪ wେֶࡏֶத͔ΒઃܭͱϓϩάϥϛϯάͷΞϧόΠτ Λ࢝ΊΔ� wଔۀޙϓϩάϥϚͱͯ͠ͷΩϟϦΞΛ։࢝� wిࢠ੓෎ͷαϒϓϩδΣΫτ ਺ઍਓن໛ ͰϦʔυ ϓϩάϥϚ� w91�ͷίʔνͱͯ͠���ਓͷΞδϟΠϧνʔϜʹࢀՃ� wߨԋɺࣥචɺ�044�׆ಈΛ࢝ΊΔ� wݱࡏ͸ٕज़ސ໰ۀΛߦ͍ͬͯΔ ΩϟϦΞతͳ΋ͷ None None ֶͼଓ͚Δ࢟੎ l͋ͳͨͷ� ஌ࣝϙʔτϑΥϦΦ ʹରͯ͠ఆظతͳ౤ ࢿΛߦ͏͜ͱz ٕज़ΛֶͿͷͰ ͸ͳ͘ɺٕज़ͷ ֶ...",
@@ -702,6 +963,15 @@
           "publishedOn": "2021-08-19T18:00:50.000Z",
           "wordCount": 2403,
           "title": "Introducing Amazon MemoryDB for Redis – A Redis-Compatible, Durable, In-Memory Database Service | AWS News Blog"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/bastion-multi-stage-ssh-only-local-pem/",
+          "author": null,
+          "description": "こんにちは！コンサル部のinomaso(@inomasosan)です。 踏み台サーバ用のEC2から、別のEC2 LinuxにSSH接続する際の秘密鍵の扱い方は皆さんどうしておりますでしょうか？ 一番簡単なのは踏み台サーバに秘密鍵をアップロードし、別のEC2にSSH接続することです。 ただし、このやり方だと踏み台サーバが乗っ取られた場合に、...",
+          "link": "https://dev.classmethod.jp/articles/bastion-multi-stage-ssh-only-local-pem/",
+          "publishedOn": "2021-08-19T15:04:07.000Z",
+          "wordCount": 223,
+          "title": "踏み台サーバ経由の多段SSH接続をローカル端末の秘密鍵のみで実施する | DevelopersIO"
         },
         {
           "id": "https://japanese.engadget.com/netflix-spatial-audio-ios-144235028.html",
@@ -7218,222 +7488,6 @@
           "publishedOn": "2021-07-25T12:54:35.000Z",
           "wordCount": 196,
           "title": "akira_you on Twitter: \"ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2\""
-        },
-        {
-          "id": "https://gigazine.net/news/20210725-obsidian-mobile/",
-          "author": null,
-          "description": "基本無料のMarkdownエディタ「Obsidian」では、Markdown形式で見やすいノートを記述し、ノート同士にリンクを張ることで自分専用のWikiを構築することができます。そんなObsidianのモバイル版が2021年7月12日に登場したので、実際に使って機能を確かめてみました。 Mobile apps - Obsidian https://obsidian.md/mobile O...",
-          "link": "https://gigazine.net/news/20210725-obsidian-mobile/",
-          "publishedOn": "2021-07-25T10:10:17.000Z",
-          "wordCount": 220,
-          "title": "簡単操作で自分専用Wikiを構築できるMarkdownエディタ「Obsidian」のモバイル版を使ってみた - GIGAZINE"
-        },
-        {
-          "id": "https://japanese.engadget.com/fake-windows11-adware-trojan-horse-092056600.html",
-          "author": null,
-          "description": "マイクロソフトは次期Windows 11のプレビュー版を提供中ですが、入手するにはWindows Insiderプログラムへの登録が必要となります。これを経由せずに偽物のWindows 11インストーラーが配布されており、その中にアドウェアやマルウェアが含まれていると警告が発せられています。 ウイルス対策ソフトウェアで知られる企業K...",
-          "link": "https://japanese.engadget.com/fake-windows11-adware-trojan-horse-092056600.html",
-          "publishedOn": "2021-07-25T10:00:54.000Z",
-          "wordCount": 250,
-          "title": "ニセWindows 11インストーラーが蔓延、アドウェアやトロイの木馬が含まれていると警告 - Engadget 日本版"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/lambda-edge-ogp/",
-          "author": null,
-          "description": "吉川@広島です。 案件でCloudFront+S3なSPAに対してOGP対応が必要になってきそうなため、Lambda@Edgeを使った対応について検証しました。 現状、FacebookやTwitterのBotは基本的にクライアントサイドJSを解釈できず、SPA単体でのOGP対応は難しいとされています。OGPメタタグはSSRで返してあげる必要があるため、「UserAg...",
-          "link": "https://dev.classmethod.jp/articles/lambda-edge-ogp/",
-          "publishedOn": "2021-07-25T09:02:36.000Z",
-          "wordCount": 627,
-          "title": "CloudFront+S3なSPAにLambda@EdgeでOGP対応する | DevelopersIO"
-        },
-        {
-          "id": "https://togetter.com/li/1749825",
-          "author": null,
-          "description": "リンク mojiru【もじをもじる】 IBMが無料で使えるフォントIBM Plexを公開 - mojiru【もじをもじる】 オープンソースフォント・IBM Plex オープンソースフォント・IBM Plex 書体見本 IBM-Plex-Mono IBM-Plex-Sans IBM-Plex-Sans-Condensed IBM-Plex-Serif オープンソースフォント・IBM Plexのダウンロードはこちら フォ...",
-          "link": "https://togetter.com/li/1749825",
-          "publishedOn": "2021-07-25T08:47:10.000Z",
-          "wordCount": 485,
-          "title": "和文フリーフォント“IBM Plex Sans JP”リリース！「ウェイトがあっても潰れない」「フトコロが広い」既存フォントとの比較も - Togetter"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210725153418",
-          "author": null,
-          "description": "オリンピックは開催されて嬉しい方の人間です。 今は家族で家で楽しく応援しています。 無観客だから懸念されるような事態もなく、選手も頑張ってる。 それなのにブコメを見ればネガコメばかり。 前に、「選手に石投げたい気分」とか言ってるブコメに★がついてるの見て一気に不快になった。 こんなコメント書くやつも★い...",
-          "link": "https://anond.hatelabo.jp/20210725153418",
-          "publishedOn": "2021-07-25T06:41:29.000Z",
-          "wordCount": 388,
-          "title": "オリンピックではてブ民が嫌いになった"
-        },
-        {
-          "id": "https://gigazine.net/news/20210725-amazon-seeking-digital-currency-blockchain-expert/",
-          "author": null,
-          "description": "Amazonが出した求人情報から、同社が暗号資産(仮想通貨)やブロックチェーンの専門家を求めていることが明らかになりました。この情報から、Amazonが新たに仮想通貨での支払いを導入する可能性が報じられています。 Digital Currency and Blockchain Product Lead - ジョブID：1644513 | Amazon.jobs https://www.amazon....",
-          "link": "https://gigazine.net/news/20210725-amazon-seeking-digital-currency-blockchain-expert/",
-          "publishedOn": "2021-07-25T06:32:46.000Z",
-          "wordCount": 194,
-          "title": "Amazonが暗号資産やブロックチェーンの専門家を求めていることが判明、支払い方法に暗号資産を導入か - GIGAZINE"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210725124633",
-          "author": null,
-          "description": "増設しました ブコメ・スターご自由に anond:20210724203504",
-          "link": "https://anond.hatelabo.jp/20210725124633",
-          "publishedOn": "2021-07-25T06:18:16.000Z",
-          "wordCount": 86,
-          "title": "建設的APIハック会場D"
-        },
-        {
-          "id": "https://toyokeizai.net/articles/-/441941",
-          "author": null,
-          "description": "グーグルの新たな一手は思わぬところへ波及するかもしれない（左写真：David Paul Morris／Bloomberg、右写真撮影：大澤誠） グーグルが「Plex」と呼ぶ新しい金融サービスを開始した。いずれ日本でも導入されるだろう。これは、「組み込み型金融」と呼ばれるもので、銀行APIを通じてグーグルと既存銀行が共同作業を行う。",
-          "link": "https://toyokeizai.net/articles/-/441941",
-          "publishedOn": "2021-07-25T05:48:20.000Z",
-          "wordCount": 332,
-          "title": "グーグル銀行がコンビニ銀行を脅かしかねない訳 | 野口悠紀雄「経済最前線の先を見る」 | 東洋経済オンライン | 社会をよくする経済ニュース"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210725124742",
-          "author": null,
-          "description": "闇会場です 誹謗中傷・罵詈雑言・SATSUGAI予告などのテストに ご利用は自己責任でお願いします anond:20210724203504",
-          "link": "https://anond.hatelabo.jp/20210725124742",
-          "publishedOn": "2021-07-25T05:44:23.000Z",
-          "wordCount": 103,
-          "title": "建設的APIハック会場・闇"
-        },
-        {
-          "id": "https://mame.github.io/world-flag-search/ja/",
-          "author": null,
-          "description": "手描きで国旗が検索できます。あの国旗、どこの国だっけ？というときに。",
-          "link": "https://mame.github.io/world-flag-search/ja/",
-          "publishedOn": "2021-07-25T04:38:18.000Z",
-          "wordCount": 3,
-          "title": "手描き国旗検索"
-        },
-        {
-          "id": "https://gigazine.net/news/20210725-zulip/",
-          "author": null,
-          "description": "近年ではリモートワーク化の波もあり、社内連絡にSlackをはじめとするチャットツールを導入する企業も増えています。「Zulip」はSlackのようなオープンソースのチャットツールであり、基本的な機能は無料で利用することができるとのことで、どんなツールになっているのか実際に使ってみました。 Zulip https://zulip.com...",
-          "link": "https://gigazine.net/news/20210725-zulip/",
-          "publishedOn": "2021-07-25T04:11:14.000Z",
-          "wordCount": 226,
-          "title": "無料でSlackライクなオープンソースのチャットツール「Zulip」を使ってみた - GIGAZINE"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2021/07/dps-l2.html",
-          "author": null,
-          "description": "見た目は1979年の初代ウォークマン、中身はハイレゾなポータブルプレーヤー現れる2021.07.25 12:0038,290 武者良太 Image: サイラス 再生時はボタンをガチャっと押し込むって最高すぎない？ Oriolusの｢DPS-L2｣は初代ウォークマンことTPS-L2にそっくりすぎるオーディオプレーヤーです。歴史に強いあこがれを感じさせる、...",
-          "link": "https://www.gizmodo.jp/2021/07/dps-l2.html",
-          "publishedOn": "2021-07-25T03:55:50.000Z",
-          "wordCount": 67,
-          "title": "見た目は1979年の初代ウォークマン、中身はハイレゾなポータブルプレーヤー現れる | ギズモード・ジャパン"
-        },
-        {
-          "id": "https://twitter.com/t0kri/status/1419077029643755522",
-          "author": null,
-          "description": "やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk",
-          "link": "https://twitter.com/t0kri/status/1419077029643755522",
-          "publishedOn": "2021-07-25T03:26:13.000Z",
-          "wordCount": 196,
-          "title": "トランプ on Twitter: \"やばいな〜。IBMがこの度公開した和文のゴシック体フォント「IBM Plex Sans JP」、完全にオープンソースなんだけど、独特のスミ取り処理とかでツブレにくく、これまでになかった表情があってオシャレ。 完成度高くておすすめで… https://t.co/oRhFNB9kjk\""
-        },
-        {
-          "id": "https://japanese.engadget.com/fccl-quaderno-a5-010054575.html",
-          "author": null,
-          "description": "富士通クライアントコンピューティング（FCCL）から、3年ぶりとなる第2世代の電子ペーパー「QUADERNO（クアデルノ）」が7月8日に発売されました。実際の紙のような感覚で、書いたり読んだりすることを目指した本端末は、最新のE Inkディスプレイを採用。CPUがパワーアップしたほか、スタイラスペンもワコムのデジタイザ...",
-          "link": "https://japanese.engadget.com/fccl-quaderno-a5-010054575.html",
-          "publishedOn": "2021-07-25T02:02:19.000Z",
-          "wordCount": 250,
-          "title": "3年ぶりに刷新！電子ペーバー「QUADERNO A5」がかなりイケてた - Engadget 日本版"
-        },
-        {
-          "id": "https://note.com/makaibito/n/n9c582564b5ab",
-          "author": null,
-          "description": "これまで未経験エンジニアに関する包囲網についてお話をしてきました。このお話は非常によく読んで頂いておりまして、本noteでも2番目のPVになっております。 未経験エンジニア、世間的には駆け出しエンジニアなどとも呼ばれていますが、こちらの状況が徐々に変わってきました。それが今回お話をする未経験フリーランス...",
-          "link": "https://note.com/makaibito/n/n9c582564b5ab",
-          "publishedOn": "2021-07-25T01:08:56.000Z",
-          "wordCount": 125,
-          "title": "未経験フリーランスを席捲する「カジュアルな情報商材」｜久松剛／IT百物語の蒐集家｜note"
-        },
-        {
-          "id": "https://github.com/IBM/plex/releases/tag/v5.2.1",
-          "author": null,
-          "description": "IBM Plex Sans JP Added CSS stylesheets: css/ibm-plex-sans-jp.css and css/ibm-plex-sans-jp.min.css Sass entrypoint: scss/sans-jp/index.scss The upcoming major release will make chosing specific font-weights and languages easier for developers. Until then, enjoy IBM Plex Sans JP!",
-          "link": "https://github.com/IBM/plex/releases/tag/v5.2.1",
-          "publishedOn": "2021-07-25T00:51:59.000Z",
-          "wordCount": 316,
-          "title": "Release v5.2.1 · IBM/plex · GitHub"
-        },
-        {
-          "id": "https://gigazine.net/news/20210725-gbc-module-five-tilted-rings/",
-          "author": null,
-          "description": "世界で大人気のブロック玩具「レゴ」にはさまざまな愛好家が存在し、中にはボールを延々運び続けるレゴブロック製の巨大装置「Great Ball Contraption(GBC)」というジャンルが存在します。GBCに関するモジュールや選別機、ロボットアームなどを創作するAkiyuki氏が作成した「レゴの玉運び装置:5つのリング」は、円形リン...",
-          "link": "https://gigazine.net/news/20210725-gbc-module-five-tilted-rings/",
-          "publishedOn": "2021-07-25T00:37:19.000Z",
-          "wordCount": 183,
-          "title": "ロボットアームでボールを延々受け渡しする産業用ロボット感あふれる「レゴの玉運び装置:5つのリング」 - GIGAZINE"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210724203530",
-          "author": null,
-          "description": "B会場はこちらでーす ブコメ、スターはご自由にどうぞー anond:20210724203504",
-          "link": "https://anond.hatelabo.jp/20210724203530",
-          "publishedOn": "2021-07-24T21:54:36.000Z",
-          "wordCount": 74,
-          "title": "建設的APIハック会場B"
-        },
-        {
-          "id": "https://developers.google.com/search/blog/2021/07/search-traffic-drops?hl=ja",
-          "author": null,
-          "description": "Google 検索セントラル ブログ 0 fhWU � fhWU �fchWU Tuesday, July 20, 2021 Suppose you open Search Console and find out that your Google Search traffic dropped. What should you do? A drop in organic Search traffic can happen for several reasons, and most of them can be reversed. But it may not be s...",
-          "link": "https://developers.google.com/search/blog/2021/07/search-traffic-drops?hl=ja",
-          "publishedOn": "2021-07-24T16:57:36.000Z",
-          "wordCount": 1333,
-          "title": "Analyzing Google Search traffic drops  |  Google 検索セントラル ブログ"
-        },
-        {
-          "id": "https://e83c516.hatenablog.com/entry/2021/07/24/234417",
-          "author": null,
-          "description": "はじめましての人がほとんどだと思います、情報系VTuberのこみっとちゃんですっ。 今回はVirtual YouTuberとしてこちらのISUCON特別企画に参加しました。「ブログを書くまでがISUCON」ということで参加エントリを書きますっ。 isucon.net こみっとちゃんって誰？ 今年6月にYouTubeにて初めて動画を投稿した、生まれたて...",
-          "link": "https://e83c516.hatenablog.com/entry/2021/07/24/234417",
-          "publishedOn": "2021-07-24T15:02:02.000Z",
-          "wordCount": 172,
-          "title": "公式企画「Virtual ISUCON Live」にVirtual YouTuberとして参加しました！ #isucon - こみっとブログ"
-        },
-        {
-          "id": "https://gigazine.net/news/20210724-plug-usb-device-pc/",
-          "author": null,
-          "description": "一般的なPCに標準搭載されているUSBポートにUSBデバイスをつないだ時、PCで一体どのような処理がされているのか、電子機器などの動作をブログやYouTubeで解説しているベン・イーター氏が、動画で解説しています。 How does USB device discovery work? - YouTube イーター氏が接続に用いたのはDELL製のキーボード。オシ...",
-          "link": "https://gigazine.net/news/20210724-plug-usb-device-pc/",
-          "publishedOn": "2021-07-24T14:53:57.000Z",
-          "wordCount": 203,
-          "title": "PCがUSBデバイスを認識した時に何が起こるのか？ - GIGAZINE"
-        },
-        {
-          "id": "https://iphone-mania.jp/news-384828/",
-          "author": null,
-          "description": "Apple Parkのビジターセンターに、「Mirage」（蜃気楼）と題したガラス製のアートが設置される予定です。 世界から集めた砂で作った400本のガラス柱で形成 Apple本社社屋、Apple Parkのビジターセンターに隣接したオリーブの木が並ぶエリアに、400本のガラス製円柱を並べたアート作品「Mirage」が2022年に設置される、と...",
-          "link": "https://iphone-mania.jp/news-384828/",
-          "publishedOn": "2021-07-24T14:32:59.000Z",
-          "wordCount": 259,
-          "title": "Apple Parkのビジターセンター、400本のガラス柱によるアートを設置予定 - iPhone Mania"
-        },
-        {
-          "id": "https://zenn.dev/hsaki/articles/godoc-asm-ja",
-          "author": null,
-          "description": "この記事について Goの実装というのは基本的にはGo言語そのもので行われますが、runtimeパッケージやmath/bigといった低レイヤ・マシンと密接に関わる部分に関してはGoアセンブリで実装されています。 そしてGoアセンブリについては、公式ドキュメントであるA Quick Guide to Go's Assemblerにある程度の説明が記載され...",
-          "link": "https://zenn.dev/hsaki/articles/godoc-asm-ja",
-          "publishedOn": "2021-07-24T14:14:21.000Z",
-          "wordCount": 1348,
-          "title": "解説&翻訳 - A Quick Guide to Go's Assembler"
-        },
-        {
-          "id": "https://www.todaishimbun.org/machinetranslation_20210724/",
-          "author": null,
-          "description": "近年、機械翻訳技術の発展が目覚ましい。これまでに膨大な時間を英語学習に費やしてきたにもかかわらず、英語を理解するために Google 翻訳やDeepL といった機械翻訳ツールに頼っている学生も多いだろう。機械翻訳とは何なのか、そして外国語学習にどのような影響をもたらすのか。漫画専用機械翻訳エンジンの開発を手掛...",
-          "link": "https://www.todaishimbun.org/machinetranslation_20210724/",
-          "publishedOn": "2021-07-24T12:26:22.000Z",
-          "wordCount": 230,
-          "title": "AI時代における外国語学習の意義とは？　漫画機械翻訳エンジン開発者と言語学者に聞く機械翻訳と外国語学習のリアリティー　 | 東大新聞オンライン"
         }
       ]
     },
@@ -7489,6 +7543,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=350264",
+          "author": "Chris Coyier",
+          "description": "You can’t just do @media (prefers-reduced-data: no-preference) alone because, as Kilian Valkhof says:\n[…] that would be false if either there was no support (since the browser wouldn’t understand the media query) or if it was supported but the \n…\nThe post Detecting Media Query Support in CSS and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://kilianvalkhof.com/2021/web/detecting-media-query-support-in-css-and-javascript/",
+          "publishedOn": "2021-08-23T17:16:38.000Z",
+          "wordCount": 1292,
+          "title": "Detecting Media Query Support in CSS and JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350160",
+          "author": "Chris Coyier",
+          "description": "We can update the URL in JavaScript. We’ve got the APIs pushState and replaceState: \n// Adds to browser history\nhistory.pushState({}, \"About Page\", \"/about\");\n\n// Doesn't\nhistory.replaceState({}, \"About Page\", \"/about\");\nJavaScript is also capable of replacing any content in the …\nThe post Native JavaScript Routing? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/native-javascript-routing/",
+          "publishedOn": "2021-08-23T14:28:14.000Z",
+          "wordCount": 832,
+          "title": "Native JavaScript Routing?"
+        },
         {
           "id": "https://css-tricks.com/?p=350186",
           "author": "Chris Coyier",
@@ -8059,6 +8131,51 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/rainerhahnekamp/ngrx-best-practices-series-0-introduction-4p36",
+          "author": "Rainer Hahnekamp",
+          "description": "Table of Contents\n\n\n\nA long-awaited solution for state management\nWhy should you use state management?\nIntroducing Eternal\nBefore we start...\nThis is the first in a series of articles about building reactive applications in Angular using NgRx state management. I want to begin by laying out my personal relationship with NgRx and introduce an example application that we will use throughout the series. You should already be familiar with common NgRx concepts to get the most out of these articles. In later articles, I will share the good and bad things I have learned about state management and illustrate best practices for NgRx.\nIf you prefer watching over reading, here is the video version:\n\n\n\n\nYou can find  the sources files on \n / \n        ngrx-best-practices\n      \n    \n\n\n\nSince the year 2…",
+          "link": "https://dev.to/rainerhahnekamp/ngrx-best-practices-series-0-introduction-4p36",
+          "publishedOn": "2021-08-23T20:15:12.000Z",
+          "wordCount": 1185,
+          "title": "NgRx Best Practices Series: 0. Introduction"
+        },
+        {
+          "id": "https://dev.to/paco_ita/add-logic-to-run-before-current-material-tab-changes-kif",
+          "author": "Francesco Leardini",
+          "description": "Angular Material offers a wide, feature-rich set of UI Components that we can easily introduce in our projects. \n\nAlthough the proposed functionalities already cover many common scenarios, it can be that we need to implement a special requirement in our current project.\nIn my last project I needed to store in a NgRx UI State the vertical scroll position of the content of Angular Material Tabs. The client wanted to restore the last scroll position of each tab, while navigating among them.\nThere are multiple approaches to fulfill this requirement, but I wanted to avoid costly event listeners that get triggered multiple times while scrolling through the page.\n\n\n\nAll I wanted, was the possibility to target the scrolling element  in the template and register its position just before navigating …",
+          "link": "https://dev.to/paco_ita/add-logic-to-run-before-current-material-tab-changes-kif",
+          "publishedOn": "2021-08-23T14:56:28.000Z",
+          "wordCount": 1011,
+          "title": "Add logic to run *before* current Material Tab changes"
+        },
+        {
+          "id": "https://dev.to/grapecity/angular-best-practices-for-2021-e7",
+          "author": "Morgan",
+          "description": "Built with TypeScript by Google developers, Angular is an open-source JavaScript framework designed for building front-end applications. \nAngular 2+ is a successor to Angular.js, rewritten from scratch using TypeScript instead of JavaScript, which helped avoid many issues related to JavaScript and ensures following best practices and integrations with IDEs thanks to static typing and the class-based oriented object features of TypeScript. \nAngular is not just a framework but an entire platform packed with features that make front-end web and mobile development more manageable. Also, thanks to projects by the community, you can build native apps for mobile (Ionic and NativeScript) and desktop (Electron) devices. \nAngular is like other modern JavaScript libraries, such as React and Vue.js, a…",
+          "link": "https://dev.to/grapecity/angular-best-practices-for-2021-e7",
+          "publishedOn": "2021-08-23T14:12:41.000Z",
+          "wordCount": 2622,
+          "title": "Angular Best Practices for 2021"
+        },
+        {
+          "id": "https://dev.to/shhdharmen/how-to-exclude-stylesheets-from-the-bundle-and-lazy-load-them-in-angular-3kcf",
+          "author": "Dharmen Shah",
+          "description": "We will try to understand this by taking example of multiple themes support.\nLet’s assume that apart from main styles.css file, you have 2 theme files present:\nsrc/styles/themes/theme-light.css\nsrc/styles/themes/theme-dark.css\nNext, you would have them in angular.json’s styles option:\n\"styles\": [\n    \"src/styles.css\",\n    \"src/styles/themes/theme-light.css\",\n    \"src/styles/themes/theme-dark.css\"\n  ]\n\nAnd lastly, you would handle loading of a particular theme based on the users’ choice or their preferences.\nEverything works great, but both of your theme files are part of your application bundle all the time.\nLet’s make a minor change in angular.json to exclude theme files from bundle:\n\"styles\": [\n    \"src/styles.css\",\n    {\n      \"input\": \"src/styles/themes/theme-light.css\",\n      \"inject\"…",
+          "link": "https://dev.to/shhdharmen/how-to-exclude-stylesheets-from-the-bundle-and-lazy-load-them-in-angular-3kcf",
+          "publishedOn": "2021-08-23T05:35:51.000Z",
+          "wordCount": 775,
+          "title": "How to exclude stylesheets from the bundle and lazy load them in Angular?"
+        },
+        {
+          "id": "https://dev.to/oneofthedevs/docker-angular-nginx-37e4",
+          "author": "Dev Chhaniyara",
+          "description": "So recently, I have been digging into DevOps and Cloud Technologies and came across this service called Google Cloud Run which lets you host your application, but the only thing that bugged me was it required a docker image, and at this point, I had no idea what docker, containers, images or any of this words meant. 😕\nSo like any sane person with no social life on weekends 🤪 I started learning about Docker and at first, it did seem a little challenging but eventually, I think the process is quite easy and interesting.\nSo, if you have no idea about Docker and containers, I have put some links at the bottom which were super useful to me.\nDocker is a container runtime. That's it 🤯. It allows us to run containerized applications.\nContainers are lightweight, portable and isolated processes r…",
+          "link": "https://dev.to/oneofthedevs/docker-angular-nginx-37e4",
+          "publishedOn": "2021-08-23T02:51:43.000Z",
+          "wordCount": 1375,
+          "title": "Docker + Angular + Nginx"
+        },
         {
           "id": "https://dev.to/enappd/google-login-in-ionic-capacitor-app-with-angular-1igd",
           "author": "Abhijeet Rathore",
@@ -9264,42 +9381,6 @@
           "publishedOn": "2021-07-25T14:23:02.000Z",
           "wordCount": 1317,
           "title": "Automatically sync url path and query params with Angular component fields"
-        },
-        {
-          "id": "https://dev.to/valoni01/ng-magical-directives-series-ng-content-2gfk",
-          "author": "Valentine Awe",
-          "description": "\"Magic is just science that we do not understand yet\" \nThis article is part of what I call the magical directives series. In this series, we will unravel the mystery behind some interesting Angular directives. Afterwards, we can add this little magic to our tool box. I call them magical directives because they play a very important role in building reusable components across our Angular applications.\nBelow are the directives that we will be looking at in this series.\nng-template\nng-container\nng-content\n*ngTemplateOutlet\nlinks to other articles in this series are below\n\n\n  \n  \n  The ng-content\n\n\nThe ng-content is used to create configurable components. If we use the ng-content tag in our template, the inner content of the tags that define our component are then projected into this space.\n//…",
-          "link": "https://dev.to/valoni01/ng-magical-directives-series-ng-content-2gfk",
-          "publishedOn": "2021-07-25T11:09:07.000Z",
-          "wordCount": 1294,
-          "title": "Ng-magical directives series (ng-content)"
-        },
-        {
-          "id": "https://dev.to/ahmadfathy/same-todo-app-with-different-technologies-o48",
-          "author": "Ahmad Fathy",
-          "description": "preview\npreview\npreview\npreview\npreview\nhttps://github.com/ahmadfathy97/same-todo-app-with-different-technologies",
-          "link": "https://dev.to/ahmadfathy/same-todo-app-with-different-technologies-o48",
-          "publishedOn": "2021-07-25T05:46:36.000Z",
-          "wordCount": 565,
-          "title": "Same todo app with different technologies"
-        },
-        {
-          "id": "https://dev.to/this-is-angular/unit-testing-introduction-4ohg",
-          "author": "Jesús Rodríguez",
-          "description": "Let's talk about unit testing our applications.\nUnit tests are a bunch of Typescript files that we create to make sure that every part of our application works as it is expected to work. That means that we need to write hundred of lines of code to assert that our code does what is supposed to do.\nIsn't that a waste of time? The boss is always telling us that we need to be faster and hundred of lines doesn't sound like fast. Au contraire, that bunch of code will save us HOURS. Don't believe me? I have proofs.\n<!--more-->\nExtra code: How many times did you end with code that is not used? Maybe we added some extra loops that are not needed or some function to do something and then realize that we are not using it. When we code our modules before any test, we don't actually know what we are go…",
-          "link": "https://dev.to/this-is-angular/unit-testing-introduction-4ohg",
-          "publishedOn": "2021-07-24T16:20:46.000Z",
-          "wordCount": 3125,
-          "title": "Unit Testing - Introduction"
-        },
-        {
-          "id": "https://dev.to/foxandxss/unit-testing-introduction-4ohg",
-          "author": "Jesús Rodríguez",
-          "description": "Let's talk about unit testing our applications.\nUnit tests are a bunch of Typescript files that we create to make sure that every part of our application works as it is expected to work. That means that we need to write hundred of lines of code to assert that our code does what is supposed to do.\nIsn't that a waste of time? The boss is always telling us that we need to be faster and hundred of lines doesn't sound like fast. Au contraire, that bunch of code will save us HOURS. Don't believe me? I have proofs.\n<!--more-->\nExtra code: How many times did you end with code that is not used? Maybe we added some extra loops that are not needed or some function to do something and then realize that we are not using it. When we code our modules before any test, we don't actually know what we are go…",
-          "link": "https://dev.to/foxandxss/unit-testing-introduction-4ohg",
-          "publishedOn": "2021-07-24T16:20:46.000Z",
-          "wordCount": 3055,
-          "title": "Unit Testing - Introduction"
         }
       ]
     },
@@ -9414,6 +9495,24 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=31442",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/adobe-cc-amazon-20210823-sale.html",
+          "publishedOn": "2021-08-23T05:08:05.000Z",
+          "wordCount": 316,
+          "title": "これを見逃したら損！ここ3年間で一番の最安値、Adobe CC コンプリートプランのセールがAmazonで開催"
+        },
+        {
+          "id": "https://coliss.com/?p=31368",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/kindle-sale-20210824.html",
+          "publishedOn": "2021-08-23T00:36:07.000Z",
+          "wordCount": 1249,
+          "title": "かなりお買い得！Kindleセールで、Web制作・UIデザイン・マーケティング関連の良書が半額に！"
+        },
         {
           "id": "https://coliss.com/?p=31022",
           "author": "コリス🥦",
@@ -9601,6 +9700,87 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/5b4d47cb8b20",
+          "author": "John Philip",
+          "description": "I miss the Cpanel times now more than ever\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/the-good-old-cpanel-times-is-gone-5b4d47cb8b20?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-23T19:02:32.000Z",
+          "wordCount": 788,
+          "title": "The Good Old Cpanel Times Is Gone"
+        },
+        {
+          "id": "https://medium.com/p/25cddc13411",
+          "author": "Hussain Arif",
+          "description": "Build a simple note-taking app with FaunaDB and Next.js\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-integrate-graphql-databases-in-your-frontend-25cddc13411?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-23T18:02:29.000Z",
+          "wordCount": 2423,
+          "title": "How To Integrate GraphQL Databases in Your Frontend"
+        },
+        {
+          "id": "https://medium.com/p/940eb2af9997",
+          "author": "Riccardo Cipolleschi",
+          "description": "A proposal on how to test reference cycles in your Swift app or library\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-test-reference-cycles-in-ios-940eb2af9997?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-23T17:02:46.000Z",
+          "wordCount": 2158,
+          "title": "How To Test Reference Cycles in iOS"
+        },
+        {
+          "id": "https://medium.com/p/901e8b049a88",
+          "author": "Lucas Sonnabend",
+          "description": "Being honest is easy, being kind is hard\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/7-tips-for-empathetic-code-reviews-901e8b049a88?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-23T16:02:44.000Z",
+          "wordCount": 1745,
+          "title": "7 Tips for Empathetic Code Reviews"
+        },
+        {
+          "id": "https://medium.com/p/afb2b3e52609",
+          "author": "E.T. Deubner",
+          "description": "The goal is not to copy code until it runs\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/youre-using-programming-tutorials-the-wrong-way-afb2b3e52609?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-23T15:02:47.000Z",
+          "wordCount": 1207,
+          "title": "You’re Using Programming Tutorials the Wrong Way"
+        },
+        {
+          "id": "https://medium.com/p/d811a6ef1e59",
+          "author": "Sunny Beatteay",
+          "description": "The importance of creating drunken foolproof systems\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-i-helped-stop-an-outage-while-drunk-d811a6ef1e59?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-23T14:01:24.000Z",
+          "wordCount": 2073,
+          "title": "How I Helped Stop an Outage While Drunk"
+        },
+        {
+          "id": "https://medium.com/p/d4d51e41e072",
+          "author": "Yong Cui",
+          "description": "Make VS Code better serve your Python projects\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/is-vs-code-not-python-friendly-try-these-5-extensions-d4d51e41e072?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-23T13:17:49.000Z",
+          "wordCount": 1272,
+          "title": "Is VS Code Not Python-Friendly? Try These 5 Extensions"
+        },
+        {
+          "id": "https://medium.com/p/1b3a937b1cd9",
+          "author": "Brandon Baars",
+          "description": "Learn how to use GeometryReader and PreferenceKey to change the color of the chat bubble as the user scrolls.\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/swiftui-create-color-changing-chat-like-facebook-messenger-1b3a937b1cd9?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-23T13:07:00.000Z",
+          "wordCount": 1191,
+          "title": "SwiftUI: Create Color Changing Chat Like Facebook Messenger"
+        },
+        {
+          "id": "https://medium.com/p/d5974e38e64c",
+          "author": "Nuha Khaled",
+          "description": "“If you are trying to decide between a few people to fill a position, always hire the better writer.”\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/why-every-developer-needs-to-learn-to-write-better-d5974e38e64c?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-23T12:51:56.000Z",
+          "wordCount": 1189,
+          "title": "Why Every Developer Needs To Learn To Write Better"
+        },
         {
           "id": "https://medium.com/p/d9b42b040bb3",
           "author": "Evgeniia",
