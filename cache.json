@@ -47,6 +47,258 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://internet.watch.impress.co.jp/docs/column/work_from/1345549.html",
+          "author": null,
+          "description": "2020年春から1年半以上も続くコロナ禍の影響で、ワークスタイルとして着実に普及が進む“リモートワーク（テレワーク）”。筆者のようなフリーランスは当然のことながら、これまでは対面での打ち合わせが中心だったような大企業でも、Web会議サービスを使った打ち合わせが当然のように使われ始めている。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/work_from/1345549.html",
+          "publishedOn": "2021-08-24T23:24:28.000Z",
+          "wordCount": 179,
+          "title": "テレワークでは出会いが足りてない！ バーチャルオフィス「oVice」に毎日3万人が“出勤”している理由 ～ oVice Summitで考える“テレワークとオフラインのバランス”【甲斐祐樹の Work From ____ ：第8回】 - INTERNET Watch"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345999.html",
+          "author": null,
+          "description": "“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345999.html",
+          "publishedOn": "2021-08-24T22:09:51.000Z",
+          "wordCount": 157,
+          "title": "「Google ドライブ」アプリのアカウント移行を忘れずに！　9月末までに済ませよう - やじうまの杜 - 窓の杜"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0c2211aa4ae269624564458ba7d98402c8d8f718",
+          "author": null,
+          "description": "きのう発生したセブン銀行のシステム障害による影響は、１０００口座余りで１億円を超えることがわかりました。 セブン銀行によりますと、システム障害はきのうの午前０時ごろに勘定系システムのサーバーが一時的に高い負荷状態になったため銀行口座の取引ができなくなる障害が発生したということです。 顧客から給与振...",
+          "link": "https://news.yahoo.co.jp/articles/0c2211aa4ae269624564458ba7d98402c8d8f718",
+          "publishedOn": "2021-08-24T19:44:22.000Z",
+          "wordCount": 66,
+          "title": "セブン銀行 システム障害の影響は１０００口座で１億円超（TBS系（JNN）） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/",
+          "author": null,
+          "description": "GitHub CLI 2.0 supports extensions, allowing anyone to make custom commands that build on the core functionality of GitHub CLI. Our goal with GitHub CLI 1.0 was to build amazing tooling that allows you to more seamlessly complete the most common developer workflows end-to-end in the terminal. We ...",
+          "link": "https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/",
+          "publishedOn": "2021-08-24T16:24:41.000Z",
+          "wordCount": 658,
+          "title": "GitHub CLI 2.0 includes extensions! | The GitHub Blog"
+        },
+        {
+          "id": "https://engryouri.net/other/life/2335",
+          "author": null,
+          "description": "洗濯機の洗浄には酸素系と塩素系の2種類の洗浄剤が販売されています。それぞれの特徴を理解して組み合わせることで最高のパフォーマンスを発揮します。 はじめに 洗濯機の洗浄には、カビキラーのような次亜塩素酸を使うタイプや酸素系の粉を溶いて使用するタイプの2種類があります。それぞれ効果のキモとなるのが漂白剤...",
+          "link": "https://engryouri.net/other/life/2335",
+          "publishedOn": "2021-08-24T16:05:11.000Z",
+          "wordCount": 200,
+          "title": "過炭酸と次亜塩素酸を使った洗濯機の洗浄 | エンジニアのメソッド"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/2021nftaiml.html",
+          "author": null,
+          "description": "ガートナー「先進テクノロジのハイプ・サイクル：2021年」を発表。NFTやAIによるソフトウェア開発支援などは過度な期待、黎明期に量子MLなど 米調査会社のガートナーは、「先進テクノロジのハイプ・サイクル：2021年」を発表しました。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説...",
+          "link": "https://www.publickey1.jp/blog/21/2021nftaiml.html",
+          "publishedOn": "2021-08-24T14:40:09.000Z",
+          "wordCount": 139,
+          "title": "ガートナー「先進テクノロジのハイプ・サイクル：2021年」を発表。NFTやAIによるソフトウェア開発支援などは過度な期待、黎明期に量子MLなど － Publickey"
+        },
+        {
+          "id": "https://www.creativebloq.com/news/Paralympic_posters_toyko",
+          "author": null,
+          "description": "As another fantastically jam-packed Olympic games come to an end, the 2020 Paralympics are just getting started. This year's games come with an incredible set of posters that capture the strength and movement of the para-athletes. Tokyo-based studio, Goo Choki Par, designed these captivating prin...",
+          "link": "https://www.creativebloq.com/news/Paralympic_posters_toyko",
+          "publishedOn": "2021-08-24T14:00:11.000Z",
+          "wordCount": 980,
+          "title": "The Tokyo 2020 Paralympic Games posters are a thing of beauty | Creative Bloq"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/news/1345962.html",
+          "author": null,
+          "description": "マップボックス・ジャパン合同会社（Mapbox Japan）は8月24日、地図サービスを手掛ける国内企業7社とともに、広告配信で連携する「マップアドネットワーク」を立ち上げたと発表した。同ネットワークへ配信する「Mapbox広告プラットフォーム」を独自開発するとともに、地図のネイティブ広告を提供する「Mapbox広告」のベータサービスを提供開始した。参加企業はヤフー株式会社、株式会社ゼンリン、ジョルダン株式会社、株式会社ナビタイムジャパン、株式会社駅探、インクリメントP株式会社、株式会社マップル。",
+          "link": "https://internet.watch.impress.co.jp/docs/news/1345962.html",
+          "publishedOn": "2021-08-24T12:50:02.000Z",
+          "wordCount": 123,
+          "title": "ヤフー、ゼンリンら地図サービス7社が大集結した「地図広告ネットワーク」が始動、Mapbox Japanが立ち上げ - INTERNET Watch"
+        },
+        {
+          "id": "https://deep-learning-drizzle.github.io/index.html",
+          "author": null,
+          "description": "Deep Learning (Deep Neural Networks) S.No Course Name University/Instructor(s) Course WebPage Lecture Videos Year",
+          "link": "https://deep-learning-drizzle.github.io/index.html",
+          "publishedOn": "2021-08-24T12:17:08.000Z",
+          "wordCount": 5191,
+          "title": "Deep Learning Drizzle"
+        },
+        {
+          "id": "https://speakerdeck.com/ken5scal/sapuraitiensekiyuritei-infra-study-2nd-number-4-sekiyuriteienziniaringufalseshi-jie",
+          "author": null,
+          "description": "Transcript αϓϥΠνΣʔϯɾηΩϡϦςΟ ���������� 1 *OGSB�4UVEZ��OE���ʮηΩϡϦςΟΤϯδχΞϦϯάͷੈքʯ � ໊લ��ླ໦ݚޗ� !LFO�TDBM � � ॴଐ��� � -BZFS9גࣜձࣾ�$50ࣨ� � ࡾҪ෺࢈σδλϧΞηοτɾϚωδϝϯτग़޲� � དྷྺ� � ূ݊޲͚.BOBHFE�4FDVSJUZ�4FSWJDFɺՈܭ฽ɾΫϥ΢υձܭɺূ݊ձࣾ� � ݸਓͷ׆ಈ� � ಉਓʮ4FDVSFཱྀஂʯʹͯ1PEDBTUʮ4FDVSF�-JBJTPOʯ΍ಉਓࢽ࡞੒� � िץʮ๩͍͠ਓͷͨΊͷηΩϡϦςΟɾΠϯςϦδΣϯεʯൃߦ� � ॻ੶� � 0`3FJMMZʮ;FSP�...",
+          "link": "https://speakerdeck.com/ken5scal/sapuraitiensekiyuritei-infra-study-2nd-number-4-sekiyuriteienziniaringufalseshi-jie",
+          "publishedOn": "2021-08-24T11:58:35.000Z",
+          "wordCount": 1109,
+          "title": "サプライチェーン・セキュリティ Infra Study 2nd #4「セキュリティエンジニアリングの世界」 - Speaker Deck"
+        },
+        {
+          "id": "https://speakerdeck.com/mathetake/webassemblyfalsexian-zhuang-tozhan-wang-yan-yu-turutieinkarawasimade",
+          "author": null,
+          "description": "Transcript Takeshi Yoneda, Software Engineer, Tetrate.io Infra Study 2nd #4ʮηΩϡϦςΟΤϯδχΞϦϯάͷੈքʯ WebAssemblyͷݱঢ়ͱల๬ ~ݴޠπʔϧνΣΠϯ͔ΒWASI·Ͱ~ • Takeshi Yoneda (Ϛελέ) / Twitter, Github: @mathetake • Software Engineer at Tetrate.io • OSS dev: Envoy, Istio, Proxy-Wasm. • Stable maintainer of Envoy • C++ mainta...",
+          "link": "https://speakerdeck.com/mathetake/webassemblyfalsexian-zhuang-tozhan-wang-yan-yu-turutieinkarawasimade",
+          "publishedOn": "2021-08-24T11:58:16.000Z",
+          "wordCount": 954,
+          "title": "WebAssemblyの現状と展望 ~言語ツールチェインからWASIまで~ - Speaker Deck"
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/08/10-time-saving-features-and-settings-you-should-be-usin.html",
+          "author": null,
+          "description": "iPhoneを使用していると、些細なことに時間がかかります。 たとえば、カメラアプリは常にデフォルトの写真モードで開くので、スライドしてポートレートモードや動画モードなど他のモードにしなければなりません。 幸い、iPhoneの多くの基本的な作業をスピードアップして、時間を節約することができます。今回は、おすす...",
+          "link": "https://www.lifehacker.jp/2021/08/10-time-saving-features-and-settings-you-should-be-usin.html",
+          "publishedOn": "2021-08-24T11:51:30.000Z",
+          "wordCount": 77,
+          "title": "iPhoneの知らないと不便な時短機能10選 | ライフハッカー［日本版］"
+        },
+        {
+          "id": "https://www.4gamer.net/games/999/G999905/20210824054/",
+          "author": null,
+          "description": "［CEDEC 2021］ドワンゴの川上量生氏が「AI時代における現実の再定義」と「エンターテイメントの社会的意義」を語った基調講演をレポート ライター：大陸新秩序 2021年8月24日から26日の3日間，ゲーム開発者向けのカンファレンス「CEDEC 2021」がオンラインで開催されている。本稿では，その初日に実施された基調講演「V...",
+          "link": "https://www.4gamer.net/games/999/G999905/20210824054/",
+          "publishedOn": "2021-08-24T11:17:18.000Z",
+          "wordCount": 679,
+          "title": "［CEDEC 2021］ドワンゴの川上量生氏が「AI時代における現実の再定義」と「エンターテイメントの社会的意義」を語った基調講演をレポート"
+        },
+        {
+          "id": "https://engryouri.net/other/life/12468",
+          "author": null,
+          "description": "ちゃんと洗濯をしているのに衣類やタオルが臭うことはありませんか。これは菌によるものです。なので定期的に熱で殺菌すると嫌な臭いを防ぐことができます。 はじめに 清潔な生活を送るため、洗濯は欠かせない家事のひとつです。しかし、衣類やタオルはしっかり洗っていても生乾きの悪臭がしてきたりします。着た後に洗...",
+          "link": "https://engryouri.net/other/life/12468",
+          "publishedOn": "2021-08-24T11:11:34.000Z",
+          "wordCount": 260,
+          "title": "衣類やタオルからする悪臭の防ぎ方 | エンジニアのメソッド"
+        },
+        {
+          "id": "https://tech.mirrativ.stream/entry/2021/08/24/191503",
+          "author": null,
+          "description": "こんにちは、Unityエンジニアの菅谷です。今回はUnity as a Libraryの活用事例と開発テクニックとして、以前のLTで紹介した内容をまとめました。Mirrativでの活用事例を通してUnity as a Libraryの強みや課題を共有し、他のプロダクトでの導入の参考になれば幸いです。2021/6〜2021/7にMirrativ×Unity as a Libraryのテ...",
+          "link": "https://tech.mirrativ.stream/entry/2021/08/24/191503",
+          "publishedOn": "2021-08-24T10:17:19.000Z",
+          "wordCount": 283,
+          "title": "Mirrativ×Unity as a Library 活用事例と開発テクニック - Mirrativ tech blog"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1345895.html",
+          "author": null,
+          "description": "米Zoom Video Communicationsは8月23日（現地時間、以下同）、オンラインビデオ会議ソフト「Zoom」のクライアントアプリをアップデートした（v5.7.6）。Windows/Mac/Linux版は現在、同社のWebサイトから無償でダウンロード可能。モバイル版（iOS/Android）もそれぞれのアプリストアで提供される。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1345895.html",
+          "publishedOn": "2021-08-24T09:28:27.000Z",
+          "wordCount": 123,
+          "title": "「Zoom」ミーティングがデスクトップ⇔モバイル間で転送可能に ～v5.7.6以降で順次展開 - 窓の杜"
+        },
+        {
+          "id": "https://nazology.net/archives/95158",
+          "author": null,
+          "description": "Credit:Tom Ellis et al.,Nature Communications(2021) 全ての画像を見る 現在使われている材料は、ひび割れたりしても勝手に修復されることはありません。 一方私たちの体は、傷が付けば自然と治癒して元に戻ります。 もし、生きた材料を生み出せればメンテナンスの手間が減り、建築物の寿命を延ばせるかもしれません。...",
+          "link": "https://nazology.net/archives/95158",
+          "publishedOn": "2021-08-24T08:34:38.000Z",
+          "wordCount": 395,
+          "title": "自己修復できる「生きた材料」が開発される - ナゾロジー"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210824151056",
+          "author": null,
+          "description": "巨大ロボ除く",
+          "link": "https://anond.hatelabo.jp/20210824151056",
+          "publishedOn": "2021-08-24T07:34:00.000Z",
+          "wordCount": 202,
+          "title": "ネコ型じゃないよ。ヒト型のロボットって今ならだれを思い浮かべるよ？"
+        },
+        {
+          "id": "https://jp.reuters.com/article/southkorea-antitrust-tech-idJPKBN2FP0H8",
+          "author": null,
+          "description": "８月２４日、韓国は、米アルファベット傘下グーグルと米アップルに対し、アプリストアを利用する開発業者から売上高の一部を手数料として徴収する行為を制限する見通し。７月１３日撮影（２０２１年　ロイター/Dado Ruvic） ［ソウル　２４日　ロイター］ - 韓国は、米アルファベット傘下グーグルと米アップルに対し、ア...",
+          "link": "https://jp.reuters.com/article/southkorea-antitrust-tech-idJPKBN2FP0H8",
+          "publishedOn": "2021-08-24T07:21:12.000Z",
+          "wordCount": 25,
+          "title": "韓国、グーグル・アップルのアプリ配信手数料を制限へ | ロイター"
+        },
+        {
+          "id": "https://hagino3000.blogspot.com/2021/08/mlforwork2ndedition.html",
+          "author": null,
+          "description": "第2版がでました。 仕事ではじめる機械学習 第2版 オライリー・ジャパン (2021年04月) 有賀 康顕、中山 心太、西林 孝　著 電子版版/紙版両方あり 私は7章の「効果検証」と13章の「オンライン広告における機械学習」を執筆しました。13章は書き下し新章です。既に発売からは時間が経っているのでこの2つの章の裏話という...",
+          "link": "https://hagino3000.blogspot.com/2021/08/mlforwork2ndedition.html",
+          "publishedOn": "2021-08-24T05:00:59.000Z",
+          "wordCount": 365,
+          "title": "hagino3000's blog: ビジネス価値を生むことに責任を持つために実践している内容を『仕事ではじめる機械学習 第2版』に書きました"
+        },
+        {
+          "id": "https://digital-shift.jp/flash_news/FN210824_2",
+          "author": null,
+          "description": "SSSAPIはGoogleスプレッドシートの内容をJSON形式で返却するAPIを作成できるWebサービスだ。「ちょっとしたAPIがあるといいけど、 サーバを用意するほどではない」「クライアントに入力してほしいけど、 管理画面を作る余裕がない」といったときに、シンプルなAPIをノーコード/コードレスで作成することが可能だ。 SSSAP...",
+          "link": "https://digital-shift.jp/flash_news/FN210824_2",
+          "publishedOn": "2021-08-24T04:20:15.000Z",
+          "wordCount": 208,
+          "title": "ノーコード・コードレスでGoogleスプレッドシートからAPIを作成できる「SSSAPI」β版がリリース - Digital Shift Times（デジタル シフト タイムズ） その変革に勇気と希望を"
+        },
+        {
+          "id": "https://github.blog/jp/2021-08-24-securing-your-github-account-two-factor-authentication/",
+          "author": null,
+          "description": "GitHubの継続的な取り組みとして、GitHubの開発者コミュニティが最新のテクノロジーを活用して、悪意のある攻撃者によるセキュリティ侵害からアカウントを確実に保護できるよう、多額の投資を行ってきました。その一環として、デバイスの検証、不正アクセスを受けたパスワードの使用防止、WebAuthnのサポート、SSH Git操...",
+          "link": "https://github.blog/jp/2021-08-24-securing-your-github-account-two-factor-authentication/",
+          "publishedOn": "2021-08-24T02:12:17.000Z",
+          "wordCount": 148,
+          "title": "2要素認証によるGitHubアカウントの保護 - GitHubブログ"
+        },
+        {
+          "id": "https://zenn.dev/yano/articles/vim_plugin_top_10",
+          "author": null,
+          "description": "概要 自分は普段Neovimを使って(主にTypeScriptでの)開発を行っています。 NeovimでのTypeScript開発は環境を整えればVSCodeと遜色ない開発体験を得ることができると思っています。 また、Vimの操作に慣れれば一部の編集機能についてはVimの方が優れていると感じています。 この記事では自分の開発に欠かせないプラグイ...",
+          "link": "https://zenn.dev/yano/articles/vim_plugin_top_10",
+          "publishedOn": "2021-08-24T02:03:25.000Z",
+          "wordCount": 465,
+          "title": "無人島に持っていく(Neo)vimプラグイン10選 (TS開発環境編)"
+        },
+        {
+          "id": "https://hiasa.co.jp/godx/dxprject-book/",
+          "author": null,
+          "description": "DXコンサルタントの日淺と言います。 2019年からDX専門のコンサルティングファームを経営し、これまで30社以上の大小様々なDXプロジェクトを支援しています。 私が、2年前にDXコンサルティングファームを経営し始めたころは、「DXって何？」と言われることが多かったですが、今は、DXといえば、ビジネス用語として通じる...",
+          "link": "https://hiasa.co.jp/godx/dxprject-book/",
+          "publishedOn": "2021-08-24T02:00:19.000Z",
+          "wordCount": 245,
+          "title": "30社以上のDXを推進した私が厳選！これから読んで欲しい”DXプロジェクトのための本”5冊"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/yajiuma/1345704.html",
+          "author": null,
+          "description": "自分が死んだ時にフォロワーに通知する個人運営のTwitterのbotサービスが、ひっそりと終了していたことが明らかになった。",
+          "link": "https://internet.watch.impress.co.jp/docs/yajiuma/1345704.html",
+          "publishedOn": "2021-08-24T01:35:29.000Z",
+          "wordCount": 80,
+          "title": "自分の死後に遺言をツイートしてくれるTwitterの無料botサービス、ひっそりと終了【やじうまWatch】 - INTERNET Watch"
+        },
+        {
+          "id": "https://tech-blog.monotaro.com/entry/2021/08/24/100000",
+          "author": null,
+          "description": "こんにちは、データ基盤グループの吉田(id:syou6162)です。データ基盤グループでは安定してデータを利用できるように様々な取り組みを行なっています。本エントリでは、データ品質に問題がある場合にすぐに気付けるようにしたSQLによる監視の仕組みを紹介します。 背景 SQLを使った監視基盤の構築 実際の監視項目例 他チ...",
+          "link": "https://tech-blog.monotaro.com/entry/2021/08/24/100000",
+          "publishedOn": "2021-08-24T01:04:01.000Z",
+          "wordCount": 412,
+          "title": "SQLを使った監視でデータ基盤の品質を向上させる - MonotaRO Tech Blog"
+        },
+        {
+          "id": "https://aws.amazon.com/jp/blogs/news/create-a-pipeline-with-canary-deployments-for-amazon-ecs-using-aws-app-mesh/",
+          "author": null,
+          "description": "Amazon Web Services ブログ AWS App Mesh を使用した Amazon ECS でのカナリアデプロイパイプラインの作成 この記事は Create a pipeline with canary deployments for Amazon ECS using AWS App Mesh を翻訳したものです。 この記事では Amazon Elastic Container Service (Amazon ECS) で実行されるアプリケーション...",
+          "link": "https://aws.amazon.com/jp/blogs/news/create-a-pipeline-with-canary-deployments-for-amazon-ecs-using-aws-app-mesh/",
+          "publishedOn": "2021-08-24T00:01:33.000Z",
+          "wordCount": 1090,
+          "title": "AWS App Mesh を使用した Amazon ECS でのカナリアデプロイパイプラインの作成 | Amazon Web Services ブログ"
+        },
+        {
+          "id": "https://gigazine.net/news/20210824-asml-ultraviolet-lithography-machine/",
+          "author": null,
+          "description": "半導体を注文して納品されるまでにかかるリードタイムが20週間を超えるなど、半導体不足は悪化する一方です。最先端の半導体を製造するには1台が160億円以上する非常に高価な製造装置「EUV」が必要ですが、EUV装置の供給は「ASML」という時価総額30兆円以上のオランダの会社がほぼ独占しています。ASMLがどんな企業なの...",
+          "link": "https://gigazine.net/news/20210824-asml-ultraviolet-lithography-machine/",
+          "publishedOn": "2021-08-23T22:30:15.000Z",
+          "wordCount": 195,
+          "title": "世界中の半導体製造業者が頼る露光装置メーカー「ASML」はどんな会社なのか - GIGAZINE"
+        },
+        {
           "id": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345710.html",
           "author": null,
           "description": "“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
@@ -4052,6 +4304,15 @@
           "title": "コードで学ぶAWS入門"
         },
         {
+          "id": "https://octauthent.com/",
+          "author": null,
+          "description": "Password protection made easy Octauthent is the easiest way to add authentication to any website Create a login form in less than a minute Integrate it to your site without a single line of code Manage your users from your Octauthent dashboard Get started for free Demo Easy setup and integration ...",
+          "link": "https://octauthent.com/",
+          "publishedOn": "2021-08-06T15:01:37.000Z",
+          "wordCount": 343,
+          "title": "Octauthent - Password protection made easy"
+        },
+        {
           "id": "https://ferret-plus.com//39985",
           "author": null,
           "description": "営まれている業種によってはサイトに予約機能を追加することで、従来なら人が行っていた予約の受付から顧客の管理までの業務すべてを自動で行えるため、大きな業務効率化になりえるでしょう。 WordPressでも、プラグインを活用すれば予約システムを設けることができます。また、サイトに予約システムを設置する別の方法...",
@@ -7236,258 +7497,6 @@
           "publishedOn": "2021-07-26T12:47:00.000Z",
           "wordCount": 303,
           "title": "ThinkPadトラックポイントキーボード II レビュー。外でもデスクトップPCでも使える – すまほん!!"
-        },
-        {
-          "id": "https://speakerdeck.com/kaojiri/kontenajian-shi-tutehe-jian-rufalse-chu-xin-zhe-bian",
-          "author": null,
-          "description": "Transcript コンテナ監視って何見るの？ ～初心者編～ Koji Aizawa 2021/07/26 OpsJAWS Agenda 1. コンテナの課題とオーケストレーションの必要性 2. 監視の基本的な考え方 a. アプローチの仕方 b. コンテナの状態変化を継続的に把握する重要性 3. まとめ コンテナって何見ればいいの？ コンテナって何を見ればいいの？ ...",
-          "link": "https://speakerdeck.com/kaojiri/kontenajian-shi-tutehe-jian-rufalse-chu-xin-zhe-bian",
-          "publishedOn": "2021-07-26T12:02:53.000Z",
-          "wordCount": 444,
-          "title": "コンテナ監視って何見るの？～初心者編～ - Speaker Deck"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/f7830ff419710477d0c2eb549b60bb0d8614ad9c",
-          "author": null,
-          "description": "東京五輪・男子飛び込みのイギリス代表トーマス・デーリーが21日に自身のYouTubeチャンネル「Tom Daley」を更新。選手村の自室や選手村の様子を公開し、反響を呼んでいる。 【動画】「日本はいい仕事をした」と喝采…英国代表デーリーが公開した五輪選手村の自室＆美景ショット 「五輪選手村ツアー」と題した動画をアップ...",
-          "link": "https://news.yahoo.co.jp/articles/f7830ff419710477d0c2eb549b60bb0d8614ad9c",
-          "publishedOn": "2021-07-26T11:50:56.000Z",
-          "wordCount": 71,
-          "title": "選手村の多機能トイレに驚き　英国代表の自室公開に喝采「日本に金メダルを授与したい」（ENCOUNT） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/26/news134.html",
-          "author": null,
-          "description": "「第62回国際数学オリンピック」で日本代表全員がメダルを獲得、そのうち神尾悠陽さん（開成高）が金メダルを取り、世界一に輝いた。 東京オリンピック（東京五輪）が7月23日に始まり、柔道の阿部兄妹が金メダルを獲得するなど日本国内が盛り上がる中、18日から23日まで行われた「第62回国際数学オリンピック」でも日本...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/26/news134.html",
-          "publishedOn": "2021-07-26T11:29:11.000Z",
-          "wordCount": 155,
-          "title": "数学オリンピックで日本代表全員がメダル　開成高の神尾悠陽さんが金、日本勢2年ぶり - ITmedia NEWS"
-        },
-        {
-          "id": "https://www.designencyclopedia.io/",
-          "author": null,
-          "description": "The World's Largest Figma Design SystemThe Design Encyclopedia is the world's only design system in existence to have complete interaction patterns, page templates, and over 100 charts and visualizations to help you design faster than ever before.",
-          "link": "https://www.designencyclopedia.io/",
-          "publishedOn": "2021-07-26T10:50:37.000Z",
-          "wordCount": 205,
-          "title": "The Design Encyclopedia – Figma UI Kit & Design System"
-        },
-        {
-          "id": "https://zenn.dev/yuku/articles/a9edd53e13bb26",
-          "author": null,
-          "description": "Nuxt.js で開発されていたAI受診相談ユビーのフロントエンドを Next.js で作り直しました。 まだまだ仮説検証を繰り返すフェーズのスタートアップのため、機能開発を止めて一気に置き換えることはできず、機能ごとに少しずつ置き換えてリリースをしました。結果、5人のプロダクト開発チームによる機能開発と並走して、全...",
-          "link": "https://zenn.dev/yuku/articles/a9edd53e13bb26",
-          "publishedOn": "2021-07-26T10:22:40.000Z",
-          "wordCount": 312,
-          "title": "150万MAUのNuxt.js製サービスを機能開発を止めずに1ヶ月&1人でNext.jsに置き換えた話"
-        },
-        {
-          "id": "https://techfeed.io/entries/60fe7f903f912502e4022fbe",
-          "author": null,
-          "description": "7月25日、SRE Weekly Issue #280が公開された。 SRE Weeklyは、SRE（Site Reliability Engineering）に関する注目情報を紹介するメールマガジン。 堅牢性の原則がもたらす弊害 The Harmful Consequences of the Robustness Principle 堅牢性の原則（送信するものに関しては厳密に、受信するものに関しては寛容に）は成熟...",
-          "link": "https://techfeed.io/entries/60fe7f903f912502e4022fbe",
-          "publishedOn": "2021-07-26T10:09:38.000Z",
-          "wordCount": 158,
-          "title": "SREに興味のある方向け、SRE Weekly #280が公開 - 「堅牢性の原則がもたらす弊害」など"
-        },
-        {
-          "id": "https://news.mynavi.jp/article/20210726-1931040/",
-          "author": null,
-          "description": "Haikuは米国時間2021年7月25日、Haiku R1/ベータ3をリリースした。ダウンロードページに並ぶミラーサイトやBitTorrentからダウンロードできる。なお、HaikuはQEMUやVMWare、Virtual Boxでも動作可能。R1/ベータ2利用者はpkgmanコマンドでアップグレードできる。 Haiku R1/ベータ3のデスクトップ Haiku R1/ベータ3はイン...",
-          "link": "https://news.mynavi.jp/article/20210726-1931040/",
-          "publishedOn": "2021-07-26T10:09:24.000Z",
-          "wordCount": 299,
-          "title": "オープンソースOS「Haiku R1/ベータ3」が公開 | TECH+"
-        },
-        {
-          "id": "https://news.mynavi.jp/article/20210726-1930922/",
-          "author": null,
-          "description": "Windows 10のライセンス認証に必要となる「プロダクトキー」は、PCのパッケージや付属するカードに記載されています。こうしたラベルを確認できない場合でも、コマンドプロンプトやPowerShellでプロダクトキーを表示することが可能です。自作PCの場合はフリーソフトの「Windows Product Key View」を使うことで確認でき...",
-          "link": "https://news.mynavi.jp/article/20210726-1930922/",
-          "publishedOn": "2021-07-26T09:24:58.000Z",
-          "wordCount": 469,
-          "title": "Windows 10のプロダクトキーを確認する方法 | マイナビニュース"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1340088.html",
-          "author": null,
-          "description": "Microsoftは23日(現地時間)、Microsoft 365アプリでのInternet Explorer 11(IE11)のサポートについて、2021年8月17日をもって終了すると告知している。2020年より予告していたが、改めて周知を行なったかたち。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1340088.html",
-          "publishedOn": "2021-07-26T08:22:14.000Z",
-          "wordCount": 114,
-          "title": "Microsoft 365のIE11サポートは8月17日まで。改めて告知 - PC Watch"
-        },
-        {
-          "id": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
-          "author": null,
-          "description": "So! Rust futures! Easy peasy lemon squeezy. Until it's not. So let's do the easy thing, and then instead of waiting for the hard thing to sneak up on us, we'll go for it intentionally. Cool bear's hot tip",
-          "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
-          "publishedOn": "2021-07-26T07:42:18.000Z",
-          "wordCount": 14455,
-          "title": "Understanding Rust futures by going way too deep - fasterthanli.me"
-        },
-        {
-          "id": "https://cgworld.jp/interview/202107-cygames-mocap.html",
-          "author": null,
-          "description": "トップ ＞ インタビュー ＞ 大阪Cygamesが世界最大級のモーションキャプチャスタジオを建設中！　スタジオの立ち上げスタッフを大募集！ [PR] ハイエンドなコンシューマーゲームの開発を専門に活動する大阪Cygamesが、新たなモーションキャプチャスタジオを今秋のオープンを目指し建設中だ。最先端の機材を世界最大級の...",
-          "link": "https://cgworld.jp/interview/202107-cygames-mocap.html",
-          "publishedOn": "2021-07-26T07:32:54.000Z",
-          "wordCount": 385,
-          "title": "大阪Cygamesが世界最大級のモーションキャプチャスタジオを建設中！　スタジオの立ち上げスタッフを大募集！ | インタビュー | CGWORLD.jp"
-        },
-        {
-          "id": "https://ai-scholar.tech/articles/gnn/GNN_review",
-          "author": null,
-          "description": "3つの要点 ✔️ GNNの表現力の強さから、急速にアプリケーションが進んでいる。 ✔️ GNNの柔軟かつ複雑な構造への、従来深層学習手法の展開についてのレビュー ✔️ 一方で、深層学習に共通、グラフに固有の課題も継続中 Graph Neural Networks: A Review of Methods and Applications written by Jie Zhou, Ganqu Cui, Shengdin...",
-          "link": "https://ai-scholar.tech/articles/gnn/GNN_review",
-          "publishedOn": "2021-07-26T07:24:19.000Z",
-          "wordCount": 578,
-          "title": "グラフってこんなにすごい！深層学習との融合をレビュー | AI-SCHOLAR | AI：(人工知能)論文・技術情報メディア"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/enterprise/articles/2107/26/news067.html",
-          "author": null,
-          "description": "DXに取り組む企業が増える中、国内ITサービス市場ではベンダーの勢力図にも変化が起きているようだ。IDC Japanが興味深い調査結果を発表したのを機に、同市場の最新動向を筆者なりに考察してみたい。",
-          "link": "https://www.itmedia.co.jp/enterprise/articles/2107/26/news067.html",
-          "publishedOn": "2021-07-26T07:18:03.000Z",
-          "wordCount": 139,
-          "title": "NTTデータ躍進、SIerの“御三家”に波乱か　システム市場に起きる3つの変化：Weekly Memo - ITmedia エンタープライズ"
-        },
-        {
-          "id": "https://techlife.cookpad.com/entry/2021/07/26/160000",
-          "author": null,
-          "description": "レシピ事業サービス基盤部で部長をやっています、新井(@SpicyCoffee66)です。引越しを機に MtG のカードをほとんど売ったはずなのに、そのときは存在しなかったポケモンカードのデッキが手元にあります。なぜ？ 私は 2017 卒のエンジニアとしてクックパッドに入社し、様々な業務を経験した後に 2020 年の 8 月から部長と...",
-          "link": "https://techlife.cookpad.com/entry/2021/07/26/160000",
-          "publishedOn": "2021-07-26T07:04:41.000Z",
-          "wordCount": 473,
-          "title": "マイクロマネジメントは悪か？よりよい組織をつくるためのマネジメント形態についての考察 - クックパッド開発者ブログ"
-        },
-        {
-          "id": "https://future-architect.github.io/articles/20210726b/",
-          "author": null,
-          "description": "はじめにTIG DXユニット真野です。GoのORマッパー連載 の1本目です。 テーマはorm-ishなデータベースアクセスレイヤーライブラリであるREL(go-rel/rel)です。他のメジャーなORMライブラリに比べるとまだまだGitHub Stars数は少なくマイナーかもしれませんが、いくつか興味深い点があったので最後までお付き合いいただけ...",
-          "link": "https://future-architect.github.io/articles/20210726b/",
-          "publishedOn": "2021-07-26T06:25:51.000Z",
-          "wordCount": 869,
-          "title": "GoのモダンDBアクセスレイヤーRELを触って | フューチャー技術ブログ"
-        },
-        {
-          "id": "https://robotstart.info/2021/07/26/grid-qcvc.html",
-          "author": null,
-          "description": "シェア 0 ツイート 0 はてブ 0 株式会社グリッドの量子アルゴリズム研究チームは、量子機械学習器は過学習しにくいという性質を、詳細な数値実験と統計的機械学習の理論を通して示すことに成功した。また、この成果を論文として発表し、世界的に権威ある学術雑誌に掲載されたことを発表した。 今回の発表のポイントは「...",
-          "link": "https://robotstart.info/2021/07/26/grid-qcvc.html",
-          "publishedOn": "2021-07-26T06:02:34.000Z",
-          "wordCount": 867,
-          "title": "量子コンピュータは「過学習」しにくい　グリッドが量子AIの研究結果を発表「ACM」が掲載　量⼦機械学習器のVC次元を初めて確立 | ロボスタ"
-        },
-        {
-          "id": "https://da-nce.jp/2021/07/26/datascientist-questionnaire2021/",
-          "author": null,
-          "description": "データ分析とビジネス活用のプロとして、さまざまな業界フィールドで活躍する「データサイエンティスト」。 スキルセットや必要な知識などが語られることはあるものの、まだはっきりとした定義がなく、いったいどんな人たちなのか？と疑問を持つ人も少なくないのでは。 そこで本企画では、企業で働くデータサイエンティ...",
-          "link": "https://da-nce.jp/2021/07/26/datascientist-questionnaire2021/",
-          "publishedOn": "2021-07-26T05:58:12.000Z",
-          "wordCount": 2003,
-          "title": "22社、52人のデータサイエンティストに聞いてみた！「どんなお仕事してますか？」 | Da-nce"
-        },
-        {
-          "id": "https://note.com/ku_marin/n/n60ebdb19ebd0",
-          "author": null,
-          "description": "私が一番最初にAndroid アプリをデザインしたのが2016年の初夏頃で、その頃はまだiOS・Android とデザインが違うのが主流でしたが、2021年現在のアプリはiOS もAndroid もプラットフォームごとの細かな違いはあれどほぼ同じデザインが主流となっています。 これは2016年の10月にAndroid APIがBottomNavigationView に対...",
-          "link": "https://note.com/ku_marin/n/n60ebdb19ebd0",
-          "publishedOn": "2021-07-26T02:05:12.000Z",
-          "wordCount": 237,
-          "title": "iOS とAndroidの違い クロスプラットフォームのアプリデザインで特に気をつけるべき点｜marin｜note"
-        },
-        {
-          "id": "https://wirelesswire.jp/2021/07/80265/",
-          "author": null,
-          "description": "「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる 2021.07.26 Updated by Ryo Shimizu on July 26, 2021, 07:12 am JST 最近のプログラミングの新しい波は微分可能プログラミング(differentiable programming)である。 微分可能プログラミングとは、簡単...",
-          "link": "https://wirelesswire.jp/2021/07/80265/",
-          "publishedOn": "2021-07-26T01:45:38.000Z",
-          "wordCount": 176,
-          "title": "「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる - WirelessWire News（ワイヤレスワイヤーニュース）"
-        },
-        {
-          "id": "https://blog.tady.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E7%9A%84%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E7%90%86%E6%83%B3%E7%9A%84%E3%81%AA%E9%85%8D%E5%88%86-828b20c8d216",
-          "author": null,
-          "description": "背景SRE という概念が生まれてから数多くの開発チームで「ソフトウェアエンジニアリングの手法で運用を改善する営み」が行われてきた。 同時に、技術的負債が経営レベルで認知されるようになり、日常の会話の中でも長期・短期のトレードオフを念頭に置いたプロジェクト推進がやりやすくなったのは言うまでもない。 しか...",
-          "link": "https://blog.tady.jp/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BA%BA%E7%9A%84%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%AE%E7%90%86%E6%83%B3%E7%9A%84%E3%81%AA%E9%85%8D%E5%88%86-828b20c8d216",
-          "publishedOn": "2021-07-26T01:14:49.000Z",
-          "wordCount": 222,
-          "title": "ソフトウェア開発における人的リソースの理想的な配分 - Masato TADA - Medium"
-        },
-        {
-          "id": "https://qiita.com/baby-degu/items/05cf809d4d992923020d",
-          "author": null,
-          "description": "Photo by Jexo on Unsplash はじめに Pythonは、主にそのシンプルさと習得のしやすさから、最近では非常に人気があります。 データサイエンスや機械学習、ウェブ開発、スクリプト記述、自動化など、幅広い分野で利用することができます。 この記事はかなり長いので、すぐ始めましょう。 1. forループのelse条件 今までに...",
-          "link": "https://qiita.com/baby-degu/items/05cf809d4d992923020d",
-          "publishedOn": "2021-07-26T00:04:35.000Z",
-          "wordCount": 1389,
-          "title": "朝飯前に学べる！便利なPythonのヒント100選【前編】 - Qiita"
-        },
-        {
-          "id": "https://hichihara.hatenablog.com/entry/2021/07/26/070000",
-          "author": null,
-          "description": "最高の夏を迎える中庭 前回の記事投稿からだいぶあいていますが、あいかわらずGAFAではない会社でソフトウェアエンジニアをしています。今回は最近の個人的な大仕事であった家を買った話を書きます。ちなみにこの記事にソフトウェアエンジニア要素はほぼないので釣りタイトルになります、ただプロダクト設計やプロジェク...",
-          "link": "https://hichihara.hatenablog.com/entry/2021/07/26/070000",
-          "publishedOn": "2021-07-25T23:55:41.000Z",
-          "wordCount": 221,
-          "title": "ソフトウェアエンジニア、家を買う - hichihara note"
-        },
-        {
-          "id": "https://mag.executive.itmedia.co.jp/executive/articles/2107/26/news017.html",
-          "author": null,
-          "description": "アイティメディアが主催するライブ配信セミナー「ITmedia DX Summit vol. 8」Day4の基調講演には、サイバーディフェンス研究所 専務理事 上級分析官の名和利男氏が登場。『組織の内部を起点にしたサイバー侵害活動を見逃す「現場の問題点」』をテーマに講演した。 境界防御が廃れ、境界防御自体が脆弱に 境界防御とは、...",
-          "link": "https://mag.executive.itmedia.co.jp/executive/articles/2107/26/news017.html",
-          "publishedOn": "2021-07-25T23:03:25.000Z",
-          "wordCount": 344,
-          "title": "サイバー侵害が発生して当然ともいえる状況では発想や考え方を変えることが重要――サイバーディフェンス研究所 名和利男氏：ITmedia エグゼクティブセミナーリポート（1/2 ページ） - ITmedia エグゼクティブ"
-        },
-        {
-          "id": "https://github.com/yuru7/PlemolJP",
-          "author": null,
-          "description": "IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)",
-          "link": "https://github.com/yuru7/PlemolJP",
-          "publishedOn": "2021-07-25T14:20:37.000Z",
-          "wordCount": 592,
-          "title": "GitHub - yuru7/PlemolJP: IBM Plex Mono と IBM Plex Sans JP を合成したプログラミングフォント PlemolJP (プレモル ジェイピー)"
-        },
-        {
-          "id": "https://brand.taisho.co.jp/semper/trivia/trivia02.html",
-          "author": null,
-          "description": "せっかくの楽しい旅行も乗り物酔いになってしまっては、台無しです。 よほどひどく酔いやすい方でなければ、乗り物酔いは防ぐことができます。 乗り物酔いにならないために気を付けることを、乗り物酔いになる原因、出発前や移動中の過ごし方、乗り物に酔ってしまったときの対処法を見ていきましょう。 同じ乗り物に同じ...",
-          "link": "https://brand.taisho.co.jp/semper/trivia/trivia02.html",
-          "publishedOn": "2021-07-25T13:18:37.000Z",
-          "wordCount": 128,
-          "title": "乗り物酔いは防げない？：乗り物酔いの豆知識 ｜ センパア ｜ 大正製薬"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2021/07/highly-fatal-monkey-b-virus.html",
-          "author": null,
-          "description": "中国で｢モンキーＢウイルス｣の死者が報告される2021.07.25 22:00 Ed Cara - Gizmodo US ［原文］ （ 岩田リョウコ ） Photo: Shutterstock これが広がったら、悪夢...。 先週、中国でモンキーBウィルスでの死亡例が報告されました。死亡した人は獣医師で、彼が取り扱う動物の中に猿が含まれていて、その猿から感染したと...",
-          "link": "https://www.gizmodo.jp/2021/07/highly-fatal-monkey-b-virus.html",
-          "publishedOn": "2021-07-25T13:16:01.000Z",
-          "wordCount": 69,
-          "title": "中国で｢モンキーＢウイルス｣の死者が報告される | ギズモード・ジャパン"
-        },
-        {
-          "id": "https://note.com/takasu/n/nd94c48c0b26a",
-          "author": null,
-          "description": "僕の友達は　@ochyai @GOROman @etsuko_ichihara 等やりたいことを仕事にしてる人も多いけど、ほぼ全員が会社員やプロ研究者からの独立組。 楽してたくさん稼ぐ話、マジ騙された話以外まったく聞かないので、会社大事 未経験フリーランスを席捲する「カジュアルな情報商材」https://t.co/eHkJYRlsH8 — 高須正和@NT深圳コ...",
-          "link": "https://note.com/takasu/n/nd94c48c0b26a",
-          "publishedOn": "2021-07-25T13:10:55.000Z",
-          "wordCount": 111,
-          "title": "会社員やることで「社会のルールを知れること」の良さはもっときちんと広められるべきだ｜TAKASU Masakazu｜note"
-        },
-        {
-          "id": "https://twitter.com/akira_you/status/1419228947766644736",
-          "author": null,
-          "description": "ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2",
-          "link": "https://twitter.com/akira_you/status/1419228947766644736",
-          "publishedOn": "2021-07-25T12:54:35.000Z",
-          "wordCount": 196,
-          "title": "akira_you on Twitter: \"ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2\""
         }
       ]
     },
@@ -7510,15 +7519,6 @@
           "publishedOn": "2021-07-27T22:45:28.000Z",
           "wordCount": 214,
           "title": "共感を生み出すストーリーテリングのための７つの要素"
-        },
-        {
-          "id": "http://admin.uxmilk.jp/?p=73430",
-          "author": "MaryuyamaMio",
-          "description": "今日までに無数のデジタル製品が作られてきました。そして、その結果として世界中で意図しない悪影響が起きています。韓国では政府がインターネット中毒者のリハビリセンターを設立し、インドでは多くの人が自撮り中に死亡し、アメリカで",
-          "link": "https://uxmilk.jp/73430",
-          "publishedOn": "2021-07-25T22:45:27.000Z",
-          "wordCount": 111,
-          "title": "アテンションエコノミーにおける倫理的なデザインの重要性"
         }
       ]
     },
@@ -7527,6 +7527,15 @@
       "feedUrl": "https://blog.angular-university.io/rss",
       "siteUrl": "https://blog.angular-university.io/",
       "articles": [
+        {
+          "id": "612501c779d996003b7c6e1f",
+          "author": "Angular University",
+          "description": "The Angular University is currently hiring a new remote full stack developer (full-time) for a brand new project in the online course education space.\nThe project is the platform onlinecoursehost.com. \nAs we eat our own dog food, the developer needs to be very familiar with Angular and NgRx, 😉 and",
+          "link": "https://blog.angular-university.io/the-angular-university-is-hiring-an-angular-developer/",
+          "publishedOn": "2021-08-24T14:51:26.000Z",
+          "wordCount": 464,
+          "title": "The Angular University is Hiring an Angular Developer"
+        },
         {
           "id": "60ffc849b90f9e003b92020d",
           "author": "Angular University",
@@ -7543,6 +7552,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=350486",
+          "author": "Chris Coyier",
+          "description": "This is a bit of advice for developers on Macs I’ve heard quite a few times, and I’ll echo it: go into System Preferences > General > Show scroll bars and set to always. This isn’t about you, it’s …\nThe post Scrollbar Reflowing appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/scrollbar-reflowing/",
+          "publishedOn": "2021-08-24T19:13:30.000Z",
+          "wordCount": 694,
+          "title": "Scrollbar Reflowing"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350253",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nFree event hosted by Netlify coming up next week (Wednesday, August 25th): Architecting with Next.js. It’s just a little half-day thing. No brainer.\nJoin us for a special event where we’ll highlight business \n…\nThe post Architecting With Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.netlify.com/events/architecting-with-nextjs",
+          "publishedOn": "2021-08-24T19:12:23.000Z",
+          "wordCount": 441,
+          "title": "Architecting With Next.js"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346597",
+          "author": "Charlie Gerard",
+          "description": "Solid is a reactive JavaScript library for creating user interfaces without a virtual DOM. It compiles templates down to real DOM nodes once and wraps updates in fine-grained reactions so that when state updates, only the related code runs.\nThis …\nThe post Introduction to the Solid JavaScript Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/introduction-to-the-solid-javascript-library/",
+          "publishedOn": "2021-08-24T14:30:50.000Z",
+          "wordCount": 1860,
+          "title": "Introduction to the Solid JavaScript Library"
+        },
         {
           "id": "https://css-tricks.com/?p=350264",
           "author": "Chris Coyier",
@@ -8131,6 +8167,60 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/mwinterer/provide-services-to-dynamic-angular-components-3792",
+          "author": "mwinterer",
+          "description": "In Angular, it is possible to load and view components dynamically at runtime by calling viewContainerRef.createComponent(factory) on an instance of ViewContainerRef, passing a factory that can create an instance of the component.\nBy passing an Injector instance as third argument, it is possible to provide additional services (programmatically) to the dynamically loaded component (and its sub-components), e.g.:\nconst factory = factoryResolver.resolveComponentFactory(MyComponent);\n\nconst injector = Injector.create({\n    providers: [\n        { provide: AdditionalService, useClass: AdditionalService },\n    ],\n    parent: parentInjector\n});\n\nconst componentRef = viewContainerRef.createComponent(factory, undefined, injector);\n\nHowever, the additional service is only instantiated, if the dynamic…",
+          "link": "https://dev.to/mwinterer/provide-services-to-dynamic-angular-components-3792",
+          "publishedOn": "2021-08-24T22:26:48.000Z",
+          "wordCount": 916,
+          "title": "Provide services to dynamic angular components"
+        },
+        {
+          "id": "https://dev.to/enappd/how-to-generate-and-download-pdf-in-ionic-5-apps-2pa",
+          "author": "Abhijeet Rathore",
+          "description": "In this tutorial we will learn how we can generate PDF in an Ionic app, and download it to the device. You might have ordered food or any item from some e-commerce application and after ordering you must have downloaded the invoice/bill for it as a proof. Similarly there are several other scenarios where your app might need a PDF generation and download facility.\nWe will understand this feature through Enappd’s Grocery Application workflow, where we order some items, then generate an invoice/bill and download it in the form of PDF. You can follow the same steps to create the PDF generation feature in your own Ionic app.\nTo know more about Grocery Shopping Platform you can read Enappd’s Grocery Shopping Platform Blog or check the feature video. Before moving on, we will understand ordering …",
+          "link": "https://dev.to/enappd/how-to-generate-and-download-pdf-in-ionic-5-apps-2pa",
+          "publishedOn": "2021-08-24T16:50:37.000Z",
+          "wordCount": 2296,
+          "title": "How to Generate and download PDF in Ionic 5 apps"
+        },
+        {
+          "id": "https://dev.to/jscrambler/working-with-angular-formarray-26l5",
+          "author": "Jay",
+          "description": "Forms are an integral part of the web application development scheme, and there are many different ways we can use a form. For instance, you can have multiple forms on a page or you can have just a single form. Depending on the use case the form will have, it might even be required for the forms to be created dynamically. In this post, we’ll explore exactly this topic and go over the Angular FormArray in reactive forms.\nIn our previous blog post, you created Angular reactive forms using FormControl and FormGroups APIs. However, sometimes you might have the need to repeat a form multiple times dynamically based on how the user interacts with the user interface. Angular FormArray is a container that allows you to do that since it can be used to collect dynamically created controls.\nFormArray…",
+          "link": "https://dev.to/jscrambler/working-with-angular-formarray-26l5",
+          "publishedOn": "2021-08-24T14:47:05.000Z",
+          "wordCount": 3138,
+          "title": "Working with Angular FormArray"
+        },
+        {
+          "id": "https://dev.to/tarungurang/10-tips-on-how-you-should-choose-front-end-technology-178m",
+          "author": "Tarun Gurang",
+          "description": "To get atop-notch software product or application with fine quality depends on how you make the decisions while its development. And among those crucial decisions choosing the front-end technology is the one. The right technology stack always keeps you on track and helps in meeting customer expectations. Understanding the customer requirements and giving an appealing look that could catch one’s eyeballs would make great sense. Over time, Angular has become one of the desirable choices for front-end developments in the angular frontend development companies. This is due to the light-weight and impeccable features of Angular that have created a stir in the market. Not only these, but Angular applications are also known for their high-performance, security, and scalability factors.\nWithout kn…",
+          "link": "https://dev.to/tarungurang/10-tips-on-how-you-should-choose-front-end-technology-178m",
+          "publishedOn": "2021-08-24T09:53:03.000Z",
+          "wordCount": 2778,
+          "title": "10 Tips on How You Should Choose Front-End Technology"
+        },
+        {
+          "id": "https://dev.to/dannielnavas/short-links-en-angular-3o69",
+          "author": "Danniel Navas",
+          "description": "En muchas ocasiones importando nuestros módulos o diferentes funcionalidades custom quedamos con rutas como estas:\nimport { Youtube } from '../../../core/models/youtube/youtube';\n\nlo que nos ocasiona un desagrado visual y a futuro algo poco mantenible. \nPara esto utilizaremos lo denominado short links y mejoraremos la visual de nuestras importaciones, solo necesitaremos nuestro file tsconfig.json el cual se encuentra en la raíz de nuestro proyecto.\nSobre este empezaremos agregando el atributo paths  dentro de compilerOptions, en este crearemos un objeto json que contendrá todas las rutas a las cuales queremos acortar la importación, como resultado tendremos algo parecido a esto: \n\nConfigurado la próxima vez que importemos será algo parecido a:\nimport { Youtube } from '@core/models/youtube/youtube';\n\nEspero te ayudara con una mejora sobre tus proyectos actuales y próximos.\nGracias por leer.",
+          "link": "https://dev.to/dannielnavas/short-links-en-angular-3o69",
+          "publishedOn": "2021-08-24T01:39:18.000Z",
+          "wordCount": 499,
+          "title": "Short links en angular"
+        },
+        {
+          "id": "https://dev.to/this-is-learning/ngrx-best-practices-series-0-introduction-4p36",
+          "author": "Rainer Hahnekamp",
+          "description": "Table of Contents\n\n\n\nA long-awaited solution for state management\nWhy should you use state management?\nIntroducing Eternal\nBefore we start...\nThis is the first in a series of articles about building reactive applications in Angular using NgRx state management. I want to begin by laying out my personal relationship with NgRx and introduce an example application that we will use throughout the series. You should already be familiar with common NgRx concepts to get the most out of these articles. In later articles, I will share the good and bad things I have learned about state management and illustrate best practices for NgRx.\nIf you prefer watching over reading, here is the video version:\n\n\n\n\nYou can find  the sources files on \n / \n        ngrx-best-practices\n      \n    \n\n\n\nSince the year 2…",
+          "link": "https://dev.to/this-is-learning/ngrx-best-practices-series-0-introduction-4p36",
+          "publishedOn": "2021-08-23T20:15:12.000Z",
+          "wordCount": 1204,
+          "title": "NgRx Best Practices Series: 0. Introduction"
+        },
         {
           "id": "https://dev.to/rainerhahnekamp/ngrx-best-practices-series-0-introduction-4p36",
           "author": "Rainer Hahnekamp",
@@ -9345,42 +9435,6 @@
           "publishedOn": "2021-07-26T14:29:33.000Z",
           "wordCount": 684,
           "title": "PrimeNG I18N API Usage with ngx-translate"
-        },
-        {
-          "id": "https://dev.to/bishalchettri/angular-bindings-2g",
-          "author": "Bishal Chettri",
-          "description": "Where does angular store the informations regarding which elements or variables are binded to the UI?",
-          "link": "https://dev.to/bishalchettri/angular-bindings-2g",
-          "publishedOn": "2021-07-26T11:00:04.000Z",
-          "wordCount": 337,
-          "title": "ANGULAR BINDINGS"
-        },
-        {
-          "id": "https://dev.to/this-is-angular/unit-testing-spies-and-mocks-42bk",
-          "author": "Jesús Rodríguez",
-          "description": "We have done a unit test of a calculator in the previous part. But we never mentioned what does unit means in unit test.\nThere are several ways to test our application:\nUnit Test: We test one piece of code in isolation. That means, without its dependencies. A component without its services or the other components used in the template. A service without other services, etc.\nIntegration Test: Here we test that a several pieces works in conjuction. Some people agrees that testing that a component works with its template is considered an integration testing. But more on that in later parts.\nEnd to End: In a end to end (e2e), we assert that our use cases works from start to finish. That means server calls, authentication and other stuff. We might talk about this in a different series.\nIn angula…",
-          "link": "https://dev.to/this-is-angular/unit-testing-spies-and-mocks-42bk",
-          "publishedOn": "2021-07-25T19:33:55.000Z",
-          "wordCount": 2450,
-          "title": "Unit Testing - Spies and Mocks"
-        },
-        {
-          "id": "https://dev.to/foxandxss/unit-testing-spies-and-mocks-42bk",
-          "author": "Jesús Rodríguez",
-          "description": "We have done a unit test of a calculator in the previous part. But we never mentioned what does unit means in unit test.\nThere are several ways to test our application:\nUnit Test: We test one piece of code in isolation. That means, without its dependencies. A component without its services or the other components used in the template. A service without other services, etc.\nIntegration Test: Here we test that a several pieces works in conjuction. Some people agrees that testing that a component works with its template is considered an integration testing. But more on that in later parts.\nEnd to End: In a end to end (e2e), we assert that our use cases works from start to finish. That means server calls, authentication and other stuff. We might talk about this in a different series.\nIn angula…",
-          "link": "https://dev.to/foxandxss/unit-testing-spies-and-mocks-42bk",
-          "publishedOn": "2021-07-25T19:33:55.000Z",
-          "wordCount": 2420,
-          "title": "Unit Testing - Spies and Mocks"
-        },
-        {
-          "id": "https://dev.to/juliandierkes/automatically-sync-url-path-and-query-params-with-angular-component-fields-1eif",
-          "author": "Julian Dierkes",
-          "description": "Wouldn't it be nice if a user of you Angular application could just send a link to another person ant they would end up seeing the exact same things on his screen?\nUsing the Angular router you can accomplish that even if you have very dynamic views.\nThe concept behind this is deep linking.\nIf you are already familiar with deep linking and how to implement it with the Angular Router continue here.\nImagine you have built a webapp for a library, and a user is browsing a list of available books. He selects a book and wants to show it to a friend. \nWith deep linking the information of the selected book is part of the url and can easily be shared between users. The same thing can be done with any parameter that affects the current view in your Angular application. (e.g. additionally with a searc…",
-          "link": "https://dev.to/juliandierkes/automatically-sync-url-path-and-query-params-with-angular-component-fields-1eif",
-          "publishedOn": "2021-07-25T14:23:02.000Z",
-          "wordCount": 1317,
-          "title": "Automatically sync url path and query params with Angular component fields"
         }
       ]
     },
@@ -9495,6 +9549,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=30917",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/aligning-button-label-vertically.html",
+          "publishedOn": "2021-08-24T00:36:47.000Z",
+          "wordCount": 368,
+          "title": "CSSでボタンにテキストを配置する時、上下のスペースを簡単に揃えられる実装テクニック"
+        },
         {
           "id": "https://coliss.com/?p=31442",
           "author": "コリス🥦",
@@ -9683,15 +9746,6 @@
           "publishedOn": "2021-07-27T00:36:06.000Z",
           "wordCount": 347,
           "title": "プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.7"
-        },
-        {
-          "id": "https://coliss.com/?p=30632",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/2021-kindle-summer-big-sale.html",
-          "publishedOn": "2021-07-26T00:36:14.000Z",
-          "wordCount": 1037,
-          "title": "Kindle本 夏のビッグセールが開催中！UIデザイン、Web制作、配色、イラスト関連の良書がたくさん半額です"
         }
       ]
     },
@@ -9700,6 +9754,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/e3b2c5fe38e0",
+          "author": "Jordan Williams",
+          "description": "The magic of Python’s OOPs\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/object-oriented-programming-in-python-vs-java-e3b2c5fe38e0?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-24T19:02:46.000Z",
+          "wordCount": 2480,
+          "title": "Object-Oriented Programming in Python vs. Java"
+        },
+        {
+          "id": "https://medium.com/p/9f65655bae6a",
+          "author": "Juan Cruz Martinez",
+          "description": "Learn how to make money by doing online jobs\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/10-side-gigs-to-make-more-money-as-a-developer-9f65655bae6a?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-24T18:02:34.000Z",
+          "wordCount": 2513,
+          "title": "10 Side Gigs To Make More Money as a Developer"
+        },
+        {
+          "id": "https://medium.com/p/c636e3343b8f",
+          "author": "Dmytro Khmelenko",
+          "description": "3 reasons why a popular web framework still attracts engineers\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/why-ruby-on-rails-will-not-die-anytime-soon-c636e3343b8f?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-24T17:02:31.000Z",
+          "wordCount": 1178,
+          "title": "Why Ruby on Rails Will Not Die Anytime Soon"
+        },
+        {
+          "id": "https://medium.com/p/cdd76006b35a",
+          "author": "Charis Theodoulou",
+          "description": "Lazy loading React components in both server and browser environments for various frameworks\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/lazy-loading-react-components-cdd76006b35a?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-24T16:02:40.000Z",
+          "wordCount": 1171,
+          "title": "Lazy Loading React Components"
+        },
+        {
+          "id": "https://medium.com/p/1d51842db7a7",
+          "author": "Paul Kim",
+          "description": "8 ways to use the conditional statement correctly\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/the-many-faces-of-if-and-how-programmers-misuse-it-1d51842db7a7?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-24T15:02:48.000Z",
+          "wordCount": 1394,
+          "title": "The Many Faces of “If” and How Programmers Misuse It"
+        },
+        {
+          "id": "https://medium.com/p/24868f65ac53",
+          "author": "Esther Vaati",
+          "description": "The first step in developing dynamic sites\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-create-a-custom-authentication-system-in-django-24868f65ac53?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-24T14:28:49.000Z",
+          "wordCount": 925,
+          "title": "How to Create a Custom Authentication System in Django"
+        },
+        {
+          "id": "https://medium.com/p/d0aff8ce0c80",
+          "author": "Nicholas Obert",
+          "description": "Improve code maintainability and security against Google dorking attacks\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/getting-rid-of-hardcoded-python-variables-with-the-dotenv-module-d0aff8ce0c80?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-24T14:01:35.000Z",
+          "wordCount": 932,
+          "title": "Getting Rid of Hardcoded Python Variables With the Dotenv Module"
+        },
+        {
+          "id": "https://medium.com/p/b96b6787ea20",
+          "author": "Victor Mong",
+          "description": "Being able to spot emotional insecurity in people will help you take steps to protect mental and emotional wellbeing\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/6-habits-showing-the-person-youre-dealing-with-is-insecure-b96b6787ea20?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-24T13:41:49.000Z",
+          "wordCount": 1082,
+          "title": "Why Emotionally Insecure People Rarely Make Effective Leaders"
+        },
+        {
+          "id": "https://medium.com/p/e17d63b84b86",
+          "author": "Jose Granja",
+          "description": "Improved control flow analysis, index signatures, and more\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/whats-new-in-typescript-4-4-e17d63b84b86?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-24T13:12:54.000Z",
+          "wordCount": 1348,
+          "title": "What’s New in TypeScript 4.4?"
+        },
+        {
+          "id": "https://medium.com/p/d054ea1a16fe",
+          "author": "Dr Stuart Woolley",
+          "description": "In software engineering using an agency really is your best way of changing jobs — but it can have downsides\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/3-possible-pitfalls-of-using-a-recruitment-agency-d054ea1a16fe?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-24T12:56:50.000Z",
+          "wordCount": 1469,
+          "title": "3 Possible Pitfalls Of Using a Recruitment Agency"
+        },
         {
           "id": "https://medium.com/p/5b4d47cb8b20",
           "author": "John Philip",
