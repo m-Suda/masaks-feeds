@@ -47,6 +47,231 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://www.gizmodo.jp/2021/08/strange-structure-of-the-milky-way-galaxy.html",
+          "author": null,
+          "description": "天の川銀河の腕に生えてる｢トゲ｣。宇宙の謎を解き明かすヒントになるかも2021.08.25 21:005,679 George Dvorsky - Gizmodo US ［原文］ （ 山田ちとら ） 私たちの天の川銀河は、遠くから見たらたぶんこんな姿をしているはず 『Astronomy & Astrophysics』誌に発表された最新の論文によりますと、われらが天の川銀河を構...",
+          "link": "https://www.gizmodo.jp/2021/08/strange-structure-of-the-milky-way-galaxy.html",
+          "publishedOn": "2021-08-25T15:54:01.000Z",
+          "wordCount": 81,
+          "title": "天の川銀河の腕に生えてる｢トゲ｣。宇宙の謎を解き明かすヒントになるかも | ギズモード・ジャパン"
+        },
+        {
+          "id": "https://japanese.engadget.com/fitbit-charge5-130006820.html",
+          "author": null,
+          "description": "Fitbit Charge 5発表。Google傘下でFitbitが狙うコロナ禍時代の健康管理（本田雅一） Fitbitはオンラインイベントを開催し、同社のフィットネスバンド最上位モデルChargeシリーズをアップデート、「Fitbit Charge 5」を発表した。8月25日にプレオーダー受付を開始し、価格は179.95ドル（約2万円）、日本での展開について...",
+          "link": "https://japanese.engadget.com/fitbit-charge5-130006820.html",
+          "publishedOn": "2021-08-25T15:26:33.000Z",
+          "wordCount": 248,
+          "title": "Fitbit Charge 5発表。Google傘下でFitbitが狙うコロナ禍時代の健康管理（本田雅一） - Engadget 日本版"
+        },
+        {
+          "id": "https://www.canistilluse.com/",
+          "author": null,
+          "description": "“Can I still use…” provides the latest information on the deprecation of upcoming browser APIs [satire].",
+          "link": "https://www.canistilluse.com/",
+          "publishedOn": "2021-08-25T15:14:44.000Z",
+          "wordCount": 55,
+          "title": "Can I still use…"
+        },
+        {
+          "id": "https://codezine.jp/article/detail/14744",
+          "author": null,
+          "description": "今回フォーカスするのは、2021年秋にリリースされるGoogleのAndroid 12の「Material You」です。デジタルプロダクション「factory4」でアプリやさまざまなIoTプロジェクトのUIUXデザインを手がける新谷友樹さんに解説していただきます。 こんにちは、株式会社Cosmowayが組織するデジタルプロダクション「factory4」のUIU...",
+          "link": "https://codezine.jp/article/detail/14744",
+          "publishedOn": "2021-08-25T15:09:04.000Z",
+          "wordCount": 290,
+          "title": "Googleがマテリアルデザインを次の段階に進化 「Material You」がもたらすもの (1/3)：CodeZine（コードジン）"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210825234710",
+          "author": null,
+          "description": "記憶が鮮明なうちに記録しておくのはいいかもしれない、と思ったので書く。 スペック30代後半都内のIT系企業で働くwebエンジニアリモートワーク仕事関係の人間関係は良好（だと思う）友達少ない。恋人3年超いない。インテリアは特に詳しくない。 賃貸派だった理由色んな街に住むのが楽しい。 出身が地方だったこともあり...",
+          "link": "https://anond.hatelabo.jp/20210825234710",
+          "publishedOn": "2021-08-25T15:02:53.000Z",
+          "wordCount": 126,
+          "title": "独身アラフォーwebエンジニアが中古マンションを買ってリノベした"
+        },
+        {
+          "id": "https://github.com/marceloprates/prettymaps",
+          "author": null,
+          "description": "A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.",
+          "link": "https://github.com/marceloprates/prettymaps",
+          "publishedOn": "2021-08-25T13:45:03.000Z",
+          "wordCount": 871,
+          "title": "GitHub - marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries."
+        },
+        {
+          "id": "https://speakerdeck.com/shibukk/saasfalsepurodakutowofei-yue-saserusierfalseshi-shi-shu",
+          "author": null,
+          "description": "Transcript SaaSのプロダクトを 飛躍させるSIerの仕事術 AWS Startup Tech Meetup Online #7 Kazuaki Shibuya Pinnacles, Inc. 2021/08/25 自己紹介 渋谷 和暁 ピナクルズ株式会社 CTO & Co-Founder 元独立系SIer。 現在はクラウド動画教育プラットフォーム 『tebiki』を開発しています。 はじめに ・今回はスタートアッ...",
+          "link": "https://speakerdeck.com/shibukk/saasfalsepurodakutowofei-yue-saserusierfalseshi-shi-shu",
+          "publishedOn": "2021-08-25T13:11:45.000Z",
+          "wordCount": 372,
+          "title": "SaaSのプロダクトを飛躍させるSIerの仕事術 - Speaker Deck"
+        },
+        {
+          "id": "https://blog.shin1x1.com/entry/getting-stated-with-phpstan",
+          "author": null,
+          "description": "PHP にはアプリケーションを実行せずに静的にコード品質をチェックする静的解析ツールがいくつかあります。有名なところでは、PHPStan や Psalm、Phan、PHPMD などがあります。本エントリでは、まだこうした静的解析ツールを導入していないプロジェクト向けに PHPStan 導入の流れをまとめてみました。 3(4) 行まとめ サ...",
+          "link": "https://blog.shin1x1.com/entry/getting-stated-with-phpstan",
+          "publishedOn": "2021-08-25T13:04:18.000Z",
+          "wordCount": 1105,
+          "title": "level=0 から始める PHPStan(Larastan) 導入ガイド - Shin x Blog"
+        },
+        {
+          "id": "https://service.plan-b.co.jp/blog/tech/34581/",
+          "author": null,
+          "description": "株式会社PLAN-Bに新卒入社して、未経験からエンジニアへ。複数の自社SaaS開発、ビッグデータ系の受託開発など、入社から1年半で4つのプロダクトチームを経験。AWSでのバックエンド開発を中心に、最近はフロントエンドも勉強し自作アプリの開発も。「互いの人生に良い影響を与えられるようなチーム」を作りたい想いから、...",
+          "link": "https://service.plan-b.co.jp/blog/tech/34581/",
+          "publishedOn": "2021-08-25T13:00:20.000Z",
+          "wordCount": 199,
+          "title": "チームの心理的安全性を可視化しよう！今すぐできる超簡単ワークショップ「片思いマッピング」 | PINTO! by PLAN-B"
+        },
+        {
+          "id": "https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/1345947.html",
+          "author": null,
+          "description": "サハロフ佐藤(佐藤 純一)とAKIBA PC Hotline!編集部が、秋葉原各ショップのHDD、SSD、メモリ、CPUの店頭価格を独自に調査し、価格動向をお伝えするコーナーです。PCパーツ購入時などに参考としてご活用下さい。",
+          "link": "https://akiba-pc.watch.impress.co.jp/docs/price/monthly_repo/1345947.html",
+          "publishedOn": "2021-08-25T12:51:02.000Z",
+          "wordCount": 457,
+          "title": "東芝製8TB HDDが特価で15,980円に、HDD相場全体は方向感の無い小幅な値動きに - AKIBA PC Hotline!"
+        },
+        {
+          "id": "https://www.suzukikenichi.com/blog/chrome-devtool-now-supports-japanese/",
+          "author": null,
+          "description": "[レベル: 上級] Chrome 94 のデベロッパーツールが日本語を含む 80 以上の言語で利用できるようになります。 デベロッパーツールを日本語で使う デベロッパーツールを日本語で表示にするには、右上にある歯車アイコン⚙️から言語設定を変更します。 [Language] という項目があります。 ここから [Japanese – 日本語] を選...",
+          "link": "https://www.suzukikenichi.com/blog/chrome-devtool-now-supports-japanese/",
+          "publishedOn": "2021-08-25T12:44:42.000Z",
+          "wordCount": 528,
+          "title": "Chromeデベロッパーツールが日本語🇯🇵をサポート、CWV改善に必須のツールを日本語で使えるように | 海外SEO情報ブログ"
+        },
+        {
+          "id": "https://ledge.ai/rinna-gpt-2-bert/",
+          "author": null,
+          "description": "元女子高生AI「りんな」などで知られるrinna株式会社は8月25日、製品開発のための実験過程で、日本語に特化した「GPT-2」と「BERT」の事前学習モデルを開発したと発表。 日本語の自然言語処理（NLP）の研究・開発コミュニティに貢献するために、開発した事前学習モデルとその学習を再現するためのソースコードを、GitHub...",
+          "link": "https://ledge.ai/rinna-gpt-2-bert/",
+          "publishedOn": "2021-08-25T12:23:54.000Z",
+          "wordCount": 152,
+          "title": "rinna、日本語に特化した「GPT-2」「BERT」事前学習モデルを無償公開 75ギガバイトのデータを最大45日間で学習 | Ledge.ai"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/08/25/apple-already-scan-icloud-mail-csam/",
+          "author": null,
+          "description": "Apple アップルは児童虐待（いわゆる児童ポルノ）対策のためにiCloudにアップロードされる画像をスキャンする方針を発表し、様々な方面から批判を集めています。 そんななか、アップルがCSAM（子供を巻き込んだ性的に露骨な活動を描くコンテンツ）を検出するため、2019年からiCloudメールの添付ファイルをスキャンしてい...",
+          "link": "https://jp.techcrunch.com/2021/08/25/apple-already-scan-icloud-mail-csam/",
+          "publishedOn": "2021-08-25T11:57:53.000Z",
+          "wordCount": 322,
+          "title": "アップルが2019年からiCloudメールに児童虐待画像が添付されていないかスキャンしていると認める | TechCrunch Japan"
+        },
+        {
+          "id": "https://techblog.yahoo.co.jp/entry/2021082530175149/",
+          "author": null,
+          "description": "こんにちは、フロントエンドエンジニアの近藤です。Yahoo! JAPANのスマートフォンのウェブトップページのフロントエンド開発業務と、社内で利用されているデザインシステムの開発に携わっています。 近年、デジタルプロダクトを持つ多くの企業で、デザインシステムが活用されています。デザインシステムには、ビジュアル...",
+          "link": "https://techblog.yahoo.co.jp/entry/2021082530175149/",
+          "publishedOn": "2021-08-25T11:36:08.000Z",
+          "wordCount": 380,
+          "title": "フロントエンドから取り組むデザインシステムの改善 #UI - Yahoo! JAPAN Tech Blog"
+        },
+        {
+          "id": "https://cloud.watch.impress.co.jp/docs/news/1346058.html",
+          "author": null,
+          "description": "アルプス システム インテグレーション株式会社（以下、ALSI）は25日、Amazon Web Services（AWS）環境を利用したクラウド型ファイルサーバーソリューション「セキュアクラウドファイルサーバー」を提供開始すると発表した。移行・運用の支援もあわせて提供するという。",
+          "link": "https://cloud.watch.impress.co.jp/docs/news/1346058.html",
+          "publishedOn": "2021-08-25T09:49:22.000Z",
+          "wordCount": 95,
+          "title": "ファイルサーバーをAWSへ移行して管理負荷を軽減、ALSIが「セキュアクラウドファイルサーバー」提供 - クラウド Watch"
+        },
+        {
+          "id": "https://www.unrealengine.com/ja/blog/teach-the-fundamentals-of-unreal-engine-and-virtual-production-download-your-free-syllabus",
+          "author": null,
+          "description": "すでに Unreal Engine の授業を行っている方も、これから教える方も、Epic Games による新しい 16 週間のシラバス（Unreal の基礎、バーチャル プロダクションの概要）を使用して、リアルタイム テクノロジーを迅速に授業に組み込むことができます。 各ガイドは、大学教員が執筆し、十分な試行・試験を重ねたうえで作成...",
+          "link": "https://www.unrealengine.com/ja/blog/teach-the-fundamentals-of-unreal-engine-and-virtual-production-download-your-free-syllabus",
+          "publishedOn": "2021-08-25T09:23:48.000Z",
+          "wordCount": 304,
+          "title": "無料のシラバス（日本語版）をダウンロードして、Unreal Engine およびバーチャル プロダクションの基礎について授業しましょう - Unreal Engine"
+        },
+        {
+          "id": "https://togetter.com/li/1764806",
+          "author": null,
+          "description": "岸田奈美｜「もうあかんわ日記」 @namikishida これ！父ちゃんが！初めて買ってくれた！iMac！ボンダイブルーの！iMac！ 明日の夜からセッティングします〜！ネットに繋げないとかそんなもん関係ねえ！文字さえ打てりゃいい！ note.kishidanami.com/n/na8b5c19481d1 2021-08-24 11:49:01 リンク 岸田 奈美 先見の明を持...",
+          "link": "https://togetter.com/li/1764806",
+          "publishedOn": "2021-08-25T07:41:19.000Z",
+          "wordCount": 638,
+          "title": "リサイクルショップの閉店セールで遭遇したものが超絶懐かしかった！「衝動買いしても仕方がない」「我が家ではまだ現役」 - Togetter"
+        },
+        {
+          "id": "https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang",
+          "author": null,
+          "description": "Transcript オープン化が進むC++の 現状と展望 ⾼橋 晶 (Akira Takahashi) cpp_akira@Twitter faithandbrave@GitHub 2021/08/25 (⽔) OSS X Users Meeting #31 ⾃⼰紹介 • ⾼橋 晶 (Akira Takahashi) • C++⽇本語リファレンスサイトcpprefjp のコアメンバ • C++の勉強会C++ MIXの運営 • 著書 • 『C++テンプレートテクニ...",
+          "link": "https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang",
+          "publishedOn": "2021-08-25T07:33:13.000Z",
+          "wordCount": 563,
+          "title": "オープン化が進むC++の現状と展望 - Speaker Deck"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/smartjapan/articles/2108/25/news056.html",
+          "author": null,
+          "description": "大成建設が、CO2を活用する熱水資源に頼らない新たな地熱発電技術の開発に着手すると発表。熱水のかわりにCO2を圧入して熱回収を行う新技術で、地熱発電の普及課題を解決できる可能性があるという。 大成建設は2021年8月23日、地熱技術開発と共同で、CO2を活用する熱水資源に頼らない新たな地熱発電技術の開発に着手する...",
+          "link": "https://www.itmedia.co.jp/smartjapan/articles/2108/25/news056.html",
+          "publishedOn": "2021-08-25T05:21:02.000Z",
+          "wordCount": 158,
+          "title": "熱水を使わない革新的な「CO2地熱発電」、大成建設らが技術開発へ：自然エネルギー - スマートジャパン"
+        },
+        {
+          "id": "https://www.slideshare.net/SEGADevTech/cedec2021-250032292",
+          "author": null,
+          "description": "We use your LinkedIn profile and activity data to personalize ads and to show you more relevant ads. You can change your ad preferences anytime.",
+          "link": "https://www.slideshare.net/SEGADevTech/cedec2021-250032292",
+          "publishedOn": "2021-08-25T05:19:50.000Z",
+          "wordCount": 4185,
+          "title": "CEDEC2021 ダウンロード時間を大幅減！～大量のアセットをさばく高速な実装と運用事例の共有～"
+        },
+        {
+          "id": "https://kittygiraudel.com/2021/08/24/from-cra-to-next/",
+          "author": null,
+          "description": "I recently moved a significant codebase from Create-React-App (CRA for short) to Next and thought I would share my experience, because believe me or not, it was quite a journey (and not necessarily a pleasant one). There are plenty reasons why you might want to move to Next from a CRA app. It pro...",
+          "link": "https://kittygiraudel.com/2021/08/24/from-cra-to-next/",
+          "publishedOn": "2021-08-25T02:43:19.000Z",
+          "wordCount": 1521,
+          "title": "From Create-React-App to Next | Kitty Giraudel"
+        },
+        {
+          "id": "https://www.dtmstation.com/archives/45880.html",
+          "author": null,
+          "description": "Home VOCALOID・歌声合成・音声合成 なぜ中国の天才青年は日本で起業し、AI歌声合成ソフトをヒットさせたのか？Synthesizer Vの開発者、Kanru Huaさんインタビュー 2021/08/25 なぜ中国の天才青年は日本で起業し、AI歌声合成ソフトをヒットさせたのか？Synthesizer Vの開発者、Kanru Huaさんインタビュー 2018年のクリス...",
+          "link": "https://www.dtmstation.com/archives/45880.html",
+          "publishedOn": "2021-08-25T01:37:05.000Z",
+          "wordCount": 630,
+          "title": "なぜ中国の天才青年は日本で起業し、AI歌声合成ソフトをヒットさせたのか？Synthesizer Vの開発者インタビュー"
+        },
+        {
+          "id": "https://twitter.com/tanakh/status/1428889081312792576",
+          "author": null,
+          "description": "https://t.co/CgmiJVhVus Rustはメモリ安全性をコンパイルタイムに保障するプログラミング言語だが、ローレベルハードウェアにアクセスしたいなどのシステムソフトウェアの要求に応じるために、そういうコンパイラの… https://t.co/IAQ36vteVI",
+          "link": "https://twitter.com/tanakh/status/1428889081312792576",
+          "publishedOn": "2021-08-25T01:33:06.000Z",
+          "wordCount": 196,
+          "title": "Hideyuki Tanaka on Twitter: \"https://t.co/CgmiJVhVus Rustはメモリ安全性をコンパイルタイムに保障するプログラミング言語だが、ローレベルハードウェアにアクセスしたいなどのシステムソフトウェアの要求に応じるために、そういうコンパイラの… https://t.co/IAQ36vteVI\""
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/introduction-git-io-github-url-shorten-service/",
+          "author": null,
+          "description": "10年前から存在しますが、たまたま見かけて「５へぇ」くらいは出たので敢えて紹介してみたいと思います。 git.io GitHub 公式の URL 短縮サービスです。 https://git.io/ 特徴として、GitHub 専用の URL 短縮サービスです。 GitHub 公式ブログで2011年11月に取り上げられていたので、10年前には存在していたことが確認で...",
+          "link": "https://dev.classmethod.jp/articles/introduction-git-io-github-url-shorten-service/",
+          "publishedOn": "2021-08-25T00:46:09.000Z",
+          "wordCount": 253,
+          "title": "GitHub 専用 URL 短縮サービス「git.io」 | DevelopersIO"
+        },
+        {
+          "id": "https://qiita.com/k__watanabe/items/0dc5b31ea960db118926",
+          "author": null,
+          "description": "Help us understand the problem. What is going on with this article?",
+          "link": "https://qiita.com/k__watanabe/items/0dc5b31ea960db118926",
+          "publishedOn": "2021-08-25T00:15:52.000Z",
+          "wordCount": 593,
+          "title": "フロントエンドの慣習のまとめ - Qiita"
+        },
+        {
           "id": "https://internet.watch.impress.co.jp/docs/column/work_from/1345549.html",
           "author": null,
           "description": "2020年春から1年半以上も続くコロナ禍の影響で、ワークスタイルとして着実に普及が進む“リモートワーク（テレワーク）”。筆者のようなフリーランスは当然のことながら、これまでは対面での打ち合わせが中心だったような大企業でも、Web会議サービスを使った打ち合わせが当然のように使われ始めている。",
@@ -99,6 +324,15 @@
           "publishedOn": "2021-08-24T14:40:09.000Z",
           "wordCount": 139,
           "title": "ガートナー「先進テクノロジのハイプ・サイクル：2021年」を発表。NFTやAIによるソフトウェア開発支援などは過度な期待、黎明期に量子MLなど － Publickey"
+        },
+        {
+          "id": "https://medium.com/nttlabs/quic-load-balancer-design-82c5fbae8305",
+          "author": null,
+          "description": "図1: QUICコネクションを振り分けるロードバランサはじめに本記事では、バックエンドのWebサーバへリクエストを振り分ける装置の意味でのロードバランサ(図1)について、QUIC対応の議論状況を紹介します。方式編と実装編にわけて二編を予定しており、本稿は方式についての解説です。 IETFでは、F5 Networksとマイクロソフ...",
+          "link": "https://medium.com/nttlabs/quic-load-balancer-design-82c5fbae8305",
+          "publishedOn": "2021-08-24T14:36:32.000Z",
+          "wordCount": 312,
+          "title": "インフラエンジニアなら気になるQUICのロードバランサ (方式編) | by Jun-ya Kato | nttlabs | Aug, 2021 | Medium"
         },
         {
           "id": "https://www.creativebloq.com/news/Paralympic_posters_toyko",
@@ -3854,6 +4088,15 @@
           "title": "Google Transparency Report"
         },
         {
+          "id": "https://qiita.com/loftkun/items/2fbeddc9449eb5d85dfd",
+          "author": null,
+          "description": "Slidevとは Slidevはエンジニア向けプレゼンテーションツールです。 Markdownで記述した文書から美しいスライドを生成できます。 公式デモ とそのソースとなるMarkdown もご参照ください。 ドキュメントは以下にあります。 私が公開しているサンプルスライドとそのMarkdownもご参照下さい。詳細は後述します。 目次 本記...",
+          "link": "https://qiita.com/loftkun/items/2fbeddc9449eb5d85dfd",
+          "publishedOn": "2021-08-09T03:34:07.000Z",
+          "wordCount": 866,
+          "title": "Slidevを導入してMarkdownで美しいスライドを書こう - Qiita"
+        },
+        {
           "id": "https://japan.cnet.com/article/35174795/",
           "author": null,
           "description": "DX推進のキーテクノロジーとなるのは「AI」です。実際に、世界有数のデジタル企業はAIを活用してビジネスを成長させています。最近では、プログラミングコードを書かずにAIを構築できるツールも生まれ、AIの活用は急速に拡大しています。 ところが、日本国内を見れば、AIをうまく取り入れられない企業が多いのが実態です...",
@@ -7182,321 +7425,6 @@
           "publishedOn": "2021-07-27T13:30:14.000Z",
           "wordCount": 569,
           "title": "WebRTC配信システムをAWSからオンプレミスに切り替えている話 - Speaker Deck"
-        },
-        {
-          "id": "https://yusukebe.com/posts/2021/amp-speed-up/",
-          "author": null,
-          "description": "いくつかの Web ページを AMP 化した。何をもってして「速い」と判断するかは後述するとしてとにかく速くなった。そしてさらに 3 つのテクニックを使って AMP ページを高速化した。今回はその過程を紹介する。 AMP だと何が速いか？どうして速いか？ 最初に、何をもってして速いと言うのかを考えないといけない。まとめ...",
-          "link": "https://yusukebe.com/posts/2021/amp-speed-up/",
-          "publishedOn": "2021-07-27T12:02:35.000Z",
-          "wordCount": 626,
-          "title": "AMPで速くする。AMPを速くする - ゆーすけべー日記"
-        },
-        {
-          "id": "https://qiita.com/yokra9/items/f9e98a9b47fe2d1234b0",
-          "author": null,
-          "description": "WebAssembly(WASM) は JavaScript より計算処理が速いという話題がしばしば聞かれます。 では、単純な数値計算ではないけれど、JavaScript で時間がかかる処理を移植するとどうなるのでしょうか。本記事ではその一例として、巨大画像（4K～）を指定したピクセル数までリサイズする処理を書いてみました。 リポジトリ: ht...",
-          "link": "https://qiita.com/yokra9/items/f9e98a9b47fe2d1234b0",
-          "publishedOn": "2021-07-27T11:06:57.000Z",
-          "wordCount": 966,
-          "title": "WebAssembly で画像のリサイズ処理をやってみたら JavaScript より遅かった話 - Qiita"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210727194501",
-          "author": null,
-          "description": "例の建設的APIのせいで、短文のコメントがダイジェストに表示されなくなった。 これにより、短い言葉でウィットに富んだ秀逸なコメントが埋もれてしまうようになった。 そういうの無くなったらブコメはダラダラと長文書いたつまらない場所になっちまうだろうよ。 はてなさんはそういうの排除したかったの？そうなの？ あ...",
-          "link": "https://anond.hatelabo.jp/20210727194501",
-          "publishedOn": "2021-07-27T10:48:16.000Z",
-          "wordCount": 94,
-          "title": "ブコメがつまらなくなった"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1340417.html",
-          "author": null,
-          "description": "米Microsoftは7月26日（現地時間）、「Excel」に「LAMBDA」（ラムダ）を引数にとれる新しい関数を7つ追加したと発表した。まずは「Office Insiders」の参加ユーザーを対象にテスト公開される。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1340417.html",
-          "publishedOn": "2021-07-27T10:02:24.000Z",
-          "wordCount": 126,
-          "title": "「Excel」でMapやReduce～ラムダを引数にとる7つの関数がテスト導入 - 窓の杜"
-        },
-        {
-          "id": "https://science.srad.jp/story/21/07/26/1815235/",
-          "author": null,
-          "description": "headless 曰く、Google Play で「YouTube」アプリのインストール件数が 100 億件を超えた(Android Police の記事)。 Google Play では「Google Play開発者サービス」のインストール件数が既に 100 億件を超えているが、ユーザーが直接起動して利用するアプリで 100 億件を超えるのは YouTube が初となる。Internet Archi...",
-          "link": "https://science.srad.jp/story/21/07/26/1815235/",
-          "publishedOn": "2021-07-27T09:30:02.000Z",
-          "wordCount": 581,
-          "title": "インストール件数が地球の総人口を超えるアプリたち | スラド サイエンス"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGXZQOUC26AOG0W1A720C2000000/",
-          "author": null,
-          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 新型コロナウイルスの感染拡大が小売業の勢力図に変化をもたらしている。日本経済新聞社がまとめた2020年度の小売業調査では、ネット通販最大手のアマゾンジャパン（東...",
-          "link": "https://www.nikkei.com/article/DGXZQOUC26AOG0W1A720C2000000/",
-          "publishedOn": "2021-07-27T09:07:00.000Z",
-          "wordCount": 129,
-          "title": "Amazon、国内売上高2兆円超　イオンやセブンは減収: 日本経済新聞"
-        },
-        {
-          "id": "https://www.newsweekjapan.jp/stories/world/2021/07/amazon.php",
-          "author": null,
-          "description": "＜租税回避と劣悪な労働条件が問題視されるなか、空気を読まないコメントに怒りが集中している＞ Amazon創業者のジェフ・ベゾス氏は20日、かねてから予告していた宇宙旅行を無事に完了した。ベゾス氏は民間宇宙開発企業のブルー・オリジン社を立ち上げており、今回の飛行は同社が製造した弾道飛行ロケット「ニュー・シェ...",
-          "link": "https://www.newsweekjapan.jp/stories/world/2021/07/amazon.php",
-          "publishedOn": "2021-07-27T08:36:39.000Z",
-          "wordCount": 279,
-          "title": "地球帰還のベゾス氏、空気を読まない発言に怒りが集中「アマゾン顧客と従業員、君たちが代金を払った」｜ニューズウィーク日本版 オフィシャルサイト"
-        },
-        {
-          "id": "https://qiita.com/zamis/items/703bfcea027a70c1cec6",
-          "author": null,
-          "description": "平日の稼働時間以外も勉強 or 開発する 土日も勉強 or 開発する 公式ドキュメントをちゃんと読む 以上のような当たり前のことは、最初から強い人じゃなくてもやるので特徴に入れません。 1. 読解能力が異常に高い 国語の力です。 これは、ちゃんとドキュメントに書いてあることが理解できると同義です。 そしてこれが、...",
-          "link": "https://qiita.com/zamis/items/703bfcea027a70c1cec6",
-          "publishedOn": "2021-07-27T08:33:44.000Z",
-          "wordCount": 396,
-          "title": "最初から強いやつの特徴 - Qiita"
-        },
-        {
-          "id": "https://sangping.hatenablog.com/entry/2021/07/27/132240",
-          "author": null,
-          "description": "目次 目次 はてブ人気コメント算出アルゴリズム変更と自由で公平な表現の場 ʕ•̫͡•ʔワンクリック入力用Chrome拡張機能を作った件 はてブ人気コメント算出アルゴリズム変更と自由で公平な表現の場 ここのところ、立て続けに表現の自由*1に関連して苛立ちを感じる出来事が続出することが続いており、なんだか私とても苛立って...",
-          "link": "https://sangping.hatenablog.com/entry/2021/07/27/132240",
-          "publishedOn": "2021-07-27T08:30:57.000Z",
-          "wordCount": 144,
-          "title": "はてブ人気コメント算出アルゴリズム変更と自由で公平な表現の場 ／ ʕ•̫͡•ʔワンクリック入力用Chrome拡張機能を作った件 - ドサンピン茶"
-        },
-        {
-          "id": "https://wired.jp/2021/07/27/google-chrome-browser-data/",
-          "author": null,
-          "description": "ウェブブラウザーの世界においては、個人情報の扱いに関して評判がよくないにもかかわらず、依然として「Google Chrome」が独走している。そのシェアはおよそ65％で、20億人が利用している計算になる。 最大のライヴァルであるアップルの「Safari」は大きく差をつけられており、シェアは20％にも満たない。ユーザーのデ...",
-          "link": "https://wired.jp/2021/07/27/google-chrome-browser-data/",
-          "publishedOn": "2021-07-27T08:02:12.000Z",
-          "wordCount": 152,
-          "title": "個人のデータを“支配”するグーグルと、「Chrome」の利便性を享受することの意味 | WIRED.jp"
-        },
-        {
-          "id": "https://user-first.ikyu.co.jp/entry/2021/07/27/155513",
-          "author": null,
-          "description": "はじめに データサイエンス部の平田です。 ディープラーニングのモデルを作る際、学習データが少ないことが原因で精度が上がらない場合、データのかさまし（augmentation）を行うことがあります。 画像の場合は、オリジナルに対して回転させたりノイズを少し加えることで同じラベル付けがされている別の画像を作り出すこ...",
-          "link": "https://user-first.ikyu.co.jp/entry/2021/07/27/155513",
-          "publishedOn": "2021-07-27T07:55:23.000Z",
-          "wordCount": 765,
-          "title": "テキストデータのかさましを実装する - 一休.com Developers Blog"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/063/4063360/",
-          "author": null,
-          "description": "買ってみたんです、直流安定化電源 「直流安定化電源」って、聞いたことがあるでしょうか。名前の通り「安定した直流を出力する電源」のことです（笑）。普通の家庭や家電ショップなどでも、ほぼ見かけない機器ですが、今の時代、あるとすごく便利なんです。 たとえば、こんなことで不安になった経験はありませんか？ ス...",
-          "link": "https://ascii.jp/elem/000/004/063/4063360/",
-          "publishedOn": "2021-07-27T07:44:11.000Z",
-          "wordCount": 566,
-          "title": "ASCII.jp：「直流安定化電源」は1台あると超便利"
-        },
-        {
-          "id": "https://sia.codes/posts/render-blocking-resources/",
-          "author": null,
-          "description": "Don't let render-blocking resources block you on the road to good performance. Photo by Tim Wilson on Unsplash You might be here because Lighthouse told you to \"eliminate render-blocking resources\". Render-blocking resources are a common hurdle to rendering your page faster. They impact your Web ...",
-          "link": "https://sia.codes/posts/render-blocking-resources/",
-          "publishedOn": "2021-07-27T07:28:45.000Z",
-          "wordCount": 2612,
-          "title": "How to Eliminate Render-Blocking Resources: a Deep Dive"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1340386.html",
-          "author": null,
-          "description": "日本アイ・ビー・エム株式会社(IBM)は7月27日、日本初となるゲート型商用量子コンピューティング・システム「IBM Quantum System One」を神奈川県川崎市に設置・稼働開始したと発表し、記念セレモニーを行なった。設置場所は「新川崎・創造のもり」地区に位置する産学交流インキュベーション施設「かわさき新産業創造センター(KBIC)」。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1340386.html",
-          "publishedOn": "2021-07-27T07:05:48.000Z",
-          "wordCount": 234,
-          "title": "日本初のIBM製「ゲート型商用量子コンピュータ」が新川崎で稼働。アメリカ、ドイツに次いで世界で3番目 - PC Watch"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/27/news115.html",
-          "author": null,
-          "description": "サイボウズが公式ブログで無償公開している、新人ITエンジニア向けの研修資料がTwitterで話題だ。Webアプリ開発の基礎知識などが学べるといい、「初心者（エンジニア）の指針になる」などの声が出ている。 サイボウズが公式ブログで無償公開している、新人ITエンジニア向けの研修資料がTwitterで話題だ。Webアプリ開発の...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/27/news115.html",
-          "publishedOn": "2021-07-27T07:04:22.000Z",
-          "wordCount": 157,
-          "title": "サイボウズの“駆け出しエンジニア”向け研修資料が話題　Webアプリ開発やIT文化の基礎を無償公開 - ITmedia NEWS"
-        },
-        {
-          "id": "https://zenn.dev/taichifukumoto/articles/how-to-use-volta",
-          "author": null,
-          "description": "Volta とは Voltaとは、JavaScript ツールマネージャーです。 タイトルでは Node.js のバージョン管理としていますが、 npm・yarn のバージョン管理も行うことができます。 公式サイトでは、「The Hassle-Free JavaScript Tool Manager（手間のかからない JavaScript ツールマネージャー）」と紹介されています。 チーム...",
-          "link": "https://zenn.dev/taichifukumoto/articles/how-to-use-volta",
-          "publishedOn": "2021-07-27T06:49:32.000Z",
-          "wordCount": 763,
-          "title": "Node.jsのバージョン管理にVoltaを推したい"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/07/27/2021-07-26-court-orders-us-capitol-rioter-to-unlock-his-laptop-with-his-face/",
-          "author": null,
-          "description": "ワシントンD.C.の連邦判事は、米国連邦議会議事堂で2021年1月6日に起きた暴動に参加した罪に問われている男性に対し、彼のノートパソコンに反政府暴動未遂の罪を明らかにするビデオ映像が入っている可能性が高いと検察側が主張したため、「顔により」ノートパソコンのロックを解除するよう命じた。 Guy Reffitt（ガイ・...",
-          "link": "https://jp.techcrunch.com/2021/07/27/2021-07-26-court-orders-us-capitol-rioter-to-unlock-his-laptop-with-his-face/",
-          "publishedOn": "2021-07-27T03:25:36.000Z",
-          "wordCount": 310,
-          "title": "米議会襲撃の暴徒に「顔を使って」ノートPCのロック解除を裁判所が命令、生体認証に黙秘権使えず | TechCrunch Japan"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/27/news083.html",
-          "author": null,
-          "description": "テレワーク中、部下は上司のどんな言動をハラスメントだと感じるか──ALL CONECTがこんなランキングを発表した。2位は「部屋全体を映すよう求める」、3位は「体形を話題にする」だった。 テレワーク中、部下は上司のどんな言動をハラスメントだと感じるか──通信インフラ事業を手掛けるALL CONECT（福井市）は7月27日、こ...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/27/news083.html",
-          "publishedOn": "2021-07-27T03:07:50.000Z",
-          "wordCount": 161,
-          "title": "テレワーク中にハラスメントと感じる上司の言動TOP10　2位は「部屋全体を映して」　1位は？ - ITmedia NEWS"
-        },
-        {
-          "id": "https://ja.vitejs.dev/",
-          "author": null,
-          "description": "💡 瞬時にスタートするサーバーネイティブESMを通してリアルタイムなファイルが提供されるためバンドルをする必要はありません。 ⚡️ 超高速なHMRアプリのサイズに関係なく高速を維持するHMRを提供します。 🛠️ 豊富な機能TypeScript、JSX、CSSなどがすぐに使えるようにサポートされています。 📦 最適化されたビルド先読み...",
-          "link": "https://ja.vitejs.dev/",
-          "publishedOn": "2021-07-27T02:01:52.000Z",
-          "wordCount": 65,
-          "title": "Home | Vite"
-        },
-        {
-          "id": "https://note.com/seikei_kin/n/nd26d58dec7ac",
-          "author": null,
-          "description": "久しぶりのnote投稿です。今回は自分の勉強がてら、UX・情報設計・アジャイル開発など、デザインに関わる様々な局面で知っておくと役立つフレームワークを集めてみました。 有名なものからデザイン以外にも使えそうなものまで幅広く選んでいますので、気になるものがあれば改めて実作業に生かすなり、掘り下げて研究する...",
-          "link": "https://note.com/seikei_kin/n/nd26d58dec7ac",
-          "publishedOn": "2021-07-27T02:01:22.000Z",
-          "wordCount": 144,
-          "title": "デザインに活かせるフレームワーク20｜金 成奎｜note"
-        },
-        {
-          "id": "https://hiasa.co.jp/godx/dx-book/",
-          "author": null,
-          "description": "DXコンサルタントの日淺と言います。2019年からDX専門のコンサルティングファームを経営し、これまで30社以上の大小様々なDXプロジェクトを支援しています。 DXという言葉、企業の中で使われだしたのは、2019年頃からでした。それが、コロナショックを経て、テレビCMやネット広告などでも、多くの人が目に触れる機会も増...",
-          "link": "https://hiasa.co.jp/godx/dx-book/",
-          "publishedOn": "2021-07-27T02:00:13.000Z",
-          "wordCount": 258,
-          "title": "30社以上のDXを推進した私が厳選！今、読んで欲しい”DX本”5冊"
-        },
-        {
-          "id": "https://future-architect.github.io/articles/20210726a/",
-          "author": null,
-          "description": "はじめにTIG DXユニット真野です。7/26（月）～8/3（水）の平日にかけて、GoでRDBに対してアクセスライブラリ（ORMとクエリビルダー）をテーマにした連載を始めます。 フューチャー技術ブログではAWS DynamoDBの記事がなぜか多いですが、会社としてはデータストア層にRDB（PostgreSQL、MySQL、Oracle）を採用するのが主...",
-          "link": "https://future-architect.github.io/articles/20210726a/",
-          "publishedOn": "2021-07-27T01:24:41.000Z",
-          "wordCount": 191,
-          "title": "GoのORマッパー連載を始めます | フューチャー技術ブログ"
-        },
-        {
-          "id": "https://qiita.com/rana_kualu/items/a6601b49e0591eb42200",
-          "author": null,
-          "description": "PHP8.1 / PHP8.0 / PHP7.4 2021/07/20、PHP8.1がフィーチャーフリーズしました。 言語機能に関わるような機能の追加・変更が締め切られたということです。 今後はデバッグを繰り返しながら完成度を高めていき、2021/11/25にPHP8.1.0がリリースされる予定です。 というわけでPHP8.1で実装されるRFCを見てみましょう。 RFC...",
-          "link": "https://qiita.com/rana_kualu/items/a6601b49e0591eb42200",
-          "publishedOn": "2021-07-27T01:20:43.000Z",
-          "wordCount": 1197,
-          "title": "【PHP8.1】PHP8.1の新機能 - Qiita"
-        },
-        {
-          "id": "https://liginc.co.jp/549081",
-          "author": null,
-          "description": "こんにちは！ BiTTチームのキー坊です。 今日はお題の通りNASを作っていこうと思います。 というのも、この記事を書いている2021年5末で、Googleフォトの無料利用が終了するということもあり新しいストレージ先を探しています。NASもその候補の一つですが、値段高いものが多いため手が出しにくいですよね。 うちにも稼働...",
-          "link": "https://liginc.co.jp/549081",
-          "publishedOn": "2021-07-27T01:19:45.000Z",
-          "wordCount": 389,
-          "title": "openmediavaultを使ってラズパイでNASを自作してみた | 株式会社LIG"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2107/27/news069.html",
-          "author": null,
-          "description": "Intelが半導体生産のロードマップを説明するイベントを開催した。2022年には7nmプロセスの製品が、2024年には新技術を取り入れた製品が登場する見通しだ。",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2107/27/news069.html",
-          "publishedOn": "2021-07-27T01:08:02.000Z",
-          "wordCount": 539,
-          "title": "2025年までに「1.8nm相当」に――Intelが半導体生産のロードマップを説明：Intel 7からIntel 18Aまで - ITmedia PC USER"
-        },
-        {
-          "id": "https://codezine.jp/article/detail/14493",
-          "author": null,
-          "description": "PythonでWeb開発ができるフルスタックなフレームワーク「Django」について詳しく解説した『実践Django Pythonによる本格Webアプリケーション開発』から、DjangoのHttpRequestオブジェクトの役割と仕組みについて、HTTP 1.1の基礎知識から掘り下げて解説しているパートを抜粋して紹介します。 本記事は『実践Django Pytho...",
-          "link": "https://codezine.jp/article/detail/14493",
-          "publishedOn": "2021-07-26T23:21:27.000Z",
-          "wordCount": 564,
-          "title": "PythonのWebフレームワーク「Django」のHttpRequestオブジェクトを徹底解説：CodeZine（コードジン）"
-        },
-        {
-          "id": "https://www.atmarkit.co.jp/ait/articles/2107/27/news006.html",
-          "author": null,
-          "description": "「Python」と「Google Colaboratory」で株価データ分析に挑戦：「Python」×「株価データ」で学ぶデータ分析のいろは（1） 日々変動する株価データを題材にPythonにおけるデータ分析のいろはを学んでいく本連載。第1回はPythonを実行する環境とデータの前準備について。 はじめに 連載第1回は「Google Colaboratory」でサ...",
-          "link": "https://www.atmarkit.co.jp/ait/articles/2107/27/news006.html",
-          "publishedOn": "2021-07-26T22:37:15.000Z",
-          "wordCount": 206,
-          "title": "「Python」と「Google Colaboratory」で株価データ分析に挑戦：「Python」×「株価データ」で学ぶデータ分析のいろは（1） - ＠IT"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1340250.html",
-          "author": null,
-          "description": "米Appleは7月26日（現地時間）、「iOS 14.7.1」および「iPadOS 14.7.1」を正式リリースした。Touch IDを搭載したiPhoneモデルで「iPhoneでロック解除」機能を使用してペアリング済みのApple Watchのロックを解除できない問題が修正されたほか、脆弱性の修正が行われている。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1340250.html",
-          "publishedOn": "2021-07-26T21:06:25.000Z",
-          "wordCount": 127,
-          "title": "すでに悪用も確認 ～致命的な脆弱性を修正した「iOS 14.7.1」「iPadOS 14.7.1」 - 窓の杜"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210727032939",
-          "author": null,
-          "description": "非表示ユーザーがつけたスターを非表示にする 連打対策はされてるが､スター稼ぎっぽい複垢とかは素通りするの消し去りたい お気に入りユーザーのタグで分類できるリスト この人はどういう傾向の記事をブクマしているのか､どういう経緯でお気に入り登録したか知りたい時がある 後で読むの日時付きスヌーズ 〇〇は何日何時...",
-          "link": "https://anond.hatelabo.jp/20210727032939",
-          "publishedOn": "2021-07-26T20:25:50.000Z",
-          "wordCount": 93,
-          "title": "これなら払う気になれるはてなブックマークプレミアムプランを考えて"
-        },
-        {
-          "id": "https://www.atmarkit.co.jp/ait/articles/2107/26/news064.html",
-          "author": null,
-          "description": "Microsoftは2021年7月8日（米国時間）、社内向けLinuxディストリビューション「CBL-Mariner 1.0」の「June 2021 Update」を公開した。 CBL-Marinerはクラウドインフラとエッジ製品、サービスに向けた一貫したプラットフォームとなるように設計されており、Linuxカーネルのアップデートに合わせて最新の状態に保たれてい...",
-          "link": "https://www.atmarkit.co.jp/ait/articles/2107/26/news064.html",
-          "publishedOn": "2021-07-26T17:46:17.000Z",
-          "wordCount": 210,
-          "title": "Microsoft、社内向けLinux「CBL-Mariner 1.0」の「June 2021 Update」を公開：ディスクとメモリの消費が少ない - ＠IT"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html",
-          "author": null,
-          "description": "Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表 大手CDNベンダのFastlyは、CDNエッジで提供しているサーバレスコンピューティング環境「Compute@Edge」で、JavaScriptのサポートを発表しました。 JavaScript on Compute@Edge is here. https://t...",
-          "link": "https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html",
-          "publishedOn": "2021-07-26T15:29:37.000Z",
-          "wordCount": 150,
-          "title": "Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表 － Publickey"
-        },
-        {
-          "id": "https://github.com/nicoespeon/abracadabra",
-          "author": null,
-          "description": "🧙‍ Abracadabra Refactoring (noun): a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its observable behavior. — \"Refactoring: Improving the Design of Existing Code\" by Martin Fowler With Abracadabra, you can quickly and safe...",
-          "link": "https://github.com/nicoespeon/abracadabra",
-          "publishedOn": "2021-07-26T14:10:34.000Z",
-          "wordCount": 1279,
-          "title": "GitHub - nicoespeon/abracadabra: Automated refactorings for VS Code (JS & TS) ✨ It's magic ✨"
-        },
-        {
-          "id": "https://twitter.com/ImAI_Eruel/status/1419616332820017155",
-          "author": null,
-          "description": "サイボウズが公開した、エンジニア研修のための資料がかなりすごいです https://t.co/CoHmM8tY4b Web、テスト、Docker、データベース、デザインなどなど、エンジニアに必要（全部習得すればその時点で一流感が）… https://t.co/IxyM5xb8DT",
-          "link": "https://twitter.com/ImAI_Eruel/status/1419616332820017155",
-          "publishedOn": "2021-07-26T13:30:20.000Z",
-          "wordCount": 196,
-          "title": "えるエル on Twitter: \"サイボウズが公開した、エンジニア研修のための資料がかなりすごいです https://t.co/CoHmM8tY4b Web、テスト、Docker、データベース、デザインなどなど、エンジニアに必要（全部習得すればその時点で一流感が）… https://t.co/IxyM5xb8DT\""
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/26/news141.html",
-          "author": null,
-          "description": "niconicoの栗田穣崇代表が「ニコニコ動画」などの表現規制は現状維持する旨の声明を自身のTwitterアカウントに投稿した。夏野剛社長（ドワンゴ）が書籍などの表現について、海外に合わせて規制を推し進める考えを示したことを受けての対応とみられる。 ニコニコはプラットフォームとしての表現規制方針を現状から変更す...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/26/news141.html",
-          "publishedOn": "2021-07-26T13:21:00.000Z",
-          "wordCount": 153,
-          "title": "ニコ動などの表現規制は現状維持、niconico代表が声明　夏野剛社長はネット番組で規制推進を示唆 - ITmedia NEWS"
-        },
-        {
-          "id": "https://smhn.info/202107-thinkpad-bluetooth-keyboard-ii-review",
-          "author": null,
-          "description": "Lenovoのキーボード「ThinkPad TrackPoint Keyboard II（ThinkPad トラックポイント キーボード 2）」を購入しました。 筆者は前モデルの「ThinkPad Bluetooth TrackPoint Keyboard（2013）」から愛用しています。ノートPCの中でも特に優れた打鍵感を誇るThinkPadのキーボードをほとんどそのまま利用できるだけあって、...",
-          "link": "https://smhn.info/202107-thinkpad-bluetooth-keyboard-ii-review",
-          "publishedOn": "2021-07-26T12:47:00.000Z",
-          "wordCount": 303,
-          "title": "ThinkPadトラックポイントキーボード II レビュー。外でもデスクトップPCでも使える – すまほん!!"
         }
       ]
     },
@@ -7552,6 +7480,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=350311",
+          "author": "Chris Coyier",
+          "description": "A question:\nIf you copy a code sample that uses two-space indentation and you want to convert it to four-space indentation, what’s the *fastest* and easiest option?\nMatt Stauffer, Twitter\n\nI wrote about doing this in Sublime Text a …\nThe post One Way to Convert Code Indentation appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/one-way-to-convert-code-indentation/",
+          "publishedOn": "2021-08-25T22:34:04.000Z",
+          "wordCount": 695,
+          "title": "One Way to Convert Code Indentation"
+        },
+        {
+          "id": "https://css-tricks.com/?p=346612",
+          "author": "Eli Penner",
+          "description": "Today’s websites are overflowing with animations—often too many. They get in the way of the content and slow down our busy users. But at the same time: they’re wonderful. They bring websites to life, are fun to implement and …\nThe post Stealing Game Animation Techniques to Engage Users appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/stealing-game-animation-techniques-to-engage-users/",
+          "publishedOn": "2021-08-25T14:55:17.000Z",
+          "wordCount": 2905,
+          "title": "Stealing Game Animation Techniques to Engage Users"
+        },
         {
           "id": "https://css-tricks.com/?p=350486",
           "author": "Chris Coyier",
@@ -8046,33 +7992,6 @@
           "publishedOn": "2021-07-27T15:02:43.000Z",
           "wordCount": 2605,
           "title": "CSS Logical Properties and Values"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345297",
-          "author": "Chris Coyier",
-          "description": "Joshua Comeau digs into how styled-components works by re-building the basics. A fun and useful journey. \nstyled-components seems like the biggest player in the CSS-in-React market. Despite being in that world, I haven’t yet been fully compelled by it. I’m …\nThe post Demystifying styled-components appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.joshwcomeau.com/react/demystifying-styled-components/",
-          "publishedOn": "2021-07-27T00:17:01.000Z",
-          "wordCount": 2758,
-          "title": "Demystifying styled-components"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344653",
-          "author": "Luke Edwards",
-          "description": "At Cloudflare, we have a great product called Workers KV which is a key-value storage layer that replicates globally. It can handle millions of keys, each of which is accessible from within a Worker script at exceptionally low latencies, …\nThe post How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-          "publishedOn": "2021-07-26T14:36:13.000Z",
-          "wordCount": 4189,
-          "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345288",
-          "author": "Chris Coyier",
-          "description": "Perhaps the #1 reason I love Astro is that it brings the JavaScript component authoring experience to the Static Site Generator world with zero JavaScript (except bits you very specifically opt-in to). That HTML-first approach is also why I like …\nThe post Slinkity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://slinkity.dev/",
-          "publishedOn": "2021-07-26T14:36:04.000Z",
-          "wordCount": 550,
-          "title": "Slinkity"
         }
       ]
     },
@@ -8167,6 +8086,78 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/gedgonz/haciendo-deploy-de-una-app-en-angular-a-githubpages-4bll",
+          "author": "Gerald González Zeledón",
+          "description": "Hola! 👋 Esta es una pequeña guía para hacer deploy de una app en angular a GithubPages\n\n\n\n  \n  \n  Paso 1\n\n\nVas a necesitar crear un repositorio en tu github\n\nVas a necesitar un proyecto angular, ejecuta el siguiente comando para crear tu proyecto\nng new app-name\n\nInstale Angular CLI gh-pages (https://www.npmjs.com/package/angular-cli-ghpages)\nHay una herramienta a su disposición que puede utilizar para implementar fácilmente su aplicación angular en gh-pages, la herramienta angular-cli-pages.\nPara instalarlo, ejecutemos este comando en nuestra terminal\nnpm i angular-cli-ghpages\nng add angular-cli-ghpages\n\nEste comando instalará angular-cli-ghpages globalmente en su sistema operativo. No es necesario que lo instale de nuevo en caso de que necesite usarlo en el futuro, no es necesario ejecutar nuevamente el primer comando una vez este instalado globalmente.\nImplementar en gh-pages\nDespués de crear la aplicación, ahora puede implementarla en Github Pages usando la herramienta angular-cli-ghpages\nEjecute el siguiente comando en su terminal para implementar la aplicación, asegurese de escribir correctamente el nombre de su proyecto y que se encuentre dentro de las diagonales //\nng deploy --base-href=/RickAndMorty/\n\nUna vez que desplegué su aplicación angular diríjase a su repositorio y en la sesscion de settings \n\nde clic en la siguiente sección para obtener la url de la pagina\n\nle mostrara la url y ya podrá acceder a ella para ver su app\n\n\nGitHubPages dura al rededor de 30 segundos en aplicar los cambios y mostra la app, siga los pasaos a como se inidcan para que no resiva el 404 de github\nte dejo el link del proyecto del ejemplo: https://github.com/GedGonz/AppRickAndMorty\nEspero esto te ayude en tus implementaciones y pruebas. Saludos!!",
+          "link": "https://dev.to/gedgonz/haciendo-deploy-de-una-app-en-angular-a-githubpages-4bll",
+          "publishedOn": "2021-08-25T21:02:37.000Z",
+          "wordCount": 716,
+          "title": "Haciendo deploy de una app en angular a GitHubPages"
+        },
+        {
+          "id": "https://dev.to/muhammadawaisshaikh/state-management-in-angular-using-ngrx-inspired-by-redux-11l5",
+          "author": "Muhammad Awais",
+          "description": "What is Ngrx? ❤️\n\n\nNgRx is an open source library that provides reactive state management for your Angular applications. Inspired by Redux, NgRx provides a way to maintain data in your Angular application as a single source of truth. NgRx uses streams to interact with a data store.\nThere are five parts that constitute NgRx:\nStore\nReducers\nActions\nSelectors\nEffects\n\nPure Function: A pure function as a function that doesn’t have an internal state. It means that all operations it performs are not affected by that state and given the same input parameters and produces the same deterministic output.\nStore: Your application’s state is maintained in the store. The store is immutable.\nReducers: Reducers are functions that take the current state and an action as arguments, and return a new state re…",
+          "link": "https://dev.to/muhammadawaisshaikh/state-management-in-angular-using-ngrx-inspired-by-redux-11l5",
+          "publishedOn": "2021-08-25T20:04:09.000Z",
+          "wordCount": 892,
+          "title": "Basic State Management in Angular using Ngrx, inspired by Redux"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/filtering-protractor-end-to-end-tests-with-angular-cli-1don",
+          "author": "Lars Gyrup Brink Nielsen",
+          "description": "Cover photo by Michael Burrows on Pexels.\nEnd-to-end tests are relatively slow and with a large test suite, it is very valuable to be able to run only certain tests at a time.\nAngular CLI 9.1 added support for the --grep and --invert-grep parameters to the Protractor builder. These are both end-to-end test filtering options that are passed to Protractor.\nng e2e my-app --grep \"logged out\"\n\nThe previous command demonstrates an example test filter. The grep option is parsed as a regular expression, so every test that has the string \"logged out\" in its description will be run. This includes the description passed to the describe and it test wrapper functions.\nWe can set the --invert-grep parameter flag to invert the filter as seen in the following listing.\nng e2e my-app --grep \"logged out\" --invert-grep\n\nThe grep parameter accepts a regular expression and searches full test descriptions with all their parts joined, for example in a freshly generated Angular CLI workspace, something like the following end-to-end test case is generated.\nimport { AppPage } from './app.po';\n\ndescribe('workspace-project App', () => {\n  let page: AppPage;\n\n  beforeEach(() => {\n    page = new AppPage();\n  });\n\n  it('should display welcome message', () => {\n    page.navigateTo();\n    expect(page.getTitleText()).toEqual('my-app app is running!');\n  });\n});\n\nThe description of the test case will be \"workspace-project App should display welcome message\". We can filter in this test by passing \"^workspace\" or \"message$\" as the grep option or even a combination as seen in the following command which filters in tests with descriptions that start with \"workspace\" or end with \"message\".\nng e2e my-app --grep \"^workspace|message$\"\n\nThe grep and invertGrep options have been supported by the Protractor CLI for years, but support in the official Angular CLI builder for Protractor was first introduced in Angular CLI 9.1.",
+          "link": "https://dev.to/this-is-angular/filtering-protractor-end-to-end-tests-with-angular-cli-1don",
+          "publishedOn": "2021-08-25T20:01:40.000Z",
+          "wordCount": 726,
+          "title": "Filtering Protractor end-to-end tests with Angular CLI"
+        },
+        {
+          "id": "https://dev.to/ahmedgmurtaza/immutably-remove-property-from-javascript-object-3kb7",
+          "author": "Ahmed Murtaza",
+          "description": "Say we want to create a copy of an existing object, reusing most of the properties while dropping few. In order to remove unwanted properties, there are two basic patterns we usually follow.  \nLet say we have the following object to work with:\nLet obj = {\n    Name:'Ahmed Murtaza',\n    Email:'ahmed_murtaza@xyz.com',\n    twitter:'ahmedgmurtaza',\n    fb:'ahmedgmurtaza'\n};\n\nFirst approach is to use delete operator, for that we first duplicate the original object and then explicitly delete the unwanted property out of it, here the unwanted property is twitter:\nLet obj2 = Object.assign({}, obj);\ndelete obj2.twitter;\n\nusing this pattern, we isolate the removing property using destructuring format and name the rest of the properties as new object:\nlet obj2 = { twitter, ...obj2 } = obj;\nconsole.log(obj2); // obj2 does not carries twitter property\n\nUsing the above approach, we can immutably remove any property out of the object or can pick the one we need while ignoring the rest of the properties.",
+          "link": "https://dev.to/ahmedgmurtaza/immutably-remove-property-from-javascript-object-3kb7",
+          "publishedOn": "2021-08-25T17:48:40.000Z",
+          "wordCount": 618,
+          "title": "✨ How to Immutably remove property from JavaScript Object"
+        },
+        {
+          "id": "https://dev.to/vladsolokha/routing-information-in-front-end-angluar-4a7l",
+          "author": "Vlad Solokha",
+          "description": "I've learned that the best way to route information is to use what is already given to you. \nThe first thing is the documentation. In my case to solve my routing and navigation problem I used Angular.io\nMy problem is I needed to figure out a way to route a button click that would engage a method in the component where the button is. The method would need to provide a route to another component and along with it some data from the first component. \nI used the (click)=methodInComponent() to do this\n\n\nIn the component.ts I first needed a way to store the data that I wanted to pass to the other component. I ended up using a method for that as well. I will call the method in the routing method to pass the data using router. \nthis.router.navigate(['theOtherComponentPath', theVariableFromTheOtherMethodToPassData], {});\nprivate router: Router being defined in the constructor. \n\n\nIn the otherComponent.ts I needed a way to access the data that was passed to it. Angular thankfully provides a way to do this via 'ActivatedRoute'. I assigned the data to a variable and used snapshot and paramMap methods to get the data. The code in question looks like this variableNameForData = userId = this.route.snapshot.paramMap.get(\"id\"); id is data that was passed from the other component.\n\n\nI am now working on using the Java backend of the app to get the respective data and display it on the other component. So far it looks like me using the httpClient to 'get' the information that I need. It returns an '[object Object]'. I will try Observable to display the actual data. \n\n\nI interpolated the variables in the HTML template as {{dataFromComponent}}\n\n\n\nLet me know if I'm missing something, but this has been quite a learning adventure because I chose to \nStruggle\nTry things out\nRead the documentation\nImplement it",
+          "link": "https://dev.to/vladsolokha/routing-information-in-front-end-angluar-4a7l",
+          "publishedOn": "2021-08-25T16:30:31.000Z",
+          "wordCount": 720,
+          "title": "Routing Information in Front-End Angluar"
+        },
+        {
+          "id": "https://dev.to/nx/micro-frontends-using-module-federation-presets-for-react-and-storybook-typescript-compiler-plugins-and-more-in-nx-12-8-1ago",
+          "author": "Brandon Roberts",
+          "description": "Nx 12.8 includes many fixes, and new features, including support for Micro-frontends using Module Federation and Angular, presets for React and Storybook, support for TypeScript compiler plugins, and more!\nNx is a smart, extensible build framework to help you architect, test, and build at any scale - integrating seamlessly with modern technologies and libraries while providing a robust CLI, computation caching, dependency management, and more.\nIf you aren't familiar with it, learn about Nx at nx.dev/angular, nx.dev/react, and nx.dev/node.\n\nNx Conf is a new, online & free-to-attend, 2-day conference featuring members of the Nx team and community. Join us as we share our ideas and expertise about making development faster, more scalable, and more collaborative.\nIn addition to the conference …",
+          "link": "https://dev.to/nx/micro-frontends-using-module-federation-presets-for-react-and-storybook-typescript-compiler-plugins-and-more-in-nx-12-8-1ago",
+          "publishedOn": "2021-08-25T15:06:05.000Z",
+          "wordCount": 1413,
+          "title": "Micro-Frontends using Module Federation,  presets for React and Storybook, TypeScript compiler plugins, and more in Nx 12.8!"
+        },
+        {
+          "id": "https://dev.to/gabrielpmaricato/build-projeto-angular-c5j",
+          "author": "Gabriel Peterossi Maricato",
+          "description": "Bom dia pessoal!\nEstou criando meu primeiro post aqui na plataforma.\nHoje vou postar o código para fazer o build do projeto em Angular.\nng build --prod --base-href\n\nEsse post vai ser mais como uma forma pra eu consultar e caso você tenha parado aqui de paraquedas aqui e tenha curtido, dê um joinha (existe isso aqui?) \nValeu!",
+          "link": "https://dev.to/gabrielpmaricato/build-projeto-angular-c5j",
+          "publishedOn": "2021-08-25T12:49:32.000Z",
+          "wordCount": 404,
+          "title": "Build Projeto Angular"
+        },
+        {
+          "id": "https://dev.to/timdeschryver/building-incremental-views-with-xstate-parallel-states-400e",
+          "author": "Tim Deschryver",
+          "description": "Follow me on Twitter at @tim_deschryver | Subscribe to the Newsletter | Originally published on timdeschryver.dev.\nRead the TLDR version on timdeschryver.dev\nLet's give XState a spin to see how we can build incremental views with it to achieve a better and smoother experience for our users.\nIncremental views is a technique that is used when a view needs its data from multiple sources, and where the view directly renders the data coming from these sources as they resolve. Another term for an incremental view is a progressive view.\nTo keep this example simple, we're going to fetch 3 separate todos, and then render them in a single list.\nWe could build this in multiple ways, but I prefer to use parallel (or orthogonal) states.\nWithin a parallel state machine, there are multiple active state n…",
+          "link": "https://dev.to/timdeschryver/building-incremental-views-with-xstate-parallel-states-400e",
+          "publishedOn": "2021-08-25T11:11:21.000Z",
+          "wordCount": 2733,
+          "title": "Building incremental views with XState Parallel States"
+        },
         {
           "id": "https://dev.to/mwinterer/provide-services-to-dynamic-angular-components-3792",
           "author": "mwinterer",
@@ -9408,33 +9399,6 @@
           "publishedOn": "2021-07-27T14:53:38.000Z",
           "wordCount": 1497,
           "title": "Top skills you need as a JavaScript Developer\nMahima Jaiswal"
-        },
-        {
-          "id": "https://dev.to/jokim/creating-a-simple-notice-board-using-angular-4la4",
-          "author": "kim-jos",
-          "description": "What I'm building\n\n\nI'm creating a simple notice board app using Angular to solidify my understanding of it. \nThe project will have a dashboard listing all the notices with the ability to edit, delete and add notices. Each notice will have linked page that displays the details of the notice and comments that other users can add to the notice. This stuff is pretty basic with the only the comment section being a little tricky. I decided to simply add another collection to a document in firebase to implement the comment feature. I'm using firebase for my backend because it provides a lot of APIs which make my life easier.\nTo make this project a little more interesting for myself I've decided to add some additional features to that I've never tried.\nI'm only allowing the page to show three not…",
-          "link": "https://dev.to/jokim/creating-a-simple-notice-board-using-angular-4la4",
-          "publishedOn": "2021-07-27T12:14:39.000Z",
-          "wordCount": 1103,
-          "title": "Creating a simple notice board using Angular"
-        },
-        {
-          "id": "https://dev.to/tarungurang/angular-vs-angularjs-building-accessibility-in-angular-applications-58g9",
-          "author": "Tarun Gurang",
-          "description": "Angular is an open-source JavaScript framework for developing web applications that are created by Google. Angular frameworks used by front-end developers use presenting and manipulating data efficiently. With the newly added angular CLI package, you can create a scaffolding of your Angular project. If we talk about speed, then Angular is five times faster than Angularjs because of much better component-based architecture and data binding.\nIt is a popular framework for building powerful JavaScript applications easily. However, it doesn’t always build the most accessible applications. Yet so many Angular web development companies keep it in priority for their web development.\nAccessibility is often an excluded aspect of building web applications, especially JavaScript Single Page Apps. Fact…",
-          "link": "https://dev.to/tarungurang/angular-vs-angularjs-building-accessibility-in-angular-applications-58g9",
-          "publishedOn": "2021-07-27T10:18:44.000Z",
-          "wordCount": 1435,
-          "title": "Angular Vs Angularjs: Building Accessibility in Angular Applications"
-        },
-        {
-          "id": "https://dev.to/yigitfindikli/primeng-i18n-api-usage-with-ngx-translate-3bh2",
-          "author": "Yiğit FINDIKLI",
-          "description": "How can we use PrimeNG I18N with ngx-translate? Let's start!\nLet's create a brand new angular application using angular-cli.\nng new primeng-i18n-with-ngx\ncd primeng-i18n-with-ngx\n\nLet's add PrimeNG, PrimeFlex, PrimeIcons, and ngx-translate.\nnpm install primeng primeicons primeflex@2.0.0 @ngx-translate/core @ngx-translate/http-loader @angular/localize\n\nWe need to import PrimeNG's CSS dependencies to Angular.json.\nnode_modules/primeicons/primeicons.css \nnode_modules/primeng/resources/themes/vela-blue/theme.css \nnode_modules/primeng/resources/primeng.min.css\n\nNow we need a couple of PrimeNG components and ngx-translate setup.\nNote: Detailed ngx-translate setup can be found in official docs.\nI want to use English to French translation because ngx-translation uses in their example.\nLet's create…",
-          "link": "https://dev.to/yigitfindikli/primeng-i18n-api-usage-with-ngx-translate-3bh2",
-          "publishedOn": "2021-07-26T14:29:33.000Z",
-          "wordCount": 684,
-          "title": "PrimeNG I18N API Usage with ngx-translate"
         }
       ]
     },
@@ -9549,6 +9513,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=31153",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/javascript/vanilla-tilt-js.html",
+          "publishedOn": "2021-08-25T00:36:32.000Z",
+          "wordCount": 1051,
+          "title": "パネル、カード、ボタンなどのUI要素をふわりと浮かせ、視差効果を与えるJavaScriptの超軽量ライブラリ -vanilla-tilt.js"
+        },
         {
           "id": "https://coliss.com/?p=30917",
           "author": "コリス🥦",
@@ -9737,15 +9710,6 @@
           "publishedOn": "2021-07-28T00:26:42.000Z",
           "wordCount": 629,
           "title": "販売期間はあと1週間で終わり！商用で使えるテクスチャとパターン素材25万円分が、約3,000円で購入できる特大セール"
-        },
-        {
-          "id": "https://coliss.com/?p=30603",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-volume-seven.html",
-          "publishedOn": "2021-07-27T00:36:06.000Z",
-          "wordCount": 347,
-          "title": "プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.7"
         }
       ]
     },
@@ -9754,6 +9718,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/96f35cbd3e4c",
+          "author": "Josh Dormont",
+          "description": "Learn, listen, and ask questions to effectively partner with your data scientists with trust\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-partner-with-your-data-science-team-96f35cbd3e4c?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-25T19:04:57.000Z",
+          "wordCount": 943,
+          "title": "How to Partner With Your Data Science Team"
+        },
+        {
+          "id": "https://medium.com/p/faed1942eaf3",
+          "author": "Bill Wohlers",
+          "description": "Here’s why NestJS is a better alternative\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/stop-using-express-js-to-make-web-servers-faed1942eaf3?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-25T18:11:58.000Z",
+          "wordCount": 1965,
+          "title": "Stop Using Express.js For Web Servers, Consider NestJS Instead"
+        },
+        {
+          "id": "https://medium.com/p/38fd4c4b3c86",
+          "author": "Andrew Cavill",
+          "description": "Hint: It’s more than just delivering software in iterations",
+          "link": "https://betterprogramming.pub/do-you-know-what-it-really-means-to-be-agile-38fd4c4b3c86?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-25T17:56:29.000Z",
+          "wordCount": 2325,
+          "title": "Do You Know What It Really Means to Be Agile?"
+        },
+        {
+          "id": "https://medium.com/p/e87b98594eac",
+          "author": "Vinita",
+          "description": "Freedom to disagree with others cannot be boundaryless\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/what-to-do-when-your-employees-are-fighting-in-the-workplace-e87b98594eac?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-25T17:02:39.000Z",
+          "wordCount": 2168,
+          "title": "What To Do When Your Employees Are Fighting in the Workplace?"
+        },
+        {
+          "id": "https://medium.com/p/60141e0daa16",
+          "author": "Arnold Abraham",
+          "description": "Use JavaScript functions the modern way\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/6-javascript-best-practices-to-master-functional-programming-style-60141e0daa16?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-25T16:48:49.000Z",
+          "wordCount": 1743,
+          "title": "6 JavaScript Best Practices To Master  Functional Programming Style"
+        },
+        {
+          "id": "https://medium.com/p/1e91a807dbc1",
+          "author": "John Philip",
+          "description": "Know how important is GitHub when job hunting\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/why-github-matters-for-self-taught-programmers-1e91a807dbc1?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-25T16:47:26.000Z",
+          "wordCount": 974,
+          "title": "Why GitHub Matters for Self-Taught Programmers"
+        },
+        {
+          "id": "https://medium.com/p/bee7f6767272",
+          "author": "Sunny Sun",
+          "description": "Gain in-depth knowledge in TypeScript\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/4-typescript-books-that-i-recommend-bee7f6767272?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-25T16:45:27.000Z",
+          "wordCount": 1097,
+          "title": "4 TypeScript Books That I Recommend"
+        },
+        {
+          "id": "https://medium.com/p/39b3a5e81cf",
+          "author": "Dr. Derek Austin",
+          "description": "Start using CSS width: 100% instead of width: 100vw and see how “viewport units” can cause scrollbars\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/is-there-a-horizontal-scrollbar-on-your-website-10-ways-to-prevent-it-39b3a5e81cf?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-25T16:44:14.000Z",
+          "wordCount": 4448,
+          "title": "Is There a Horizontal Scrollbar Overflow on Your Website? 10 Ways To Prevent It"
+        },
+        {
+          "id": "https://medium.com/p/9b245fa782a8",
+          "author": "Ng Wai Foong",
+          "description": "Learn to find and set git directories and working trees\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/understanding-directory-trees-with-git-9b245fa782a8?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-25T16:41:32.000Z",
+          "wordCount": 1110,
+          "title": "Understanding Directory Trees With Git"
+        },
+        {
+          "id": "https://medium.com/p/954080ee9644",
+          "author": "Hussain Arif",
+          "description": "How to integrate react-beautiful-dnd in your React application\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/build-a-to-do-app-using-react-with-drag-and-drop-functionality-954080ee9644?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-25T16:40:44.000Z",
+          "wordCount": 1868,
+          "title": "Build a To-Do App Using React With Drag-and-Drop Functionality"
+        },
         {
           "id": "https://medium.com/p/e3b2c5fe38e0",
           "author": "Jordan Williams",
