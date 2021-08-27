@@ -12,6 +12,20 @@
       "siteUrl": "https://zenn.dev/topics/angular",
       "articles": [
         {
+          "id": "https://zenn.dev/riko/articles/5edbbd9751b673",
+          "author": "riko",
+          "description": "初めに\nAngularで作ったアプリを他の人に見てもらいたい場合、わざわざサーバーレンタルして…ってやらなきゃいけないのか…？って思って調べてみたらgithub pagesから全世界に公開できるようです！\n\n 環境\nangular-cli-ghpagesというパッケージを使います。\nこいつが必要とする環境が以下の通りなので最低環境はこれになります。\n\nGit 1.9以降\nAngular CLI v9.0.0以降を介して作成されたAngularプロジェクト\n(ng updateでプロジェクトをupdateすればv9.0.0未満でも行けるらしいです。)\n\n\n 手順\n\n\nangular-c...",
+          "link": "https://zenn.dev/riko/articles/5edbbd9751b673",
+          "publishedOn": "2021-08-25T13:06:17.000Z",
+          "wordCount": 47,
+          "title": "Angularで作成したWEBアプリをgithub pagesで公開する",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--icd32gkB--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:riko%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Angular%25E3%2581%25A7%25E4%25BD%259C%25E6%2588%2590%25E3%2581%2597%25E3%2581%259FWEB%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592github%2520pages%25E3%2581%25A7%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fMGUxOWIwOTIxZi5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://zenn.dev/riko/articles/1c4bead304879c",
           "author": "riko",
           "description": "事象\nng serveで起動した開発サーバーは特定のページで再読み込みをすると正常に表示されるのに、\nng buildでビルドしたアプリをnginxでデプロイするとNot Foundになってしまう。\n\n 環境\n\n\n\nミドルウェア名\nバージョン\n\n\n\n\nangular\n12.0.3\n\n\nangular-cli\n12.0.3\n\n\nnginx\n1.21.1\n\n\n\n\n 結論\n\n 対策\n\n 1. HashLocationStrategyを使用する\n\napp-routing.module.tsで{ useHash: true }を記述する。\n\n      \n        \n          ...",
@@ -46,6 +60,249 @@
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-4/",
+          "author": null,
+          "description": "Today we’re excited to announce the availability of TypeScript 4.4! If you haven’t heard of TypeScript yet, it’s a language that builds on JavaScript by adding syntax for static types. Tools like the TypeScript compiler just erase those types, leaving you with clean readable JavaScript that you c...",
+          "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-4/",
+          "publishedOn": "2021-08-26T21:58:06.000Z",
+          "wordCount": 4511,
+          "title": "Announcing TypeScript 4.4 | TypeScript"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/yajiuma/1346568.html",
+          "author": null,
+          "description": "デジタル庁が運営する「note」が、新ドメインへの移転を突如発表。即日旧ドメインを放棄して移転を実施し、ネット上で批判が巻き起こっている。",
+          "link": "https://internet.watch.impress.co.jp/docs/yajiuma/1346568.html",
+          "publishedOn": "2021-08-26T21:04:01.000Z",
+          "wordCount": 70,
+          "title": "デジタル庁の「note」、新ドメインへの移転を突如実施。リダイレクトもなく批判が殺到【やじうまWatch】 - INTERNET Watch"
+        },
+        {
+          "id": "https://shtnkgm.com/blog/2021-08-18-ios15.html",
+          "author": null,
+          "description": "Xcode13、iOS15に対応するためのポイントをまとめる。 Xcode13 beta、iOS15 beta環境はこちらからインストール https://developer.apple.com/download/ (opens new window) Carthageビルドに失敗する Carthageを利用しており、以下のXcode12のWorkaroundスクリプトを導入している場合は、Xcode13対応版に修正する必要が...",
+          "link": "https://shtnkgm.com/blog/2021-08-18-ios15.html",
+          "publishedOn": "2021-08-26T15:22:52.000Z",
+          "wordCount": 395,
+          "title": "Xcode13、iOS15に対応する | shtnkgm"
+        },
+        {
+          "id": "https://oranie.hatenablog.com/entry/2021/08/26/233701",
+          "author": null,
+          "description": "yokuo825さんのカッコいいインタビュー記事を t.co 読んで、この部分ですね ──例えばどのような話をしましたか？ 「インストールされたばかりのMySQLがあるとして、特定テーブルに1件のレコードを最初にINSERTした場合、アクセスが発生するファイルとその理由をすべて教えてください」と質問されたのを覚えています。 具...",
+          "link": "https://oranie.hatenablog.com/entry/2021/08/26/233701",
+          "publishedOn": "2021-08-26T14:42:59.000Z",
+          "wordCount": 199,
+          "title": "MySQLに初めてINSERTするとアクセスが発生するファイルは何かという質問をどう調べるのか - oranie's blog"
+        },
+        {
+          "id": "https://so-wh.at/entry/2021/08/26/013643",
+          "author": null,
+          "description": "github.com 経緯 qrnを作ってからndjsonとかJSON Linesとか呼ばれているJSONを一行にして改行で並べたフォーマット*1がなかなか合理的で便利なことに気づいた。 たとえば 複数行のデータ（SQLなど）をエスケープして一行にまとめられる jqで加工・フィルタリングしやすい とか。 一方でcoreutilsみたいな基本的なツール...",
+          "link": "https://so-wh.at/entry/2021/08/26/013643",
+          "publishedOn": "2021-08-26T12:10:13.000Z",
+          "wordCount": 194,
+          "title": "ndjsonをソートするプログラムを書いた - so what"
+        },
+        {
+          "id": "https://japanese.engadget.com/google-pay-apple-default-engine-113107751.html",
+          "author": null,
+          "description": "iPhoneやiPad、Macの純正WebブラウザであるSafariのデフォルト検索エンジンは、長年にわたってGoogleに設定されています。 アップルが偶然ないし好意だけでそうすることはあり得ず、Googleがその地位を守るために巨額の対価を支払っていることは、公然の事実と見られています。どうして払うかといえば、iPhoneユーザーが...",
+          "link": "https://japanese.engadget.com/google-pay-apple-default-engine-113107751.html",
+          "publishedOn": "2021-08-26T11:35:08.000Z",
+          "wordCount": 220,
+          "title": "Googleがアップルに払う「デフォルト検索エンジン」代金、1兆6500億円に達するとの噂 - Engadget 日本版"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/05960/",
+          "author": null,
+          "description": "富士通が社員の働く場所を柔軟に変更できる取り組みを進めている。特に大分県と協定を結び、2021年4月に移住説明会を開催するなど、社員の同県への移住に積極的な姿勢を見せている。実際に、2021年6月時点で6人の移住が決定。一部の社員は既に大分県内での生活をスタートさせている。そのうちの2人になぜ移住しようと考...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/05960/",
+          "publishedOn": "2021-08-26T09:40:55.000Z",
+          "wordCount": 343,
+          "title": "富士通社員が大分県へ続々移住、「首都圏に住む理由がなくなった」 | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://secret-garden.hatenablog.com/entry/2021/08/26/182409",
+          "author": null,
+          "description": "先日 RubyKaigi Takeout 2021 のスピーカーとスケジュールが発表されました。 わたしも 3日目の朝一に Use Macro all the time ~ マクロを使いまくろ ~というタイトルで登壇させていただきます。 内容はタイトルにも書かれている通りマクロの話をします。 マクロと言ってもいわゆる C言語のようなプリプロセスマクロでは...",
+          "link": "https://secret-garden.hatenablog.com/entry/2021/08/26/182409",
+          "publishedOn": "2021-08-26T09:39:24.000Z",
+          "wordCount": 499,
+          "title": "RubyKaigi Takeout 2021 で Ruby のマクロについて話します - Secret Garden(Instrumental)"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/news/1346429.html",
+          "author": null,
+          "description": "ティーピーリンクジャパン株式会社は、スマートスピーカー機能を搭載するWi-Fi 6対応メッシュWi-Fiシステム「Deco Voice X20」の一般販売を9月9日より開始する。Amazon.co.jpの販売価格は2台セットで2万7800円。",
+          "link": "https://internet.watch.impress.co.jp/docs/news/1346429.html",
+          "publishedOn": "2021-08-26T09:36:49.000Z",
+          "wordCount": 113,
+          "title": "TP-Link、Alexa対応Wi-Fi 6メッシュ「Deco Voice X20」の一般販売開始 - INTERNET Watch"
+        },
+        {
+          "id": "https://tech.jxpress.net/entry/2021/08/26/170000",
+          "author": null,
+          "description": "背景 はじめまして、JX通信社でインターンをしている原田です。 近年深層学習ではモデルが肥大化する傾向にあります。2020年にopen aiが示したScaling Laws（[2001.08361] Scaling Laws for Neural Language Models） の衝撃は記憶に新しく、MLP-Mixerが示したように、モデルを大きくすればAttention構造やCNNでさえも不...",
+          "link": "https://tech.jxpress.net/entry/2021/08/26/170000",
+          "publishedOn": "2021-08-26T09:19:15.000Z",
+          "wordCount": 760,
+          "title": "BERTの推論速度を最大10倍にしてデプロイした話とそのTips - JX通信社エンジニアブログ"
+        },
+        {
+          "id": "https://webdesign-trends.net/entry/13584",
+          "author": null,
+          "description": "WordPressの自作テーマを作る場合、0から自分で作る方法でも作ることはできますが、WordPress独自のコードを記述する量が多くなってしまい、かなりの手間がかかってしまいます。 そんな時に使えるのが「ブランクテーマ」「スターターテーマ」と呼ばれるテーマです。ブランクテーマやスターターテーマを使うと、基本機能...",
+          "link": "https://webdesign-trends.net/entry/13584",
+          "publishedOn": "2021-08-26T08:37:05.000Z",
+          "wordCount": 168,
+          "title": "WordPressのおすすめブランクテーマ・スターターテーマまとめ【2021年版】 | Web Design Trends"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1346503.html",
+          "author": null,
+          "description": "米Microsoftは「Microsoft Office」や「Outlook」、「OneDrive」といったAndroidアプリのChromebook対応を終了する。現在、アプリを起動するとサポートとアップデートを終了したとのメッセージとともに、「Office.com」への移行を促すダイアログが現れる。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1346503.html",
+          "publishedOn": "2021-08-26T08:32:14.000Z",
+          "wordCount": 93,
+          "title": "Microsoft、Android版Office、Outlook、OneDriveなどのChromebook対応を終了へ - 窓の杜"
+        },
+        {
+          "id": "https://gigazine.net/news/20210826-linux-30-years-happy-birthday/",
+          "author": null,
+          "description": "1991年8月25日、当時ヘルシンキ大学の学生だったリーナス・トーバルズが自分で開発したOSカーネルである「Linux」を公開しました。2021年8月25日で「Linuxの誕生日」からちょうど30年を迎えることとなります。 30th Anniversary of Linux - Linux Foundation https://linuxfoundation.org/linux30th/ Linux turns 30: ​L...",
+          "link": "https://gigazine.net/news/20210826-linux-30-years-happy-birthday/",
+          "publishedOn": "2021-08-26T08:26:59.000Z",
+          "wordCount": 215,
+          "title": "世界で最も使われるオープンソースのUNIX系OS「Linux」が生誕30周年 - GIGAZINE"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1346488.html",
+          "author": null,
+          "description": "フリーのテキストエディター「Notepad++」v8.1.4が、8月25日に公開された。今回のアップデートの目玉は、「TypeScript」に対応したこと。言語設定を［TypeScript］に切り替えると、構文色分け（シンタックスハイライト）、入力補完、関数リストといった機能が利用できる。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1346488.html",
+          "publishedOn": "2021-08-26T08:26:44.000Z",
+          "wordCount": 102,
+          "title": "「Notepad++」が「TypeScript」に対応 ～構文色分けや入力補完が可能に - 窓の杜"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/26/news134.html",
+          "author": null,
+          "description": "文章の「3行要約」を生成するAIのデモサイトを、東大・松尾豊研究室発のAIベンチャーが公開。会話文の要約も得意だ。要約の正確性は「人間に匹敵する」という。 東京大学・松尾豊研究室発のAIベンチャーELYZA（イライザ／東京都文京区）は8月26日、文章の要約文を生成するAI「ELYZA DIGEST」を試せるデモサイトを公開し...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/26/news134.html",
+          "publishedOn": "2021-08-26T07:48:43.000Z",
+          "wordCount": 154,
+          "title": "「どんな文章も3行に要約するAI」デモサイト、東大松尾研発ベンチャーが公開　「正確性は人間に匹敵」 - ITmedia NEWS"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/react-beginners-tried-to-create-a-modern-web-form-with-material-ui-and-yup/",
+          "author": null,
+          "description": "React 初心者が、Material-UI と React Hook Form v7 を活用して今どきの Web フォーム開発に挑んでみました！ つい先月、React（+ React Hook Form）と Material-UI を組み合わせた Web アプリ開発を始めました。アプリ開発初心者でも簡単に、かつ今っぽい Web フォームを開発することができたので、少しコードを交えて...",
+          "link": "https://dev.classmethod.jp/articles/react-beginners-tried-to-create-a-modern-web-form-with-material-ui-and-yup/",
+          "publishedOn": "2021-08-26T07:46:33.000Z",
+          "wordCount": 1008,
+          "title": "React 初心者が Material-UI で今どきの Web フォームを作ってみた（yup編） | DevelopersIO"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2021/08/morefine-s500-plus.html",
+          "author": null,
+          "description": "Ryzen 9 5900HX搭載のミニPCが499ドルから。これとモバイルモニターで良いのでは……？2021.08.26 10:0513,278 ヤマダユウス型 Image: Morefine via Indiegogo 意味なく欲しい（物欲）。 Indiegogoにて、AMDの高性能CPUであるRyzen 9 5900HXを搭載したミニPC｢MOREFINE S500+｣のクラウドファンディングが、もうすぐ始まりま...",
+          "link": "https://www.gizmodo.jp/2021/08/morefine-s500-plus.html",
+          "publishedOn": "2021-08-26T06:27:46.000Z",
+          "wordCount": 89,
+          "title": "Ryzen 9 5900HX搭載のミニPCが499ドルから。これとモバイルモニターで良いのでは……？ | ギズモード・ジャパン"
+        },
+        {
+          "id": "https://ledge.ai/soumu-datascience-exercise/",
+          "author": null,
+          "description": "画像は『総務省統計局「社会人のためのデータサイエンス演習」講座PV』より 総務省は9月28日の14時から、実践的なデータ分析の手法を学習できるとうたう、データサイエンス・オンライン講座「社会人のためのデータサイエンス演習」を開講する。登録料および受講料は無料。 本講座では、ビジネスや行政での活用を想定して...",
+          "link": "https://ledge.ai/soumu-datascience-exercise/",
+          "publishedOn": "2021-08-26T05:55:16.000Z",
+          "wordCount": 147,
+          "title": "総務省、社会人データサイエンス演習が無料に 講師は松尾豊氏ら | Ledge.ai"
+        },
+        {
+          "id": "https://github.com/uzimaru0000/tv",
+          "author": null,
+          "description": "$ cat test.json [ { \"name\": \"test\", \"age\": 10, \"lang\": \"ja\" }, { \"name\": \"uzimaru\", \"age\": 23, \"lang\": \"ja\" }, { \"name\": \"hogehoge\", \"age\": 21, \"lang\": \"en\" }, { \"name\": \"hugehuge\", \"age\": 32, \"lang\": \"en\" } ] $ tv test.json |age|lang| name| |---|----|--------| | 10| ja| test| | 23| ja| uzimaru| ...",
+          "link": "https://github.com/uzimaru0000/tv",
+          "publishedOn": "2021-08-26T05:38:32.000Z",
+          "wordCount": 615,
+          "title": "GitHub - uzimaru0000/tv: CLI tool for displaying table"
+        },
+        {
+          "id": "https://www.businessinsider.jp/post-241127",
+          "author": null,
+          "description": "マイクロソフトのサティア・ナデラ最高経営責任者（CEO）とアマゾンのアンディ・ジャシー新CEO。 Axelle/Bauer-Griffin/FilmMagic/REUTERS/Mike Blake/Sean Gallup/Getty Images アマゾンのクラウドビジネス確立の立役者で、今月突如退社した在籍23年の経営幹部、チャーリー・ベルが、業界首位を争う競合相手のマイクロ...",
+          "link": "https://www.businessinsider.jp/post-241127",
+          "publishedOn": "2021-08-26T05:38:09.000Z",
+          "wordCount": 161,
+          "title": "【速報】宿敵マイクロソフトに電撃移籍へ。AWS｢エンジニア部門の魂｣ベルSVP、突如退社の衝撃 | Business Insider Japan"
+        },
+        {
+          "id": "https://japan.zdnet.com/article/35175764/",
+          "author": null,
+          "description": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます トレンドマイクロは、日本や海外でランサムウェア「LockBit 2.0」による脅威が拡大する恐れがあるとして注意を呼び掛けた。データの不正な暗号化と暴露の手口により、企業や組...",
+          "link": "https://japan.zdnet.com/article/35175764/",
+          "publishedOn": "2021-08-26T05:21:13.000Z",
+          "wordCount": 439,
+          "title": "ランサムウェア「LockBit 2.0」の脅威拡大、VPNからの侵入も - ZDNet Japan"
+        },
+        {
+          "id": "https://developer.so-tech.co.jp/entry/kichion-01",
+          "author": null,
+          "description": "はじめまして、ライクル事業部 エンジニアの菊池@kichionです。 普段の業務では主にエンジニアチーム運営・運用の課題解決やビジネスサイドとのやり取りが多く、中長期目線でのアプローチを行っています。 エンジニアとして行っている技術選定や実装関連についてはZenn - kichionにも投稿していますので興味があればご覧...",
+          "link": "https://developer.so-tech.co.jp/entry/kichion-01",
+          "publishedOn": "2021-08-26T05:14:04.000Z",
+          "wordCount": 199,
+          "title": "ドメイン駆動開発を浸透させるための新しい取り組み - SO Technologies 開発者ブログ"
+        },
+        {
+          "id": "https://eh-career.com/engineerhub/entry/2021/08/26/110000",
+          "author": null,
+          "description": "エンジニアHub > 記事一覧 > 「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！ 「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！ エンジニアHubでは2019年に「がんばらないTypeS...",
+          "link": "https://eh-career.com/engineerhub/entry/2021/08/26/110000",
+          "publishedOn": "2021-08-26T03:21:00.000Z",
+          "wordCount": 1647,
+          "title": "「がんばらないTypeScript」のための現実的な設定を考える ─ 4レベルの厳しさを使い分けてTypeScript疲れを克服しよう！ - エンジニアHub｜Webエンジニアのキャリアを考える！"
+        },
+        {
+          "id": "https://speakerdeck.com/mtym27/ibm-dojo-cuo-zhe-sinaidomeinqu-dong-she-ji-20210825pm",
+          "author": null,
+          "description": "Transcript 1 © 2021 IBM Corporation 挫折しないドメイン駆動設計（DDD） ⽇本アイ･ビー･エム株式会社 テクノロジー事業本部 カスタマー・サクセス・マネージャー 松⼭ 由莉⼦ Dojo夏休み企画 2 © 2021 IBM Corporation アジェンダ n DDD超概要 - DDDとは - DDDの関⼼の⾼まり n ドメインって何︖ - ドメインに興味を持...",
+          "link": "https://speakerdeck.com/mtym27/ibm-dojo-cuo-zhe-sinaidomeinqu-dong-she-ji-20210825pm",
+          "publishedOn": "2021-08-26T02:26:12.000Z",
+          "wordCount": 798,
+          "title": "IBM Dojo 挫折しないドメイン駆動設計 20210825pm - Speaker Deck"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1346234.html",
+          "author": null,
+          "description": "“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1346234.html",
+          "publishedOn": "2021-08-26T02:05:46.000Z",
+          "wordCount": 142,
+          "title": "「Microsoft Edge」でダウンロードしたアプリに警告が……実行して大丈夫？ - やじうまの杜 - 窓の杜"
+        },
+        {
+          "id": "https://www.digest.elyza.ai/",
+          "author": null,
+          "description": "※ 本モデルはデモンストレーション用の小さなモデルです。精度面で不十分なケースもございます。ご了承ください。",
+          "link": "https://www.digest.elyza.ai/",
+          "publishedOn": "2021-08-26T01:02:04.000Z",
+          "wordCount": 67,
+          "title": "ELYZA DIGEST"
+        },
+        {
+          "id": "https://speakerdeck.com/ishige/cedec2021-1501a2a4-a35f-4e57-861c-27e13f63f045",
+          "author": null,
+          "description": "Transcript 株式会社アカツキ 石毛琴恵、増田謙太郎 モバイルゲーム事業で  大規模スクラム（LeSS）を  導入するまでの1年間とその後 石毛 琴恵　いっしー@oturu333  株式会社アカツキ   EM / 認定スクラムマスター    2010〜2013 受託開発、SES 2013〜2018 BtoB Web自社サービス  2018〜2019 フリーランスEM（常駐）  2...",
+          "link": "https://speakerdeck.com/ishige/cedec2021-1501a2a4-a35f-4e57-861c-27e13f63f045",
+          "publishedOn": "2021-08-26T00:25:01.000Z",
+          "wordCount": 2002,
+          "title": "モバイルゲーム事業で大規模スクラム（LeSS）を導入するまでの1年間とその後 / CEDEC2021 - Speaker Deck"
+        },
         {
           "id": "https://www.gizmodo.jp/2021/08/strange-structure-of-the-milky-way-galaxy.html",
           "author": null,
@@ -227,6 +484,15 @@
           "title": "CEDEC2021 ダウンロード時間を大幅減！～大量のアセットをさばく高速な実装と運用事例の共有～"
         },
         {
+          "id": "https://ledge.ai/authorinterview-book-bert-int/",
+          "author": null,
+          "description": "6月に販売開始した、ストックマーク株式会社の機械学習エンジニアによる共著『BERTによる自然言語処理入門：Transformersを使った実践プログラミング』（オーム社）。売れ行きも好調で、発売日の前から重版が決定していた。 本書はデータセットの処理から、BERTのファインチューニング（BERTを特定の言語タスクに特化さ...",
+          "link": "https://ledge.ai/authorinterview-book-bert-int/",
+          "publishedOn": "2021-08-25T04:56:48.000Z",
+          "wordCount": 156,
+          "title": "日本語でBERTが動くイメージを知ってほしい。『BERTによる自然言語処理入門』の著者に聞く | Ledge.ai"
+        },
+        {
           "id": "https://kittygiraudel.com/2021/08/24/from-cra-to-next/",
           "author": null,
           "description": "I recently moved a significant codebase from Create-React-App (CRA for short) to Next and thought I would share my experience, because believe me or not, it was quite a journey (and not necessarily a pleasant one). There are plenty reasons why you might want to move to Next from a CRA app. It pro...",
@@ -252,6 +518,15 @@
           "publishedOn": "2021-08-25T01:33:06.000Z",
           "wordCount": 196,
           "title": "Hideyuki Tanaka on Twitter: \"https://t.co/CgmiJVhVus Rustはメモリ安全性をコンパイルタイムに保障するプログラミング言語だが、ローレベルハードウェアにアクセスしたいなどのシステムソフトウェアの要求に応じるために、そういうコンパイラの… https://t.co/IAQ36vteVI\""
+        },
+        {
+          "id": "https://www.gizmodo.jp/2021/08/about-amazon-gift-card.html",
+          "author": null,
+          "description": "Amazon｢転売サイトから買ったAmazonギフト券は使っちゃダメ、垢BANするよ｣2021.08.25 10:0010,772 ヤマダユウス型 Image: GaleanoStock/Shutterstock ちゃんとしたとこで、買おうね。 ゲーム機や限定スニーカーなどの人気商品が転売されるなか、Amazonギフト券も転売されていることがあります。この転売されたAmazonギフ...",
+          "link": "https://www.gizmodo.jp/2021/08/about-amazon-gift-card.html",
+          "publishedOn": "2021-08-25T01:03:26.000Z",
+          "wordCount": 75,
+          "title": "Amazon｢転売サイトから買ったAmazonギフト券は使っちゃダメ、垢BANするよ｣ | ギズモード・ジャパン"
         },
         {
           "id": "https://dev.classmethod.jp/articles/introduction-git-io-github-url-shorten-service/",
@@ -7200,231 +7475,6 @@
           "publishedOn": "2021-07-28T12:55:51.000Z",
           "wordCount": 5,
           "title": "システム会社の一台のWebサーバー（Nginx）でのSSL証明書の更新作業の見積もりが20万円でした。ファイルをアップロードして再起動するだけですよね？ぼったくりだと思いますか？ - Quora"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/07/28/wtnv-eukarya-re-earth/",
-          "author": null,
-          "description": "東京大学 大学院情報学環 渡邉英徳研究室は7月26日、ユーカリヤ（Eukarya）と共同で汎用的WebGISプラットフォーム「Re:Earth」（リアース）を開発し、オープンソースソフトウェア（OSS）としてGitHub上で公開したと発表した。ライセンスは「Apache License 2.0」。行動規範（Code of Conducts）も公開している。 また成...",
-          "link": "https://jp.techcrunch.com/2021/07/28/wtnv-eukarya-re-earth/",
-          "publishedOn": "2021-07-28T12:09:18.000Z",
-          "wordCount": 305,
-          "title": "東京大学が「デジタルツイン」構築向けWebGISプラットフォーム「Re:Earth」をオープンソースとして公開 | TechCrunch Japan"
-        },
-        {
-          "id": "https://zenn.dev/mura_chan/articles/e8c85262f54830",
-          "author": null,
-          "description": "// コンパイルエラー const numbers: NonEmptyArray = []; // これはコンパイルが通る const numbers: NonEmptyArray = [1]; const needNonEmpty = (arr: NonEmptyArray) => arr.length const a: number[] = [1,2,3]; const b: NonEmptyArray = [1,2,3]; const isNonEmptyArray = (a...",
-          "link": "https://zenn.dev/mura_chan/articles/e8c85262f54830",
-          "publishedOn": "2021-07-28T12:07:49.000Z",
-          "wordCount": 67,
-          "title": "Typescriptで空でない配列を型で表現する"
-        },
-        {
-          "id": "https://stock.pulpxstyle.com/",
-          "author": null,
-          "description": "世の中には素晴らしいデザインが溢れています。 その中からWebデザインの現場で参考になる日本の優れたWebデザインを集めてみました。 あなたのインスピレーションを刺激してみてください。",
-          "link": "https://stock.pulpxstyle.com/",
-          "publishedOn": "2021-07-28T11:58:35.000Z",
-          "wordCount": 912,
-          "title": "Stock - Webデザインギャラリー"
-        },
-        {
-          "id": "https://iphone-mania.jp/news-385599/",
-          "author": null,
-          "description": "iOS15ベータ4を解析したところ、iPhoneやApple Watchに身分証明書を登録するプロセスが判明した、と米メディア9to5Macが報じています。ユーザーの自撮り写真（セルフィー）を使って本人確認が行われます。 iOS15ベータ4から身分証の登録プロセスが判明 Appleは6月の世界開発者会議（WWDC21）でiOS15とwatchOS8の新機能と...",
-          "link": "https://iphone-mania.jp/news-385599/",
-          "publishedOn": "2021-07-28T11:55:13.000Z",
-          "wordCount": 244,
-          "title": "iOS15でiPhoneへの身分証登録、本人確認にセルフィーを利用すると判明 - iPhone Mania"
-        },
-        {
-          "id": "https://gigazine.net/news/20210728-windows-96/",
-          "author": null,
-          "description": "1990年代に登場したWindowsには、1995年に発売された「Windows 95」や1998年にリリースされた「Windows 98」といったものがあります。そんなメジャーバージョンがリリースされなかった年にもしもWindowsが登場していたら……ということで、ありそうでなかった「Windows 96」をインターネット上でHTML5、CSS、JavaScript、W...",
-          "link": "https://gigazine.net/news/20210728-windows-96/",
-          "publishedOn": "2021-07-28T11:12:23.000Z",
-          "wordCount": 233,
-          "title": "「Windows 96」が登場、往年の名OSを彷彿とさせる架空のWindowsにブラウザからアクセス可能 - GIGAZINE"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/accessibility-insights/",
-          "author": null,
-          "description": "Web制作時にGoogleChrome拡張のAccessibility Insightsを使ってアクセシビリティの評価を行う いわさです。 皆様、アクセシビリティに配慮したWebサイトの設計されてますでしょうか。 Webアクセシビリティを評価するためのツールがMicrosoftから提供されていますので紹介したいと思います。 Accessibility Insightsとい...",
-          "link": "https://dev.classmethod.jp/articles/accessibility-insights/",
-          "publishedOn": "2021-07-28T10:51:01.000Z",
-          "wordCount": 177,
-          "title": "Web制作時にGoogleChrome拡張のAccessibility Insightsを使ってアクセシビリティの評価を行う | DevelopersIO"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/28/news160.html",
-          "author": null,
-          "description": "オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 東京大学などが、Webブラウザから使えるオープンソースの地理情報システム「Re:Earth」を公開した。地理空間上への情報のマッピングや、3D情報の付加などがマウス操作のみで行え、ユーザーが独自のWebアプリとし...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/28/news160.html",
-          "publishedOn": "2021-07-28T10:42:11.000Z",
-          "wordCount": 154,
-          "title": "オープンソースの地理情報システム「Re:Earth」登場　マウス操作で情報追加、地図をWebアプリとして公開可 - ITmedia NEWS"
-        },
-        {
-          "id": "https://zenn.dev/choo/articles/84f41ad249c1dd",
-          "author": null,
-          "description": "個人開発で 賃貸物件検索サービス Comfy を作りました。 先週、リリース後の告知ツイートをしたのですが、幸いなことに多くの人にリツイート・いいねの反響を頂きました（リアクションして頂いた方、本当にありがとうございます…!!!） この記事では、Comfy のシステム構成及び使用した技術・サービスを紹介します。 シス...",
-          "link": "https://zenn.dev/choo/articles/84f41ad249c1dd",
-          "publishedOn": "2021-07-28T10:05:58.000Z",
-          "wordCount": 249,
-          "title": "個人開発した賃貸物件検索サービスのシステム構成と使用技術"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1340638.html",
-          "author": null,
-          "description": "AYANEOは23日(現地時間)に、新CEO“Uncle Tail”氏自らストリーミング配信を行ない、7型ポータブルWindowsゲーム機「AYANEO」シリーズの新モデル「AYANEO 2021 Pro」を発表した。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1340638.html",
-          "publishedOn": "2021-07-28T05:49:30.000Z",
-          "wordCount": 131,
-          "title": "Ryzen 7 4800U搭載になった7型Windowsゲーム機「AYANEO 2021 Pro」。ゲームボーイを彷彿とさせる色に - PC Watch"
-        },
-        {
-          "id": "https://blog.shibayan.jp/entry/20210728/1627450686",
-          "author": null,
-          "description": "基本的には Windows と Visual Studio を使って Azure Functions や GitHub で公開しているアプリケーションとライブラリを書いていますが、最近は Python や Go を書く必要がちょいちょい出てきたので、色々と観念して WSL 2 の環境を構築して使っています。 特に Python は Azure Functions だと Linux のみ対応となる...",
-          "link": "https://blog.shibayan.jp/entry/20210728/1627450686",
-          "publishedOn": "2021-07-28T05:44:22.000Z",
-          "wordCount": 654,
-          "title": "Windows / Visual Studio 使いが WSL 2 / Visual Studio Code で環境構築した時の手順 - しばやん雑記"
-        },
-        {
-          "id": "https://gigazine.net/news/20210728-alphabet-google-2021q2/",
-          "author": null,
-          "description": "Googleの親会社であるAlphabetが2021年第2四半期(4月～6月)の決算報告書を公開しました。2020年第2四半期には新型コロナウイルス感染症(COVID-19)の流行によってAlphabet全体の収益が減少する事態に陥っていましたが、2021年第2四半期の収益は前年同期比62％増の610億8800万ドル(約6兆8000億円)で過去最高を記録していま...",
-          "link": "https://gigazine.net/news/20210728-alphabet-google-2021q2/",
-          "publishedOn": "2021-07-28T05:39:33.000Z",
-          "wordCount": 181,
-          "title": "Googleが6兆8000億円の収益で過去最高を記録、YouTubeの広告収入は7700億円でクラウド事業も着実に成長中 - GIGAZINE"
-        },
-        {
-          "id": "https://techfeed.io/entries/6100dfc223bbb26e929f3db7",
-          "author": null,
-          "description": "",
-          "link": "https://techfeed.io/entries/6100dfc223bbb26e929f3db7",
-          "publishedOn": "2021-07-28T04:41:39.000Z",
-          "wordCount": 95,
-          "title": "今、Battlesnake（バトルスネーク）が熱い - git cloneしてAPIサーバー立ててプログラミングしてマルチプレイヤーバトル！"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1340625.html",
-          "author": null,
-          "description": "ドスパラは、デスクを備えたスリーアールソリューション製のエアロバイク「ツクエアロ2 デスク付きエクササイズバイク」を発売した。価格は2万9,900円。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1340625.html",
-          "publishedOn": "2021-07-28T04:17:35.000Z",
-          "wordCount": 98,
-          "title": "ドスパラ、ノートPCで仕事しながら運動できるエアロバイク。2万9,900円 - PC Watch"
-        },
-        {
-          "id": "https://blog.kenall.jp/entry/2021/07/28/124740",
-          "author": null,
-          "description": "自分のPCやサーバーに設定されたIPアドレスを確認するためのAPI、「自己IPアドレス確認API」の提供を開始いたしました。 ケンオールのアカウントがあればどなたでも無償でご利用いただけます。 使用方法は、/whoami エンドポイントにリクエストを送信するだけです。 curl -s -H \"Authorization: Token $YOUR_API_KEY\" \\ ...",
-          "link": "https://blog.kenall.jp/entry/2021/07/28/124740",
-          "publishedOn": "2021-07-28T03:56:20.000Z",
-          "wordCount": 133,
-          "title": "自己IPアドレス確認APIの無償提供を開始しました - ケンオールブログ"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210728124227",
-          "author": null,
-          "description": "駆けて、駆け、駆け抜けようではありませんか",
-          "link": "https://anond.hatelabo.jp/20210728124227",
-          "publishedOn": "2021-07-28T03:51:02.000Z",
-          "wordCount": 95,
-          "title": "駆け出しエンジニアってなんですぐ駆けるの止めるの？"
-        },
-        {
-          "id": "https://japanese.engadget.com/lenovo-yoga-tab-13-11-japan-020052382.html",
-          "author": null,
-          "description": "モバイルディスプレイにもなる13型高速Androidタブ、Yoga Tab 13日本版発表。11型モデルも同時発売 リモートワークで盛り上がる需要などにより、一時期の絶滅危惧種的な低調を脱し、市場が再び活発になりつつある高性能Androidタブレット。 大画面で、かつ快適に楽しみたいAndroid版ゲームタイトルがあるゲーマーや、PC...",
-          "link": "https://japanese.engadget.com/lenovo-yoga-tab-13-11-japan-020052382.html",
-          "publishedOn": "2021-07-28T02:37:45.000Z",
-          "wordCount": 315,
-          "title": "モバイルディスプレイにもなる13型高速Androidタブ、Yoga Tab 13日本版発表。11型モデルも同時発売 - Engadget 日本版"
-        },
-        {
-          "id": "https://internet.watch.impress.co.jp/docs/news/1339498.html",
-          "author": null,
-          "description": "ソニー株式会社は、ネックスピーカー「SRS-NB10」を7月30日に発売する。Amazon.co.jpでは1万5400円で予約を受け付けている。カラーはチャコールグレーとホワイトの2色。",
-          "link": "https://internet.watch.impress.co.jp/docs/news/1339498.html",
-          "publishedOn": "2021-07-28T02:19:40.000Z",
-          "wordCount": 85,
-          "title": "ソニー、防滴仕様のネックスピーカー「SRS-NB10」を発売 - INTERNET Watch"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/28/news091.html",
-          "author": null,
-          "description": "ハウス食品は、チューブ入り調味料の新製品として、「大根おろし」を8月9日に発売する。大根のシャキシャキとした食感と、すだち香料のさわやかな風味が特徴という。オープン価格で、税別の実売予想価格は125円（40g入り）。 常温流通でも美味しく品質を保つ技術の開発に5年以上かけたという。一部の技術は特許を出願し...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/28/news091.html",
-          "publishedOn": "2021-07-28T02:18:02.000Z",
-          "wordCount": 148,
-          "title": "チューブ入り「大根おろし」　ハウスが発売　開発に5年以上 - ITmedia NEWS"
-        },
-        {
-          "id": "https://togetter.com/li/1751001",
-          "author": null,
-          "description": "千葉 佳織 / kaeka GOOD SPEAK @kaolly13 オリンピック開会式のバッハ会長のスピーチ、「長かった」との感想を多く目にしました。 みなさんの違和感の正体が、スピーチのどのような技術に由来するのか、スピーチライターの視点で分析してみました。 明日から使えるスピーチ・プレゼンのポイントも添えています。 pic.twi...",
-          "link": "https://togetter.com/li/1751001",
-          "publishedOn": "2021-07-28T01:59:32.000Z",
-          "wordCount": 766,
-          "title": "開会式で話題となった\"長いスピーチ\"、どうしてそう感じたのかをスピーチライターがガチ分析してみた - Togetter"
-        },
-        {
-          "id": "https://blog.cybozu.io/entry/2021/07/28/080000",
-          "author": null,
-          "description": "こんにちは、AWS版kintoneのDevOpsエンジニアをしている@ueokandeです。 AWS版kintoneは2019年9月のローンチから現在まで、幾度となく機能改善をしてきました。 ローンチ当時よりも利用者が増え、スケーラビリティのために内部設計を大きく変更することもあります。 先日公開したメール送信の設計変更もその1つです。 bl...",
-          "link": "https://blog.cybozu.io/entry/2021/07/28/080000",
-          "publishedOn": "2021-07-27T23:31:42.000Z",
-          "wordCount": 475,
-          "title": "もうリリースは怖くない ― 大きな変更を安全に本番適用するTips - Cybozu Inside Out | サイボウズエンジニアのブログ"
-        },
-        {
-          "id": "https://www.atmarkit.co.jp/ait/articles/2107/28/news014.html",
-          "author": null,
-          "description": "いまさら聞けない「CI/CD」の意義――GitHubとGitHub ActionsでCI/CDを試してみよう：GMOペパボに学ぶ「CI/CD」活用術（1）（1/2 ページ） GMOペパボにおけるCI/CD活用事例を紹介する本連載。第1回は組織でCI/CDを導入する目的と意義を整理し、GitHub/GitHub Actionsを利用してCI/CDを実践する方法を紹介します。 ITがビジ...",
-          "link": "https://www.atmarkit.co.jp/ait/articles/2107/28/news014.html",
-          "publishedOn": "2021-07-27T23:21:11.000Z",
-          "wordCount": 202,
-          "title": "いまさら聞けない「CI/CD」の意義――GitHubとGitHub ActionsでCI/CDを試してみよう：GMOペパボに学ぶ「CI/CD」活用術（1）（1/2 ページ） - ＠IT"
-        },
-        {
-          "id": "https://iphone-mania.jp/news-385406/",
-          "author": null,
-          "description": "Appleは現地時間7月27日、iOS15、iPadOS15、macOS Monterey、watchOS8、tvOS15の開発者向けベータ4をリリースしました。正式版は今秋公開予定です。 ベータ3から2週間でのリリース Appleが開発者向けにリリースしたiOS15、iPadOS15、macOS Monterey、watchOS8、tvOS15のベータ4は、現地時間7月14日のベータ3から約2週間...",
-          "link": "https://iphone-mania.jp/news-385406/",
-          "publishedOn": "2021-07-27T22:57:46.000Z",
-          "wordCount": 217,
-          "title": "iOS15、macOS Monterey、watchOS8などのベータ4がリリース - iPhone Mania"
-        },
-        {
-          "id": "https://www.t.u-tokyo.ac.jp/soe/press/setnws_202107261301478146960981.html",
-          "author": null,
-          "description": "帰還困難区域での熱電発電システムを用いた自律移動ロボットの実地走行～家庭用カセットボンベを燃料として長時間の環境モニタリングを実現～ １．発表者： 李　敏赫（東京大学　大学院工学系研究科機械工学専攻　助教） 筑紫彰太（東京大学　大学院工学系研究科精密工学専攻　助教） 鈴木雄二（東京大学　大学院工学系...",
-          "link": "https://www.t.u-tokyo.ac.jp/soe/press/setnws_202107261301478146960981.html",
-          "publishedOn": "2021-07-27T14:32:06.000Z",
-          "wordCount": 135,
-          "title": "東京大学大学院 工学系研究科 | 帰還困難区域での熱電発電システムを用いた自律移動ロボットの実地走行～家庭用カセットボンベを燃料として長時間の環境モニタリングを実現～"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/facebookrust.html",
-          "author": null,
-          "description": "Facebookは同社のソフトウェア開発において、同社が主導して開発しているオープンソースのビルドシステム「Buck」を利用しています。 Backは高速なビルドが可能な点を大きな特徴としており、もともとAndroidアプリケーション向けのビルドシステムとして登場しました。 その後対応する言語やプラットフォームが拡張され、...",
-          "link": "https://www.publickey1.jp/blog/21/facebookrust.html",
-          "publishedOn": "2021-07-27T14:23:32.000Z",
-          "wordCount": 387,
-          "title": "Facebook、次期ビルドシステムの開発でRust言語の採用を明らかに － Publickey"
-        },
-        {
-          "id": "https://speakerdeck.com/bateleurx/webrtcpei-xin-sisutemuwoawskaraonpuremisuniqie-riti-eteiruhua",
-          "author": null,
-          "description": "Transcript © DMM.com WebRTC഑৴γεςϜΛ AWS͔ΒΦϯϓϨϛεʹ ੾Γସ͍͑ͯΔ࿩ DMM meetup #31 DMM.com ITΠϯϑϥຊ෦SRE෦ দӜ༱հ 2021೥7݄27೔ © DMM.com ࣗݾ঺հ দӜ ༱հ 2020೥5݄ೖࣾ ITΠϯϑϥຊ෦ SRE෦ॴଐ WebRTCϦΞϧλΠϜ഑৴γεςϜͷ։ൃӡ༻Λ୲౰ © DMM.com WebRTC഑৴γεςϜΛ AWS͔ΒΦϯϓϨϛεʹ ੾Γସ͍͑ͯΔ࿩ DMM meetup #31 © DMM.com WebRTC഑৴γεςϜΛ AWS͔ΒΦϯϓϨϛεʹ ੾Γସ͍͑ͯΔ࿩ DMM meetup #31 © DMM.co...",
-          "link": "https://speakerdeck.com/bateleurx/webrtcpei-xin-sisutemuwoawskaraonpuremisuniqie-riti-eteiruhua",
-          "publishedOn": "2021-07-27T13:30:14.000Z",
-          "wordCount": 569,
-          "title": "WebRTC配信システムをAWSからオンプレミスに切り替えている話 - Speaker Deck"
         }
       ]
     },
@@ -7438,17 +7488,7 @@
       "title": "UX MILK",
       "feedUrl": "https://uxmilk.jp/feed",
       "siteUrl": "https://uxmilk.jp",
-      "articles": [
-        {
-          "id": "https://uxmilk.jp/?p=78163",
-          "author": "UX MILK編集部",
-          "description": "「ストーリーテリング（Storytelling）」はUXデザインとデザイン思考のプロセスの中で大きな役割を担います。 ストーリーテリングはユーザーの物語を説得力のある形で具現化し、それによって私たちデザイナーは彼らのモチ",
-          "link": "https://uxmilk.jp/78163",
-          "publishedOn": "2021-07-27T22:45:28.000Z",
-          "wordCount": 214,
-          "title": "共感を生み出すストーリーテリングのための７つの要素"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Angular University",
@@ -7480,6 +7520,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=350573",
+          "author": "Chris Coyier",
+          "description": "When I think about what front-end development really is and feels like, this is at the heart of it: designing around a huge set of unknowns, and really embracing that notion as a strength of the web rather …\nThe post Designing for the Unexpected appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://alistapart.com/article/designing-for-the-unexpected/",
+          "publishedOn": "2021-08-26T23:07:31.000Z",
+          "wordCount": 4512,
+          "title": "Designing for the Unexpected"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350298",
+          "author": "Chris Coyier",
+          "description": "The perfect link — Rian Rietveld defines them: “When you click on them, they take you somewhere else.” Not much code in here (we’ve got that), just a lot of practical accessibility advice. For example, the alt text \n…\nThe post Some Articles About Accessibility I’ve Saved Recently III appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/some-articles-about-accessibility-ive-saved-recently-iii/",
+          "publishedOn": "2021-08-26T19:35:21.000Z",
+          "wordCount": 959,
+          "title": "Some Articles About Accessibility I’ve Saved Recently III"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350223",
+          "author": "Mariana Beldi",
+          "description": "While learning Vue.js, I started building free web tools that involved the exploration of SVG, with the goal of learning something about both! Let’s take a look at one of those tools: a generator that makes SVG loaders and …\nThe post How I Made a Generator for SVG Loaders With Sass and SMIL Options appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-i-made-a-generator-for-svg-loaders-with-sass-and-smil-options/",
+          "publishedOn": "2021-08-26T14:35:03.000Z",
+          "wordCount": 2061,
+          "title": "How I Made a Generator for SVG Loaders With Sass and SMIL Options"
+        },
         {
           "id": "https://css-tricks.com/?p=350311",
           "author": "Chris Coyier",
@@ -7965,33 +8032,6 @@
           "publishedOn": "2021-07-28T14:37:34.000Z",
           "wordCount": 6716,
           "title": "Using Absolute Value, Sign, Rounding and Modulo in CSS Today"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345169",
-          "author": "Chris Coyier",
-          "description": "I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …\nThe post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/",
-          "publishedOn": "2021-07-27T23:18:33.000Z",
-          "wordCount": 1430,
-          "title": "Learnings From a WebPageTest Session on CSS-Tricks"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345400",
-          "author": "Chris Coyier",
-          "description": "Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. New things include “arbitrarily chuck underscores in numbers.” …\nThe post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://h3manth.com/ES2021/",
-          "publishedOn": "2021-07-27T23:18:12.000Z",
-          "wordCount": 316,
-          "title": "ES2021 Features"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344815",
-          "author": "Ollie Williams",
-          "description": "Now that cross-browser support is at a tipping point, it’s a good time to take a look at logical properties and values. If you’re creating a website in multiple languages, logical properties and values are incredibly useful. Even if you’re …\nThe post CSS Logical Properties and Values appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-logical-properties-and-values/",
-          "publishedOn": "2021-07-27T15:02:43.000Z",
-          "wordCount": 2605,
-          "title": "CSS Logical Properties and Values"
         }
       ]
     },
@@ -8034,6 +8074,15 @@
       "feedUrl": "https://gihyo.jp/design/feed/rss2",
       "siteUrl": "https://gihyo.jp/design",
       "articles": [
+        {
+          "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202108/26",
+          "author": "アシカガコウジ",
+          "description": "ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年8月16日～22日の間に見つけた記事のベスト5です。",
+          "link": "https://gihyo.jp/design/clip/01/weekly-web-tech/202108/26",
+          "publishedOn": "2021-08-26T00:15:00.000Z",
+          "wordCount": 492,
+          "title": "2021年8月第4週号 1位は，UXの「神話」としてまだ信じられている6つの間違ったルール，気になるネタは，Facebook，メタバース「Horizon Workrooms」のβ版公開 「Oculus Quest 2」で世界中から参加可能 ── 週刊Webテク通信"
+        },
         {
           "id": "https://gihyo.jp/design/serial/01/ui-design-unsung/0025",
           "author": "池田拓司",
@@ -8086,6 +8135,42 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/ib1/the-ultimate-guide-to-hosting-multilingual-angular-application-on-google-app-engine-o7k",
+          "author": "Igor Bertnyk",
+          "description": "Google App Engine is a good option to serve SPA applications, such as Angular. It requires little maintenance, can be easily auto-scaled if necessary, and you can extend it with CDN or load balancer. However, an Angular application requires several tricks to make it work properly. For example, to support deep links and browser refresh, routed apps must fallback to index.html. But navigation to the index page should happen only for routes, not for existing files and assets, so there should be exception for such things.\nLocalizing your Angular app\nhttps://myapp.com/fr/login\" will show the login page in French, so we need to map these URL patterns to the underlying application assets.\nAs I mentioned, the build process is slightly changed:\nnpm run build -- --configuration=production --localize…",
+          "link": "https://dev.to/ib1/the-ultimate-guide-to-hosting-multilingual-angular-application-on-google-app-engine-o7k",
+          "publishedOn": "2021-08-26T22:56:18.000Z",
+          "wordCount": 1062,
+          "title": "The ultimate guide to hosting multilingual Angular application on Google App Engine"
+        },
+        {
+          "id": "https://dev.to/chandlerbaskins/reactive-forms-in-angular-cel",
+          "author": "Chandler Baskins",
+          "description": "Photo by SIMON LEE on Unsplash\nSeriously. I feel like the days of wysiwig forms are over. Long gone are the days where we have our HTML form and then do a post back to the server with our form data. These days we need to do real time validation like is this username taken. Or we need to have dynamic forms like a Registration form where we can select how many people to register and the fields populate based on our response. This is powerful stuff. This becomes a form that is driven by the user. Kinda like a RPG, no two users may have the same experience and the form populates according to their responses or actions. But with better UX comes more complications for the developer. Thankfully Angular being the kitchen that it is serves us up something tasty for building these complicated forms.…",
+          "link": "https://dev.to/chandlerbaskins/reactive-forms-in-angular-cel",
+          "publishedOn": "2021-08-26T13:43:08.000Z",
+          "wordCount": 1899,
+          "title": "Reactive Forms in Angular"
+        },
+        {
+          "id": "https://dev.to/primetek/primeng-12-1-0-released-4jd",
+          "author": "PrimeTek",
+          "description": "PrimeNG 12.1.0 is out now as a major release to bring new components, internal enhancements, new DataTable scrolling along with maintenance improvements.\nPrimeNG 12.1.0 introduces new DataTable scrolling implementation that eliminates the use of multiple tables by using css sticky. New implementation greatly simplifies the codebase by removing significant amount of code related to scrolling and also provides new features like freezing columns on the right and sticky row groups.\nTreeSelect is a new form component to choose from hierarchical data.\n\nSpeedDial is another new addition to the suite. It is mainly a floating button with menu items displayed around it when pressed. It offers numerous orientations and customization options.\n\nDock imitates the famous dock widget in Mac OS X with cust…",
+          "link": "https://dev.to/primetek/primeng-12-1-0-released-4jd",
+          "publishedOn": "2021-08-26T13:30:16.000Z",
+          "wordCount": 785,
+          "title": "PrimeNG 12.1.0 Released"
+        },
+        {
+          "id": "https://dev.to/devbyrayray/how-to-add-html-wrapper-on-angular-component-in-storybook-1kcl",
+          "author": "Dev By RayRay",
+          "description": "With Storybook Decorators you can add extra HTML around your Angular Component\nStorybook offers a lot of tooling to document all your JavaScript components visually.  Getting started with Storybook and Angular  is pretty easy too. But some features are hidden or not described enough to know them.\nSo in our team, we were writing an Angular form component with Angular Material. Some of the elements were not getting the proper styling because they didn't have our application's context. We needed A wrapper element.\n\nStorybook Decorators are the answer for creating a bit more markup to add context to your components. \nThe Storybook team made it super simple to add decorators.\nimport { Meta, componentWrapperDecorator } from '@storybook/angular';\n\nexport default {\n   title: 'YourComponent',\n   component: YourComponent,\n   decorators: [componentWrapperDecorator((story) => `<div class=\"mat-body\">${story}</div>`)],\n} as Meta;\n\nIn our case, we only needed a <div> with a class mat-body to get the font family of a form correct.\nWith these decorators, you can add extra context or styling around your components. \n\n\nDid you know that you can create a Developer blog like this one, yourself? It's entirely for free. 👍💰🎉🥳🔥\nIf I left you with questions or something to say as a response, scroll down and type me a message. Please send me a DM on Twitter @DevByRayRay when you want to keep it private. My DM's are always open 😁",
+          "link": "https://dev.to/devbyrayray/how-to-add-html-wrapper-on-angular-component-in-storybook-1kcl",
+          "publishedOn": "2021-08-26T08:53:54.000Z",
+          "wordCount": 723,
+          "title": "How To Add HTML Wrapper On Angular Component In Storybook"
+        },
         {
           "id": "https://dev.to/gedgonz/haciendo-deploy-de-una-app-en-angular-a-githubpages-4bll",
           "author": "Gerald González Zeledón",
@@ -8148,6 +8233,15 @@
           "publishedOn": "2021-08-25T12:49:32.000Z",
           "wordCount": 404,
           "title": "Build Projeto Angular"
+        },
+        {
+          "id": "https://dev.to/this-is-learning/building-incremental-views-with-xstate-parallel-states-400e",
+          "author": "Tim Deschryver",
+          "description": "Follow me on Twitter at @tim_deschryver | Subscribe to the Newsletter | Originally published on timdeschryver.dev.\nRead the TLDR version on timdeschryver.dev\nLet's give XState a spin to see how we can build incremental views with it to achieve a better and smoother experience for our users.\nIncremental views is a technique that is used when a view needs its data from multiple sources, and where the view directly renders the data coming from these sources as they resolve. Another term for an incremental view is a progressive view.\nTo keep this example simple, we're going to fetch 3 separate todos, and then render them in a single list.\nWe could build this in multiple ways, but I prefer to use parallel (or orthogonal) states.\nWithin a parallel state machine, there are multiple active state n…",
+          "link": "https://dev.to/this-is-learning/building-incremental-views-with-xstate-parallel-states-400e",
+          "publishedOn": "2021-08-25T11:11:21.000Z",
+          "wordCount": 2758,
+          "title": "Building incremental views with XState Parallel States"
         },
         {
           "id": "https://dev.to/timdeschryver/building-incremental-views-with-xstate-parallel-states-400e",
@@ -9372,33 +9466,6 @@
           "publishedOn": "2021-07-28T12:22:29.000Z",
           "wordCount": 1063,
           "title": "Top Reasons to Choose AngularJS Development in 2021"
-        },
-        {
-          "id": "https://dev.to/nodire/how-to-use-mmenu-js-in-angular-cli-project-5hjf",
-          "author": "nodire",
-          "description": "In my Angular CLI project, the MMenu.JS library is malfunctioning.\nLive project: Stack Blitz",
-          "link": "https://dev.to/nodire/how-to-use-mmenu-js-in-angular-cli-project-5hjf",
-          "publishedOn": "2021-07-28T11:39:52.000Z",
-          "wordCount": 416,
-          "title": "How to use MMenu.JS in Angular CLI project?"
-        },
-        {
-          "id": "https://dev.to/flatlogic/difference-between-react-and-angular-a-comparison-guide-for-2021-4kdo",
-          "author": "Nastassia Ovchinnikova",
-          "description": "Introduction\n\n\nHello again, dear friends and accidental bypassers! Today we would like to discuss the factual difference between two web-developing mainstays – React and Angular. Bear in mind, we don’t want to put the two up against each other. Our goal is to explore the difference between them to highlight the stronger and weaker sides of both. The reasoning behind such an outlook on our topic is quite simple – both Angular and React are, undoubtedly, exceptionally good and functional. That’s why it would be a disservice to the cause to try to categorically decide which one is better than the other.\nThat being said, such a topic would be unable to exist without any comparisons at all. We would collate and find a sort of champion in some categories. And now, let’s get down to business\nWhen…",
-          "link": "https://dev.to/flatlogic/difference-between-react-and-angular-a-comparison-guide-for-2021-4kdo",
-          "publishedOn": "2021-07-28T08:31:12.000Z",
-          "wordCount": 3583,
-          "title": "Difference Between React And Angular. A Comparison Guide For 2021"
-        },
-        {
-          "id": "https://dev.to/dammyreginal/top-skills-you-need-as-a-javascript-developer-mahima-jaiswal-lnp",
-          "author": "dammyreginal",
-          "description": "These figures are clearly proving the prominence of JavaScript development. The profile is at its peak, and we have stepped into a programmer's world. Those looking to make a career have a bright future.\nThough, what I have observed among the students is that their focus is only on their degree. They are not working on their skills. I am not considering them wrong, but I want to clarify that it's not enough; it will not make them the top-notch JavaScript developer they wish to be.\nBut don't be sad, I have a perfect guide for you. In this blog, I have listed the top skills you need to become a JavaScript developer. \nTop JavaScript Developer Skills\nThe foremost thing in learning JavaScript development is first learning the language itself. Though you don't need to be a master, it has its bas…",
-          "link": "https://dev.to/dammyreginal/top-skills-you-need-as-a-javascript-developer-mahima-jaiswal-lnp",
-          "publishedOn": "2021-07-27T14:53:38.000Z",
-          "wordCount": 1497,
-          "title": "Top skills you need as a JavaScript Developer\nMahima Jaiswal"
         }
       ]
     },
@@ -9407,6 +9474,15 @@
       "feedUrl": "https://dev.to/feed/tag/rxjs",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/jdgamble555/firestore-many-to-many-mf8",
+          "author": "Jonathan Gamble",
+          "description": "Not all many-to-many situations are possible nor impossible in Firestore. I figured I would try and list all of them I can think of with their limitations.\nThere are 3 common examples:\nCustomers and Products\nClasses and Students\nFollowers and Following\nThey each also have different use cases that can dramatically change the limitations.\nNote: All of these examples use angular firestore in typescript, but the data modeling and rxjs usage is the same in other languages.\nLet's start simple:\nThe beauty of this example, is that a there are a limited number of students a class can have, and a limited number a classes a student can take. Even if that number were as high as 1000, it will never be as high as 10,000, which is theoretically the most amount of information you want to have in one Fires…",
+          "link": "https://dev.to/jdgamble555/firestore-many-to-many-mf8",
+          "publishedOn": "2021-08-22T17:42:16.000Z",
+          "wordCount": 1417,
+          "title": "Firestore Many-to-Many"
+        },
         {
           "id": "https://dev.to/deborahk/inner-observables-and-higher-order-mapping-hhe",
           "author": "Deborah Kurata",
@@ -9513,6 +9589,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=31202",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/blogroll/css-accent-color.html",
+          "publishedOn": "2021-08-26T00:36:39.000Z",
+          "wordCount": 482,
+          "title": "CSSの新しいプロパティ「accent-color」が便利！今までできなかったフォーム要素のカラーを簡単に変更できる"
+        },
         {
           "id": "https://coliss.com/?p=31153",
           "author": "コリス🥦",
@@ -9692,24 +9777,6 @@
           "publishedOn": "2021-07-29T00:36:29.000Z",
           "wordCount": 909,
           "title": "CSSでスクロールバーをカスタマイズする方法を徹底解説 -古いCSSと新しいCSSでの実装のポイント"
-        },
-        {
-          "id": "https://coliss.com/?p=30615",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/css/css-grid-cheat-sheet-by-learnpine.html",
-          "publishedOn": "2021-07-28T00:36:39.000Z",
-          "wordCount": 276,
-          "title": "CSS Gridで実装する時に役立つチートシート、各プロパティと値でレイアウトがどのようになるか一目で分かる"
-        },
-        {
-          "id": "https://coliss.com/?p=30673",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/1-day-left-designcuts-sale-202107.html",
-          "publishedOn": "2021-07-28T00:26:42.000Z",
-          "wordCount": 629,
-          "title": "販売期間はあと1週間で終わり！商用で使えるテクスチャとパターン素材25万円分が、約3,000円で購入できる特大セール"
         }
       ]
     },
@@ -9718,6 +9785,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/185bd5e9fc5",
+          "author": "Yong Cui",
+          "description": "3. Delete the buggy code\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/10-things-you-can-try-when-your-code-has-a-bug-185bd5e9fc5?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-26T18:09:15.000Z",
+          "wordCount": 1738,
+          "title": "10 Things You Can Try When Your Code Has a Bug"
+        },
+        {
+          "id": "https://medium.com/p/48c645d007ba",
+          "author": "Nilanth",
+          "description": "Steps to build a portfolio website using Next.js and Tailwind with Dark Mode Support",
+          "link": "https://betterprogramming.pub/build-a-portfolio-using-next-js-tailwind-and-vercel-48c645d007ba?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-26T18:07:42.000Z",
+          "wordCount": 868,
+          "title": "Build a Portfolio Using Next.js, Tailwind, and Vercel"
+        },
+        {
+          "id": "https://medium.com/p/f0e342b90fbc",
+          "author": "Lokajit Tikayatray",
+          "description": "Know the difference between the intention behind the high performers’ actions and their actual impact on the team\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/heres-why-high-performers-are-not-always-good-for-the-team-f0e342b90fbc?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-26T18:02:51.000Z",
+          "wordCount": 1378,
+          "title": "Here’s Why High Performers Are Not Always Good for the Team"
+        },
+        {
+          "id": "https://medium.com/p/9f67edf4c34",
+          "author": "Can Durmus",
+          "description": "Weird, isn’t it? Here’s why\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/did-you-know-html-thinks-chuck-norris-is-a-color-9f67edf4c34?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-26T16:32:48.000Z",
+          "wordCount": 1367,
+          "title": "Did You Know HTML Thinks Chuck Norris Is a Color?"
+        },
+        {
+          "id": "https://medium.com/p/6b5880c9df6a",
+          "author": "Lee Kah Seng",
+          "description": "Power up your iOS apps with Swift concurrency\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/making-network-requests-with-async-await-in-swift-6b5880c9df6a?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-26T15:03:01.000Z",
+          "wordCount": 1760,
+          "title": "Making Network Requests With Async/Await in Swift"
+        },
+        {
+          "id": "https://medium.com/p/6ec7ed43a4e",
+          "author": "Sean Goudarzi",
+          "description": "The problem with how you’re doing networking in iOS and a new  fix for it\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/the-problem-with-how-youre-doing-your-networking-in-ios-6ec7ed43a4e?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-26T14:33:59.000Z",
+          "wordCount": 1945,
+          "title": "Build a Robust Networking Layer in iOS Using Swift async/await"
+        },
+        {
+          "id": "https://medium.com/p/681722cdd129",
+          "author": "Tommaso De Ponti",
+          "description": "Creating animations has never been easier\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/power-up-your-front-end-apps-with-css-only-animations-681722cdd129?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-26T14:03:18.000Z",
+          "wordCount": 900,
+          "title": "Power Up Your Front-end Apps With CSS-Only Animations"
+        },
+        {
+          "id": "https://medium.com/p/76d4cb3f8dda",
+          "author": "Shalitha Suranga",
+          "description": "Your tired computer will ask you to try a Visual Studio Code alternative, like Lite-XL\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/bored-of-vs-code-try-lite-xl-76d4cb3f8dda?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-26T13:03:17.000Z",
+          "wordCount": 1398,
+          "title": "Bored of VS Code? Try Lite-XL"
+        },
+        {
+          "id": "https://medium.com/p/4c9b40119ba6",
+          "author": "Edward Matthews",
+          "description": "Understand JavaScript functions through a dice game\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/higher-order-functions-in-javascript-4c9b40119ba6?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-26T12:27:55.000Z",
+          "wordCount": 1955,
+          "title": "A Practical Guide to Higher-Order Functions in JavaScript"
+        },
+        {
+          "id": "https://medium.com/p/a8129b39fbbe",
+          "author": "Lindsay Zhou",
+          "description": "There’s not a single data structure or algorithm on this list\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/6-soft-skills-to-showcase-during-software-engineering-interviews-a8129b39fbbe?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-26T12:00:30.000Z",
+          "wordCount": 1490,
+          "title": "6 Soft Skills To Showcase During Software Engineering Interviews"
+        },
         {
           "id": "https://medium.com/p/96f35cbd3e4c",
           "author": "Josh Dormont",
