@@ -61,6 +61,231 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://japanese.engadget.com/windows-11-will-work-on-pcs-with-older-cpus-205018956.html",
+          "author": null,
+          "description": "マイクロソフトは、推奨するハードウェア要件を満たさない、古いCPUのPCにもWindows 11はインストール可能だと述べています。OSのインストール制限はWindows Updateを通じたアップグレードでは適用されるものの、ISOファイルをダウンロードして、手動でインストールする場合はこの制限を受けないとThe Vergeは伝えていま...",
+          "link": "https://japanese.engadget.com/windows-11-will-work-on-pcs-with-older-cpus-205018956.html",
+          "publishedOn": "2021-08-27T21:02:14.000Z",
+          "wordCount": 210,
+          "title": "MS「Windows 11は手動なら古いPCにも導入可能」と説明 - Engadget 日本版"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/08/27/2021-08-26-apple-will-now-let-app-store-developers-talk-to-their-customers-about-buying-direct/",
+          "author": null,
+          "description": "米国時間8月26日、Apple（アップル）は、米国の開発者から同社に提起されていた訴訟について、和解案に合意したことを明らかにした。この和解案にはいくつかの変更点が含まれており、その中でも最大の変更点は、開発者がiOSアプリやApp Store以外で購入した支払い方法に関する情報を共有できるようになることだ。これに...",
+          "link": "https://jp.techcrunch.com/2021/08/27/2021-08-26-apple-will-now-let-app-store-developers-talk-to-their-customers-about-buying-direct/",
+          "publishedOn": "2021-08-27T19:50:30.000Z",
+          "wordCount": 349,
+          "title": "アプリ開発者は今後、アップルに手数料を支払わなくてすむ直接購入をユーザーへ提案可能に | TechCrunch Japan"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210827/k10013228371000.html",
+          "author": null,
+          "description": "東京パラリンピック柔道の日本代表の選手が、26日、トヨタ自動車の開発した自動運転の車と接触し、けがをした事故について、トヨタ自動車の豊田章男社長は27日夜、自社のウェブサイトで「ご心配をおかけして大変申し訳ない」と陳謝しました。 トヨタ自動車の豊田社長は、選手村で選手や大会関係者の移動に使われている自...",
+          "link": "https://www3.nhk.or.jp/news/html/20210827/k10013228371000.html",
+          "publishedOn": "2021-08-27T15:19:22.000Z",
+          "wordCount": 27,
+          "title": "選手村で自動運転車が事故 トヨタ自動車 豊田章男社長 陳謝 | オリンピック・パラリンピック　競技・選手 | NHKニュース"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0d583bc7629a361b2979a8b42e58d2aa196bdcb7",
+          "author": null,
+          "description": "政府が中央省庁の情報システムを統合するため昨年10月に開始した「共通プラットフォーム」の運用を打ち切ることが27日、総務省などへの取材で分かった。約720件ある政府情報システムのうち利用は約40件と低迷。総務省が今年6月、各省庁に来年度以降の受け入れ中止を通知した。年間予算約100億円を見込んだ事業は開始から...",
+          "link": "https://news.yahoo.co.jp/articles/0d583bc7629a361b2979a8b42e58d2aa196bdcb7",
+          "publishedOn": "2021-08-27T15:08:45.000Z",
+          "wordCount": 67,
+          "title": "中央省庁の共通システム打ち切り　利用低迷、年間100億の事業（共同通信） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/27/news155.html",
+          "author": null,
+          "description": "「Google Workspace」は小学校でどう使われている？　3人の先生が解説（1/3 ページ） 文部科学省が推進する「GIGAスクール構想」によって、小中学校では2020年度内に「1人1台」の学習用端末配備がおおむね完了した。しかし、端末配備後の様子は自治体や学校によってマチマチのようだ。うまく行っている小学校ではどのよ...",
+          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/27/news155.html",
+          "publishedOn": "2021-08-27T14:23:52.000Z",
+          "wordCount": 437,
+          "title": "「Google Workspace」は小学校でどう使われている？　3人の先生が解説（1/3 ページ） - ITmedia PC USER"
+        },
+        {
+          "id": "https://aru47.hatenablog.com/entry/2021/08/27/220051",
+          "author": null,
+          "description": "\"Locality is efficiency, Efficiency is power, Power is performance, Performance is King\", Bill Dally マルチスレッディングとは？ CPUとGPUのマルチスレッディングの違いをブログにまとめていたけど例によって誰も興味なさそう— arutema47 (@arutema47) 2021年8月16日 つぶやいたら読みたい方が多そうだったので完...",
+          "link": "https://aru47.hatenablog.com/entry/2021/08/27/220051",
+          "publishedOn": "2021-08-27T13:17:58.000Z",
+          "wordCount": 537,
+          "title": "CPUとGPUのマルチスレッディングの違いについて - arutema47's blog"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1346504.html",
+          "author": null,
+          "description": "舘ひろし演じる鷹山敏樹“タカ”と柴田恭兵演じる大下勇次“ユージ”。キザでクールな2人が繰り出す派手なアクションと軽妙洒脱なジョークが魅力のドラマ「あぶない刑事」(あぶデカ)。そのHDリマスター版Blu-rayが2022年9月14日に発売され、2人のフィギュア付き完全予約限定生産版もラインナップされる。発売元は東映ビデオ。フィギュア付き限定生産版の予約締切は2021年10月26日。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1346504.html",
+          "publishedOn": "2021-08-27T12:27:31.000Z",
+          "wordCount": 123,
+          "title": "「あぶない刑事」タカ&ユージのフィギュア付きでBD-BOX化 - AV Watch"
+        },
+        {
+          "id": "https://speakerdeck.com/rettar5/angularwocai-yong-sitapurodakutodebiao-ji-yurewopu-mie-sitahanasi",
+          "author": null,
+          "description": "Transcript 表 記 ゆ れ を 撲 滅 し た は な し ⼀ ノ 瀬 翔 吾 ( 友 利 奈 緒 ) 2021.08.27 ⾃⼰紹介 atama plus株式会社 Product Engineer ⾃称 CDO (Chief Design System Development Officer) Angular歴 4-5年ぐらい 友利奈緒@rettar5 2 ⼀ ノ 瀬 翔 吾 atama plus 教育に、⼈に、社会に、 次の可能性を。 教育を...",
+          "link": "https://speakerdeck.com/rettar5/angularwocai-yong-sitapurodakutodebiao-ji-yurewopu-mie-sitahanasi",
+          "publishedOn": "2021-08-27T12:14:15.000Z",
+          "wordCount": 640,
+          "title": "Angularを採用したプロダクトで表記ゆれを撲滅したはなし - Speaker Deck"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210827/k10013227351000.html",
+          "author": null,
+          "description": "東京パラリンピック柔道の日本代表の北薗新光選手が26日、選手村で自動運転の車と接触し、けがをしていたことが分かりました。警視庁が事故の状況を詳しく調べています。 北薗選手は体調不良を理由に28日の試合を欠場することになりました。 頭と両足を打ち「全治2週間」 警視庁によりますと、26日午後2時ごろ、東京 中...",
+          "link": "https://www3.nhk.or.jp/news/html/20210827/k10013227351000.html",
+          "publishedOn": "2021-08-27T12:07:22.000Z",
+          "wordCount": 41,
+          "title": "パラ柔道 北薗選手 選手村で自動運転車と接触しけが 試合欠場 | パラ柔道 | NHKニュース"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1346816.html",
+          "author": null,
+          "description": "プラススタイルは、JBSが販売するLINKFLOW製首掛け型360度カメラ「FITT360 PB」の取り扱いを開始した。カラーはブラック、ホワイトゴールド、ホワイトシルバーの3色。価格は6万3,800円。発売記念キャンペーンとして、9月27日までは15％ OFFの54,230円で購入できる。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1346816.html",
+          "publishedOn": "2021-08-27T11:50:22.000Z",
+          "wordCount": 90,
+          "title": "首にかける自転車&バイク向け360度ドラレコ - AV Watch"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/27/news161.html",
+          "author": null,
+          "description": "普通のモニターなのに映像が立体的？　不思議な動画が話題に　「ソニーの“空間再現ディスプレイ”と同じことをもっと安く大画面で」（1/2 ページ） 既製品のモニターを組み合わせた立体視できる箱型ディスプレイがTwitterで話題に。果たしてどんな仕組みで立体的に見えているのか、開発者に聞く。 机の上にあるのは、ノー...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/27/news161.html",
+          "publishedOn": "2021-08-27T11:01:48.000Z",
+          "wordCount": 160,
+          "title": "普通のモニターなのに映像が立体的？　不思議な動画が話題に　「ソニーの“空間再現ディスプレイ”と同じことをもっと安く大画面で」（1/2 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://hobby.watch.impress.co.jp/docs/news/1346639.html",
+          "author": null,
+          "description": "東映ビデオは、アクションフィギュア「figma 鷹山敏樹」付属の「あぶない刑事Blu-rayBOX VOL.1」と、「figma 大下勇次」付属の「もっとあぶない刑事Blu-rayBOX」を2022年9月に発売する。価格は各41,800円（税込）。",
+          "link": "https://hobby.watch.impress.co.jp/docs/news/1346639.html",
+          "publishedOn": "2021-08-27T10:57:40.000Z",
+          "wordCount": 708,
+          "title": "「あぶない刑事」の2人がフィギュアに！ 「figma 鷹山敏樹」＆「figma 大下勇次」登場 - HOBBY Watch"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210827/k00/00m/020/269000c",
+          "author": null,
+          "description": "政府が中央省庁の情報システムを統合するため昨年10月に開始した「共通プラットフォーム」の運用を打ち切ることが27日、総務省などへの取材で分かった。約720件ある政府情報システムのうち利用は約40件と低迷。総務省が今年6月、各省庁に来年度以降の受け入れ中止を通知した。年間予算約100億円を見込んだ事業は開始から...",
+          "link": "https://mainichi.jp/articles/20210827/k00/00m/020/269000c",
+          "publishedOn": "2021-08-27T10:05:56.000Z",
+          "wordCount": 396,
+          "title": "政府共通システム、1年持たず打ち切り　年100億円　利用低迷 | 毎日新聞"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/spv/2108/27/news108_0.html",
+          "author": null,
+          "description": "「政府統一Webサイト」の実証事業で事業者が決定12月末までに、サイトデザインのルール作りなど整備これまでは省庁間でUI／UXが統一されていないなどの課題があった",
+          "link": "https://www.itmedia.co.jp/news/spv/2108/27/news108_0.html",
+          "publishedOn": "2021-08-27T09:44:03.000Z",
+          "wordCount": 28,
+          "title": "政府統一Webサイト、暫定版を12月までに公開　製作事業者決定（要約） - ITmedia NEWS"
+        },
+        {
+          "id": "https://htlab.net/electronics/pulsepower/watermelon-5kj-01/",
+          "author": null,
+          "description": "パルスパワー高電圧スイカ割り（5kJ） 6000Vの高電圧でスイカを割ってみました。 そもそも事の発端はこれです。 スイカ割りという概念に引っかかればOKらしいので、パルスパワーで割ってみます。 つまり、コンデンサに充電した電気を一気に流す装置を作るということです。 といっても、コンデンサとスイッチ、充電回路を...",
+          "link": "https://htlab.net/electronics/pulsepower/watermelon-5kj-01/",
+          "publishedOn": "2021-08-27T09:38:53.000Z",
+          "wordCount": 228,
+          "title": "パルスパワー高電圧スイカ割り（5kJ） - HTLAB.NET（高エネルギー技術研究室）"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/cool-aws-incident-response-with-radware-cnp-at-security-jaws/",
+          "author": null,
+          "description": "「AWSのインシデントレスポンスはここまで進化した！Radware Cloud Native Protectorによるインシデント調査」というタイトルでSecurity-JAWSに登壇しました！ #secjaws #secjaws22 #jawsug",
+          "link": "https://dev.classmethod.jp/articles/cool-aws-incident-response-with-radware-cnp-at-security-jaws/",
+          "publishedOn": "2021-08-27T09:31:19.000Z",
+          "wordCount": 135,
+          "title": "「AWSのインシデントレスポンスはここまで進化した！Radware Cloud Native Protectorによるインシデント調査」というタイトルでSecurity-JAWSに登壇しました！ #secjaws #secjaws22 #jawsug | DevelopersIO"
+        },
+        {
+          "id": "https://ledge.ai/recruit-training/",
+          "author": null,
+          "description": "本研修はエンジニアコースでスペシャリスト採用した新卒エンジニアを対象にしており、資料は「ソフトウェアエンジニアとしての姿勢と心構え」「AWS研修　コース概要」「JavaScript」「TypeScript」などで構成される。 導入研修（資料非公開）ソフトウェアエンジニアとしての姿勢と心構えブラウザA/Bテスト概論データ分析...",
+          "link": "https://ledge.ai/recruit-training/",
+          "publishedOn": "2021-08-27T09:03:05.000Z",
+          "wordCount": 159,
+          "title": "リクルート、新卒エンジニア研修資料を無料公開 JavaScriptやTypeScript、AWS研修など | Ledge.ai"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/news/1346519.html",
+          "author": null,
+          "description": "独立行政法人情報処理推進機構（IPA）は、2月に発表していた「情報セキュリティ10大脅威 2021」の一般利用者向け簡易説明資料を、同機構のウェブサイトで公開した。",
+          "link": "https://internet.watch.impress.co.jp/docs/news/1346519.html",
+          "publishedOn": "2021-08-27T09:00:47.000Z",
+          "wordCount": 90,
+          "title": "IPA、「情報セキュリティ10大脅威2021」の一般利用者向け資料を公開 - INTERNET Watch"
+        },
+        {
+          "id": "https://nazology.net/archives/95370",
+          "author": null,
+          "description": "Credit:NEDO,世界初、人工光合成により100m2規模でソーラー水素を製造する実証試験に成功（2021） 全ての画像を見る CO2を排出しない次世代エネルギーとして、燃料電池などに利用される水素が注目されています。 しかし現状の大規模な水素製造法はCO2を排出するため、温室効果ガスの削減においてはあまり意味がありませ...",
+          "link": "https://nazology.net/archives/95370",
+          "publishedOn": "2021-08-27T08:52:05.000Z",
+          "wordCount": 376,
+          "title": "世界初、日本が「人工光合成によるクリーンな水素」の製造実験に成功 - ナゾロジー"
+        },
+        {
+          "id": "https://mikan-tech.hatenablog.jp/entry/blog-20210826",
+          "author": null,
+          "description": "はじめに こんにちは。 mikanでAndroidエンジニアをしております、zukkeyといいます。 今年の4月に入社して、大体4ヶ月ぐらいが経過しました。 まだ入社して4ヶ月しか経っていないのか、という驚きと共に、4月に入社エントリーを書いたときから、何ができたんだろうかと振り返っていこうと思います。 ちなみに、入社して...",
+          "link": "https://mikan-tech.hatenablog.jp/entry/blog-20210826",
+          "publishedOn": "2021-08-27T08:45:31.000Z",
+          "wordCount": 196,
+          "title": "入社して４ヶ月経つのでぶっちゃけてみる - mikan Developers' Blog"
+        },
+        {
+          "id": "https://togetter.com/li/1765666",
+          "author": null,
+          "description": "三珠さくまる@技術無駄遣いVtuber&V道芸 @MitamaSakumaru これ。東大松尾研のベンチャーが作ったやつ。 基本的には精度はいいと思うのだけど、ニュースとかの要約も想定してるっぽいので誰が何をしたっていうことがらで殺害が重要ワードだと判断されたとかではないかなとか推測すると面白いかもしれない。 digest.elyza....",
+          "link": "https://togetter.com/li/1765666",
+          "publishedOn": "2021-08-27T08:17:28.000Z",
+          "wordCount": 895,
+          "title": "「AIご乱心」どんな文章も3行に要約するAIに”走れメロス”で試した結果→理不尽な激怒の応酬が生まれた - Togetter"
+        },
+        {
+          "id": "https://japanese.engadget.com/apple-google-exposure-api-failed-us-070051708.html",
+          "author": null,
+          "description": "Googleとアップルが共同開発した新型コロナ接触通知APIは世界各国のアプリに採用され、日本ではAndroid版の「COCOA」が数か月にわたって事実上機能していなかった一件もありつつも、英国では6000人もの命を救ったと推計されています。 しかしGoogleとアップルの本国である米国では、このAPIを使ったアプリはほとんど失敗...",
+          "link": "https://japanese.engadget.com/apple-google-exposure-api-failed-us-070051708.html",
+          "publishedOn": "2021-08-27T08:01:15.000Z",
+          "wordCount": 201,
+          "title": "アップルとGoogle共同開発のコロナ接触通知API、米国では大失敗との調査結果 - Engadget 日本版"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1346716.html",
+          "author": null,
+          "description": "米Appleは26日(現地時間)、米国における中小の開発者の集団訴訟の解決、ならびに中小のアプリ開発者を支援するため、App Storeをアップデートすると発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1346716.html",
+          "publishedOn": "2021-08-27T04:54:56.000Z",
+          "wordCount": 110,
+          "title": "Apple、App StoreおよびiOSアプリ以外での課金誘導を許可へ - PC Watch"
+        },
+        {
+          "id": "https://www.jiji.com/jc/article?k=2021082700540&g=int",
+          "author": null,
+          "description": "アップル、他社決済も容認　米アプリ開発者と合意 2021年08月27日12時18分 アップルのロゴマーク 【シリコンバレー時事】米アップルは２６日、スマートフォンアプリについて、自社以外の決済手段の提供を認めると発表した。規則変更により、アプリ開発者が利用者に電子メールなどで他社決済について知らせることを認める...",
+          "link": "https://www.jiji.com/jc/article?k=2021082700540&g=int",
+          "publishedOn": "2021-08-27T03:08:25.000Z",
+          "wordCount": 353,
+          "title": "アップル、他社決済も容認　米アプリ開発者と合意：時事ドットコム"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2108/27/news038.html",
+          "author": null,
+          "description": "ColabCodeを使って、Google Colabの上でVS Codeを使ってみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） Google Colab上でVS Codeを動かす幾つかの方法のうち、ColabCodeというモジュールを使ってお手軽にこれを実現する手順を紹介します。",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2108/27/news038.html",
+          "publishedOn": "2021-08-27T01:44:49.000Z",
+          "wordCount": 268,
+          "title": "ColabCodeを使って、Google Colabの上でVS Codeを使ってみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT"
+        },
+        {
           "id": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-4/",
           "author": null,
           "description": "Today we’re excited to announce the availability of TypeScript 4.4! If you haven’t heard of TypeScript yet, it’s a language that builds on JavaScript by adding syntax for static types. Tools like the TypeScript compiler just erase those types, leaving you with clean readable JavaScript that you c...",
@@ -95,6 +320,15 @@
           "publishedOn": "2021-08-26T14:42:59.000Z",
           "wordCount": 199,
           "title": "MySQLに初めてINSERTするとアクセスが発生するファイルは何かという質問をどう調べるのか - oranie's blog"
+        },
+        {
+          "id": "https://dekiru.net/article/22030/",
+          "author": null,
+          "description": "シートの切り替えは手間がかかる Excelファイルを編集するとき、シート数が多くなると切り替えや管理が大変になります。例えば、以下のように月別のシートが1つのExcelファイルに含まれているケースが典型的でしょう。 多数のシートがあるEXCELファイルの例。目的のシートが隠れてしまっている場合、スライダーの幅を調...",
+          "link": "https://dekiru.net/article/22030/",
+          "publishedOn": "2021-08-26T13:49:22.000Z",
+          "wordCount": 190,
+          "title": "Excelで目次シートを作成する方法。特定のシートへの切り替えをもっと便利に！ | できるネット"
         },
         {
           "id": "https://so-wh.at/entry/2021/08/26/013643",
@@ -149,6 +383,15 @@
           "publishedOn": "2021-08-26T09:19:15.000Z",
           "wordCount": 760,
           "title": "BERTの推論速度を最大10倍にしてデプロイした話とそのTips - JX通信社エンジニアブログ"
+        },
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2021_08_26/110640",
+          "author": null,
+          "description": "こんにちは、hachi8833です。夏休み課題図書というわけではありませんが『Polished Ruby Programming』を2回読み、Webチーム内でも発表しました。 \"Polished Ruby Programming\" is now available for purchase! The book teaches design principles, best practices, and appropriate trade-offs to the intermediate Ru...",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2021_08_26/110640",
+          "publishedOn": "2021-08-26T08:38:19.000Z",
+          "wordCount": 446,
+          "title": "『Polished Ruby Programming』（Jeremy Evans著）を読みました｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社"
         },
         {
           "id": "https://webdesign-trends.net/entry/13584",
@@ -835,6 +1078,15 @@
           "title": "「魔女狩りは科学技術の担い手たる女性への、教会の嫉妬が原因」との説～それは事実か江戸しぐさ的偽史か？と議論 - Togetter"
         },
         {
+          "id": "https://docs.wantedly.dev/",
+          "author": null,
+          "description": "新しくWantedlyの開発チームに参加する人向けのドキュメント集です。社内のエンジニアが知るべき情報のうち外部にも公開できる情報を体系的にまとめたものです。 入社前後のフルタイムの社員が一番の想定読者です。ハンドブックの内容はインターンや採用選考を受けている人にも役に立つことを期待しています。また、PDF...",
+          "link": "https://docs.wantedly.dev/",
+          "publishedOn": "2021-08-23T14:18:34.000Z",
+          "wordCount": 65,
+          "title": "Wantedly Engineering Handbook - Wantedly Engineering Handbook"
+        },
+        {
           "id": "https://ascii.jp/elem/000/004/066/4066690/",
           "author": null,
           "description": "日本時間の8月19日、Intel Architecture Day 2021がオンラインで公開になった。その内容はこのページのほか、YouTubeでも視聴可能だ。ちなみに全部で2時間16分にもおよぶ長大なセッションで、11ものテーマについて説明があった。 これだけのネタを2時間15分あまりにぶっこんで来るわけで、当然説明もいろいろ省かれたと...",
@@ -851,6 +1103,15 @@
           "publishedOn": "2021-08-23T14:00:01.000Z",
           "wordCount": 594,
           "title": "OSS ライセンスの最近の潮流: PolyForm License について"
+        },
+        {
+          "id": "https://www.eff.org/deeplinks/2021/08/utilities-governed-empires",
+          "author": null,
+          "description": "With Great Power Comes Great Responsibility: Platforms Want To Be Utilities, Self-Govern Like Empires Believe the Hype After decades of hype, it’s only natural for your eyes to skate over corporate mission-statements without stopping to take note of them, but when it comes to ending your relation...",
+          "link": "https://www.eff.org/deeplinks/2021/08/utilities-governed-empires",
+          "publishedOn": "2021-08-23T13:21:29.000Z",
+          "wordCount": 3716,
+          "title": "With Great Power Comes Great Responsibility: Platforms Want To Be Utilities, Self-Govern Like Empires | Electronic Frontier Foundation"
         },
         {
           "id": "https://fashiontechnews.zozo.com/philosophy/chloma",
@@ -7196,285 +7457,6 @@
           "publishedOn": "2021-07-29T14:35:11.000Z",
           "wordCount": 688,
           "title": "Announcing Rust 1.54.0 | Rust Blog"
-        },
-        {
-          "id": "https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/",
-          "author": null,
-          "description": "Last year, we released code scanning, a vulnerability detection feature in GitHub Advanced Security that’s also free on GitHub.com for public repositories. With code scanning, you can use GitHub CodeQL for static analysis, or you can choose from one of the many third-party integrations available ...",
-          "link": "https://github.blog/2021-07-28-new-code-scanning-integrations-open-source-security-tools/",
-          "publishedOn": "2021-07-29T12:09:02.000Z",
-          "wordCount": 1185,
-          "title": "15+ new code scanning integrations with open source security tools | The GitHub Blog"
-        },
-        {
-          "id": "https://nordot.app/793442886451036160",
-          "author": null,
-          "description": "1971年の渋谷暴動事件で殺人罪に問われた過激派「中核派」活動家大坂正明被告（71）の長期潜伏を支えた同派内の非公然組織「革命軍」のリーダー格とされる男性（72）が6月以降、同派の集会に参加する姿を警視庁公安部が確認したことが29日、公安関係者への取材で分かった。動向確認は約9年ぶりで、公安部が注視している...",
-          "link": "https://nordot.app/793442886451036160",
-          "publishedOn": "2021-07-29T12:06:41.000Z",
-          "wordCount": 41,
-          "title": "中核派革命軍リーダー格の姿確認　9年ぶり、議長に続き浮上か ｜ 共同通信"
-        },
-        {
-          "id": "https://news.denfaminicogamer.jp/oshirase/210729p",
-          "author": null,
-          "description": "いつも電ファミニコゲーマーをご覧いただきありがとうございます。 このたび、電ファミニコゲーマーの記事ページ末尾に「はてなブックマーク」のコメント欄を設置しました。記事を読み終えたあとは、ぜひコメントやご感想をいただけますと幸いです。 超絶やり込み系実況者shu3が2年を費やした『ゼルダの伝説 ブレス オブ...",
-          "link": "https://news.denfaminicogamer.jp/oshirase/210729p",
-          "publishedOn": "2021-07-29T09:06:55.000Z",
-          "wordCount": 300,
-          "title": "電ファミの記事で「はてなブックマーク」のコメントが読めるようになりました！"
-        },
-        {
-          "id": "https://gigazine.net/news/20210729-fda-approved-synchron-stentrode/",
-          "author": null,
-          "description": "2021年7月28日、脳インプラントで重度のまひ患者の自立を図る新興企業「Synchron」が「脳波でデバイスを制御するインプラント『Stentrode』をアメリカ食品医薬品局(FDA)が承認した」と発表しました。 Press Release July 28 2021 — Synchron https://synchron.com/press-release-july-28-2021 Stentrodeは人体に無害なチ...",
-          "link": "https://gigazine.net/news/20210729-fda-approved-synchron-stentrode/",
-          "publishedOn": "2021-07-29T08:36:55.000Z",
-          "wordCount": 178,
-          "title": "脳波でデバイスを制御するインプラントがFDAの承認を受ける - GIGAZINE"
-        },
-        {
-          "id": "https://av.watch.impress.co.jp/docs/news/1340974.html",
-          "author": null,
-          "description": "ソニーは、7月30日に発売を予定していたワイヤレスネックバンドスピーカー「SRS-NB10」の発売延期を発表した。一部規格を満たしていない項目があることが判明したためとし、受注も停止している。",
-          "link": "https://av.watch.impress.co.jp/docs/news/1340974.html",
-          "publishedOn": "2021-07-29T08:30:01.000Z",
-          "wordCount": 74,
-          "title": "ソニー、ネックスピーカー「SRS-NB10」発売延期。一部規格満たさず - AV Watch"
-        },
-        {
-          "id": "https://qiita.com/en-Barry/items/1ee0f32fcf5b09687e68",
-          "author": null,
-          "description": "こんにちは、Barry（ばりゅー）と申します。 いきなりですが言わせてください。 このサービスは今読んでいるあなたのために作ったサービスです！ はじめに リモートワークが当たり前になった今、みなさんはどんなデスクで作業してますか？ 「もっと快適にしたい。」「もっとオシャレにしたい。」 デスクワーカーなら一度...",
-          "link": "https://qiita.com/en-Barry/items/1ee0f32fcf5b09687e68",
-          "publishedOn": "2021-07-29T08:16:24.000Z",
-          "wordCount": 296,
-          "title": "【個人開発】リモートワーク時代なので、デスク周りに特化した写真投稿サービスを作りました - Qiita"
-        },
-        {
-          "id": "https://eng-blog.iij.ad.jp/archives/9756",
-          "author": null,
-          "description": "手順 1. キーボードのキートップを外す キートップをマイナスドライバーで外す方法も探せば出てきますが、このキーボードはすでに終売しており、もう二度と手に入らないので(※1)、キートップを安全に外せるキープラーで丁寧に外します。ご覧の通り、かなり黄ばんでいます。 大きめのキー(Control、Shift、Return)には針...",
-          "link": "https://eng-blog.iij.ad.jp/archives/9756",
-          "publishedOn": "2021-07-29T08:10:49.000Z",
-          "wordCount": 818,
-          "title": "Retr0bright でキーボードを漂白する | IIJ Engineers Blog"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/29/news121.html",
-          "author": null,
-          "description": "AIベンチャーのラディウス・ファイブは、AIでアニメ用の美術背景を生成するサービス「Anime Art Painter」を始めた。写真をアップロードするだけで、アニメ風の美術背景を30秒程度で4種類生成する。 AIベンチャーのラディウス・ファイブ（東京都新宿区）は7月29日、AIを使って写真からアニメ用の美術背景を生成するサー...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/29/news121.html",
-          "publishedOn": "2021-07-29T08:01:38.000Z",
-          "wordCount": 159,
-          "title": "写真を「アニメの背景」に変換するAI　30秒で“水彩風”など4種類の背景を生成 - ITmedia NEWS"
-        },
-        {
-          "id": "https://ja.cre8tiveai.com/aap",
-          "author": null,
-          "description": "アニメ背景を創る Anime Art Painterとは？Anime Art Painter（アニメ背景生成AI）とは、写真をアニメ風に変換するAIです。 一般的に、アニメは1話あたり200枚〜300枚の美術背景が使われています。 短い納期の中でクオリティの高い背景を制作する必要があるため大変な仕事です。 Anime Art Painter は、アップロードする...",
-          "link": "https://ja.cre8tiveai.com/aap",
-          "publishedOn": "2021-07-29T07:47:27.000Z",
-          "wordCount": 195,
-          "title": "写真からアニメ背景を生成するAI『Anime Art Painter』| cre8tiveAI"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/enterprise/articles/2107/29/news104.html",
-          "author": null,
-          "description": "インターネットに接続するタイプの監視カメラは、サイバー犯罪者にとって格好の標的だ。これらのデバイスはデフォルトの設定のまま使われていたり、脆弱（ぜいじゃく）性が存在したまま修正されずに使われたりしていることが多いためだ。 セキュリティ企業のMalwarebytesは2021年7月28日（現地時間）、同社のブログでデ...",
-          "link": "https://www.itmedia.co.jp/enterprise/articles/2107/29/news104.html",
-          "publishedOn": "2021-07-29T07:01:45.000Z",
-          "wordCount": 173,
-          "title": "IPカメラのファームウェアに緊急の脆弱性　複数ベンダーの製品に利用されており注意が必要 - ITmedia エンタープライズ"
-        },
-        {
-          "id": "https://av.watch.impress.co.jp/docs/news/1340922.html",
-          "author": null,
-          "description": "NHKは、1995年に放送した「映像の世紀」全11作を、最新のデジタル技術で鮮やかな映像にしつつ、NHK総合で8月3日深夜0時11分(2日月曜深夜)から2週にわたって再放送する。20世紀は人類が初めて歴史を「動く映像」として見ることができた最初の世紀である事から、“映像は20世紀をいかに記録してきたのか”を、世界中の映像記録を発掘・収集し、再構成したドキュメンタリー。",
-          "link": "https://av.watch.impress.co.jp/docs/news/1340922.html",
-          "publishedOn": "2021-07-29T06:38:21.000Z",
-          "wordCount": 85,
-          "title": "NHK、「映像の世紀」全11作を8月3日から再放送 - AV Watch"
-        },
-        {
-          "id": "https://github.com/BlueBlazin/thislang",
-          "author": null,
-          "description": "Thislang About This-lang (thislang) is an implementation of a subset of Javascript in that subset of Javascript. Yes, it can run itself! Usage All output is logged to console. So to use thislang you'll need to open up the console in your browser. Click the Run button to run the code. If you want,...",
-          "link": "https://github.com/BlueBlazin/thislang",
-          "publishedOn": "2021-07-29T04:59:39.000Z",
-          "wordCount": 1194,
-          "title": "GitHub - BlueBlazin/thislang: An implementation of a subset of javascript in that subset of javascript."
-        },
-        {
-          "id": "https://www.ghs.tokyo/posts/agile-project-management",
-          "author": null,
-          "description": "新規事業に取り組む企業の増加や方法論の普及などにより、新規事業の数は増えてきている印象です。一方で、新規事業のマネジメント手法については、あまり見かけません。本記事では、新規事業の運用に適したアジャイル型プロジェクトマネジメントの実践方法について解説します。目次アジャイル型プロジェクトマネジメン...",
-          "link": "https://www.ghs.tokyo/posts/agile-project-management",
-          "publishedOn": "2021-07-29T04:47:46.000Z",
-          "wordCount": 17,
-          "title": "新規事業の進め方。アジャイル型プロジェクトマネジメントとは？ | Growth Hack Studio Blog"
-        },
-        {
-          "id": "https://katsumakazuyo.hatenablog.com/entry/2021/07/29/111658",
-          "author": null,
-          "description": "最近もう Skype は使っていない人が多いのではないかと思います。一時期、常時接続といえば Skype でしたし、海外に電話をかける時にもSkypeだとものすごく安く済んだので助かりました。 でも私は未だに Skype のヘビーユーザーでして、特に何に使ってるかと言うと 「Skype Out」 と呼ばれる、外部の電話にかける時の普...",
-          "link": "https://katsumakazuyo.hatenablog.com/entry/2021/07/29/111658",
-          "publishedOn": "2021-07-29T04:43:03.000Z",
-          "wordCount": 225,
-          "title": "私が日常的に電話をかけてるのは実は Skype からです。Microsoft365を契約していると、月額60分までついてきます。 - 勝間和代が徹底的にマニアックな話をアップするブログ"
-        },
-        {
-          "id": "https://earthly.dev/blog/command-line-tools/",
-          "author": null,
-          "description": "Lately, I’ve been doing a lot more things at the command line. I’m not a hard-core terminal guy – I use VSCode more than Vim – but I’m always surprised at the number of complex tasks that can be done using just the POSIX standard command-line tools like grep, cat and sort. Tools are powerful. A g...",
-          "link": "https://earthly.dev/blog/command-line-tools/",
-          "publishedOn": "2021-07-29T04:37:04.000Z",
-          "wordCount": 1794,
-          "title": "6 Command Line Tools for Productive Programmers - Earthly Blog"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/review/1340903.html",
-          "author": null,
-          "description": "「TapeX」は、デスクトップの操作を録画し、動画ファイルとして保存できるツール。Windows/Macに対応するフリーソフトで、編集部にてWindows 10で動作確認した。本ソフトの公式サイトからダウンロードできる。",
-          "link": "https://forest.watch.impress.co.jp/docs/review/1340903.html",
-          "publishedOn": "2021-07-29T04:26:35.000Z",
-          "wordCount": 120,
-          "title": "時間無制限・透かしなしの無償デスクトップ録画ツール「TapeX」 ～Windows/Mac対応【レビュー】 - 窓の杜"
-        },
-        {
-          "id": "https://paiza.hatenablog.com/entry/2021/07/29/130000",
-          "author": null,
-          "description": "どうも、まさとらん（@0310lan）です！ 今回は、万能なドキュメントサービスとして人気の「Notion」を、さらにパワーアップさせて別の用途に活用できるWebサービスを厳選してご紹介します！ すべて無料で利用できる（もしくは無料プランありの）サービスであり、機能的に優れていて誰でも扱える簡単な操作のものを厳選し...",
-          "link": "https://paiza.hatenablog.com/entry/2021/07/29/130000",
-          "publishedOn": "2021-07-29T04:01:04.000Z",
-          "wordCount": 322,
-          "title": "超万能！Notionをまったく別のツールに大変身させるWebサービスを厳選してみた！ - paiza開発日誌"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/29/news089.html",
-          "author": null,
-          "description": "Amazon.co.jpは7月29日、食品や日用品を必要な分だけ購入できる「Amazonパントリー」のサービスを終了すると発表した。8月24日の午後11時59分をもって受付を終了する。 Amazonは日本を含む世界9カ国でAmazonパントリーを展開していたが、2020年にコロナ禍の需要急増に耐えきれず一時サービスを停止。今年1月には米国でサ...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/29/news089.html",
-          "publishedOn": "2021-07-29T03:50:58.000Z",
-          "wordCount": 149,
-          "title": "「Amazonパントリー」8月にサービス終了　米国に続き - ITmedia NEWS"
-        },
-        {
-          "id": "https://togetter.com/li/1751144",
-          "author": null,
-          "description": "よっしー＠豊郷検温部 @yosshi_MGSK 65532日とか、4294967292日でなくてよかった(何が 64bit unsignedなんかおぼえられるか 2021-07-28 17:46:19 はろ @harowaku 今回は数値の処理なので定石通りのコーディングをすればここまでひどいことにはならないけども、画面上部の表示とあわせて、オリンピック開催後はどうなるか...",
-          "link": "https://togetter.com/li/1751144",
-          "publishedOn": "2021-07-29T03:18:49.000Z",
-          "wordCount": 525,
-          "title": "とある東京五輪のカウントダウンボード、プログラマがミスったのかとんでもない表示に「嘘でしょｗ」「ガバガバで草」 - Togetter"
-        },
-        {
-          "id": "https://tech.jxpress.net/entry/2021/07/29/101150",
-          "author": null,
-          "description": "エンジニアの鈴木（泰）です。 今回は、multiprocessingとthreadingとasyncioの違いとはなんだろう？という問に挑戦してみたいと思います。 この問の答えをグーグル先生に聞いてみると、非常にたくさんの情報がヒットします。しかしながら、どの情報も断片的なものばかりで（本記事もそうなのかもしれません）、色々と本...",
-          "link": "https://tech.jxpress.net/entry/2021/07/29/101150",
-          "publishedOn": "2021-07-29T02:35:25.000Z",
-          "wordCount": 1429,
-          "title": "Python multiprocessing vs threading vs asyncio - JX通信社エンジニアブログ"
-        },
-        {
-          "id": "https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0",
-          "author": null,
-          "description": "ミクシィの21新卒技術研修の講義資料や『動画』を公開します！ 研修資料・動画一覧git研修（動画、スライド）データベース研修（動画、スライド、SQL演習環境）設計・テスト研修（動画、スライド）iOSアプリ開発研修（動画、スライド、リポジトリ）Androidアプリ開発研修（動画、スライド、リポジトリ）フロントエンド研...",
-          "link": "https://mixi-developers.mixi.co.jp/21-technical-training-a0bcdbf9bca0",
-          "publishedOn": "2021-07-29T02:23:20.000Z",
-          "wordCount": 89,
-          "title": "ミクシィの21新卒技術研修の資料と動画を公開します！ - mixi developers"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2021/07/oculus-new-experimental-api-blends-virtual-reality-with.html",
-          "author": null,
-          "description": "現実と仮想世界の境界があいまいに…Oculusの実験APIがスゴイ2021.07.29 09:008,420 Alyse Stanley - Gizmodo US ［原文］ （ 塚本直樹 ） Image: shutterstock MRってやっぱりすごい。 大幅なソフトウェアアップデートが実施されたFacebook（フェイスブック）のVRヘッドセット｢Oculus Quest 2｣。こちらがアップデートに...",
-          "link": "https://www.gizmodo.jp/2021/07/oculus-new-experimental-api-blends-virtual-reality-with.html",
-          "publishedOn": "2021-07-29T01:20:13.000Z",
-          "wordCount": 85,
-          "title": "現実と仮想世界の境界があいまいに…Oculusの実験APIがスゴイ | ギズモード・ジャパン"
-        },
-        {
-          "id": "https://www.slideshare.net/tsukamoto/aws-organizations-249878141",
-          "author": null,
-          "description": "We use your LinkedIn profile and activity data to personalize ads and to show you more relevant ads. You can change your ad preferences anytime.",
-          "link": "https://www.slideshare.net/tsukamoto/aws-organizations-249878141",
-          "publishedOn": "2021-07-29T00:57:28.000Z",
-          "wordCount": 1166,
-          "title": "おひとりさまAWS Organizationsのススメ"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/serial/progedu/1340523.html",
-          "author": null,
-          "description": "AppleのiOSやMacなどのアプリを作るために作られたプログラミング言語Swiftを、初心者がていねいに学べるアプリが「Swift Playgrounds」。iPad版とMac版のアプリで提供されています。",
-          "link": "https://forest.watch.impress.co.jp/docs/serial/progedu/1340523.html",
-          "publishedOn": "2021-07-29T00:41:35.000Z",
-          "wordCount": 119,
-          "title": "iOS/macOS向け言語「Swift」学習アプリ「Swift Playgrounds」は超かわいいけどガチ - どれ使う？プログラミング教育ツール - 窓の杜"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html",
-          "author": null,
-          "description": "アメリカのIT大手、グーグルとフェイスブックは、変異した新型コロナウイルスの感染拡大を受けて、オフィスで勤務するすべての従業員にワクチンの接種を義務づける方針を示しました。 これは、グーグルとフェイスブックが28日、それぞれ明らかにしました。 このうちグーグルは、当初、ことし9月1日にアメリカ国内のオフ...",
-          "link": "https://www3.nhk.or.jp/news/html/20210729/k10013166811000.html",
-          "publishedOn": "2021-07-28T22:19:46.000Z",
-          "wordCount": 21,
-          "title": "米グーグル・フェイスブック 全従業員ワクチン接種義務化へ | 新型コロナウイルス | NHKニュース"
-        },
-        {
-          "id": "https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/",
-          "author": null,
-          "description": "AWS News Blog EC2-Classic is Retiring – Here’s How to Prepare Let’s go back to the summer of 2006 and the launch of EC2. We started out with one instance type (the venerable m1.small), security groups, and the venerable US East (N. Virginia) Region. The EC2-Classic network model was flat, with pu...",
-          "link": "https://aws.amazon.com/blogs/aws/ec2-classic-is-retiring-heres-how-to-prepare/",
-          "publishedOn": "2021-07-28T20:01:26.000Z",
-          "wordCount": 1674,
-          "title": "EC2-Classic is Retiring – Here’s How to Prepare | AWS News Blog"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/office-scripts-available-in-excel-web/",
-          "author": null,
-          "description": "Guten Tag、伊藤です。 何気なく Web 版の Excel でスクリプトを使おうと見てみたら、GAS のようなサンプルスクリプトが出てきて驚きました。 「Office スクリプト」という TypeScript で記述できるスクリプト機能で、今年5月末にGAが開始したばかりなんですね！ しかし、同じエクセルファイルをアプリ版で開いてみると...",
-          "link": "https://dev.classmethod.jp/articles/office-scripts-available-in-excel-web/",
-          "publishedOn": "2021-07-28T17:12:58.000Z",
-          "wordCount": 438,
-          "title": "ウェブ版 Excel で使える新しい「Officeスクリプト」を試してみた | DevelopersIO"
-        },
-        {
-          "id": "https://note.com/miz_kushida/n/n103a7da460c5",
-          "author": null,
-          "description": "・不確実性パフォーマンス・ドメインについて加筆しました ・テーラリングについて加筆しましたPMBOKといえば、PMIが世界中のプロマネの実務家から意見を集めてプロジェクトマネジメントについて知識体系化している分厚い本、というイメージです。 いや、でした。。。以前の第6版までは（7版からはすごく薄い）。 2021年...",
-          "link": "https://note.com/miz_kushida/n/n103a7da460c5",
-          "publishedOn": "2021-07-28T16:16:56.000Z",
-          "wordCount": 95,
-          "title": "界隈がざわつくほど超進化したPMBOK第7版の解説【プロジェクトマネジメント】｜Mizuho Kushida｜note"
-        },
-        {
-          "id": "https://iphone-mania.jp/news-385629/",
-          "author": null,
-          "description": "Appleは開発者に対して、iOS15、iPadOS15、macOS Monterey、watchOS8の一般ユーザー向け正式版では、Siriによるサードパーティー製アプリの操作が制限される、と予告しています。 22のSiriKitコマンドが無効に Appleは開発者向けサポートページに、iOS15、iPadOS15、macOS Monterey、watchOS8の正式版ではSiriKitによる...",
-          "link": "https://iphone-mania.jp/news-385629/",
-          "publishedOn": "2021-07-28T15:29:46.000Z",
-          "wordCount": 231,
-          "title": "iOS15などの次期OSで、Siriによるサードパーティーアプリ操作が制限される - iPhone Mania"
-        },
-        {
-          "id": "https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi",
-          "author": null,
-          "description": "Transcript 1 Conﬁdential メルカリにおけるA/Bテスト標準化への取り組み 柳沼 慎哉（@yaginuuun） 2021/7/28, Retty ✕ Mercari Analyst Talk Night! 2 Conﬁdential 自己紹介 • 前職ではe-learning serviceのData Scientist • メルカリではData Analystとして主にA/Bテスト周り、 推薦システムの改善を担当 • 個人でPodc...",
-          "link": "https://speakerdeck.com/shyaginuma/btesutobiao-zhun-hua-hefalsequ-rizu-mi",
-          "publishedOn": "2021-07-28T15:28:55.000Z",
-          "wordCount": 1247,
-          "title": "メルカリにおけるA/Bテスト標準化への取り組み - Speaker Deck"
-        },
-        {
-          "id": "https://jp.quora.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E5%8F%B0%E3%81%AEWeb%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-Nginx-%E3%81%A7%E3%81%AESSL%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0",
-          "author": null,
-          "description": "問題が発生しました。しばらくしてから、もう一度お試しください。 再度お試しください",
-          "link": "https://jp.quora.com/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E4%BC%9A%E7%A4%BE%E3%81%AE%E4%B8%80%E5%8F%B0%E3%81%AEWeb%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC-Nginx-%E3%81%A7%E3%81%AESSL%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%81%AE%E6%9B%B4%E6%96%B0",
-          "publishedOn": "2021-07-28T12:55:51.000Z",
-          "wordCount": 5,
-          "title": "システム会社の一台のWebサーバー（Nginx）でのSSL証明書の更新作業の見積もりが20万円でした。ファイルをアップロードして再起動するだけですよね？ぼったくりだと思いますか？ - Quora"
         }
       ]
     },
@@ -7503,15 +7485,6 @@
           "publishedOn": "2021-08-24T14:51:26.000Z",
           "wordCount": 464,
           "title": "The Angular University is Hiring an Angular Developer"
-        },
-        {
-          "id": "60ffc849b90f9e003b92020d",
-          "author": "Angular University",
-          "description": "Everything that you need to know in practice to use the Angular dependency injection system, all in one place. All of its advanced concepts are explained in a practical and easy-to-understand way, with examples.",
-          "link": "https://blog.angular-university.io/angular-dependency-injection/",
-          "publishedOn": "2021-07-28T14:39:28.000Z",
-          "wordCount": 7408,
-          "title": "Angular Dependency Injection: Complete Guide"
         }
       ]
     },
@@ -7520,6 +7493,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=350782",
+          "author": "Chris Coyier",
+          "description": "That’s a heartwrenching title from Michael Williamson. I believe it though. It’s kinda like a maximized version of the blogging phenomenon where if you work on a post for weeks it’ll flop compared to a post that’s some dumb 20-minute …\nThe post My tiny side project has had more impact than my decade in the software industry appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
+          "publishedOn": "2021-08-27T19:14:10.000Z",
+          "wordCount": 738,
+          "title": "My tiny side project has had more impact than my decade in the software industry"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350201",
+          "author": "Murtuzaali Surti",
+          "description": "What options do you have if you want the body background in a fixed position where it stays put on scroll? background-attachment: fixed in CSS, at best, does not work well in mobile browsers, and at worst is not even …\nThe post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-fixed-background-attachment-hack/",
+          "publishedOn": "2021-08-27T14:42:16.000Z",
+          "wordCount": 1637,
+          "title": "The Fixed Background Attachment Hack"
+        },
         {
           "id": "https://css-tricks.com/?p=350573",
           "author": "Chris Coyier",
@@ -8014,24 +8005,6 @@
           "publishedOn": "2021-07-29T14:47:47.000Z",
           "wordCount": 1177,
           "title": "Developer-Friendly Passwordless Auth"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345404",
-          "author": "Chris Coyier",
-          "description": "It was interesting that when Safari 15 was dropping at this last WWDC, in my circles at least, I mostly heard enthusiasm. Like the colors-in-the-browser-controls stuff was a neat trick and fun to play with. And there were other …\nThe post Safari 15 Opinions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/safari-15-opinions/",
-          "publishedOn": "2021-07-28T20:21:55.000Z",
-          "wordCount": 1040,
-          "title": "Safari 15 Opinions"
-        },
-        {
-          "id": "https://css-tricks.com/?p=320544",
-          "author": "Ana Tudor",
-          "description": "For quite a while now, the CSS spec has included a lot of really useful mathematical functions, such as trigonometric functions (sin(), cos(), tan(), asin(), acos(), atan(), atan2()), exponential functions (…\nThe post Using Absolute Value, Sign, Rounding and Modulo in CSS Today appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-absolute-value-sign-rounding-and-modulo-in-css-today/",
-          "publishedOn": "2021-07-28T14:37:34.000Z",
-          "wordCount": 6716,
-          "title": "Using Absolute Value, Sign, Rounding and Modulo in CSS Today"
         }
       ]
     },
@@ -8118,15 +8091,6 @@
           "publishedOn": "2021-08-05T00:15:20.000Z",
           "wordCount": 452,
           "title": "2021年8月第1週号 1位は，UI／UXのちょっとしたテクニックいろいろ，気になるネタは，ザッカーバーグ氏は110兆円規模のフェイスブックを「メタバース」企業にすると投資家に語る ── 週刊Webテク通信"
-        },
-        {
-          "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202107/29",
-          "author": "アシカガコウジ",
-          "description": "ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年7月12日～25日の間に見つけた記事のベスト5です。",
-          "link": "https://gihyo.jp/design/clip/01/weekly-web-tech/202107/29",
-          "publishedOn": "2021-07-29T00:15:20.000Z",
-          "wordCount": 450,
-          "title": "2021年7月第5週号 1位は，Webデザイナーはそろそろスライダーを辞めるべきという提案，気になるネタは，音声SNS「Clubhouse」が脱ベータ，招待・承認が不要な正式サービスに ── 週刊Webテク通信"
         }
       ]
     },
@@ -8136,6 +8100,78 @@
       "siteUrl": "https://dev.to",
       "articles": [
         {
+          "id": "https://dev.to/alekseikorolev/debugging-an-angular-mobile-app-d2",
+          "author": "AlekseiKorolev",
+          "description": "When working on a mobile app in Angular, we need to test and debug mobile events (such as pinching) that are not triggered from the desktop chrome or Android simulator.\nRun the application on the local network\n\n\n\n\nng serve --host 0.0.0.0 \n\nReach app from mobile phone use ip address and port number\n\n\nActivate developer options on phone - tap 7 times on Build Number (Settings > About Phone > Build Number)\nEnable USB Debugging (Settings > System > Developer Options > USB debugging)\nConnect phone to computer via usb and allow usb debugging\n\nAdd to address line chrome://inspect#devices\n\nInspect app",
+          "link": "https://dev.to/alekseikorolev/debugging-an-angular-mobile-app-d2",
+          "publishedOn": "2021-08-27T18:23:41.000Z",
+          "wordCount": 475,
+          "title": "Debugging an Angular mobile app"
+        },
+        {
+          "id": "https://dev.to/devbyrayray/the-only-2-ways-you-ever-need-to-unsubscribe-angular-observables-4bpp",
+          "author": "Dev By RayRay",
+          "description": "Clean Up Angular Observables In An Easy Way\n\n\nAngular is full of Observables. But is there is a mechanism that automatically unsubscribes your Observables when components get destroyed?\nI've read a ton of different posts about cleaning your subscriptions. There are so many different ways, but I missed that one post that showed me how you should handle your subscriptions and when.\nTo prevent you from reading all these posts like me, here is a practical post explaining how to unsubscribe from your Observables easily.\n\nThe short version, for those who don't want to dive into it 😅. Here are the solutions.\nAsync Pipe\n\n\n| async the async pipe offers you to handle Observables in your HTML template. The async pipe automatically runs the unsubscribe process after the destruction process of a compo…",
+          "link": "https://dev.to/devbyrayray/the-only-2-ways-you-ever-need-to-unsubscribe-angular-observables-4bpp",
+          "publishedOn": "2021-08-27T14:04:37.000Z",
+          "wordCount": 1314,
+          "title": "The Only 2 Ways, You Ever Need To Unsubscribe Angular Observables"
+        },
+        {
+          "id": "https://dev.to/livioribeiro/angular-dynamic-settings-4hae",
+          "author": "Livio Ribeiro",
+          "description": "(You can find the code shown here in https://github.com/livioribeiro/angular-dynamic-settings-example)\nWhen developing an Angular application, usually your application settings lives in src/environments/environment.ts for development and src/environments/environment.prod.ts for production, and Angular takes care of swapping those during a production build.\nBut if we have another environment, a staging environment, then we have a problem, since we expect to approve the application running in staging and promote the same code to production, but with Angular's approach to configuration we need to run another build to configure our app to production.\nTo overcome this problem, I came up a very simple, yet very effective, strategy:\nLoad a javascript file before the application starts that will d…",
+          "link": "https://dev.to/livioribeiro/angular-dynamic-settings-4hae",
+          "publishedOn": "2021-08-27T11:47:08.000Z",
+          "wordCount": 884,
+          "title": "Angular dynamic settings"
+        },
+        {
+          "id": "https://dev.to/rodrigokamada/adding-the-map-leaflet-component-to-an-angular-application-d13",
+          "author": "Rodrigo Kamada",
+          "description": "Angular is a development platform for building WEB, mobile and desktop applications using HTML, CSS and TypeScript (JavaScript). Currently, Angular is at version 12 and Google is the main maintainer of the project.\nleatlet is an interactive maps component library that supports mobile devices.\nBefore you start, you need to install and configure the tools:\ngit\nNode.js and npm\nAngular CLI\nIDE (e.g. Visual Studio Code)\n1. Let's create the account. Access the site https://www.mapbox.com/ and click on the button Sign up.\n\n2. Fill in the fields Username, Email, Password, First name, Last name, click on the checkbox I agree to the Mapbox Terms of Service and Privacy Policy. and click on the button Get started.\n\n3. Check the registered email.\n\n4. Click on the link in the email sent.\n\n5. Copy the to…",
+          "link": "https://dev.to/rodrigokamada/adding-the-map-leaflet-component-to-an-angular-application-d13",
+          "publishedOn": "2021-08-27T11:15:09.000Z",
+          "wordCount": 1228,
+          "title": "Adding the map Leaflet component to an Angular application"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/problems-faced-while-creating-comments-section-with-a-tree-like-data-structure-3djg",
+          "author": "Ajit Singh",
+          "description": "If anyone faces the same problems and want me to write the actual implementation please comment below.\n\n\nWhile working on my dev.to clone in Angular I came across the comments section which can be very tricky to render. As it has a tree like structure which can go infinitely.\n├── comment\n│   ├── comment ─── comment\n│   │   └── comment\n│   ├── comment\n│   ├── comment ─── comment ─── comment\n│   │   └── comment ─── comment ─── comment\n│   └── comment\n├── comments\n│   ├── comment ─── comment\n│   │   └── comment \n│   └── comment \n├──── comment\n│   ├── comment\n│   └── comment\n└──── comments\n\nWe never know the actual structure of the comments. I looked closely at the structure and I saw its just like recursion the same component is calling the same component. So I tried that and it worked.\nI pas…",
+          "link": "https://dev.to/this-is-angular/problems-faced-while-creating-comments-section-with-a-tree-like-data-structure-3djg",
+          "publishedOn": "2021-08-27T03:01:25.000Z",
+          "wordCount": 1149,
+          "title": "Problems faced while creating comments section with a tree like data structure"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-august-27-p98",
+          "author": "Ajit Singh",
+          "description": "Help me improve these updates by giving suggestions.\n\n\nGithub Repo - https://github.com/ajitsinghkaler/devto-clone\nDeployed on Firebase - https://dev-toclone.firebaseapp.com/\nLast week we finished details page article section and basic comments section.\n\nThis week I added the complete comments section. It was one the most complex tasks while building the dev.to ui. The comments structure is a bit complex to render. Comments contain a key called children which can again contain comments so it was like a tree like structure.\n├── comment\n│   ├── comment ─── comment\n│   │   └── comment\n│   ├── comment\n│   ├── comment ─── comment ─── comment\n│   │   └── comment ─── comment ─── comment\n│   └── comment\n├── comments\n│   ├── comment ─── comment\n│   │   └── comment \n│   └── comment \n├──── comment\n│   ├── comment\n│   └── comment\n└──── comments\n\nHow to render an infinite tree. Then I called the comment component from the comment component. To create a recursion like scenario which will render the entire component tree. I've written details about it in this article.\nVimal Patel has also added \nI also did my first live stream with Santosh on moving over our app from angular-cli to NxDevTools we did the basics in the stream and I went over a lot of questions that I have to why Nx if you want to see how to move your project over Nx please follow us on This is tech Talks\nSo this is where we are right now.\n\nNext week I'll start working on the podcast page.\nCreate a 404 page\n\n\nComments section css is a bit off\n\n\nAdd number of child comments in comments section\n\n\n\n\n  \n  \n  Commits\n\n\n\n\nCommit lint\n\n\nBasic comments\n\n\nComments section completed",
+          "link": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-august-27-p98",
+          "publishedOn": "2021-08-27T02:47:38.000Z",
+          "wordCount": 926,
+          "title": "Updates on dev-to clone in Angular - August 27"
+        },
+        {
+          "id": "https://dev.to/jdgamble555/firestore-many-to-many-part-2-array-contains-all-46p9",
+          "author": "Jonathan Gamble",
+          "description": "This is Part 2 of the Firestore Many-to-Many Series.  Before I cover the map many-to-many situations, there is two more situation in arrays that you need to think about: \nGet all students taking either Class A or Class B\nthis.afs.collection('students')\n.where('classes', 'array-contains-any', [classA_ID, classB_ID]);\n\nAs you can see, you can easily accomplish this with array-contains-any.\nGet all classes either Student A is taking or Student B is taking\nthis.afs.collection('classes')\n.where('students', 'array-contains-any', [studentA_ID, studentB_ID]);\n\nOR\nJust to give you another route, you can still use pipe with in to accomplish the rxjs frontend join:\nthis.afs.collection('students', ref =>\n  ref.where(\n    firebase.firestore.FieldPath.documentId(),\n    'in',\n    [studentA_ID, studentB_I…",
+          "link": "https://dev.to/jdgamble555/firestore-many-to-many-part-2-array-contains-all-46p9",
+          "publishedOn": "2021-08-27T01:01:26.000Z",
+          "wordCount": 984,
+          "title": "Firestore Many-to-Many: Part 2 - array-contains-all"
+        },
+        {
+          "id": "https://dev.to/valoni01/antenatal-for-ng-new-the-mother-of-all-angular-applications-both-dead-and-alive-5dlb",
+          "author": "Valentine Awe",
+          "description": "Before we start, I would like to state that the concepts in this article are not restricted to the Angular framework alone, but can be applied to other frontend frameworks and libraries like Vue and React. \n\nAntenatal in the human world relates to the medical care of women when they are expecting a baby. In our case, ng new is the mother while our yet be created application is the baby. \nWhy this phrase? this is simply because almost all angular applications started with our glorious command ng new. ng new has birthed thousands of applications both the ones currently in development, the ones in production, the ones they have stopped using and the ones that never made it to production.\nThe whole idea of antenatal is to ensure that complications are avoided during the pregnancy and delivery …",
+          "link": "https://dev.to/valoni01/antenatal-for-ng-new-the-mother-of-all-angular-applications-both-dead-and-alive-5dlb",
+          "publishedOn": "2021-08-27T00:23:09.000Z",
+          "wordCount": 1577,
+          "title": "Antenatal for ng new - The mother of all angular applications both dead and alive"
+        },
+        {
           "id": "https://dev.to/ib1/the-ultimate-guide-to-hosting-multilingual-angular-application-on-google-app-engine-o7k",
           "author": "Igor Bertnyk",
           "description": "Google App Engine is a good option to serve SPA applications, such as Angular. It requires little maintenance, can be easily auto-scaled if necessary, and you can extend it with CDN or load balancer. However, an Angular application requires several tricks to make it work properly. For example, to support deep links and browser refresh, routed apps must fallback to index.html. But navigation to the index page should happen only for routes, not for existing files and assets, so there should be exception for such things.\nLocalizing your Angular app\nhttps://myapp.com/fr/login\" will show the login page in French, so we need to map these URL patterns to the underlying application assets.\nAs I mentioned, the build process is slightly changed:\nnpm run build -- --configuration=production --localize…",
@@ -8143,6 +8179,15 @@
           "publishedOn": "2021-08-26T22:56:18.000Z",
           "wordCount": 1062,
           "title": "The ultimate guide to hosting multilingual Angular application on Google App Engine"
+        },
+        {
+          "id": "https://dev.to/this-is-angular/reactive-forms-in-angular-cel",
+          "author": "Chandler Baskins",
+          "description": "Photo by SIMON LEE on Unsplash\nSeriously. I feel like the days of wysiwig forms are over. Long gone are the days where we have our HTML form and then do a post back to the server with our form data. These days we need to do real time validation like is this username taken. Or we need to have dynamic forms like a Registration form where we can select how many people to register and the fields populate based on our response. This is powerful stuff. This becomes a form that is driven by the user. Kinda like a RPG, no two users may have the same experience and the form populates according to their responses or actions. But with better UX comes more complications for the developer. Thankfully Angular being the kitchen that it is serves us up something tasty for building these complicated forms.…",
+          "link": "https://dev.to/this-is-angular/reactive-forms-in-angular-cel",
+          "publishedOn": "2021-08-26T13:43:08.000Z",
+          "wordCount": 2082,
+          "title": "Reactive Forms in Angular"
         },
         {
           "id": "https://dev.to/chandlerbaskins/reactive-forms-in-angular-cel",
@@ -9412,60 +9457,6 @@
           "publishedOn": "2021-07-30T03:53:13.000Z",
           "wordCount": 792,
           "title": "Updates on dev.to clone in Angular - July 30"
-        },
-        {
-          "id": "https://dev.to/the-guild/build-a-whatsapp-clone-with-ionic-2-angular-2-and-meteor-1ghf",
-          "author": "TheGuildBot",
-          "description": "This article was published on 2016-11-30 by Uri Goldshtein @ The Guild Blog\nA version of this post was originally published on the Ionic Blog.\nNow, a year has passed and a lot has happened: Angular 2.0 is now stable, including astonishing amount of new features for the platform. Ionic 2.0 entered RC stage and is very close to being final. Finally, Meteor reached version 1.4.2, with many improvements the community asked for (fast build times, full npm and yarn support, Node 4.6.1 and MongoDB 3 by default, etc..).\nToday, I’m happy to announce we are releasing two new versions of the Ionic/Meteor Whatsapp tutorial, this time with Angular 2.0 and Ionic 2.0, one using the Ionic CLI and one using the Meteor CLI.\nIn these tutorials, we’ll create a full WhatsApp clone using Angular 2 and Ionic 2. We’ll use Meteor’s realtime collections for the chat and Meteor’s simple Authentication packages for SMS-based authentication.\nIt’s great to see the power of these two solutions working together, keeping the platforms up-to-date with the latest improvements in the Javascript ecosystem!\nStart here.\nBy the way, if you noticed that the Angular-Meteor.com website is much faster, it’s because we’ve completely re-written it using Angular 2 and universal rendering to generate it as a static website. On top of that, more features are coming to Angular2-Meteor very soon, including lazy loading of modules and support for the AOT compiler.\nIf you’re thinking about migrating from Blaze to Angular2, or using them side by side, check out our migration tutorial here.",
-          "link": "https://dev.to/the-guild/build-a-whatsapp-clone-with-ionic-2-angular-2-and-meteor-1ghf",
-          "publishedOn": "2021-07-29T10:07:58.000Z",
-          "wordCount": 637,
-          "title": "Build a WhatsApp Clone with Ionic 2, Angular 2, and Meteor"
-        },
-        {
-          "id": "https://dev.to/the-guild/whatsapp-clone-using-angular-graphql-apollo-typescript-and-postgresql-51jf",
-          "author": "TheGuildBot",
-          "description": "This article was published on 2019-02-25 by Niccolo Belli @ The Guild Blog\nYou might have seen it around already — an open-source WhatsApp Clone tutorial; a project which was originally started in 2015 by Urigo based on Angular-Meteor and Ionic, and have been throughout different incarnations ever since.\nYou may have also noticed that we recently published a new React version of the Whatsapp Clone tutorial.\nThis time around, I’m happy to announce that a new version of the WhatsApp Clone is here, and it’s based on Angular 7.2, Angular CLI 7.3.2, Material-UI, TypeScript, Apollo, GraphQL-Subscriptions, GraphQL Code Generator, GraphQL Modules, PostgreSQL and TypeORM, full with step by step guides to teach you every step of the way.\nClick mme to go to the tutorial page\n\nThis app was built with …",
-          "link": "https://dev.to/the-guild/whatsapp-clone-using-angular-graphql-apollo-typescript-and-postgresql-51jf",
-          "publishedOn": "2021-07-29T10:06:56.000Z",
-          "wordCount": 1427,
-          "title": "WhatsApp Clone using Angular, GraphQL, Apollo, TypeScript and PostgreSQL"
-        },
-        {
-          "id": "https://dev.to/the-guild/how-i-helped-improve-angular-console-1m6p",
-          "author": "TheGuildBot",
-          "description": "This article was published on 2018-11-30 by Kamil Kisiela @ The Guild Blog\nDid you know that Angular Console uses GraphQL under the hood? I want to tell about how it used it and how I helped to improve it because that might be useful for people trying to implement GraphQL in their applications, both on client and server.\nAngular Console is a user interface for Angular CLI created by Nrwl, widely used in Angular Community.\nI will link to the PRs I’ve made to Angular Console throughout the article so you could see everything I recommend in practice.\nAfter reading the announcement of Angular Console I got very excited about the tool and immediately decided to explore the codebase. I noticed Electron and that the project is based on Angular CLI and Nrwl’s NX.\nThat’s super cool but what I found…",
-          "link": "https://dev.to/the-guild/how-i-helped-improve-angular-console-1m6p",
-          "publishedOn": "2021-07-29T09:51:40.000Z",
-          "wordCount": 1927,
-          "title": "How I helped improve Angular Console"
-        },
-        {
-          "id": "https://dev.to/the-guild/open-source-fps-with-apollo-graphql-geostrike-alpha-112f",
-          "author": "TheGuildBot",
-          "description": "This article was published on 2018-02-15 by David Yahalomi @ The Guild Blog\nTLDR: We’ve built a multiplayer shooter and used Apollo’s GraphQL subscriptions to keep game state in sync at a very high frequency. Here’s our impressions!\nTools used: Angular-cesium, Apollo Angular, CesiumJS, Angular\nGo Play: geo-strike.com\nWell, to put it simply, because we can!\nInstead of working hard on creating a special serializable, efficient but also unreadable, strict and esoteric binary protocol, we decided on going with the well defined, readable and flexible GraphQL based API, and improve on it, if needed.\nTurns out we can manage synchronization of player positions, state and actions across all clients quite easily!\nThere are two ways you can understand our challenges:\n  Go and play the game — Feel fre…",
-          "link": "https://dev.to/the-guild/open-source-fps-with-apollo-graphql-geostrike-alpha-112f",
-          "publishedOn": "2021-07-29T09:07:48.000Z",
-          "wordCount": 1430,
-          "title": "Open source FPS with Apollo GraphQL — GeoStrike (Alpha)"
-        },
-        {
-          "id": "https://dev.to/the-guild/graphql-as-a-best-practice-for-modern-angular-apps-3e8d",
-          "author": "TheGuildBot",
-          "description": "This article was published on 2016-07-28 by Uri Goldshtein @ The Guild Blog\nIn this post, I’ll make the case for why Angular needs a best practice for communicating with the server, and why GraphQL should be that best practice.\nThe Angular community is establishing best practices so that we all can benefit from making our apps more performant, easier to maintain, and more modern.\nSome of the current best practices include composing everything into Components, using one-way data binding, lazy loading, having an immutable global state management (Redux & ng-rx), and more…\nThat is all great, and means that if we will follow those best practices our apps will behave better and will look more modern…\n…until we get to data fetching from the server.\nToday, whether we are developing in a large com…",
-          "link": "https://dev.to/the-guild/graphql-as-a-best-practice-for-modern-angular-apps-3e8d",
-          "publishedOn": "2021-07-29T08:55:08.000Z",
-          "wordCount": 1071,
-          "title": "GraphQL as a best practice for modern Angular apps?"
-        },
-        {
-          "id": "https://dev.to/itpathsolutions/top-reasons-to-choose-angularjs-development-in-2021-5h6l",
-          "author": "IT Path Solutions",
-          "description": "Brief introduction of Angularjs\nAngularjs is open-source java-script framework. It is an on-demand open-source framework for developing dynamic single page web applications. It is created and maintained by Google. Angular js can quickly and easily integrate with other frameworks. It has the potential to create all kinds of front-end development easily. It uses less code. Angular js is now a core development tool for both enterprise and startups.\nAngularjs provides an incredible way to build scalable, interactive and more user-friendly single web and mobile applications, it extends syntax of HTML to demonstrate the application components concisely and certainly. Its well-know competitors are Ember and Backbone.js. Angular js has won many significant awards. The angular js developers community is developing a powerful and robust free framework in an attempt to implement innovative new ideas into your application. Angular js supports integration and unit testing to ease the testing of web applications.\n\nUse of Angular.js Across Industries:\nMajor Apps Built with Angularjs Framework\nHere few global apps and websites that use Angular.js framework:\nWhy Choose Angularjs Development in 2021?\nUser-friendly:\nAngularjs development services give a faster result with less coding and save time for the development process.\nSupports MVC structure:\nMulti-data Binding\nDependency Injection:\nCross-Platform\nAffordability:\nDeclarative UI Expression:\nBest User Interfaces:\nConclusion:\nAfter observing latest trends of Angularjs. Angular js framework is perfect for robust cross platform apps. Angularjs is developed by Google and every features of angular js will be enhanced. If you are convinced about the benefit of  Angularjs development for your next project, do drop us a line by going to our website.",
-          "link": "https://dev.to/itpathsolutions/top-reasons-to-choose-angularjs-development-in-2021-5h6l",
-          "publishedOn": "2021-07-28T12:22:29.000Z",
-          "wordCount": 1063,
-          "title": "Top Reasons to Choose AngularJS Development in 2021"
         }
       ]
     },
@@ -9474,6 +9465,15 @@
       "feedUrl": "https://dev.to/feed/tag/rxjs",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/jdgamble555/firestore-many-to-many-part-2-array-contains-all-46p9",
+          "author": "Jonathan Gamble",
+          "description": "This is Part 2 of the Firestore Many-to-Many Series.  Before I cover the map many-to-many situations, there is two more situation in arrays that you need to think about: \nGet all students taking either Class A or Class B\nthis.afs.collection('students')\n.where('classes', 'array-contains-any', [classA_ID, classB_ID]);\n\nAs you can see, you can easily accomplish this with array-contains-any.\nGet all classes either Student A is taking or Student B is taking\nthis.afs.collection('classes')\n.where('students', 'array-contains-any', [studentA_ID, studentB_ID]);\n\nOR\nJust to give you another route, you can still use pipe with in to accomplish the rxjs frontend join:\nthis.afs.collection('students', ref =>\n  ref.where(\n    firebase.firestore.FieldPath.documentId(),\n    'in',\n    [studentA_ID, studentB_I…",
+          "link": "https://dev.to/jdgamble555/firestore-many-to-many-part-2-array-contains-all-46p9",
+          "publishedOn": "2021-08-27T01:01:26.000Z",
+          "wordCount": 984,
+          "title": "Firestore Many-to-Many: Part 2 - array-contains-all"
+        },
         {
           "id": "https://dev.to/jdgamble555/firestore-many-to-many-mf8",
           "author": "Jonathan Gamble",
@@ -9589,6 +9589,24 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=31261",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/book-review/isbn-9784839974824.html",
+          "publishedOn": "2021-08-27T00:36:16.000Z",
+          "wordCount": 422,
+          "title": "CSSの実務で役立つスキルが身につく、本気で学びたい人にお勧めの解説書 -現場のプロから学ぶ CSSコーディングバイブル"
+        },
+        {
+          "id": "https://coliss.com/?p=31570",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/products/spanish-signature-by-scratchdesignbali.html",
+          "publishedOn": "2021-08-27T00:26:07.000Z",
+          "wordCount": 275,
+          "title": "今週末まで有料フォントが無料！ペンで走り書きされた、かっこいいフォント -Spanish Signature"
+        },
         {
           "id": "https://coliss.com/?p=31202",
           "author": "コリス🥦",
@@ -9768,15 +9786,6 @@
           "publishedOn": "2021-07-30T00:36:22.000Z",
           "wordCount": 395,
           "title": "HTMLとCSSの実務レベルの作業フローや思考プロセスがていねいに解説された、Web制作に真剣に取り組みたい人にお勧めの本 -教科書では教えてくれないHTML＆CSS"
-        },
-        {
-          "id": "https://coliss.com/?p=30384",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/css/custom-scrollbars-in-css.html",
-          "publishedOn": "2021-07-29T00:36:29.000Z",
-          "wordCount": 909,
-          "title": "CSSでスクロールバーをカスタマイズする方法を徹底解説 -古いCSSと新しいCSSでの実装のポイント"
         }
       ]
     },
@@ -9785,6 +9794,87 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/5f19a8b1f9b4",
+          "author": "Oliver Spryn",
+          "description": "Years of experience, distilled into a few steps\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/the-4-step-plan-to-make-yourself-invaluable-at-work-5f19a8b1f9b4?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-27T17:07:09.000Z",
+          "wordCount": 1625,
+          "title": "The 4-Step Plan To Make Yourself Invaluable at Work"
+        },
+        {
+          "id": "https://medium.com/p/d01c10c26f4a",
+          "author": "Zachary Minott",
+          "description": "The disastrous consequences of planning for success\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/why-your-development-projects-fail-d01c10c26f4a?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-27T17:06:40.000Z",
+          "wordCount": 1412,
+          "title": "Why Your Development Projects Fail"
+        },
+        {
+          "id": "https://medium.com/p/83f481494ec8",
+          "author": "Andreas D.",
+          "description": "A guide on quickly setting up a solid manual\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-write-manuals-as-a-developer-83f481494ec8?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-27T17:03:35.000Z",
+          "wordCount": 1667,
+          "title": "How To Write Manuals as a Developer"
+        },
+        {
+          "id": "https://medium.com/p/7120c33a325e",
+          "author": "jsmanifest",
+          "description": "Be a team player\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-javascript-practices-that-will-help-your-teammates-sleep-at-night-7120c33a325e?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-27T16:03:04.000Z",
+          "wordCount": 1724,
+          "title": "5 JavaScript Practices That Will Help Your Teammates Sleep at Night"
+        },
+        {
+          "id": "https://medium.com/p/34017a1322c7",
+          "author": "Ander Rodriguez",
+          "description": "Discover pages and store the exact content you need in less than 300 lines of code",
+          "link": "https://betterprogramming.pub/mastering-web-scraping-in-python-scaling-to-distributed-crawling-34017a1322c7?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-27T15:03:19.000Z",
+          "wordCount": 2499,
+          "title": "Mastering Web Scraping in Python: Scaling to Distributed Crawling"
+        },
+        {
+          "id": "https://medium.com/p/55755996336a",
+          "author": "Sanjay Priyadarshi",
+          "description": "Say no to tutorial binge watching\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/getting-stuck-in-tutorial-hell-can-be-terrifying-heres-how-you-can-come-out-55755996336a?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-27T14:03:09.000Z",
+          "wordCount": 1587,
+          "title": "Getting Stuck in Tutorial Hell Can Be Terrifying — Here’s How You Can Come Out"
+        },
+        {
+          "id": "https://medium.com/p/58aaf781e09f",
+          "author": "Parul Malhotra",
+          "description": "And getting more of your time back",
+          "link": "https://betterprogramming.pub/automating-transactional-emails-using-sendgrid-api-and-aws-lambda-58aaf781e09f?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-27T13:16:06.000Z",
+          "wordCount": 921,
+          "title": "Automating Transactional Emails Using SendGrid API and AWS Lambda"
+        },
+        {
+          "id": "https://medium.com/p/9403ecf831b2",
+          "author": "Gaurav Agarwal",
+          "description": "A hands-on guide to applying the principle of least-privilege on container’s syscalls\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/secure-your-kubernetes-cluster-with-seccomp-9403ecf831b2?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-27T12:42:05.000Z",
+          "wordCount": 1725,
+          "title": "Secure Your Kubernetes Cluster With Seccomp"
+        },
+        {
+          "id": "https://medium.com/p/95fe54d994d6",
+          "author": "Michael Miller",
+          "description": "The most satisfying program I’ve ever created\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-i-created-my-first-ai-program-using-react-js-95fe54d994d6?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-27T06:40:23.000Z",
+          "wordCount": 2321,
+          "title": "Create a Tic Tac Toe AI Game Using React.js"
+        },
         {
           "id": "https://medium.com/p/185bd5e9fc5",
           "author": "Yong Cui",
