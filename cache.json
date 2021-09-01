@@ -12,6 +12,20 @@
       "siteUrl": "https://zenn.dev/topics/angular",
       "articles": [
         {
+          "id": "https://zenn.dev/nemtus/articles/blockchain-symbol-angular-1st-symbol-sdk",
+          "author": "NEMTUS公式",
+          "description": "Angularでsymbol-sdkを使うための環境構築\n\n 概要\nこの記事では、Angularで作成されたWebアプリ上でsymbol-sdkというnpmパッケージを用いてSymbolというブロックチェーンを利用するための第一歩となる環境構築について説明します。Angularのデフォルトの設定のままsymbol-sdkをインストールするといくつかのエラーが発生します。それを修正するための方法について説明し、同時にsymbol-sdkをAngularプロジェクトで使う際のサンプルコードを紹介します。\n以下URLでサンプルコードを実際に動かしているので、必要に応じてご参照ください。\n\n...",
+          "link": "https://zenn.dev/nemtus/articles/blockchain-symbol-angular-1st-symbol-sdk",
+          "publishedOn": "2021-08-31T03:08:26.000Z",
+          "wordCount": 2962,
+          "title": "Symbol x Angular その1 Angularでsymbol-sdkを使うための環境構築",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--C6cho3W3--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:NEMTUS%25E5%2585%25AC%25E5%25BC%258F%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:Symbol%2520x%2520Angular%2520%25E3%2581%259D%25E3%2581%25AE1%2520Angular%25E3%2581%25A7symbol-sdk%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E7%2592%25B0%25E5%25A2%2583%25E6%25A7%258B%25E7%25AF%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2o3VUUtZEN2M0FYdzZpVl9IS2ZxemhrOHlmWlBJRlY1QU9HVE0yPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://zenn.dev/riko/articles/5edbbd9751b673",
           "author": "riko",
           "description": "初めに\nAngularで作ったアプリを他の人に見てもらいたい場合、わざわざサーバーレンタルして…ってやらなきゃいけないのか…？って思って調べてみたらgithub pagesから全世界に公開できるようです！\n\n 環境\nangular-cli-ghpagesというパッケージを使います。\nこいつが必要とする環境が以下の通りなので最低環境はこれになります。\n\nGit 1.9以降\nAngular CLI v9.0.0以降を介して作成されたAngularプロジェクト\n(ng updateでプロジェクトをupdateすればv9.0.0未満でも行けるらしいです。)\n\n\n 手順\n\n\nangular-c...",
@@ -47,6 +61,240 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://www.docker.com/blog/updating-product-subscriptions/",
+          "author": null,
+          "description": "Docker is used by millions of developers to build, share, and run any app, anywhere, and 55% of professional developers use Docker every day at work. In these work environments, the increase in outside attacks on software supply chains is accelerating developer demand for Docker’s trusted content...",
+          "link": "https://www.docker.com/blog/updating-product-subscriptions/",
+          "publishedOn": "2021-08-31T17:17:10.000Z",
+          "wordCount": 1477,
+          "title": "Docker is Updating and Extending Our Product Subscriptions - Docker Blog"
+        },
+        {
+          "id": "https://japanese.engadget.com/windows-11-10-5-143907091.html",
+          "author": null,
+          "description": "マイクロソフトは最新OS『Windows 11』を2021年10月5日から提供します。 10月5日以降発売の新PCにはプリインストールされるほか、既存のWindows 10から無料でアップグレードが可能です。アップグレードは最新のPCを優先して、段階的に提供される予定。 Windows 11に対応するすべてのPCに無料アップグレードが行き渡るの...",
+          "link": "https://japanese.engadget.com/windows-11-10-5-143907091.html",
+          "publishedOn": "2021-08-31T15:02:36.000Z",
+          "wordCount": 209,
+          "title": "Windows 11は10月5日提供開始。Win10から無料アップグレード、Androidアプリ対応は後日 - Engadget 日本版"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1347552.html",
+          "author": null,
+          "description": "Microsoftは8月31日(現地時間)、次期OS「Windows 11」を10月5日より提供開始すると発表した。同日に既存のWindows 10マシンに対するWindows 11への無償アップグレードが始まり、Windows 11搭載マシンも発売される。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1347552.html",
+          "publishedOn": "2021-08-31T15:00:15.000Z",
+          "wordCount": 166,
+          "title": "【速報】Windows 11が10月5日にリリース決定。無償アップグレードも同日開始 - PC Watch"
+        },
+        {
+          "id": "https://togetter.com/li/1767734",
+          "author": null,
+          "description": "ロジャー・マンゴー @meisan0107 「バッテリーが少なすぎる場合手動モードに切り替えることが出来ます」ってマカロニ・ウェスタンごっこもできるじゃん。甥っ子のプレゼントに買うか(自分がほしいだけ) twitter.com/karetakoe/stat… 2021-08-31 20:35:45",
+          "link": "https://togetter.com/li/1767734",
+          "publishedOn": "2021-08-31T14:54:24.000Z",
+          "wordCount": 532,
+          "title": "Amazonをみてたら「いらないけど欲しい」を具現化したかのような機関銃のおもちゃを見つけてしまった - Togetter"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1347545.html",
+          "author": null,
+          "description": "マイクロソフトは、「Windows 11」を10月5日より提供すると発表した。なお特徴のひとつであるAndroidアプリが利用できるという機能は当初含まれない。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1347545.html",
+          "publishedOn": "2021-08-31T13:57:56.000Z",
+          "wordCount": 107,
+          "title": "「Windows 11」10月5日登場、Androidアプリは当初非対応に - ケータイ Watch"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/31/news168.html",
+          "author": null,
+          "description": "API galleryは銀行、企業、行政機関などが開発した金融サービスに活用できるAPIの情報を組織を問わずまとめるWebサイト。APIそのものに加え、APIの提供を含むソリューションの情報も掲載する。 APIの検索や掲載は無料で、個人も利用可能。22年1月には、Slackを活用してAPIを利用したい企業や個人同士のコミュニティーも...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/31/news168.html",
+          "publishedOn": "2021-08-31T12:35:21.000Z",
+          "wordCount": 158,
+          "title": "金融サービス用APIのマーケットプレースが10月にオープン　NTTデータが非営利で運営 - ITmedia NEWS"
+        },
+        {
+          "id": "https://nordot.app/805398611071549440",
+          "author": null,
+          "description": "みずほフィナンシャルグループ（FG）が、基幹システムの開発などを担当する人員を、システムの本格稼働後に約6割削減したことが31日、分かった。今年6回の障害を起こしたみずほのシステムは全体像を把握するのが難しいほど規模が大きく、システムに習熟した人員を削減したことが障害の多発に影響した可能性もある。 みず...",
+          "link": "https://nordot.app/805398611071549440",
+          "publishedOn": "2021-08-31T11:45:11.000Z",
+          "wordCount": 44,
+          "title": "システム担当者を6割削減　みずほ、障害多発に影響か ｜ 共同通信"
+        },
+        {
+          "id": "https://www.tokyo-np.co.jp/article/128001",
+          "author": null,
+          "description": "将棋の永瀬拓矢王座（２８）に木村一基九段（４８）が挑戦する第６９期王座戦５番勝負が、９月１日に仙台市で開幕する。木村九段は一昨年、史上最年長の４６歳で初タイトルの王位を獲得。「中年の星」として話題を集めたが、昨年の王位戦７番勝負（東京新聞主催）では藤井聡太棋聖（当時）に４連敗で失冠した。しかし木...",
+          "link": "https://www.tokyo-np.co.jp/article/128001",
+          "publishedOn": "2021-08-31T09:57:26.000Z",
+          "wordCount": 312,
+          "title": "王座戦に挑む“中年の星”木村一基九段　AIで将棋研究「挽回きかぬ優劣に直結」　：東京新聞 TOKYO Web"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/column/nettech/1346072.html",
+          "author": null,
+          "description": "Ethernetというか10GBASE-Tに関しては、2017年から【10GBASE-T、ついに普及？】と題し、全11回と番外編2回をお届けした。だが、ツイストペアによる銅配線のEthernetは10GBASE-Tまでで、25/40GBASE-Tはまだまだ実用化には至っていない。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/nettech/1346072.html",
+          "publishedOn": "2021-08-31T09:38:44.000Z",
+          "wordCount": 287,
+          "title": "【光Ethernetの歴史と発展】400GbEはFacebookやMicrosoftのDC事業者が先行、Beyond 400G Study Groupは800Gと同時に1.6Tの標準化を主張【ネット新技術】 - INTERNET Watch"
+        },
+        {
+          "id": "https://twitter.com/okada_tarumi/status/1432475099530100737",
+          "author": null,
+          "description": "結局、故障の原因すら分からないままシステム再稼働。これでは資産を安心して託せない。 取引情報をブロックチェーン化し、システムはオープンソース化してGitHubで弱点を検証し合うような、そんな進化が必要では。 > みずほ、故障原… https://t.co/iYooMdiz6J",
+          "link": "https://twitter.com/okada_tarumi/status/1432475099530100737",
+          "publishedOn": "2021-08-31T09:02:10.000Z",
+          "wordCount": 196,
+          "title": "神戸市会議員 岡田ゆうじ🛡️ on Twitter: \"結局、故障の原因すら分からないままシステム再稼働。これでは資産を安心して託せない。 取引情報をブロックチェーン化し、システムはオープンソース化してGitHubで弱点を検証し合うような、そんな進化が必要では。 &gt; みずほ、故障原… https://t.co/iYooMdiz6J\""
+        },
+        {
+          "id": "https://webdesign-trends.net/entry/13630",
+          "author": null,
+          "description": "Web制作や情報収集など、Google Chromeをメインブラウザで使用している方はとても多いと思います。 Chromeの便利な機能の1つが拡張機能ですが、きちんと活用してますか？拡張機能を活用する... The post Web制作が捗る！おすすめのChrome拡張機能18選【2021年版】 first appeared on Web Design Trends.",
+          "link": "https://webdesign-trends.net/entry/13630",
+          "publishedOn": "2021-08-31T08:16:26.000Z",
+          "wordCount": 276,
+          "title": "Web制作が捗る！おすすめのChrome拡張機能18選【2021年版】 | Web Design Trends"
+        },
+        {
+          "id": "https://qiita.com/ulwlu/items/90dd8d79b12e10606299",
+          "author": null,
+          "description": "個人用メモです。 機械学習は素材集めがとても大変です。 でもこの素材集め、実は無理してやらなくても、元から良質な無料データベースがあったようなのです。 URLはこちら YouTube8-M https://research.google.com/youtube8m/explore.html 提供されているサービスは以下の通り 800万個の動画 19億個のフレーム 4800個の...",
+          "link": "https://qiita.com/ulwlu/items/90dd8d79b12e10606299",
+          "publishedOn": "2021-08-31T06:47:11.000Z",
+          "wordCount": 237,
+          "title": "Googleが大量の機械学習用データベースを無料公開してた - Qiita"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1347373.html",
+          "author": null,
+          "description": "EIZO株式会社は、24.1型でWUXGA解像度(1,920×1,200ドット)の液晶ディスプレイ「FlexScan EV2485」を9月28日に発売する。価格はオープンプライスで、EIZOダイレクトでの直販価格は6万6,000円。本体色はホワイトとブラックの2タイプ。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1347373.html",
+          "publishedOn": "2021-08-31T06:25:28.000Z",
+          "wordCount": 124,
+          "title": "EIZO、Type-C 1本で画面表示&給電する24.1型液晶。16:10のWUXGA対応。本体が当たるキャンペーンも開催 - PC Watch"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/31/news131.html",
+          "author": null,
+          "description": "DNPが5G電波を反射して、通信エリアを拡大できる反射板「リフレクトアレイ」を開発した。表面のデザインを変更でき、景観を崩さないという。2023年度の実用化を目指す。 大日本印刷（DNP）は8月31日、5G電波を反射することで、通信エリアを拡大できる反射板「リフレクトアレイ」を開発したと発表した。表面のデザインを...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/31/news131.html",
+          "publishedOn": "2021-08-31T06:10:39.000Z",
+          "wordCount": 149,
+          "title": "5G電波を反射する板で通信エリア拡大、DNPが開発　景観に合わせデザインも変更可 - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.zukeran.org/shin/d/2021/08/31/python-pdf2txt/",
+          "author": null,
+          "description": "SARS-COV-2関連情報を集めていると、国や自治体、企業が公開している情報がPDFなのにムカついてしまう。ExcelをPDF化したものもあって、素直にxlsも出せよと思う。 （それでも画像データで公開している組織に比べればかなりマシなのが悲しい） 例えば、沖縄県のワクチン接種率の情報がPDFだ。「沖縄県のワクチン接種進捗...",
+          "link": "https://www.zukeran.org/shin/d/2021/08/31/python-pdf2txt/",
+          "publishedOn": "2021-08-31T06:04:29.000Z",
+          "wordCount": 310,
+          "title": "pdf2txt.py 便利すぎる（PDF表をテキスト化） | ず＠沖縄"
+        },
+        {
+          "id": "https://visiwork.synergy-res.co.jp/topic3111/",
+          "author": null,
+          "description": "PMBOKとはProject Management Body of Knowledgeを略したものであり、日本語では、「プロジェクト・マネジメント知識体系ガイド」と言います。PMBOKは、プロジェクト・マネジメント協会 (PMI) が発行しているガイドであり、幅広い分野でのマネジメントに適用されるプロジェクト・マネジメントの基盤を提供しています。 ...",
+          "link": "https://visiwork.synergy-res.co.jp/topic3111/",
+          "publishedOn": "2021-08-31T05:28:45.000Z",
+          "wordCount": 125,
+          "title": "【コラム】PMBOK第7版がタスク・マネジメントにもたらす意味とは？（１／３） - VisiWork"
+        },
+        {
+          "id": "https://japanese.engadget.com/google-calender-timeinsights-040049918.html",
+          "author": null,
+          "description": "Googleは8月30日（現地時間）、Googleカレンダー上で会議にどの程度の時間を費やしているのかを確認できるTime Insights機能をGoogle Workspaceユーザー向けに発表しました。 Time Insightsは、Googleカレンダーに登録されている会議などの内容を集計し、勤務時間に対する会議の割合や、1対1なのか、3人以上での会議なの...",
+          "link": "https://japanese.engadget.com/google-calender-timeinsights-040049918.html",
+          "publishedOn": "2021-08-31T05:02:26.000Z",
+          "wordCount": 192,
+          "title": "Googleカレンダーに会議時間を集計できる「Time Insights」が追加 - Engadget 日本版"
+        },
+        {
+          "id": "https://gigazine.net/news/20210831-google-upscaling-low-resolution-images/",
+          "author": null,
+          "description": "GoogleのAI研究チームであるGoogle AIが、低解像度画像にあえてノイズを追加して「純粋なノイズ」になるまで加工し、そこから高解像度画像を生成する「diffusion model(拡散モデル)」という手法を改善する新たなアプローチを発表しました。「画質の悪い低解像度画像から高解像度画像を生成する技術」には、古い写真の復...",
+          "link": "https://gigazine.net/news/20210831-google-upscaling-low-resolution-images/",
+          "publishedOn": "2021-08-31T03:01:59.000Z",
+          "wordCount": 223,
+          "title": "Googleが「ガビガビの低解像度画像を高解像度画像に変換するAIモデル」の性能を改善、人間が判別できないレベルに - GIGAZINE"
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/08/240497how-to-find-the-hidden-orphaned-files-eating-your-googl.html",
+          "author": null,
+          "description": "どういうわけか、Googleドライブがいつもあふれそうになっている…。あなたのその問題の原因は、大量の｢みなしご｣ファイルがストレージ容量をひそかに奪っているからかもしれません。 みなしごファイルが生まれるのは、親ディレクトリーが削除されたのに、ファイルそのものが削除されていない場合です。 たとえば、あなた...",
+          "link": "https://www.lifehacker.jp/2021/08/240497how-to-find-the-hidden-orphaned-files-eating-your-googl.html",
+          "publishedOn": "2021-08-31T01:28:52.000Z",
+          "wordCount": 65,
+          "title": "Googleドライブの容量を奪う｢使っていないファイル｣の見つけ方 | ライフハッカー［日本版］"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/news/1347279.html",
+          "author": null,
+          "description": "ビューカードは、ビューカード会員向けのスマートフォンアプリ「ビューカードアプリ」を提供開始した。iOSとAndroid版を提供し、Suicaの残額確認にも対応する。",
+          "link": "https://www.watch.impress.co.jp/docs/news/1347279.html",
+          "publishedOn": "2021-08-31T01:19:36.000Z",
+          "wordCount": 81,
+          "title": "「ビューカードアプリ」提供開始。かざしてSuica残額確認も - Impress Watch"
+        },
+        {
+          "id": "https://baigie.me/officialblog/2021/08/31/baigie-workflow/",
+          "author": null,
+          "description": "営業、受注、制作、納品、運用と、ウェブ制作の活動は長期に渡り、そのタスクの種類と量は膨大です。だからこそ、基本的なプロセスや使用するドキュメントなどを明確に定義しておかないと、サービスの品質が担当者により大きく変わることになります。 ベイジは社員がまだ5名の頃、各人に委ねた進め方によって以下のよう...",
+          "link": "https://baigie.me/officialblog/2021/08/31/baigie-workflow/",
+          "publishedOn": "2021-08-31T00:47:43.000Z",
+          "wordCount": 636,
+          "title": "ベイジのウェブ制作ワークフロー2021年版（約100のタスクと解説） | knowledge / baigie"
+        },
+        {
+          "id": "https://markodenic.com/tools/buttons-generator/",
+          "author": null,
+          "description": "Join the newsletter. I write monthly emails full of real-world web development tips and resources. No spam, unsubscribe at any time.",
+          "link": "https://markodenic.com/tools/buttons-generator/",
+          "publishedOn": "2021-08-31T00:33:14.000Z",
+          "wordCount": 82,
+          "title": "Buttons Generator - Marko Denic - Web Developer"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/review/minireview/1345969.html",
+          "author": null,
+          "description": "2017年に、耳を塞がずに“ながら聴き”できるイヤカフ型イヤフォンを発売し、ながら聴きイヤフォンの代名詞的な製品となっているambieが、ついに完全ワイヤレス化。「AM-TW01」(価格は15,000円)が、9月中旬以降にいよいよ発売となる。それに先駆け、テストサンプル機をお借りしたのでインプレッションをお届けする。",
+          "link": "https://av.watch.impress.co.jp/docs/review/minireview/1345969.html",
+          "publishedOn": "2021-08-31T00:19:31.000Z",
+          "wordCount": 125,
+          "title": "【ミニレビュー】耳を塞がない「ambie」、完全ワイヤレス化で“解き放たれる” - AV Watch"
+        },
+        {
+          "id": "https://tech-blog.monotaro.com/entry/2021/08/31/090000",
+          "author": null,
+          "description": "Software Design連載開始 こんにちは。金谷です。 このたび、モノタロウにおけるPython大規模開発に関する取り組みを、技術評論社様で発刊されている Software Design に連載させていただくことになりました。 モノタロウがPythonを用いて開発を始めたのが2003年。2021年の現在もPythonを用いた開発が続けられています。...",
+          "link": "https://tech-blog.monotaro.com/entry/2021/08/31/090000",
+          "publishedOn": "2021-08-31T00:05:06.000Z",
+          "wordCount": 589,
+          "title": "Software Design連載 2021年8月号 Python製のレガシー＆大規模システムをどうリファクタリングするか - MonotaRO Tech Blog"
+        },
+        {
+          "id": "https://gendai.ismedia.jp/articles/-/86740",
+          "author": null,
+          "description": "「Wi-Fi」と聞いて、何を思い浮かべますか？ IT機器に詳しくない人と話す際、認識の違いに驚かされる言葉がいくつかある。 特に最近、SNSなどでも話題になることが多いのが、「Wi-Fi（ワイファイ）」という言葉を聞いて思い浮かべるものの違いだ。 どう違うのかについては、あえてのちほど述べることにするが、この「Wi-...",
+          "link": "https://gendai.ismedia.jp/articles/-/86740",
+          "publishedOn": "2021-08-30T22:53:16.000Z",
+          "wordCount": 171,
+          "title": "「Wi-Fiってなに？」日本人の大多数が、意外と理解してない問題（西田 宗千佳） | ブルーバックス | 講談社（1/4）"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1347262.html",
+          "author": null,
+          "description": "無料の動画エディター「OpenShot 2.6.0」が、8月25日に公開された。AIとコンピュータービジョン（CV）を用いた新しいビデオエフェクトが導入されたほか、ノイズ除去やイコライザーといったオーディオエフェクトが追加されるなど、史上最大といえるアップデートとなっている。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1347262.html",
+          "publishedOn": "2021-08-30T21:59:24.000Z",
+          "wordCount": 124,
+          "title": "無料の動画編集ツール「OpenShot」に史上最大のアップデート ～被写体を自動追跡するAIエフェクト - 窓の杜"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a23a60bded5184596492c183ec923f6769323cf4",
           "author": null,
           "description": "システム障害を相次ぎ起こしたみずほフィナンシャルグループ（ＦＧ）が、新しい中枢システムを全面導入した後に担当の社員数を４割に減らしていたことが３０日、わかった。運用や保守・管理に関するノウハウが十分に引き継がれずトラブルの遠因になった可能性もあるとみて、金融庁はみずほ側に原因究明を求めている。 ２...",
@@ -54,6 +302,15 @@
           "publishedOn": "2021-08-30T21:55:34.000Z",
           "wordCount": 65,
           "title": "【独自】みずほ、新システム導入後に要員６割減らす…トラブル遠因になった可能性（読売新聞オンライン） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2108/31/news002.html",
+          "author": null,
+          "description": "AWS初心者でもサーバレスでここまでできる――クラウド運用の定型業務を9カ月で自動化した新入社員の挑戦：特集：「惰性をやめる、慣習を疑う」こんどこそ楽になる運用管理（2） 運用管理者に光を当てるオンラインイベント「Cloud Operator Days Tokyo 2021」。NTT東日本のセッション「新入社員が９ヶ月でクラウド運用の自...",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2108/31/news002.html",
+          "publishedOn": "2021-08-30T21:55:02.000Z",
+          "wordCount": 177,
+          "title": "AWS初心者でもサーバレスでここまでできる――クラウド運用の定型業務を9カ月で自動化した新入社員の挑戦：特集：「惰性をやめる、慣習を疑う」こんどこそ楽になる運用管理（2） - ＠IT"
         },
         {
           "id": "https://www.nikkei.com/article/DGXZQOUB30BTT0Q1A830C2000000/",
@@ -74,6 +331,15 @@
           "title": "Armの中国合弁企業がArmからの独立を宣言、一部ライセンスや中国市場の顧客をそのまま横取り - GIGAZINE"
         },
         {
+          "id": "https://qiita.com/Hirata-Masato/items/775ecd86f26f305fd393",
+          "author": null,
+          "description": "食べ物で強そうな名前のものは？というお題があったときに出がちなのは「ビーフストロガノフ」です。確かに強そうですが、もっと強そうな食べ物もあるような気がします。 今回はディープラーニングの一種であるLSTMとライブラリKerasを使って、食べ物に限らず単語の強さの定量化をしてみようと思います。 方針 まず、件...",
+          "link": "https://qiita.com/Hirata-Masato/items/775ecd86f26f305fd393",
+          "publishedOn": "2021-08-30T15:01:40.000Z",
+          "wordCount": 643,
+          "title": "ビーフストロガノフはどのくらい強いのか - Qiita"
+        },
+        {
           "id": "https://jp.techcrunch.com/2021/08/30/rinna-gpt-2-roberta-oss/",
           "author": null,
           "description": "rinnaは8月25日、日本語に特化したGPT-2とBERTの事前学習モデルとその学習を再現するためのソースコードを、GitHubおよびNLPモデルライブラリーHuggingFaceにオープンソースソフトウェア（OSS）として公開したと発表した。ライセンスはMIT。製品開発のための実験過程で開発したもので、日本語の自然言語処理（NLP）の研...",
@@ -81,6 +347,15 @@
           "publishedOn": "2021-08-30T14:33:51.000Z",
           "wordCount": 328,
           "title": "rinnaが日本語に特化したGPT-2とBERTの事前学習モデルを開発しオープンソース化 | TechCrunch Japan"
+        },
+        {
+          "id": "https://note.com/nhk_syuzai/n/n9ccbd599da50",
+          "author": null,
+          "description": "新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...",
+          "link": "https://note.com/nhk_syuzai/n/n9ccbd599da50",
+          "publishedOn": "2021-08-30T14:17:25.000Z",
+          "wordCount": 53,
+          "title": "記者に「プログラミングのスキル」って必要なの？ちなみにNHKニュースの画像生成も記者がコードを書いてます｜NHK取材ノート｜note"
         },
         {
           "id": "https://www.bcnretail.com/news/detail/20210830_241302.html",
@@ -7191,213 +7466,6 @@
           "publishedOn": "2021-08-02T12:17:28.000Z",
           "wordCount": 26389,
           "title": "The Linux Kernel Module Programming Guide"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/02/news139.html",
-          "author": null,
-          "description": "東京都が都内の建物や交通状況を再現した3Dマップ「デジタルツイン3Dビュワー」を公開。今後はAIを使ったシミュレーションの場として、災害や人口減少などの課題解決にも活用するという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/02/news139.html",
-          "publishedOn": "2021-08-02T11:22:15.000Z",
-          "wordCount": 153,
-          "title": "仮想空間に“もう一つの東京”？　東京都が「デジタルツイン」の3Dマップを作成、GitHubでソースコードも公開 - ITmedia NEWS"
-        },
-        {
-          "id": "https://qiita.com/baby-degu/items/532bea7be058c35f61a8",
-          "author": null,
-          "description": "Help us understand the problem. What is going on with this article?",
-          "link": "https://qiita.com/baby-degu/items/532bea7be058c35f61a8",
-          "publishedOn": "2021-08-02T11:03:27.000Z",
-          "wordCount": 2015,
-          "title": "朝飯前に学べる！便利なPythonのヒント100選【後編】 - Qiita"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/02/news134.html",
-          "author": null,
-          "description": "選手村の段ボール製ベッドを破壊する動画をTikTokに投稿して批判を集め、謝罪した、イスラエルのベンジャミン・ワンガー選手が7月31日、熱海土砂災害の支援金を募るクラウドファンディングを始めた。目標金額は3000ドル。 短期連載「東京五輪とネット」 57年ぶりの東京開催となった「東京2020オリンピック・パラリンピッ...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/02/news134.html",
-          "publishedOn": "2021-08-02T11:02:23.000Z",
-          "wordCount": 150,
-          "title": "「選手村ベッド破壊動画」で謝罪の五輪選手、熱海土砂災害の支援金を募りクラウドファンディング - ITmedia NEWS"
-        },
-        {
-          "id": "https://aws.amazon.com/jp/blogs/news/aws-black-belt-online-seminar-con350-container-and-serverless/",
-          "author": null,
-          "description": "Amazon Web Services ブログ [AWS Black Belt Online Seminar] CON350 コンテナとサーバレスの使い分け 資料公開 AWS Black Belt オンラインセミナー「CON350 コンテナとサーバレスの使い分け」を公開します。先日開始した、AWS Black Belt オンラインセミナーのコンテナサービスのビデオ（13分ほど）です。視聴は YouTu...",
-          "link": "https://aws.amazon.com/jp/blogs/news/aws-black-belt-online-seminar-con350-container-and-serverless/",
-          "publishedOn": "2021-08-02T09:43:16.000Z",
-          "wordCount": 329,
-          "title": "[AWS Black Belt Online Seminar] CON350 コンテナとサーバレスの使い分け 資料公開 | Amazon Web Services ブログ"
-        },
-        {
-          "id": "https://twitter.com/QbioTetsuya/status/1422073890793082885",
-          "author": null,
-          "description": "質問があったので、複雑系が廃れた理由についてもう少し書いてみます。なお自分は複雑系ブームのピークが過ぎた2000年に修士1年で、複雑系の薄暮を学生として見つつ、別分野(システム生物学)などに取り組んだ世代なのを明記しておきます。1/n",
-          "link": "https://twitter.com/QbioTetsuya/status/1422073890793082885",
-          "publishedOn": "2021-08-02T09:01:03.000Z",
-          "wordCount": 196,
-          "title": "Tetsuya J. Kobayashi, Qbio@IIS UTokyo on Twitter: \"質問があったので、複雑系が廃れた理由についてもう少し書いてみます。なお自分は複雑系ブームのピークが過ぎた2000年に修士1年で、複雑系の薄暮を学生として見つつ、別分野(システム生物学)などに取り組んだ世代なのを明記しておきます。1/n\""
-        },
-        {
-          "id": "https://ja.wordpress.org/2021/08/02/configuring-theme-design-with-theme-json/",
-          "author": null,
-          "description": "以下は、Jeff Ong が書いた WordPress.org 公式ブログの記事「Configuring Theme Design with theme.json」を訳したものです。 誤字脱字誤訳などありましたらフォーラムまでお知らせください。 WordPress 5.8以降、新しいツールである “theme.json” をテーマ開発に利用できるようになりました。初めて聞いたかもしれませ...",
-          "link": "https://ja.wordpress.org/2021/08/02/configuring-theme-design-with-theme-json/",
-          "publishedOn": "2021-08-02T07:30:37.000Z",
-          "wordCount": 436,
-          "title": "theme.json を使ったテーマデザインの設定 | WordPress.org 日本語"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/amplify-next-js-isr/",
-          "author": null,
-          "description": "まえがき AWS AmplifyでついにNext.jsのISRに対応したようです。実際にやってみる。 Deploy and host server-side rendered apps with Amplify - AWS Amplify 少しハマったので備忘録も兼ねて。 Amplify + Next.jsをデプロイ Next.jsのプロジェクトを作成 yarn create next-app --typescript ✔ What is your project nam...",
-          "link": "https://dev.classmethod.jp/articles/amplify-next-js-isr/",
-          "publishedOn": "2021-08-02T07:17:47.000Z",
-          "wordCount": 680,
-          "title": "AWS AmplifyでNext.jsのISRを試してみる | DevelopersIO"
-        },
-        {
-          "id": "https://www.oreilly.co.jp//books/9784873119595/",
-          "author": null,
-          "description": "並行プログラミング入門 ――Rust、C、アセンブリによる実装からのアプローチ 高野 祐輝　著 2021年08月24日 発売予定 384ページ ISBN978-4-87311-959-5 フォーマット 複数のプログラムを同時に実行する「並行プログラミング」は、処理速度を飛躍的に向上させる手法で、タスク管理、プロセス管理、スレッド管理をはじめ、...",
-          "link": "https://www.oreilly.co.jp//books/9784873119595/",
-          "publishedOn": "2021-08-02T07:10:29.000Z",
-          "wordCount": 359,
-          "title": "O'Reilly Japan - 並行プログラミング入門"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/02/news110.html",
-          "author": null,
-          "description": "クレディセゾンは2日、会員の決済データを基にした2020年の消費動向調査結果を発表した。2020年に利用率が最も上がったのはフードデリバリーサービスだった。 セゾンカード／UCカードを発行しているクレディセゾンは8月2日、会員の決済データを基にした2020年の消費動向調査結果を発表した。2020年に利用率が最も上がっ...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/02/news110.html",
-          "publishedOn": "2021-08-02T07:04:55.000Z",
-          "wordCount": 147,
-          "title": "港区のセゾンカード会員はフードデリバリーに月12万円　クレディセゾン調査 - ITmedia NEWS"
-        },
-        {
-          "id": "https://codezine.jp/article/detail/14516?p=2",
-          "author": null,
-          "description": "自分自身で課題を解決するDX事例紹介 作図って大変？ AWSシステム構成図生成アプリで作図作業を効率化しよう 自分自身で課題を解決するDX事例紹介 第7回 図生成アプリの始め方と動作環境 ここから図生成アプリを紹介します。図生成アプリはHTML形式のファイルなので、アプリのインストールは不要です。また、Webサーバー...",
-          "link": "https://codezine.jp/article/detail/14516?p=2",
-          "publishedOn": "2021-08-02T06:22:21.000Z",
-          "wordCount": 317,
-          "title": "作図って大変？ AWSシステム構成図生成アプリで作図作業を効率化しよう (2/2)：CodeZine（コードジン）"
-        },
-        {
-          "id": "https://www.agile-studio.jp/post/remote-agile-know-how-2nd",
-          "author": null,
-          "description": "第1版作成時点では以下の3種類に分けてノウハウを紹介しました。「全員リモート」のノウハウもありましたが、主にPOと開発者の拠点が東京-福井のように離れているケースを想定していました。",
-          "link": "https://www.agile-studio.jp/post/remote-agile-know-how-2nd",
-          "publishedOn": "2021-08-02T05:59:11.000Z",
-          "wordCount": 48,
-          "title": "リモートアジャイル開発のノウハウ集 第2版を公開しました"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/02/news092.html",
-          "author": null,
-          "description": "オリンピックを見ていると改めて、あまり聞いたことのなかった小さな国から、いつもニュースで目にする大国まで、多様な国と多様な文化があることを実感する。そして超メジャーな国なのに、いまだに翻訳で迷うのが、いわゆる「イギリス」という国の国名だ。 試しに知人の高校生に聞いてみた。「イギリスの国名を英語で何...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/02/news092.html",
-          "publishedOn": "2021-08-02T05:02:11.000Z",
-          "wordCount": 179,
-          "title": "イギリス人を“English”と呼んではいけない、その理由：IT基礎英語（1/2 ページ） - ITmedia NEWS"
-        },
-        {
-          "id": "https://www.au.com/pr/gzone/",
-          "author": null,
-          "description": "G'zOne、再び。 2000年、鮮烈なデビューを果たした初代G'zOne。 耐水・耐衝撃性能に特化した新たなスタイルは唯一無二の路線を開拓。 その後も、その強靭なタフネスさを軸に、 カメラや折りたたみなど時代と融合しながら進化。 その歴史に幕を下ろした2012年まで、圧倒的な存在であることを貫き続けた。 あれから9年。 ...",
-          "link": "https://www.au.com/pr/gzone/",
-          "publishedOn": "2021-08-02T04:17:34.000Z",
-          "wordCount": 369,
-          "title": "G'zOne TYPE-XX"
-        },
-        {
-          "id": "https://cloud.google.com/blog/ja/products/operations/ops-agent-now-ga-and-it-includes-opentelemetry",
-          "author": null,
-          "description": "GCP を試すStart building on Google Cloud with $300 in free credits and 20+ always free products. 無料トライアル ※この投稿は米国時間 2021 年 7 月 21 日に、Google Cloud blog に投稿さ\u0001...",
-          "link": "https://cloud.google.com/blog/ja/products/operations/ops-agent-now-ga-and-it-includes-opentelemetry",
-          "publishedOn": "2021-08-02T03:33:13.000Z",
-          "wordCount": 215,
-          "title": "OpenTelemetry を基盤とする Ops エージェントの一般提供を開始 | Google Cloud Blog"
-        },
-        {
-          "id": "https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer",
-          "author": null,
-          "description": "Transcript ΞδϦςΟΛࢧ͑Δ� ඼࣭ಛੑ ࿨ా�୎ਓ� !U@XBEB #devsumiA +VM��� ������!�σϒαϛ����Ն t-wada t_wada twada 📷🙆 📹🙅 🙆 ࣗݾ঺հ #devsumiA ΑΖ͓͘͠ئ͍͠·͢ illustrated by @mty_mno #devsumiA Ϗδωεʹͱͬͯ*5͸ɺʮ͋Δͱศརʯ͔Βʮ༗ޮʯɺʮෆ ՄܽʯΛܦͯʮத֩ͦͷ΋ͷʯʹͳΓͭͭ͋Γɺॊೈ͔ͭढ़ හʹιϑτ΢ΣΞΤϯδχΞϦϯάΛਐΊΔྗ͸اۀͷڝ૪ ྗͷݯઘͱͳΓ·ͨ͠ɻ� ຊηογϣϯͰ͸ɺͦͷΑ͏ͳڝ૪ྗ͋Διϑτ΢ΣΞΛ։ ൃ͠ଓ͚ΔྗΛߏ੒͢ΔཁૉΛɺ඼࣭ಛੑ౳ͷଆ໘͔Β۷Γ Լ͍͖͍͛ͯͨͱߟ͍͑ͯ·͢ɻ ߨԋͷ֓ཁ IUUQT�...",
-          "link": "https://speakerdeck.com/twada/agility-and-quality-characteristics-developers-summit-2021-summer",
-          "publishedOn": "2021-08-02T03:13:05.000Z",
-          "wordCount": 645,
-          "title": "アジリティを支える品質特性 / Agility and Quality Characteristics Developers Summit 2021 Summer - Speaker Deck"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGXZQOUC312180R30C21A7000000/",
-          "author": null,
-          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら IT（情報技術）エンジニア採用支援のファインディ（東京・品川）はプログラミング言語についての調査を実施した。それによると高収入のエンジニアほど新世代言語の「Ru...",
-          "link": "https://www.nikkei.com/article/DGXZQOUC312180R30C21A7000000/",
-          "publishedOn": "2021-08-02T02:43:50.000Z",
-          "wordCount": 111,
-          "title": "高収入エンジニアは「ラスト」に注目、ファインディ調査: 日本経済新聞"
-        },
-        {
-          "id": "https://note.com/mikiok/n/n34cedf895e6b",
-          "author": null,
-          "description": "WebデベロッパーのVictor氏による下記のツイートから始まるスレッドが大変参考になる内容だと感じたので、ご本人に許諾を得て日本語で紹介させていただくことにしました。 I reviewed 100+ user interfaces this year. Avoid the most common 18 mistakes to make your UI/UX design better 👇 — Victor (@vponamariov) ...",
-          "link": "https://note.com/mikiok/n/n34cedf895e6b",
-          "publishedOn": "2021-08-02T02:19:40.000Z",
-          "wordCount": 300,
-          "title": "UIデザイン時にやってしまいがちな18の誤ち｜Mikio Kiura / ANKR DESIGN｜note"
-        },
-        {
-          "id": "https://quipper.hatenablog.com/entry/2021/08/02/080000",
-          "author": null,
-          "description": "こんにちは。 SRE の @suzuki-shunsuke です。 AWS IAM の管理を miam から Terraform に移行した話を紹介します。 なお、 AWS や miam に限らず「Terraform で管理されていない大量のリソースを Terraform で管理する」ことを検討している方には参考になる内容かと思います。 背景 本ブログでも何度か紹介したとおり、...",
-          "link": "https://quipper.hatenablog.com/entry/2021/08/02/080000",
-          "publishedOn": "2021-08-02T01:50:46.000Z",
-          "wordCount": 880,
-          "title": "AWS IAM の管理を miam から Terraform に移行した話 - Quipper Product Team Blog"
-        },
-        {
-          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/05830/",
-          "author": null,
-          "description": "「国際業務は顧客にとって重要なインフラの役割を担うにもかかわらず、手作業が多い。人の頑張りに頼らず、効率的で持続可能な体制を早期に実現していく」。ふくおかフィナンシャルグループ（FG）市場統括部部長の工藤章氏は、福岡銀行が2021年8月に利用を始める予定の新クラウドサービスの狙いをこう語る。 福岡銀行が...",
-          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/05830/",
-          "publishedOn": "2021-08-02T01:24:31.000Z",
-          "wordCount": 384,
-          "title": "「ほぼすべてが手作業」からAI-OCRとRPAで脱却、福岡銀行が挑む | 日経クロステック（xTECH）"
-        },
-        {
-          "id": "https://yigarashi.hatenablog.com/entry/load-to-em",
-          "author": null,
-          "description": "企業でWebアプリケーションエンジニアとして働き始めて2年と4ヶ月ほど経ちました。様々な仕事を経て、自分が向いていることや楽しく感じることが徐々に明らかになり、数年後になりたい像がぼんやりと浮かび上がってきました。そして、その将来像が世間的には「エンジニアリングマネージャー」（以降EM）と呼ばれているこ...",
-          "link": "https://yigarashi.hatenablog.com/entry/load-to-em",
-          "publishedOn": "2021-08-02T00:42:05.000Z",
-          "wordCount": 118,
-          "title": "エンジニアリングマネージャーを目指す若者の戦略 - yigarashiのブログ"
-        },
-        {
-          "id": "https://gendai.ismedia.jp/articles/-/85693",
-          "author": null,
-          "description": "脱炭素へ！　ソニーの戦略、アップルの野心、ソフトバンクの深謀遠慮 「カーボンニュートラル」を産業化せよ 厳しい目標設定 世界中のあらゆる企業で今、「二酸化炭素排出量削減」が求められている。 日本政府は2020年10月、2050年までに「カーボンニュートラル」を達成することを政策目標に据えた。カーボンニュートラ...",
-          "link": "https://gendai.ismedia.jp/articles/-/85693",
-          "publishedOn": "2021-08-02T00:17:05.000Z",
-          "wordCount": 173,
-          "title": "脱炭素へ！　ソニーの戦略、アップルの野心、ソフトバンクの深謀遠慮（西田 宗千佳） | ブルーバックス | 講談社（1/4）"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1340971.html",
-          "author": null,
-          "description": "1度使い始めると手放せない玄関ドアのスマートロック。筆者宅でも昨秋、ずっと気になっていた「Qrio Lock」を設置し便利に利用しています。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1340971.html",
-          "publishedOn": "2021-08-01T22:55:00.000Z",
-          "wordCount": 105,
-          "title": "スマートロックが解除できず遂に締めだしにあってしまった話 - ケータイ Watch"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/hashicorpcto.html",
-          "author": null,
-          "description": "HashiCorpのミッチェル・ハシモト氏がCTOを退任、今後はフルタイムの開発者として貢献していくと発表 HashiCorpの創業者の一人として知られるミッチェル・ハシモト氏は、同社のCTOおよび経営陣からの退任を発表。HashiCorpには残り、社員の立場でフルタイム開発者として貢献していくとのことです。 I've decided to beco...",
-          "link": "https://www.publickey1.jp/blog/21/hashicorpcto.html",
-          "publishedOn": "2021-08-01T21:11:35.000Z",
-          "wordCount": 378,
-          "title": "HashiCorpのミッチェル・ハシモト氏がCTOを退任、今後はフルタイムの開発者として貢献していくと発表 － Publickey"
         }
       ]
     },
@@ -7434,6 +7502,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=350788",
+          "author": "Chris Coyier",
+          "description": "I think this is good advice from Silvestar Bistrović:\nAn enabling selector is what I call a selector that does a job without disabling the particular rule.\nThe classic example is applying margin to everything, only to have to remove …\nThe post You want enabling CSS selectors, not disabling ones appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.silvestar.codes/articles/you-want-a-single-enabling-selector-not-the-one-that-disables-the-rule-of-the-previous-one/",
+          "publishedOn": "2021-08-31T20:17:25.000Z",
+          "wordCount": 374,
+          "title": "You want enabling CSS selectors, not disabling ones"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350690",
+          "author": "Chris Coyier",
+          "description": "You know like https:? That’s a URL Scheme. You’re probably familiar with the concept, thanks to others that come up in front-end development, like mailto:. You can actually make your own, which is pretty cool. There …\nThe post Application-Specific Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/application-specific-links/",
+          "publishedOn": "2021-08-31T14:30:21.000Z",
+          "wordCount": 1042,
+          "title": "Application-Specific Links"
+        },
         {
           "id": "https://css-tricks.com/?p=350670",
           "author": "Geoff Graham",
@@ -8013,6 +8099,15 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/remshams/racing-condition-in-rxjs-event-order-with-multiple-subscriptions-2m37",
+          "author": "Mathias Remshardt",
+          "description": "This is another short article about a \"strange issue while working on a project\" which took me a while to resolve.\nasync operations involved).\nexample application to better show the issue (and help me figure out the root cause).\n\nThe main components and dependencies are:\nTasksService\n\n\nStores tasks (a task is a string to keep it simple) in a ReplaySubject which is accessible to other components by the tasks$ property.\nContains a setTasks method as a means for other components to update the tasks.\nTasksFilterService\n\n\nStores a filter pattern (again a simple string) to match against the stored tasks.\nSubscribes to tasks$, filters the received tasks and updates tasks$ in TasksService by calling setTasks$\n\nAn infinite loop is avoided by using distinctUntilChanged --> so tasks$ is only updated …",
+          "link": "https://dev.to/remshams/racing-condition-in-rxjs-event-order-with-multiple-subscriptions-2m37",
+          "publishedOn": "2021-08-31T17:03:08.000Z",
+          "wordCount": 1342,
+          "title": "Racing condition in RxJs event order (with multiple subscriptions)"
+        },
         {
           "id": "https://dev.to/ngconf/become-an-angular-contributor-where-to-start-50hh",
           "author": "ng-conf",
@@ -9326,33 +9421,6 @@
           "publishedOn": "2021-08-02T13:20:48.000Z",
           "wordCount": 645,
           "title": "Closures & Angular"
-        },
-        {
-          "id": "https://dev.to/danywalls/how-to-theme-components-in-angular-2c9h",
-          "author": "Dany Paredes",
-          "description": "When we build components it needs to be flexible, because they can be used in many places or contexts, sometimes change layout and colors.\nFor example, Our customer wants a list of contacts, it needs to show as a card with the picture, name, and details, and list pictures with big borders but gray and white by default without the picture.\nAlso, be able to add new layouts and colors in the future and apply them easily, in short like this: https://theme-angular-components.surge.sh/\nUse the power of the big 3 :host() pseudo-class , \nAngular and CSS custom properties.\n\nWe create the app-contact-component, and the markup for contacts.\nng g c contact\n\nUsing the BEM style, we assign one class to each element class to keep specificity low.\n<div class=\"contact\">\n  <h1 class=\"contact__firstname\">{{c…",
-          "link": "https://dev.to/danywalls/how-to-theme-components-in-angular-2c9h",
-          "publishedOn": "2021-08-02T11:27:02.000Z",
-          "wordCount": 1226,
-          "title": "How to themes components in Angular"
-        },
-        {
-          "id": "https://dev.to/kuncevic/what-are-the-benefits-of-using-angular-5840",
-          "author": "Aliaksei Kuncevič",
-          "description": "Time changes everything. Angular is timeless and meets all the modern business requirements.\nAngular has picked up steam in recent years, and it becomes “the cherry on the cake” for most app developers, and there are many good reasons for it. Let's see the key reasons for using Angular and the top benefits  for your business if you choose to go with Angular.\nAngular is a Javascript-based framework for developing mobile and desktop frame applications created by Google. It is used and favored by the Google Cloud platform, AdWords, and thousands of web applications built within Google. Other big names have also chosen Angular: Forbes, Delta Airlines, BMW, Samsung, Paypal, Tesla, Netflix, SpaceX.\nSo, why do all of these companies choose Angular?\nHere are the top five main benefits:\nAs an app d…",
-          "link": "https://dev.to/kuncevic/what-are-the-benefits-of-using-angular-5840",
-          "publishedOn": "2021-08-02T08:37:26.000Z",
-          "wordCount": 1292,
-          "title": "What are the benefits of using Angular?"
-        },
-        {
-          "id": "https://dev.to/es404020/setting-up-multiple-environment-in-your-angular-project-2jfl",
-          "author": "es404020",
-          "description": "By default angular only creates two environment for you, which are test and production. Sometimes we might need to add more environments to our project, due to company or project structure .It might be a development environment, staging or even a QA environment. In the post I would show you how easy it is to setup up multiple environment file in your angular project .\nCreate a new file in your environments folder. You can name it environment.staging.ts.\nIn your angular.json file add the code below to your configuration key. This allows you register the new environment.\n\"staging\": {\n              \"fileReplacements\": [\n                {\n                  \"replace\": \"src/environments/environment.ts\",\n                  \"with\": \"src/environments/environment.staging.ts\"\n                }\n              ]\n            },\n\n\nFinally to build this newly created environment type the command below in your terminal.\nng build --configuration staging\n\nThanks for reading you can follow me on twitter at",
-          "link": "https://dev.to/es404020/setting-up-multiple-environment-in-your-angular-project-2jfl",
-          "publishedOn": "2021-08-02T06:20:18.000Z",
-          "wordCount": 512,
-          "title": "Setting up multiple environment in your angular project"
         }
       ]
     },
@@ -9361,6 +9429,24 @@
       "feedUrl": "https://dev.to/feed/tag/rxjs",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/remshams/racing-condition-in-rxjs-event-order-with-multiple-subscriptions-2m37",
+          "author": "Mathias Remshardt",
+          "description": "This is another short article about a \"strange issue while working on a project\" which took me a while to resolve.\nasync operations involved).\nexample application to better show the issue (and help me figure out the root cause).\n\nThe main components and dependencies are:\nTasksService\n\n\nStores tasks (a task is a string to keep it simple) in a ReplaySubject which is accessible to other components by the tasks$ property.\nContains a setTasks method as a means for other components to update the tasks.\nTasksFilterService\n\n\nStores a filter pattern (again a simple string) to match against the stored tasks.\nSubscribes to tasks$, filters the received tasks and updates tasks$ in TasksService by calling setTasks$\n\nAn infinite loop is avoided by using distinctUntilChanged --> so tasks$ is only updated …",
+          "link": "https://dev.to/remshams/racing-condition-in-rxjs-event-order-with-multiple-subscriptions-2m37",
+          "publishedOn": "2021-08-31T17:03:08.000Z",
+          "wordCount": 1342,
+          "title": "Racing condition in RxJs event order (with multiple subscriptions)"
+        },
+        {
+          "id": "https://dev.to/mikewudev/rxjs-in-a-single-react-component-no-store-redux-gjj",
+          "author": "Mike Wu",
+          "description": "After you've got the basics of reactive programming down, the next question is usually 'ok great, so how do I use this thing?'. A quick search for using RxJS with React usually winds up at one of the following solutions:\nA. Use Redux with redux-observable middleware.\nB. Write your own store that's very similar to redux, but powered by RxJS.\nWhile both are valid solutions, they don't really help if you're only looking to use RxJS in a single component/hook. You don't want a global store!\nIf you just want to see the hook, and an example here it is.\nuseObserve()\nimport {useEffect, useMemo, useState} from 'react'\nimport {Subject} from 'rxjs'\n\nexport function useObserve<T>(value: T) {\n  const [ready, setReady] = useState(false)\n  const subject = useMemo(() => new Subject<T>(), [])\n\n  useEffect(…",
+          "link": "https://dev.to/mikewudev/rxjs-in-a-single-react-component-no-store-redux-gjj",
+          "publishedOn": "2021-08-31T00:46:05.000Z",
+          "wordCount": 712,
+          "title": "RxJS in a Single React Component (No Store/Redux)"
+        },
         {
           "id": "https://dev.to/mikeguoynes/eli5-observables-171e",
           "author": "mikeguoynes",
@@ -9512,6 +9598,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=31316",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/work/star-rating-svg-solution.html",
+          "publishedOn": "2021-08-31T00:36:12.000Z",
+          "wordCount": 1254,
+          "title": "これから実装する人にオススメ！レイティングに使用するスター（星形）を実装するSVGのテクニック"
+        },
         {
           "id": "https://coliss.com/?p=31681",
           "author": "コリス🥦",
@@ -9691,24 +9786,6 @@
           "publishedOn": "2021-08-03T00:36:34.000Z",
           "wordCount": 349,
           "title": "プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.8"
-        },
-        {
-          "id": "https://coliss.com/?p=30753",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/css/css-grid-debugging-tools-in-chrome-92.html",
-          "publishedOn": "2021-08-02T00:36:59.000Z",
-          "wordCount": 303,
-          "title": "デベロッパーツールの新機能が便利！CSS Gridの実装と検証が簡単になるCSS Grid editorとオーバーレイ"
-        },
-        {
-          "id": "http://coliss.com/?p=19021",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/css/css3-flexbox-properties-by-scotch.html",
-          "publishedOn": "2021-08-01T13:45:30.000Z",
-          "wordCount": 1366,
-          "title": "CSS Flexbox の基礎知識と使い方をやさしく解説"
         }
       ]
     },
@@ -9717,6 +9794,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/fbe1af3d2297",
+          "author": "Kristaps Grinbergs",
+          "description": "Toggle annotations, setup navigation, and more\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/exploring-swiftui-map-custom-annotations-fbe1af3d2297?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-31T22:09:31.000Z",
+          "wordCount": 787,
+          "title": "Exploring SwiftUI Map Custom Annotations"
+        },
+        {
+          "id": "https://medium.com/p/58a0bdd55415",
+          "author": "Christos Sotiriou",
+          "description": "It surprises me when some choose not to\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/you-are-an-engineering-manager-should-you-code-58a0bdd55415?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-31T16:03:46.000Z",
+          "wordCount": 2637,
+          "title": "You Are an Engineering Manager. Should You Code?"
+        },
+        {
+          "id": "https://medium.com/p/9f33a5f63f2f",
+          "author": "GreekDataGuy",
+          "description": "Red flags from companies where I’ve worked\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/6-signs-you-joined-the-wrong-company-as-a-software-developer-9f33a5f63f2f?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-31T15:34:02.000Z",
+          "wordCount": 1314,
+          "title": "6 Signs You Joined the Wrong Company as a Software Developer"
+        },
+        {
+          "id": "https://medium.com/p/1f6398ca50d3",
+          "author": "Pooya Amini",
+          "description": "Tips to effectively prepare for behavioral interviews\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-situational-interview-questions-and-how-to-answer-them-1f6398ca50d3?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-31T15:03:57.000Z",
+          "wordCount": 1363,
+          "title": "5 Situational Interview Questions (and How To Answer Them)"
+        },
+        {
+          "id": "https://medium.com/p/843f4e9fdeb7",
+          "author": "Shashike J",
+          "description": "Getting your first job in software engineering\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-stand-out-from-the-crowd-as-a-new-developer-843f4e9fdeb7?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-31T14:33:46.000Z",
+          "wordCount": 2167,
+          "title": "How To Stand Out From the Crowd as a New Developer"
+        },
+        {
+          "id": "https://medium.com/p/63955a129cf7",
+          "author": "Julie Elise",
+          "description": "Build custom user interfaces with PyQt and Qt Designer\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/get-started-with-pyqt-and-qt-designer-63955a129cf7?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-31T14:16:45.000Z",
+          "wordCount": 946,
+          "title": "Get Started With PyQt and Qt Designer"
+        },
+        {
+          "id": "https://medium.com/p/651a6b13da38",
+          "author": "Sunny Sun",
+          "description": "Implement an immutable and strongly typed filter builder\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/apply-builder-pattern-to-generate-query-filter-in-typescript-651a6b13da38?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-31T14:03:28.000Z",
+          "wordCount": 1291,
+          "title": "Apply Builder Pattern To Generate Query Filter In TypeScript"
+        },
+        {
+          "id": "https://medium.com/p/7b2cacdd9fd0",
+          "author": "Peter Friese",
+          "description": "Everything you need to know about SwiftUI’s list views\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/customizing-views-inside-swiftui-lists-7b2cacdd9fd0?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-31T13:33:07.000Z",
+          "wordCount": 946,
+          "title": "Customizing Views Inside SwiftUI Lists"
+        },
+        {
+          "id": "https://medium.com/p/f12b167c5e9f",
+          "author": "Sarath Kaul",
+          "description": "Understand how to apply polymorphism",
+          "link": "https://betterprogramming.pub/exploring-polymorphism-in-python-f12b167c5e9f?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-31T13:03:14.000Z",
+          "wordCount": 911,
+          "title": "Exploring Polymorphism in Python"
+        },
+        {
+          "id": "https://medium.com/p/4a15ac592669",
+          "author": "Onur Inanc",
+          "description": "Boost your JavaScript knowledge in six minutes\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/11-javascript-one-liners-thatll-make-you-a-ninja-developer-4a15ac592669?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-08-31T12:31:21.000Z",
+          "wordCount": 1245,
+          "title": "11 JavaScript One-Liners That’ll Make You a Ninja Developer"
+        },
         {
           "id": "https://medium.com/p/8e741d9c22b5",
           "author": "SeattleDataGuy",
