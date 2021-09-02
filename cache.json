@@ -61,6 +61,231 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/",
+          "author": null,
+          "description": "For .NET 6, we have made FileStream much faster and more reliable, thanks to an almost entire re-write. For same cases, the async implementation is now a few times faster! We also recognized the need of having more high-performance file IO features: concurrent reads and writes, scatter/gather IO ...",
+          "link": "https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/",
+          "publishedOn": "2021-09-01T22:08:19.000Z",
+          "wordCount": 6631,
+          "title": "File IO improvements in .NET 6 | .NET Blog"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/spv/2109/01/news174_0.html",
+          "author": null,
+          "description": "デジタル庁が発足し公式サイトを公開ページデザインは評価が分かれるも、ロゴについて「とても丁寧な作り」という声もHTMLの情報から技術背景を探るITエンジニアたち",
+          "link": "https://www.itmedia.co.jp/news/spv/2109/01/news174_0.html",
+          "publishedOn": "2021-09-01T13:38:30.000Z",
+          "wordCount": 28,
+          "title": "デジタル庁発足　公式サイトにITエンジニアから反応続々「シンプル」「重い」「ロゴが丁寧」「苦労が見える」（要約） - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/01/news174.html",
+          "author": null,
+          "description": "新たな中央官庁、「デジタル庁」が9月1日に発足した。「誰一人取り残さない、人に優しいデジタル化」の実現を目指すとして、まずは行政のデジタル化に取り組むとしている。ITに特化した官庁であることから、同日に公開した公式Webサイトの作りなどが、ITエンジニアなどの注目を集めている。 デジタル庁の公式サイトはPC...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/01/news174.html",
+          "publishedOn": "2021-09-01T13:08:00.000Z",
+          "wordCount": 143,
+          "title": "デジタル庁発足　公式サイトにITエンジニアから反応続々「シンプル」「重い」「ロゴが丁寧」「苦労が見える」（1/2 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.hsbt.org/diary/20210901.html",
+          "author": null,
+          "description": "■ Docker Desktop から podman に変えた 朝起きたら Docker Desktop が 4.0 になって、物々しい感じの表示が出たので調べてみたら、営利利用は課金してねということになったっぽい。 https://www.docker.com/blog/updating-product-subscriptions/ 最近は個人の開発でしか使ってないし OSS 利用とは言えるけど、会社関連...",
+          "link": "https://www.hsbt.org/diary/20210901.html",
+          "publishedOn": "2021-09-01T12:23:46.000Z",
+          "wordCount": 434,
+          "title": "Docker Desktop から podman に変えた - HsbtDiary(2021-09-01)"
+        },
+        {
+          "id": "https://shintosei.metro.tokyo.lg.jp/post_utgl/",
+          "author": null,
+          "description": "QOS（Quality of service）の高い、誰もが使いやすい、品質の高いデジタルサービスを提供するためには、リリースの前や後に、サービスの使い勝手をユーザーに試してもらい、問題点や改善点を発見する「ユーザーテスト」を実施し、それに基づいて改善することが重要です。 そこで都では、その具体的な手法を「ユーザーテ...",
+          "link": "https://shintosei.metro.tokyo.lg.jp/post_utgl/",
+          "publishedOn": "2021-09-01T11:43:42.000Z",
+          "wordCount": 468,
+          "title": "ユーザーテストガイドラインを公開しました – #シン・トセイ 都政の構造改革ポータルサイト"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/01/news169.html",
+          "author": null,
+          "description": "「楽天ポイント」の累計発行数が2兆5000億ポイントを超えた。ポイント発行数が年々加速しているとして、楽天経済圏”の拡大をアピールしている。 楽天グループは9月1日、「楽天ポイント」の累計発行数が2兆5000億ポイントを超えたと発表した。ポイント発行数が年々増えていることに加え、過去12カ月間に2つ以上の楽天関連...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/01/news169.html",
+          "publishedOn": "2021-09-01T11:03:00.000Z",
+          "wordCount": 143,
+          "title": "「楽天ポイント」発行数が年々加速　累計2.5兆ポイント突破で“楽天経済圏”拡大をアピール - ITmedia NEWS"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-394683/",
+          "author": null,
+          "description": "Mac App Storeは、iOSのApp Storeとほぼ同時期に開始されましたが、人気が低下しており、提出されるアプリ数が今年に入ってから半減している、と報じられています。 Mac App Storeへの興味を失う開発者たち アプリ分析会社AppFiguresによれば、Mac App Storeに提出されるアプリの数は今年に入ってから着実に減少している...",
+          "link": "https://iphone-mania.jp/news-394683/",
+          "publishedOn": "2021-09-01T10:02:16.000Z",
+          "wordCount": 251,
+          "title": "Mac App Storeの開発者人気が低下〜提出されるアプリの数が半分に？ - iPhone Mania"
+        },
+        {
+          "id": "https://tugawa.github.io/files/jssst-ss-2021.pdf",
+          "author": null,
+          "description": "PPLサマースクール2021 JavaScript エンジンの 実装技術 東京⼤学⼤学院情報理⼯学系研究科 鵜川 始陽 1 ⾃⼰紹介 • 鵜川始陽（東京⼤学⼤学院情報理⼯学系研究科） • 2005 京都⼤学 • 2008 電気通信⼤学 • 2014 ⾼知⼯科⼤学 • 2020 東京⼤学 • 専⾨: ごみ集め • 「ガベージコレクション ⾃動メモリ管理を構成する理論...",
+          "link": "https://tugawa.github.io/files/jssst-ss-2021.pdf",
+          "publishedOn": "2021-09-01T09:33:41.000Z",
+          "wordCount": 31654,
+          "title": "https://tugawa.github.io/files/jssst-ss-2021.pdf"
+        },
+        {
+          "id": "https://togetter.com/li/1768019",
+          "author": null,
+          "description": "リンク www.microsoft.com Microsoft Teams | リモート ワークのためのコラボレーション ツール チームワークを実現する安全なコラボレーション プラットフォーム、Teams に無料でサインアップして、リモート ワーク、テレビ会議、インスタント メッセージング、グループ チャットのためのツールを入手できます。",
+          "link": "https://togetter.com/li/1768019",
+          "publishedOn": "2021-09-01T08:46:38.000Z",
+          "wordCount": 1187,
+          "title": "会社のチャットで『いいねボタン』が「相手に失礼だ」と禁止になってしまった→その後ボタンそのものが禁止された - Togetter"
+        },
+        {
+          "id": "https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59",
+          "author": null,
+          "description": "Today, the community was shocked by the sudden news that Docker Desktop for Mac/Win is no longer free [-as-in-beer] for “professional use in larger businesses”. But we have a free, libre, and open source alternative of Docker for Mac: containerd & Lima. $ brew install lima $ limactl start $ lima ...",
+          "link": "https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59",
+          "publishedOn": "2021-09-01T08:34:20.000Z",
+          "wordCount": 1046,
+          "title": "containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium"
+        },
+        {
+          "id": "https://techplay.jp/column/1516",
+          "author": null,
+          "description": "Googleが開発したモバイルアプリ用のフレームワークであり、SDK（Software Development Kit）であるFlutter。トヨタ自動車では、自動車のコックピットのUX/UI設計・開発フローの一部で、同ツールを採用している。今回の「TOYOTA Developers Night」では、GoogleやYouTubeで活躍した講師を招いて実施しているFlutterの研...",
+          "link": "https://techplay.jp/column/1516",
+          "publishedOn": "2021-09-01T07:31:53.000Z",
+          "wordCount": 339,
+          "title": "元Googleエンジニアのメンターによる講義を公開 ──トヨタ自動車が実践する「Flutter」研修の内容とは？｜TECH PLAY Magazine ［テックプレイマガジン］"
+        },
+        {
+          "id": "https://japanese.engadget.com/developers-less-interested-mac-appstore-065002985.html",
+          "author": null,
+          "description": "Mac App Storeは2011年にオープンしてから、今年で10年目を迎えています。そしてiOS用App Storeは大成功を収めている一方で、アプリ開発者はMac App Storeで新たなアプリをリリースすることにあまり興味がなくなっているとの調査結果が発表されています。 アプリ分析会社AppFigures社の調べによると、Mac App Storeで公...",
+          "link": "https://japanese.engadget.com/developers-less-interested-mac-appstore-065002985.html",
+          "publishedOn": "2021-09-01T07:01:36.000Z",
+          "wordCount": 237,
+          "title": "Mac App Store公開の新アプリが減っているとの調査結果。M1 Macアプリもほとんど増えず - Engadget 日本版"
+        },
+        {
+          "id": "https://twitter.com/bci_/status/1432832444458094595",
+          "author": null,
+          "description": "スティーブ・ジョブズは、自転車が人間の移動効率を28倍にすることから、パソコンを「知性の自転車」と呼んだが、今の日本の若者の多くが自分のPCを持たないのは、自転車で走る外国の若者を相手に、徒歩で競争するようなもので、圧倒的に不利だ… https://t.co/wF1tkIQKch",
+          "link": "https://twitter.com/bci_/status/1432832444458094595",
+          "publishedOn": "2021-09-01T06:49:33.000Z",
+          "wordCount": 196,
+          "title": "黒色中国💉 on Twitter: \"スティーブ・ジョブズは、自転車が人間の移動効率を28倍にすることから、パソコンを「知性の自転車」と呼んだが、今の日本の若者の多くが自分のPCを持たないのは、自転車で走る外国の若者を相手に、徒歩で競争するようなもので、圧倒的に不利だ… https://t.co/wF1tkIQKch\""
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1347795.html",
+          "author": null,
+          "description": "厚生労働省は、9月1日より労災保険の特別加入制度の対象者を拡大。ITフリーランス、および自転車を使用して貨物運送事業を行なう人が新たに特別加入できるようになった。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1347795.html",
+          "publishedOn": "2021-09-01T06:22:31.000Z",
+          "wordCount": 93,
+          "title": "ITフリーランスが労災保険の特別加入制度対象に。プログラマ/SE/Webデザイナーなど - PC Watch"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1347560.html",
+          "author": null,
+          "description": "米Googleは8月31日（現地時間）、デスクトップ向け「Google Chrome」の最新安定版v93.0.4577.63を公開した。「Chrome 93」では、デスクトップ版で「WebOTP API」を新たにサポート。SMS経由でワンタイムパスワード（OTP）をやり取りする際、従来はモバイル端末でSMSを受信して、OTPをPCのWebブラウザーへ転記する必要があったが、「Cross Device WebOTP」と呼ばれる仕組みでこれを自動化できるようになる。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1347560.html",
+          "publishedOn": "2021-09-01T06:11:14.000Z",
+          "wordCount": 139,
+          "title": "「Google Chrome 93」が正式公開 ～「Ubuntu 16.04」がサポートが終了 - 窓の杜"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1347796.html",
+          "author": null,
+          "description": "豪Blackmagic Designは8月19日（現地時間）、フリーの高機能動画編集ソフト「DaVinci Resolve 17.3」をリリースした。Windows/Mac/Linuxに対応するクロスプラットフォーム対応アプリで、現在公式サイトから無償でダウンロード可能。ダウンロードの際はユーザー登録が必要だ。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1347796.html",
+          "publishedOn": "2021-09-01T06:10:50.000Z",
+          "wordCount": 119,
+          "title": "Apple M1での処理速度を最大3倍に引き上げる「DaVinci Resolve 17.3」がリリース - 窓の杜"
+        },
+        {
+          "id": "https://virejdasani.github.io/Responsivize/",
+          "author": null,
+          "description": "Responsivize is an open-source, cross-platform, desktop app that is used to develop responsive websites! With Responsivize, you can test your web apps on popular devices like iPhones, Android phones, iPads, MacBooks, and you can even set custom dimension devices, that you set the dimensions for! ...",
+          "link": "https://virejdasani.github.io/Responsivize/",
+          "publishedOn": "2021-09-01T03:51:47.000Z",
+          "wordCount": 228,
+          "title": "Responsivize"
+        },
+        {
+          "id": "https://metidx-gov.note.jp/n/n2bd18b23dba3",
+          "author": null,
+          "description": "最初に見つけたのがこのユーザー会さんのページです。こちらにマークダウンとは「文章の書き方」とあります。なるほど簡単。軽量マークアップ言語よりは、かなり柔らかくなりました。ただ、むしろ簡単になりすぎて今度は具体的なイメージが沸かないか？ 次に見つけたのは、こちらのブログです。 ここでは、「手軽にドキ...",
+          "link": "https://metidx-gov.note.jp/n/n2bd18b23dba3",
+          "publishedOn": "2021-09-01T02:56:31.000Z",
+          "wordCount": null,
+          "title": "行政文書をマークダウン化しよう！ところでマークダウンって何？｜METI-DX 経済産業省情報プロジェクト室"
+        },
+        {
+          "id": "https://webdesign-trends.net/entry/13588",
+          "author": null,
+          "description": "Emmetを使うと、HTMLやCSSを省略記法でコーディングできるようになり、作業効率が大幅に向上します。 VSCodeであれば、デフォルトの状態でEmmetが有効になっていて、特別な設定無しに利用することができるので、Emmetだと気付かずに使っている方も多いのではないでしょうか。 今回は、Emmetの基本的な使い方と、VSCodeで...",
+          "link": "https://webdesign-trends.net/entry/13588",
+          "publishedOn": "2021-09-01T02:55:39.000Z",
+          "wordCount": 440,
+          "title": "爆速コーディングを実現！Emmetの使い方とVSCodeのおすすめ設定まとめ | Web Design Trends"
+        },
+        {
+          "id": "https://japan.googleblog.com/2021/09/20thanniversary.html",
+          "author": null,
+          "description": "メディア関係者向けお問い合わせ先 メールでのお問い合わせ: pr-jp@google.com メディア関係者以外からのお問い合わせにはお答えいたしかねます。 その他すべてのお問い合わせにつきましては、ヘルプセンターをご覧ください。",
+          "link": "https://japan.googleblog.com/2021/09/20thanniversary.html",
+          "publishedOn": "2021-09-01T02:44:32.000Z",
+          "wordCount": 659,
+          "title": "Google Japan Blog: 20 年間の感謝を込めて"
+        },
+        {
+          "id": "https://moznion.hatenadiary.com/entry/2021/09/01/112601",
+          "author": null,
+          "description": "www.docker.com Docker Desktopがここ最近活発に開発されているというか、かなり見た目がオシャレになってきてて「ヤル気あるな〜」と思って眺めていたのですが、なるほど有料化するということなのですね。 Docker Desktop remains free for personal use, education, non-commercial open source projects, and small b...",
+          "link": "https://moznion.hatenadiary.com/entry/2021/09/01/112601",
+          "publishedOn": "2021-09-01T02:27:23.000Z",
+          "wordCount": 256,
+          "title": "macOSでDocker Desktopをアンインストールしてdocker-cli + docker-machineで動かすようにする - その手の平は尻もつかめるさ"
+        },
+        {
+          "id": "https://coliss.com/articles/build-websites/operation/work/responsivize-for-develop-responsive-websites.html",
+          "author": null,
+          "description": "Webページのレスポンシブの確認が簡単にできる、新しい無料アプリがリリースされました！ iPhone, Android, Pixelのスマホをはじめ、タブレット、ラップトップ、ワイドスクリーンなどのサイズでWebページを表示して確認ができます。 Windows, macOS, Linux対応のアプリで、しかもオープンソースです！ Responsivize Resp...",
+          "link": "https://coliss.com/articles/build-websites/operation/work/responsivize-for-develop-responsive-websites.html",
+          "publishedOn": "2021-09-01T00:46:09.000Z",
+          "wordCount": 349,
+          "title": "レスポンシブデザインの確認に便利なツールが登場！複数のデバイスサイズで同時確認できる優れもの -Responsivize | コリス"
+        },
+        {
+          "id": "https://aws.amazon.com/jp/blogs/news/amazon-s3-storage-lens-cost-reduction/",
+          "author": null,
+          "description": "Amazon Web Services ブログ Amazon S3 Storage Lensを使ってストレージコストを下げる5つの方法 このブログはMark Kalus (Principal Product Manager with Amazon S3)とLee Kear(Storage Specialist Solutions Architect specializing in S3)によって執筆された内容を⽇本語化したものです。原⽂はこちらを参照して下さ...",
+          "link": "https://aws.amazon.com/jp/blogs/news/amazon-s3-storage-lens-cost-reduction/",
+          "publishedOn": "2021-09-01T00:05:14.000Z",
+          "wordCount": 431,
+          "title": "Amazon S3 Storage Lensを使ってストレージコストを下げる5つの方法 | Amazon Web Services ブログ"
+        },
+        {
+          "id": "http://www.gamecast-blog.com/archives/65984837.html",
+          "author": null,
+          "description": "ゲーム開発者であり、『Unity 2017最適化ガイド Unityのあらゆるパフォーマンス問題を解決するための手引き』の日本語翻訳を担当したへっぽこさんは、2021年8月28日に技術書『Unity uGUI アドバンスド・リファレンス』を GitHub にて無償公開した。 これは Unity の uGUI （グラフィカルインターフェース制作を助けるツ...",
+          "link": "http://www.gamecast-blog.com/archives/65984837.html",
+          "publishedOn": "2021-08-31T23:59:21.000Z",
+          "wordCount": 263,
+          "title": "ゲーム開発者へっぽこさん、711ページに及ぶ技術書『Unity uGUI アドバンスド・リファレンス』を無償公開"
+        },
+        {
+          "id": "https://jp.techcrunch.com/2021/09/01/2021-08-31-south-korea-passes-anti-google-law-bill-to-curb-google-apple-in-app-payment-commission/",
+          "author": null,
+          "description": "韓国国会は現地時間8月31日、何度も延期されてきた「反グーグル法」を可決した。この法案は、Google（グーグル）とApple（アップル）が、市場を支配する2つのアプリストア向けのアプリを開発する際に、両社のアプリ内決済システムを利用するようデベロッパーに義務付けることを禁じるもので、検索の巨人Googleにちなんだ...",
+          "link": "https://jp.techcrunch.com/2021/09/01/2021-08-31-south-korea-passes-anti-google-law-bill-to-curb-google-apple-in-app-payment-commission/",
+          "publishedOn": "2021-08-31T23:23:30.000Z",
+          "wordCount": 338,
+          "title": "世界初、韓国がグーグルとアップルのアプリ内課金手数料を抑制する「反グーグル法」可決 | TechCrunch Japan"
+        },
+        {
           "id": "https://www.docker.com/blog/updating-product-subscriptions/",
           "author": null,
           "description": "Docker is used by millions of developers to build, share, and run any app, anywhere, and 55% of professional developers use Docker every day at work. In these work environments, the increase in outside attacks on software supply chains is accelerating developer demand for Docker’s trusted content...",
@@ -106,6 +331,15 @@
           "title": "「Windows 11」10月5日登場、Androidアプリは当初非対応に - ケータイ Watch"
         },
         {
+          "id": "https://ai-scholar.tech/articles/neural-network/AI_Feynman",
+          "author": null,
+          "description": "3つの要点 ✔️ 問題を単純で、変数の少ないものに変換する事を繰り返して解く ✔️ ニューラルネットワークによって関数同定問題を改善 ✔️ 既存のソフトウェアを上回る予測精度を達成 AI Feynman: a Physics-Inspired Method for Symbolic Regression written by Silviu-Marian Udrescu (MIT), Max Tegmark (MIT) (Submitted o...",
+          "link": "https://ai-scholar.tech/articles/neural-network/AI_Feynman",
+          "publishedOn": "2021-08-31T13:30:02.000Z",
+          "wordCount": 216,
+          "title": "ファインマン物理学方程式を機械学習で発見する：AI Feynman | AI-SCHOLAR | AI：(人工知能)論文・技術情報メディア"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2108/31/news168.html",
           "author": null,
           "description": "API galleryは銀行、企業、行政機関などが開発した金融サービスに活用できるAPIの情報を組織を問わずまとめるWebサイト。APIそのものに加え、APIの提供を含むソリューションの情報も掲載する。 APIの検索や掲載は無料で、個人も利用可能。22年1月には、Slackを活用してAPIを利用したい企業や個人同士のコミュニティーも...",
@@ -122,6 +356,15 @@
           "publishedOn": "2021-08-31T11:45:11.000Z",
           "wordCount": 44,
           "title": "システム担当者を6割削減　みずほ、障害多発に影響か ｜ 共同通信"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/cloudfront-update-content-quickly-using-short-ttl/",
+          "author": null,
+          "description": "CloudFrontで素早くコンテンツを更新させたい場合にTTLを短くしInvalidationを行わないキャッシュ戦略を考える CloudFrontで頻繁に更新されるコンテンツではないため長くキャッシュさせておきたいが、更新があった場合はすぐに反映させたい、というケースではTTLを短くしておきましょう。オリジンからのデータ本体の転送...",
+          "link": "https://dev.classmethod.jp/articles/cloudfront-update-content-quickly-using-short-ttl/",
+          "publishedOn": "2021-08-31T10:06:05.000Z",
+          "wordCount": 1736,
+          "title": "CloudFrontで素早くコンテンツを更新させたい場合にTTLを短くしInvalidationを行わないキャッシュ戦略を考える | DevelopersIO"
         },
         {
           "id": "https://www.tokyo-np.co.jp/article/128001",
@@ -329,6 +572,15 @@
           "publishedOn": "2021-08-30T20:07:22.000Z",
           "wordCount": 224,
           "title": "Armの中国合弁企業がArmからの独立を宣言、一部ライセンスや中国市場の顧客をそのまま横取り - GIGAZINE"
+        },
+        {
+          "id": "https://aws.amazon.com/blogs/security/authenticate-aws-client-vpn-users-with-aws-single-sign-on/",
+          "author": null,
+          "description": "AWS Security Blog Authenticate AWS Client VPN users with AWS Single Sign-On AWS Client VPN is a managed client-based VPN service that enables users to use an OpenVPN-based client to securely access their resources in Amazon Web Services (AWS) and in their on-premises network from any location. In...",
+          "link": "https://aws.amazon.com/blogs/security/authenticate-aws-client-vpn-users-with-aws-single-sign-on/",
+          "publishedOn": "2021-08-30T18:06:06.000Z",
+          "wordCount": 4195,
+          "title": "Authenticate AWS Client VPN users with AWS Single Sign-On | AWS Security Blog"
         },
         {
           "id": "https://qiita.com/Hirata-Masato/items/775ecd86f26f305fd393",
@@ -554,6 +806,15 @@
           "publishedOn": "2021-08-29T23:04:44.000Z",
           "wordCount": 150,
           "title": "「iPhoneやPCに分散したアドレス帳を、Googleの連絡先にひとまとめにしたい」――急遽テレワークを導入した中小企業の顛末記(66)【テレワーク顛末記】 - INTERNET Watch"
+        },
+        {
+          "id": "https://qiita.com/ko1nksm/items/f772b782a760bbfa1b28",
+          "author": null,
+          "description": "ちなみに [ の外部コマンド版が /usr/bin/ と /bin/ の両方にあるのは Ubuntu 20.04 では /bin が /usr/bin へのシンボリックリンクになっているからです。Ubuntu や Solaris 10、11 などでは（ディスクサイズが大きい今では分ける理由がないから）と統合されています。Debian では統合されてない上に [ は /usr/bin 以...",
+          "link": "https://qiita.com/ko1nksm/items/f772b782a760bbfa1b28",
+          "publishedOn": "2021-08-29T23:01:10.000Z",
+          "wordCount": 1124,
+          "title": "シェルスクリプトの [ は /bin/[ と言ったり [ \"x$var\" = \"xval\" ] と書く人はオジサン - Qiita"
         },
         {
           "id": "https://pc.watch.impress.co.jp/docs/topic/special/1343877.html",
@@ -2255,6 +2516,15 @@
           "publishedOn": "2021-08-23T01:06:01.000Z",
           "wordCount": 482,
           "title": "メルカリShops のフロントエンド | メルカリエンジニアリング"
+        },
+        {
+          "id": "https://qiita.com/mackeee-orange/items/afbed5ec3816d4af2e58",
+          "author": null,
+          "description": "1. 誰に向けたどういう記事なのか いわゆる #駆け出しエンジニア と呼ばれるような(定義割愛)プログラミング学習者に向けて，私が個人的に定義する「本物のエンジニア」になるための１つの道標になるような記事を目指しています． また，今回の記事は主にエンジニアという単語で主にWebエンジニアを指します． 1.1. 駆け...",
+          "link": "https://qiita.com/mackeee-orange/items/afbed5ec3816d4af2e58",
+          "publishedOn": "2021-08-23T00:12:19.000Z",
+          "wordCount": 694,
+          "title": "具体的にどう本物のエンジニアになるかというお話（バックエンドエンジニアのロードマップ付） - Qiita"
         },
         {
           "id": "https://memo.sugyan.com/entry/2021/08/23/003752",
@@ -7142,330 +7412,6 @@
           "publishedOn": "2021-08-03T13:07:42.000Z",
           "wordCount": 859,
           "title": "【Hothotレビュー】Zen 3コアとなり、リテール版も用意された「Ryzen 7 5700G」と「Ryzen 5 5600G」をテスト - PC Watch"
-        },
-        {
-          "id": "https://gigazine.net/news/20210803-zelda-botw-street-view/",
-          "author": null,
-          "description": "Nintendo Switchと同時に発売された「ゼルダの伝説 ブレス オブ ザ ワイルド」は、35年にわたるゼルダの伝説シリーズの歴史の中でも突出した自由度を誇るオープンワールドのゲーム。舞台となるハイラル王国を、Googleストリートビューの仕組みで観光できる「Zelda Breath of The Wild Street View」を、ソフトウェア開発...",
-          "link": "https://gigazine.net/news/20210803-zelda-botw-street-view/",
-          "publishedOn": "2021-08-03T12:04:41.000Z",
-          "wordCount": 236,
-          "title": "「ゼルダの伝説 ブレス オブ ザ ワイルド」のハイラルの大地をGoogleストリートビューっぽく見て回れる「Zelda Breath of The Wild Street View」が登場 - GIGAZINE"
-        },
-        {
-          "id": "https://gigazine.net/news/20210803-windows-365-business/",
-          "author": null,
-          "description": "Microsoftによるクラウドサービス「Windows 365 Cloud PC」のサービス提供が始まりました。一部の構成では60日間無料で試用できるということなので、実際に申し込みを行ってみました。 Windows 365 Business を構成する | Microsoft https://www.microsoft.com/ja-jp/windows-365/business/configure 「Windows 365 Clou...",
-          "link": "https://gigazine.net/news/20210803-windows-365-business/",
-          "publishedOn": "2021-08-03T11:56:06.000Z",
-          "wordCount": 269,
-          "title": "クラウド版Windows「Windows 365 Cloud PC」の試用手続きはこんな感じ - GIGAZINE"
-        },
-        {
-          "id": "https://usaito.hatenablog.com/entry/2021/08/03/191339",
-          "author": null,
-          "description": "Twitterでたびたび告知させていただいていますが、『施策デザインのための機械学習入門』という本を技術評論社さんから出させていただきます。紙版は8月4日発売（本記事公開の翌日）、電子版は7月30日にすでに発売されています。 gihyo.jp www.amazon.co.jp 本書の概要は次の通りです。 予測に基づいた広告配信や商品推...",
-          "link": "https://usaito.hatenablog.com/entry/2021/08/03/191339",
-          "publishedOn": "2021-08-03T11:30:21.000Z",
-          "wordCount": 214,
-          "title": "『施策デザインのための機械学習入門』という本を技術評論社さんから出版します - Counterfactualを知りたい"
-        },
-        {
-          "id": "https://eetimes.itmedia.co.jp/ee/articles/2108/03/news066.html",
-          "author": null,
-          "description": "Intelがプロセスの名称を変更、「nm」から脱却へ：パッケージング技術の最新情報も（1/2 ページ） Intelは2021年7月26日（米国時間）、半導体プロセスとパッケージング技術の最新情報を説明するウェブキャスト「Intel Accelerated」を開催した。これを受けて、同社の日本法人インテルは7月28日に、Intel Acceleratedの内...",
-          "link": "https://eetimes.itmedia.co.jp/ee/articles/2108/03/news066.html",
-          "publishedOn": "2021-08-03T09:52:05.000Z",
-          "wordCount": 350,
-          "title": "Intelがプロセスの名称を変更、「nm」から脱却へ：パッケージング技術の最新情報も（1/2 ページ） - EE Times Japan"
-        },
-        {
-          "id": "https://logmi.jp/tech/articles/324732",
-          "author": null,
-          "description": "DockerCon 2021 にあわせて、ひさびさに開催された「Docker Meetup Tokyo」 DockerConの振り返りのほか、Docker 20.10の新機能や、大幅に新しくなったDocker Composeについてお知らせします。ゴリラ氏からは、Docker Composeの概要について発表がありました。 Docker CLIに梱包された新しいdocker compose ゴリラ氏：「...",
-          "link": "https://logmi.jp/tech/articles/324732",
-          "publishedOn": "2021-08-03T09:35:43.000Z",
-          "wordCount": 667,
-          "title": "プラットフォーム依存しない新しい「Docker Compose」　マルチコンテナをクラウドに簡単デプロイ - ログミーTech"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210803181833",
-          "author": null,
-          "description": "https://anond.hatelabo.jp/20210803012020 に刺激を受けて作りました。 id:new3 さんのコメント https://b.hatena.ne.jp/entry/4706344345181168386/comment/new3 で、書き込み時の自動クマ補完について書かれてたので、それを実装しました。 インストール方法以下の文字列を選択して、Chromeのブックマークバーにドラ...",
-          "link": "https://anond.hatelabo.jp/20210803181833",
-          "publishedOn": "2021-08-03T09:23:44.000Z",
-          "wordCount": 229,
-          "title": "はてブのコメント時に、自動で最小限のクマを足すブックマークレット"
-        },
-        {
-          "id": "https://logmi.jp/tech/articles/324731",
-          "author": null,
-          "description": "オリジナルグッズ作成・販売サービス「SUZURI」に関わるエンジニアメンバーや事業部長が登壇し、SUZURIの開発の今や、現在の課題・今後の取り組みについて話す「43万人超のクリエイターの表現活動を支える！ECプラットフォームSUZURIの開発の裏側」。ここで技術部の近藤氏が登壇。生産性をすることになった背景と、具体...",
-          "link": "https://logmi.jp/tech/articles/324731",
-          "publishedOn": "2021-08-03T09:20:51.000Z",
-          "wordCount": 519,
-          "title": "“生産性向上に投資するため”のデータの可視化　生産性測定から組織の仕組み作りをサポート - ログミーTech"
-        },
-        {
-          "id": "https://capitalp.jp/2021/08/03/check-list-for-wp-web-core-vital/",
-          "author": null,
-          "description": "Core Web Vitalに関する連載の最終回ではこれまで紹介してきた内容をチェックリスト形式で紹介しよう。 基礎知識 LCP, FID, CLSなどの指標を理解する。 リソースの配信 画像の次世代配信（webp）ブラウザキャッシュ、GZip圧縮の適用CDNを利用する サーバーの処理速度向上 ページキャッシュの利用キャッシュを利用できな...",
-          "link": "https://capitalp.jp/2021/08/03/check-list-for-wp-web-core-vital/",
-          "publishedOn": "2021-08-03T09:20:05.000Z",
-          "wordCount": 684,
-          "title": "【WV.10】WordPress高速化のためのCore Web Vital チェックリスト - チュートリアル - Capital P - WordPressメディア"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/03/news109.html",
-          "author": null,
-          "description": "Innovative Tech： このコーナーでは、テクノロジーの最新研究を紹介するWebメディア「Seamless」を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 豊橋技術科学大学の研究チームが開発した「A lightweight, wireless Bluetooth-low-energy neuronal recording system for mice」...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/03/news109.html",
-          "publishedOn": "2021-08-03T09:05:29.000Z",
-          "wordCount": 164,
-          "title": "小動物の脳活動をワイヤレス計測　1台約8000円の価格破壊　豊技大が開発：Innovative Tech - ITmedia NEWS"
-        },
-        {
-          "id": "https://github.com/axios/axios/issues/3930",
-          "author": null,
-          "description": "Describe the issue I found this issue. Is the project in a similar situation to this? #1965 Is the project dead? Are new maintainers sought? Does the project need help or new maintainers? Can I do anything to help for axios? I sent a PR a few days ago. This bug is a blocker for using with Node.js...",
-          "link": "https://github.com/axios/axios/issues/3930",
-          "publishedOn": "2021-08-03T08:57:32.000Z",
-          "wordCount": 600,
-          "title": "Project dead? · Issue #3930 · axios/axios · GitHub"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/03/news133.html",
-          "author": null,
-          "description": "電子メモパッドのサイズは約13.4（高さ）×8（幅）×1（奥行き）cmで、電源はボタン電池。液晶ディスプレイを搭載し、ボタンを押すことで書かれた内容を消せる機能も備える。ちゃお 9月号には液晶に載せてなぞることで絵を描けるシートが付属する他、電子メモパッドの使い方を紹介する特集も掲載しているという。 電子メモ...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/03/news133.html",
-          "publishedOn": "2021-08-03T08:40:04.000Z",
-          "wordCount": 151,
-          "title": "「ちゃお」の付録に電子メモパッド　「おうちで何度も楽しめるものを考えた結果」 - ITmedia NEWS"
-        },
-        {
-          "id": "https://jser.info/2021/08/03/yarn3-chrome93-beta-deprecate-alert/",
-          "author": null,
-          "description": "JSer.info #551 - Yarn 3.0がリリースされました。 Yarn 3.0 🚀🤖 Performances, ESBuild, Better Patches, ... - DEV Community 👩‍💻👨‍💻 berry/CHANGELOG.md at master · yarnpkg/berry Node.js 10のサポート終了、.pnp.cjsにリネーム、@yarnpkg/pnpifyを3つのパッケージに分解などの変更を含んでいます。 @yarnpkg/sdks: ...",
-          "link": "https://jser.info/2021/08/03/yarn3-chrome93-beta-deprecate-alert/",
-          "publishedOn": "2021-08-03T07:05:23.000Z",
-          "wordCount": 574,
-          "title": "2021-08-03のJS: Yarn 3.0、Chrome 93 beta、cross origin iframeでのalert/prompt/confirmを削除 - JSer.info"
-        },
-        {
-          "id": "https://webtan.impress.co.jp/e/2021/08/03/40749",
-          "author": null,
-          "description": "最近、飲食店などのお店選びで地図アプリ上の店舗情報やクチコミを参考にすることが多くなっていないだろうか。ユーザーの利便性もあってGoogle検索における地図アプリ情報（Googleマイビジネス）の存在感が増していることもあるだろう。コロナ禍では緊急事態宣言などで営業時間の変更、テイクアウトの有無、感染対策状...",
-          "link": "https://webtan.impress.co.jp/e/2021/08/03/40749",
-          "publishedOn": "2021-08-03T05:33:31.000Z",
-          "wordCount": 652,
-          "title": "Googleマイビジネスは本当に集客効果があるの？ 来店予約を2倍にした美容室Ashの活用術 | 【レポート】Web担当者Forumミーティング 2021 春 | Web担当者Forum"
-        },
-        {
-          "id": "https://mag.osdn.jp/21/08/04/131400",
-          "author": null,
-          "description": "フリーソフトウェアを支援するFree Software Foundation（FSF）が、Git Hub（米Microsoft）のペアプログラミングサービス「GitHub Copilot」がフリーソフトウェアに与える影響についてホワイトペーパー作成を求めている。認められたペーパーの作者に500ドルを支払うという。 GitHub Copilotは6月末にGitHubが発表したAI...",
-          "link": "https://mag.osdn.jp/21/08/04/131400",
-          "publishedOn": "2021-08-03T05:25:03.000Z",
-          "wordCount": 94,
-          "title": "FSFが「GitHub Copilot」に疑問視、ホワイトペーパーを募集 | OSDN Magazine"
-        },
-        {
-          "id": "https://note.lapras.com/interview/dnobori/",
-          "author": null,
-          "description": "2020年4月、無償かつ即日利用可能なリモートデスクトップ環境が公開され話題を呼びました。 現在16万人を越えるユーザーを擁する「シン・テレワークシステム」です。 今回登場いただくのは、そのシン・テレワークシステムの開発者として知られる登大遊さん。 登さんは、多忙な業務の傍ら次世代の人材育成にも関心を寄せ...",
-          "link": "https://note.lapras.com/interview/dnobori/",
-          "publishedOn": "2021-08-03T05:21:01.000Z",
-          "wordCount": 212,
-          "title": "登さん、LAPRASをどう思いますか？そしてエンジニアは今後どうすべきですか？ - LAPRAS NOTE"
-        },
-        {
-          "id": "https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/",
-          "author": null,
-          "description": "Docker containers have been an essential part of the developer's toolbox for several years now, allowing them to build, distribute and deploy their applications in a standardized way. This gain in traction has been, not surprisingly, accompanied by a surge in security issues related to containeri...",
-          "link": "https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/",
-          "publishedOn": "2021-08-03T04:40:01.000Z",
-          "wordCount": 1802,
-          "title": "How to improve your Docker containers security - [cheat sheet]"
-        },
-        {
-          "id": "https://www.kingjim.co.jp/news/detail/365.html",
-          "author": null,
-          "description": "2021年08月03日 株式会社キングジム(本社:東京都千代田区)は、ラベルライター「テプラ」PROの最上位機種として、ラベルライター「テプラ」PRO SR-R980を2021年8月27日(金)より発売します。SR-R980本体の初年度販売目標数量は2万台です。また本製品の発売に合わせて、同シリーズ対応のテープカートリッジ「カットラベル・...",
-          "link": "https://www.kingjim.co.jp/news/detail/365.html",
-          "publishedOn": "2021-08-03T04:21:30.000Z",
-          "wordCount": 294,
-          "title": "基本性能とケーブルラベリング機能を強化したビジネス向け最上位モデル ラベルライター「テプラ」PRO SR-R980 発売 | ニュース 2021年 | ファイルとテプラのキングジム"
-        },
-        {
-          "id": "https://twitter.com/kenn/status/1422373470168440835",
-          "author": null,
-          "description": "トヨタの無人レンタカー「チョクノリ」、アプリのBluetoothで鍵の開閉をするのだが、飛騨の山奥まで来たところで突然どうやっても接続できなくなりドアが開かなくなって詰んだ。トヨタはこういう事態を想定してなかったらしいのだが、エンジニアとしては「まじかよ」というほかない。",
-          "link": "https://twitter.com/kenn/status/1422373470168440835",
-          "publishedOn": "2021-08-03T04:01:05.000Z",
-          "wordCount": 196,
-          "title": "Kenn Ejima on Twitter: \"トヨタの無人レンタカー「チョクノリ」、アプリのBluetoothで鍵の開閉をするのだが、飛騨の山奥まで来たところで突然どうやっても接続できなくなりドアが開かなくなって詰んだ。トヨタはこういう事態を想定してなかったらしいのだが、エンジニアとしては「まじかよ」というほかない。\""
-        },
-        {
-          "id": "https://qiita.com/rana_kualu/items/bf8e85361db82387e261",
-          "author": null,
-          "description": "Help us understand the problem. What is going on with this article? Original article:https://medium.com/@bfrancis/the-story-of-firefox-os-cb5bf796e8fb written by Ben Francis. モバイル市場は長らくAndroidとiOSの独擅場ですが、その牙城を崩すために、数多くの企業やコミュニティが挑戦を繰り返してきました...",
-          "link": "https://qiita.com/rana_kualu/items/bf8e85361db82387e261",
-          "publishedOn": "2021-08-03T03:24:35.000Z",
-          "wordCount": 1105,
-          "title": "Firefox OSの軌跡 - Qiita"
-        },
-        {
-          "id": "https://www.ipa.go.jp/security/topics/alert20210803.html",
-          "author": null,
-          "description": "多くの人がお盆休みや夏休みなどの長期休暇を取得する時期を迎えるにあたり、IPAが公開している長期休暇における情報セキュリティ対策をご案内します。 長期休暇の時期は、「システム管理者が長期間不在になる」、「友人や家族と旅行に出かける」等、いつもとは違う状況になりがちです。このような場合、ウイルス感染や...",
-          "link": "https://www.ipa.go.jp/security/topics/alert20210803.html",
-          "publishedOn": "2021-08-03T02:50:03.000Z",
-          "wordCount": 108,
-          "title": "夏休みにおける情報セキュリティに関する注意喚起：IPA 独立行政法人 情報処理推進機構"
-        },
-        {
-          "id": "https://developers.freee.co.jp/entry/how-to-be-active-quickly-after-changing-job",
-          "author": null,
-          "description": "こんにちは、2021年4月に40代で中途入社を果たしたエンジニアの okoshi です。 freeeでの働き方について興味のある方は是非ご一読ください。 中途で入社してはや4ヶ月経とうとしています。時間がたつのは早いものです。 とはいえ、まだまだ業務への慣れは感じないし、毎日のように業務の進め方や考え方に発見があります...",
-          "link": "https://developers.freee.co.jp/entry/how-to-be-active-quickly-after-changing-job",
-          "publishedOn": "2021-08-03T01:27:21.000Z",
-          "wordCount": 198,
-          "title": "転職したばかりのエンジニアが活躍するためにやったこと - freee Developers Blog"
-        },
-        {
-          "id": "https://tech.medpeer.co.jp/entry/2021/08/03/090000",
-          "author": null,
-          "description": "CTO室SREの @kenzo0107 です。 2021年6月24日に「 kakari for Clinic ホームページ制作 」がリリースされました。 kakari for Clinic ホームページ制作 今回は上記サービスで採用した、 AWS + ngx_mruby で構築した SSL 証明書の動的読み込みシステムについてです。 SSL 証明書を動的に読み込みする理由 kakari for Clin...",
-          "link": "https://tech.medpeer.co.jp/entry/2021/08/03/090000",
-          "publishedOn": "2021-08-03T00:38:56.000Z",
-          "wordCount": 892,
-          "title": "AWS + ngx_mruby で SSL 証明書の動的読み込みシステム構築 - メドピア開発者ブログ"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/topic/feature/1341762.html",
-          "author": null,
-          "description": "USB Type-Cは難解さゆえ、アレルギーを持っている人は多い。以下の関連記事で紹介した「USB 3.xのGen表記」の分かりにくさも相当なものだが、それでも速度まわりの話に終始しており、データ転送から給電、映像出力までカバーするUSB Type-C全体ともなると、その分かりにくさはケタ違いだ。USB Type-C周りの話題はなるべく避けて通っている人も、少なくないのではないだろうか。",
-          "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1341762.html",
-          "publishedOn": "2021-08-02T22:08:02.000Z",
-          "wordCount": 268,
-          "title": "【特集】「USB Type-C」と「Thunderbolt」って同じもの？よく分かる最新コネクタ解説 - PC Watch"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1341815.html",
-          "author": null,
-          "description": "米Microsoftは8月2日（現地時間）、「Windows 365」の提供を開始した。クラウドのパワーとセキュリティにPCの汎用性とシンプルさを組み合わせたソリューションで、多様な働き方をサポートするとしている。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1341815.html",
-          "publishedOn": "2021-08-02T20:49:35.000Z",
-          "wordCount": 138,
-          "title": "Microsoft、「Windows 365」の提供を開始 ～最安で月額2,720円/1ユーザーから - 窓の杜"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/windows_365_cloud_pc2vcpu8gb5570.html",
-          "author": null,
-          "description": "「Windows 365 Cloud PC」が正式サービス開始。月額定額制で2vCPU/8GBメモリが5570円など マイクロソフトは、デスクトップ仮想化の技術を用いてWindows環境を配信する新サービス「Windows 365 Cloud PC」のサービスを開始。国内価格も明らかになりました。 主な価格は、2vCPU/4GBメモリ/128GBストレージが月額4210円、2v...",
-          "link": "https://www.publickey1.jp/blog/21/windows_365_cloud_pc2vcpu8gb5570.html",
-          "publishedOn": "2021-08-02T19:59:41.000Z",
-          "wordCount": 192,
-          "title": "「Windows 365 Cloud PC」が正式サービス開始。月額定額制で2vCPU/8GBメモリが5570円など － Publickey"
-        },
-        {
-          "id": "https://store.google.com/magazine/google_pixel_6",
-          "author": null,
-          "description": "カートに追加するデバイスには同じ Preferred Care プランが必要です。カート内のアイテムと一致するよう、このデバイスの Preferred Care を追加するか削除してください。または、このデバイスを別途ご注文ください。",
-          "link": "https://store.google.com/magazine/google_pixel_6",
-          "publishedOn": "2021-08-02T17:49:54.000Z",
-          "wordCount": 435,
-          "title": "Google Pixel 6 - Google ストア"
-        },
-        {
-          "id": "https://www.watch.impress.co.jp/docs/news/1341813.html",
-          "author": null,
-          "description": "Googleは、自社開発のカスタムチップ(SoC)を搭載したスマートフォン「Pixel 6」「Pixel 6 Pro」を今秋以降に発売する。",
-          "link": "https://www.watch.impress.co.jp/docs/news/1341813.html",
-          "publishedOn": "2021-08-02T17:44:04.000Z",
-          "wordCount": 104,
-          "title": "Google、「Pixel 6」を今秋以降に発売。自社チップ「Tensor」搭載 - Impress Watch"
-        },
-        {
-          "id": "https://github.com/sysprog21/lkmpg",
-          "author": null,
-          "description": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
-          "link": "https://github.com/sysprog21/lkmpg",
-          "publishedOn": "2021-08-02T16:31:35.000Z",
-          "wordCount": 651,
-          "title": "GitHub - sysprog21/lkmpg: The Linux Kernel Module Programming Guide (updated for 5.x kernels)"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210803012020",
-          "author": null,
-          "description": "javascript:document.querySelectorAll(\".entry-comment-contents\").forEach(function(e){if(e.innerText.indexOf('🐻')!=-1||e.innerText.indexOf('ʕ•̫͡•ʔ')!=-1){e.remove()}})ブックマークレットのクリックが面倒な人は、GreasemonkeyかTampermonkeyで。 他のパターンのコメント削除したい人は『||e.innerText.indexOf(...",
-          "link": "https://anond.hatelabo.jp/20210803012020",
-          "publishedOn": "2021-08-02T16:21:13.000Z",
-          "wordCount": 96,
-          "title": "ブコメの熊がウザいので、削除するブックマークレット作った"
-        },
-        {
-          "id": "https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1341473.html",
-          "author": null,
-          "description": "想い出に残る、懐かしのマイコン・パソコンを写真とともに振り返る本コーナー。今回は少し趣向を変えて、当時の周辺機器を取り上げる番外編その2「データレコーダ・NEC編」としました。",
-          "link": "https://akiba-pc.watch.impress.co.jp/docs/column/retrohard/1341473.html",
-          "publishedOn": "2021-08-02T15:33:17.000Z",
-          "wordCount": 108,
-          "title": "1980年代前半にFDDよりも安くて手軽に使えた「データレコーダー」 ～NEC製品編～ - AKIBA PC Hotline!"
-        },
-        {
-          "id": "https://zenn.dev/laiso/articles/8c619c38bd7b7b",
-          "author": null,
-          "description": "Amplify ConsoleでNext.jsのプロジェクトをデプロイすると Serverless Next.js Component のインテグレーションによってAWS Lambda リソースが最大4つ作成される(ソースコードはエクスポートできる) Default Lambda@Edge for Next CloudFront distribution API Lambda@Edge for Next CloudFront distribution Image Lamb...",
-          "link": "https://zenn.dev/laiso/articles/8c619c38bd7b7b",
-          "publishedOn": "2021-08-02T15:25:13.000Z",
-          "wordCount": 125,
-          "title": "Serverless Next.js Component のISR実装を読み解く"
-        },
-        {
-          "id": "https://zenn.dev/taichifukumoto/articles/how-to-use-react-icons",
-          "author": null,
-          "description": "概要 みなさんは React のプロジェクトでアイコンが必要な際はどのように実装していますか？ SVG の埋め込み？それとも Font Awesome？ 私は、主に「React Icons」という React 用のライブラリを使用しています。 React Icons は、豊富な種類のアイコンが揃っておりシンプルで使いやすいため、大変重宝しています。 この...",
-          "link": "https://zenn.dev/taichifukumoto/articles/how-to-use-react-icons",
-          "publishedOn": "2021-08-02T15:00:11.000Z",
-          "wordCount": 413,
-          "title": "React でアイコンを使うなら React Icons がおすすめ"
-        },
-        {
-          "id": "https://www.mhlw.go.jp/content/000815597.pdf",
-          "author": null,
-          "description": "令和３年８月２日 入国時の誓約に違反した事例について、以下のとおり、氏名及び感染拡大の防止に資する情報を公表します。 厚生労働大臣 氏名 出発国 （※） 年代 住所又は居所 入国後の行動歴等 １ KOBAYASHI YUMA 韓国 20 代 熊本県 令和３年７月 21 日韓国から関西空港に到着し入国。空港 での入国時検査は陰性。令和...",
-          "link": "https://www.mhlw.go.jp/content/000815597.pdf",
-          "publishedOn": "2021-08-02T14:06:21.000Z",
-          "wordCount": 2332,
-          "title": "Microsoft Word - 【210802公表予定・３名】210721入国者分公表案（待機場所記載あり）"
-        },
-        {
-          "id": "https://applech2.com/archives/20210802-melissa-for-mac-and-win-music-player.html",
-          "author": null,
-          "description": "オープンソースでMac/Winのクロスプラットフォームに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリースされています。詳細は以下から。 　MelissaはMasaki Onoさんが2 The post オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。 first app...",
-          "link": "https://applech2.com/archives/20210802-melissa-for-mac-and-win-music-player.html",
-          "publishedOn": "2021-08-02T12:49:56.000Z",
-          "wordCount": 158,
-          "title": "オープンソースでMac/Winに対応した音楽練習/耳コピのための音楽プレイヤー「Melissa v2.5」がリリース。"
-        },
-        {
-          "id": "https://nordot.app/785834963257294848",
-          "author": null,
-          "description": "日本学術会議の会員への任命を拒否された学者6人が8日、拒否の理由を記した文書を不開示とした政府の決定を巡り、行政不服審査法に基づき不服申し立てをする方針を明らかにした。 6人は4月、自らの情報を請求する「自己情報開示請求」で文書の開示を求めた。内閣府は「公正かつ円滑な人事の確保に支障を及ぼす恐れがある...",
-          "link": "https://nordot.app/785834963257294848",
-          "publishedOn": "2021-08-02T12:47:29.000Z",
-          "wordCount": 38,
-          "title": "学術会議、6人が不服申し立てへ　政府の任命拒否理由、不開示に ｜ 共同通信"
-        },
-        {
-          "id": "https://sysprog21.github.io/lkmpg/",
-          "author": null,
-          "description": "Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang 0.1 Introduction 0.1.1 Authorship 0.1.2 Acknowledgements 0.1.3 What Is A Kernel Module? 0.1.4 Kernel module package 0.1.5 What Modules are in my Kernel? 0.1.6 Do I need to download and compile the kernel? 0.1.7 Before We Beg...",
-          "link": "https://sysprog21.github.io/lkmpg/",
-          "publishedOn": "2021-08-02T12:17:28.000Z",
-          "wordCount": 26389,
-          "title": "The Linux Kernel Module Programming Guide"
         }
       ]
     },
@@ -7502,6 +7448,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=350752",
+          "author": "Chris Coyier",
+          "description": "Nathan Hardy shares when things “clicked”:\nReflecting back on this time, I think there are a few key concepts that were vital to things finally all making sense and fitting together. These were:\n• The Box Model (e.g. box-sizing, height, width, margin, padding)\n• Layout \n…\nThe post What I Wish I Knew About CSS When Starting Out As A Front-Ender appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://engineering.kablamo.com.au/posts/2021/my-first-css",
+          "publishedOn": "2021-09-01T23:25:45.000Z",
+          "wordCount": 1194,
+          "title": "What I Wish I Knew About CSS When Starting Out As A Front-Ender"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350569",
+          "author": "Chris Coyier",
+          "description": "All-things-typography, from a hard-edged monospaced variable font to fonts in the \"Twilight Zone\" ... and much, much more.\nThe post Some Typography Links VII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/some-typography-links-vii/",
+          "publishedOn": "2021-09-01T14:37:38.000Z",
+          "wordCount": 800,
+          "title": "Some Typography Links VII"
+        },
         {
           "id": "https://css-tricks.com/?p=350788",
           "author": "Chris Coyier",
@@ -7987,24 +7951,6 @@
           "publishedOn": "2021-08-03T14:35:48.000Z",
           "wordCount": 2684,
           "title": "A Deep Dive on Skipping to Content"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345756",
-          "author": "Chris Coyier",
-          "description": "They are actually called “CSS Module Scripts” and are a native browser feature, as opposed to the popular open-source project that essentially does scoped styles by creating unique class name identifiers in both HTML and CSS. \nNative CSS Modules are …\nThe post CSS Modules (The Native Ones) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-modules-the-native-ones/",
-          "publishedOn": "2021-08-02T18:28:28.000Z",
-          "wordCount": 838,
-          "title": "CSS Modules (The Native Ones)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345178",
-          "author": "Bret Cameron",
-          "description": "With a little knowledge of music theory, we can use regular HTML, CSS and JavaScript — without any libraries or audio samples — to create a simple digital instrument. Let’s put that into practice and explore one method for creating …\nThe post How to Code a Playable Synth Keyboard appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-code-a-playable-synth-keyboard/",
-          "publishedOn": "2021-08-02T14:36:09.000Z",
-          "wordCount": 2817,
-          "title": "How to Code a Playable Synth Keyboard"
         }
       ]
     },
@@ -8099,6 +8045,69 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/bitovi/tailwind-css-with-angular-v12-what-you-need-to-know-2h9b",
+          "author": "Idris Shedu",
+          "description": "With Angular V12, comes a much awaited support for TailwindCSS, Tailwind is a utility-first CSS framework that contains a deep catalog of micro CSS classes for faster UI development. \nMicro CSS classes are a collection of CSS styles to accomplish a specific styling need. It can range from something as simple as:\n .static {\n  position: static\n}\n\nto something more complex like:\n.inset-0 {\n  top: 0px;\n  right: 0px;\n  bottom: 0px;\n  left: 0px\n}\n\nTailwind has no UI kit and does not rely on any pattern when working on UI designs, which gives the developers complete control on how to implement UI designs.\n\n\n  \n  \n  Why Tailwind?\n\n\n\n\nJust in Time Mode :  Although this is still being previewed, Tailwind has a just in time compiler that generates your styles on demand. This results in faster build t…",
+          "link": "https://dev.to/bitovi/tailwind-css-with-angular-v12-what-you-need-to-know-2h9b",
+          "publishedOn": "2021-09-01T19:01:21.000Z",
+          "wordCount": 1320,
+          "title": "Tailwind CSS with Angular V12- What You Need to Know"
+        },
+        {
+          "id": "https://dev.to/athomsfere/ideal-code-i-can-t-today-17ok",
+          "author": "Austin French",
+          "description": "The real world, is rarely ideal\n\n\nToday, I had to hack it. And I don't mean hammer on the keyboard to get a feature done. Nor do I mean \"debug it until I make it\", I mean, work against everything I think good, ideal code is. I mean, make something that I feel like it shouldn't be in a code base, part of a library until legacy code is updated.\nWe have an angularJS application, running with jQuery, MVC, and various libraries written for that stack. I've been architecting for months now a path to Angular using ngUpgrade. Most of it has been going great:\nMake a thing\nSet up the components, services, and classes to make an Angular native and well designed pattern.\nDo a little hackery with window variables from the MVC views.\nLooks good, functions well, and doesn't break anything the Angular cre…",
+          "link": "https://dev.to/athomsfere/ideal-code-i-can-t-today-17ok",
+          "publishedOn": "2021-09-01T15:42:44.000Z",
+          "wordCount": 726,
+          "title": "Ideal Code, I can't today"
+        },
+        {
+          "id": "https://dev.to/fsystem/android-game-with-angular-ionic-5hfg",
+          "author": "Facundo Ezequiel Diaz Cappella",
+          "description": "Hello, I create this post only to share my first trivia game for Android created with Angular Ionic 5.\n\nI did this small game to get some knowledge with Angular Ionic, I already have experience working with Angular, and was easy to adapt to Angular Ionic.\nIt's a simple game about flags from countries, you have to select the correct one. (I know you can found a thousand games similars)\nI still working to improve and fix some bugs, but the game is already done to play.\nAlso, this game has a ranking where every user can compete with other players.\nIf you are starting with angular ionic like me and need help creating your first game, let me know I will try to help you.\nIf you want to download the game for Android:\nhttps://play.google.com/store/apps/details?id=com.fsystem.flageando&gl=ES",
+          "link": "https://dev.to/fsystem/android-game-with-angular-ionic-5hfg",
+          "publishedOn": "2021-09-01T14:57:05.000Z",
+          "wordCount": 513,
+          "title": "Android Game with Angular Ionic"
+        },
+        {
+          "id": "https://dev.to/syncfusion/how-to-update-data-without-rerendering-an-entire-grid-in-angular-42g0",
+          "author": "Suresh Mohan",
+          "description": "Rerendering an entire Angular grid to updating a single record is very inefficient, and at times it can cause glitches due to the memory consumed. The best way to handle this is to find a way to rerender just that particular record.\nWith immutable mode in our Syncfusion Angular Data Grid, you can easily update records without rerendering the entire grid component.\nThe Angular Data Grid is a control for displaying data in a tabular format. Its rich feature set includes data binding, editing, Excel-like filtering, custom sorting, grouping, freezing rows and columns, and more. It also allows you to export data to Excel, CSV, and PDF formats.\nIn this blog post, we are going to discuss the use of immutable rendering mode and how to enable it in the Syncfusion Angular Data Grid component, to avo…",
+          "link": "https://dev.to/syncfusion/how-to-update-data-without-rerendering-an-entire-grid-in-angular-42g0",
+          "publishedOn": "2021-09-01T11:57:05.000Z",
+          "wordCount": 1518,
+          "title": "How to Update Data Without Rerendering an Entire Grid in Angular"
+        },
+        {
+          "id": "https://dev.to/devbyrayray/when-use-rxjs-subject-behavioursubject-replaysubject-asyncsubject-or-void-subject-in-angular-4pn9",
+          "author": "Dev By RayRay",
+          "description": "Angular has many types of Observables which you can use. Maybe you've seen Subject, BehaviourSubject, ReplaySubject, or AsyncSubject in Angular examples and wondering what they are and when you can use them.\nIn this post, I want to dive deeper into what those types of Subjects are and when you should use them. So buckle up and enjoy the ride.\n\n Subject \n BehaviourSubject \n ReplaySubject \n AsyncSubject \n Void Subject \n\nRxJS is responsible for the reactivity in Angular. A Subject is a particular type of Observable from the RxJS library. \nIf you don't know what an Observable is, check this post by \"Understanding RxJS Observables and why you need them\" on the LogRocket blog.\n\nAn Observable is unicast. \n\nIn comparison to a regular Observable, a Subject allows values to be multicasted to many Ob…",
+          "link": "https://dev.to/devbyrayray/when-use-rxjs-subject-behavioursubject-replaysubject-asyncsubject-or-void-subject-in-angular-4pn9",
+          "publishedOn": "2021-09-01T08:17:33.000Z",
+          "wordCount": 2216,
+          "title": "When Use RxJS Subject, BehaviourSubject, ReplaySubject, AsyncSubject, or Void Subject in Angular"
+        },
+        {
+          "id": "https://dev.to/hypertrace/angular-router-children-or-loadchildren-2igc",
+          "author": "Anand Tiwary",
+          "description": "(This article assumes basic awareness of routers and routers API. For in-depth understanding, please refer to Angular docs)\nAngular Router is one of the most useful packages in the angular ecosystem. However, if you are new to Angular and just starting to work with routers, your goal would probably be to set up few basic routes. Moreover, with new developers, I have usually seen many questions around children and loadChildren properties. Therefore, this article will focus only on the differences between these two properties and when to use what.\nexport interface Route {\n  path?: string;\n  component?: Type<any>;\n\n  children?: Route[];\n  loadChildren?: LoadChildren;\n\n  ... few other properties\n}\n\nLet me start by quickly explaining the above four properties of the Route interface (that are in…",
+          "link": "https://dev.to/hypertrace/angular-router-children-or-loadchildren-2igc",
+          "publishedOn": "2021-09-01T05:38:31.000Z",
+          "wordCount": 1040,
+          "title": "Angular Router: Children or LoadChildren?"
+        },
+        {
+          "id": "https://dev.to/dannieldev/lazy-loading-en-angular-2nd0",
+          "author": "Danniel Navas",
+          "description": "Que es Lazy loadind? es la técnica mas utilizada para la mejora de carga de nuestras aplicaciones, en la cual se reduce el peso del bundle dado que en este lo que hacemos es dividir la aplicación en parte pequeñas (componentes).\nAdemás de ser la más utilizada es la que las empresas más piden en mi experiencia a una entrevista siempre ten en claro este tema y por esto te lo quiero explicar lo más sencillo posible.\nDado que tenemos nuestra aplicación vamos a terminar con una estructura parecida a lo siguiente:\n\nCon esto vamos a crear un nuestro primer componente con layzy para eso crearemos un module y un routing.\nng g c m componente —routing\nCon esto creamos un module aparte y un router único para nuestro componente o componentes que mantendremos en esta parte de nuestra aplicación. Ya con esto sobre la misma ruta vamos a crear el componente \nng g c component/component\nCon esto vamos a crear la ruta dentro de nuestro router local  (router de nuestro componente).\n\nSi intentamos acceder a esta ruta no podremos ya que nuestro router global no sabe a dónde dirigirse, y agregando el siguiente código le mostraremos cómo resolverlo tanto en el global como en nuestro local con las posibles rutas internas, como te las muestro a continuación:\n\nY con esto tendríamos nuestra aplicación con lazy loading.\nGracias por leer, nos vemos en una próxima ocasión.",
+          "link": "https://dev.to/dannieldev/lazy-loading-en-angular-2nd0",
+          "publishedOn": "2021-09-01T00:33:50.000Z",
+          "wordCount": 613,
+          "title": "Lazy loading en Angular"
+        },
         {
           "id": "https://dev.to/remshams/racing-condition-in-rxjs-event-order-with-multiple-subscriptions-2m37",
           "author": "Mathias Remshardt",
@@ -9385,42 +9394,6 @@
           "publishedOn": "2021-08-03T13:27:18.000Z",
           "wordCount": 1488,
           "title": "4 Key Aspects for Small Businesses and Startup Making Business Apps Personified"
-        },
-        {
-          "id": "https://dev.to/es404020/ci-cd-using-github-action-for-angular-deployment-on-ssh-server-3hpd",
-          "author": "es404020",
-          "description": "Before we dive into deploying our angular application using github actions , it is important that we understand some keys words \nCI/CD: it is the combined practices of continuous integration and either continuous delivery or continuous deployment. Before the advent of CI/CD must production deployment where upload manually by using tools like putty, FileZilla etc. But with the advent of CI/CD it is easy to automate ones deployment pipeline.\n\n\nSSH Server: Secure Shell is a cryptographic network protocol for operating network services securely over an unsecured network. All lot of companies uses SSH servers for housing both their development and production codebase.\n\n\n\n3.GitHub Actions: This is a CI/CD tool developed by the teams , to help automate deployment when users push their code base t…",
-          "link": "https://dev.to/es404020/ci-cd-using-github-action-for-angular-deployment-on-ssh-server-3hpd",
-          "publishedOn": "2021-08-03T06:20:14.000Z",
-          "wordCount": 770,
-          "title": "CI/CD using Github action for Angular deployment on ssh server"
-        },
-        {
-          "id": "https://dev.to/ramkrishna70/publishing-app-to-appstore-4l41",
-          "author": "Ram Krishna",
-          "description": "https://youtu.be/j3cpdeFJmt8",
-          "link": "https://dev.to/ramkrishna70/publishing-app-to-appstore-4l41",
-          "publishedOn": "2021-08-02T18:49:33.000Z",
-          "wordCount": 364,
-          "title": "Publishing app to AppStore"
-        },
-        {
-          "id": "https://dev.to/webdevken/why-i-decided-to-stay-a-frontend-engineer-and-stopped-searching-full-stack-jobs-590c",
-          "author": "Web Dev Ken",
-          "description": "My goal writing this post is to emphasize you to deepen your knowledge in the field you are currently in, instead of trying to move to new fields too quickly. If you are a frontend engineer yourself and think what you do are basics, read my story!\nMy software engineering career has pretty much started in January 2018. Coming from a mechanical engineering profession, it was hard for me to easily get a job in software engineering. At the time, I successfully landed a trainee job at a small company that had a frontend solution for their clients that was built with Angular. At work, I was confrontend with Angular, UI Architectures and Client-Server Architecture. Learning Angular was pretty fun, because the framework itself developed very quickly and there were tons of things to learn and apply…",
-          "link": "https://dev.to/webdevken/why-i-decided-to-stay-a-frontend-engineer-and-stopped-searching-full-stack-jobs-590c",
-          "publishedOn": "2021-08-02T14:55:00.000Z",
-          "wordCount": 1601,
-          "title": "Why I Decided To Stay A Frontend Engineer And Stopped Searching Full-Stack Jobs"
-        },
-        {
-          "id": "https://dev.to/nagarlalit/closures-angular-pi9",
-          "author": "NagarLalit",
-          "description": "During the interview, most of the people are able to answer when asked about Closures and their general examples. But when asked about the same if they have used or seen it anywhere in their angular application most of them failed to provide an example. So I thought to document a basic example of closure in Angular.\nClosures.\nA closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.\nNow breaking up the definition for better understanding.\nngOnInit() {\n    this.api.get('users?page=1').subscribe(res => {\n      this.users = res;\n      console.log('data response', this.users);\n    }, error => {\n      console.log(error);\n    });\n  }\n\nHere the subscribe and error functions are acting as inner functions and the ngOnInit is acting as an outer function. And we can access any variables or methods of the component using this keyword. This means it remembers the scope of the outer function.\nPS: This is my first blog, apologies if I have made any mistakes. Hope you have liked this one.",
-          "link": "https://dev.to/nagarlalit/closures-angular-pi9",
-          "publishedOn": "2021-08-02T13:20:48.000Z",
-          "wordCount": 645,
-          "title": "Closures & Angular"
         }
       ]
     },
@@ -9598,6 +9571,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=31527",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/work/responsivize-for-develop-responsive-websites.html",
+          "publishedOn": "2021-09-01T00:36:06.000Z",
+          "wordCount": 349,
+          "title": "レスポンシブデザインの確認に便利なツールが登場！複数のデバイスサイズで同時確認できる優れもの -Responsivize"
+        },
         {
           "id": "https://coliss.com/?p=31316",
           "author": "コリス🥦",
@@ -9777,15 +9759,6 @@
           "publishedOn": "2021-08-04T00:26:46.000Z",
           "wordCount": 291,
           "title": "ロゴのデザインにぴったりな有料フォントが今だけ無料！疾走感のあるストロークがかっこいい -Powerfulm Samara"
-        },
-        {
-          "id": "https://coliss.com/?p=30771",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/design/ui-ux-micro-tips-volume-eight.html",
-          "publishedOn": "2021-08-03T00:36:34.000Z",
-          "wordCount": 349,
-          "title": "プロのUIデザイナーに学ぶ！UIとUXの印象がよくなるデザインの知識とテクニックのまとめ vol.8"
         }
       ]
     },
@@ -9794,6 +9767,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/9836c68789b",
+          "author": "Lucas Estevão",
+          "description": "Practical advice to avoid frustration when asking for a raise\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/salary-negotiation-for-software-developers-9836c68789b?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-01T17:03:13.000Z",
+          "wordCount": 2135,
+          "title": "3 Salary Negotiation Tips for Software Developers"
+        },
+        {
+          "id": "https://medium.com/p/9d4118333c61",
+          "author": "Shalitha Suranga",
+          "description": "These productivity tips boost your programming speed indirectly\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-productivity-tips-that-only-a-few-programmers-know-9d4118333c61?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-01T16:03:11.000Z",
+          "wordCount": 1560,
+          "title": "5 Productivity Tips That Only a Few Programmers Know"
+        },
+        {
+          "id": "https://medium.com/p/9aa6d740862b",
+          "author": "Nicholas D'Aquila",
+          "description": "3. Build yourself a team\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/7-tips-to-help-you-succeed-during-and-after-a-software-undergrad-9aa6d740862b?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-01T15:23:05.000Z",
+          "wordCount": 2361,
+          "title": "7 Tips to Help You Succeed During and After a Software Undergrad"
+        },
+        {
+          "id": "https://medium.com/p/f098de654cd1",
+          "author": "Kirshi Yin",
+          "description": "Learn how to connect APIs using Pipedream in a few clicks\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/pipedream-api-integration-made-easy-f098de654cd1?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-01T15:03:12.000Z",
+          "wordCount": 1383,
+          "title": "Pipedream: API Integration Made Easy"
+        },
+        {
+          "id": "https://medium.com/p/97cb69507e7b",
+          "author": "David Tippett",
+          "description": "Utilizing git hooks and pre-commit to improve your repo quality\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/stop-letting-crappy-code-into-your-repos-97cb69507e7b?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-01T14:54:25.000Z",
+          "wordCount": 1219,
+          "title": "Stop Letting Crappy Code Into Your Repos"
+        },
+        {
+          "id": "https://medium.com/p/fc59d5a56dae",
+          "author": "RayRay",
+          "description": "Clean up Angular observables in an easy way\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/two-ways-to-unsubscribe-angular-observables-fc59d5a56dae?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-01T14:24:20.000Z",
+          "wordCount": 851,
+          "title": "Two Ways To Unsubscribe Angular Observables"
+        },
+        {
+          "id": "https://medium.com/p/a77a14d2d815",
+          "author": "Fahadul Shadhin",
+          "description": "Some important use cases of the Python math module\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/everything-you-need-to-know-about-the-math-module-in-python-a77a14d2d815?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-01T14:21:16.000Z",
+          "wordCount": 2312,
+          "title": "Everything You Need To Know About the math Module in Python"
+        },
+        {
+          "id": "https://medium.com/p/97fc56a560ca",
+          "author": "John Philip",
+          "description": "Maintaining focus and persevering through the challenging journey of building a programming career\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/programming-motivation-how-to-keep-the-coding-dream-alive-97fc56a560ca?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-01T14:03:00.000Z",
+          "wordCount": 1323,
+          "title": "How To Motivate Yourself to Keep Coding Everyday"
+        },
+        {
+          "id": "https://medium.com/p/d8f5b9c2b3d6",
+          "author": "Mark Lucking",
+          "description": "A look at making GameKit work within a SwiftUI app\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-use-gamekit-in-swiftui-d8f5b9c2b3d6?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-01T13:03:16.000Z",
+          "wordCount": 2388,
+          "title": "How To Use GameKit in SwiftUI"
+        },
+        {
+          "id": "https://medium.com/p/7d09537dbc52",
+          "author": "Riccardo Cipolleschi",
+          "description": "Test the network layer easily\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-leverage-encapsulation-to-test-the-ios-network-layer-properly-7d09537dbc52?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-01T12:03:10.000Z",
+          "wordCount": 2200,
+          "title": "How To Leverage Encapsulation To Test the iOS Network Layer Properly"
+        },
         {
           "id": "https://medium.com/p/fbe1af3d2297",
           "author": "Kristaps Grinbergs",
