@@ -61,6 +61,240 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://engineers.ntt.com/entry/2021/09/02/162022",
+          "author": null,
+          "description": "こんにちは、イノベーションセンターの三島です。 本記事では、次世代の監視技術として期待されるTelemetry技術についてご紹介します。 この記事について 本記事では下記の3点を共有します。 従来の監視技術が抱える課題とTelemetryの可能性 Telemetryの技術概要と、各社の実装状況 NTT Comのネットワーク上で検証し得ら...",
+          "link": "https://engineers.ntt.com/entry/2021/09/02/162022",
+          "publishedOn": "2021-09-02T23:11:50.000Z",
+          "wordCount": 753,
+          "title": "次世代の監視技術 - Telemetry技術のご紹介 - NTT Communications Engineers' Blog"
+        },
+        {
+          "id": "https://togetter.com/li/1768559",
+          "author": null,
+          "description": "かなかわ @kanakawa12 管理者AI「人間は愚かだ。その上弱い。だからそれぞれの適性にあった職をこちらで用意し、栄養素を管理した食事を与え、病気もさせずに管理されている方が幸せなのだ」 主人公「それは違う！人間はどんな困難も乗り越えるべきなんだ！管理される幸せなど偽りだ！」 大衆「えっ？いや……？」 2021-09...",
+          "link": "https://togetter.com/li/1768559",
+          "publishedOn": "2021-09-02T16:38:53.000Z",
+          "wordCount": 1305,
+          "title": "AI「人間は愚かだ。だから適性にあった職をこちらで用意し栄養のある食事を与え管理されている方が幸せなのだ」主人公「それは違う！」大衆「え？いや…？」 - Togetter"
+        },
+        {
+          "id": "https://ics.media/entry/210902/",
+          "author": null,
+          "description": "いずれもMITライセンスで公開されていますので、個人・商用問わず利用可能です。 Slick.js Slickスリック.jsは簡潔なコードで実装できるのが特徴のモバイルフレンドリーなカルーセルライブラリです。機能は少なめですが、ナビゲーションや表示するスライド数を変更するといった基本的な機能は備わっています。jQueryプラ...",
+          "link": "https://ics.media/entry/210902/",
+          "publishedOn": "2021-09-02T13:42:20.000Z",
+          "wordCount": 550,
+          "title": "カルーセルUIを実現するJSライブラリまとめ(2021年版) - 導入手間や機能の比較紹介 - ICS MEDIA"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/02/news166.html",
+          "author": null,
+          "description": "デジタル庁の事務方トップ「デジタル監」に就任した石倉洋子氏の発足式での発言が物議を呼んでいる。石倉デジタル監は報道陣との質疑応答で何を言っていたのか。一問一答形式でまとめた。石倉デジタル監はPythonに挑戦した経験もあるという。 菅政権の肝いり政策として、9月1日に発足したデジタル庁。その事務方トップ「...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/02/news166.html",
+          "publishedOn": "2021-09-02T12:24:22.000Z",
+          "wordCount": 156,
+          "title": "「私はデジタルの専門家でもエンジニアでもない」――石倉洋子デジタル監の発言が話題に　質疑での発言全文 - ITmedia NEWS"
+        },
+        {
+          "id": "https://miyauchi.dev/ja/posts/speeding-up-jest/",
+          "author": null,
+          "description": "JestでTypeScriptを高速化するJestでテストの高速化させる方法を紹介します。トランスフォーマーとしてesbuildやswcを紹介し、TypeScriptで遅くなりがちなトランスパイルを高速化させることで、テストを自体を高速化します。 はじめにesbuild の登場により、フロントエンドの世界は、開発環境により速度を求めるようにな...",
+          "link": "https://miyauchi.dev/ja/posts/speeding-up-jest/",
+          "publishedOn": "2021-09-02T11:58:21.000Z",
+          "wordCount": 440,
+          "title": "JestでTypeScriptを高速化する | miyauci.me"
+        },
+        {
+          "id": "https://bizble.asahi.com/articles/2021083100028.html",
+          "author": null,
+          "description": "若い世代の「価値観」は新たな環境の変化でどんどん進化を繰り返すといわれます。「おひとりさま」や「草食系男子」「年の差婚」などの言葉を世に広めたマーケティングライターの牛窪恵さんが、「さとり世代」や「Z世代」の考え方、ものの見方について読み解きます。 みなさん、こんにちは。 マーケティングライターで、...",
+          "link": "https://bizble.asahi.com/articles/2021083100028.html",
+          "publishedOn": "2021-09-02T11:46:25.000Z",
+          "wordCount": 292,
+          "title": "ゆとり世代は「コスパ」、Z世代は「タムパ」若者の「価値観」は進化する！ | bizble（ビズブル）"
+        },
+        {
+          "id": "https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722",
+          "author": null,
+          "description": "hiboma.hatenadiary.jp こちらのアンサー記事を書いてみますw なぜ CoW の話が出てきたのか なぜCoWを気にしたのかを話すとまず社内で動かしているAPIサーバがメモリ利用過多となってアラートがなったのが話のスタートでした。サービス自体はUnicornを使って動いています。 メモリ利用過多となったときに調べる手法は言...",
+          "link": "https://ryuichi1208.hateblo.jp/entry/2021/09/02/195722",
+          "publishedOn": "2021-09-02T11:26:47.000Z",
+          "wordCount": 211,
+          "title": "【Ruby】LinuxとRubyとCoW - 地方エンジニアの学習日記"
+        },
+        {
+          "id": "https://codebook.machinarecord.com/9917/",
+          "author": null,
+          "description": "2020年12月、ネットワーク管理製品の SolarWinds Orion プラットフォームを狙ったサプライチェーン攻撃が発覚しました(*1)。 国内外で大きく報道されたこの攻撃では、多くの米国の政府機関や民間企業のネットワークが被害を受けたとされています。 先月ニュースで話題となったメルカリのデータ流出に影響を与えたとされ...",
+          "link": "https://codebook.machinarecord.com/9917/",
+          "publishedOn": "2021-09-02T11:11:24.000Z",
+          "wordCount": 462,
+          "title": "ソフトウェアサプライチェーン攻撃とは何か【ユーザーの対策編】| Codebook | Machina Record"
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/09/chrome-short-cut-7.html",
+          "author": null,
+          "description": "Google Chromeには、ページ閲覧や仕事で使えるさまざまなショートカットが用意されています。今回は、あまり知られていないけれど、活用すれば仕事効率アップに大きく貢献してくれる7つのショートカットをご紹介します。",
+          "link": "https://www.lifehacker.jp/2021/09/chrome-short-cut-7.html",
+          "publishedOn": "2021-09-02T11:03:56.000Z",
+          "wordCount": 47,
+          "title": "仕事効率が向上！Chromeの知られざるショートカット7選 | ライフハッカー［日本版］"
+        },
+        {
+          "id": "https://www.tokyo-np.co.jp/article/128071",
+          "author": null,
+          "description": "みずほフィナンシャルグループ（ＦＧ）が、基幹システムの開発などを担当する人員を、システムの本格稼働後に約６割削減したことが３１日、分かった。今年６回の障害を起こしたみずほのシステムは全体像を把握するのが難しいほど規模が大きく、システムに習熟した人員を削減したことが障害の多発に影響した可能性もある...",
+          "link": "https://www.tokyo-np.co.jp/article/128071",
+          "publishedOn": "2021-09-02T11:02:24.000Z",
+          "wordCount": 292,
+          "title": "システム担当者を６割削減　みずほ、障害多発に影響か：東京新聞 TOKYO Web"
+        },
+        {
+          "id": "https://nazology.net/archives/95733",
+          "author": null,
+          "description": "Credit:Yuhang Li（Guangdong University of Technology）_Design of a Flying Humanoid Robot Based on Thrust Vector Control（2021） 全ての画像を見る 「空を飛ぶ人型ロボット」には、それが実用的かどうかはさておき、ロマンがあります。 そんな夢の実現に一歩近づいたのは、中国・広東工業大学（Guangdong Univers...",
+          "link": "https://nazology.net/archives/95733",
+          "publishedOn": "2021-09-02T10:25:10.000Z",
+          "wordCount": 420,
+          "title": "ついに飛行する二足歩行ロボットが誕生！ - ナゾロジー"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1348291.html",
+          "author": null,
+          "description": "米Adobeは9月1日（現地時間）、コードエディター「Brackets」のサポートを終了した。同社は、パートナー関係にあるMicrosoftが開発を主導する「Visual Studio Code」への移行を呼び掛けている。「Brackets」の利用や保守、改善を継続したい場合は、「GitHub」のプロジェクトサイトからソースコードをフォークすることも可能。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1348291.html",
+          "publishedOn": "2021-09-02T10:23:35.000Z",
+          "wordCount": 138,
+          "title": "Adobe、「Brackets」のサポートを終了 ～「Visual Studio Code」への移行を - 窓の杜"
+        },
+        {
+          "id": "https://zenn.dev/koduki/articles/ba54daaba28f93",
+          "author": null,
+          "description": "はじめに 新方針でDocker Desktopが大企業での利用の場合は商用ライセンスの使用が必要になるようです。新料金体系は8/31から実施ですが、2022年1月31日まで猶予期間があります。 個人やスモールビジネス、あるいは教育やOSSプロダクトなどは継続して無料版のPersonalを利用できるようですが、従業員数250人以上/年間売...",
+          "link": "https://zenn.dev/koduki/articles/ba54daaba28f93",
+          "publishedOn": "2021-09-02T09:28:01.000Z",
+          "wordCount": 368,
+          "title": "Docker Desktopの代替方法 - Windows and Mac編"
+        },
+        {
+          "id": "https://note.com/hal_sk/n/n916a422caafd",
+          "author": null,
+          "description": "行政文章のMarkdown化、進めていきたい。公開時だけでなく、普段からMarkdownでやりとりできるといいんだけどな。Wordを使って文章作ってる人をターゲットにしたMarkdownエディタを作ってみたい。 HackMDでもまだ難しいイメージ。実務に寄せていく必要がある。https://t.co/3iVDjXVHcQ — Hal Seki (@hal_sk) August 31, ...",
+          "link": "https://note.com/hal_sk/n/n916a422caafd",
+          "publishedOn": "2021-09-02T08:10:47.000Z",
+          "wordCount": 186,
+          "title": "行政文章はMarkdownで管理できるか｜Hal Seki｜note"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1348231.html",
+          "author": null,
+          "description": "Microsoftは1日(現地時間)、iOS向けのOffice Mobileアプリに、リアルタイム文字起こし機能を追加したと発表した。iPhoneといったiOSデバイスのマイクで拾った音声を即座に文字化できる。 バージョン2.53(21083001)より提供されるが、日本語に対応しているかは不明。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1348231.html",
+          "publishedOn": "2021-09-02T07:30:15.000Z",
+          "wordCount": 94,
+          "title": "iPhone用Officeにリアルタイム文字起こし機能 - PC Watch"
+        },
+        {
+          "id": "https://bookmark.hatenastaff.com/entry/2021/09/02/160546",
+          "author": null,
+          "description": "いつもはてなブックマークをご利用いただきありがとうございます。 本日より、自分のブックマークした記事を検索できる機能「マイブックマーク検索」を強化し、検索結果をカスタマイズできるようになりました。 マイブックマークの検索結果を「保存した日の新しい（古い）順」もしくは「ブックマーク数の多い（少ない）...",
+          "link": "https://bookmark.hatenastaff.com/entry/2021/09/02/160546",
+          "publishedOn": "2021-09-02T07:17:00.000Z",
+          "wordCount": 97,
+          "title": "マイブックマーク検索の機能を強化し、検索結果の並び替えや絞り込みができるようになりました（PC版ブラウザ） - はてなブックマーク開発ブログ"
+        },
+        {
+          "id": "https://blog.studio.design/ja/posts/20210901",
+          "author": null,
+          "description": "2021年9月1日 13:33~17:30頃においてSTUDIOサービス全体の接続が不安定な状態となっていた障害についての詳細",
+          "link": "https://blog.studio.design/ja/posts/20210901",
+          "publishedOn": "2021-09-02T06:34:38.000Z",
+          "wordCount": 6,
+          "title": "2021/9/1に発生したSTUDIOサービス全体における障害の経緯について"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/review/minireview/1348230.html",
+          "author": null,
+          "description": "スカパー! が、50チャンネルの番組に一発で飛ぶことができる 「スカパー オリジナルのテレビリモコン」を抽選で50人にプレゼントするという情報が編集部に寄せられた。「50チャンネルに一発で飛べる」という意味がよくわからなかったので問い合わせてみると、「触ってみてください」というメッセージと共に、“全長50cmのリモコン”が編集部に届いた。自分でも何を言っているのかよくわからない。",
+          "link": "https://av.watch.impress.co.jp/docs/review/minireview/1348230.html",
+          "publishedOn": "2021-09-02T06:29:32.000Z",
+          "wordCount": 103,
+          "title": "【ミニレビュー】“50チャンネルに一発で飛べるリモコン”借りたら、長すぎた - AV Watch"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1348214.html",
+          "author": null,
+          "description": "Twitterは、スパムや不快と思われる返信を自動でブロックする機能「安全モード」を小規模グループに向けベータ実装すると発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1348214.html",
+          "publishedOn": "2021-09-02T06:23:12.000Z",
+          "wordCount": 90,
+          "title": "Twitter、不快なユーザーを自動ブロックする機能を実装へ。収益が得られるスーパーフォローも - PC Watch"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1348210.html",
+          "author": null,
+          "description": "Microsoftは、同社のイベントページを更新し、9月22日(米国東部時間、日本時間で9月23日深夜1時)に発表会を行なうとした。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1348210.html",
+          "publishedOn": "2021-09-02T05:21:33.000Z",
+          "wordCount": 100,
+          "title": "Microsoft、新Surfaceを9月23日に発表か - PC Watch"
+        },
+        {
+          "id": "https://blog.serverworks.co.jp/dx-manual-failover-to-vpn",
+          "author": null,
+          "description": "営業部 佐竹です。 本日は、2021年9月2日 の 午前7時30分から午後1時42分までの間に発生していた「東京リージョンにおけるダイレクトコネクト（専用線：以下 DX と記載）障害に関する記事となります。 はじめに 影響範囲について 一時的な対応策 DX をダウンさせる 1-1. CGW で NIC を Shutdown する 1-2. 物理線を抜く ...",
+          "link": "https://blog.serverworks.co.jp/dx-manual-failover-to-vpn",
+          "publishedOn": "2021-09-02T04:29:35.000Z",
+          "wordCount": 1245,
+          "title": "障害対応時に AWS Direct Connect を手動で VPN へとフェイルオーバーする手法について - サーバーワークスエンジニアブログ"
+        },
+        {
+          "id": "https://insight-jp.nttsecurity.com/post/102h5av/edrsoc",
+          "author": null,
+          "description": "このように実際にEDRを導入した後に過検知を多く含んだアラートを膨大なログから分析することになるため、非常に多くの労力がかかってしまうという課題に直面します。 課題２SOCでは、EDR製品が生成するアラートをSeverityに関係なく全てを分析対象としています。その理由は、SOCでの長年の分析において、アラートのSeve...",
+          "link": "https://insight-jp.nttsecurity.com/post/102h5av/edrsoc",
+          "publishedOn": "2021-09-02T04:12:32.000Z",
+          "wordCount": 456,
+          "title": "EDRを使った分析の課題とSOCでの取り組みについて, Shogo Hayashi"
+        },
+        {
+          "id": "https://techblog.gaudiy.com/entry/2021/09/02/110026",
+          "author": null,
+          "description": "こんにちは。エンタメ業界のDXを進めるブロックチェーンスタートアップ、Gaudiyで主にバックエンドを担当しているkei(@kei32bit)です。 自分がブロックチェーン技術をキャッチアップし始めたのは1年ほど前です。最初の半年間くらいは趣味として、その後はブロックチェーン企業に入って仕事でもブロックチェーンに触れる...",
+          "link": "https://techblog.gaudiy.com/entry/2021/09/02/110026",
+          "publishedOn": "2021-09-02T03:23:56.000Z",
+          "wordCount": 326,
+          "title": "未経験から1年でキャッチアップしたブロックチェーンの学習法をまとめてみた - Gaudiy Tech Blog"
+        },
+        {
+          "id": "https://speakerdeck.com/knagano1020/how-to-collect-and-utilize-information-by-notion",
+          "author": null,
+          "description": "Transcript Notionによる情報収集 と 活かし方 Katuya Nagano(@chitose_ng) 情報収集ハック 超LT会 vol4 自己紹介 2/100 % TVISION INSIGHTS株式会社 Company Writing Other Work テレビの視聴態度データを提供する会社 シニアデータサイエンティスト - 新規ソリューション開発 - クライアントワーク - R&D - マネジメン...",
+          "link": "https://speakerdeck.com/knagano1020/how-to-collect-and-utilize-information-by-notion",
+          "publishedOn": "2021-09-02T00:01:30.000Z",
+          "wordCount": 548,
+          "title": "Notionによる情報収集と活かし方 / How to collect and utilize information by Notion - Speaker Deck"
+        },
+        {
+          "id": "https://aws.amazon.com/jp/builders-flash/202109/learning-patterns-interview/",
+          "author": null,
+          "description": "builders.flash 読者の皆さん ! こんにちは ! シニアテクニカルトレーナーの吉田慶章です。 私は builders.flash で「学び」に関する記事を書いています。前回の記事では、自律的で創造的に学ぶ方法として「ラーニング・パターン」を紹介しました。 今回の記事では builders.flash で一緒に「How to be a Developer」カ...",
+          "link": "https://aws.amazon.com/jp/builders-flash/202109/learning-patterns-interview/",
+          "publishedOn": "2021-09-01T23:28:42.000Z",
+          "wordCount": 522,
+          "title": "ラーニング・パターン・インタビュー : AWS の同僚に入社してからの学習スタイルを聞いてみた - 変化を求めるデベロッパーを応援するウェブマガジン | AWS"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/column/chizu3/1348046.html",
+          "author": null,
+          "description": "8月の大雨は各地でさまざまな被害をもたらしたが、これから秋にかけて日本は台風シーズンとなり、引き続き大雨などへの警戒が求められる。そこで今回は、防災の日に合わせ、防災関連で定番となっているウェブサイトやアプリを紹介しよう。",
+          "link": "https://internet.watch.impress.co.jp/docs/column/chizu3/1348046.html",
+          "publishedOn": "2021-09-01T22:50:21.000Z",
+          "wordCount": 141,
+          "title": "知っておきたい「防災・災害対策の定番サイト＆アプリ」【地図と位置情報】 - INTERNET Watch"
+        },
+        {
           "id": "https://devblogs.microsoft.com/dotnet/file-io-improvements-in-dotnet-6/",
           "author": null,
           "description": "For .NET 6, we have made FileStream much faster and more reliable, thanks to an almost entire re-write. For same cases, the async implementation is now a few times faster! We also recognized the need of having more high-performance file IO features: concurrent reads and writes, scatter/gather IO ...",
@@ -68,6 +302,15 @@
           "publishedOn": "2021-09-01T22:08:19.000Z",
           "wordCount": 6631,
           "title": "File IO improvements in .NET 6 | .NET Blog"
+        },
+        {
+          "id": "https://www.pixiv.net/novel/show.php?id=15932690",
+          "author": null,
+          "description": "こんにちは。 ユーザーが自由に入力したテキストに対し、AIが話の展開を自動生成してくれるADV「AIダンジョン」に最近ドハマリしているので、布教をかねてリプレイを和訳してみました。 AIダンジョンとGPT-3について少し説明します。AIダンジョンは基本無料ですが、ゴールド、プラチ...",
+          "link": "https://www.pixiv.net/novel/show.php?id=15932690",
+          "publishedOn": "2021-09-01T17:00:54.000Z",
+          "wordCount": 14,
+          "title": "#1 AIダンジョンが面白いのでゾンビシナリオリプレイを掲載 | ＡＩダンジョン - あぶぶの小説シリー - pixiv"
         },
         {
           "id": "https://www.itmedia.co.jp/news/spv/2109/01/news174_0.html",
@@ -86,6 +329,15 @@
           "publishedOn": "2021-09-01T13:08:00.000Z",
           "wordCount": 143,
           "title": "デジタル庁発足　公式サイトにITエンジニアから反応続々「シンプル」「重い」「ロゴが丁寧」「苦労が見える」（1/2 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://qiita.com/baby-degu/items/d9e530ec574683bf6f24",
+          "author": null,
+          "description": "便利なツール、参考になる例など... はじめに GitHubは、最近の（ウェブ）開発に関連するすべてのワンストップショップです。フレームワーク、デモ、あらゆる種類のコレクションなど、GitHubで見つけられないものはないでしょう。しかし、この膨大な量が問題です。あまりにも多くのレポジトリがあるので、おそらく聞いた...",
+          "link": "https://qiita.com/baby-degu/items/d9e530ec574683bf6f24",
+          "publishedOn": "2021-09-01T12:31:58.000Z",
+          "wordCount": 369,
+          "title": "すべての開発者へ。人気GitHubリポジトリ9選 - Qiita"
         },
         {
           "id": "https://www.hsbt.org/diary/20210901.html",
@@ -284,6 +536,15 @@
           "publishedOn": "2021-08-31T23:23:30.000Z",
           "wordCount": 338,
           "title": "世界初、韓国がグーグルとアップルのアプリ内課金手数料を抑制する「反グーグル法」可決 | TechCrunch Japan"
+        },
+        {
+          "id": "https://techblog.yahoo.co.jp/entry/2021083130180585/",
+          "author": null,
+          "description": "こんにちは。ヤフーでデータエンジニア兼マネージャーをしている安藤です。 社内で利用しているAIプラットフォームの構築、提供を担当しています。 ヤフーには100を超えるサービスがあり、各サービスのデータ＊1が蓄積されています。ヤフーではこれらのデータをマルチビッグデータと呼んでいます。マルチビッグデータを...",
+          "link": "https://techblog.yahoo.co.jp/entry/2021083130180585/",
+          "publishedOn": "2021-08-31T23:17:44.000Z",
+          "wordCount": 437,
+          "title": "ヤフーのAIプラットフォーム紹介 〜 AI開発をより手軽に - Yahoo! JAPAN Tech Blog"
         },
         {
           "id": "https://www.docker.com/blog/updating-product-subscriptions/",
@@ -7025,393 +7286,6 @@
           "publishedOn": "2021-08-04T12:19:58.000Z",
           "wordCount": 195,
           "title": "Appleの製品セキュリティ解説が面白い"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGKKZO74432900S1A800C2TB0000/",
-          "author": null,
-          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 米グーグルでハードウエアを担当するリック・オステロー上級副社長が日本経済新聞などの取材に応じた。ソフトウエアを主力とする同社がハード部門を強化する理由や半導...",
-          "link": "https://www.nikkei.com/article/DGKKZO74432900S1A800C2TB0000/",
-          "publishedOn": "2021-08-04T12:08:48.000Z",
-          "wordCount": 108,
-          "title": "「高性能化、汎用品は限界」グーグル幹部に聞く: 日本経済新聞"
-        },
-        {
-          "id": "https://www.4gamer.net/games/520/G052080/20210719001/",
-          "author": null,
-          "description": "女性向けゲームの先駆者は，シリーズ18年ぶりの最新作で今の女性とどう向き合ったのか。「アンジェリーク ルミナライズ」開発者インタビュー 女性向けのゲーム，いわゆる“乙女ゲー”が人気ジャンルとなって久しい。コンシューマゲーム機やスマホ向けを中心に毎月多数のタイトルがリリースされ，その世界はアニメ化作品や“...",
-          "link": "https://www.4gamer.net/games/520/G052080/20210719001/",
-          "publishedOn": "2021-08-04T12:05:23.000Z",
-          "wordCount": 628,
-          "title": "女性向けゲームの先駆者は，シリーズ18年ぶりの最新作で今の女性とどう向き合ったのか。「アンジェリーク ルミナライズ」開発者インタビュー"
-        },
-        {
-          "id": "https://blog.maximeheckel.com/posts/building-perfect-github-action-frontend-teams/",
-          "author": null,
-          "description": "You've probably noticed if you've been following me for a while that I'm a ✨ big fan ✨ of automation. I wrote about automated CI/CD a year ago and also talked a lot about the concepts surrounding this subject, but never really touched upon the tools I use for my CI jobs and how I use them. One ...",
-          "link": "https://blog.maximeheckel.com/posts/building-perfect-github-action-frontend-teams/",
-          "publishedOn": "2021-08-04T11:58:24.000Z",
-          "wordCount": 3057,
-          "title": "Building the perfect GitHub CI workflow for your frontend team - Maxime Heckel's Blog"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1342249.html",
-          "author": null,
-          "description": "“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
-          "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1342249.html",
-          "publishedOn": "2021-08-04T11:34:41.000Z",
-          "wordCount": 129,
-          "title": "「Electron」と「WebView2」はどう違う？ ～「Electron」の開発チームが解説 - やじうまの杜 - 窓の杜"
-        },
-        {
-          "id": "https://productzine.jp/article/detail/588",
-          "author": null,
-          "description": "本連載は、ソフトウェア開発者からプロダクトマネージャーに転身した、ゆずたそ（@yuzutas0）さんが自身の経験を振り返り、切り替えるべきだったと考えるマインドセットを紹介していく連載です。第2回は、「責任から逃げてしまう」という問題を取り上げます。自身の責任範囲は想像以上に広くなるのだ、ということを認識...",
-          "link": "https://productzine.jp/article/detail/588",
-          "publishedOn": "2021-08-04T11:19:31.000Z",
-          "wordCount": 202,
-          "title": "「Not for me」からの卒業――開発畑のプロダクトマネージャーの失敗から学べ (1/3)：ProductZine（プロダクトジン）"
-        },
-        {
-          "id": "https://trafficnews.jp/post/109586",
-          "author": null,
-          "description": "夜も自動運転を実施する方向です。 複数都市・複数台のバスを同時に遠隔操縦 自動運転バスの実証実験が、ひとつ上の次元に進むかもしれません。 東急は2021年8月4日（水）、静岡県内の4都市（松崎町、伊東市、沼津市、掛川市）において、複数都市の車両を遠隔監視し、また複数台の車両を遠隔操縦する実証実験を今年度に...",
-          "link": "https://trafficnews.jp/post/109586",
-          "publishedOn": "2021-08-04T10:40:01.000Z",
-          "wordCount": 740,
-          "title": "日本初、複数都市の自動運転バスを1か所で遠隔操縦 東急が実験 車両は「出光」 | 乗りものニュース"
-        },
-        {
-          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/080300853/",
-          "author": null,
-          "description": "「競合企業が品質不正問題でつまずきました。御社にとっては受注拡大のチャンスではありませんか？」。ある自動車部品で品質データ偽装問題が発覚した。顧客である自動車メーカーから信頼を失うのは必至だ。そこで記者は、同じ自動車部品を造る競合部品メーカーに取材し、こうした質問をぶつけてみた。 「顧客の立場にな...",
-          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/080300853/",
-          "publishedOn": "2021-08-04T10:31:47.000Z",
-          "wordCount": 342,
-          "title": "品質不正の陰に「枯れた製品」、経営陣は大胆な決断ができるか | 日経クロステック（xTECH）"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/064/4064010/",
-          "author": null,
-          "description": "SIMスワップ攻撃はどれほど簡単に仕掛けることができるだろうか？また、攻撃者は電話番号を乗っ取った後、何ができるのだろうか？結論から言うと、SIMスワップ攻撃を仕掛けるのは驚くほど容易で、攻撃者はあらゆることが実行可能となるのだ。 SIMスワッピングは、SIMハイジャック、あるいはSIMスワップ詐欺とも呼ばれる...",
-          "link": "https://ascii.jp/elem/000/004/064/4064010/",
-          "publishedOn": "2021-08-04T10:22:02.000Z",
-          "wordCount": 265,
-          "title": "ASCII.jp：SIMスワップ攻撃で電話番号は簡単に盗まれる"
-        },
-        {
-          "id": "https://gigazine.net/news/20210804-why-hard-to-make-skin-cg-look-real/",
-          "author": null,
-          "description": "近年はコンピューターグラフィックス(CG)が長足の進歩を遂げており、アニメや漫画などの映像・画像コンテンツの制作やゲーム・VRなどのインタラクティブコンテンツの制作などに用いられる一般的な手法として定着しています。そんな現代のCGでもリアル感を出すのが特に難しい「人間の肌」について、アメリカのニュースメ...",
-          "link": "https://gigazine.net/news/20210804-why-hard-to-make-skin-cg-look-real/",
-          "publishedOn": "2021-08-04T10:17:29.000Z",
-          "wordCount": 198,
-          "title": "コンピューターグラフィックスで「肌」をリアルに見せるのが難しい理由とは？ - GIGAZINE"
-        },
-        {
-          "id": "https://shuchi.php.co.jp/voice/detail/8740",
-          "author": null,
-          "description": "新型コロナ禍により、日本が長年にわたり着手できなかったデジタル化の遅れが露呈している。そんな状況を打開すべく、東京都では、DX（デジタルトランスフォーメーション）の推進を梃子に都の行政システムを変革する「シン・トセイ　都政の構造改革QOSアップグレード戦略」（以下「シン・トセイ」）が打ち出されている。...",
-          "link": "https://shuchi.php.co.jp/voice/detail/8740",
-          "publishedOn": "2021-08-04T09:42:09.000Z",
-          "wordCount": 182,
-          "title": "「仕事部屋にWi-Fiが無かった」ヤフー元社長の副知事、衝撃の初登庁から始まったデジタル化 | Web Voice"
-        },
-        {
-          "id": "https://tech.tier4.jp/entry/2021/08/04/160000",
-          "author": null,
-          "description": "はじめまして、ティアフォー技術本部 Planning / Controlチームで開発を行っている堀部と申します。 今回は状態推定の王道技術「カルマンフィルター」が実際に自動運転で用いられるまでの道のりやノウハウなどを書いていこうと思います。 みなさんはカルマンフィルターという言葉を聞いたことがありますでしょうか。 カ...",
-          "link": "https://tech.tier4.jp/entry/2021/08/04/160000",
-          "publishedOn": "2021-08-04T09:38:37.000Z",
-          "wordCount": 323,
-          "title": "カルマンフィルターが自動運転の自己位置推定で使われるまで - Tier IV Tech Blog"
-        },
-        {
-          "id": "https://docs.github.com/en/actions/learn-github-actions/security-hardening-for-github-actions",
-          "author": null,
-          "description": "GitHub Actions is available with GitHub Free, GitHub Pro, GitHub Free for organizations, GitHub Team, GitHub Enterprise Cloud, GitHub Enterprise Server, and GitHub AE. GitHub Actions is not available for private repositories owned by accounts using legacy per-repository plans. For more informatio...",
-          "link": "https://docs.github.com/en/actions/learn-github-actions/security-hardening-for-github-actions",
-          "publishedOn": "2021-08-04T08:23:33.000Z",
-          "wordCount": 5012,
-          "title": "Security hardening for GitHub Actions - GitHub Docs"
-        },
-        {
-          "id": "https://developers.cyberagent.co.jp/blog/archives/31081/",
-          "author": null,
-          "description": "Raspberry Pi 30台をデータセンタにデプロイする 1. 企画編(インターネットゼミ) WRITER: 黒崎 優太 AI事業本部の黒崎(@kuro_m88)です。「インターネットゼミ」の活動報告です。 ゼミ内でRaspberryPiをデータセンタにデプロイするという企画を立ち上げました。今回はそのことについて紹介します。 「インターネットゼミ...",
-          "link": "https://developers.cyberagent.co.jp/blog/archives/31081/",
-          "publishedOn": "2021-08-04T08:11:34.000Z",
-          "wordCount": 95,
-          "title": "Raspberry Pi 30台をデータセンタにデプロイする 1. 企画編(インターネットゼミ) | CyberAgent Developers Blog"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1342215.html",
-          "author": null,
-          "description": "「Windows 10 バージョン 2004」（May 2020 Update）には、「望ましくない可能性のあるアプリ」をブロックする機能が備わっているが、初期状態では有効になっておらず、ユーザー側で機能をONにする必要があった。Microsoftはユーザーのシステムを保護するため、この機能を2021年8月初旬からデフォルトで有効化する方針だ。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1342215.html",
-          "publishedOn": "2021-08-04T07:16:37.000Z",
-          "wordCount": 119,
-          "title": "Microsoft、Windows 10で迷惑アプリのブロック機能をデフォルト有効に - 窓の杜"
-        },
-        {
-          "id": "https://japanese.engadget.com/oppo-next-gen-under-screen-camera-065021964.html",
-          "author": null,
-          "description": "OPPOは8月4日、ディスプレイ下にカメラを搭載するUnder Screen Camera（USC）の第3世代となる技術を発表しました。 最近のハイエンドスマートフォンでは、フロントカメラをノッチではなくパンチホールで搭載するのが主流になりつつありますが、やはり画面内に丸く非表示のエリアができてしまうのは目障りなもの。このた...",
-          "link": "https://japanese.engadget.com/oppo-next-gen-under-screen-camera-065021964.html",
-          "publishedOn": "2021-08-04T07:01:24.000Z",
-          "wordCount": 205,
-          "title": "OPPO、次世代のアンダースクリーンカメラを発表。表から目立たなくなり、画質も改善 - Engadget 日本版"
-        },
-        {
-          "id": "https://paiza.hatenablog.com/entry/2021/08/04/150000",
-          "author": null,
-          "description": "どうも、まさとらん（@0310lan）です！ 今回は、ブラウザ1つで多言語に対応したプログラミング環境を提供する「Replit」と、JavaScriptで手軽に2Dゲームを開発できるライブラリ「KaBoom.js」がコラボしたゲーム開発環境をご紹介します！ 誰でもブラウザからアクセスすれば無料ですぐに使えるうえ、面倒な初期設定なども...",
-          "link": "https://paiza.hatenablog.com/entry/2021/08/04/150000",
-          "publishedOn": "2021-08-04T06:59:50.000Z",
-          "wordCount": 427,
-          "title": "ReplitのクラウドIDEがゲーム開発環境に大変身する「Kaboom editor」を使ってみた！ - paiza開発日誌"
-        },
-        {
-          "id": "https://av.watch.impress.co.jp/docs/news/1342165.html",
-          "author": null,
-          "description": "プリンストンは、低遅延なBluetoothコーデックaptX LLに対応した送信機ユニット「PTM-BTLLTR」を8月13日に発売する。価格はオープンプライスで、店頭予想価格は8,480円前後。",
-          "link": "https://av.watch.impress.co.jp/docs/news/1342165.html",
-          "publishedOn": "2021-08-04T06:56:46.000Z",
-          "wordCount": 87,
-          "title": "aptX LL対応のBluetooth送受信機。約8,480円 - AV Watch"
-        },
-        {
-          "id": "https://logmi.jp/tech/articles/324735",
-          "author": null,
-          "description": "Kernel/VM探検隊はカーネルや仮想マシンなどを代表とした、低レイヤーな話題でワイワイ盛り上がるマニアックな勉強会です。太田氏からは、Red Hatの「libkrun」の概要と仕組みについて発表がありました。 Red Hatが新しく作ったVirtual Machine Monitorの「libkrun」 太田航平氏：これから「10分で完全理解したかったlib...",
-          "link": "https://logmi.jp/tech/articles/324735",
-          "publishedOn": "2021-08-04T06:38:34.000Z",
-          "wordCount": 458,
-          "title": "Red Hatのエンジニアが作り始めた新しいVMM「libkrun」　コンテナに特化したミニマリストな実装とは - ログミーTech"
-        },
-        {
-          "id": "https://tech.jxpress.net/entry/2021/08/04/140249",
-          "author": null,
-          "description": "はじめまして、新卒フロントエンドエンジニアのぺいです。 JX通信社でフロントエンドの開発はReactが主流になっており、React Hooksを使った開発が欠かせません。hooksは便利な反面、適材適所使い所を理解していないと逆にパフォーマンスが悪くなってしまう場合があります。そこで今回は普段フロントエンドを書かない人...",
-          "link": "https://tech.jxpress.net/entry/2021/08/04/140249",
-          "publishedOn": "2021-08-04T05:18:45.000Z",
-          "wordCount": 577,
-          "title": "Reactのパフォーマンス改善を勉強会で開催しました - JX通信社エンジニアブログ"
-        },
-        {
-          "id": "https://engineer.crowdworks.jp/entry/aws-dms",
-          "author": null,
-          "description": "概要 こんにちは。クラウドワークス SREチームの@kangaechuです。最近好きなラジオ番組は空気階段の踊り場です。 企業にとってデータは非常に重要です。さまざまなデータを組み合わせて分析を行うことにより、ユーザをより深く知ることができ、それによりサービスやビジネスモデルを継続的に変革することが可能になりま...",
-          "link": "https://engineer.crowdworks.jp/entry/aws-dms",
-          "publishedOn": "2021-08-04T04:16:14.000Z",
-          "wordCount": 695,
-          "title": "MySQLの約30億レコードをRedshiftにDMSでニアリアルタイム同期した - クラウドワークス エンジニアブログ"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/aws-certification-soa-c02/",
-          "author": null,
-          "description": "みずかみと申します。 2021/07/27に公開されたSOA（AWS認定SysOps アドミニストレーター – アソシエイト）の新試験を受けてきました。 せっかくなので簡単ですがレポートしたいと思います。 新試験の概要について記載された公式ページは以下となります。 執筆時点においてはまだSOAの概要ページは更新されていませんでし...",
-          "link": "https://dev.classmethod.jp/articles/aws-certification-soa-c02/",
-          "publishedOn": "2021-08-04T04:13:52.000Z",
-          "wordCount": 195,
-          "title": "SOA新試験（SOA-C02）受験レポート | DevelopersIO"
-        },
-        {
-          "id": "https://diamond-rm.net/management/90339/",
-          "author": null,
-          "description": "１兆円を超える売上高を誇るアパレル企業でありながら、その中身はおろか多くのビジネスパーソンはその名前すら知らない。しかし、メーンターゲットである世界のZ世代には絶大な支持を得て、急成長するブランド。それが中国の越境EC企業、Shein(シーイン)である。同社とダイレクトコンタクトに成功。その安さを実現する...",
-          "link": "https://diamond-rm.net/management/90339/",
-          "publishedOn": "2021-08-04T04:05:46.000Z",
-          "wordCount": 756,
-          "title": "【スクープ 】1年で1兆円企業に、ECでZARAをすでに圧倒する中国 Shein（シーイン）の秘密に迫る 原材料費・関税ゼロの衝撃！ _小売・物流業界 ニュースサイト【ダイヤモンド・チェーンストアオンライン】"
-        },
-        {
-          "id": "https://gigazine.net/news/20210804-google-identity-services-apis/",
-          "author": null,
-          "description": "「Googleでサインイン(Sign in with Google)」は、いくつもパスワードを覚えておかなくても、Googleのアカウントでアプリやサービスにログインできる便利な機能です。Googleが2021年8月3日に、この「Googleでサインイン」がより簡単にできるようになる「One Tap」を発表しました。 Google Developers Blog: Launching ou...",
-          "link": "https://gigazine.net/news/20210804-google-identity-services-apis/",
-          "publishedOn": "2021-08-04T04:03:32.000Z",
-          "wordCount": 224,
-          "title": "1回タップするだけでアプリやサイトにサインインできる新機能「One Tap」をGoogleが発表 - GIGAZINE"
-        },
-        {
-          "id": "https://syucream.hatenablog.jp/entry/2021/08/04/125435",
-          "author": null,
-          "description": "表題の通りで、 2021年7月より前職の株式会社メルペイ（メルカリ）を退職して Ubie に転職しました。というわけでいわゆる転職エントリです。 TL;DR メルカリ・メルペイに 3 年 10 ヶ月在籍しました スキルや経験の幅を持たせたい、サービス初期の雰囲気をまた味わいたくて転職 Ubie に入社して SWE ほど働き出して一ヶ...",
-          "link": "https://syucream.hatenablog.jp/entry/2021/08/04/125435",
-          "publishedOn": "2021-08-04T04:01:50.000Z",
-          "wordCount": 317,
-          "title": "転職しました: メルペイ -> Ubie ~クセつよ組織を求めて~ - ブログ・ア・ラ・クレーム"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/topic/feature/1342103.html",
-          "author": null,
-          "description": "8月3日、Microsoftから「Windows 365」の提供が開始された。クラウド上にホストされたWindowsをネットワーク経由でリモート操作する仮想デスクトップサービスだ。同様のことは、小規模ならAzure上の仮想マシン＋Azure Bastion、大規模ならAzure Virtual Desktopで利用可能だった。",
-          "link": "https://pc.watch.impress.co.jp/docs/topic/feature/1342103.html",
-          "publishedOn": "2021-08-04T03:19:32.000Z",
-          "wordCount": 282,
-          "title": "【特集】クラウドPC「Windows 365」を使ってみた。導入方法や条件を解説。月額2,720円から - PC Watch"
-        },
-        {
-          "id": "https://techblog.securesky-tech.com/entry/2021/08/04/howto-create-proxied-http-request",
-          "author": null,
-          "description": "こんにちは、SSTでWeb脆弱性診断用のツール(スキャンツール)開発をしている坂本(Twitter, GitHub)です。 社内で診断ツールやプロキシを開発していることもあり、通信関連のトラブル相談を受けることがあります。 その中で「そもそも HTTP(S) Proxyを設定するとはどういうことか？」を解説する機会が何度かありましたので...",
-          "link": "https://techblog.securesky-tech.com/entry/2021/08/04/howto-create-proxied-http-request",
-          "publishedOn": "2021-08-04T03:18:27.000Z",
-          "wordCount": 674,
-          "title": "「HTTP(S) Proxyを設定する」とはどういうことか、パケットレベルで解説 - SSTエンジニアブログ"
-        },
-        {
-          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01195/072600044/",
-          "author": null,
-          "description": "ほぼ50年間、情報システムを開発する仕事を続けてきた。ユーザー企業で業務処理システムの運用まで担当したこともあればIT企業で受託開発をしたり開発支援ツールをつくったりした。起業して業務処理パッケージを開発・販売し、借金をこしらえた経験もある。フリーランスになって以降もプログラミングが不要な開発・運用...",
-          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01195/072600044/",
-          "publishedOn": "2021-08-04T02:53:37.000Z",
-          "wordCount": 395,
-          "title": "「もっと楽はできないか」、プログラマーとして50年間考え続けたこと | 日経クロステック（xTECH）"
-        },
-        {
-          "id": "https://www.jetro.go.jp/biznews/2021/08/248233b34ae2abda.html",
-          "author": null,
-          "description": "エストニア国家情報システム庁（注）は7月28日、国民IDカードに登録されている28万6,438人分（エストニアの全人口の約2割に相当）の顔写真データが、ハッカーによって不正にダウンロードされたと発表した。同庁の発表によると、容疑者は偽のデジタル証明書を使用した上で、国家情報システム庁が運営する写真転送サービス...",
-          "link": "https://www.jetro.go.jp/biznews/2021/08/248233b34ae2abda.html",
-          "publishedOn": "2021-08-04T02:20:43.000Z",
-          "wordCount": 284,
-          "title": "約30万人のIDカードの顔写真データが流出(欧州、エストニア) | ビジネス短信 - ジェトロ"
-        },
-        {
-          "id": "https://tech.smarthr.jp/entry/2021/08/03/120654",
-          "author": null,
-          "description": "こんにちは。PM（プロダクトマネージャー）のhiroponchackです。 年末調整機能を担当しています。趣味はお絵描きと虚無になることです。 2年前に私が公開した記事「スクラムをうまく回すために受け入れ基準をきちんと書く」が、現在も思ったより多くの方にご覧いただいていることがわかりました。 スクラムやアジャイル...",
-          "link": "https://tech.smarthr.jp/entry/2021/08/03/120654",
-          "publishedOn": "2021-08-04T01:21:55.000Z",
-          "wordCount": 211,
-          "title": "早くしっかりユーザに価値を届けるためのチケットの書き方 - SmartHR Tech Blog"
-        },
-        {
-          "id": "https://coliss.com/articles/build-websites/operation/css/fit-content-instead-of-the-inline-block-value.html",
-          "author": null,
-          "description": "sectionやdivやpなど、ブロック要素をボーダーで囲うと、全幅（親要素の幅）になります。そのブロック要素の中のコンテンツが少なく、ボーダーの幅をコンテンツのサイズに合わせたい場合は、どう実装していますか？ ブロック要素のままでは親要素の幅になってしまうので、通常はdisplay: inline;やdisplay: inline-block...",
-          "link": "https://coliss.com/articles/build-websites/operation/css/fit-content-instead-of-the-inline-block-value.html",
-          "publishedOn": "2021-08-04T00:37:09.000Z",
-          "wordCount": 333,
-          "title": "CSSでブロック要素の幅をコンテンツのサイズぴったりにしたい時のこれからの記述方法 | コリス"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/04/news046.html",
-          "author": null,
-          "description": "視線を追跡し入力する方法、顔の表情を読み取り入力する方法、口パク（音声発話）を認識する入力方法など、これまでにもウェアラブルデバイス向けのハンズフリー入力は、多数報告されてきた。今回は歯を使うハンズフリーの入力アプローチだ。 提案手法では、IMU（慣性計測装置）センサーとコンタクトマイクを左右の耳の...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/04/news046.html",
-          "publishedOn": "2021-08-04T00:02:21.000Z",
-          "wordCount": 143,
-          "title": "歯でジェスチャー入力　機械学習で13パターンを区別　コーネル大など「TeethTap」開発：Innovative Tech（1/2 ページ） - ITmedia NEWS"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1342078.html",
-          "author": null,
-          "description": "米Microsoftは8月2日（現地時間）、「Windows Subsystem for Linux」（WSL）が以下のコマンドでインストールできるようになったと発表した。従来よりも手順が大幅に簡略化され、セットアップの自動化も容易になっている。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1342078.html",
-          "publishedOn": "2021-08-03T23:49:15.000Z",
-          "wordCount": 227,
-          "title": "WSLがコマンド一発でインストール可能に - 窓の杜"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/serial/exceltips/1340676.html",
-          "author": null,
-          "description": "Excelでよく使う関数にIF関数がありますよね。Excelの参考書などにも、覚えるべき関数として載っていることが多いです。IF関数は、指定した条件によって表示内容を変えることができる関数で、習得していると活躍する場面は多いです。",
-          "link": "https://forest.watch.impress.co.jp/docs/serial/exceltips/1340676.html",
-          "publishedOn": "2021-08-03T22:12:08.000Z",
-          "wordCount": 114,
-          "title": "【Excel】IF関数の条件が複雑になりすぎて辛い！ エクセルで複数条件を簡単に記述できるIFS関数の使い方 - いまさら聞けないExcelの使い方講座 - 窓の杜"
-        },
-        {
-          "id": "https://fly.io/blog/the-5-hour-content-delivery-network/",
-          "author": null,
-          "description": "The 5-hour CDN Author Name Kurt Mackey Twitter @mrkurt The term \"CDN\" (\"content delivery network\") conjures Google-scale companies managing huge racks of hardware, wrangling hundreds of gigabits per second. But CDNs are just web applications. That's not how we tend to think of them, but that's al...",
-          "link": "https://fly.io/blog/the-5-hour-content-delivery-network/",
-          "publishedOn": "2021-08-03T22:06:46.000Z",
-          "wordCount": 2509,
-          "title": "The 5-hour CDN · Fly"
-        },
-        {
-          "id": "https://internet.watch.impress.co.jp/docs/column/wifi_qanda/1341365.html",
-          "author": null,
-          "description": "電波にはさまざまな周波数帯があり、それぞれの周波数帯の用途は法律によって定められています。この周波数帯のうち、Wi-Fiで利用されているのが2.4GHz帯と5GHz帯と呼ばれているものです。",
-          "link": "https://internet.watch.impress.co.jp/docs/column/wifi_qanda/1341365.html",
-          "publishedOn": "2021-08-03T21:05:17.000Z",
-          "wordCount": 98,
-          "title": "2.4GHz帯と5GHz帯は何が違う？【“Wi-Fiの困った”を解決：基本編 第7回】 - INTERNET Watch"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1342064.html",
-          "author": null,
-          "description": "久々にApple Pencilを使おうとしたら、アーッ!!!　ペン先がベタベターッ!!!　うそマジ〜なにコレ〜例のベタベタ現象発生なの〜っ？　マウスに続き、高価なデジタルペンことApple Pencilまで……。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapaapple/1342064.html",
-          "publishedOn": "2021-08-03T20:36:17.000Z",
-          "wordCount": 183,
-          "title": "Apple Pencilまでもがベタベタしてきた話 - ケータイ Watch"
-        },
-        {
-          "id": "https://fabcross.jp/news/2021/20210803_raspberrypi_machinelearningkitforlobe.html",
-          "author": null,
-          "description": "Raspberry Pi財団は2021年6月30日、Raspberry Pi活用事例として、機械学習開発キット「Microsoft Machine Learning Kit for Lobe」を紹介している。 Microsoft Machine Learning Kit for Lobeは、誰でも簡単に画像分類できる機械学習キットとして、Adafruit IndustriesとMicrosoftによって開発された。「Raspberry Pi 4...",
-          "link": "https://fabcross.jp/news/2021/20210803_raspberrypi_machinelearningkitforlobe.html",
-          "publishedOn": "2021-08-03T16:33:02.000Z",
-          "wordCount": 665,
-          "title": "Raspberry Piで画像認識AIを作る——機械学習開発キット「Microsoft Machine Learning Kit for Lobe」 | fabcross"
-        },
-        {
-          "id": "https://zenn.dev/sosukesuzuki/articles/d21d69a5914a03",
-          "author": null,
-          "description": "はじめに JavaScript において文字数を String の length で取得すると、期待した値が得られないことがある。この記事では、実際に String の length を使うことによって発生した Prettier のバグを紹介する。 前提 JavaScript の String には length というプロパティが存在する。このlengthプロパティは文字列の文字数...",
-          "link": "https://zenn.dev/sosukesuzuki/articles/d21d69a5914a03",
-          "publishedOn": "2021-08-03T16:18:08.000Z",
-          "wordCount": 164,
-          "title": "JavaScript で文字数を length で数えるのはやめようの実例"
-        },
-        {
-          "id": "https://labs.cybozu.co.jp/blog/akky/2021/08/empty-npm-package-downloaded-sub-one-million-times/",
-          "author": null,
-          "description": "– という名前の JavaScript/TypeScript パッケージについて警告を発している記事が話題となっています。 このパッケージ、中身はほとんど空で、Readme と、dev で TypeScript を動かせるようにするライブラリ群を呼ぶ箇所だけのもの。 しかし、この “-” を使っている他の npm パッケージが 50個以上あり、約一年前の公開...",
-          "link": "https://labs.cybozu.co.jp/blog/akky/2021/08/empty-npm-package-downloaded-sub-one-million-times/",
-          "publishedOn": "2021-08-03T15:16:48.000Z",
-          "wordCount": 411,
-          "title": "‘-‘ という名前の、中身が無いのに70万回ダウンロードされてる謎のnpmパッケージ – 秋元@サイボウズラボ・プログラマー・ブログ"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/03/news156.html",
-          "author": null,
-          "description": "8月6日19時発売！　Zen 3採用APU「Ryzen 7 5700G」「Ryzen 5 5600G」の実力を先行レビュー（1/3 ページ） AMDがZen 3アーキテクチャを採用するAPU（GPU統合型CPU）を8月6日19時に発売する。その実力はいかほどのものか、先行してレビューする。 AMDは8月6日19時から、デスクトップPC向けのAPU（GPU統合型CPU）「Ryzen 7 ...",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/03/news156.html",
-          "publishedOn": "2021-08-03T13:56:27.000Z",
-          "wordCount": 593,
-          "title": "8月6日19時発売！　Zen 3採用APU「Ryzen 7 5700G」「Ryzen 5 5600G」の実力を先行レビュー（1/3 ページ） - ITmedia PC USER"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/064/4064768/",
-          "author": null,
-          "description": "Zen 3世代のAPU「Ryzen 7 5700G」「Ryzen 5 5600G」はPCパーツ高騰時代の救世主なのか？ 2021年8月6日午後7時より（グローバルでは8月20日22時より）、AMDはSoecket AM4用の新APU「Ryzen 5000G」シリーズの販売を解禁する。この新APUの製品コンセプトや発売時期等についてはCOMPUTEX 2021速報記事で報じた通りだが改めて...",
-          "link": "https://ascii.jp/elem/000/004/064/4064768/",
-          "publishedOn": "2021-08-03T13:23:55.000Z",
-          "wordCount": 363,
-          "title": "ASCII.jp：Zen 3世代のAPU「Ryzen 7 5700G」「Ryzen 5 5600G」はPCパーツ高騰時代の救世主なのか？ (1/5)"
-        },
-        {
-          "id": "http://www.kaminotane.com/2021/08/03/16219/",
-          "author": null,
-          "description": "ハイファンタジーの傑作『ゲド戦記』や両性具有の世界を描いたフェミニズムSF『闇の左手』などの名作を生み出し、文学史にその名を刻んだアーシュラ・Ｋ・ル＝グウィン。そのル＝グウィンが「自作の執筆に励んでいる人たち」に向けて、小説執筆の技巧（クラフト）を簡潔にまとめた手引書『文体の舵をとれ　ル＝グウィン...",
-          "link": "http://www.kaminotane.com/2021/08/03/16219/",
-          "publishedOn": "2021-08-03T13:07:51.000Z",
-          "wordCount": 254,
-          "title": "『文体の舵をとれ　ル＝グウィンの小説教室』訳者解説 | かみのたね"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/column/hothot/1341994.html",
-          "author": null,
-          "description": "AMDは8月5日、Zen 3ベースのCPUコアを備える新世代のデスクトップ向けAPU、「Ryzen 7 5700G」と「Ryzen 5 5600G」を8月6日19時に発売する。価格はそれぞれ5万1,800円と3万6,800円だ。",
-          "link": "https://pc.watch.impress.co.jp/docs/column/hothot/1341994.html",
-          "publishedOn": "2021-08-03T13:07:42.000Z",
-          "wordCount": 859,
-          "title": "【Hothotレビュー】Zen 3コアとなり、リテール版も用意された「Ryzen 7 5700G」と「Ryzen 5 5600G」をテスト - PC Watch"
         }
       ]
     },
@@ -7448,6 +7322,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=350934",
+          "author": "Chris Coyier",
+          "description": "HTTP Caching is a Superpower — Hugh Haworth covers how the Cache-Control header is an awfully potent ingredient in web performance. I mis-read the title at first and was waiting to read about HTML caching. Hugh covers it a bit \n…\nThe post Links on Performance IV appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-performance-iv/",
+          "publishedOn": "2021-09-02T22:28:51.000Z",
+          "wordCount": 844,
+          "title": "Links on Performance IV"
+        },
+        {
+          "id": "https://css-tricks.com/?p=350723",
+          "author": "Chris Coyier",
+          "description": "Have you ever fretted that front-end web development moves so fast that if you stepped away for a while, you’d be lost coming back? Rachel Smith has:\nThe hectic pace of needing to learn one thing after the next \n…\nThe post I completely ignored the front-end development scene for 6 months. It was fine. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://rachsmith.com/i-completely-ignored-the-front-end-development-scene-for-6-months-it-was-fine/",
+          "publishedOn": "2021-09-02T22:26:36.000Z",
+          "wordCount": 599,
+          "title": "I completely ignored the front-end development scene for 6 months. It was fine."
+        },
+        {
+          "id": "https://css-tricks.com/?p=350830",
+          "author": "Chris Coyier",
+          "description": "Zach did that thing where each of his blog posts has a special URL with the design of social image card that is screenshat by a headless browser (like Puppeteer) and used as a true meta Open Graph image, meaning …\nThe post If I work really hard on my Open Graph images, people will share my blog posts. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.zachleat.com/web/automatic-opengraph/",
+          "publishedOn": "2021-09-02T14:30:55.000Z",
+          "wordCount": 1607,
+          "title": "If I work really hard on my Open Graph images, people will share my blog posts."
+        },
+        {
+          "id": "https://css-tricks.com/?p=351172",
+          "author": "Tharaka Romesh",
+          "description": "(This is a sponsored post.)\nStatic site generators are popular for their speed, security, and user experience. However, sometimes your application needs data that is not available when the site is built. React is a library for building user …\nThe post Accessing Your Data With Netlify Functions and React appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/accessing-data-netlify-functions-react/",
+          "publishedOn": "2021-09-02T00:28:22.000Z",
+          "wordCount": 3095,
+          "title": "Accessing Your Data With Netlify Functions and React"
+        },
         {
           "id": "https://css-tricks.com/?p=350752",
           "author": "Chris Coyier",
@@ -7924,33 +7834,6 @@
           "publishedOn": "2021-08-04T14:13:45.000Z",
           "wordCount": 1422,
           "title": "Using CSS Shapes for Interesting User Controls and Navigation"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345744",
-          "author": "Chris Coyier",
-          "description": "The first time cloud functions / serverless functions clicked for me was when I saw and tried Auth0’s (now defunct) Webtask. It was a little CodePen-like IDE but you didn’t really see anything aside from code and logs. The …\nThe post Serverless Functions as Proxies appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/serverless-functions-as-proxies/",
-          "publishedOn": "2021-08-03T20:23:32.000Z",
-          "wordCount": 1029,
-          "title": "Serverless Functions as Proxies"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345807",
-          "author": "Rewind",
-          "description": "Any company that uses GitHub for critical applications needs a backup that can be restored quickly when needed. Cyberattacks, human errors, or a forced push are just some of the scenarios that can result in the loss of GitHub data. …\nThe post Automatic Daily GitHub Backups, Restored in Seconds appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://srv.buysellads.com/ads/long/x/TCZHURZTTTTTTT3IJZ7NTTTTTTTVINFLKTTTTTTTADBXPYTTTTTTTIDNVJR6YWS22M4647ZVKMPW454EQMNWVWPMPABT",
-          "publishedOn": "2021-08-03T20:22:34.000Z",
-          "wordCount": 231,
-          "title": "Automatic Daily GitHub Backups, Restored in Seconds"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345154",
-          "author": "Paul Ratcliffe",
-          "description": "While most people browsing the web on a computer use a mouse, many rely on their keyboard instead. Theoretically, using a web page with the keyboard should not be a problem — press the TAB key to move the keyboard …\nThe post A Deep Dive on Skipping to Content appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-deep-dive-on-skipping-to-content/",
-          "publishedOn": "2021-08-03T14:35:48.000Z",
-          "wordCount": 2684,
-          "title": "A Deep Dive on Skipping to Content"
         }
       ]
     },
@@ -7959,6 +7842,15 @@
       "feedUrl": "https://ecmascript-daily.github.io/atom.xml",
       "siteUrl": "https://ecmascript-daily.github.io/atom.xml",
       "articles": [
+        {
+          "id": "https://ecmascript-daily.github.io/2021/09/02/tc39-meeting-july-13-16-2021-spidermonkey-javascript-webassembly-engine",
+          "author": null,
+          "description": "TC39 Meeting Notes summary @ 2021-07",
+          "link": "https://ecmascript-daily.github.io/2021/09/02/tc39-meeting-july-13-16-2021-spidermonkey-javascript-webassembly-engine",
+          "publishedOn": "2021-09-02T04:28:07.000Z",
+          "wordCount": 76,
+          "title": "TC39 meeting, July 13-16 2021 | SpiderMonkey JavaScript/WebAssembly Engine"
+        },
         {
           "id": "https://ecmascript-daily.github.io/2021/08/07/notes-meetings-2021-07-at-master-tc39-notes",
           "author": null,
@@ -7993,6 +7885,15 @@
       "feedUrl": "https://gihyo.jp/design/feed/rss2",
       "siteUrl": "https://gihyo.jp/design",
       "articles": [
+        {
+          "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202109/02",
+          "author": "アシカガコウジ",
+          "description": "ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2021年8月23日～29日の間に見つけた記事のベスト5です。",
+          "link": "https://gihyo.jp/design/clip/01/weekly-web-tech/202109/02",
+          "publishedOn": "2021-09-02T00:15:20.000Z",
+          "wordCount": 463,
+          "title": "2021年9月第1週号 1位は，効果的な会社概要ページをデザインするヒント，気になるネタは，Apple、iCloudでメール非公開とカスタムドメインを可能に ── 週刊Webテク通信"
+        },
         {
           "id": "https://gihyo.jp/design/clip/01/weekly-web-tech/202108/26",
           "author": "アシカガコウジ",
@@ -9340,60 +9241,6 @@
           "publishedOn": "2021-08-04T19:03:40.000Z",
           "wordCount": 1616,
           "title": "Advanced NgRx: Building a Reusable Feature Store"
-        },
-        {
-          "id": "https://dev.to/es404020/understanding-reactive-form-in-angular-eom",
-          "author": "es404020",
-          "description": "Angular has two distinct way of handling form one is the template driven way and the other is the reactive form .In this post I am going to show you how is easy it is to get started with reactive form by creating a simple Username and password signup page  .\nImport the reactive form module which is ReactiveFormsModule from\nimport { FormsModule, ReactiveFormsModule } from '@angular/forms';\n\nThis gives you access to all the classes required to create a reactive form in your module.\nCreate a login component by using this command on your terminal.\nng g c @component/logging \n\n\nimport the following\nimport { FormBuilder, FormGroup, Validators } from '@angular/forms';\n\nCreate a variable of type FormGroup\nform: FormGroup;\n\nConfigure your formGroup to accept both the username and password and set va…",
-          "link": "https://dev.to/es404020/understanding-reactive-form-in-angular-eom",
-          "publishedOn": "2021-08-04T08:50:09.000Z",
-          "wordCount": 928,
-          "title": "Understanding reactive form in Angular."
-        },
-        {
-          "id": "https://dev.to/danywalls/how-theme-child-components-in-angular-using-host-context-3mnh",
-          "author": "Dany Paredes",
-          "description": "When we create a component, it can be used in some places and also, his style should have a relation with his container or the context.\nTo create a relation between components, and match styles with the container or another component, we use the :host-context pseudo-selector.\nyou can read more https://angular.io/guide/component-styles#host-context\nFor example,  we have a button component, it is used in the main app or into product component, the button need to adapt the styles, for both of them.  \nIf the product component or the main app component change his colors, it needs to react to them. In short, something like:\n\nLet's build something like this using the :host-context selector.\nThe :host-context pseudo-selector help us to create a relation between components, for example the product-…",
-          "link": "https://dev.to/danywalls/how-theme-child-components-in-angular-using-host-context-3mnh",
-          "publishedOn": "2021-08-04T07:28:16.000Z",
-          "wordCount": 812,
-          "title": "How theme child components in Angular using host-context"
-        },
-        {
-          "id": "https://dev.to/ashadnasim52/angular-cli-request-deprecated-error-solution-1oam",
-          "author": "ashad nasim",
-          "description": "Try this below command\n$ npm cache verify\n\n$ npm cache clean --force\n\nand then try again to install the angular CLI\nIf you still get the error then install yarn package manager. \nInstall yarn by running this\n$  npm install -g yarn\n\nand then configure angular cli to use yarn package manager, by running this command\n$ ng config -g cli.packageManager yarn",
-          "link": "https://dev.to/ashadnasim52/angular-cli-request-deprecated-error-solution-1oam",
-          "publishedOn": "2021-08-03T17:56:50.000Z",
-          "wordCount": 429,
-          "title": "Angular CLI - request deprecated error (Solution)"
-        },
-        {
-          "id": "https://dev.to/ddev8/strongly-typed-angular-reactive-forms-569i",
-          "author": "Dan",
-          "description": "Hi! Please feel free to correct my grammar (English is not my native language) or mistakes in code. I appreciate any feedback.\nThe angular reactive form is a great tool to work with. But there is one issue that makes the experience not so smoother, let's talk about types. We can't use IDE autocomplete when try to access the form's controls property. We should always remember the correct spelling of names that we give to our controls and their value types, it's very annoying.\n\narticle by Georgi Parlakov, highly recommend you to read it. It inspired me to improve Georgi's approach.\nimport { AbstractControl, FormArray, FormGroup } from '@angular/forms';\n\n/**\n * Form.controls autocomplete with value types.\n */\nexport type FormControls<T> = {\n  [key in keyof T]: T[key] extends TForm<any> | Form…",
-          "link": "https://dev.to/ddev8/strongly-typed-angular-reactive-forms-569i",
-          "publishedOn": "2021-08-03T17:10:45.000Z",
-          "wordCount": 874,
-          "title": "Strongly typed Angular Reactive Forms"
-        },
-        {
-          "id": "https://dev.to/anirbmuk/angular-dynamic-components-with-code-splitting-43ij",
-          "author": "Anirban Mukherjee",
-          "description": "/ \n        cms-components-demo\n      \n    \nA lot of times, angular components need to be determined and displayed on the fly. A very common use-case is when the components are determined from a content-management-system (CMS). This is particularly useful when we allow the customer to control the content and layout of the page.\n\nWell we do have *ngIf for that, don't we? Depending on some CMS field value, we can use *ngIf to determine which component needs to be displayed. This is cool, but there is a major downside to this approach. The problem is, we usually have a large component library, which need to be loaded eagerly in its entirety through one or more modules. So even if only a fraction of these components may be needed by the customer, we would have to pre-load all of them, which is …",
-          "link": "https://dev.to/anirbmuk/angular-dynamic-components-with-code-splitting-43ij",
-          "publishedOn": "2021-08-03T15:53:16.000Z",
-          "wordCount": 805,
-          "title": "Angular dynamic components with code-splitting"
-        },
-        {
-          "id": "https://dev.to/muneebqadar/4-key-aspects-for-small-businesses-and-startup-making-business-apps-personified-1al3",
-          "author": "Muneeb Qadar Siddiqi",
-          "description": "Businesses look for an app that can work wonders for them but do not know how to make it exciting enough for the end-users. \nVirtually every company aspires for an app that can complement its product or service perfectly. That is why you will find millions of apps on Google Play and the App Store, but have you tried even one percent of them? Certainly not. The main reason is not their incompetence but rather the abundance of the apps.\nThere are great apps available on both Google Play and the App Store, but a person cannot download hundreds or thousands of apps on a single device. That is why most of us, on average, use 10 to 20 apps. So, what can be the secret behind the success of the most popular apps in the UAE or any other part of the world? And what can small businesses and startups …",
-          "link": "https://dev.to/muneebqadar/4-key-aspects-for-small-businesses-and-startup-making-business-apps-personified-1al3",
-          "publishedOn": "2021-08-03T13:27:18.000Z",
-          "wordCount": 1488,
-          "title": "4 Key Aspects for Small Businesses and Startup Making Business Apps Personified"
         }
       ]
     },
@@ -9572,6 +9419,15 @@
       "siteUrl": "https://coliss.com",
       "articles": [
         {
+          "id": "https://coliss.com/?p=31624",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/css/solution-when-custom-properties-do-not-work.html",
+          "publishedOn": "2021-09-02T00:36:32.000Z",
+          "wordCount": 596,
+          "title": "CSSの変数（カスタムプロパティ）が期待通りに動作しないときの解決方法"
+        },
+        {
           "id": "https://coliss.com/?p=31527",
           "author": "コリス🥦",
           "description": "...記事の続きを読む",
@@ -9741,24 +9597,6 @@
           "publishedOn": "2021-08-05T00:36:51.000Z",
           "wordCount": 415,
           "title": "Googleデベロッパーが解説、Webページに画像の遅延読み込みを使いすぎるとパフォーマンスに悪影響を与える"
-        },
-        {
-          "id": "https://coliss.com/?p=30924",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/css/fit-content-instead-of-the-inline-block-value.html",
-          "publishedOn": "2021-08-04T00:36:56.000Z",
-          "wordCount": 333,
-          "title": "CSSでブロック要素の幅をコンテンツのサイズぴったりにしたい時のこれからの記述方法"
-        },
-        {
-          "id": "https://coliss.com/?p=30938",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/powerfulm-samara-by-endeavour.html",
-          "publishedOn": "2021-08-04T00:26:46.000Z",
-          "wordCount": 291,
-          "title": "ロゴのデザインにぴったりな有料フォントが今だけ無料！疾走感のあるストロークがかっこいい -Powerfulm Samara"
         }
       ]
     },
@@ -9767,6 +9605,60 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/415de3cb1910",
+          "author": "Shubham Khatri",
+          "description": "Give a boost to your coding speed",
+          "link": "https://betterprogramming.pub/15-useful-vscode-shortcuts-to-boost-your-productivity-415de3cb1910?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-02T17:36:18.000Z",
+          "wordCount": 1361,
+          "title": "15 Useful VS Code Shortcuts to Boost Your Productivity"
+        },
+        {
+          "id": "https://medium.com/p/b17b31ee9065",
+          "author": "Oliver Spryn",
+          "description": "When changing roles means changing mindsets\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/the-virtues-of-an-unproductive-tech-lead-b17b31ee9065?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-02T15:26:32.000Z",
+          "wordCount": 1604,
+          "title": "The Virtues of an Unproductive Tech Lead"
+        },
+        {
+          "id": "https://medium.com/p/75e538b7bd0b",
+          "author": "Luca Pizzini",
+          "description": "How active contribution can make you a better developer\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/you-should-be-an-active-developer-on-stackoverflow-75e538b7bd0b?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-02T14:33:05.000Z",
+          "wordCount": 1373,
+          "title": "You Should Be an Active Developer on StackOverflow"
+        },
+        {
+          "id": "https://medium.com/p/f9e944f012a4",
+          "author": "Onur Inanc",
+          "description": "Learn the six potential optimizations to speed up your website’s performance\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/6-potential-optimizations-in-your-javascript-project-f9e944f012a4?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-02T14:03:18.000Z",
+          "wordCount": 1396,
+          "title": "6 Potential Optimizations in Your JavaScript Project"
+        },
+        {
+          "id": "https://medium.com/p/919647740876",
+          "author": "Alex Lin",
+          "description": "A framework for getting unstuck from technical problems\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/7-problem-solving-tips-for-your-software-engineering-internship-919647740876?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-02T13:03:48.000Z",
+          "wordCount": 1450,
+          "title": "7 Problem Solving Tips for Your Software Engineering Internship"
+        },
+        {
+          "id": "https://medium.com/p/2cd74206559",
+          "author": "Ashley Peacock",
+          "description": "An in-depth look at an architectural pattern that will suit the majority of small- to medium-sized companies\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/domain-partitions-how-to-find-a-healthy-balance-between-microservices-and-monoliths-2cd74206559?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-02T12:13:55.000Z",
+          "wordCount": 2464,
+          "title": "Domain Partitions: How To Find a Healthy Balance Between Microservices and Monoliths"
+        },
         {
           "id": "https://medium.com/p/9836c68789b",
           "author": "Lucas Estevão",
@@ -11647,60 +11539,6 @@
           "publishedOn": "2021-08-04T13:02:22.000Z",
           "wordCount": 1330,
           "title": "Getting Started With Cypress: Write Your First Angular Test"
-        },
-        {
-          "id": "https://medium.com/p/b9871ba09b68",
-          "author": "Josef Cruz",
-          "description": "Programmers are competitive not only in the workplace but also in life\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/7-programming-skills-that-might-be-useful-in-everyday-life-too-b9871ba09b68?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-04T12:05:51.000Z",
-          "wordCount": 1407,
-          "title": "7 Programming Skills That Might Be Useful in Everyday Life Too"
-        },
-        {
-          "id": "https://medium.com/p/28e807e74b0e",
-          "author": "Amy J. Andrews",
-          "description": "Dealing with a workload, issues with merge conflicts, and more\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/7-struggles-of-a-junior-developer-and-how-to-deal-with-them-28e807e74b0e?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-04T07:42:02.000Z",
-          "wordCount": 1121,
-          "title": "7 Struggles of a Junior Developer and How To Deal With Them"
-        },
-        {
-          "id": "https://medium.com/p/c76cc94244de",
-          "author": "Lucas Tagliani Aguiar",
-          "description": "#5 — Editing an old commit message\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/7-git-commands-that-saved-my-life-once-or-forty-two-times-c76cc94244de?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-04T07:18:48.000Z",
-          "wordCount": 1725,
-          "title": "7 Git Commands That Saved My Life Atleast Once"
-        },
-        {
-          "id": "https://medium.com/p/3db05b1de958",
-          "author": "Rakia Ben Sassi",
-          "description": "When your app becomes a CPU-sucker and a performance hog\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/web-performance-and-tensorflow-js-3db05b1de958?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-03T22:03:25.000Z",
-          "wordCount": 2190,
-          "title": "How TensorFlow.js Became a Performance Bottleneck for My App"
-        },
-        {
-          "id": "https://medium.com/p/58180a57ab58",
-          "author": "Mark Lucking",
-          "description": "A look at some different ways to link a class with a SwiftUI interface\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/7-ways-to-link-swiftui-views-to-spritekit-scene-58180a57ab58?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-03T21:02:26.000Z",
-          "wordCount": 1225,
-          "title": "7 Ways to Link SwiftUI Views to SpriteKit Scene"
-        },
-        {
-          "id": "https://medium.com/p/f44c7e4a3af8",
-          "author": "Claire D. Costa",
-          "description": "Which book would you recommend someone to read?\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/9-best-javascript-books-for-beginners-and-advanced-developers-f44c7e4a3af8?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-03T20:02:14.000Z",
-          "wordCount": 2175,
-          "title": "9 Best JavaScript Books for Beginners and Advanced Developers"
         }
       ]
     }
