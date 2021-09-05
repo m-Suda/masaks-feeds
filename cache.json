@@ -61,6 +61,177 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://threkk.medium.com/how-to-use-bookmarks-in-bash-zsh-6b8074e40774",
+          "author": null,
+          "description": "How to installHere is where the magic is. Add these 4 lines of code to your bashrc or zshrc file. if [ -d \"$HOME/.bookmarks\" ]; then export CDPATH=\".:$HOME/.bookmarks:/\" alias goto=\"cd -P\" fiAdditionally, you need to create the directory in your home folder or wherever it suits you, just remember...",
+          "link": "https://threkk.medium.com/how-to-use-bookmarks-in-bash-zsh-6b8074e40774",
+          "publishedOn": "2021-09-04T15:59:05.000Z",
+          "wordCount": 365,
+          "title": "How to use bookmarks in bash/zsh. | by threkk | Medium"
+        },
+        {
+          "id": "https://twitter.com/DaisukeHaneta/status/1433678730157719553",
+          "author": null,
+          "description": "ジュラシック・パークのみならず「行き過ぎた科学技術は害悪になる」という作品が溢れ、その後追いが溢れて価値観が画一化されてしまったのがSFの衰退の一因かと思ってる。やはり「科学技術の発達は人類を幸せにする」もちゃんと描かれてこそSF… https://t.co/PsdwvPTs0S",
+          "link": "https://twitter.com/DaisukeHaneta/status/1433678730157719553",
+          "publishedOn": "2021-09-04T15:48:02.000Z",
+          "wordCount": 196,
+          "title": "翅田大介@わたし、美少女作家になります！ on Twitter: \"ジュラシック・パークのみならず「行き過ぎた科学技術は害悪になる」という作品が溢れ、その後追いが溢れて価値観が画一化されてしまったのがSFの衰退の一因かと思ってる。やはり「科学技術の発達は人類を幸せにする」もちゃんと描かれてこそSF… https://t.co/PsdwvPTs0S\""
+        },
+        {
+          "id": "https://twitter.com/a_saitoh/status/1433995425787248640",
+          "author": null,
+          "description": "客が逃げにくいようにしてからバンバン値上げというORACLE DB商法が怖いのでOracle Cloudは使う気になれない。「複数のOracleDB利用システムがあれば、全部保守に入るか全部入らないかどっちかしか選べない」とかいろ… https://t.co/PghH9SiMx0",
+          "link": "https://twitter.com/a_saitoh/status/1433995425787248640",
+          "publishedOn": "2021-09-04T13:37:48.000Z",
+          "wordCount": 196,
+          "title": "齊藤明紀 on Twitter: \"客が逃げにくいようにしてからバンバン値上げというORACLE DB商法が怖いのでOracle Cloudは使う気になれない。「複数のOracleDB利用システムがあれば、全部保守に入るか全部入らないかどっちかしか選べない」とかいろ… https://t.co/PghH9SiMx0\""
+        },
+        {
+          "id": "https://japanese.engadget.com/apple-watch-073055548.html",
+          "author": null,
+          "description": "使い始めると、その便利さゆえ、片時も離れたくなくなるのが、Apple Watch。特にヘルスケアのために装着している人は「なるべく長時間データを取り続けること」を大切にしているでしょう。でも、Apple Watchの稼働時間は6で最大18時間。充電は約1.5時間でフルになると言われているものの、夜の充電忘れで、昼過ぎには低...",
+          "link": "https://japanese.engadget.com/apple-watch-073055548.html",
+          "publishedOn": "2021-09-04T08:00:51.000Z",
+          "wordCount": 260,
+          "title": "Apple Watchユーザーならマストバイ!　Ankerのケーブルレス充電器 - Engadget 日本版"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2021/09/windows-11-security.html",
+          "author": null,
+          "description": "自分で勝手にWindows 11をインストールすると…安全に使い続けなくなるらしい2021.09.04 14:0049,737 Florence Ion - Gizmodo US ［原文］ （ 湯木進悟 ） Image: Microsoft いきなりXP状態とか？ まさかのWindowsの新OS時代が、もう来月に迫ってきました。早々と無料でアップグレードできるモデルなども発表されており、...",
+          "link": "https://www.gizmodo.jp/2021/09/windows-11-security.html",
+          "publishedOn": "2021-09-04T07:44:12.000Z",
+          "wordCount": 104,
+          "title": "自分で勝手にWindows 11をインストールすると…安全に使い続けなくなるらしい | ギズモード・ジャパン"
+        },
+        {
+          "id": "https://iphone-mania.jp/manual/troubles-394423/",
+          "author": null,
+          "description": "iPhoneの動作が遅く、重いと感じた時には、端末内のキャッシュの削除や、iOSのバージョン更新などを行うことで、修理に出さずに自分で簡単に解決できる場合があります。",
+          "link": "https://iphone-mania.jp/manual/troubles-394423/",
+          "publishedOn": "2021-09-04T07:26:10.000Z",
+          "wordCount": 399,
+          "title": "【Tips】iPhoneが「重い」時に実践するべき9つの解決方法 - iPhone Mania"
+        },
+        {
+          "id": "https://togetter.com/li/1769426",
+          "author": null,
+          "description": "酔いどれうさぎ @love_dunkel あー、これはいいな。見え防止もだけど、ワシなで肩なのか、めっちゃ肩ヒモ落ちてホント煩わしいので、襟ぐり開いてない服にもあると嬉しい。。落ち辛い形の物を下着売り場の方に聞いてオススメを買ったりもしてて、多少落ちにくくはなるけど完全には防げないから、これはいいな。 twitter....",
+          "link": "https://togetter.com/li/1769426",
+          "publishedOn": "2021-09-04T06:00:46.000Z",
+          "wordCount": 408,
+          "title": "「このシステム襟ぐり開いている全洋服にほしい」ブラ紐がチラリもズルリもしない工夫が天才すぎる「後付けできるよ」 - Togetter"
+        },
+        {
+          "id": "https://efcl.info/2021/09/04/github-meta-repository/",
+          "author": null,
+          "description": "GitHubには username/.github というように .github リポジトリというメタファイルを置くリポジトリが作れます。 たとえば、 username/.github リポジトリに CODE_OF_CONDUCT.md ファイルを置くと、usernameのすべてのリポジトリにそのファイルが反映されます。 CODE_OF_CONDUCT.mdをおいた場合は、次のようにIssueを作...",
+          "link": "https://efcl.info/2021/09/04/github-meta-repository/",
+          "publishedOn": "2021-09-04T05:43:33.000Z",
+          "wordCount": 127,
+          "title": "user/.githubリポジトリを使い、FUNDING.ymlやCODE_OF_CONDUCT.mdなどを一括設定する | Web Scratch"
+        },
+        {
+          "id": "https://japanese.engadget.com/apple-delays-csam-icloud-detection-044030458.html",
+          "author": null,
+          "description": "アップルは8月初め、iCloudにアップロードされる写真の自動スキャン機能を含め、新たな児童虐待対策のしくみを次期iOS 15等に導入すると発表していました。が、この一連の新機能につき、アップルは3日（米現地時間）一般公開前に「さらに時間をかける」つまり延期するとの声明を出しました。 米9to5Macなど各メディアへ...",
+          "link": "https://japanese.engadget.com/apple-delays-csam-icloud-detection-044030458.html",
+          "publishedOn": "2021-09-04T04:54:47.000Z",
+          "wordCount": 215,
+          "title": "アップル、iCloud写真スキャンなど児童ポルノ対策の導入を延期 - Engadget 日本版"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-395524/",
+          "author": null,
+          "description": "Appleが独自開発しているチップはすべてメインCPUとしてArmアーキテクチャを採用しています。しかしながら、ArmアーキテクチャはArm社が開発しているものであり、使用にはライセンス料が必要です。 そんななか、Appleがオープンソースアーキテクチャでありロイヤリティフリーで利用できるRISC-Vアーキテクチャに精通した...",
+          "link": "https://iphone-mania.jp/news-395524/",
+          "publishedOn": "2021-09-04T04:35:01.000Z",
+          "wordCount": 229,
+          "title": "AppleがRISC-Vに精通した人材を募集～ArmからRISC-Vへ変更する布石？ - iPhone Mania"
+        },
+        {
+          "id": "https://applech2.com/archives/20210904-rogue-amoeba-software-exit-the-mac-app-store.html",
+          "author": null,
+          "description": "Mac用オーディオユーティリティを開発＆販売するRogue Amoeba SoftwareがMac App Storeから完全に撤退したそうです。詳細は以下から。 　Audio HijackシリーズやLoopback、 The post Mac用オーディオユーティリティを開発＆販売するRogue Amoeba SoftwareがMac App Storeから完全に撤退。 first appeared on AAPL Ch..",
+          "link": "https://applech2.com/archives/20210904-rogue-amoeba-software-exit-the-mac-app-store.html",
+          "publishedOn": "2021-09-04T03:08:05.000Z",
+          "wordCount": 251,
+          "title": "Mac用オーディオユーティリティを開発＆販売するRogue Amoeba SoftwareがMac App Storeから完全に撤退。"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/04/news035.html",
+          "author": null,
+          "description": "コア・オペレーティング・システム・グループでは、ハードウェア、ソフトウェア、アプリケーションを一つのApple体験に統合する、完全に統合されたOSの構築に取り組んでおり、ベクトル・数値計算グループは、iOS、macOS、watchOS、tvOS上で動作するさまざまな組み込みサブシステムの設計、強化、改善を行うことを使命と...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/04/news035.html",
+          "publishedOn": "2021-09-04T02:43:01.000Z",
+          "wordCount": 150,
+          "title": "Apple、RISC-Vプログラマーを募集中　Armライセンス回避の動きか - ITmedia NEWS"
+        },
+        {
+          "id": "https://japan.zdnet.com/article/35176098/",
+          "author": null,
+          "description": "Liam Tung （Special to ZDNet.com） 翻訳校正： 石橋啓一郎 2021-09-04 08:30 Linus Torvalds氏は、Linuxカーネルが誕生してから30周年を迎えたことに言及する一方で、Linux開発者にはこれからまだたくさんの仕事があると指摘した。 Linuxは、スマートフォンからクラウドコンピューティングに至るまで、あらゆることに...",
+          "link": "https://japan.zdnet.com/article/35176098/",
+          "publishedOn": "2021-09-04T02:26:02.000Z",
+          "wordCount": 430,
+          "title": "トーバルズ氏、Linuxの「次の楽しみな30年が待ち受けている」 - ZDNet Japan"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/mobile/articles/2109/04/news034.html",
+          "author": null,
+          "description": "MVNOに開放された「＋メッセージ」　それでも課題は山積、打倒LINEは遠い？：石野純也のMobile Eye（1/3 ページ） ドコモ、au、ソフトバンクの大手3キャリアが合同で提供する「＋メッセージ」が、UQ mobileとY!mobile、そしてMVNOに提供される。SMSやMMSの進化版として順調に規模を拡大しているが、課題も多い。現状の＋...",
+          "link": "https://www.itmedia.co.jp/mobile/articles/2109/04/news034.html",
+          "publishedOn": "2021-09-04T02:21:25.000Z",
+          "wordCount": 439,
+          "title": "MVNOに開放された「＋メッセージ」　それでも課題は山積、打倒LINEは遠い？：石野純也のMobile Eye（1/3 ページ） - ITmedia Mobile"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1348258.html",
+          "author": null,
+          "description": "YouTubeの最高製品責任者（Chief Product Officer）を務めるニール・モーハン（Neal Mohan）氏は9月1日、誤情報への対処に関するYouTubeの見解を、公式ブログで明らかにした。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1348258.html",
+          "publishedOn": "2021-09-03T23:27:39.000Z",
+          "wordCount": 111,
+          "title": "YouTube、「誤情報への対処」に関する見解を明らかに - ケータイ Watch"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/04/news028.html",
+          "author": null,
+          "description": "Appleは、8月に発表した児童の性的虐待対策機能のiCloudとiMessageへの追加を延期すると発表した。ユーザーやプライバシー保護団体からのフィードバックを受けての決定。当初は米国で年内追加の予定だった。 米Appleは9月3日（現地時間）、8月5日に発表した児童の性的虐待対策の実施を延期すると発表した。ユーザー、プ...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/04/news028.html",
+          "publishedOn": "2021-09-03T23:03:16.000Z",
+          "wordCount": 155,
+          "title": "Apple、児童ポルノ検知機能追加を延期　プライバシー抗議受け - ITmedia NEWS"
+        },
+        {
+          "id": "https://speakerdeck.com/takaichi00/confirm-deployment-pipeline-principle",
+          "author": null,
+          "description": "Transcript デプロイメントパイプラインの原理原則を再確認する #CICD2021 #CICD2021_B 髙市 智章 (Tomoaki Takaichi) Sep, 3, 2021 CI/CD Conference 2021 by CloudNative Days 自己紹介 @Takaichi00 tomoaki.takaichi.5 ・髙市 智章（タカイチ トモアキ） ・Java でのシステム開発 ・CI / CD ・Container / k8s ・アジ...",
+          "link": "https://speakerdeck.com/takaichi00/confirm-deployment-pipeline-principle",
+          "publishedOn": "2021-09-03T14:26:02.000Z",
+          "wordCount": 1224,
+          "title": "【CICD2021】デプロイメントパイプラインの原理原則を再確認する / Confirm Deployment Pipeline Principle - Speaker Deck"
+        },
+        {
+          "id": "https://www.wantedly.com/companies/wantedly/post_articles/340347",
+          "author": null,
+          "description": "競技プログラミングには概念を知っておかないと解きようがない、いわゆる覚えゲーのような問題が存在します。典型的な例が 10^9+7 といった素数で割った余りを求めろといったもので、普段業務で日常的に素数で割った余りを求めている人でもなければ、割り算がしたければフェルマーの小定理や拡張ユークリッドの互除法を...",
+          "link": "https://www.wantedly.com/companies/wantedly/post_articles/340347",
+          "publishedOn": "2021-09-03T13:34:35.000Z",
+          "wordCount": 2291,
+          "title": "最小共通祖先を求めるアルゴリズムの形式検証 | Wantedly Engineer Blog"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210903215430",
+          "author": null,
+          "description": "概要自分への備忘録用に書いておく。 すべてにとって共通して言えることは、「なぜ難しく感じるのか」という点と、「どう突破するのか」という点だ。 この2点に集約される。 自分がバカだから文章が難しいわけではない難しい文章を読むのは、誰にとっても難しい。 もちろん、ある人にとっては難しい文章が、別のある人に...",
+          "link": "https://anond.hatelabo.jp/20210903215430",
+          "publishedOn": "2021-09-03T13:03:29.000Z",
+          "wordCount": 142,
+          "title": "難しい文章を読むときの対策方法"
+        },
+        {
           "id": "https://pc.watch.impress.co.jp/docs/news/1348651.html",
           "author": null,
           "description": "株式会社電算システムは9月1日、Google Meet上で音声認識による字幕送信機能などを使えるようになる「こえもじ」を公開した。Google Chrome向けの拡張機能で、無料で利用できる。",
@@ -88,6 +259,15 @@
           "title": "Webデザインの種明かし、コピペできる最新HTML／CSSスニペット30個まとめ - PhotoshopVIP"
         },
         {
+          "id": "https://speakerdeck.com/toricls/what-are-your-justifications-for-the-multi-branches",
+          "author": null,
+          "description": "Transcript twitter.com/toricls 複数ブランチ運⽤は 『単⼀のコードベース』と⾔えるのか Tori Sep. 3, 2021 - Even you said “The Twelve-Factor App was outdated” - twitter.com/toricls Tori Hara / Sr. Product Developer Advocate Elastic Containers, AWS ❤ AWS Fargate, AWS App Runner, AWS Lambda toricls ✨...",
+          "link": "https://speakerdeck.com/toricls/what-are-your-justifications-for-the-multi-branches",
+          "publishedOn": "2021-09-03T10:48:14.000Z",
+          "wordCount": 925,
+          "title": "複数ブランチ運用は『単一のコードベース』と言えるのか / What are your justifications for the multi-branches? - Speaker Deck"
+        },
+        {
           "id": "https://speakerdeck.com/k0kubun/cd-conference-2021",
           "author": null,
           "description": "Transcript 数時間かかる週一リリースを 毎日何度も爆速で できるようにするまで @k0kubun / Takashi Kokubun - CI/CD Conference 2021 自己紹介 • GitHub, Twitter: @k0kubun • Treasure Data ◦ API: プラットフォーム 1年 ◦ SRE: デプロイ 1年 ◦ Backend: ストレージ 2年半 None 今日話すこと • なぜ継続的にリリース...",
@@ -95,6 +275,15 @@
           "publishedOn": "2021-09-03T09:46:45.000Z",
           "wordCount": 648,
           "title": "数時間かかる週一リリースを毎日何度も爆速でできるようにするまで / CI/CD Conference 2021 - Speaker Deck"
+        },
+        {
+          "id": "https://aws.amazon.com/jp/blogs/news/cloud-optimization-for-containers/",
+          "author": null,
+          "description": "Amazon Web Services ブログ 【開催報告】「 クラウド最適化コンテナ編 ～コンテナ x Graviton2 x スポットインスタンスによるコスト最適化～」セミナー EC2スポットインスタンススペシャリスト ソリューションアーキテクトの滝口です。2021年8月26日にオンラインで開催された「クラウド最適化コンテナ編 ～コンテナ x G...",
+          "link": "https://aws.amazon.com/jp/blogs/news/cloud-optimization-for-containers/",
+          "publishedOn": "2021-09-03T08:24:01.000Z",
+          "wordCount": 569,
+          "title": "【開催報告】「 クラウド最適化コンテナ編 ～コンテナ x Graviton2 x スポットインスタンスによるコスト最適化～」セミナー | Amazon Web Services ブログ"
         },
         {
           "id": "https://zenn.dev/lotz/articles/b0188c41d56786290897",
@@ -241,6 +430,24 @@
           "title": "ZOZO、10年分のファッションデータをオープンソース化　流行に左右されないAI研究に期待 - ITmedia NEWS"
         },
         {
+          "id": "https://www.gizmodo.jp/2021/09/windows11new.html",
+          "author": null,
+          "description": "来月速攻でWindows 11へアップグレードできる15機種が発表2021.09.02 19:0051,816 Caitlin McGarry - Gizmodo US ［原文］ （ 湯木進悟 ） Screenshot: Microsoft Surfaceユーザー歓喜？ まだまだ先の話だと思いきや、もう来月5日より、正式にWindows 11へとアップグレードできる体制が整うらしいですね。すでにInsider ...",
+          "link": "https://www.gizmodo.jp/2021/09/windows11new.html",
+          "publishedOn": "2021-09-03T01:55:06.000Z",
+          "wordCount": 134,
+          "title": "来月速攻でWindows 11へアップグレードできる15機種が発表 | ギズモード・ジャパン"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/051/4051392/",
+          "author": null,
+          "description": "KADOKAWAの「ところざわサクラタウン」内の巨大なキャンパスネットワークを構築したKADOKAWA Connectedのチームを取材した。国内でも数少ない大型複合施設のネットワーク内製化に踏み切った背景や構築の苦労、コストや納期に対するこだわりなどを聞いた。 データセンターの構成を横展開　現場で使えなければ信用しない 2...",
+          "link": "https://ascii.jp/elem/000/004/051/4051392/",
+          "publishedOn": "2021-09-03T01:02:26.000Z",
+          "wordCount": 378,
+          "title": "ASCII.jp：AS運用やWiFi構築まで徹底的に内製化したところざわサクラタウンのネットワーク (1/3)"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2109/03/news053.html",
           "author": null,
           "description": "Innovative Tech： このコーナーでは、テクノロジーの最新研究を紹介するWebメディア「Seamless」を主宰する山下裕毅氏が執筆。新規性の高い科学論文を山下氏がピックアップし、解説する。 独カールスルーエ工科大学と英ランカスター大学の研究チームが開発した「EarRumble」は、耳鳴りを発生させる筋肉収縮を利用してモ...",
@@ -277,6 +484,15 @@
           "title": "【神業!】Excleショートカットキー「Ctrl+E」が便利すぎると感動の声多数! - 関数もカンマ区切りも不要の驚きテクニック | マイナビニュース"
         },
         {
+          "id": "https://dev.classmethod.jp/articles/save-google-spreadsheet-table-as-json-to-s3/",
+          "author": null,
+          "description": "Guten Tag、伊藤です。 弊社で管理しているいくつかの AWS アカウントについて、それぞれの利用費を取得して、対象の通貨ごとに計算したいと思いました。 ということで、AWSアカウント一覧表をスプレッドシートで管理し、それをJSONファイルとしてS3に格納、Lambdaで処理してSlackのスラッシュコマンドで計算結果を出力...",
+          "link": "https://dev.classmethod.jp/articles/save-google-spreadsheet-table-as-json-to-s3/",
+          "publishedOn": "2021-09-02T18:06:54.000Z",
+          "wordCount": 845,
+          "title": "Google スプレッドシートの表をS3へJSONファイルとして保存する | DevelopersIO"
+        },
+        {
           "id": "https://blog.animereview.jp/2021ipa-zero-trust/",
           "author": null,
           "description": "シンジです。情報セキュリティの方針として参考にされることの多い「情報セキュリティ10大脅威2021」がIPAから発表されました。情報セキュリティの脅威や被害は時代背景をうつしたものが多く、パンデミックによる影響も見て取れます。そんな時代に最適解のゼロトラストアーキテクチャで、ランキングの大半がゼロトラスト...",
@@ -293,6 +509,15 @@
           "publishedOn": "2021-09-02T16:38:53.000Z",
           "wordCount": 1305,
           "title": "AI「人間は愚かだ。だから適性にあった職をこちらで用意し栄養のある食事を与え管理されている方が幸せなのだ」主人公「それは違う！」大衆「え？いや…？」 - Togetter"
+        },
+        {
+          "id": "https://qiita.com/Mine02C4/items/8114e23fb6b4148f06b8",
+          "author": null,
+          "description": "Help us understand the problem. What is going on with this article? 序 : プロセッサへの嫉妬 DRAMさん「最近みんなCPUやGPUにばかりうつつを抜かしやがって…。みんながやれRyz○nだの、FinFET ○nmだの盛り上がって、みんなが次世代プロセッサを楽しみにしている。新しいアーキテクチャやISAが出てきて話題も絶えない...",
+          "link": "https://qiita.com/Mine02C4/items/8114e23fb6b4148f06b8",
+          "publishedOn": "2021-09-02T14:42:12.000Z",
+          "wordCount": 549,
+          "title": "パソコンユーザーのためのDRAM入門 Part 1 - Qiita"
         },
         {
           "id": "https://ics.media/entry/210902/",
@@ -374,6 +599,15 @@
           "publishedOn": "2021-09-02T10:25:10.000Z",
           "wordCount": 420,
           "title": "ついに飛行する二足歩行ロボットが誕生！ - ナゾロジー"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/news/1348308.html",
+          "author": null,
+          "description": "米Microsoftは8月31日（現地時間）、「WebView2」コントロールのアップデートを発表した。「WebView2」は「Microsoft Edge」をWebコンテンツを表示するための部品としてWindowsアプリで利用できるようにしたもの。Win32 C/C++だけでなく、.NETでも利用できる。",
+          "link": "https://forest.watch.impress.co.jp/docs/news/1348308.html",
+          "publishedOn": "2021-09-02T10:23:38.000Z",
+          "wordCount": 179,
+          "title": "Microsoft、「WebView2」ランタイムをWindows 11に同梱 ～古い環境へのバックポートも進める - 窓の杜"
         },
         {
           "id": "https://forest.watch.impress.co.jp/docs/news/1348291.html",
@@ -500,6 +734,15 @@
           "publishedOn": "2021-09-01T23:28:42.000Z",
           "wordCount": 522,
           "title": "ラーニング・パターン・インタビュー : AWS の同僚に入社してからの学習スタイルを聞いてみた - 変化を求めるデベロッパーを応援するウェブマガジン | AWS"
+        },
+        {
+          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2109/02/news015.html",
+          "author": null,
+          "description": "「Microsoft Excel（エクセル）」で作業を行っていると、バックアップとしてブックを別のファイルに保存したり、回復処理などでブックファイルが複数になってしまったりすることがある。すると、似たようなシートができてしまい、それが同じかどうかを比較したくなる。Tech IIPS「【Excel】もう眉間にシワはよらない　2...",
+          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2109/02/news015.html",
+          "publishedOn": "2021-09-01T23:19:51.000Z",
+          "wordCount": 229,
+          "title": "【Excel】そっくりなExcelブックを簡単比較：Spreadsheet Compareアプリの使い方：Tech TIPS - ＠IT"
         },
         {
           "id": "https://internet.watch.impress.co.jp/docs/column/chizu3/1348046.html",
@@ -3724,6 +3967,15 @@
           "title": "ネトフリが iPhone / iPadの空間オーディオ対応。AirPods Pro / Maxで別次元の臨場感 - Engadget 日本版"
         },
         {
+          "id": "https://amoka.fanbox.cc/posts/2623318",
+          "author": null,
+          "description": "「とにかく『デカい名前』にしよう。」 \"Virtual Reality Music Festival\"というVR界全体を巻き込むかのような無駄にデカい名前をつけるところからこのフェスの企画はスタートしました。 この記事を開いてくださった皆様、こんにちは。 VRMF主催、企画、運用統括を担当したAMOKAのもいさんです。 ＜VRMFで私はこんなこと...",
+          "link": "https://amoka.fanbox.cc/posts/2623318",
+          "publishedOn": "2021-08-19T14:34:29.000Z",
+          "wordCount": 3,
+          "title": "【 #VRMF 】個人Vが音楽フェスを開催して同接1,000人集めた話（無料公開）｜AMOKA｜pixivFANBOX"
+        },
+        {
           "id": "https://efcl.info/2021/08/19/secretlint-webextension/",
           "author": null,
           "description": "SecretlintというAPIトークンなどの機密情報がファイル内に含まれているかをチェックできるツールを書いています。 Secretlintはコマンドラインツールとして動くので、主にCIやGitのpre-commit hookを利用して、リポジトリに機密情報が入るのを防止できます。 SecretlintでAPIトークンや秘密鍵などのコミットを防止する ...",
@@ -6881,384 +7133,6 @@
           "publishedOn": "2021-08-06T13:08:44.000Z",
           "wordCount": 83,
           "title": "近代水道写真館 - 東京都水道歴史館デジタルアーカイブシステム"
-        },
-        {
-          "id": "https://note.com/japan_d2/n/n9a1324d0c05a",
-          "author": null,
-          "description": "なぜ日本語UIキットを公開するのか？ デザインチームの研究活動のひとつとして、体験設計やUIデザインの品質を高めたり、デザインチーム内の協働を円滑に行うために、汎用的なデザインテンプレートやデザインアセットを作成し、体験デザインプロセスの仕組み化と共有を行っています。 UIデザインにおいても、Figma Commu...",
-          "link": "https://note.com/japan_d2/n/n9a1324d0c05a",
-          "publishedOn": "2021-08-06T11:41:08.000Z",
-          "wordCount": 168,
-          "title": "モバイルアプリ日本語UIキットの公開｜Japan Digital Design, Inc.｜note"
-        },
-        {
-          "id": "https://idmlab.eidentity.jp/2021/08/linefido2oss.html",
-          "author": null,
-          "description": "こんにちは、富士榮です。 もうすでに記憶の彼方ですがLINEさんは過去にFIDO2サーバーをOSSで公開する！と宣言していました。それが遂に公開されました！素晴らしい！ ということでとりあえず動かしてみました。（まだ中身は全然みてません、単に動かしただけです） LINE Security R&DチームがFIDO2認証標準を実装したFI...",
-          "link": "https://idmlab.eidentity.jp/2021/08/linefido2oss.html",
-          "publishedOn": "2021-08-06T11:37:47.000Z",
-          "wordCount": 1293,
-          "title": "IdM実験室: LINEがFIDO2サーバーをOSSで公開したので触ってみた"
-        },
-        {
-          "id": "https://iphone-mania.jp/news-387736/",
-          "author": null,
-          "description": "巨大テック企業は一国の国内総生産（GDP）を超えるほどの収益を上げているともいわれていますが、1秒あたりではどれくらいの収益額になるのでしょうか？カナダの番組制作会社BNN Bloombergの朝の番組「The Open」のキャスターを務めるジョン・アーリックマン氏が投稿した収益早見表が話題になっています。 Appleは1秒あ...",
-          "link": "https://iphone-mania.jp/news-387736/",
-          "publishedOn": "2021-08-06T11:26:55.000Z",
-          "wordCount": 261,
-          "title": "Appleは毎秒115万円の収益を上げている？テック企業の収益早見表が話題に - iPhone Mania"
-        },
-        {
-          "id": "https://av.watch.impress.co.jp/docs/topic/special/1337338.html",
-          "author": null,
-          "description": "家で過ごす時間が多くなった事で、「オーディオをはじめてみよう!」「小さくても音の良いスピーカーを買ってみよう」と考えている人も多いだろう。だが、多くのスピーカーを聴き比べに出かけるのも大変な昨今。そこで、“買いやすい値段”かつ注目のブックシェルフスピーカー5台を用意。オーディオ評論家の三浦孝仁氏と、編集部の山崎で、その実力をじっくり聴き比べてみた。",
-          "link": "https://av.watch.impress.co.jp/docs/topic/special/1337338.html",
-          "publishedOn": "2021-08-06T11:10:17.000Z",
-          "wordCount": 317,
-          "title": "オーディオ入門に最適！ 注目小型スピーカー5台を聴き比べる - AV Watch[Sponsored]"
-        },
-        {
-          "id": "https://www.td-media.net/interview/what-is-ui-ux-vol-3/",
-          "author": null,
-          "description": "デザインの現場でUI/UXを考える人々とお話ししながら、UI/UXとは何か、その輪郭をとらえていこうという当連載。今回は「UXならこの人！」と熱い推薦を受け、伊野亘輝（いの・のりてる）さんにインタビュー。レシピ投稿サービスのクックパッドでiPhoneアプリのフルリニューアルや新規事業を手がけ、現在はROLLCAKE Inc.の...",
-          "link": "https://www.td-media.net/interview/what-is-ui-ux-vol-3/",
-          "publishedOn": "2021-08-06T10:56:05.000Z",
-          "wordCount": 232,
-          "title": "結局のところ、UI/UXって何ですか？vol.3 ROLLCAKE社のCXO、伊野亘輝さんに聞いてみた | TD"
-        },
-        {
-          "id": "https://www.moguravr.com/future-tech-meetup-7-report/",
-          "author": null,
-          "description": "昨今盛り上がりを見せているXRやメタバース、NFT（Non-Fungible Token：非代替性トークン）などの最新技術。バーチャル空間を主体とするこれらの技術には、プレイヤーやユーザーが自身を表現するための「アバター」が不可欠です。 ブレイクポイント株式会社と株式会社Moguraが2021年7月14日に共催したウェビナー「Future...",
-          "link": "https://www.moguravr.com/future-tech-meetup-7-report/",
-          "publishedOn": "2021-08-06T10:40:19.000Z",
-          "wordCount": 337,
-          "title": "「アバター」はどこから来てどこへ行くのか 最前線のプレイヤーが語る文化・表現・ビジネス | Mogura VR"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210806/k00/00m/040/365000c",
-          "author": null,
-          "description": "警視庁は6日、運転免許関連の約26万人分のデータを削除したなどとして、情報管理課の男性主事（33）を懲戒免職にし、電子計算機損壊等業務妨害などの疑いで書類送検した。同庁によると、業務ミスを上司に注意されたことがきっかけで「日ごろのストレスが爆発し、上司を困らせようと思った」と話しているという。",
-          "link": "https://mainichi.jp/articles/20210806/k00/00m/040/365000c",
-          "publishedOn": "2021-08-06T10:24:17.000Z",
-          "wordCount": 465,
-          "title": "警視庁職員、運転免許データ26万人分削除「上司困らせようと」 | 毎日新聞"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1342881.html",
-          "author": null,
-          "description": "米Microsoftは8月5日（現地時間）、コードエディター「Visual Studio Code」の2021年7月アップデート（v1.59）を正式リリースした。今月のリリースでは、拡張機能ビューが改善。サイドパネルのサイズを変更したとき、幅に応じてアイコンの大きさが変わるレスポンシブデザインが導入されたほか、マウスカーソルをホバーさせることで詳細な説明を閲覧できるようになるなど、さまざまな機能強化が施されている。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1342881.html",
-          "publishedOn": "2021-08-06T09:37:20.000Z",
-          "wordCount": 138,
-          "title": "「Visual Studio Code」に内蔵サーバーでWebアプリをプレビューできる拡張機能が登場 - 窓の杜"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1342919.html",
-          "author": null,
-          "description": "米Microsoftは8月5日（現地時間）、Windows/Linux向けARM64版「Java 11」「Java 16」の正式公開を発表した。さらにApple M1チップのMac向け（AArch64）にも「Java 16」バイナリが一般提供される。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1342919.html",
-          "publishedOn": "2021-08-06T09:31:59.000Z",
-          "wordCount": 155,
-          "title": "Microsoft、Apple M1向け「Java 16」を一般公開 ～ARM64版「Java 11」「Java 16」も - 窓の杜"
-        },
-        {
-          "id": "https://bookmark.hatenastaff.com/entry/2021/08/06/180000",
-          "author": null,
-          "description": "はてなブックマークでは、サービスの出発点である興味と発見を軸に、よい“作品”を見つけてくれた「ブックマークユーザー」を表彰するはてなインターネット文学賞「作品発掘部門」を8月31日まで開催中です。 bookmark.hatenastaff.com 最新の作品から懐かしの名作まで、幅広く見つけていただきありがとうございます。 発...",
-          "link": "https://bookmark.hatenastaff.com/entry/2021/08/06/180000",
-          "publishedOn": "2021-08-06T09:06:09.000Z",
-          "wordCount": 93,
-          "title": "夏休みに作品を見つけて、グリーンスターをもらおう！はてなインターネット文学賞「作品発掘部門」参加は8/31まで - はてなブックマーク開発ブログ"
-        },
-        {
-          "id": "https://nazology.net/archives/94197",
-          "author": null,
-          "description": "Credit:Canva . ナゾロジー編集部 全ての画像を見る 個人の持つiPhoneに対してスキャンがはじまります。 今週の木曜日にAppleは、米国内の個人のiPhoneに記録されている全ての画像データに対して、常に監視を行うシステムを導入すると発表しました。 目的は児童虐待画像（児童ポルノ）の拡散を防止するためとのこと。 シ...",
-          "link": "https://nazology.net/archives/94197",
-          "publishedOn": "2021-08-06T08:45:57.000Z",
-          "wordCount": 378,
-          "title": "AppleがiPhone内の画像から勝手に児童ポルノを通報すると発表！今年中に米国で開始 - ナゾロジー"
-        },
-        {
-          "id": "https://zenn.dev/mizchi/articles/no-traspiled-typescript",
-          "author": null,
-          "description": "主張 現代では、 npm に publish するものを除けば TypeScript をコンパイルして配布する必要はほぼないと考えています。 TypeScript のコンパイルをしない環境、例えば deno や rome を使うと、コンパイルをするというステップが省くことで開発体験が大きく向上する、という肌感があり、ローカル環境ならこのメリットを...",
-          "link": "https://zenn.dev/mizchi/articles/no-traspiled-typescript",
-          "publishedOn": "2021-08-06T08:29:00.000Z",
-          "wordCount": 191,
-          "title": "内部モジュールでは TypeScript をコンパイルせずに配る"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1342874.html",
-          "author": null,
-          "description": "米Microsoftは5月26日（現地時間）、Windows版「OneNote」アプリを今後12カ月かけてアップデートしていくと発表した。ビジュアルの刷新、最新のペン・インク技術、柔軟にカスタマイズできる新しいナビゲーションUIレイアウトオプションなどが導入されるという。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1342874.html",
-          "publishedOn": "2021-08-06T07:56:20.000Z",
-          "wordCount": 129,
-          "title": "Windows向け「OneNote」アプリは、Win32版に一本化 ～今後12カ月かけて強化へ - 窓の杜"
-        },
-        {
-          "id": "https://tech.pepabo.com/2021/08/06/study-meetings-in-pepabo/",
-          "author": null,
-          "description": "はじめに @june29 と申します。minne事業部のシニアエンジニアリングリードを担当しています。 この夏、エンジニア #採用目的フェス を開催します!! - ペパボテックブログ さて、上記の記事の通りペパボは「#採用目的フェス」を開催しておりまして、とにかくエンジニアを採用したすぎて穏やかじゃない気持ちでこの夏を過...",
-          "link": "https://tech.pepabo.com/2021/08/06/study-meetings-in-pepabo/",
-          "publishedOn": "2021-08-06T07:51:42.000Z",
-          "wordCount": 407,
-          "title": "社内で開催されている勉強会を紹介します 2021夏 - ペパボテックブログ"
-        },
-        {
-          "id": "https://gigazine.net/news/20210806-microsoft-edge-super-duper-secure-mode/",
-          "author": null,
-          "description": "ウェブブラウザでセキュリティ上の課題の1つとなっているのが、Javascriptの特定タスク高速化のためのテクノロジー「実行時コンパイラ(JITコンパイラ)」を含むJavascriptエンジン関連です。Microsoftがこの点に対応すべく、JITを無効化する「Super Duper Secure Mode」をEdgeのCanary・Dev・Betaチャンネルに追加しまし...",
-          "link": "https://gigazine.net/news/20210806-microsoft-edge-super-duper-secure-mode/",
-          "publishedOn": "2021-08-06T07:17:55.000Z",
-          "wordCount": 197,
-          "title": "MicrosoftがEdgeでJITを無効化し安全なブラウジングができる「Super Duper Secure Mode」をテスト - GIGAZINE"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/news/1342849.html",
-          "author": null,
-          "description": "米Microsoftは8月4日（現地時間）、「Microsoft Edge」の新しいセキュリティ機能「Super Duper Secure Mode」（意訳：めっちゃすげえセキュリティモード）を発表した。まだ実験的な段階で、名称も公式なものではないが、パフォーマンスよりもセキュリティを重要視するユーザーにとっては気になる存在になりそうだ。",
-          "link": "https://forest.watch.impress.co.jp/docs/news/1342849.html",
-          "publishedOn": "2021-08-06T06:51:22.000Z",
-          "wordCount": 161,
-          "title": "JITをやめてみる ～Microsoft、「Edge」で「めっちゃすげえセキュリティモード」をテスト - 窓の杜"
-        },
-        {
-          "id": "https://logmi.jp/tech/articles/324756",
-          "author": null,
-          "description": "事業フェーズや課題によって評価制度は変わっていく 佐藤将高氏（以下、佐藤）：松本さん、LayerXではどういう評価の仕方をされているんですか。 松本勇気氏（以下、松本）：LayerXは、まさにこれから運用していこうみたいなフェーズになってるんですよ。これまで評価っていうものを実はしていなかったんですよね。小さ...",
-          "link": "https://logmi.jp/tech/articles/324756",
-          "publishedOn": "2021-08-06T06:02:46.000Z",
-          "wordCount": 599,
-          "title": "CTOを目指すなら意志決定に文句を言わずに全力でコミット　BuySellとLayerXが新卒エンジニアに期待すること - ログミーTech"
-        },
-        {
-          "id": "https://japan.zdnet.com/article/35174901/",
-          "author": null,
-          "description": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Cisco SecureのリサーチエンジニアEdmund Brumaghin氏は「Black Hat USA 2021」で、高い収益を得ようとする「big game hunting」（大物狩り）と呼ばれるトレンドの下、ランサム...",
-          "link": "https://japan.zdnet.com/article/35174901/",
-          "publishedOn": "2021-08-06T05:46:17.000Z",
-          "wordCount": 441,
-          "title": "ランサムウェア攻撃で「二重脅迫」や「大物狩り」の手法、研究者が注意喚起--Black Hat - ZDNet Japan"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/news/1342713.html",
-          "author": null,
-          "description": "NTTドコモは、8月下旬に提供開始予定の「home 5G」に対応するホームルーター「HR01」の事前予約を8月12日10時より受付する。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/news/1342713.html",
-          "publishedOn": "2021-08-06T05:41:35.000Z",
-          "wordCount": 100,
-          "title": "ドコモ、工事不要で容量無制限「home 5G」、事前予約で3000ポイント還元 - ケータイ Watch"
-        },
-        {
-          "id": "https://akiba-pc.watch.impress.co.jp/docs/sp/1342617.html",
-          "author": null,
-          "description": "高性能なM.2 SSDは発熱も大きいため、動作には放熱用のヒートシンクを必要とするものが多いのだが、SamsungのPCIe 4.0 SSDである「980 PRO」は、先進的な半導体プロセスで製造されたチップを採用することで、ヒートシンクの無い環境でも7GB/s超の転送速度を実現している。",
-          "link": "https://akiba-pc.watch.impress.co.jp/docs/sp/1342617.html",
-          "publishedOn": "2021-08-06T05:21:21.000Z",
-          "wordCount": 219,
-          "title": "SSDが効率的に冷えるセパレートヒートシンク、PCIe 4.0 SSDの温度が20℃も低下！ - AKIBA PC Hotline!"
-        },
-        {
-          "id": "https://forbesjapan.com/articles/detail/42723",
-          "author": null,
-          "description": "アップルは、iPhone内に保存された児童の性的虐待の画像を発見するための仕組みを、米国において導入する。ロイターの8月6日の記事によると、アップルは人々がiCloudにアップロードする前の写真をデータベースと照合し、問題がある画像を検出するという。 ここで用いられるソフトウェアは「neuralMatch（ニューラルマッ...",
-          "link": "https://forbesjapan.com/articles/detail/42723",
-          "publishedOn": "2021-08-06T05:09:18.000Z",
-          "wordCount": 164,
-          "title": "アップルがiPhone内の児童ポルノ画像を検出へ、米国で開始 | Forbes JAPAN（フォーブス ジャパン）"
-        },
-        {
-          "id": "https://japanese.engadget.com/apple-expanded-protections-for-children-043013628.html",
-          "author": null,
-          "description": "アップル、児童虐待対策をiPhoneやMacに導入。iCloudに保存される写真を自動スキャン、当局に通報も アップルは5日（米現地時間）、iCloudやiMessageなどに児童の性的虐待（Child Sexual Abuse Material/CSAM）対策を導入すると発表しました。その中でも注目を集めているのが、iPhoneやiPad、MacでiCloudにアップロード...",
-          "link": "https://japanese.engadget.com/apple-expanded-protections-for-children-043013628.html",
-          "publishedOn": "2021-08-06T05:00:53.000Z",
-          "wordCount": 229,
-          "title": "アップル、児童虐待対策をiPhoneやMacに導入。iCloudに保存される写真を自動スキャン、当局に通報も - Engadget 日本版"
-        },
-        {
-          "id": "https://zenn.dev/seya/articles/eb03a550b7f19b",
-          "author": null,
-          "description": "というのを使っていて思ったのでレポを書いていきます。 mabl とは - 基本的な機能 ざっくり言うと E2E テストをお手軽にメンテできるツールです。 こんな感じでポチポチ画面を操作していくと、それで実行したアクション(ボタンやリンクをクリックするなど)を自動で記録してくれて、E2E のテストを作成することが出来ま...",
-          "link": "https://zenn.dev/seya/articles/eb03a550b7f19b",
-          "publishedOn": "2021-08-06T04:51:50.000Z",
-          "wordCount": 121,
-          "title": "ローコードテスト自動化ツールの mabl がすごい"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/06/news098.html",
-          "author": null,
-          "description": "村田製作所、再委託先が7.2万件の情報を不正持ち出し　IBM中国法人の社員が個人用クラウドにアップロード 村田製作所が日本アイ・ビー・エムに委託した会計システムの更新作業中、再委託先の中国法人の社員が、約7万2000件の情報を不正に取得していたことが判明。無断でデータをダウンロードし、中国国内のクラウド上に...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/06/news098.html",
-          "publishedOn": "2021-08-06T04:22:37.000Z",
-          "wordCount": 143,
-          "title": "村田製作所、再委託先が7.2万件の情報を不正持ち出し　IBM中国法人の社員が個人用クラウドにアップロード - ITmedia NEWS"
-        },
-        {
-          "id": "https://ledge.ai/kyotouniv-datasciencecourse2021/",
-          "author": null,
-          "description": "※この記事はデータサイエンス専門メディア「Da-nce」からの転載です 京都大学は8月2日、「京都大学データサイエンス講座」と題したオンライン講座の受講生を募集開始した。「文系のための統計入門講座～統計検定®3級を目指して～」「データ分析に役立つ統計基礎講座 ～統計分析ソフトウェアR活用を目指して～」の2講座だ...",
-          "link": "https://ledge.ai/kyotouniv-datasciencecourse2021/",
-          "publishedOn": "2021-08-06T04:12:26.000Z",
-          "wordCount": 169,
-          "title": "京都大学、データサイエンス講座のオンライン受講者募集を開始 | Ledge.ai"
-        },
-        {
-          "id": "https://japanese.engadget.com/apple-promotes-rip-off-apps-030042293.html",
-          "author": null,
-          "description": "アップルはApp Storeがユーザーの安全を守るために重要な役割を果たしていると主張していますが、特集にて複数の詐欺的アプリを推薦してしまっていたと報じられています。 iOSアプリ開発者Beau Nouvelle氏の報告によると、オーストラリアのApp Storeでのアプリ特集「Slime relaxations」（スライムを扱ったリラックス系...",
-          "link": "https://japanese.engadget.com/apple-promotes-rip-off-apps-030042293.html",
-          "publishedOn": "2021-08-06T03:55:14.000Z",
-          "wordCount": 280,
-          "title": "アップルがうっかり詐欺的アプリを宣伝、一部開発者の怒りを買う - Engadget 日本版"
-        },
-        {
-          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2108/06/news030.html",
-          "author": null,
-          "description": "VS CodeでJupyterしてみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） VS CodeでJupyter Notebookを使うための準備をして、ノートブックを作成したり、ノートブックを操作したりする方法を紹介します。 連載目次 Visual Studio Code（以下、VS Code）にPython拡張機能をインストールすると、同時にJupyter...",
-          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2108/06/news030.html",
-          "publishedOn": "2021-08-06T03:10:26.000Z",
-          "wordCount": 257,
-          "title": "VS CodeでJupyterしてみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT"
-        },
-        {
-          "id": "https://www.atmarkit.co.jp/ait/articles/2108/06/news030.html",
-          "author": null,
-          "description": "VS CodeでJupyterしてみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） VS CodeでJupyter Notebookを使うための準備をして、ノートブックを作成したり、ノートブックを操作したりする方法を紹介します。 連載目次 Visual Studio Code（以下、VS Code）にPython拡張機能をインストールすると、同時にJupyter...",
-          "link": "https://www.atmarkit.co.jp/ait/articles/2108/06/news030.html",
-          "publishedOn": "2021-08-06T03:10:26.000Z",
-          "wordCount": 257,
-          "title": "VS CodeでJupyterしてみよう：Visual Studio Codeで快適Pythonライフ（1/2 ページ） - ＠IT"
-        },
-        {
-          "id": "https://atmarkit.itmedia.co.jp/ait/articles/2108/06/news050.html",
-          "author": null,
-          "description": "サイバーセキュリティツールベンダーのPortSwiggerは2021年8月4日（米国時間）、セキュリティカンファレンス「Black Hat USA 2021」（2021年7月31日～8月5日、米ラスベガスで開催）で公開されたサイバーセキュリティ対策用のツールをブログ記事で紹介した。 公開れたのはインターネットを間接的に「grep」してWeb脆弱（...",
-          "link": "https://atmarkit.itmedia.co.jp/ait/articles/2108/06/news050.html",
-          "publishedOn": "2021-08-06T03:01:41.000Z",
-          "wordCount": 179,
-          "title": "Webスケールの脆弱性調査が可能なオープンソースツール「WARCannon」が公開：Black Hat USA 2021 - ＠IT"
-        },
-        {
-          "id": "https://www.ipa.go.jp/ikc/reports/learning_vol-3.html",
-          "author": null,
-          "description": "学び続けている実践者の方からお話を伺いました。 ご自身の組織や個人としての学びのご参考になれば幸いです。 岩手県釜石市出身。株式会社翔泳社 取締役。日本最大級のITエンジニアイベント「Developers Summit （通称：デブサミ）」を、2003年の第一回より10年以上コーディネートし、異種の技術領域に携わるエンジニア...",
-          "link": "https://www.ipa.go.jp/ikc/reports/learning_vol-3.html",
-          "publishedOn": "2021-08-06T02:50:32.000Z",
-          "wordCount": 80,
-          "title": "学びのススメ vol.3：IPA 独立行政法人 情報処理推進機構"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/06/news072.html",
-          "author": null,
-          "description": "ペンライトを振るとアイドルの衣装が光り、動きが持つ手に伝わる　ライブでアイドルと身体的に同期する手法、埼玉大が開発：Innovative Tech（1/3 ページ）",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/06/news072.html",
-          "publishedOn": "2021-08-06T02:33:08.000Z",
-          "wordCount": 149,
-          "title": "ペンライトを振るとアイドルの衣装が光り、動きが持つ手に伝わる　ライブでアイドルと身体的に同期する手法、埼玉大が開発：Innovative Tech（1/3 ページ） - ITmedia NEWS"
-        },
-        {
-          "id": "https://ascii.jp/elem/000/004/064/4064081/",
-          "author": null,
-          "description": "2021年6月16日、愛媛県松山市のWstudioREDにて「kintone hive matsuyama」が開催された。kintone hive（キントーンハイブ）は、kintoneを業務で活用しているユーザーがノウハウや経験を共有するイベントだ。全国6ヵ所で開催され、その優勝者がサイボウズの総合イベント「Cybozu Days」で開催される「kintone AWARD」に出...",
-          "link": "https://ascii.jp/elem/000/004/064/4064081/",
-          "publishedOn": "2021-08-06T02:28:48.000Z",
-          "wordCount": 401,
-          "title": "ASCII.jp：kintoneで受付業務の業務改善とペーパーレス化を実現！　愛媛の不動産会社が始めた不動産DX"
-        },
-        {
-          "id": "https://nulab.com/ja/blog/nulab/git-team-e2e-test-automation-with-autify/",
-          "author": null,
-          "description": "こんにちは。BacklogのGit機能の開発を行っているテリーです。 今回はGitチーム（後述する僕の所属するチーム）でAutifyによるリグレッションテストの自動化を進めてみて感じたメリットと工夫したところ、苦戦したところを紹介したいと思います。 目次 スモールチームの規模感とテストの現状 BacklogのGitチーム 長らくB...",
-          "link": "https://nulab.com/ja/blog/nulab/git-team-e2e-test-automation-with-autify/",
-          "publishedOn": "2021-08-06T02:24:28.000Z",
-          "wordCount": 241,
-          "title": "スモールチームにおけるAutifyを用いた効率的なE2Eテストの自動化 | 株式会社ヌーラボ(Nulab inc.)"
-        },
-        {
-          "id": "https://www.praha-inc.com/lab/posts/testability",
-          "author": null,
-          "description": "主にWEB・ITエンジニア向けに設計アーキテクチャ、開発手法、テストなどの分野の技術記事を掲載した情報メディアです。",
-          "link": "https://www.praha-inc.com/lab/posts/testability",
-          "publishedOn": "2021-08-06T02:18:16.000Z",
-          "wordCount": 10,
-          "title": "優れたテスト容易性を実現するためのポイント - PrAha ENGINEER LAB"
-        },
-        {
-          "id": "https://cloud.watch.impress.co.jp/docs/news/1342518.html",
-          "author": null,
-          "description": "東日本電信電話株式会社（NTT東日本）と独立行政法人 情報処理推進機構（IPA）は5日、シンクライアント型VPNを活用した「シン・テレワークシステム」において、Webブラウザからの接続可能とする「HTML5版」を提供すると発表した。また、無償で利用可能な実証実験期間を2022年3月31日まで延長する。",
-          "link": "https://cloud.watch.impress.co.jp/docs/news/1342518.html",
-          "publishedOn": "2021-08-06T01:41:24.000Z",
-          "wordCount": 81,
-          "title": "NTT東日本とIPAの「シン・テレワークシステム」、MacやChromebookからの接続を可能にするHTML5版 - クラウド Watch"
-        },
-        {
-          "id": "https://coliss.com/articles/book-review/isbn-9784802613231.html",
-          "author": null,
-          "description": "Webページに動きやアニメーションを加えたい、毎回検索で探している、実装の手順を解説してほしい、そんな時にすぐに役立つコピペで利用でき実装方法もカスタマイズもていねいで分かりやすい解説書を紹介します。 動きやアニメーションのコードはサポートサイトから最新版がダウンロードでき、要素表示、背景の動き、エ...",
-          "link": "https://coliss.com/articles/book-review/isbn-9784802613231.html",
-          "publishedOn": "2021-08-06T01:02:25.000Z",
-          "wordCount": 478,
-          "title": "Web制作者は1冊持っておくとかなり便利！UIに適したさまざまなアニメーションの実装方法が分かる解説書 -動くWebデザイン アイディア帳 実践編 | コリス"
-        },
-        {
-          "id": "https://kumagi.hatenablog.com/entry/kodate-katta",
-          "author": null,
-          "description": "買った戸建てに付けた表札、住所はぼかした プロローグ 新型コロナが世間を騒がせ始めて以来ずっと在宅勤務をしている。 転職に伴って会社近くに引っ越したので通勤のドアtoドアで30分台を叩き出していた好立地はその活躍の機会をすっかり失った一方で、妥協した40平米の部屋の狭さと1LDK+Sの間取りが巣ごもり子育て核家...",
-          "link": "https://kumagi.hatenablog.com/entry/kodate-katta",
-          "publishedOn": "2021-08-06T00:08:04.000Z",
-          "wordCount": 156,
-          "title": "ソフトウェアエンジニア、建売を買う - Software Transactional Memo"
-        },
-        {
-          "id": "https://piyolog.hatenadiary.jp/entry/2021/08/06/063000",
-          "author": null,
-          "description": "2021年7月28日、エストニア国家情報システム庁（RIA）、警察・国境警備局は国が運営するシステムから顔写真データの違法なダウンロードが行われたことを公表しました。警察は既に容疑者を摘発しており既に刑事手続きに入っていることも併せて公表されています。ここでは関連する情報をまとめます。 顔写真流出による発行...",
-          "link": "https://piyolog.hatenadiary.jp/entry/2021/08/06/063000",
-          "publishedOn": "2021-08-05T21:38:55.000Z",
-          "wordCount": 190,
-          "title": "エストニアで発生した顔写真データの違法ダウンロードについてまとめてみた - piyolog"
-        },
-        {
-          "id": "https://motemen.hatenablog.com/entry/2021/08/meishi2",
-          "author": null,
-          "description": "このときのHHKBずっと使ってたんだけど、昨日ついに壊れた https://t.co/dwvoxapmsN— 美顔器 (@motemen) 2021年7月7日 新卒のころから使っていた Happy Hacking Keyboard が壊れた（アンチポップさんにもらったやつ。ありがとうございます）。とくにメンテもせずに、もう10年以上使えていたので感謝の気持ちとともに新し...",
-          "link": "https://motemen.hatenablog.com/entry/2021/08/meishi2",
-          "publishedOn": "2021-08-05T14:36:48.000Z",
-          "wordCount": 300,
-          "title": "meishi2キーボードを作った - 詩と創作・思索のひろば"
-        },
-        {
-          "id": "https://blog.cloudflare.com/ja-jp/cloudflare-waiting-room-ja-jp/",
-          "author": null,
-          "description": "本日、Cloudflare待機室をご紹介できることをうれしく思っております！まず、プロジェクトFair Shotという新プログラムで選ばれたお客様に最初にご利用いただけます。このプログラムは、新型コロナワクチン接種の圧倒的な需要によって、予約登録Webサイトが機能しなくなっている問題の解決を目的としています。Business...",
-          "link": "https://blog.cloudflare.com/ja-jp/cloudflare-waiting-room-ja-jp/",
-          "publishedOn": "2021-08-05T14:35:34.000Z",
-          "wordCount": null,
-          "title": "Cloudflare待機室"
-        },
-        {
-          "id": "https://japan.googleblog.com/2021/08/nest-cameras-doorbell.html",
-          "author": null,
-          "description": "メディア関係者向けお問い合わせ先 メールでのお問い合わせ: pr-jp@google.com メディア関係者以外からのお問い合わせにはお答えいたしかねます。 その他すべてのお問い合わせにつきましては、ヘルプセンターをご覧ください。",
-          "link": "https://japan.googleblog.com/2021/08/nest-cameras-doorbell.html",
-          "publishedOn": "2021-08-05T14:16:21.000Z",
-          "wordCount": 814,
-          "title": "Google Japan Blog: Google Nest のカメラとドアベルが新登場！"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1342550.html",
-          "author": null,
-          "description": "Avastは5日、サイバー脅威に関するレポート「Global PC Risk Report 2021」を発表した。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1342550.html",
-          "publishedOn": "2021-08-05T12:54:17.000Z",
-          "wordCount": 95,
-          "title": "日本では4人に1人のPCユーザーがサイバー脅威に遭遇。Avast調べ - PC Watch"
         }
       ]
     },
@@ -7799,15 +7673,6 @@
           "publishedOn": "2021-08-06T14:48:14.000Z",
           "wordCount": 65,
           "title": "gridless.design"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345418",
-          "author": "Hugh Haworth",
-          "description": "There’s usually more than one way to code a thing in React. And while it’s possible to create the same thing different ways, there may be one or two approaches that technically work “better” than others. I actually run into …\nThe post Three Buggy React Code Examples and How to Fix Them appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/three-buggy-react-code-examples-and-how-to-fix-them/",
-          "publishedOn": "2021-08-05T14:24:36.000Z",
-          "wordCount": 3842,
-          "title": "Three Buggy React Code Examples and How to Fix Them"
         }
       ]
     },
@@ -7816,6 +7681,33 @@
       "feedUrl": "https://ecmascript-daily.github.io/atom.xml",
       "siteUrl": "https://ecmascript-daily.github.io/atom.xml",
       "articles": [
+        {
+          "id": "https://ecmascript-daily.github.io/2021/09/04/official-name-bikeshed-issue-321-tc39-proposal-realms",
+          "author": null,
+          "description": "Realms is renamed to ShadowRealm",
+          "link": "https://ecmascript-daily.github.io/2021/09/04/official-name-bikeshed-issue-321-tc39-proposal-realms",
+          "publishedOn": "2021-09-04T04:51:05.000Z",
+          "wordCount": 86,
+          "title": "Official name bikeshed · Issue #321 · tc39/proposal-realms"
+        },
+        {
+          "id": "https://ecmascript-daily.github.io/2021/09/04/editorial-disambiguate-with-statements-status-by-ddbeck-pull-request-2441-tc39-ecma262",
+          "author": null,
+          "description": "with is legacy",
+          "link": "https://ecmascript-daily.github.io/2021/09/04/editorial-disambiguate-with-statements-status-by-ddbeck-pull-request-2441-tc39-ecma262",
+          "publishedOn": "2021-09-04T04:42:34.000Z",
+          "wordCount": 87,
+          "title": "Editorial: disambiguate `with` statement's status by ddbeck · Pull Request #2441 · tc39/ecma262"
+        },
+        {
+          "id": "https://ecmascript-daily.github.io/ecmascript/2021/09/04/ecmascript-proposal-update",
+          "author": null,
+          "description": "The changes of proposal’s status @ 85th meeting of Ecma TC39\nECMA-262\nNew Proposals\nProposal\n      Stage\n    \nBigInt Math\n      1\n    \nFixed shape objects\n      1\n    \nArray.fromAsync\n      1\n    \nString is USV String\n      1\n    \nGet Intrinsic\n      1\n    \nUpdated Proposals\nProposal\n      From\n      To\n    \nChange Array by copy\n      1\n      2\n    \nClass Static Block\n      3\n      4\n    \nAccessible Object.prototype.hasOwnProperty\n      3\n      4\n    \nPipeline Operator\n      1\n      2\n    \n.at()\n      3\n      4\n    \nECMA-402\nNew Proposals\nNo Data\nUpdated Proposals\nNo Data\nThis diff is generated by ECMAScript Proposal Diff Tool.\nAgenda\nAgendas\nBabel\nbabel/proposals: Tracking the status of Babel’s implementation of TC39 proposals\nAugust 2021 · Issue #76 · babel/proposals\nOther proposal’s status\ntc39/proposals: Tracking ECMAScript Proposals\nRelated services\nECMAScript Proposal Diff Tool\ntc39/dataset: The automate track tc39 proposals",
+          "link": "https://ecmascript-daily.github.io/ecmascript/2021/09/04/ecmascript-proposal-update",
+          "publishedOn": "2021-09-04T04:39:32.000Z",
+          "wordCount": 188,
+          "title": "ECMAScript proposal updates @ 2021-08"
+        },
         {
           "id": "https://ecmascript-daily.github.io/2021/09/02/tc39-meeting-july-13-16-2021-spidermonkey-javascript-webassembly-engine",
           "author": null,
@@ -7911,6 +7803,24 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/jdgamble555/deploy-angular-universal-app-to-firebase-functions-49mm",
+          "author": "Jonathan Gamble",
+          "description": "Generate New Angular 12 Project\n\n\nng new 'project name'\nAdd routing\nAdd preferred stylesheet\nng add @nguniversal/express-engine\nng add @angular/pwa\nng add @angular/material\nng add @angular/fire - sometimes an error and needs to run 2x... hopefully this will be fixed...\nSelect Firebase Project\nSay Yes to Deploy to Firebase Function\nEdit angular.json, then:\nAdd deploy.options.functionsNodeVersion: 14\n\n\n\n\n  \n  \n  Edit App.modules\n\n\n\n\n\nimport { provideFirebaseApp, initializeApp } \nfrom '@angular/fire/app';\nimport { getFirestore, provideFirestore } \nfrom '@angular/fire/firestore';\n...\n@NgModule({\n  imports: [\n    provideFirebaseApp(() => initializeApp(environment.firebase)),\n    provideFirestore(() => getFirestore()),\n    ...\n  ],\n  ...\n})\n\nEdit .gitignore and add this to the bottom.\n\n\n\n\n# Conf…",
+          "link": "https://dev.to/jdgamble555/deploy-angular-universal-app-to-firebase-functions-49mm",
+          "publishedOn": "2021-09-04T22:36:10.000Z",
+          "wordCount": 755,
+          "title": "Deploy Angular Universal App to Firebase Functions"
+        },
+        {
+          "id": "https://dev.to/gaetanrdn/angular-for-everyone-coerce-boolean-inputs-with-decorator-5g1c",
+          "author": "Gaëtan Redin",
+          "description": "Hey, here’s my use case: I have a component/directive which have a Boolean input property. I often use Angular/cdk in my projects because it offers useful features we don’t need to rewrite. One of it is the coercion of properties and more precisely the coerceBooleanProperty() method. You know there are many way to bind boolean attributes on DOM element.\n<button disabled=“true”>Click</button>\n\n<button [disabled]=“true”>Click</button>\n\n<button disabled>Click</button>\n\nIn Typescript files this will be converted in a boolean or a string and it had a difficulty to handle it.\nA first approach, is to use getter/setter and to call the cdk method to always have a boolean value.\n@Input()\nset disabled(disabled) {\n  this._disabled = cerceBooleanProperty(disabled);\n}\n\nget disabled(): boolean {\n  return this._disabled;\n}\n\nprivate _disabled: boolean;\n\nBut I find that a lot of code to repeat each time.\n@Input()\n@CoerceBoolean()\npublic disabled: boolean;\n\nHere’s the code of the decorator which allows to do it:\nimport { coerceBooleanProperty } from '@angular/cdk/coercion';\n\nexport function CoerceBoolean() {\n    return function (target: any, key: string): void {\n        const getter = function () {\n            // using Typescript reflection\n            return this['__' + key];\n        };\n\n        const setter = function (next: any) {\n            // using Typescript reflection\n            this['__' + key] = coerceBooleanProperty(next);\n        };\n\n        Object.defineProperty(target, key, {\n            get: getter,\n            set: setter,\n            enumerable: true,\n            configurable: true,\n        });\n    };\n}\n\nThanks for reading. Feel free to let me know your questions or how you handle it in your projects.",
+          "link": "https://dev.to/gaetanrdn/angular-for-everyone-coerce-boolean-inputs-with-decorator-5g1c",
+          "publishedOn": "2021-09-04T08:32:50.000Z",
+          "wordCount": 634,
+          "title": "Angular for everyone: Coerce boolean inputs with decorator"
+        },
         {
           "id": "https://dev.to/gaetanrdn/angular-for-everyone-required-inputs-252c",
           "author": "Gaëtan Redin",
@@ -9179,51 +9089,6 @@
           "publishedOn": "2021-08-06T12:45:17.000Z",
           "wordCount": 936,
           "title": "How can you differentiate Angular CLI from Angular JS?"
-        },
-        {
-          "id": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-august-6-3de4",
-          "author": "Ajit Singh",
-          "description": "Github Repo - https://github.com/ajitsinghkaler/devto-clone\nDeployed on Firebase - https://dev-toclone.firebaseapp.com/\nLast week I completed the homepage.\n\nThis week I added article details page the styling is left so I added the basic skeleton of the article details page. This will also be divided into 3 sections the reaction section the articles section and the user section.\n\nThis week I focused on the article details section and joining the homepage articles to article details section. It was a bit tiresome this week. There were some problems like getting a specific article by path requires you to set the article username which I came to know that can be either username or organization name but if organization name exists it has to be organization name. There is no API to get featured …",
-          "link": "https://dev.to/this-is-angular/updates-on-dev-to-clone-in-angular-august-6-3de4",
-          "publishedOn": "2021-08-06T03:20:14.000Z",
-          "wordCount": 946,
-          "title": "Updates on dev.to clone in Angular - August 6"
-        },
-        {
-          "id": "https://dev.to/raj_sekhar/typescript-interface-vs-class-5f6l",
-          "author": "Raj Sekhar",
-          "description": "Typescript, oh I love it. Take stackoverflow survey, or ask any developer, most of them do. All major UI libraries/frameworks are (following Angular way) adding Typescript support now. Need to write a little extra boilerplate (use json to ts extension), but the benefits of type checking, intellisense and instant visual feedback outweigh the extra work.\nI had this confusion where both interface and class gets the work done, but which one to use and when?\nUse interface, avoid class unless there is any special requirement that cannot be done with interface.\nClasses add to js file size, after compiling .ts to .js, while interfaces do not\nLets take scenario, where we want to give structure to a pizza object. I can use interface or an object. \npizza-interface.ts\ninterface Pizza {\n    variant: st…",
-          "link": "https://dev.to/raj_sekhar/typescript-interface-vs-class-5f6l",
-          "publishedOn": "2021-08-05T20:25:10.000Z",
-          "wordCount": 1537,
-          "title": "Typescript Interface vs Class With Practical Examples"
-        },
-        {
-          "id": "https://dev.to/eavnitech/file-upload-in-angular-12-e-avni-tech-3inj",
-          "author": "eavnitech",
-          "description": "Check my latest blog on File upload in angular 12 https://eavnitech.com/blog/file-upload-in-angular-12/",
-          "link": "https://dev.to/eavnitech/file-upload-in-angular-12-e-avni-tech-3inj",
-          "publishedOn": "2021-08-05T16:13:28.000Z",
-          "wordCount": 390,
-          "title": "File upload in angular 12 | e Avni Tech"
-        },
-        {
-          "id": "https://dev.to/rfornal/angular-material-multi-select-autocomplete-kpg",
-          "author": "bob.js",
-          "description": "For a recent client, I needed a \"searchable\" select. They wanted to match functionality used in other applications. The original searchable selects were a legacy jQuery object that would have been an odd fit in a modern Angular application.\nWhat I needed was a select-type dropdown that allowed for multi-row selection, as well as the ability to filter the list down on a string entered as a search by the user.\nHere is what I came up with ... a multiselect autocomplete.\nStarting with the HTML ... these are displayed out of order to make the logic behind them more understandable.\nThis is the form field with a Material Input tied to selectControl.\n<mat-form-field class=\"full-width\">\n  <input matInput type=\"text\"\n  [placeholder]=\"placeholder\"\n  [matAutocomplete]=\"auto\"\n  [formControl]=\"selectCon…",
-          "link": "https://dev.to/rfornal/angular-material-multi-select-autocomplete-kpg",
-          "publishedOn": "2021-08-05T15:41:41.000Z",
-          "wordCount": 1263,
-          "title": "Angular Material Multi-Select Autocomplete"
-        },
-        {
-          "id": "https://dev.to/federhico/my-road-to-front-end-dev-5dc9",
-          "author": "federhico",
-          "description": "Hello beautiful people. Let me introduce myself: My name is Federico, 27, Argentinian, IT worker for the last seven years more or less.\n   The intention behind this post is to start writing/blogging in English. I was struggling a lot choosing the topic for it. Despite having enough knowledge for writing something more technical, my final decision was to write about how do I evolve from that kid that wanted to hack de NASA to who I'm 10 years later.\n   This story begins when I was a kid/teenager. I had some experience playing games, browsing the web, and that kind of stuff, but I needed something more. The thing that mainly called my attention was \"cracking\" games, installing them, copy-pasting some .exe files to the program files folder to make it work without bought them was something tha…",
-          "link": "https://dev.to/federhico/my-road-to-front-end-dev-5dc9",
-          "publishedOn": "2021-08-05T13:10:09.000Z",
-          "wordCount": 1047,
-          "title": "My road to Front-End Dev"
         }
       ]
     },
@@ -9562,15 +9427,6 @@
           "publishedOn": "2021-08-12T00:26:00.000Z",
           "wordCount": 332,
           "title": "本日限り、デザインの良書がKindleセールで70％オフのワンコイン！デザインの原則を自分のデザインで使えるようになる実践的な解説書"
-        },
-        {
-          "id": "https://coliss.com/?p=30821",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/book-review/isbn-9784802613231.html",
-          "publishedOn": "2021-08-06T00:36:04.000Z",
-          "wordCount": 478,
-          "title": "Web制作者は1冊持っておくとかなり便利！UIに適したさまざまなアニメーションの実装方法が分かる解説書 -動くWebデザイン アイディア帳 実践編"
         }
       ]
     },
@@ -11396,114 +11252,6 @@
           "publishedOn": "2021-08-06T13:25:58.000Z",
           "wordCount": 2270,
           "title": "Here’s How Functional Programming Made My Job Easier"
-        },
-        {
-          "id": "https://medium.com/p/e494fcc3dbf5",
-          "author": "Josef Cruz",
-          "description": "If you want to expand your knowledge, blogging can serve your purpose\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/why-every-programmer-should-start-their-own-blog-e494fcc3dbf5?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-06T12:14:04.000Z",
-          "wordCount": 1350,
-          "title": "Why Every Programmer Should Start Their Own Blog"
-        },
-        {
-          "id": "https://medium.com/p/e23531e2d322",
-          "author": "Fabijan Bajo",
-          "description": "The What, Why, and How of API Gateways\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/maintainability-in-the-face-of-api-complexity-e23531e2d322?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-06T10:13:48.000Z",
-          "wordCount": 2770,
-          "title": "Maintainability in the Face of API Complexity"
-        },
-        {
-          "id": "https://medium.com/p/84bdf645ed7c",
-          "author": "Elye",
-          "description": "Speaking from experience — with a second chance in a software leadership position\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/10-mistakes-to-avoid-as-a-software-development-manager-84bdf645ed7c?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-05T19:50:22.000Z",
-          "wordCount": 3856,
-          "title": "10 Mistakes To Avoid as a Software Development Manager"
-        },
-        {
-          "id": "https://medium.com/p/ff09c2ea9f46",
-          "author": "Ruehie Jaiya Karri",
-          "description": "You do not want to be on the wrong side of developers\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/5-steps-to-create-a-positive-remote-interview-experience-for-candidates-ff09c2ea9f46?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-05T17:46:30.000Z",
-          "wordCount": 1227,
-          "title": "5 Steps To Create a Positive Remote Interview Experience for Candidates"
-        },
-        {
-          "id": "https://medium.com/p/9e3dc8f6406e",
-          "author": "Nicholas Obert",
-          "description": "Besides customizability and automation capabilities, Linux ships with many development tools too\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/why-developers-should-switch-to-linux-9e3dc8f6406e?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-05T17:34:54.000Z",
-          "wordCount": 1562,
-          "title": "Why Developers Should Switch to Linux"
-        },
-        {
-          "id": "https://medium.com/p/b49499530335",
-          "author": "The Educative Team",
-          "description": "Ace your next interview as a React developer\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/top-25-react-native-interview-questions-with-answers-b49499530335?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-05T17:34:24.000Z",
-          "wordCount": 2288,
-          "title": "Top 25 React Native Interview Questions (With Answers)"
-        },
-        {
-          "id": "https://medium.com/p/9df76d8eead7",
-          "author": "Ng Wai Foong",
-          "description": "A side-by-side comparison of both the approaches\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/graphql-vs-rest-api-data-fetching-in-python-9df76d8eead7?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-05T17:02:57.000Z",
-          "wordCount": 2014,
-          "title": "GraphQL vs. Rest API: Data Fetching In Python"
-        },
-        {
-          "id": "https://medium.com/p/3cc1a7468ff7",
-          "author": "Jennifer Fu",
-          "description": "Ant forms facilitate managing web form’s style, layout, validation, and data\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/how-to-use-ant-forms-in-your-web-app-3cc1a7468ff7?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-05T16:03:02.000Z",
-          "wordCount": 2542,
-          "title": "How To Use Ant Forms in Your Web App"
-        },
-        {
-          "id": "https://medium.com/p/d59e0fe023d1",
-          "author": "Harish V",
-          "description": "A quick example of concurrent programming using Goroutines\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/concurrent-api-calls-and-race-conditions-in-go-d59e0fe023d1?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-05T15:02:54.000Z",
-          "wordCount": 1200,
-          "title": "Concurrent API Calls and Race Conditions In Go"
-        },
-        {
-          "id": "https://medium.com/p/78d0c6f020d9",
-          "author": "The Hosk",
-          "description": "Character isn’t captured on a CV — you have to show it in real\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/developers-should-treat-job-interviews-like-a-first-date-78d0c6f020d9?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-05T14:51:31.000Z",
-          "wordCount": 1562,
-          "title": "Developers Should Treat Job Interviews Like a First Date"
-        },
-        {
-          "id": "https://medium.com/p/7431c5347a93",
-          "author": "Mohd Hafiz",
-          "description": "Navigation, grouped styling, bulk deletion, expandable lists, and sections\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/5-swiftui-list-tricks-for-ios-13-7431c5347a93?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-05T14:01:13.000Z",
-          "wordCount": 1104,
-          "title": "5 SwiftUI List Tricks for iOS 13"
-        },
-        {
-          "id": "https://medium.com/p/d545928caf77",
-          "author": "Oliver Spryn",
-          "description": "Leverage what is intuitive and established in human nature\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/dont-like-writing-documentation-then-don-t-and-learn-to-be-more-effective-d545928caf77?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-05T13:02:47.000Z",
-          "wordCount": 1877,
-          "title": "Don’t Like Writing Documentation? Then Don’t, and Learn To Be More Effective"
         }
       ]
     }
