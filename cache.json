@@ -12,6 +12,20 @@
       "siteUrl": "https://zenn.dev/topics/angular",
       "articles": [
         {
+          "id": "https://zenn.dev/cauchye/articles/20210816_yutaro-elk",
+          "author": "株式会社CauchyE",
+          "description": "株式会社 CauchyE エンジニアの @yutaro_elk です。フロントエンドが好きでやってます。\n現在は Ionic + Angular + Firebase で NFT 関連のアプリ開発をしています。\nCauchyE は技術スタックとして主に Angular + Firebase を使用していますが、Cypress と Firebase + Angular を組み合わせた時に詰まった点があったので残しておきたいと思います。\n\n最近 firebase sdk のバージョンが v8 から v9 に上がったことで、api がガラッと変わっています。\nこちらの記事はは主に v8 での記...",
+          "link": "https://zenn.dev/cauchye/articles/20210816_yutaro-elk",
+          "publishedOn": "2021-09-08T09:35:26.000Z",
+          "wordCount": 396,
+          "title": "CypressからFirebase emulatorのFirestoreが読み込めないときは(with Angular)",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/zenn/image/upload/s--wg6sltUH--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BECauchyE%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:Cypress%25E3%2581%258B%25E3%2582%2589Firebase%2520emulator%25E3%2581%25AEFirestore%25E3%2581%258C%25E8%25AA%25AD%25E3%2581%25BF%25E8%25BE%25BC%25E3%2582%2581%25E3%2581%25AA%25E3%2581%2584%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AF%2528with%2520Angular%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ljb25fNTMxZDkxMGYzOC5qcGVn%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://zenn.dev/nemtus/articles/blockchain-symbol-angular-1st-symbol-sdk",
           "author": "NEMTUS公式",
           "description": "Angularでsymbol-sdkを使うための環境構築\n\n 概要\nこの記事では、Angularで作成されたWebアプリ上でsymbol-sdkというnpmパッケージを用いてSymbolというブロックチェーンを利用するための第一歩となる環境構築について説明します。Angularのデフォルトの設定のままsymbol-sdkをインストールするといくつかのエラーが発生します。それを修正するための方法について説明し、同時にsymbol-sdkをAngularプロジェクトで使う際のサンプルコードを紹介します。\n以下URLでサンプルコードを実際に動かしているので、必要に応じてご参照ください。\n\n...",
@@ -60,6 +74,222 @@
       "feedUrl": "https://b.hatena.ne.jp/hotentry/it.rss",
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
+        {
+          "id": "https://anond.hatelabo.jp/20210909001122",
+          "author": null,
+          "description": "経緯Chrome/Firefoxのはてブ機能拡張は配布されているが、Mac版Safariの機能拡張は数年前から配布されていない。 Safariに乗り換える際の個人的な障壁であったが、Chrome版機能拡張をSafari向けに変換して利用する事ができたので、メモ代わりに記しておく。 必要なものmacOS Big Sur以降XCodeはてブ拡張をインストール済...",
+          "link": "https://anond.hatelabo.jp/20210909001122",
+          "publishedOn": "2021-09-08T15:57:35.000Z",
+          "wordCount": 105,
+          "title": "Mac版Safariではてなブックマーク拡張を使う"
+        },
+        {
+          "id": "https://github.com/prisma/prisma/releases/tag/3.0.1",
+          "author": null,
+          "description": "Today, we are excited to share the 3.0.1 stable release 🎉 As previously announced, Prisma has adopted SemVer strictly and this is the first major release which means it has some breaking changes. For all the breaking changes, there are guides and documentation to assist you with the upgrade. Thi...",
+          "link": "https://github.com/prisma/prisma/releases/tag/3.0.1",
+          "publishedOn": "2021-09-08T14:09:19.000Z",
+          "wordCount": 3661,
+          "title": "Release 3.0.1 · prisma/prisma · GitHub"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/news/18/11186/",
+          "author": null,
+          "description": "みずほ銀行で2021年9月8日に起こったシステム障害の原因が分かった。同行の勘定系システム「MINORI」において司令塔の役割を果たす「取引メイン（取引共通基盤）」のディスク装置の故障がきっかけで、一部のATMやインターネットバンキングが一時停止した。 具体的には、9月8日午前9時20分ごろ、取引メインのディスク装置...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/news/18/11186/",
+          "publishedOn": "2021-09-08T13:54:14.000Z",
+          "wordCount": 344,
+          "title": "みずほ銀行7回目のシステム障害、原因は取引メインのディスク故障 | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1349601.html",
+          "author": null,
+          "description": "中国自動車メーカーXPeng Motorsは9月7日(現地時間)、自動車の技術やロジックを取り入れたロボティクス開発を行なう新しい子会社から、第1弾の製品として業界初を謳う騎乗可能な「ロボット馬」のプロトタイプを発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1349601.html",
+          "publishedOn": "2021-09-08T12:04:05.000Z",
+          "wordCount": 103,
+          "title": "【やじうまPC Watch】業界初の騎乗できる「ロボット馬」、中国自動車メーカーから - PC Watch"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/news/1349670.html",
+          "author": null,
+          "description": "厚生労働省は8日、新型コロナウイルス接触確認アプリ「COCOA」のバージョン1.2.6を提供開始した。今後のバージョンアップに向けた通知表示方法の修正ほか、COCOAのアクセシビリティ方針を策定し、公開した。",
+          "link": "https://www.watch.impress.co.jp/docs/news/1349670.html",
+          "publishedOn": "2021-09-08T10:49:16.000Z",
+          "wordCount": 77,
+          "title": "接触確認アプリ、「通知」表示方法を先行修正。iOSは通知許可を - Impress Watch"
+        },
+        {
+          "id": "https://aws.amazon.com/jp/premiumsupport/knowledge-center/elb-find-load-balancer-IP/",
+          "author": null,
+          "description": "Elastic Load Balancing がウェブサーバーに送信するトラフィックの送信元 IP アドレスは何ですか? ウェブサーバーに Elastic Load Balancing を使用しています。ロードバランサーがトラフィックをウェブサーバーに転送するために使用する IP アドレスを知りたいです。ロードバランサーの IP アドレスを見つける方法を教...",
+          "link": "https://aws.amazon.com/jp/premiumsupport/knowledge-center/elb-find-load-balancer-IP/",
+          "publishedOn": "2021-09-08T10:07:59.000Z",
+          "wordCount": 419,
+          "title": "ロードバランサーがトラフィックをウェブサーバーに転送するために使用する IP アドレスを見つける"
+        },
+        {
+          "id": "https://www.oreilly.co.jp//books/9784873119649/",
+          "author": null,
+          "description": "本書は、子どもはみんな大好きで、しかもどんどん家に増えていく段ボールを中心に、紙箱や紙管（トイレットペーパーの芯など）を材料にして、実際に動かして遊べるおもちゃやゲームなどを作るための楽しい書籍です。紹介している作例は、マジックハンド、潜望鏡、ブーメラン、足踏みロケット発射装置、ゴムで飛ばすヘリ...",
+          "link": "https://www.oreilly.co.jp//books/9784873119649/",
+          "publishedOn": "2021-09-08T09:57:06.000Z",
+          "wordCount": 121,
+          "title": "O'Reilly Japan - 段ボールで作る！ 動く、飛ぶ、遊ぶ工作"
+        },
+        {
+          "id": "https://japan.zdnet.com/article/35176373/",
+          "author": null,
+          "description": "印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Linuxの生みの親であるLinus Torvalds氏は、LinuxカーネルにParagon SoftwareのNTFS3カーネルドライバーを導入することに同意し、Linuxカーネル5.15ではNTFSファイルシステムの...",
+          "link": "https://japan.zdnet.com/article/35176373/",
+          "publishedOn": "2021-09-08T08:55:59.000Z",
+          "wordCount": 454,
+          "title": "LinuxカーネルにNTFSドライバーが追加、トーバルズ氏はGitHub経由のマージに苦言 - ZDNet Japan"
+        },
+        {
+          "id": "https://forest.watch.impress.co.jp/docs/review/1349406.html",
+          "author": null,
+          "description": "「こえもじ」は、「Google Meet」に日本語のリアルタイム文字起こし機能やチャット履歴ダウンロード機能などを追加できるGoogle Chrome拡張機能。Windowsなどに対応するフリーソフトで、編集部にてWindows 10上の「Google Chrome」v93.0.4577.63で動作確認した。現在「chrome ウェブストア」から無料でダウンロードできる。",
+          "link": "https://forest.watch.impress.co.jp/docs/review/1349406.html",
+          "publishedOn": "2021-09-08T08:49:14.000Z",
+          "wordCount": 114,
+          "title": "「Google Meet」に高精度なリアルタイム文字起こし機能やチャット履歴ダウンロード機能を追加【レビュー】 - 窓の杜"
+        },
+        {
+          "id": "https://techracho.bpsinc.jp/hachi8833/2021_09_08/111318",
+          "author": null,
+          "description": "概要 原著者の許諾を得て翻訳・公開いたします。 英語記事: Problems that Static Typing Doesn’t Solve | CodingItWrong.com 原文公開日: 2020/10/19 原著者: Josh Justice サイト: CodingItWrong.com | Full-stack developer for sufficiently small definitions of stack. Work for Big Nerd Ranch. Brandur Leach氏...",
+          "link": "https://techracho.bpsinc.jp/hachi8833/2021_09_08/111318",
+          "publishedOn": "2021-09-08T08:31:31.000Z",
+          "wordCount": 352,
+          "title": "Ruby: 静的型付けで解決しない問題とは（翻訳）｜TechRacho（テックラッチョ）〜エンジニアの「？」を「！」に〜｜BPS株式会社"
+        },
+        {
+          "id": "https://dev.classmethod.jp/articles/vscode-clasp-setting/",
+          "author": null,
+          "description": "はじめに アノテーションの髙嶋です 今回はGoogle Apps Script（以降、GAS）の開発環境を自端末内に構築した際の手順を書いています。 GASにはGoogleが提供しているWEBエディターがあるので、そちらを使用すればすぐにプログラムを書き始めることができます。 私はVisual Studio Code（以降、VSCode）を使用したいので、...",
+          "link": "https://dev.classmethod.jp/articles/vscode-clasp-setting/",
+          "publishedOn": "2021-09-08T08:15:52.000Z",
+          "wordCount": 259,
+          "title": "claspを使ってGoogle Apps Scriptの開発環境を構築してみた | DevelopersIO"
+        },
+        {
+          "id": "https://tech.jxpress.net/entry/2021/09/08/165710",
+          "author": null,
+          "description": "はじめまして。JX通信社でデータアナリストをしている @nrtaking です。 弊社では、7/23〜8/8に行われた東京オリンピック、8/25〜9/5に行われた東京パラリンピックにあわせて関連した日本語ツイートを全量収集し、Twitter Japanなど各社に提供していました。 内容に関する簡単な分析についてはプレスリリースでお伝えし...",
+          "link": "https://tech.jxpress.net/entry/2021/09/08/165710",
+          "publishedOn": "2021-09-08T08:05:05.000Z",
+          "wordCount": 362,
+          "title": "GCPをフル活用して東京五輪の2週間で約5000万ツイートをさばいた話 - JX通信社エンジニアブログ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/08/news100.html",
+          "author": null,
+          "description": "化学分野に特化した特許検索サービスを富士通が発売。AIを活用し、長い文章や化学構造式でも検索できるのが特徴。実証実験では、従来5日かかった検索業務を1日に短縮できたという。 富士通は9月8日、化学や金属、電気分野などの特許を検索できるサービス「FUJITSU Digital Laboratory Platform SCIDOCSS」の提供を、化学...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/08/news100.html",
+          "publishedOn": "2021-09-08T07:59:52.000Z",
+          "wordCount": 158,
+          "title": "富士通、化学構造式で検索できる特許検索サービス発売　「5日かかった検索業務を1日で」 - ITmedia NEWS"
+        },
+        {
+          "id": "https://tenntenn.dev/ja/posts/2021-09-08-mercari-5years/",
+          "author": null,
+          "description": "5年が経ちました 2016年9月1日にメルカリ（ソウゾウ）に入社して、5年が経ちました。 あ。。。Go年が経ちました。 現在の所属はメルペイのエキスパートチームです。入社して2回マネージャが変わりましたが、チーム自体は同じです。メルカリグループにいて、ずっと同じチームなのはかなり稀有な存在じゃないかと思います...",
+          "link": "https://tenntenn.dev/ja/posts/2021-09-08-mercari-5years/",
+          "publishedOn": "2021-09-08T06:22:12.000Z",
+          "wordCount": 61,
+          "title": "メルカリに入社して5年が経って北海道に移住しました - tenntenn.dev"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/biz/1349544.html",
+          "author": null,
+          "description": "Dynabook株式会社は、フィールドワーク向けのウェアラブルPC「dynaEdge DE200」を発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/biz/1349544.html",
+          "publishedOn": "2021-09-08T06:19:13.000Z",
+          "wordCount": 129,
+          "title": "【.biz】わずか340gでバッテリ駆動、ウェアラブルなCore搭載Windows 10端末「dynaEdge DE200」 - PC Watch"
+        },
+        {
+          "id": "https://japanese.engadget.com/lenovo-tab-new-flagship-p12-pro-amoled-040833919.html",
+          "author": null,
+          "description": "開催中のLenovo Tech World 2021イベントで、レノボがAndroidタブレットの新フラッグシップ製品 Lenovo Tab P12 Pro を発表しました。 Lenovo Tab P12 Pro はDolby Vision対応の12.6インチ有機ELディスプレイ、Dolby Atmos対応クアッドスピーカーを備えた「パーソナルホームシアター」であると同時に、Lenovo Precision ...",
+          "link": "https://japanese.engadget.com/lenovo-tab-new-flagship-p12-pro-amoled-040833919.html",
+          "publishedOn": "2021-09-08T05:00:58.000Z",
+          "wordCount": 313,
+          "title": "Lenovo Tab P12 Pro 発表。120Hz有機EL採用のハイエンドAndroidタブレット - Engadget 日本版"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1349526.html",
+          "author": null,
+          "description": "Twitterは9月8日(米国時間)、ブロック&ブロック解除の操作を行なわずにフォロワーをリストから「削除」する機能をWeb版Twitterでテストしていることを明らかにした。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1349526.html",
+          "publishedOn": "2021-09-08T04:32:45.000Z",
+          "wordCount": 145,
+          "title": "Twitter、ブロックせずに相手からのフォローを外す機能をテスト中 - PC Watch"
+        },
+        {
+          "id": "https://github.com/a8m/enter",
+          "author": null,
+          "description": "Launching GitHub Desktop If nothing happens, download GitHub Desktop and try again. Go back",
+          "link": "https://github.com/a8m/enter",
+          "publishedOn": "2021-09-08T03:53:48.000Z",
+          "wordCount": 520,
+          "title": "GitHub - a8m/enter: A CLI for generating ER diagrams for Ent schema"
+        },
+        {
+          "id": "https://careerhack.en-japan.com/report/detail/1497",
+          "author": null,
+          "description": "「Notionで、知の構造化を進めています」こう語ってくれたのは、デザイン・イノベーション・ファームTakramで働く野見山真人さん。プロジェクト単位や個々人に閉じてしまいがちな「学び」の点をつなぎ、「組織の知」として昇華しているという。Notionの使い方に宿る、Takramの思想とはー。 【プロフィール】Takram 野見...",
+          "link": "https://careerhack.en-japan.com/report/detail/1497",
+          "publishedOn": "2021-09-08T03:41:52.000Z",
+          "wordCount": 323,
+          "title": "Takramは、Notionで「知」を構造化する。学びの点と点をつなぐ、Notion活用法 | キャリアハック"
+        },
+        {
+          "id": "https://togetter.com/li/1771436",
+          "author": null,
+          "description": "米村歩@日本一残業の少ないIT企業社長 @yonemura2006 ・丁目、番地が全角しか入力できない ・電話番号が全角しか入力できない ・建物名が全角しか入力できない ・生年月日がカレンダーで果てしなきページ送りを要求される ・何の入力チェックでエラーが出ているのかわからない ・入力チェックエラーになると入力内容が全...",
+          "link": "https://togetter.com/li/1771436",
+          "publishedOn": "2021-09-08T03:13:24.000Z",
+          "wordCount": 1268,
+          "title": "「丁目、番地が全角しか入力できない」「何の入力チェックでエラーが出ているのかわからない」みんながネットでイラつく#クソ入力フォーム選手権 開催中 - Togetter"
+        },
+        {
+          "id": "https://doda.jp/engineer/guide/web/004.html",
+          "author": null,
+          "description": "クリエイターが転職活動をする際、応募先企業にほぼ必須で提出するポートフォリオ。ただ成果物を並べただけでは、魅力的なアピール材料にはなりません。そこで、年間400人以上のクリエイターのキャリアカウンセリングを実施しているクリエイター職専門のキャリアアドバイザーに、転職が成功しやすいポートフォリオの作り...",
+          "link": "https://doda.jp/engineer/guide/web/004.html",
+          "publishedOn": "2021-09-08T02:00:05.000Z",
+          "wordCount": 502,
+          "title": "転職成功に近づくポートフォリオの作り方【Webデザイナー／クリエイター／ディレクター】 ｜転職ならdodaエンジニア IT"
+        },
+        {
+          "id": "https://coliss.com/articles/build-websites/operation/work/vscode-bracket-pair-colorization.html",
+          "author": null,
+          "description": "VS Codeがどんどん便利になっていきますね。 先日のv.1.60のアップデートで、ブラケットのカラー化に対応しました！ VS Codeの設定を変更するだけで、開始と終了のブラケットをセットで同じカラーにします。今までは機能拡張を入れないとできなかったことが、ネイティブ対応したのは朗報です。 Visual Studio Code: Augu...",
+          "link": "https://coliss.com/articles/build-websites/operation/work/vscode-bracket-pair-colorization.html",
+          "publishedOn": "2021-09-08T00:55:51.000Z",
+          "wordCount": 340,
+          "title": "これは便利、VS Codeの設定を変更しよう！v.1.60のアップデートで、ブラケットのカラー化にネイティブ対応 | コリス"
+        },
+        {
+          "id": "https://fortee.jp/phpcon-2021/proposal/2bcd3065-ef89-4b2d-96ec-bd5163257cef",
+          "author": null,
+          "description": "シングルページアプリケーション(SPA)において、セッションIDやトークンの格納場所はCookieあるいはlocalStorageのいずれが良いのかなど、セキュリティ上の課題がネット上で議論されていますが、残念ながら間違った前提に基づくものが多いようです。このトークでは、SPAのセキュリティを構成する基礎技術を説明した後、...",
+          "link": "https://fortee.jp/phpcon-2021/proposal/2bcd3065-ef89-4b2d-96ec-bd5163257cef",
+          "publishedOn": "2021-09-08T00:22:39.000Z",
+          "wordCount": 129,
+          "title": "SPAセキュリティ入門 by 徳丸 浩 | トーク | PHP Conference Japan 2021 #phpcon #phpcon2021 #php - fortee.jp"
+        },
+        {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/00676/090100087/",
+          "author": null,
+          "description": "だが、この分業体制が崩れつつあるという。標的とした企業・組織の従業員をアフィリエイトの代わりにしようとする動きが出てきたからだ。2021年8月、セキュリティー企業などが相次いで報告した。待遇に不満を持つ従業員をそそのかして、ランサムウエア攻撃の実行犯に仕立てるという。 ランサムウエアを感染させたら100万...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00676/090100087/",
+          "publishedOn": "2021-09-07T22:50:49.000Z",
+          "wordCount": 375,
+          "title": "「不満を持つ従業員」を実行犯に仕立てる、ランサムウエア攻撃の卑劣な新戦略とは | 日経クロステック（xTECH）"
+        },
         {
           "id": "https://pc.watch.impress.co.jp/docs/news/1349405.html",
           "author": null,
@@ -151,6 +381,15 @@
           "title": "ウェブアクセシビリティ簡易チェックリスト | プロダクト | SmartHR Design System"
         },
         {
+          "id": "https://zenn.dev/taiga533/articles/11f1b21ef4a5ff",
+          "author": null,
+          "description": "DockerDesktopの特定条件下における利用が有料化しますね。 そこで今回はDockerDesktopを使っている GUIのコンテナ管理機能を必要としない方 DockerDesktopのインストールが楽だからとりあえず使っていた方 向けにWindowsにおいてDockerDesktopから、WSL2上のみで動くDockerする方法を書いてみました。 前提条件 この記...",
+          "link": "https://zenn.dev/taiga533/articles/11f1b21ef4a5ff",
+          "publishedOn": "2021-09-07T10:14:27.000Z",
+          "wordCount": 196,
+          "title": "DockerDesktopからWSL2上のみで動くDockerに移行する"
+        },
+        {
           "id": "https://it.impress.co.jp/articles/-/22021",
           "author": null,
           "description": "IT Leaders トップ ＞ テクノロジー一覧 ＞ データベース ＞ 新製品・サービス ＞ NTTドコモ、データ分析基盤にBigQueryを導入、クエリーの約7割をRedshiftからBigQueryに移行 データベース データベース記事一覧へ [新製品・サービス] NTTドコモ、データ分析基盤にBigQueryを導入、クエリーの約7割をRedshiftからBigQue...",
@@ -214,6 +453,15 @@
           "title": "マイクロサービスの開発とテストファースト／テスト駆動開発 【Mercari Gears Lecture Series】 | メルカリエンジニアリング"
         },
         {
+          "id": "https://twitter.com/ockeghem/status/1435123676702134274",
+          "author": null,
+          "description": "これは本当にオススメ。トレーニングなので、Linuxのインストールからやるのがよいです。Exploitが刺さるだけで楽しいですが、なぜそれが成立するかまで追いかけるとさらに勉強になります。 https://t.co/tHyQuPSvjw",
+          "link": "https://twitter.com/ockeghem/status/1435123676702134274",
+          "publishedOn": "2021-09-07T06:57:12.000Z",
+          "wordCount": 196,
+          "title": "徳丸 浩 on Twitter: \"これは本当にオススメ。トレーニングなので、Linuxのインストールからやるのがよいです。Exploitが刺さるだけで楽しいですが、なぜそれが成立するかまで追いかけるとさらに勉強になります。 https://t.co/tHyQuPSvjw\""
+        },
+        {
           "id": "https://speakerdeck.com/task4233/why-can-javasctipt-invoke-asynchronous-in-single-thread",
           "author": null,
           "description": "Transcript JavaScriptは なぜシングルスレッドでも 非同期処理ができるのか お昼のLT 2021/09/07 Takashi Mima(@task4233) 本LTの目標 ・JavaScript(ECMAScript)がシングルスレッドで非同期処理を 　実現している方法をざっくり理解すること 本LTの想定対象者 ・JavaScriptの基本的な文法を理解している人 ・シングルス...",
@@ -230,6 +478,15 @@
           "publishedOn": "2021-09-07T06:08:08.000Z",
           "wordCount": 754,
           "title": "Windows 10 + WSL 2 でDocker環境を構築する（Docker Desktop有料化対策） - ecbeing labs（イーシービーイング・ラボ）"
+        },
+        {
+          "id": "https://logmi.jp/tech/articles/324956",
+          "author": null,
+          "description": "Kernel/VM探検隊はカーネルや仮想マシンなどを代表とした、低レイヤーな話題でワイワイ盛り上がるマニアックな勉強会です。佐伯氏は、WebAssemblyのWebの外の応用について発表しました。全2回。前半は、Wasmがアツい理由とデザインゴールについて。 今回のテーマは「Kernel/VM的WebAssembly入門」 佐伯学哉氏（以下、佐...",
+          "link": "https://logmi.jp/tech/articles/324956",
+          "publishedOn": "2021-09-07T05:11:02.000Z",
+          "wordCount": 507,
+          "title": "WebAssemblyはJVMやeBPFのリバイバルではない　WasmがWeb以外でもアツい理由 - ログミーTech"
         },
         {
           "id": "https://zenn.dev/j5ik2o/articles/d37bd2c6924446",
@@ -7043,240 +7300,6 @@
           "publishedOn": "2021-08-10T12:26:26.000Z",
           "wordCount": 1419,
           "title": "機械学習のための数学について解説｜おすすめの書籍や講座も紹介！ | AI専門ニュースメディア AINOW"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP8B67CZP8BUCVL015.html",
-          "author": null,
-          "description": "囲碁の日本棋院は、AI（人工知能）を使った棋士の不正着手を防ぐため、対局中に抜き打ちで身体、荷物検査をすることを決めた。日本将棋連盟は不定期で対局前に検査をしているが、日本棋院は「抑止効果を高めるため」として、より踏み込んだ措置をとる。 人間の棋力をはるかに超えるようになったAIはスマートフォンで簡単...",
-          "link": "https://www.asahi.com/articles/ASP8B67CZP8BUCVL015.html",
-          "publishedOn": "2021-08-10T12:08:43.000Z",
-          "wordCount": 199,
-          "title": "囲碁の日本棋院、対局中の棋士をAI対策で抜き打ち検査：朝日新聞デジタル"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/10/news140.html",
-          "author": null,
-          "description": "佐賀県伊万里市の公式WebサイトがGoogleとYahoo！JAPANの検索エンジンで検索上位に表示されない状態が1週間以上続いていた。現在は復旧済み。 市の公式WebサイトがGoogleとYahoo！JAPANの検索結果に表示されない――磁器「伊万里焼」で有名な佐賀県伊万里市の公式Webサイトが、日本の2大検索エンジンの上位結果に表示され...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/10/news140.html",
-          "publishedOn": "2021-08-10T11:42:53.000Z",
-          "wordCount": 145,
-          "title": "市の公式ページが検索上位に表示されない――伊万里市がGoogleとヤフーにSOS（現在は復旧済み） - ITmedia NEWS"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210810195912",
-          "author": null,
-          "description": "いよいよブクマがつかなくなってきたな そこで、俺もKnoa氏にならって予測しようと思う ■予測に用いる条件 前週までのブクマ数。あとなにか左右する事象があったら俺のフィーリングで適当に数字を増減させる。 そうして書いた分布図から、それらしき数字をエイやっと決めます。細かい数字を出しても仕方ないので10の位ま...",
-          "link": "https://anond.hatelabo.jp/20210810195912",
-          "publishedOn": "2021-08-10T11:08:14.000Z",
-          "wordCount": 2051,
-          "title": "「東京の感染者数を5週間ぶん予測した」のブクマ数予測（8月10日分）"
-        },
-        {
-          "id": "https://zenn.dev/nanaki14/articles/html-template-react",
-          "author": null,
-          "description": "前置き HTMLを納品する形式の仕事の際にEJSやpugではなくReact+TypeScriptを使ってHTMLを生成しつつ開発体験を高めてほしい。 ということで具体的にどのようなメリットがあるのかを伝えたくてまとめてみました。 開発環境 1から環境を作るのは大変なので今回はクラクさんのministaを拡張していきます。 ministaの紹介記...",
-          "link": "https://zenn.dev/nanaki14/articles/html-template-react",
-          "publishedOn": "2021-08-10T10:56:54.000Z",
-          "wordCount": 286,
-          "title": "HTMLコーディングでもReact+TypeScriptの開発体験を得る"
-        },
-        {
-          "id": "https://photoshopvip.net/130442",
-          "author": null,
-          "description": "Web制作のたびに繰り返し手こずって、時間のかかってしまう作業ってないでしょうか。 作業の効率化や時短において、限界を感じているひとにこそ刺さる、知っておきたい最新オンラインツールをまとめてご紹介します。 面倒な作業もあっという間に終わるだけでなく、どれも無料で利用でき、これまでのWeb制作がガラリと変...",
-          "link": "https://photoshopvip.net/130442",
-          "publishedOn": "2021-08-10T10:44:25.000Z",
-          "wordCount": 313,
-          "title": "面倒なWeb制作におさらば！便利すぎる新登場オンラインツール48個まとめ - PhotoshopVIP"
-        },
-        {
-          "id": "https://www.infoq.com/jp/articles/github-monolith-microservices/",
-          "author": null,
-          "description": "GitHubでこの移行に取り掛かる前に、私たちは、決定の背後にある理由と、この変更を行うための目標について考えることに時間を費やしました。それは文化的な観点から私たちにとって大きな変化であり、多くの作業を必要とします。 私たちは意図的に考え、解決しようとしている問題や問題点について考える必要があります。...",
-          "link": "https://www.infoq.com/jp/articles/github-monolith-microservices/",
-          "publishedOn": "2021-08-10T10:01:23.000Z",
-          "wordCount": 1736,
-          "title": "GitHubのモノリスからマイクロサービスへのジャーニー"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210810090602",
-          "author": null,
-          "description": "はてなブックマークをやってるだけで人生を損している。 やってるっていうかやらされている感じ。 ブックマークされる側の人間を目指さねばならないのに、 ブックマークコメントへの評価で自己発露欲が解消されて、 人類への貢献もない。",
-          "link": "https://anond.hatelabo.jp/20210810090602",
-          "publishedOn": "2021-08-10T09:31:55.000Z",
-          "wordCount": 90,
-          "title": "はてなブックマークをやってるだけで人生を損している。 やってるっていう.."
-        },
-        {
-          "id": "https://ledge.ai/microsoft-iot-for-beginners-curriculum/",
-          "author": null,
-          "description": "米マイクロソフト（Microsoft）は、あらゆる年齢層の人がIoT（モノのインターネット）の基礎を学べるように、GitHub上に無料のカリキュラム「はじめてのIoT、カリキュラム（IoT for Beginners, curriculum）」を無料公開した。 本カリキュラムは「IoT入門」「デバイスをインターネットに接続する」「アプリケーションロ...",
-          "link": "https://ledge.ai/microsoft-iot-for-beginners-curriculum/",
-          "publishedOn": "2021-08-10T09:14:39.000Z",
-          "wordCount": 148,
-          "title": "マイクロソフト、初心者向けのIoTカリキュラム無料公開 12週間で学習できる | Ledge.ai"
-        },
-        {
-          "id": "https://japanese.engadget.com/realme-xiaomi-080029419.html",
-          "author": null,
-          "description": "世界的に新型コロナウィルスが経済に影響を落としている中、調査会社が発表したスマートフォン出荷量で大きな動きがありました。シャオミが暫定ながらも史上初の1位に、またrealmeが恐ろしいほどの急成長で存在感を高めています。 カウンターポイントの調査では、2021年6月の全世界のスマートフォン出荷量でシャオミがサ...",
-          "link": "https://japanese.engadget.com/realme-xiaomi-080029419.html",
-          "publishedOn": "2021-08-10T09:04:44.000Z",
-          "wordCount": 237,
-          "title": "サムスンを抜きシャオミがスマホ出荷台数で世界1位に（山根博士） - Engadget 日本版"
-        },
-        {
-          "id": "https://engineering.mercari.com/blog/entry/20210810-the-new-mercari-web/",
-          "author": null,
-          "description": "@1000ch です、今回は新しいメルカリ Web について書きます。この大きなプロジェクトのリリースは、多くの人の多大なる貢献によって成されたものです。そのプロジェクトの立ち上がりから今日まで、リードする役割でプロジェクトを見てきた一部始終を記録するべく書きます。 メルカリにおけるレガシーなソフトウェア ソフ...",
-          "link": "https://engineering.mercari.com/blog/entry/20210810-the-new-mercari-web/",
-          "publishedOn": "2021-08-10T08:09:52.000Z",
-          "wordCount": 277,
-          "title": "新しいメルカリ Web の話 | メルカリエンジニアリング"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/10/news120.html",
-          "author": null,
-          "description": "電気通信大学が、炎天下で発熱したスマートフォンの効果的な冷却方法について実験した結果を公開した。最も効果的だったのは、スマホの電源を切って直射日光を避け、扇風機の風を当てる方法だったという。一方、冷蔵庫や保冷剤での冷却は故障の原因になるとした。 電気通信大学は8月10日、炎天下で発熱したスマートフォ...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/10/news120.html",
-          "publishedOn": "2021-08-10T08:08:51.000Z",
-          "wordCount": 139,
-          "title": "炎天下で60度に発熱したスマホ、効果的な冷却方法は？　電通大が実験 - ITmedia NEWS"
-        },
-        {
-          "id": "https://japanese.engadget.com/14-16-inch-macbookpro-finally-enter-mass-production-070020304.html",
-          "author": null,
-          "description": "次期14インチおよび16インチMacBook Proの発売が間近と噂されてきたなか、ついに量産が開始されたとのサプライチェーン情報が伝えられています。 台湾の電子部品業界情報誌DigiTimes報道によると、アップルはデザインを刷新した「MacBook Pro」両モデルの量産を開始し、11月末までに月間80万台の出荷を見込んでいるとの...",
-          "link": "https://japanese.engadget.com/14-16-inch-macbookpro-finally-enter-mass-production-070020304.html",
-          "publishedOn": "2021-08-10T08:06:25.000Z",
-          "wordCount": 215,
-          "title": "次期14インチおよび16インチMacBook Pro、ついに量産開始の噂 - Engadget 日本版"
-        },
-        {
-          "id": "https://jp.reuters.com/article/health-coronavirus-vaccine-israel-idJPKBN2FA26H",
-          "author": null,
-          "description": "イスラエルで新型コロナウイルスワクチンの３回目の接種を受けた人を対象に行われた調査によると、大半の人に２回目の接種後と同程度、もしくはそれよりも軽い副反応が出たことが分かった。写真はファイザーのロゴ。ニューヨークで３月撮影（２０２１年　ロイター／Carlo Allegri） ［エルサレム　８日　ロイター］ - イ...",
-          "link": "https://jp.reuters.com/article/health-coronavirus-vaccine-israel-idJPKBN2FA26H",
-          "publishedOn": "2021-08-10T06:47:27.000Z",
-          "wordCount": 25,
-          "title": "ファイザー製ワクチンの追加接種、副反応は2回目と同程度＝調査 | ロイター"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/mobile/articles/2108/10/news106.html",
-          "author": null,
-          "description": "Appleの決済システム「Apple Pay」において、イオングループの「WAON（ワオン）」とセブン&アイグループの「nanaco（ナナコ）」が利用できるようになる。2021年内の対応を予定しているが、詳細は後日発表されるという。 イオンリテールなどが発行する電子マネー「WAON（ワオン）」と、セブン・カードサービスが発行する...",
-          "link": "https://www.itmedia.co.jp/mobile/articles/2108/10/news106.html",
-          "publishedOn": "2021-08-10T06:05:19.000Z",
-          "wordCount": 514,
-          "title": "「WAON」「nanaco」がApple Payに対応　2021年内に - ITmedia Mobile"
-        },
-        {
-          "id": "https://zenn.dev/nana/articles/f20970c2d77214",
-          "author": null,
-          "description": "はじめに この記事はこれからReactやJavaScriptを0から学びたいと思う人に向けての記事です。 こちらの本を紹介したいなという、ただの布教記事です。 自分もそれなりにJavaScriptを書いて、Reactを勉強してきたと思っていましたが こちらの本を読んで、まだまだ序の口だったのだなと感じました。 もちろん、何年もJavaS...",
-          "link": "https://zenn.dev/nana/articles/f20970c2d77214",
-          "publishedOn": "2021-08-10T06:02:10.000Z",
-          "wordCount": 156,
-          "title": "Reactハンズオンラーニングを読んだので感想"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/08/10/2021-07-18-the-end-of-open-source/",
-          "author": null,
-          "description": "本稿の著者Shaun O’Meara（ショーン・オメーラ）氏は、MirantisのグローバルフィールドCTO。企業のITインフラストラクチャの設計と構築において20年間、顧客と仕事をしてきた。 ーーー 数週間前、ミネソタ大学の研究者らにより「偽善者のコミット」と彼らが呼ぶものをLinuxカーネルに投入するメソッドが展開されたという...",
-          "link": "https://jp.techcrunch.com/2021/08/10/2021-07-18-the-end-of-open-source/",
-          "publishedOn": "2021-08-10T05:28:00.000Z",
-          "wordCount": 357,
-          "title": "【コラム】オープンソースの終焉が来ているのだろうか？ | TechCrunch Japan"
-        },
-        {
-          "id": "https://wired.jp/2021/08/10/ai-phishing-emails/",
-          "author": null,
-          "description": "自然言語処理の意外な分野への進出が止まらない。今度はフィッシング詐欺のメールだ。高性能な言語生成アルゴリズムとして知られる「GPT-3」とAIaaS（サーヴィスとしてのAI）のプラットフォームを利用することで、特定の個人や団体を標的にした大規模なスピアフィッシング詐欺への参入障壁を大幅に下げられることを、あ...",
-          "link": "https://wired.jp/2021/08/10/ai-phishing-emails/",
-          "publishedOn": "2021-08-10T05:06:44.000Z",
-          "wordCount": 131,
-          "title": "説得力のあるフィッシング詐欺のメールを、AIが人間よりうまく“書く”時代がやってきた | WIRED.jp"
-        },
-        {
-          "id": "https://engineering.mercari.com/blog/entry/20210810-mercari-shops-tech-stack/",
-          "author": null,
-          "description": "7月末にメルカリShopsという新しいサービスが公開されました。メルカリShops は、2021年1月にメルカリのグループ会社として設立したソウゾウが新たに立ち上げたサービスです。 この記事では、メルカリShops を作るにあたり、どういった技術、アーキテクチャを選定したのか、その背景と意思決定をまとめて共有したいと思...",
-          "link": "https://engineering.mercari.com/blog/entry/20210810-mercari-shops-tech-stack/",
-          "publishedOn": "2021-08-10T03:41:22.000Z",
-          "wordCount": 401,
-          "title": "メルカリShops の技術スタックと、その選定理由 | メルカリエンジニアリング"
-        },
-        {
-          "id": "https://gigazine.net/news/20210810-udemy-free-course/",
-          "author": null,
-          "description": "新たなスキルを身につけたいと思った時に問題になるのが「どうやって身につけるか」です。インターネットが発達したおかげで、書籍以外にもさまざまな方法を選べるようになりましたが、新しい方法というのはなかなか手を出しづらいもの。今回は、ムービー形式で講座を受講できるというサービス「Udemy」から、ムービーの...",
-          "link": "https://gigazine.net/news/20210810-udemy-free-course/",
-          "publishedOn": "2021-08-10T03:28:23.000Z",
-          "wordCount": 246,
-          "title": "【全編無料】GoogleやAdobeなど実力ある講師が多数登場、マーケ・デザイン・プログラミング・ゲーム作成などが学べるオンライン学習プラットフォーム「Udemy」のおすすめ無料講座7選 - GIGAZINE"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/10/news074.html",
-          "author": null,
-          "description": "格安ながら機能はハイエンド！　税込み2980円のネットワークカメラ「ATOM Cam 2」を試す：防水／防じん対応でさらに盤石に（1/3 ページ） 圧倒的な低価格で人気を集めたATOM techのネットワークカメラ「ATOM Cam」に、後継モデルが登場した。新モデル「ATOM Cam 2」は何が変わったのか、実機を使って試してみた。 アトム...",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/10/news074.html",
-          "publishedOn": "2021-08-10T03:17:35.000Z",
-          "wordCount": 540,
-          "title": "格安ながら機能はハイエンド！　税込み2980円のネットワークカメラ「ATOM Cam 2」を試す：防水／防じん対応でさらに盤石に（1/3 ページ） - ITmedia PC USER"
-        },
-        {
-          "id": "https://tech.mobilefactory.jp/entry/2021/08/10/100000",
-          "author": null,
-          "description": "はじめに こんにちは。ブロックチェーンチームのエンジニア、 @nanamachi です。 tech.mobilefactory.jp 前回の記事ではたくさんの方に閲覧&コメントいただきありがとうございました。この記事から1年。モバイルファクトリーは日本のどこからでも働けるようになり、書籍購入、資格取得、セミナー参加、懇親会の支援制度...",
-          "link": "https://tech.mobilefactory.jp/entry/2021/08/10/100000",
-          "publishedOn": "2021-08-10T01:23:31.000Z",
-          "wordCount": 440,
-          "title": "突撃！ 在宅の開発環境 2021年夏 - Mobile Factory Tech Blog"
-        },
-        {
-          "id": "https://blog.ichikaway.com/entry/2021/08/09/161426/aite9",
-          "author": null,
-          "description": "IP制限しているTCP 22(sshd)や3306(MySQL)のようなポートが空いていないかチェックするツールを作りました。 たとえば設定ミスで22番ポートがすべてのIPを許可している状態になってしまっていたというケースがありそうで、サーバ台数が数百台になってくるといちいち気にしているのが面倒なのでチェックする簡易ポートス...",
-          "link": "https://blog.ichikaway.com/entry/2021/08/09/161426/aite9",
-          "publishedOn": "2021-08-10T00:37:16.000Z",
-          "wordCount": 118,
-          "title": "ポートが閉じてることを外部から監視するポートスキャナー（slack通知付き） - Code Day's Night"
-        },
-        {
-          "id": "https://piyolog.hatenadiary.jp/entry/2021/08/10/063000",
-          "author": null,
-          "description": "2021年8月5日、村田製作所は再委託先企業の従業員が取引先情報や個人情報などを含むデータを無許可でダウンロードした上、外部のクラウドサービスへアップロードを行っていたとして不適切な取り扱いの発生を公表しました。ここでは関連する情報をまとめます。 外部流出ないが状況鑑み公表 不適切な取り扱いを行ったのは...",
-          "link": "https://piyolog.hatenadiary.jp/entry/2021/08/10/063000",
-          "publishedOn": "2021-08-09T22:04:28.000Z",
-          "wordCount": 168,
-          "title": "個人利用クラウドへのアップロードも行われた再委託先従業員による情報持ち出しについてまとめてみた - piyolog"
-        },
-        {
-          "id": "https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env",
-          "author": null,
-          "description": "TL;DR VS Code前提になってしまいますが、VS Code Remote Containers拡張最強です、という話。実際にどういう風に作れば良いかは参考リポジトリ作ったので見て下さい。 はじめに 背景ぼかしのような推論結果を使ってカメラ画像にフィルタを入れる処理を書くとき、今だと選択肢は大きく分けて2つあります。 tfjsを使う Wa...",
-          "link": "https://zenn.dev/kounoike/articles/20210809-powerful-wasm-build-env",
-          "publishedOn": "2021-08-09T21:48:33.000Z",
-          "wordCount": 211,
-          "title": "ぼくがかんがえたさいきょうのWasmビルド環境"
-        },
-        {
-          "id": "https://webweb.hatenablog.com/blog/search-engine/covid19-search",
-          "author": null,
-          "description": "コロナ禍への現状での最大の対抗策、ワクチン接種に関する誤解の広がりが大きな問題になっています｡ コロナウイルスやワクチンに関する誤解は、通常の人間関係での口コミなど様々な経路で伝わるでしょうが､ネットが主な経路というケースも少なくないでしょう。 どのような人々がワクチン接種をしたがらないか独立行政法...",
-          "link": "https://webweb.hatenablog.com/blog/search-engine/covid19-search",
-          "publishedOn": "2021-08-09T21:44:08.000Z",
-          "wordCount": 270,
-          "title": "コロナワクチンの誤情報拡散 検索エンジンの取組みと問題点 - web > SEO"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html",
-          "author": null,
-          "description": "ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 オープンソースの検索エンジンElasticsearchは、ログ解析による運用監視やセキュリティインシデントの発見、データ分析などに使われている人気のソフトウェアです。 その開発元であるElasticは、E...",
-          "link": "https://www.publickey1.jp/blog/21/elasticaws_opensearchaws.html",
-          "publishedOn": "2021-08-09T15:02:34.000Z",
-          "wordCount": 240,
-          "title": "ElasticのクライアントライブラリがAWS OpenSearchへの接続を排除。AWSは仕方なくクライアントライブラリのフォークを発表 － Publickey"
         }
       ]
     },
@@ -7323,6 +7346,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=351389",
+          "author": "Chris Coyier",
+          "description": "Here’s Atif Afzal on using a <div> that is permanently on the page where tooltips are added/removed and how they perform vastly better than plopping those same tooltips right into the <body>. It’s not really discussed, but the reason …\nThe post Don’t attach tooltips to document.body appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/dont-attach-tooltips-to-document-body/",
+          "publishedOn": "2021-09-08T19:08:55.000Z",
+          "wordCount": 537,
+          "title": "Don’t attach tooltips to document.body"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351043",
+          "author": "Tapas Adhikary",
+          "description": "I love shapes, especially colorful ones! Shapes on websites are in the same category of helpfulness as background colors, images, banners, section separators, artwork, and many more: they can help us understand context and inform our actions through affordances.\nA …\nThe post The Story Behind TryShape, a Showcase for the CSS clip-path property appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-story-behind-tryshape-a-showcase-for-the-css-clip-path-property/",
+          "publishedOn": "2021-09-08T14:30:18.000Z",
+          "wordCount": 2565,
+          "title": "The Story Behind TryShape, a Showcase for the CSS clip-path property"
+        },
         {
           "id": "https://css-tricks.com/?p=351276",
           "author": "Chris Coyier",
@@ -7412,6 +7453,15 @@
           "publishedOn": "2021-09-02T14:30:55.000Z",
           "wordCount": 1607,
           "title": "If I work really hard on my Open Graph images, people will share my blog posts."
+        },
+        {
+          "id": "https://css-tricks.com/?p=351143",
+          "author": "Chris Coyier",
+          "description": "A fun exercise from Terence Eden. You can send an HTML file over the wire including anything a website might need without requesting any other files. CSS and JavaScript are easy, because there are <script and <style tags. Images and …\nThe post You don’t need external assets in an HTML file appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://shkspr.mobi/blog/2021/08/you-dont-need-external-assets-in-an-html-file/",
+          "publishedOn": "2021-09-02T00:29:23.000Z",
+          "wordCount": 1413,
+          "title": "You don’t need external assets in an HTML file"
         },
         {
           "id": "https://css-tricks.com/?p=351172",
@@ -7799,33 +7849,6 @@
           "publishedOn": "2021-08-10T14:51:39.000Z",
           "wordCount": 2378,
           "title": "CSS Nesting, specificity, and you"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346368",
-          "author": "Chris Coyier",
-          "description": "It might be the very first thing a lot of people learn in JavaScript:\nalert(\"Hello, World\");\nOne day at CodePen, we woke up to a ton of customer support tickets about their Pens being broken, which ultimately boiled down to …\nThe post Choice Words about the Upcoming Deprecation of JavaScript Dialogs appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/choice-words-about-the-upcoming-deprecation-of-javascript-dialogs/",
-          "publishedOn": "2021-08-09T21:23:44.000Z",
-          "wordCount": 1484,
-          "title": "Choice Words about the Upcoming Deprecation of JavaScript Dialogs"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346316",
-          "author": "Chris Coyier",
-          "description": "We’ve got viewport units (e.g. vw, vh, vmin, vmax), and they are mostly pretty great. It’s cool to always have a unit available that is relative to the entire screen. But when you ask people what …\nThe post The Large, Small, and Dynamic Viewports appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/",
-          "publishedOn": "2021-08-09T20:37:39.000Z",
-          "wordCount": 1999,
-          "title": "The Large, Small, and Dynamic Viewports"
-        },
-        {
-          "id": "https://css-tricks.com/?p=345642",
-          "author": "Temani Afif",
-          "description": "In my previous article, I created a fragmentation effect using CSS mask and custom properties. It was a neat effect but it has one drawback: it uses a lot of CSS code (generated using Sass). This time I am …\nThe post Exploring the CSS Paint API: Image Fragmentation Effect appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/exploring-the-css-paint-api-image-fragmentation-effect/",
-          "publishedOn": "2021-08-09T14:27:18.000Z",
-          "wordCount": 2534,
-          "title": "Exploring the CSS Paint API: Image Fragmentation Effect"
         }
       ]
     },
@@ -7947,6 +7970,69 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/es404020/merging-interfaces-in-typescript-28m0",
+          "author": "es404020",
+          "description": "The simplest, and perhaps most common, type of declaration merging is interface merging. At the most basic level, the merge mechanically joins the members of both declarations into a single interface with the same name.\ninterface Box {\n  height: number;\n  width: number;\n}\ninterface Box {\n  scale: number;\n}\nlet box: Box = { height: 5, width: 6, scale: 10 };",
+          "link": "https://dev.to/es404020/merging-interfaces-in-typescript-28m0",
+          "publishedOn": "2021-09-08T21:09:27.000Z",
+          "wordCount": 400,
+          "title": "Merging Interfaces in Typescript"
+        },
+        {
+          "id": "https://dev.to/linearb/will-the-real-senior-dev-please-stand-up-2021-edition-1k4j",
+          "author": "Conor Bronsdon",
+          "description": "This article was written exclusively for devinterrupted.com by Tomasz Waraksa\nDzone titled The Rise and Fall of a Senior Developer. Filled with personal anecdotes and stories from my years as a software engineer, the article was a critique of industry practices surrounding the somewhat controversial issue of ranking programmers’ seniority. I realized that I might sound like an elitist dinosaur patronizing the upcoming generation of software engineers. A sort of “back in my day we did things differently” mentality that every generation seems to age into.\nSo you can imagine my surprise when the article became not only my most popular submission, but caught the eye of Dan Lines, host of the Dev Interrupted podcast.\nIn a follow-up to my article from last year, I’d like to share some of the tak…",
+          "link": "https://dev.to/linearb/will-the-real-senior-dev-please-stand-up-2021-edition-1k4j",
+          "publishedOn": "2021-09-08T16:23:35.000Z",
+          "wordCount": 2058,
+          "title": "Will the Real Senior Dev Please Stand Up? (2021 Edition)"
+        },
+        {
+          "id": "https://dev.to/codever/how-to-set-query-parameters-in-angular-rest-call-4hl6",
+          "author": "Adrian Matei",
+          "description": "In Codever we use extensively the Angular Http Client to make REST calls against a NodeJs/ExpressJS API - source code on Github.\nIn the following snippet you can see hot to set http query parameters to the rest api calls.\nUse the HttpParams class with the params request option to add URL query strings in your HttpRequest:\n  getFilteredPersonalBookmarks(searchText: string, limit: number, page: number, userId: string, include: string): Observable<Bookmark[]> {\n    const params = new HttpParams()\n      .set('q', searchText)\n      .set('page', page.toString())\n      .set('limit', limit.toString())\n      .set('include', include);\n    return this.httpClient.get<Bookmark[]>(`${this.personalBookmarksApiBaseUrl}/${userId}/bookmarks`,\n      {params: params})\n      .pipe(shareReplay(1));\n  }\n\n\nShared with ❤️ from Codever.  👉  use the copy to mine functionality to add it to your personal snippets collection.",
+          "link": "https://dev.to/codever/how-to-set-query-parameters-in-angular-rest-call-4hl6",
+          "publishedOn": "2021-09-08T08:47:09.000Z",
+          "wordCount": 490,
+          "title": "How to set query parameters in angular rest call"
+        },
+        {
+          "id": "https://dev.to/es404020/typescript-readonly-utility-7mi",
+          "author": "es404020",
+          "description": "Readonly\nConstructs a type with all properties of Type set to readonly, meaning the properties of the constructed type cannot be reassigned.\n\ninterface Todo {\n  title: string;\n}\n\nconst todo: Readonly<Todo> = {\n  title: \"Delete inactive users\",\n};\n\ntodo.title = \"Hello\";\n\n\nAssigning a title to Todo Interface would throw an error .\nReleased:2.1\nReference: Official typescript docs",
+          "link": "https://dev.to/es404020/typescript-readonly-utility-7mi",
+          "publishedOn": "2021-09-08T07:17:16.000Z",
+          "wordCount": 386,
+          "title": "Typescript Utility Readonly"
+        },
+        {
+          "id": "https://dev.to/es404020/typescript-partial-utility-15pm",
+          "author": "es404020",
+          "description": "Partial\nConstructs a type with all properties of Type set to optional. This utility will return a type that represents all subsets of a given type.\ninterface Todo {\n  title: string;\n  description: string;\n}\n\nfunction updateTodo(todo: Todo, fieldsToUpdate: Partial<Todo>) {\n  return { ...todo, ...fieldsToUpdate };\n}\n\nconst todo1 = {\n  title: \"organize desk\",\n  description: \"clear clutter\",\n};\n\nconst todo2 = updateTodo(todo1, {\n  description: \"throw out trash\",\n})\n\nReleased:\nReference :Typescript official docs",
+          "link": "https://dev.to/es404020/typescript-partial-utility-15pm",
+          "publishedOn": "2021-09-08T07:14:05.000Z",
+          "wordCount": 394,
+          "title": "Typescript Utility Partial"
+        },
+        {
+          "id": "https://dev.to/jdgamble555/firestore-using-reference-types-for-joins-4194",
+          "author": "Jonathan Gamble",
+          "description": "What do we even use these \"reference\" types for? I mean, Firestore doesn't even have any joins.\nOkay, very true. But, I finally found a use for them in Firebase 9 SDK when I \"expanded\" my mind. Technically you can search for a reference just like anything else:\nNote: - I am using some Angular Examples here from Angular Firebase 9, but the theory is the same in all Firebase frameworks and in Version 8.\nuserRef = doc(this.afs, 'users', 'CnbasS9cZQ2SfvGY2r3b');\n\nthis.posts = collectionData<Post>(\n  query(\n    collection(this.afs, 'posts'),\n    where('userDoc', '==', userRef),\n    orderBy('createdAt')\n  ), { idField: 'id' }\n);\n\nSo what is the point of that? Actually, nothing. I couldn't really find an advantage. You could just as easily store and search for a document ID. Please let me know if…",
+          "link": "https://dev.to/jdgamble555/firestore-using-reference-types-for-joins-4194",
+          "publishedOn": "2021-09-08T04:17:38.000Z",
+          "wordCount": 852,
+          "title": "Firestore: Using Reference Types for Joins"
+        },
+        {
+          "id": "https://dev.to/rafael_abuawad/create-dapps-with-angular-and-python-brownie-eth-11n7",
+          "author": "Rafo AV",
+          "description": "TL;DR\n\n\nGo to the Brownie Angular Mix that I created, clone the repo and start working!\nThe repository is very simple, it includes an angular module called storage, that contains a basic demo so you can understand how it works and apply the same logic on your own custom module.\nDon't forget to run the postinstall command, this command fixes and issues between angular and web3. Read the README for more info.\nHope you like it! If you find any issues feel free to leave a comment or create an issue on GitHub, I'll try to respond a soon as possible!",
+          "link": "https://dev.to/rafael_abuawad/create-dapps-with-angular-and-python-brownie-eth-11n7",
+          "publishedOn": "2021-09-08T01:32:56.000Z",
+          "wordCount": 493,
+          "title": "Create DApps with Angular and Python (Brownie ETH)"
+        },
         {
           "id": "https://dev.to/es404020/typescript-enum-3035",
           "author": "es404020",
@@ -9215,42 +9301,6 @@
           "publishedOn": "2021-08-10T13:31:02.000Z",
           "wordCount": 1045,
           "title": "@Output(), compartilhando dados entre filho e pai, e até avô !"
-        },
-        {
-          "id": "https://dev.to/raj_sekhar/insights-on-web-frameworks-from-3y-stack-overflow-surveys-16o1",
-          "author": "Raj Sekhar",
-          "description": "Stackoverflow surveys play a big role to understand trends and also impact the decision making for new projects. So I though of analyzing and finding small insights, specifically on frontend and backend web frameworks from the survey results since 2019 to 2021. I kept developers and freshers in mind and have added few points that could help in understanding the trends and opportunities.\nAll the figures displayed below are in %.\nPopularity tells us the number of available projects and developers. Hence, the higher %, the easy it is to find a job/developer.\n\n\n\nFramework\n2019\n2020\n2021\n\n\n\n\nReact\n32.3\n36.8\n41.4\n\n\nAngular\n32.4\n26.5\n26.2\n\n\nVue\n15.5\n17.8\n20.1\n\n\nSvelte\n\n\n02.6\n\n\n\nThis tells us the satisfaction level of developers, and if they would like to continue using it. Hence, the higher %, th…",
-          "link": "https://dev.to/raj_sekhar/insights-on-web-frameworks-from-3y-stack-overflow-surveys-16o1",
-          "publishedOn": "2021-08-10T10:41:59.000Z",
-          "wordCount": 1186,
-          "title": "Insights On Web Frameworks From 3Y Stack overflow Surveys"
-        },
-        {
-          "id": "https://dev.to/ippatev/how-can-i-set-yarn-as-the-default-packagemanager-for-angular-cli-3i59",
-          "author": "Aleksandr Ippatev",
-          "description": "You hav to update package manager from npm to yarn.\nng config --global cli.packageManager yarn\n\nif you need back yarn to npm then\nng config --global cli.packageManager npm",
-          "link": "https://dev.to/ippatev/how-can-i-set-yarn-as-the-default-packagemanager-for-angular-cli-3i59",
-          "publishedOn": "2021-08-10T07:26:02.000Z",
-          "wordCount": 381,
-          "title": "How can I set yarn as the default packageManager for Angular CLI?"
-        },
-        {
-          "id": "https://dev.to/karvel/a-curated-list-of-angular-resources-57ga",
-          "author": "Elanna Grossman",
-          "description": "Having worked with Angular since mid-2017, I have collected many resources that I have found useful. I will keep this list up to date.\nAngular.io Includes good tutorials, detailed documentation, and API references along with interactive code snippets. This should be the default destination for Angular questions. Note: There are multiple versions of the “Tour of Heroes” tutorial demonstrating different concepts.\nAngular.io Resources The official and hopefully maintained list of resources from the Angular team.\nJohn Papa style guide The de facto style guide for Angular has been officially adopted by the Angular team and is now hosted on the official website. It is highly opinionated, but makes good cases for its suggestions. I follow most of it and do not disagree strongly with any of its su…",
-          "link": "https://dev.to/karvel/a-curated-list-of-angular-resources-57ga",
-          "publishedOn": "2021-08-10T02:18:41.000Z",
-          "wordCount": 1488,
-          "title": "A Curated List of Angular Resources"
-        },
-        {
-          "id": "https://dev.to/rfornal/using-json-in-angular-19ca",
-          "author": "bob.js",
-          "description": "Being able to import and process JSON files provides a whole host of configuration options, as well as providing a means of capturing data locally for development purposes.\nWhen I started using this pattern, I was looking for a means to provide basic configuration (i.e. Feature Flags). The process quickly evolved into ...\nAuthorization\nConfiguration (Feature Flags)\nLanguage\nHost Names\nCore Structures (think titles matching data keys)\nBut first, I needed to be able to read these files.\nIn the tsconfig.json file I added the \"resolveJsonModule\": true configuration option under the compilerOptions key:\n{\n  \"compileOnSave\": false,\n  \"compilerOptions\": {\n    ...\n    \"resolveJsonModule\": true,\n    ...\n}\n\nAdditionally, I learned that I can read a JSON file that is in the assets folder via an http.…",
-          "link": "https://dev.to/rfornal/using-json-in-angular-19ca",
-          "publishedOn": "2021-08-09T14:40:17.000Z",
-          "wordCount": 1236,
-          "title": "Using JSON in Angular"
         }
       ]
     },
@@ -9259,6 +9309,24 @@
       "feedUrl": "https://dev.to/feed/tag/rxjs",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/puppo/rxjs-observer-and-subscription-5cg3",
+          "author": "Luca Del Puppo",
+          "description": "Welcome back guys,\nObservers and Subscriptions.\nAn observer is a consumer of values. An observer is something that is interested to the emitted values by the observable. In RxJS an Observer is simply a set of callbacks (next, error, complete). \nimport { Observer } from \"rxjs\";\n\nconst observer: Observer<string> = {\n  next: (value: string) =>\n    console.log(`[observer] next`, value),\n  error: (error: Error) =>\n    console.error(`[observer] error`, error),\n  complete: () =>\n    console.log(`[observer] complete!`),\n};\n\nAs you can see an observer has three callbacks, one for each type of notification that an Observable may emit. Every callback can react in the base of the observable event notification.\nimport {\n  NextObserver,\n  ErrorObserver,\n  CompletionObserver,\n} from \"rxjs\";\n\nconst nextOb…",
+          "link": "https://dev.to/puppo/rxjs-observer-and-subscription-5cg3",
+          "publishedOn": "2021-09-08T05:31:15.000Z",
+          "wordCount": 1086,
+          "title": "RxJS - Observer and Subscription"
+        },
+        {
+          "id": "https://dev.to/jdgamble555/firestore-using-reference-types-for-joins-4194",
+          "author": "Jonathan Gamble",
+          "description": "What do we even use these \"reference\" types for? I mean, Firestore doesn't even have any joins.\nOkay, very true. But, I finally found a use for them in Firebase 9 SDK when I \"expanded\" my mind. Technically you can search for a reference just like anything else:\nNote: - I am using some Angular Examples here from Angular Firebase 9, but the theory is the same in all Firebase frameworks and in Version 8.\nuserRef = doc(this.afs, 'users', 'CnbasS9cZQ2SfvGY2r3b');\n\nthis.posts = collectionData<Post>(\n  query(\n    collection(this.afs, 'posts'),\n    where('userDoc', '==', userRef),\n    orderBy('createdAt')\n  ), { idField: 'id' }\n);\n\nSo what is the point of that? Actually, nothing. I couldn't really find an advantage. You could just as easily store and search for a document ID. Please let me know if…",
+          "link": "https://dev.to/jdgamble555/firestore-using-reference-types-for-joins-4194",
+          "publishedOn": "2021-09-08T04:17:38.000Z",
+          "wordCount": 852,
+          "title": "Firestore: Using Reference Types for Joins"
+        },
         {
           "id": "https://dev.to/jdgamble555/angular-12-with-firebase-9-49a0",
           "author": "Jonathan Gamble",
@@ -9393,15 +9461,6 @@
           "publishedOn": "2021-08-10T16:48:38.000Z",
           "wordCount": 463,
           "title": "RxJS: Reduce vs Scan"
-        },
-        {
-          "id": "https://dev.to/karvel/a-curated-list-of-angular-resources-57ga",
-          "author": "Elanna Grossman",
-          "description": "Having worked with Angular since mid-2017, I have collected many resources that I have found useful. I will keep this list up to date.\nAngular.io Includes good tutorials, detailed documentation, and API references along with interactive code snippets. This should be the default destination for Angular questions. Note: There are multiple versions of the “Tour of Heroes” tutorial demonstrating different concepts.\nAngular.io Resources The official and hopefully maintained list of resources from the Angular team.\nJohn Papa style guide The de facto style guide for Angular has been officially adopted by the Angular team and is now hosted on the official website. It is highly opinionated, but makes good cases for its suggestions. I follow most of it and do not disagree strongly with any of its su…",
-          "link": "https://dev.to/karvel/a-curated-list-of-angular-resources-57ga",
-          "publishedOn": "2021-08-10T02:18:41.000Z",
-          "wordCount": 1488,
-          "title": "A Curated List of Angular Resources"
         }
       ]
     },
@@ -9410,6 +9469,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=31912",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/work/vscode-bracket-pair-colorization.html",
+          "publishedOn": "2021-09-08T00:36:14.000Z",
+          "wordCount": 340,
+          "title": "これは便利、VS Codeの設定を変更しよう！v.1.60のアップデートで、ブラケットのカラー化にネイティブ対応"
+        },
         {
           "id": "https://coliss.com/?p=31838",
           "author": "コリス🥦",
@@ -9606,6 +9674,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/cb3d09ba311b",
+          "author": "Shalitha Suranga",
+          "description": "Double your coding speed while keeping the quality of work\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-tips-to-write-code-faster-in-any-programming-language-cb3d09ba311b?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-08T17:33:07.000Z",
+          "wordCount": 1451,
+          "title": "5 Tips to Write Code Faster In Any Programming Language"
+        },
+        {
+          "id": "https://medium.com/p/30269f99bef0",
+          "author": "Mark Lucking",
+          "description": "Leverage the Combine Framework with the SwiftUI animation modifier\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/linking-animations-using-animatablemodifier-in-swiftui-30269f99bef0?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-08T16:55:04.000Z",
+          "wordCount": 881,
+          "title": "Linking Animations Using AnimatableModifier in SwiftUI"
+        },
+        {
+          "id": "https://medium.com/p/b16d28906e3f",
+          "author": "Erik van Baaren",
+          "description": "A quick overview for those already familiar with similar languages, like Java, Kotlin, C++, and C#\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/9-features-i-love-about-the-dart-programming-language-b16d28906e3f?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-08T14:32:08.000Z",
+          "wordCount": 1229,
+          "title": "9 Features I Love About the Dart Programming Language"
+        },
+        {
+          "id": "https://medium.com/p/8ed2d86f5714",
+          "author": "Jennifer Fu",
+          "description": "An introduction to popular machine learning algorithms\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/machine-learning-theory-and-programming-supervised-learning-regression-analysis-8ed2d86f5714?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-08T14:04:02.000Z",
+          "wordCount": 2027,
+          "title": "Machine Learning Theory and Programming — Supervised Learning: Regression Analysis"
+        },
+        {
+          "id": "https://medium.com/p/ea525e73ecfa",
+          "author": "Ashley Peacock",
+          "description": "5 tips to start your journey towards becoming a successful public speaker\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-become-more-comfortable-speaking-publicly-from-an-engineer-who-hated-it-ea525e73ecfa?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-08T13:37:54.000Z",
+          "wordCount": 1253,
+          "title": "How To Become More Comfortable Speaking Publicly — From an Engineer Who Hated It"
+        },
+        {
+          "id": "https://medium.com/p/ed3d8a69adf3",
+          "author": "Lee Kah Seng",
+          "description": "Say goodbye to data races\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/preventing-data-races-using-actors-in-swift-ed3d8a69adf3?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-08T13:03:46.000Z",
+          "wordCount": 1528,
+          "title": "Preventing Data Races Using Actors in Swift"
+        },
+        {
+          "id": "https://medium.com/p/665affca236c",
+          "author": "Vladimir Topolev",
+          "description": "Power up your web apps with promises",
+          "link": "https://betterprogramming.pub/5-javascript-promises-util-functions-to-spice-up-your-apps-665affca236c?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-08T12:42:12.000Z",
+          "wordCount": 977,
+          "title": "5 JavaScript Promises Util Functions To Spice Up Your Apps"
+        },
+        {
+          "id": "https://medium.com/p/b121c3e75d08",
+          "author": "Sunny Beatteay",
+          "description": "How computers make random decisions\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/generating-random-numbers-is-a-lot-harder-than-you-think-b121c3e75d08?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-08T12:02:32.000Z",
+          "wordCount": 1801,
+          "title": "Generating Random Numbers Is a Lot Harder Than You Think"
+        },
+        {
+          "id": "https://medium.com/p/8cf17d327fe4",
+          "author": "M. Vissers",
+          "description": "Let’s start understanding Ethereum smart contracts\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/a-quick-guide-to-basic-solidity-for-developers-8cf17d327fe4?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-08T10:06:42.000Z",
+          "wordCount": 544,
+          "title": "A Quick Guide to Basic Solidity for Developers"
+        },
+        {
+          "id": "https://medium.com/p/a0a06a4f43ae",
+          "author": "Michael Miller",
+          "description": "Master dynamic imports to boost the speed of your apps\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/master-dynamic-imports-in-under-5-minutes-a0a06a4f43ae?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-08T07:54:05.000Z",
+          "wordCount": 1009,
+          "title": "How Dynamic Importing Helps Increase the Performance of JavaScript Applications"
+        },
         {
           "id": "https://medium.com/p/2e4e8634f5a9",
           "author": "Yong Cui",
@@ -11432,96 +11590,6 @@
           "publishedOn": "2021-08-10T13:02:41.000Z",
           "wordCount": 2225,
           "title": "How One Rogue User Took Down Our API"
-        },
-        {
-          "id": "https://medium.com/p/1c3358a34e5d",
-          "author": "Isabel Nyo",
-          "description": "Leverage the most significant development in the future of work\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/how-to-hire-the-best-freelance-developers-in-the-gig-economy-1c3358a34e5d?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-09T17:52:44.000Z",
-          "wordCount": 1749,
-          "title": "How To Hire the Best Freelance Developers in the Gig Economy"
-        },
-        {
-          "id": "https://medium.com/p/ba77700cf4b8",
-          "author": "Fernando Doglio",
-          "description": "Falling in love with your code is the worst thing you can do as a developer\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/should-you-be-deleting-your-own-code-ba77700cf4b8?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-09T17:03:44.000Z",
-          "wordCount": 2363,
-          "title": "Should You Be Deleting Your Own Code?"
-        },
-        {
-          "id": "https://medium.com/p/fb20166b4fe0",
-          "author": "Christian Behler",
-          "description": "Using the Binance API to stream real-time cryptocurrency prices\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/how-to-create-interactive-candlestick-charts-with-real-time-bitcoin-data-in-javascript-fb20166b4fe0?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-09T16:46:03.000Z",
-          "wordCount": 1317,
-          "title": "How to Create Interactive Candlestick Charts With Real-Time Bitcoin Data in JavaScript"
-        },
-        {
-          "id": "https://medium.com/p/d9939062d2b7",
-          "author": "Vishal Kataria",
-          "description": "Know how they lead by example to increase their team’s productivity\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/the-5-rules-of-highly-effective-managers-d9939062d2b7?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-09T16:38:21.000Z",
-          "wordCount": 1464,
-          "title": "The 5 Rules Of Highly Effective Managers"
-        },
-        {
-          "id": "https://medium.com/p/e951885f47d2",
-          "author": "Tyler Hawkins",
-          "description": "Soft skills often trump hard skills at this level\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/what-i-look-for-when-hiring-senior-software-engineers-e951885f47d2?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-09T16:33:14.000Z",
-          "wordCount": 1316,
-          "title": "What I Look for When Hiring Senior Software Engineers"
-        },
-        {
-          "id": "https://medium.com/p/b2494b587855",
-          "author": "Tate Galbraith",
-          "description": "Nobody wants a dense and grey terminal. Liven things up with these great libraries\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/5-python-libraries-for-better-console-output-b2494b587855?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-09T16:25:21.000Z",
-          "wordCount": 1018,
-          "title": "5 Python Libraries For Better Console Output"
-        },
-        {
-          "id": "https://medium.com/p/d6ae00581170",
-          "author": "Mohamed Barouma",
-          "description": "I’m currently going through a design and implementation process with Lope, and I don’t want to repeat my past mistakes\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/why-programming-language-design-is-hard-and-a-few-ways-to-make-it-easier-d6ae00581170?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-09T16:03:16.000Z",
-          "wordCount": 1781,
-          "title": "Why Programming Language Design Is Hard (And a Few Ways To Make It Easier)"
-        },
-        {
-          "id": "https://medium.com/p/6514c8643c94",
-          "author": "Gourav Kajal",
-          "description": "Don’t get stuck or confused on the way to start your career\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/5-front-end-development-skills-to-land-your-first-job-6514c8643c94?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-09T16:03:12.000Z",
-          "wordCount": 1803,
-          "title": "5 Front End Development Skills To Land Your First Job"
-        },
-        {
-          "id": "https://medium.com/p/a2baaf5abad3",
-          "author": "Andreas D.",
-          "description": "Motivate yourself to work hard\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/how-to-climb-the-career-ladder-when-feeling-talentless-a2baaf5abad3?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-09T16:01:13.000Z",
-          "wordCount": 1413,
-          "title": "How to Climb the Career Ladder When Feeling Talentless"
-        },
-        {
-          "id": "https://medium.com/p/6691df98a518",
-          "author": "Joseph Gefroh",
-          "description": "Learn how to create a reusable report generation system using the template design pattern\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/how-to-design-software-report-generators-in-ruby-6691df98a518?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-09T15:39:36.000Z",
-          "wordCount": 1190,
-          "title": "How to Design Software Report Generators in Ruby"
         }
       ]
     }
