@@ -2,10 +2,669 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-13T00:17:14.378Z</updated>
+    <updated>2021-09-14T00:18:54.025Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Microsoft Edge」にいつの間にか追加された［強調表示するリンクのコピー］コマンドって？ - やじうまの杜 - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/1350712.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/1350712.html"/>
+        <updated>2021-09-13T22:29:43.000Z</updated>
+        <summary type="html"><![CDATA[“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The free from Validation Framework cookbook 🌽]]></title>
+        <id>https://dev.to/adam_cyclones/the-free-from-validation-framework-cookbook-4bj7</id>
+        <link href="https://dev.to/adam_cyclones/the-free-from-validation-framework-cookbook-4bj7"/>
+        <updated>2021-09-13T19:28:24.000Z</updated>
+        <summary type="html"><![CDATA[One attribute makes form validation frameworks completely redundant: <form novalidate> is the star of the show, but it doesn't do what you think!
+But first, why do we have custom validation if html 5 has a huge plethora of validation attributes? I believe it's 2 fold, you cannot style the browser native validation messages, or the user has to support pre html 5 browsers (at this point, this ask is just sheer cruelty to frontend developers).
+novalidate is similar to preventDefault() in that it prevents native browser behaviour, specifically validation messages, it actually hides the ugly native browser html 5 messaging you get if you use any html 5 validation attributes, such as required, min, max, type, pattern and instead does nothing...
+Soo you broke my form.. how is this validation?
+It'…]]></summary>
+        <author>
+            <name>Adam Crockett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grainy Gradients]]></title>
+        <id>https://css-tricks.com/?p=351302</id>
+        <link href="https://css-tricks.com/grainy-gradients/"/>
+        <updated>2021-09-13T19:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Browse through Dribbble or Behance, and you’ll find designers using a simple technique to add texture to an image: noise. Adding noise makes otherwise solid colors or smooth gradients, such as shadows, more realistic. But despite designers’ affinity for texture, …
+The post Grainy Gradients appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jimmy Chion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lazy translation assets with Angular, Transloco and Nx Buildable Libs]]></title>
+        <id>https://dev.to/seanperkins/lazy-translation-assets-with-angular-transloco-and-nx-buildable-libs-18ce</id>
+        <link href="https://dev.to/seanperkins/lazy-translation-assets-with-angular-transloco-and-nx-buildable-libs-18ce"/>
+        <updated>2021-09-13T18:21:59.000Z</updated>
+        <summary type="html"><![CDATA[When dealing with applications that support multiple languages, it becomes increasingly more costly to have single translation asset files to contain all the key-value pairs for your application.
+Instead, making use of webpack's inline loaders and Nx's buildable libs; you can fetch smaller translation assets only for a feature's scope, without requesting additional data.
+Requirements
+Nx workspace (mono-repo) with buildable libs. 
+Angular
+Transloco as the translation library for handling your translations. 
+JSON files to contain your translation key-value pairs (en.json) 
+In a shared library (i.e.: @workspace/i18n) create a constant of your application's supported locales.
+export const AVAILABLE_LANGS = [
+    'en',
+    'ja',
+    'fr-ca',
+    'zh-cn'
+];
+
+In the same shared library, create a …]]></summary>
+        <author>
+            <name>Sean Perkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing Boilerplates]]></title>
+        <id>https://dev.to/francescaansell/comparing-boilerplates-3n8m</id>
+        <link href="https://dev.to/francescaansell/comparing-boilerplates-3n8m"/>
+        <updated>2021-09-13T17:59:39.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post I will be comparing a React, Stencil, Vue, and Angular boiler-plates. A boilerplate is a reusable template to start your projects with. 
+www. It is easily understood this boilerplate creates a web component. Overall the boiler plates has lots of folders and files that I am unsure how to utilize. 
+The Vue Boilerplate uses folder structure and naming conventions I immediately realize. The Vue boilerplate was much easier to digest and understand. This boilerplate was also very easy to start up. 
+The angular boilerplate reminded me of a react project with a views, images, and styles folder. I had a lot of trouble getting this project to run due to 'gulp' which I have never used before.
+
+I added the react boilerplate. This boilerplate had a large amount of miscellaneous files that I have never seen before and do not know how to utilize. It also had a large amount of folders and nested folders. I was able to install the dependencies and run the program without any trouble. This boilerplate includes lots of comments to help you navigate. 
+I believe the best developer experience, and boiler plate I would choose to create an application with would be the VUEjs boilerplate. It was very easy to understand and navigate which allows the developer to focus on other things such as improved functionality. 
+Group repo: https://github.com/3B4B/boilerplates
+https://github.com/react-boilerplate/react-boilerplate]]></summary>
+        <author>
+            <name>Francesca Ansell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Things To Know Before Sitting for Software Developer Job Interviews]]></title>
+        <id>https://medium.com/p/d38f21dc90c7</id>
+        <link href="https://betterprogramming.pub/3-things-to-know-before-sitting-for-software-developer-job-interviews-d38f21dc90c7?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-13T17:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Based on my interview journey as a junior(ish) developer
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Sarah Morris O’Keefe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Nail It as a Junior Developer]]></title>
+        <id>https://medium.com/p/5af9ec9341ea</id>
+        <link href="https://betterprogramming.pub/being-a-great-junior-developer-5af9ec9341ea?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-13T17:11:20.000Z</updated>
+        <summary type="html"><![CDATA[Four tips to become a great junior developer
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Greg Thomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deliver a Personalised User Experience In Your Android Apps]]></title>
+        <id>https://medium.com/p/2960d6a8d7c4</id>
+        <link href="https://betterprogramming.pub/deliver-a-personalised-user-experience-in-your-android-apps-2960d6a8d7c4?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-13T16:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Understand how to use WebEngage in your Android codebases
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Siva Ganesh Kantamani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Data Store in Angular]]></title>
+        <id>https://dev.to/rfornal/creating-a-data-store-in-angular-1f8a</id>
+        <link href="https://dev.to/rfornal/creating-a-data-store-in-angular-1f8a"/>
+        <updated>2021-09-13T16:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Late last night (actually, early this morning), I had visions of dots dancing in my head: the dots and lines used to describe actions and their relation to data in ReactJS data stores ... and the dots and lines used to describe data movement and management of Observables and subscriptions.
+I sprang from my bed ... getting up VERY early as these 'dots' whirled around in my head and put this code (repo) and article together.
+Having worked with Angular for quite a while, I've come across a few patterns that help improve my code quality and finally came up with a way to show how I have implemented a ReactJS-like data store.
+If you are not familiar with React data stores, basically, it has a method that uses actions (whether they are user, event, or data-driven) to trigger functionality related…]]></summary>
+        <author>
+            <name>bob.js</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Scale Your Web Apps Like a Boss With Heroku Dynos]]></title>
+        <id>https://medium.com/p/22300cf498b5</id>
+        <link href="https://betterprogramming.pub/how-to-scale-your-web-apps-like-a-boss-with-heroku-dynos-22300cf498b5?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-13T16:06:07.000Z</updated>
+        <summary type="html"><![CDATA[Explore the scaling options available with Heroku
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>John Vester</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming Views in SwiftUI]]></title>
+        <id>https://medium.com/p/2cbb4e7b8b13</id>
+        <link href="https://betterprogramming.pub/transforming-views-in-swiftui-2cbb4e7b8b13?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-13T16:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Use the power of linear algebra in SwiftUI
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Mark Lucking</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a countdown timer RxJS vs Vanilla JS]]></title>
+        <id>https://dev.to/jintoppy/creating-a-countdown-timer-rxjs-vs-vanilla-js-5g05</id>
+        <link href="https://dev.to/jintoppy/creating-a-countdown-timer-rxjs-vs-vanilla-js-5g05"/>
+        <updated>2021-09-13T15:35:06.000Z</updated>
+        <summary type="html"><![CDATA[Let's see our requirements. 
+Create a Countdown timer
+start button which will start the timer from the current stage
+pause button which will pause the timer, so that, we can resume the timer on clicking start again
+stop button which will stop the timer, and reset the timer number.
+
+Let's see how we can do with Vanilla JS.
+<h3 id="result"></h3>
+<button id="startBtn">Start</button>
+<button id="pauseBtn">Pause</button>
+<button id="stopBtn">Stop</button>
+
+Let's first select the elements and add click listeners
+const startBtn = document.querySelector('#startBtn');
+const stopBtn = document.querySelector('#stopBtn');
+const pauseBtn = document.querySelector('#pauseBtn');
+const result = document.querySelector('#result');
+
+startBtn.addEventListener('click', () => {
+  //start the interval
+});
+
+stopBt…]]></summary>
+        <author>
+            <name>Jinto Jose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Traits That Hamper Software Developers’ Career Growth at Some Point]]></title>
+        <id>https://medium.com/p/ea1c8b492177</id>
+        <link href="https://betterprogramming.pub/5-traits-that-hamper-software-developers-career-growth-at-some-point-ea1c8b492177?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-13T15:02:28.000Z</updated>
+        <summary type="html"><![CDATA[If software developers were superheroes, what’s our Kryptonite?
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Fernando Doglio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Simplest Interview Question To Assess Accountability]]></title>
+        <id>https://medium.com/p/f2f2eeebd01b</id>
+        <link href="https://betterprogramming.pub/the-simplest-interview-question-to-assess-accountability-f2f2eeebd01b?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-13T14:45:57.000Z</updated>
+        <summary type="html"><![CDATA[And why you to need to ask it
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Griz Emerson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When and How To Use CSS Grid in Production]]></title>
+        <id>https://medium.com/p/1b7c28b150ed</id>
+        <link href="https://betterprogramming.pub/when-and-how-to-use-css-grid-in-production-1b7c28b150ed?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-13T14:37:33.000Z</updated>
+        <summary type="html"><![CDATA[5 scenarios where you may want to use CSS grids
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Jose Granja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Social Image Generator + Jetpack]]></title>
+        <id>https://css-tricks.com/?p=351726</id>
+        <link href="https://css-tricks.com/social-image-generator-jetpack/"/>
+        <updated>2021-09-13T14:20:13.000Z</updated>
+        <summary type="html"><![CDATA[I feel like my quest to make sure this site had pretty sweet (and automatically-generated) social media images (e.g. Open Graph) came to a close once I found Social Image Generator. 
+The trajectory there was that I ended up …
+The post Social Image Generator + Jetpack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドテストプラクティス in open 8 - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/yosuke_furukawa/hurontoendotesutopurakuteisu-in-open-8</id>
+        <link href="https://speakerdeck.com/yosuke_furukawa/hurontoendotesutopurakuteisu-in-open-8"/>
+        <updated>2021-09-13T13:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Transcript ϑϩϯτΤϯυςετ ϓϥΫςΟε 2021/09/13 @ Open8 Twitter: @yosuke_furukawa Github: yosuke-furukawa ςετॻ͍ͯ·͔͢ʁ খωλ ͜Εॻ͍ͨͷ๻ͳΜͰ͢ɻ Testʹର͢Δίϝϯτ ఆྔతʹޮՌΛଌΓ͍ͨ Testʹର͢Δίϝϯτ ͜ͷҙݟͰ'JO ऴΘΓͰ͸͋Δ΋ͷͷɺ΋͏ গ͠ิ଍͍͖͍ͤͯͨͩͨ͞ ͦͷલʹ ͦ΋ͦ΋ςετͱ͸Կ͔ • ඼࣭Λ্͛Δ΋ͷʢʁʣ • কདྷͷมߋΛ༰қʹͯ͘͠ΕΔ΋ͷʢʁʣ • ෆ۩߹Λݟ͚ͭͯ͘ΕΔͨΊͷະདྷ΁ͷ౤ࢿ ʢʁʣ ͲΕ΋ਖ਼ղ ιϑτ΢ΣΞͷςετ͸ɺϓ ϩμΫτ·ͨ͸αʔϏεͷ඼ ࣭ʹؔ͢Δ৘ใΛεςʔΫϗ ϧμʔʹఏڙ͢ΔͨΊʹߦΘ ΕΔௐࠪͰ͋Δɻ C...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your First Machine Learning Model With TensorFlow]]></title>
+        <id>https://medium.com/p/ffc2f7cbf4f2</id>
+        <link href="https://betterprogramming.pub/build-your-first-machine-learning-model-with-tensorflow-ffc2f7cbf4f2?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-13T13:41:19.000Z</updated>
+        <summary type="html"><![CDATA[A practical step-by-step example to understand how Machine Learning works
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Kesk -*-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Can Companies Do To Retain Employees for More Than Six Months?]]></title>
+        <id>https://medium.com/p/351821ac67f9</id>
+        <link href="https://betterprogramming.pub/what-can-companies-do-to-retain-employees-for-more-than-six-months-351821ac67f9?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-13T13:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Hire for company fit, not a culture fit
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Mandi Gunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Let’s Encrypt Root Certificate Expiration and OpenSSL 1.0.2 - OpenSSL Blog]]></title>
+        <id>https://www.openssl.org/blog/blog/2021/09/13/LetsEncryptRootCertExpire/</id>
+        <link href="https://www.openssl.org/blog/blog/2021/09/13/LetsEncryptRootCertExpire/"/>
+        <updated>2021-09-13T12:26:52.000Z</updated>
+        <summary type="html"><![CDATA[The currently recommended certificate chain as presented to Let’s Encrypt ACME clients when new certificates are issued contains an intermediate certificate (ISRG Root X1) that is signed by an old DST Root CA X3 certificate that expires on 2021-09-30. In some cases the OpenSSL 1.0.2 version will ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get an attribute value in Angular's components and directives]]></title>
+        <id>https://dev.to/shhdharmen/how-to-get-an-attribute-value-in-angular-s-components-and-directives-4b0c</id>
+        <link href="https://dev.to/shhdharmen/how-to-get-an-attribute-value-in-angular-s-components-and-directives-4b0c"/>
+        <updated>2021-09-13T12:21:06.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will explore all the ways to read HTML attribute values passed in the component or directive.
+Elements in HTML have attributes; these are additional values that configure the elements or adjust their behavior in various ways to meet the criteria the users want. - MDN Docs
+For example:
+<input type="text">
+<td colspan="3"></td>
+
+type, and colspan are some examples of HTML attributes.
+In some cases, you need to handle the behaviour of a component or directive based on a value set for the HTML attribute.
+For example, there is a component called smart-input. You want to render different layouts for different types passed as values to the HTML attribute.
+<!-- should render UI for text -->
+<smart-input type="text"></smart-input>
+
+<!-- should render UI for number -->
+<smart-in…]]></summary>
+        <author>
+            <name>Dharmen Shah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project Tours: Bread Ratio Calculator]]></title>
+        <id>https://dev.to/brewinstallbuzzwords/project-tours-bread-ratio-calculator-52kc</id>
+        <link href="https://dev.to/brewinstallbuzzwords/project-tours-bread-ratio-calculator-52kc"/>
+        <updated>2021-09-13T12:10:16.000Z</updated>
+        <summary type="html"><![CDATA[For as long as I can remember, bread has been my favorite food. It's a food like no other. There's an incredible amount of variety, and everything from the amount of water you use to your folding technique to the proofing temperature can make significant differences in the final product.
+I started baking regularly a few years ago and have been casually documenting my journey on instagram.
+So when covid struck and I was stuck at home with nothing to do, I combined my love for bread with my passion for programming to make breadratiocalculator.com!
+Want to follow along with the code? See the GitHub repo here.
+One of the main use cases for this tool is to calculate the hydration percentage. Rather than a typical percentage where the denominator would be the total weight, bakers percentages use…]]></summary>
+        <author>
+            <name>Adam Davis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AI技術がコモディティ化している」はウソ？~研究者が企業で活躍するためにこれから求められるスキル~｜田村浩一郎@ACES｜note]]></title>
+        <id>https://note.com/koichirot11/n/ne3b5a73ea67b</id>
+        <link href="https://note.com/koichirot11/n/ne3b5a73ea67b"/>
+        <updated>2021-09-13T11:58:35.000Z</updated>
+        <summary type="html"><![CDATA[0. 自己紹介皆さんこんにちは、株式会社ACESの代表の田村(@7142857)です。簡単に自己紹介させていただくと、私は東京大学の工学系研究科博士課程で松尾研究室に所属し、Deep Learningの金融への応用について研究しつつ、株式会社ACESという会社を経営しております。先週はIPOのタマゴにも出させていただきました。 【IPO...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["月額制"という料金プランの常識を覆す『povo 2.0』の衝撃（石野純也） - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/povo-100534422.html</id>
+        <link href="https://japanese.engadget.com/povo-100534422.html"/>
+        <updated>2021-09-13T11:02:01.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、オンライン専用料金プランのpovoを大幅にリニューアルします。9月下旬予定で新たに導入するのが、「povo 2.0」。これまでのpovoは20GBで月額2728円一択でしたが、povo 2.0は基本料が0円になり、データ容量はトッピングとして追加していくスタイルになります。 料金プランが多様になるだけでなく月額制という提供...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[auの「povo2.0」は“月額0円”で運用できるのか？　実は制約あり - ITmedia Mobile]]></title>
+        <id>https://www.itmedia.co.jp/mobile/articles/2109/13/news151.html</id>
+        <link href="https://www.itmedia.co.jp/mobile/articles/2109/13/news151.html"/>
+        <updated>2021-09-13T10:57:53.000Z</updated>
+        <summary type="html"><![CDATA[KDDIが9月下旬から、オンライン専用プラン「povo」を「povo2.0」に改定する。月額料金を0円とし、オプションの「トッピング」としてデータ容量を選ぶ形となった。通話（発信）やデータ通信を利用しなければ月額0円で運用できるわけだが、制約もある。 KDDIが9月下旬から、オンライン専用プラン「povo」を「povo2.0」に改...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISUCON11 予選問題実践攻略法 : ISUCON公式Blog]]></title>
+        <id>https://isucon.net/archives/56082639.html</id>
+        <link href="https://isucon.net/archives/56082639.html"/>
+        <updated>2021-09-13T10:38:02.000Z</updated>
+        <summary type="html"><![CDATA[DB は以下のコマンドで確認できる通り、MariaDB 10.3 でした。$ mysqld --version mysqld Ver 10.3.31-MariaDB-0ubuntu0.20.04.1 for debian-linux-gnu on x86_64 (Ubuntu 20.04) 当日マニュアルに記載の通り、各言語実装は systemd で管理されているため、systemd に関する知識があると良いと思います。特に、アプリケ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[國本依伸 on Twitter: "いや違います。人権は「仕組み」です。憲法にも各種国際人権条約にもそう書いてあるでしょう。生まれた瞬間から権力に対して要求する権利を取得するシステムです。他者の人権を尊重すべきとの理屈で市民相互に互譲を押しつける考え方は、市民に対す… https://t.co/KcIkvupR8Y"]]></title>
+        <id>https://twitter.com/yorinobu2/status/1437266354936041479</id>
+        <link href="https://twitter.com/yorinobu2/status/1437266354936041479"/>
+        <updated>2021-09-13T09:58:27.000Z</updated>
+        <summary type="html"><![CDATA[いや違います。人権は「仕組み」です。憲法にも各種国際人権条約にもそう書いてあるでしょう。生まれた瞬間から権力に対して要求する権利を取得するシステムです。他者の人権を尊重すべきとの理屈で市民相互に互譲を押しつける考え方は、市民に対す… https://t.co/KcIkvupR8Y]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドのテストは皆のためのもの | POSTD]]></title>
+        <id>https://postd.cc/frontend-testing-is-for-everyone/</id>
+        <link href="https://postd.cc/frontend-testing-is-for-everyone/"/>
+        <updated>2021-09-13T09:44:41.000Z</updated>
+        <summary type="html"><![CDATA[テストとは人によって反応が分かれるものの1つであり、大喜びする人もいれば、見ないようにして去ろうとする人もいます。あなたがどちらの側であるにせよ、ここではフロントエンドのテストは皆のためのものであるということを説明します。実際、テストには多くの種類があり、それがテストに対して初めに恐れや混乱を感じ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOOTHの“決済スパイク”を防げ！　創作物の総合マーケットを支えるトランザクション分割 - ログミーTech]]></title>
+        <id>https://logmi.jp/tech/articles/324990</id>
+        <link href="https://logmi.jp/tech/articles/324990"/>
+        <updated>2021-09-13T09:34:09.000Z</updated>
+        <summary type="html"><![CDATA[「PIXIV DEV MEETUP 2021」は、完全招待制のオンラインカンファレンスです。ライブセッションをはじめ、さまざまなイベントを通して、ピクシブのメンバーとピクシブのプロダクト開発における知見、組織文化を共有します。金川氏は、「BOOTH」で発生する決済スパイクに対する取り組みについて発表しました。 突然の決済ス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kindle端末アップデート予告、インターフェイスを大幅変更 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/amazon-kindle-080025670.html</id>
+        <link href="https://japanese.engadget.com/amazon-kindle-080025670.html"/>
+        <updated>2021-09-13T09:01:20.000Z</updated>
+        <summary type="html"><![CDATA[米アマゾンは電子書籍リーダー「Kindle／Kindle Paperwhite／Kindle Oasis」にて、数週間以内に大幅なソフトウェアアップデートを配信すると予告しています。 Kindleシリーズはディスプレイに電子ペーパーこと「E Ink」を採用した、タブレットデバイス。周辺光を反射して表示するE Inkは、長時間の読書でも目への負担が...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTMLにちょい足しでできる！ Vue.jsでサクッと動きをつける方法 - ICS MEDIA]]></title>
+        <id>https://ics.media/entry/210908/</id>
+        <link href="https://ics.media/entry/210908/"/>
+        <updated>2021-09-13T08:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Vue.jsは昨今よく使われるモダンなJavaScriptフレームワークの1つです。Node.jsで環境構築し、サイト全体をVue.jsベースで開発することもあります。しかし、フロントエンド開発に慣れていない方やデザイナーにはNode.jsでの環境は少し参入障壁が高いです。 実は、Vue.jsはタグから読み込むこめばNode.jsを用いず...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[道路交通量の調査員廃止へ　カメラとAIで常時観測　国交省検討（時事通信） - Yahoo!ニュース]]></title>
+        <id>https://news.yahoo.co.jp/articles/6f5842d1c1413d384fb3b0a02f6e1a27216ab5bd</id>
+        <link href="https://news.yahoo.co.jp/articles/6f5842d1c1413d384fb3b0a02f6e1a27216ab5bd"/>
+        <updated>2021-09-13T07:14:36.000Z</updated>
+        <summary type="html"><![CDATA[国土交通省は、全国の道路交通量調査で、調査員ら人手による観測を廃止する方向で検討に入った。 交通監視カメラの映像を人工知能（AI）で解析する手法に転換し、業務の効率化やコスト削減を狙う。将来的には交通量を常時観測できる体制を構築し、渋滞対策などにデータを活用できるようにする。 国交省は自治体と共に5年...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国防総省、中～小型宇宙機向け原子力エンジン開発企業を募集。地球軌道超えるミッション想定 - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/dod-seeks-nuclear-spacecraft-propulsion-060049839.html</id>
+        <link href="https://japanese.engadget.com/dod-seeks-nuclear-spacecraft-propulsion-060049839.html"/>
+        <updated>2021-09-13T07:00:58.000Z</updated>
+        <summary type="html"><![CDATA[A NASA nuclear thermal propulsion concept spacecraft. NASA 米国防総省の国防イノベーションユニット(DIU)が、「近い将来、電力と推進力を提供できる成熟した商業技術」地球軌道を超える宇宙ミッション用小型原子力エンジン開発への入札募集を開始しました。要件は「小型および中型宇宙機の推進力になるほか、センシ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POSIX 準拠のシェルスクリプトでは find | xargs よりも find -exec {} + を使うべき！ - Qiita]]></title>
+        <id>https://qiita.com/ko1nksm/items/9ff1f212255e8520070c</id>
+        <link href="https://qiita.com/ko1nksm/items/9ff1f212255e8520070c"/>
+        <updated>2021-09-13T06:49:57.000Z</updated>
+        <summary type="html"><![CDATA[はじめに find の出力を xargs にパイプで渡すというのはよく見かける使い方ですが、find -print0 | xargs -0 が使えない POSIX 準拠のシェルスクリプトでは find -exec {} + を使った方が良いです。安全かつ十分に速いからです。よく見かける -exec {} ; ではなく -exec {} + ですので間違えないようにしてください。多...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【超入門】Notion 使い方 まとめ - RAKUS Developers Blog | ラクス エンジニアブログ]]></title>
+        <id>https://tech-blog.rakus.co.jp/entry/20210913/notion</id>
+        <link href="https://tech-blog.rakus.co.jp/entry/20210913/notion"/>
+        <updated>2021-09-13T06:39:18.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは技術広報のsyoneshinです。 最近「Notion」を利用した情報収集や管理を聞く機会が増え 個人的に興味の沸いた「Notion」について基本情報や使い方を調べまとめました。 本記事は Notionをはじめて知った方 Notionのを使い方を知りたい方 向けにNotionの基本的な使い方と事例をご紹介します。 Notionとは Sign u...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[商用可・無料のAI音声読み上げツール「VOICEVOX」、他アプリへの組み込みも可能なコアライブラリも公開 - 窓の杜]]></title>
+        <id>https://forest.watch.impress.co.jp/docs/news/1350632.html</id>
+        <link href="https://forest.watch.impress.co.jp/docs/news/1350632.html"/>
+        <updated>2021-09-13T06:27:28.000Z</updated>
+        <summary type="html"><![CDATA[音声合成ソフト「VOICEVOX」の最新版v0.5.2が、9月12日に公開された。Windowsに対応しており、ライセンスは「LGPL v3」。現在、本ソフトの公式サイトから無償でダウンロードできる。なお、インストーラーを実行すると追加で2.7GBほどのファイルをダウンロードするので、ストレージの空き容量には注意したい。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RxJS - Marble Diagrams]]></title>
+        <id>https://dev.to/this-is-learning/rxjs-marble-diagrams-4jmg</id>
+        <link href="https://dev.to/this-is-learning/rxjs-marble-diagrams-4jmg"/>
+        <updated>2021-09-13T05:59:11.000Z</updated>
+        <summary type="html"><![CDATA[Hi guy,
+Marble Diagrams.
+
+This example is based on this code
+import { Observable } from "rxjs";
+import { map } from "rxjs/operators";
+
+const source$ = new Observable<number>(observer => {
+  let count = 0;
+  const id = setInterval(() => {
+    if (count++ < 3) {
+      observer.next(count);
+    } else {
+      clearInterval(id);
+      observer.complete();
+    }
+  }, 1000);
+});
+
+source$.pipe(map(value => value * 2)).subscribe({
+  next: console.log,
+});
+
+As you can notice, in the diagram there are two timelines, one for the source and the other for the map operator.
+To build a Marble diagram you need to keep in mind some easy rules: there is always a timeline that represents the source observable, there are N timelines as many operators as you need to display, every timeline illustrates the state of the values after the execution of the operator indicated in the timeline and finally, you need to use a circle to represent the values.
+This tool is very convenient to illustrate the transformation of the observable during its execution and it helps us to have an image of the state of the observable execution.
+In addition to the Marble Diagram you can use the Marble Testing to test the execution of you Observable.
+To reinforce the Marble Diagram concept let me show you another example
+import { Observable } from "rxjs";
+import { delay, map } from "rxjs/operators";
+
+const source$ = new Observable<number>(observer => {
+  let count = 0;
+  const id = setInterval(() => {
+    if (count++ < 3) {
+      observer.next(count);
+    } else {
+      clearInterval(id);
+      observer.complete();
+    }
+  }, 1000);
+});
+
+source$
+  .pipe(
+    map(value => value * 2),
+    delay(1500)
+  )
+  .subscribe({
+    next: console.log,
+  });
+
+
+In this example you can see how the observable in the first operator doubles the value and then it waits 1.5 seconds before emitting the result.
+It's all from the marble diagram.
+See you soon guys!]]></summary>
+        <author>
+            <name>Luca Del Puppo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10月からのPayPay手数料有料化に伴いお店が続々撤退している模様「こういう店が増えていくの辛い」 - Togetter]]></title>
+        <id>https://togetter.com/li/1773878</id>
+        <link href="https://togetter.com/li/1773878"/>
+        <updated>2021-09-13T05:33:33.000Z</updated>
+        <summary type="html"><![CDATA[2021年10月1日よりPayPayの決済システム利用料が有料となることを受け、取扱終了するお店が増えているようです。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[メルカリ、社員同士の「共通の価値観」をまとめた社内向けのドキュメント「Mercari Culture Doc」を公開 | 株式会社メルカリ]]></title>
+        <id>https://about.mercari.com/press/news/articles/20210913_mercariculturedoc/</id>
+        <link href="https://about.mercari.com/press/news/articles/20210913_mercariculturedoc/"/>
+        <updated>2021-09-13T05:11:09.000Z</updated>
+        <summary type="html"><![CDATA[メルカリ、社員同士の「共通の価値観」をまとめた社内向けのドキュメント「Mercari Culture Doc」を公開 〜「組織のカルチャーづくり」に関するノウハウを広く共有し、どのような働き方の選択肢においても、多様な人材が活躍できる環境の実現を目指す〜 株式会社メルカリ（以下、メルカリ）は、「メルカリ（会社）とメン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDDI、Space Xの衛星通信「Starlink」をau通信網に採用　22年度めどに - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/kddi-spacex-043535532.html</id>
+        <link href="https://japanese.engadget.com/kddi-spacex-043535532.html"/>
+        <updated>2021-09-13T05:01:01.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは、イーロン・マスク率いるSpaceXの地球低軌道（LEO）衛星通信サービス「Starlink」（スターリンク）を、au基地局のバックホール回線に利用する契約を締結したと発表しました。 この契約によって、これまでサービス提供が困難とされていた山間部や島嶼地域、災害対策においても、auの高速通信を提供をめざします。2...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diver-X、世界初！寝ながらの使用に最適化したVRデバイス「HalfDive」を発表　-ゲーム及び寝ながらの作業用途でコンシューマー展開を目指す-｜Diver-X株式会社のプレスリリース]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000001.000079431.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000001.000079431.html"/>
+        <updated>2021-09-13T03:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Diver-X株式会社（本社：東京都中央区、代表取締役：迫田大翔、以下「Diver-X」）は、世界初*となる、寝ながらの使用に最適化したVRデバイス「HalfDive（ハーフダイブ）」を発表します。2021年11月6日からのクラウドファンディングサイトKickstarterを通じた支援者募集に向けた準備を進めております。*自社調べ 【HalfDi...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhoneのカメラ、バイクエンジンの振動で性能低下のおそれ - PC Watch]]></title>
+        <id>https://pc.watch.impress.co.jp/docs/news/1350492.html</id>
+        <link href="https://pc.watch.impress.co.jp/docs/news/1350492.html"/>
+        <updated>2021-09-13T03:33:29.000Z</updated>
+        <summary type="html"><![CDATA[米Appleは10日、高出力のバイクエンジンの振動が、iPhoneに搭載されるカメラに動作不良を引き起こすおそれがあるとし、バイクなどに直接iPhoneをマウントして使用することを避けるよう呼びかける技術文書を公開した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PWA(Progressive Web Apps)対応サイトの作り方・実装方法まとめ － AWS上で学習したPWA導入例とLighthouse Report Viewerの使い方 - NRIネットコム Design and Tech Blog]]></title>
+        <id>https://tech.nri-net.com/entry/learn_pwa_on_aws_serverless_static_website_hosting</id>
+        <link href="https://tech.nri-net.com/entry/learn_pwa_on_aws_serverless_static_website_hosting"/>
+        <updated>2021-09-13T03:16:20.000Z</updated>
+        <summary type="html"><![CDATA[小西秀和です。 現在、AWSの静的ウェブサイトホスティングで入門するAWS Amplify(Console、CLI) － 概要編などAWSのサーバーレスな静的ウェブサイトホスティングをテーマにしたブログ記事を執筆しています。 今回もAWSは関係しますが、フロントエンドに近い話題で、最近動向が本格的になってきたと感じているPWA(Progres...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixstars Amplifyハッカソン - Amplify - 量子アニーリングと共に進化するクラウド]]></title>
+        <id>https://amplify.fixstars.com/ja/hackathon00</id>
+        <link href="https://amplify.fixstars.com/ja/hackathon00"/>
+        <updated>2021-09-13T03:15:02.000Z</updated>
+        <summary type="html"><![CDATA[当社はCookieを使用して、お客様が当社のWebサイトでより良い体験を得られるようにしています。引き続き閲覧する場合は、当社のプライバシーポリシーに同意したことになります。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleが香港政府の要求に応じて一部ユーザーのデータを渡していたことが判明、以前の発表と矛盾するとの指摘も - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210913-google-handed-user-data-hong-kong/</id>
+        <link href="https://gigazine.net/news/20210913-google-handed-user-data-hong-kong/"/>
+        <updated>2021-09-13T02:51:38.000Z</updated>
+        <summary type="html"><![CDATA[香港では2020年7月1日に「香港国家安全維持法」が施行され、反政府的活動の取り締まりが強化されました。これに対してGoogleやFacebookなどの大手IT企業は反発の姿勢を示し、香港政府に対するユーザーデータの引き渡しを停止するとしていましたが、「Googleは2020年7月～12月に香港政府が行った要求のうち3件に応じてユ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo、基本料0円から始まるオールトッピング「povo2.0」を提供開始 | 2021年 | KDDI株式会社]]></title>
+        <id>https://news.kddi.com/kddi/corporate/newsrelease/2021/09/13/5388.html</id>
+        <link href="https://news.kddi.com/kddi/corporate/newsrelease/2021/09/13/5388.html"/>
+        <updated>2021-09-13T01:27:01.000Z</updated>
+        <summary type="html"><![CDATA[KDDI株式会社 沖縄セルラー電話株式会社 2021年9月13日 KDDI、沖縄セルラーは2021年9月下旬 (予定) から、auのオンライン専用ブランドpovoにおいて、月額基本料0円から開始し、お客さまのライフスタイルにあわせて10種類のトッピングを自由に選択できるオールトッピング「povo2.0」を提供開始します。 「povo2.0」は、基...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Component Boilerplates]]></title>
+        <id>https://dev.to/ndesanno/web-component-boilerplates-1j5h</id>
+        <link href="https://dev.to/ndesanno/web-component-boilerplates-1j5h"/>
+        <updated>2021-09-13T00:57:04.000Z</updated>
+        <summary type="html"><![CDATA[When researching frameworks for web components many different ones come up, but some common ones are VueJS, angular, StencilJS, and react. In this blog post I will be going over similarities between these frameworks and my opinion on them.
+Within each package, there is a source directory that has JavaScript, HTML, and CSS to run the whole package. All of them share similar code because it is so widely used and accepted. Also, Angular and React have more dependencies, that make it easier for the user to get what they want, but it makes the download longer.
+I believe that the easiest DX to get going is  react. All that is needed is a few commands in the users terminal window and the program is up and running. All of these frameworks are similar and it all comes down to personal preference and whatever the user has more experience with.
+If I had to start building an app tomorrow, I would want to use react to build it. React has a large community behind it compared to others so it is easy to find information on it. Also, my personal experience with it has been good and I have the most experience with it.
+To see some simple examples of these boilerplates, check out this repo: https://github.com/runtimeErrorsMadeEasy/boilerplates.git
+https://upmostly.com/tutorials/react-hello-world-your-first-react-app]]></summary>
+        <author>
+            <name>ndesanno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging Angular App on Android from Mac]]></title>
+        <id>https://dev.to/kildareflare/debugging-angular-app-on-android-from-mac-4hg6</id>
+        <link href="https://dev.to/kildareflare/debugging-angular-app-on-android-from-mac-4hg6"/>
+        <updated>2021-09-13T00:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Today I needed to inspect an Angular web app I'm building to determine why it was not displaying correctly. 
+(It displayed just fine in the Chrome Dev Tools Emulator, but no on a real device).
+I've done this a lot in the past and thought I knew how to set this up, but there was one thing I was missing.
+Open a Terminal window and type ifconfig
+inet entry under en0 and make a note of it
+
+Open a Terminal window and type the following to open the hosts file on your Mac
+sudo nano /etc/hosts
+Add the following entry, where Mac IP is what you copied above
+127.0.0.1 <Mac IP> E.g. 127.0.0.1 192.168.1.4
+This is the bit I was missing, you need to serve the Angular app with an additional flag.
+ng serve --host 0.0.0.0
+By default Angular will be served on localhost but here we need to use 0.0.0.0
+In your mobile browser, use the IP address of your Mac and the appropriate port number
+E.g. http:192.168.1.4:4000
+Start Chrome on your Mac and in the address bar type
+chrome://inspect/#devices
+Find your device in the list and click "inspect"]]></summary>
+        <author>
+            <name>Rich Field</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe CCユーザーに朗報 🎉 フォントワークスの人気フォントがAdobe Fontsに大量追加されました！]]></title>
+        <id>https://coliss.com/?p=32083</id>
+        <link href="https://coliss.com/articles/build-websites/operation/work/adobe-fonts-update-202109.html"/>
+        <updated>2021-09-13T00:36:44.000Z</updated>
+        <summary type="html"><![CDATA[...記事の続きを読む]]></summary>
+        <author>
+            <name>コリス🥦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“3行要約AI”大反響　「走れメロス」の失敗報告に開発ベンチャーも注目　原因と対策を聞く - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2109/13/news047.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2109/13/news047.html"/>
+        <updated>2021-09-13T00:35:17.000Z</updated>
+        <summary type="html"><![CDATA[文章からAIで3行の要約を生成するサービスがSNSを中心に盛り上がっている。多くの人が試す中、「走れメロス」の要約が失敗だと話題になった。その原因と対策を開発したAIベンチャー企業に聞いた。 文章を入れるとAIで3行の要約を数十秒のうちに生成する――こんな機能を試せるデモサイトが8月26日に公開されると、要約結果...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フロントエンド刷新のために DevTools を作って開発を捗らせる - Cybozu Inside Out | サイボウズエンジニアのブログ]]></title>
         <id>https://blog.cybozu.io/entry/2021/09/13/080000</id>
@@ -37,6 +696,29 @@ Vue has the clearest file structure to understand, by far. This is mostly becaus
 If you're interested in learning more about the structure check out https://github.com/TheKodingKrab/boilerplates. In this repo you can find Vue.js, Angular, React, and Stencil.js.]]></summary>
         <author>
             <name>Kern Designs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工知能が写真を一変させる「Luminar AI」 - ケータイ Watch]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/column/stapa/1350264.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/column/stapa/1350264.html"/>
+        <updated>2021-09-12T21:29:32.000Z</updated>
+        <summary type="html"><![CDATA[今回のネタはAIが処理を請け負いまくりの画像処理アプリ、SKYLUM「Luminar AI（ルミナーエーアイ）」。以前に「Luminar 4（ルミナー4）」をレビューしたが、その後継アプリだ。Luminar 4はAIが空を置換しちゃったりするアプリですな。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crear controles de formulario personalizados usando ControlValueAccessor en Angular]]></title>
+        <id>https://dev.to/adrianub/crear-controles-de-formulario-personalizados-usando-controlvalueaccessor-en-angular-2ip9</id>
+        <link href="https://dev.to/adrianub/crear-controles-de-formulario-personalizados-usando-controlvalueaccessor-en-angular-2ip9"/>
+        <updated>2021-09-12T19:12:40.000Z</updated>
+        <summary type="html"><![CDATA[¿Cómo crear controles de formulario personalizados en Angular usando ControlValueAccessor? Podemos crear componentes de formulario personalizados y conectarlos a formularios basados ​​en plantillas o formularios reactivos.
+Entonces, cuando digo controles de formulario personalizados, me refiero a aquellos elementos que no son sus controles típicos, como inputs, radio buttons o checkboxes. Por ejemplo, un componente de clasificación con estrellas. Estos no están disponibles de fábrica.
+También podemos crear secciones en un formulario como componentes secundarios que luego se pueden usar como controles de formulario personalizados. De esta manera, las formas más grandes se pueden dividir en partes manejables.
+Cuando escuchemos el término formulario, estaríamos pensando en inputs y tal vez en…]]></summary>
+        <author>
+            <name>Adrián UB</name>
         </author>
     </entry>
     <entry>
@@ -15035,548 +15717,6 @@ The actual solution I came up with involved creating an Angular directive and a 
         <summary type="html"><![CDATA[世界一のCGアニメーションスタジオであるピクサーで働く人達をYouTubeで観ると不思議なぐらいにその熱量を感じとることができる。いろんな会社の中をYouTubeで観るのが好きで結構観ている。どんな会社でも自社のいいところだけ切り取って出してるんだろうけど、なぜかピクサーだけは別格に感じる。 こんなに働く人達の熱...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular - Zoned Out !]]></title>
-        <id>https://dev.to/suvik023/angular-zoned-out-hi0</id>
-        <link href="https://dev.to/suvik023/angular-zoned-out-hi0"/>
-        <updated>2021-08-15T10:19:50.000Z</updated>
-        <summary type="html"><![CDATA[A short guide to understand ZoneJs and to solve a problem.
-
-
-
-
-
-How about no upfront elucidation of the topic but a story. Okay here it goes -  it was a regular morning at work. I as usual was sipping my coffee and trying to think of solution to a problem. The problem at hand was to implement a progress bar which tracks all the API calls before landing onto the actual page (loaded with the API data, Obviously!). As the application deals with myriads of data, this loader was to be designed to track lot of API calls. "How hard can it be?" , I thought. But the problem which seemed puny at the beginning, later turned out to be a nightmare.
-I was almost a novice in understanding how to use Angular's powerful tools to develop this. So,like any other problem I started looking out for possible way…]]></summary>
-        <author>
-            <name>Suvendu Karmakar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PythonでのWebアプリ開発で使うフレームワークを解説！ | アンドエンジニア]]></title>
-        <id>https://and-engineer.com/articles/YPuC3xIAACQAic3M</id>
-        <link href="https://and-engineer.com/articles/YPuC3xIAACQAic3M"/>
-        <updated>2021-08-15T10:05:06.000Z</updated>
-        <summary type="html"><![CDATA[Webアプリ開発にPythonが向いている理由PythonはWebアプリ開発に向いているとされています。実際、Python案件でもっとも多いのはWebアプリ開発です。なぜPythonがWebアプリ開発に向いているのか、理由をまとめました。 Pythonは開発効率を上げやすく、短い納期でも対応しやすいのが特徴です。Pythonはコード量が短いため...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use the vue component in an angular project]]></title>
-        <id>https://dev.to/ippatev/how-to-use-the-vue-component-in-an-angular-project-2ag4</id>
-        <link href="https://dev.to/ippatev/how-to-use-the-vue-component-in-an-angular-project-2ag4"/>
-        <updated>2021-08-15T09:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Vue 3.2 introduces a new defineCustomElement method for easily creating native custom elements using Vue component APIs:
-import { defineCustomElement } from 'vue'
-
-const MyVueElement = defineCustomElement({
-  // normal Vue component options here
-})
-
-// Register the custom element.
-// After registration, all `<my-vue-element>` tags
-// on the page will be upgraded.
-customElements.define('my-vue-element', MyVueElement)
-
-This API allows develpers to create Vue-powered UI component libraries that can be used with any framework, or no framework at all. We have also added a new section in our docs on consuming and creating Web Components in Vue.
-
-<script src="https://unpkg.com/vue@next"></script>
-<!-- <script src="https://unpkg.com/vue-custom-element@3.0.0/dist/vue-custom-element.js"></script> --…]]></summary>
-        <author>
-            <name>Aleksandr Ippatev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【Tips】電池持ちが改善！iPhoneのバッテリーを交換する方法 - iPhone Mania]]></title>
-        <id>https://iphone-mania.jp/manual/kihon-389147/</id>
-        <link href="https://iphone-mania.jp/manual/kihon-389147/"/>
-        <updated>2021-08-15T09:45:28.000Z</updated>
-        <summary type="html"><![CDATA[iPhoneのバッテリーの消耗が早くなった場合、Apple StoreやApple 正規サービスプロバイダでバッテリーの交換が可能です。iPhoneの種類や保険加入有無によって、修理の値段が変わります。 バッテリーの劣化状態の確認方法や、修理予約の取り方についてもご紹介します。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rxjs Expand - Reactively Retrieve All Rows From a Paginated Source]]></title>
-        <id>https://dev.to/paviad/reactively-retrieving-all-rows-from-a-paginated-source-4f49</id>
-        <link href="https://dev.to/paviad/reactively-retrieving-all-rows-from-a-paginated-source-4f49"/>
-        <updated>2021-08-15T09:22:15.000Z</updated>
-        <summary type="html"><![CDATA[Let's say you have a data source which is paginated, so you can request this page or that, but you can't request all the entries at once. Now, regardless of whether it is right or not, how would you approach this task, if you wanted to do it anyway?
-One approach would be imperative. In the imperative way, we use a loop, get one page, wait for the results, get the next one, and so on. When a page query returns no results, we return the collected results.
-let pageNumber = 0;
-let results = [];
-
-do {
-  const pageResults = await getPage(pageNumber++).toPromise();
-  results = results.concat(pageResults);
-} while(pageResults.length !== 0);
-
-return results;
-
-But imperative is so 2nd millennium, we want to do some reactive magic! Enter expand...
-The expand Rxjs operator takes an input, and returns …]]></summary>
-        <author>
-            <name>Aviad Pineles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASCII.jp：Windows 11では、Windows 10で追加された数々の新機能が早くもリストラされる (1/2)]]></title>
-        <id>https://ascii.jp/elem/000/004/065/4065911/</id>
-        <link href="https://ascii.jp/elem/000/004/065/4065911/"/>
-        <updated>2021-08-15T08:17:23.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11へのアップグレードでは、古いハードウェアだけでなく、Windows 10であまり人気が無かった機能も大きく「リストラ」される。 Windows 10では年2回の機能アップデートがあり、毎回さまざまな新機能があった。なかには「Sets」のようにプレビュー段階で消えたものもあったが、それでも多くの機能追加があった。...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトウェアドキュメント作法 - maru source]]></title>
-        <id>https://blog.h13i32maru.jp/entry/2021/08/15/163619</id>
-        <link href="https://blog.h13i32maru.jp/entry/2021/08/15/163619"/>
-        <updated>2021-08-15T08:06:01.000Z</updated>
-        <summary type="html"><![CDATA[こんにちは丸山@h13i32maruです。つい先日、devchat.fmというポッドキャストに出演して、「ドキュメント」というお題について話しました。なぜこんなニッチなお題について話したかというと、Ubie Discoveryに入社して5ヶ月の間にいくつか*1まとまったソフトウェアドキュメントを書いたので、自分の中でホットな話題だっ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『プログラマーになってから2年間で学んだこと』諸先輩方から知っておくとためになる知識も寄せられ活躍間違いなし - Togetter]]></title>
-        <id>https://togetter.com/li/1760087</id>
-        <link href="https://togetter.com/li/1760087"/>
-        <updated>2021-08-15T07:58:28.000Z</updated>
-        <summary type="html"><![CDATA[くぼ@SE @kubo_vbapg プログラマーになって2年経って学んだこと。 ・豚肉に片栗粉をまぶしてから焼くと、硬くならずにめっちゃ美味しくなる 2021-08-12 19:30:41]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reactez]]></title>
-        <id>https://dev.to/cchirag/reactez-4lkp</id>
-        <link href="https://dev.to/cchirag/reactez-4lkp"/>
-        <updated>2021-08-15T07:47:53.000Z</updated>
-        <summary type="html"><![CDATA[Reactez
-
-
-A simple React CLI for Component and Page creation.
-These instructions will get you a copy of the project up and running on your local machine.
-npm i -g reactez
-
-With the new Version of reactez (v1.1.0)
-rez generate
-
-or
-rez g
-
-This takes you to an easy-to-use prompt that helps you to generate Components,Pages and implement Axios into your project with ease.
-rez component [COMPONENTNAME]
-
-or
-rez c [COMPONENTNAME]
-
-This command creates a default Functional Component.
-The component is created at /src/components/.
-The generated component consists of a .jsx(component file) and a .css(style sheet) files.
-Generated component comes with a Functional Component boilerplate with the style sheet imported.
-rez component [COMPONENTNAME] -c
-
-or
-rez c [COMPONENTNAME] -c
-
-This command creates a C…]]></summary>
-        <author>
-            <name>Chirag Chandrashekhar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[図で理解するFlexbox]]></title>
-        <id>https://zenn.dev/umatoma/articles/e6c4051f4c882d</id>
-        <link href="https://zenn.dev/umatoma/articles/e6c4051f4c882d"/>
-        <updated>2021-08-15T07:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Flexboxはレイアウト組む上でとても便利だが、justifyだとかalignだとか名前と意味の対応が曖昧で毎回調べていた。 仕組み・使い方を理解しようと思い、図を使って整理してみた。 Flexbox Flexboxは縦・横に要素を並べられるレイアウト方法です。 Flexboxを使うことにより、縦・横に並べるだけでなく、並べた要素の中央...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Development Can’t Be Automated — It’s a Creative Process With an Unknown End Goal]]></title>
-        <id>https://medium.com/p/2d4776866808</id>
-        <link href="https://betterprogramming.pub/software-development-cannot-be-automated-because-its-a-creative-process-with-an-unknown-end-goal-2d4776866808?source=rss----d0b105d10f0a---4"/>
-        <updated>2021-08-15T07:23:06.000Z</updated>
-        <summary type="html"><![CDATA[You cannot automate creativity to create the unknown
-Continue reading on Better Programming »]]></summary>
-        <author>
-            <name>The Hosk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA、ISSで月基地建設用3Dプリンターの実証機をテストへ。必要な強度が出るかを確認 - Engadget 日本版]]></title>
-        <id>https://japanese.engadget.com/3-d-printing-system-for-lunar-soil-051007572.html</id>
-        <link href="https://japanese.engadget.com/3-d-printing-system-for-lunar-soil-051007572.html"/>
-        <updated>2021-08-15T07:13:53.000Z</updated>
-        <summary type="html"><![CDATA[NASAの最新の国際宇宙ステーション(ISS)ミッションには、月の土(レゴリス)を使って現地に建物を作るための3Dプリンター実証機が搭載されています。 Redwire Regolith Print(RRP)と呼ばれるこのプロジェクトは、既存のプリンティング機材と連携してレゴリスに見立てた材料を用いて3Dプリントの実証試験を行い、出力された...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“若者ワクチン接種促進”都がアプリ開発へ｜日テレNEWS24]]></title>
-        <id>https://www.news24.jp/articles/2021/08/12/07922305.html</id>
-        <link href="https://www.news24.jp/articles/2021/08/12/07922305.html"/>
-        <updated>2021-08-15T06:05:37.000Z</updated>
-        <summary type="html"><![CDATA[見出し、記事、写真、動画、図表などの無断転載を禁じます。 当サイトにおけるクッキーの扱いについてはこちら 『日テレNEWS24 ライブ配信』の推奨環境はこちら]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MeiliSearch: A Minimalist Full-Text Search Engine]]></title>
-        <id>https://tech.marksblogg.com/meilisearch-full-text-search.html</id>
-        <link href="https://tech.marksblogg.com/meilisearch-full-text-search.html"/>
-        <updated>2021-08-15T05:33:45.000Z</updated>
-        <summary type="html"><![CDATA[MeiliSearch is a fast, feature-rich full-text search engine. Its built on top of the LMDB key-value store and lives as a 35 MB binary when installed on Ubuntu or MacOS. It comes with a built-in client, server and WebUI. Features such as stemming, stop words, synonyms, ranking, filters and facetin...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter、新デザインは「目が痛い、頭痛がする」という苦情を受け修正　「今後もフィードバックを」 - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/15/news022.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/15/news022.html"/>
-        <updated>2021-08-15T05:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Twitterが8月11日に実施したボタンやフォントのデザイン変更に、「目が痛くなる」「分かりにくい」などの苦情が殺到。ボタンのコントラストは既に弱める修正を行った。フォローボタンについてはまだだ。 米Twitterは8月13日（現地時間）、11日に実施したボタンやフォントのデザイン変更に対する様々なフィードバックに基...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【終戦の日】戦争は「過去」ではない。人工知能でカラー化された写真が伝える記憶（画像集） | ハフポスト]]></title>
-        <id>https://www.huffingtonpost.jp/entry/story_jp_61187384e4b07b9118abb298</id>
-        <link href="https://www.huffingtonpost.jp/entry/story_jp_61187384e4b07b9118abb298"/>
-        <updated>2021-08-15T04:32:21.000Z</updated>
-        <summary type="html"><![CDATA[8月15日で終戦から76年を迎えた。 戦争の時代に生きた世代は、年々少なくなっている。日本人の大半が戦後生まれとなり、太平洋戦争を、はるか昔の出来事と感じる人も多いかもしれない。 戦時中にカラーフィルムは普及していなかったため、現存する写真の多くはモノクロだ。色彩が失われた光景は「歴史上の出来事」という...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Microsoft Edge」最新の知られざる便利機能7選！ Chromeを使っている場合じゃない - OTONA LIFE | オトナライフ - OTONA LIFE | オトナライフ]]></title>
-        <id>https://otona-life.com/2021/08/15/78405/</id>
-        <link href="https://otona-life.com/2021/08/15/78405/"/>
-        <updated>2021-08-15T04:16:11.000Z</updated>
-        <summary type="html"><![CDATA[アナタはWindowsパソコンのブラウザアプリに何を使っているだろうか？　おそらくGoogleの「Chrome（クローム）」を使っている人が多いと思うが、そもそもWindows 10の標準ブラウザアプリは「Microsoft Edge（マイクロソフト エッジ）」である。もちろん、Chromeに何の不満もないだろうが、Microsoft Edgeのほうがメモリ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google AI Blog: SoundStream: An End-to-End Neural Audio Codec]]></title>
-        <id>https://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html</id>
-        <link href="https://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html"/>
-        <updated>2021-08-15T04:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Posted by Neil Zeghidour, Research Scientist and Marco Tagliasacchi, Staff Research Scientist, Google Research Audio codecs are used to e...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「並んだ時のこれまでは思い浮かばなかったんだろうな…」あるネギ生姜の瓶詰め、デザインの影響で店頭で突然罵倒してくる存在になっていた - Togetter]]></title>
-        <id>https://togetter.com/li/1760061</id>
-        <link href="https://togetter.com/li/1760061"/>
-        <updated>2021-08-15T04:12:15.000Z</updated>
-        <summary type="html"><![CDATA[ふらノラ@紫電会長 @breakfrandle （´-`）.｡oO（もしよったらエスビー食品さんのねぎしょうが、「あぁ、アレかw」くらいのノリで買ってね… ただ単にみんなで笑いましたってよりはそれがきっかけで美味しいものに出会えましたって人が1人でもいた方が本望よ… 2021-08-14 21:21:24 ふらノラ@紫電会長 @breakfrandle 昼は駅...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シェルスクリプトは ((i=i+1)) ではなく i=$((i+1)) で計算しなければいけない！という話 - Qiita]]></title>
-        <id>https://qiita.com/ko1nksm/items/8fc8216cb94ec272c400</id>
-        <link href="https://qiita.com/ko1nksm/items/8fc8216cb94ec272c400"/>
-        <updated>2021-08-15T03:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Help us understand the problem. What is going on with this article?]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Railsとdoorkeeper-openid_connectやOmniAuth を使って、OpenID Connectの OpenID Provider と Relying Party を作ってみた - メモ的な思考的な]]></title>
-        <id>https://thinkami.hatenablog.com/entry/2021/08/14/224121</id>
-        <link href="https://thinkami.hatenablog.com/entry/2021/08/14/224121"/>
-        <updated>2021-08-15T01:04:09.000Z</updated>
-        <summary type="html"><![CDATA[OAuth2やOpenID Connectの理解を深めようと思い、 OAuth徹底入門 セキュアな認可システムを適用するための原則と実践（Justin Richer Antonio Sanso 須田 智之 Authlete, Inc.）｜翔泳社の本 Auth屋さんの書籍 【電子版】雰囲気でOAuth2.0を使っているエンジニアがOAuth2.0を整理して、手を動かしながら学べる本 - Auth...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「当時もこんな空だったのかな」──カラー化した原爆写真がネットで反響　AIと人力で戦時中などの写真を色付ける「記憶の解凍」（ITmedia NEWS） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/9b4f22e9db4d60b9cceb7416159f076247761ecd</id>
-        <link href="https://news.yahoo.co.jp/articles/9b4f22e9db4d60b9cceb7416159f076247761ecd"/>
-        <updated>2021-08-15T00:26:21.000Z</updated>
-        <summary type="html"><![CDATA[76回目となる終戦記念日に先立ち、原爆の“きのこ雲”の白黒写真をカラー化した画像に「76年前の今日」というコメントを添えた投稿がTwitterで注目を集めている。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腑に落ちない人のための回帰診断 - Qiita]]></title>
-        <id>https://qiita.com/greatonbi/items/4dafd8d1559016f29f9f</id>
-        <link href="https://qiita.com/greatonbi/items/4dafd8d1559016f29f9f"/>
-        <updated>2021-08-15T00:13:54.000Z</updated>
-        <summary type="html"><![CDATA[最近データサイエンティストが多くなってきて、めでたいな～、いいことだな～と思っているのですが、多くの人は機械学習寄りの話から入っていくことが多く、統計学から入っていく人は少ないような気もします。 重回帰分析は、おそらく最も多くのデータサイエンティストと呼ばれる人達がお世話になっている手法だと思いま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NianticのハンケCEO、「メタバースはディストピア。よりよい現実を構築しよう」 - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/15/news017.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/15/news017.html"/>
-        <updated>2021-08-14T23:45:14.000Z</updated>
-        <summary type="html"><![CDATA[「Pokemon Go」で知られるNianticのジョン・ハンケCEOが、仮想世界に没入するいわゆる「メタバース」はディストピアの悪夢だと警鐘を鳴らした。NianticはARを採用する「現実世界のメタバース」を目指すとして参加を呼び掛けた。 「メタバースはディストピアの悪夢です」──。「Pokemon Go」などのAR（拡張現実）ゲームで...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「当時もこんな空だったのかな」──カラー化した原爆写真がネットで反響　AIと人力で戦時中などの写真を色付ける「記憶の解凍」（1/2 ページ） - ITmedia NEWS]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2108/14/news044.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2108/14/news044.html"/>
-        <updated>2021-08-14T23:14:18.000Z</updated>
-        <summary type="html"><![CDATA[「当時もこんな空だったのかな」──カラー化した原爆写真がネットで反響　AIと人力で戦時中などの写真を色付ける「記憶の解凍」（1/2 ページ） 広島と長崎に投下された原爆の“きのこ雲”のカラー化画像がTwitterに投稿され、注目された。「記憶の解凍」という活動の一環で、AIツールと戦争体験者の証言、Twitterのコメント...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Ultimate Guides to Angular 8]]></title>
-        <id>https://dev.to/javatpoint/an-ultimate-guides-to-angular-8-4p4j</id>
-        <link href="https://dev.to/javatpoint/an-ultimate-guides-to-angular-8-4p4j"/>
-        <updated>2021-08-14T20:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Angular 8 Tutorial For Beginners
-
-
-AngularJS was initially developed by Misko Shevery at BratTech LL.C in 2009. It is now maintained by Google. It is a Javascript-based framework that can be used to create dynamic web applications. It is one the most modern web frameworks and can be used to develop single-page applications.
-The release's angular version shows the extent of the changes. The three major parts of angular versions are minor, major, and patch. The most recent version of Angular 8.0.0 was released in May 2019.
-The new version 8.0.0 indicates that 8 is the major version, while 0 is the minor and another 0 the patch level.
-Let's talk about the different levels of Angular versions, and what they are all about.
-Major releases: This release adds new features but requires developer assistance during the update. You may need to run additional tests, refactor your code, run update scripts and learn new APIs while updating the major release.
-Minor Releases: This release adds minor modifications to the features and is fully compatible with older versions. Developer assistance is not required during operation. You can modify your apps to enable new capabilities and APIs.
-Patch Releases: These are releases that are intended to address risks and fix bugs.
-The May release of the latest version of Angular finally came. The latest Angular now includes differential loading, support for service workers, a preview Ivy and a few other finishing touches. It also provides dependency injections which are useful for the application to assemble data services and compose components using HTML templates.
-There are no surprises in this release. You can update the framework or CLI using "ng" update as planned. AngularJS welcomes these new features with a motto that "evolution rather than revolution"]]></summary>
-        <author>
-            <name>JavaTpoint</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My 🅰ngular FREE Course is almost done !]]></title>
-        <id>https://dev.to/thenerdydev/my-ngular-free-course-is-almost-done-34lg</id>
-        <link href="https://dev.to/thenerdydev/my-ngular-free-course-is-almost-done-34lg"/>
-        <updated>2021-08-14T18:17:06.000Z</updated>
-        <summary type="html"><![CDATA[Hey guys, 
-Recently, I just finished working on a full Angular FREE Course that will cover all of the major topics that we have in Angular. We will be covering topics like : 
-
-and a lot more.. 
-If you want to understand my teaching style, feel free to check out my other videos on the channel. Here is the link for the channel : 
-https://youtube.com/thenerdydev 
-Go subscribe to the channel now to get the notification for the video when it comes. 
-Don't forget to leave a like if you loved the article. Also share it with your friends and colleagues.
-
-PS - If you are looking to learn Web Development, I have curated a FREE course for you on my YouTube Channel, check the below article :
-(2021) - Web Developer Full Course : HTML, CSS, JavaScript, Node.js and MongoDB
-The Nerdy Dev ・ Apr 28 ・ 2 min read
-#html
-        #css
-        #node
-        #javascript
-      
-Looking to learn React.js with one Full Project, check this out : 
-Learn React with one BIG Project [NOTES included] - Demo and Video Link
-The Nerdy Dev ・ Jun 10 ・ 1 min read
-#100daysofcode
-        #javascript
-        #react
-        #webdev]]></summary>
-        <author>
-            <name>The Nerdy Dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俺には文才があるらしい、ブコメ民がそう言って多くのはてブを付けて]]></title>
-        <id>https://anond.hatelabo.jp/20210815020532</id>
-        <link href="https://anond.hatelabo.jp/20210815020532"/>
-        <updated>2021-08-14T17:13:40.000Z</updated>
-        <summary type="html"><![CDATA[三十と数年を生きてきて文才があるなんて言われたのは数年前から匿名ダイアリーへ投稿するようになってからだ。 ビックリするくらいはてブ付くんよな、えっそんなに付けて良いの？と逆に申し訳なくなる。 そんなこんなで色々試していくうち、懐かしのテキストサイト文体や２ちゃんねるにあるようなネタカキコ文体、JK文...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「政府統一Webサイト構築に向けたサービス基盤及びデザインシステム等の実証に関する調査業務」の公告に係る説明会 | 内閣官房IT総合戦略室]]></title>
-        <id>https://cio.go.jp/sites/default/files/uploads/documents/210812_BidBriefingMeeting.pdf</id>
-        <link href="https://cio.go.jp/sites/default/files/uploads/documents/210812_BidBriefingMeeting.pdf"/>
-        <updated>2021-08-14T17:05:39.000Z</updated>
-        <summary type="html"><![CDATA[「政府統一Webサイト構築に向けたサービス基盤及び デザインシステム等の実証に関する調査業務」 の公告に係る説明会 2021年8月12日 内閣官房IT総合戦略室 はじめに 2 本日は説明会へのご参加ありがとうございます。 ・15:00-15:30 仕様書内容のご説明（IT室） ・15:30-16:00 質疑応答 ※最大16:30まで 【お願い】 ・ご説...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ネイティブアプリケーションの意味｜usagimaru｜note]]></title>
-        <id>https://note.com/usagimaruma/n/n3b055fba91cf</id>
-        <link href="https://note.com/usagimaruma/n/n3b055fba91cf"/>
-        <updated>2021-08-14T16:05:24.000Z</updated>
-        <summary type="html"><![CDATA[プラットフォームによってはアプリケーションの実装技術には複数の方法があり、開発側の要件や制約、好み等に合わせて適した技術を選ぶことができます。例えばiOSアプリケーションの実装技術には、Appleが提供するCocoa Touch（およびUIKitやSwiftUIなどのフレームワーク群）がありますが、そのほかのベンダーから提供さ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 Signs of a Healthy Team]]></title>
-        <id>https://medium.com/p/6cc992055c13</id>
-        <link href="https://betterprogramming.pub/8-signs-of-healthy-and-winner-team-6cc992055c13?source=rss----d0b105d10f0a---4"/>
-        <updated>2021-08-14T14:56:30.000Z</updated>
-        <summary type="html"><![CDATA[ُُTeam is a key element for having meaningful work. A healthy and good team is motivating for everyone
-Continue reading on Better Programming »]]></summary>
-        <author>
-            <name>Alireza Bonab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Stored and Computed Properties in Swift]]></title>
-        <id>https://medium.com/p/c5c256149e9f</id>
-        <link href="https://betterprogramming.pub/stored-and-computed-properties-in-swift-c5c256149e9f?source=rss----d0b105d10f0a---4"/>
-        <updated>2021-08-14T14:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Everything you need to know about stored and computed properties
-Continue reading on Better Programming »]]></summary>
-        <author>
-            <name>Gabriel Theodoropoulos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom angular form component]]></title>
-        <id>https://dev.to/anirbmuk/custom-angular-form-component-57mf</id>
-        <link href="https://dev.to/anirbmuk/custom-angular-form-component-57mf"/>
-        <updated>2021-08-14T14:16:41.000Z</updated>
-        <summary type="html"><![CDATA[/ 
-        CustomFormElement
-      
-    
-Most of our application requirements are fulfilled using standard HTML elements. However, we may sometimes need to stretch ourselves when we are working for large enterprise applications. In such cases, reusability becomes a strong factor which determines ease of development. Today's use case is one such custom requirement.
-This article speaks about creating an Angular component which acts as a lookup - an input field with a search button. The button opens up a modal window, which shows a list of values from which the user may select one. Additionally, this new component should also angular-form-ready, which means, it should be capable enough to be registered as a template-driven or reactive form element.
-
-Let's first talk about the component itself…]]></summary>
-        <author>
-            <name>Anirban Mukherjee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Start of every Professional Modern Frontend Developer of all times .]]></title>
-        <id>https://dev.to/doraymonit/the-start-of-every-professional-modern-frontend-developer-of-all-times-4lo0</id>
-        <link href="https://dev.to/doraymonit/the-start-of-every-professional-modern-frontend-developer-of-all-times-4lo0"/>
-        <updated>2021-08-14T13:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Inspired by RoadMap Website   , here is my take:
-Start
-
-
-
-Computer Science Fundamentals
-
-
-
-Internet
-
-
-
-HTML & CSS
-
-
-
-JavaScript
-
-
-
-Ecosystem
-
-
-
-Git
-
-
-
-NodeJS
-
-
-
-ReactJS (or Angular , Vue Js ,...)
-
-
-
-Modern CSS
-
-
-
-GraphQL
-
-
-
-TypeScript
-
-
-
-
-Happy coding, Ayoub (DoraymonIT).
-Just a PS ,I’m working on every steps on details ( theory with real-world practice ), just wait up , The best is coming yet .
-This is ME : LinkedIn]]></summary>
-        <author>
-            <name>DoraymonIT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implementation of Vote feature in ionic 4.]]></title>
-        <id>https://dev.to/kamanatripathi/implementation-of-vote-feature-in-ionic-4-1g53</id>
-        <link href="https://dev.to/kamanatripathi/implementation-of-vote-feature-in-ionic-4-1g53"/>
-        <updated>2021-08-14T12:23:56.000Z</updated>
-        <summary type="html"><![CDATA[I'm publishing the first part where I used this feature that was in a chatroom.
-Read it on your own risk
-Using Firebase so here, I have used the array chatRef from ts and then we will check if the uid(user id is my user id ) is yes ill 
-We will store our user id data at a different place and stranger\s at a collective place. We will see that next time.
-  <ion-content padding>
-    <div class="chat" *ngFor= "let chat of chatRef | async">
-        <div class="me" *ngIf = "uid==chat.UserID">
-          {{chat.Message}}
-        <div  class="me" *ngIf = "chat.Message =='POLL' "  >
-          <h1>{{chat.poll}}</h1>
-          <div> 
-            <ion-button  (click)="opinionClick('yes',chat.id)" >{{chat.option1}}:{{chat.countoption1}}</ion-button>
-           <ion-button  (click)="opinionClick('no',chat.id)" >{{chat.option2}} :  {{chat.countoption2}}  </ion-button> 
-         </div>
-        </div>
-        </div>
-        <div class="you" *ngIf = "uid!=chat.UserID">
-          <span class="name">{{chat.Name}}</span>
-         <br> {{chat.Message}}
-        <div class="name" *ngIf = "chat.Message =='POLL'" >
-          <h1>{{chat.poll}}</h1>
-            <div  > 
-             <ion-button  (click)="opinionClick('yes',chat.id)" >{{chat.option1}}: {{chat.countoption1}}</ion-button>
-            <ion-button  (click)="opinionClick('no',chat.id)" >{{chat.option2}}:  {{chat.countoption2}} </ion-button> 
-          </div>
-        </div>
-      </div>
-    </div>
-  </ion-content>
-
-
-
-I know I'm bad at selecting the palette.
-Aniyooo 💕]]></summary>
-        <author>
-            <name>Kamana</name>
         </author>
     </entry>
 </feed>
