@@ -103,6 +103,195 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://www.yuu-progra.com/2021/09/20/laravel-vue-cal-8/",
+          "author": null,
+          "description": "皆さんこんにちは！！ 前回に引き続き、フロント（Vue.js）側の開発を始めていきます。 Vue.jsに皆さんも大分慣れてきたのではないでしょうか？ 前回は、予定の詳細表示ダイアログを作成しました。 前回までの記事はこちらからどうぞ Laravel + Vue.jsでGoogleカレンダーのクローンを作ろう！！【Laravel8対応】準備編La...",
+          "link": "https://www.yuu-progra.com/2021/09/20/laravel-vue-cal-8/",
+          "publishedOn": "2021-09-19T23:54:08.000Z",
+          "wordCount": 2557,
+          "title": "Laravel + Vue.jsでGoogleカレンダーのクローンを作ろう！！【Laravel8対応】フロントエンド編④｜Yuu's Memo"
+        },
+        {
+          "id": "https://togetter.com/li/1776876",
+          "author": null,
+          "description": "小川修史(おがっち)🌱斜め135度の視点からワクワクを追い求める研究者 @ogatti21 兵庫教育大学・准教授｜日本障がい者ファッション協会（JPFA）・副代表｜ミライの制服プロジェクト・代表｜スカートを穿いて講義する大学教員｜障害や性別に関わらず、子供も大人も学生も、どうすればワクワクできるのか？・・について、...",
+          "link": "https://togetter.com/li/1776876",
+          "publishedOn": "2021-09-19T15:14:22.000Z",
+          "wordCount": 513,
+          "title": "「読みやすさが一目瞭然」Windowsに元から入ってる『UDデジタル教科書体』は障害があっても無くてもオススメしたいフォント - Togetter"
+        },
+        {
+          "id": "http://blog.livedoor.jp/dqnplus/archives/2010596.html",
+          "author": null,
+          "description": "河野太郎が語る農業「人が寝ててもロボットやAIにやってもらう。夜真っ暗でも、GPSなり何なりで動かすことができる」 1 名前：potato ★：2021/09/19(日) 19:25:11.45 ID:t7H2NjIf9 「人が寝ててもロボットやAIで」　河野氏が語る農業 農業など1次産業について「無人化の技術が大事になる。（人が）寝ててもできるものは...",
+          "link": "http://blog.livedoor.jp/dqnplus/archives/2010596.html",
+          "publishedOn": "2021-09-19T12:56:28.000Z",
+          "wordCount": 12179,
+          "title": "痛いニュース(ﾉ∀`) : 河野太郎が語る農業「人が寝ててもロボットやAIにやってもらう。夜真っ暗でも、GPSなり何なりで動かすことができる」 - ライブドアブログ"
+        },
+        {
+          "id": "https://twitter.com/HiromitsuTakagi/status/1439487846994243585",
+          "author": null,
+          "description": "みんな絶対言わないだろから、私が言うしかない。 これはうっかり筆が滑ったというレベルではなく、電子署名の根幹から理解がおかしいことを露呈したもので、このレベルでの無理解は、全体設計への深刻な勘違いを産むし、己の無理解に無自覚であ… https://t.co/FhTeLclir6",
+          "link": "https://twitter.com/HiromitsuTakagi/status/1439487846994243585",
+          "publishedOn": "2021-09-19T11:49:56.000Z",
+          "wordCount": 196,
+          "title": "Hiromitsu Takagi on Twitter: \"みんな絶対言わないだろから、私が言うしかない。 これはうっかり筆が滑ったというレベルではなく、電子署名の根幹から理解がおかしいことを露呈したもので、このレベルでの無理解は、全体設計への深刻な勘違いを産むし、己の無理解に無自覚であ… https://t.co/FhTeLclir6\""
+        },
+        {
+          "id": "https://zenn.dev/nobonobo/articles/3f5310248567a1",
+          "author": null,
+          "description": "Goの利点を使って実装するコツやノウハウを書くことがコミュニティにとってプラスになると思っているのでそれに専念したいという考えはありますが、Goの苦手な領域にGoを採用してしまってヘイトを溜め込んでしまう事例を見かけたりします。 こういう悲劇の起こる可能性を少しでも減らせたらという思いで、Goの現状の苦手...",
+          "link": "https://zenn.dev/nobonobo/articles/3f5310248567a1",
+          "publishedOn": "2021-09-19T10:42:50.000Z",
+          "wordCount": 87,
+          "title": "Goの苦手な領域"
+        },
+        {
+          "id": "https://japanese.engadget.com/amazon-banned-chinese-brands-fraud-review-093556739.html",
+          "author": null,
+          "description": "米アマゾンが600以上の中国ブランド（約3000もの業者アカウントにまたがる）をレビューでの不正行為を理由として永久追放したと発表しました。 はじめ香港のThe South China Morning Postが中央電視台（中国国営放送局）でのアマゾン・アジア担当副社長のインタビューを引用して報じ、これをアマゾンがThe Vergeに対して...",
+          "link": "https://japanese.engadget.com/amazon-banned-chinese-brands-fraud-review-093556739.html",
+          "publishedOn": "2021-09-19T10:00:56.000Z",
+          "wordCount": 222,
+          "title": "Amazon、600以上の中国ブランドを永久追放。不正レビュー悪用のため - Engadget 日本版"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-401641/",
+          "author": null,
+          "description": "iPad mini（第6世代）が、Appleオンラインストアで「配送準備中」となりました。9月24日（金）の発売日に配送される予定です。 発売日到着分が「配送準備中」に iPad mini（第6世代）は、日本時間9月15日の「California streaming.」イベント後に予約受付を開始し、9月24日に発売される予定です。 予約受付開始直後に予...",
+          "link": "https://iphone-mania.jp/news-401641/",
+          "publishedOn": "2021-09-19T09:38:08.000Z",
+          "wordCount": 263,
+          "title": "iPad mini（第6世代）が「配送準備中」に！現在は出荷まで4〜6週待ち - iPhone Mania"
+        },
+        {
+          "id": "https://zenn.dev/koher/articles/swift-concurrency-cheatsheet",
+          "author": null,
+          "description": "Swift 5.5 で Swift に Concurrency （並行処理）関連の言語機能が追加されました。これによって、 Swift で非同期処理・並行処理のコードをより簡潔かつ安全に書くことができるようになります。 しかし、 Swift Concurrency は Structured Concurrency や Actor など、多くの人にとって馴染みが薄いだろうと思われる概...",
+          "link": "https://zenn.dev/koher/articles/swift-concurrency-cheatsheet",
+          "publishedOn": "2021-09-19T06:35:59.000Z",
+          "wordCount": 5104,
+          "title": "Swift Concurrency チートシート"
+        },
+        {
+          "id": "https://github.com/vectordotdev/vector",
+          "author": null,
+          "description": "Quickstart  • Docs  • Guides  • Integrations  • Chat  • Download What is Vector? Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data. Collect, transform, and route all your logs, metrics, and traces to any v...",
+          "link": "https://github.com/vectordotdev/vector",
+          "publishedOn": "2021-09-19T06:16:57.000Z",
+          "wordCount": 1472,
+          "title": "GitHub - vectordotdev/vector: A high-performance observability data pipeline."
+        },
+        {
+          "id": "https://news.livedoor.com/article/detail/20882230/",
+          "author": null,
+          "description": "夏の残り香は、両者を自然と白いワイシャツに揃えさせた。 真白な壁を背景に、それは一筋の光を目指して日々実験に明け暮れる化学者の白衣姿にも重なる。 「ただ、強くなるために」――。 藤井聡太は昨秋、新たな研究材料としてGPUを使ったDL（ディープラーニング）系のソフト「dlshogi」を導入した。このエポックメイキン...",
+          "link": "https://news.livedoor.com/article/detail/20882230/",
+          "publishedOn": "2021-09-19T05:40:08.000Z",
+          "wordCount": 99,
+          "title": "【インタビュー】【藤井聡太×広瀬章人】将棋研究2.0 第71期王将リーグ特集 - ライブドアニュース"
+        },
+        {
+          "id": "https://av.watch.impress.co.jp/docs/news/1352285.html",
+          "author": null,
+          "description": "dアニメストアは16日、Android向けアプリの新バージョン45.01.00613を配信すると共に、パソコン用のサイトも更新。Android、パソコンにおいて、フルHDでの視聴に対応した。なお、フルHD画質のコンテンツ配信は9月末頃から順次提供開始予定。対応作品は順次追加していく。",
+          "link": "https://av.watch.impress.co.jp/docs/news/1352285.html",
+          "publishedOn": "2021-09-19T05:21:40.000Z",
+          "wordCount": 83,
+          "title": "dアニメストア、フルHD視聴可能に。Android/PCから。iOSは9月21日 - AV Watch"
+        },
+        {
+          "id": "https://gigazine.net/news/20210919-paddleocr/",
+          "author": null,
+          "description": "画像に含まれる文字をテキストデータ化する光学文字認識(OCR)は、請求書やレシート、名刺などの印刷物をデジタル化する手法として広く使われています。そんなOCRをディープラーニングフレームワークで実現したのが、オープンソースのOCRシステム「PP-OCRv2」のデモ版となる「PaddleOCR」です。 PaddleOCR - a Hugging Fa...",
+          "link": "https://gigazine.net/news/20210919-paddleocr/",
+          "publishedOn": "2021-09-19T05:12:45.000Z",
+          "wordCount": 243,
+          "title": "画像の中の文字を認識してくれるオープンソースのOCR「PaddleOCR」レビュー - GIGAZINE"
+        },
+        {
+          "id": "https://qiita.com/yuukiw00w/items/4682a7dacb480078047a",
+          "author": null,
+          "description": "iOSDC2021登壇資料、スライドのまとめです。 Twitter等で見つけ次第掲載しますが、もし資料を見かけた方or資料を公開した登壇者の方がいらっしゃいましたら、コメント等でお声がけください。 スライドや資料のリンクが見つかった場合はタイトルにリンクをつけてありますので、タイトルがリンクになっていない場合はまだ...",
+          "link": "https://qiita.com/yuukiw00w/items/4682a7dacb480078047a",
+          "publishedOn": "2021-09-19T04:23:14.000Z",
+          "wordCount": 445,
+          "title": "iOSDC 2021セッション資料まとめ - Qiita"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/069/4069693/",
+          "author": null,
+          "description": "Windows 11にはARM版もある。Windows 10のとき最初は騒がれたが、そのあとARMの人以外で実際に使っている様子を実は見たことがない。とはいえ仕事なので、Surface Pro Xを購入した。このマシンにもWindows Insider ProgramのBeta Channelでプレビュー版がやってきた。ARM版のWindows 11は強化されており、Windows 10のと...",
+          "link": "https://ascii.jp/elem/000/004/069/4069693/",
+          "publishedOn": "2021-09-19T03:06:27.000Z",
+          "wordCount": 630,
+          "title": "ASCII.jp：Windows 11ではARM版も改良が進んだ (1/2)"
+        },
+        {
+          "id": "https://note.com/takata_no_toshi/n/n9fdafae2197f",
+          "author": null,
+          "description": "iCAREでVPoEをしている安田と申します。 弊社のエンジニア採用は、以前は実務経験のある方に対象を絞っていましたが、数ヶ月前から実務未経験エンジニアも積極的に採用するようになりました。 そして、実務未経験エンジニアを対象として、かなりの数の書類選考、カジュアル面談、面接をしてきました。その結果、多くのこ...",
+          "link": "https://note.com/takata_no_toshi/n/n9fdafae2197f",
+          "publishedOn": "2021-09-19T02:10:52.000Z",
+          "wordCount": 92,
+          "title": "採用担当者から見る、実務未経験エンジニア市場で起こっていること｜とし｜note"
+        },
+        {
+          "id": "https://ascii.jp/elem/000/004/069/4069074/4/",
+          "author": null,
+          "description": "Insider Preview版ながらWindows 11にも対応 すでに述べたように、マイクロソフトは、今のところARM版のWindows 10を、一般ユーザー向けに販売していない。ということは、いくらParallels DesktopがARM版をサポートしていても、正式リリース版としては使えない。このあたりの事情は、以前の記事「M1搭載Mac用「Parallels...",
+          "link": "https://ascii.jp/elem/000/004/069/4069074/4/",
+          "publishedOn": "2021-09-19T02:07:40.000Z",
+          "wordCount": 431,
+          "title": "ASCII.jp：M1 MacでWindows 11 IP版が動く「Parallels Desktop 17」レビュー (4/4)"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-401310/",
+          "author": null,
+          "description": "Appleイベント「California streaming.」で発表されたiPad mini（第6世代）は、多くの予約注文が入っており、出荷までに4週間〜6週間を要することが明らかになりました。 商品のお届け日が10月下旬〜11月上旬 iPad mini（第6世代）の予約開始と同時に注文したユーザーは、9月24日にデバイスが手元に届く予定です。決断ま...",
+          "link": "https://iphone-mania.jp/news-401310/",
+          "publishedOn": "2021-09-19T01:39:11.000Z",
+          "wordCount": 229,
+          "title": "iPad mini（第6世代）、出荷時期が10月〜11月にずれ込み - iPhone Mania"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210919013857",
+          "author": null,
+          "description": "https://b.hatena.ne.jp/entry/s/twitter.com/pioneertaku84/status/1439151513037803523 このブコメ。公安の陰謀で共産党議員が別件逮捕されたってのが上位を占めてる。 それでは内容をよく知るであろう人のTwitterによると撮り鉄多数が捕まってるとのことだぞ。 https://mobile.twitter.com/asawapanhadayo 秩父鉄道日...",
+          "link": "https://anond.hatelabo.jp/20210919013857",
+          "publishedOn": "2021-09-19T00:57:25.000Z",
+          "wordCount": 297,
+          "title": "はてブは左翼陰謀論者の巣窟なのか"
+        },
+        {
+          "id": "https://github.com/joehillen/sysz",
+          "author": null,
+          "description": "A fzf terminal UI for systemctl Demo Features VERSION: 1.2.2 See and filter both system and user units simultaneously Supports all units types Units ordered by service, timer, socket, and the rest Runs sudo automatically and only if necessary History (Ctrl-p and Ctrl-n) Support short versions of ...",
+          "link": "https://github.com/joehillen/sysz",
+          "publishedOn": "2021-09-19T00:18:31.000Z",
+          "wordCount": 831,
+          "title": "GitHub - joehillen/sysz: An fzf terminal UI for systemctl"
+        },
+        {
+          "id": "https://qiita.com/hirockio2206/items/f6060486fc6ec0f2c904",
+          "author": null,
+          "description": "はじめに 昨日の記事の続きです。昨日はVPCとパブリックサブネットを作成しました。 本日はプライベートサブネットを作成します。 構成図 以下のプライベートサブネットを作ります。 手順 1.AWSのマネジメントコンソールにログインし、上部の検索バーで　VPCと入力します。 2.左側のメニューペインから[サブネット]を選...",
+          "link": "https://qiita.com/hirockio2206/items/f6060486fc6ec0f2c904",
+          "publishedOn": "2021-09-19T00:09:53.000Z",
+          "wordCount": 187,
+          "title": "【AWS】初心に戻って1からVPCを構築してみた　２ - Qiita"
+        },
+        {
+          "id": "https://speakerdeck.com/koic/formula-of-software-estimation",
+          "author": null,
+          "description": "Transcript ιϑτ΢ΣΞݟੵΓͷެࣜ ҏ౻�ߒҰ���&4. �*OD� 91ࡇΓ����� \"I'm not the best, but I'm pretty good\" ����������� 4BU @koic • OSS Programmer • Agile software development practitioner • Engineering Manager and Distinguished Engineer of ESM, Inc. Ӭ࿨γεςϜϚωδϝϯτ 3VCZ ओͳ044׆ಈ w ΦϒδΣΫτࢦ޲ϓϩ άϥϛϯάݴޠ3VCZ ʹ͓͚Δ-JOUFSͷ։ൃ� w ...",
+          "link": "https://speakerdeck.com/koic/formula-of-software-estimation",
+          "publishedOn": "2021-09-18T23:37:02.000Z",
+          "wordCount": 2038,
+          "title": "Formula of Software Estimation - Speaker Deck"
+        },
+        {
           "id": "https://www.yuu-progra.com/2021/09/19/laravel-vue-cal-7/",
           "author": null,
           "description": "皆さんこんにちは！！ 前回に引き続き、フロント（Vue.js）側の開発を始めていきます。 前回は、Vuexを利用してカレンダーコンポーネントを書き換えました。 Vuexは解説することが多かったので、かなり長い記事になっていますがとても大切な部分なので、じっくり読んでみてください。 前回までの記事はこちらからどうぞ ...",
@@ -137,6 +326,15 @@
           "publishedOn": "2021-09-18T13:09:00.000Z",
           "wordCount": 207,
           "title": "無料でPC上でシンセサイザーを構築できるオープンソースのソフトウェアモジュラー「BESPOKE」が登場 - GIGAZINE"
+        },
+        {
+          "id": "https://zenn.dev/tako8ki/articles/2021-09-ruby-version-manager-written-in-rust",
+          "author": null,
+          "description": "こんにちは、TaKO8Kiです。 この記事では、本日、2021年9月17日にRust.Tokyo 2021で「Rustでrbenvよりも7秒速いRubyのバージョンマネージャーを作った」というタイトルで発表した内容についてまとめています。 スライドは、こちらにあります。 作ったもの frumというRust製Rubyバージョンマネージャーを作りました。 き...",
+          "link": "https://zenn.dev/tako8ki/articles/2021-09-ruby-version-manager-written-in-rust",
+          "publishedOn": "2021-09-18T13:01:03.000Z",
+          "wordCount": 214,
+          "title": "Rustでrbenvよりもinitが6倍速いRubyバージョンマネージャーを作った"
         },
         {
           "id": "https://gigazine.net/news/20210918-portable-blood-analyzer/",
@@ -202,6 +400,15 @@
           "title": "github/README.md at main · kaityo256/github · GitHub"
         },
         {
+          "id": "https://gigazine.net/news/20210918-flow-machines-mobile/",
+          "author": null,
+          "description": "ソニーコンピュータサイエンス研究所(ソニーCSL)が開発した楽曲製作アプリ「Flow Machines」のモバイル版「Flow Machines Mobile」の配信が、2021年9月9日から開始されました。ユーザーが打ち込んだメロディーを基に、AIがユーザーの望むスタイルに合わせたメロディーを自動生成してくれるとのことで、どんなものなのか...",
+          "link": "https://gigazine.net/news/20210918-flow-machines-mobile/",
+          "publishedOn": "2021-09-18T09:17:49.000Z",
+          "wordCount": 247,
+          "title": "打ち込んだメロディーを学習しAIが自動作曲するソニーCSL制作の無料楽曲制作アプリ「Flow Machines Mobile」レビュー - GIGAZINE"
+        },
+        {
           "id": "https://goteleport.com/blog/hack-via-pull-request/",
           "author": null,
           "description": "Anatomy of a Cloud Infrastructure Attack via a Pull Request Sep 16, 2021 by Walt Della In April 2021, I discovered an attack vector that could allow a malicious Pull Request to a Github repository to gain access to our production environment. Open source companies like us, or anyone else who acce...",
@@ -263,6 +470,15 @@
           "publishedOn": "2021-09-18T04:19:03.000Z",
           "wordCount": 320,
           "title": "iOS14.8のバッテリー持続時間は？歴代iOSと比較した動画 - iPhone Mania"
+        },
+        {
+          "id": "https://japanese.engadget.com/ipados15-allow-apps-12gb-pro-031025963.html",
+          "author": null,
+          "description": "現状のiPadOS 14のもとでは、16GBものRAMを搭載するM1 iPad Proの1TBモデルでもアプリが使えるRAMは上限5GBとされています。しかし21日に配信予定のiPadOS 15では制限が緩和されて最大12GBとされ、従来の倍以上になることが明らかとなりました。 なぜアプリで使用できるRAMの量が制限されているかといえば、1つのアプリ...",
+          "link": "https://japanese.engadget.com/ipados15-allow-apps-12gb-pro-031025963.html",
+          "publishedOn": "2021-09-18T04:01:23.000Z",
+          "wordCount": 283,
+          "title": "iPadOS 15ではM1 iPad ProアプリでRAMを12GBまで使えるように。従来の5GBから倍増 - Engadget 日本版"
         },
         {
           "id": "https://iphone-mania.jp/news-400914/",
@@ -425,6 +641,15 @@
           "publishedOn": "2021-09-17T10:01:57.000Z",
           "wordCount": 156,
           "title": "ランサムウェア攻撃で7億円超の特別損失、建設コンサル大手のオリエンタルコンサルタンツが発表 - ITmedia NEWS"
+        },
+        {
+          "id": "https://speakerdeck.com/imairi/da-gui-mo-rihuakutaringufalseji-yi",
+          "author": null,
+          "description": "Transcript Mobility Technologies Co., Ltd. ⼤規模リファクタリングの極意 Yosuke Imairi Mobility Technologies Co., Ltd. 2 Yosuke Imairi ⾃⼰紹介 - JapanTaxi (2017.05 - 2020.4) - શࠃλΫγʔ - ૬৐ΓλΫγʔ - +BQBO5BYJ - Mobility Technologies (2020.4 - ) - .07 - (0 Mobility Technologies Co., Ltd. 3 タクシーア...",
+          "link": "https://speakerdeck.com/imairi/da-gui-mo-rihuakutaringufalseji-yi",
+          "publishedOn": "2021-09-17T09:32:22.000Z",
+          "wordCount": 1320,
+          "title": "大規模リファクタリングの極意 - Speaker Deck"
         },
         {
           "id": "https://www.gizmodo.jp/2021/09/microsoft_passless.html",
@@ -2776,6 +3001,15 @@
           "title": "転職成功に近づくポートフォリオの作り方【Webデザイナー／クリエイター／ディレクター】 ｜転職ならdodaエンジニア IT"
         },
         {
+          "id": "https://clown.cube-soft.jp/entry/2021/09/08/github-sponsors",
+          "author": null,
+          "description": "この度、株式会社キューブ・ソフト (CubeSoft, Inc.) は GitHub Sponsors を利用して、企業として OSS 開発者のスポンサーになる取り組みを開始しました。第 1 弾として、下記の方々に対して実施します。 @mayuki (Mayuki Sawatari) WeekRef.NET にて .NET 関連の情報をほぼ週刊で更新すると言う取り組みを始められまし...",
+          "link": "https://clown.cube-soft.jp/entry/2021/09/08/github-sponsors",
+          "publishedOn": "2021-09-08T01:47:57.000Z",
+          "wordCount": 284,
+          "title": "株式会社キューブ・ソフトは企業として GitHub Sponsors を開始しました - Life like a clown"
+        },
+        {
           "id": "https://coliss.com/articles/build-websites/operation/work/vscode-bracket-pair-colorization.html",
           "author": null,
           "description": "VS Codeがどんどん便利になっていきますね。 先日のv.1.60のアップデートで、ブラケットのカラー化に対応しました！ VS Codeの設定を変更するだけで、開始と終了のブラケットをセットで同じカラーにします。今までは機能拡張を入れないとできなかったことが、ネイティブ対応したのは朗報です。 Visual Studio Code: Augu...",
@@ -2810,6 +3044,15 @@
           "publishedOn": "2021-09-07T22:16:34.000Z",
           "wordCount": 205,
           "title": "「人間以上に関わりやすい存在を創る」。阪大・石黒教授がアバターの新会社「AVITA」設立。5社から5.2億円を調達 - PC Watch"
+        },
+        {
+          "id": "https://qiita.com/fkubota/items/cc46d58d853287b8e98e",
+          "author": null,
+          "description": "はじめに こんにちは、普段は機械学習エンジニアをしているfkubotaです。 今回は僕が普段行っているブックマーク管理術を紹介したいと思います。 ブラウザはchromeやvivaldiなどの chrome拡張 が使える環境を想定しています。 記事を読むモチベーションをあげるために僕がブックマークにアクセスしている様子をここで一...",
+          "link": "https://qiita.com/fkubota/items/cc46d58d853287b8e98e",
+          "publishedOn": "2021-09-07T20:07:43.000Z",
+          "wordCount": 271,
+          "title": "まるで自分だけの小さなインターネット、オレオレブックマーク管理術 - Qiita"
         },
         {
           "id": "https://japanese.engadget.com/apple-september-15-iphone13-162050445.html",
@@ -4522,6 +4765,15 @@
           "title": "レスポンシブデザインの確認に便利なツールが登場！複数のデバイスサイズで同時確認できる優れもの -Responsivize | コリス"
         },
         {
+          "id": "https://qiita.com/Axross_SBiv/items/6e49bade7a7cb0101b35",
+          "author": null,
+          "description": "はじめに Axross は、エンジニアの\"教育\"と\"実務\"のギャップに着目し、「学んだが活用できない人を減らしたい」という想いで、ソフトバンク社内起業制度にて立ち上げたサービスです。 現役エンジニアによる実践ノウハウが\"レシピ\"として教材化されており、実際に動くものを作りながら、具体的な目的・テーマをもってプロ...",
+          "link": "https://qiita.com/Axross_SBiv/items/6e49bade7a7cb0101b35",
+          "publishedOn": "2021-09-01T00:05:28.000Z",
+          "wordCount": 542,
+          "title": "AI・Python活用レシピ100選 - Qiita"
+        },
+        {
           "id": "https://aws.amazon.com/jp/blogs/news/amazon-s3-storage-lens-cost-reduction/",
           "author": null,
           "description": "Amazon Web Services ブログ Amazon S3 Storage Lensを使ってストレージコストを下げる5つの方法 このブログはMark Kalus (Principal Product Manager with Amazon S3)とLee Kear(Storage Specialist Solutions Architect specializing in S3)によって執筆された内容を⽇本語化したものです。原⽂はこちらを参照して下さ...",
@@ -5645,6 +5897,15 @@
           "publishedOn": "2021-08-27T10:05:56.000Z",
           "wordCount": 396,
           "title": "政府共通システム、1年持たず打ち切り　年100億円　利用低迷 | 毎日新聞"
+        },
+        {
+          "id": "https://www.lifehacker.jp/2021/08/24049610-time-saving-features-and-settings-you-should-be-usin.html",
+          "author": null,
+          "description": "時間の節約に役立つiPhoneの便利機能の記事を読むのに忙しいかもしれませんが、Androidのことも忘れないでください。 生産性向上に役立つ機能を搭載したのは、何と言ってもAndroidのほうがずっと先です。しかも機能は増え続けており、お馴染みのタスクがますます迅速に実行できるようになっています。 今回は、Androidの...",
+          "link": "https://www.lifehacker.jp/2021/08/24049610-time-saving-features-and-settings-you-should-be-usin.html",
+          "publishedOn": "2021-08-27T10:00:02.000Z",
+          "wordCount": 218,
+          "title": "Androidで使いたい便利な時短機能10選 | ライフハッカー［日本版］"
         },
         {
           "id": "https://www.itmedia.co.jp/news/spv/2108/27/news108_0.html",
@@ -7040,177 +7301,6 @@
           "publishedOn": "2021-08-21T14:04:17.000Z",
           "wordCount": 196,
           "title": "えるエル on Twitter: \"コンピュータサイエンスの世界でプログラマーに特に影響のある有名な書籍について、Web上で無料で読めるものがまとめてあります https://t.co/kU9FmMkXDw 現在でも変わらず読まれているものや、昔からこの業界にいるほ… https://t.co/kHEBpVdgrL\""
-        },
-        {
-          "id": "https://github.com/seven1m/natalie",
-          "author": null,
-          "description": "Natalie Natalie is a very early-stage work-in-progress Ruby implementation. It provides an ahead-of-time compiler using C++ and gcc/clang as the backend. Also, the language has a REPL that performs incremental compilation. There is much work left to do before this is useful. Please let me know if...",
-          "link": "https://github.com/seven1m/natalie",
-          "publishedOn": "2021-08-21T11:38:56.000Z",
-          "wordCount": 844,
-          "title": "GitHub - seven1m/natalie: a unique Ruby implementation, compiled to C++ (WIP)"
-        },
-        {
-          "id": "https://xckb.hatenablog.com/entry/2021/08/21/193757",
-          "author": null,
-          "description": "さて、先日から自分のもとに、全く身に覚えの無い謎の雑貨の類が次々とAmazonから届くようになった。これが代引きなら典型的な送りつけ詐欺なのだけれども、代引きではない。 そんな体験をしたことがあるだろうか。 継続中案件なので詳細な部分に関しては適宜フェイクを混ぜるが、全体の趣旨としては問題ないようにして...",
-          "link": "https://xckb.hatenablog.com/entry/2021/08/21/193757",
-          "publishedOn": "2021-08-21T10:38:24.000Z",
-          "wordCount": 270,
-          "title": "Amazonから注文していない商品が次々と届く、しかし代引きではない… - xckb的雑記帳"
-        },
-        {
-          "id": "https://natalie-lang.org/",
-          "author": null,
-          "description": "Natalie is a work-in-progress Ruby implementation, compiled to C++, by Tim Morgan. Follow development: GitHub Watch hacking sessions: YouTube What can Natalie do? I'm happy to announce that as of 2021, Natalie is a good enough Ruby compiler to be able to compile itself! (Because the Natalie compi...",
-          "link": "https://natalie-lang.org/",
-          "publishedOn": "2021-08-21T07:22:57.000Z",
-          "wordCount": 647,
-          "title": "Natalie Programming Language"
-        },
-        {
-          "id": "https://japanese.engadget.com/apple-engraving-bans-1000words-china-042536898.html?1",
-          "author": null,
-          "description": "アップルはAirPodsやiPadなどを公式ストアで注文したユーザーに対して、無料で刻印サービスを提供しています。このサービスに付き、中国や香港、台湾で政治的検閲を行っていると指摘するレポートが発表されています。 この報告書は、米トロント大学のインターネット監視団体Citizen Labが調査に基づき公表したものです。...",
-          "link": "https://japanese.engadget.com/apple-engraving-bans-1000words-china-042536898.html?1",
-          "publishedOn": "2021-08-21T07:01:52.000Z",
-          "wordCount": 232,
-          "title": "アップル、中国や台湾向け刻印サービスで「ダライ・ラマ」や「雨傘革命」などを検閲していると明らかに - Engadget 日本版"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b682fd3c516ed455ced69b30e447724316d7389e",
-          "author": null,
-          "description": "部屋の片隅にある「テレビコンセント」。アンテナやケーブルテレビからの信号をテレビに引き込むためのものですが、それ以外の用途にも使えること、ご存知ですか？ 「テレビコンセント」はLANとして使える！ 実はこのテレビコンセント、ホームネットワーク／LANに利用できます。家庭用LANといえば、有線／イーサネット（...",
-          "link": "https://news.yahoo.co.jp/articles/b682fd3c516ed455ced69b30e447724316d7389e",
-          "publishedOn": "2021-08-21T05:17:10.000Z",
-          "wordCount": 76,
-          "title": "壁面の「アンテナ端子」はネット接続に使える！サクッと解説（PHILE WEB） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4ffd98e47ce18f96508421f88cb89a11d0fe5424",
-          "author": null,
-          "description": "（※この記事には、インタビュー対象者が実際に受けた誹謗中傷の言葉を掲載しています） 「醜い生き方」 「どう育ったらこうなるのか」 世界最大のネット通販「Amazon」の書籍商品のレビュー欄で、著者の人格を攻撃したり、デマを流したりする書き込みが問題になっている。Amazon社は、ガイドライン違反の書き込みへの対...",
-          "link": "https://news.yahoo.co.jp/articles/4ffd98e47ce18f96508421f88cb89a11d0fe5424",
-          "publishedOn": "2021-08-21T04:53:35.000Z",
-          "wordCount": 75,
-          "title": "ネット中傷やデマ対策の“盲点”、Amazonレビューが温床に。識者から「透明化」求める声（ハフポスト日本版） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://iphone-mania.jp/news-391823/",
-          "author": null,
-          "description": "AppleがiOS15などで導入すると発表した、ユーザーのiPhoneに保存された児童への性的虐待画像（CSAM：Child Sexual Abuse Material）の検出機能について、同様の技術を研究する研究者「危険」と述べ、導入を見送るべきだと指摘しています。 米大学のコンピュータ科学の研究者が問題を指摘 AppleがiOS15などで導入すると発...",
-          "link": "https://iphone-mania.jp/news-391823/",
-          "publishedOn": "2021-08-21T04:49:04.000Z",
-          "wordCount": 230,
-          "title": "iOS15で導入の児童ポルノ検出、同技術の研究者が「危険」と批判 - iPhone Mania"
-        },
-        {
-          "id": "https://speakerdeck.com/recruitengineers/improvement-of-the-quality-of-search-results",
-          "author": null,
-          "description": "Transcript 検索結果の品質向上 守谷 純之介 （株）リクルート プロダクト統括本部 プロダクト開発統括室 プロダクトディベロップメント室 横断エンジニアリングユニット 横断エンジニアリング部 検索ソリューショングループ © Recruit Co., Ltd., 2021. 1 アジェンダ • 検索とは何か？ • 転置インデックスとは何か？ • ...",
-          "link": "https://speakerdeck.com/recruitengineers/improvement-of-the-quality-of-search-results",
-          "publishedOn": "2021-08-21T02:38:04.000Z",
-          "wordCount": 6980,
-          "title": "検索結果の品質向上 / Improvement of The Quality of Search Results - Speaker Deck"
-        },
-        {
-          "id": "https://speakerdeck.com/recruitengineers/business-value-and-engineering",
-          "author": null,
-          "description": "Transcript ࣄۀՁ஋ͱ� &OHJOFFSJOH ࠇాɹथ ॻ੶΍ΠϯλʔωοτͰ౸ୡՄೳͳ৘ใʹ͍ͭͯ͸͋·Γݴٴ͠·ͤΜɻ ͭ·ΓɺΞδϟΠϧͱ͔΢ΥʔλʔϑΥʔϧͱ͔ͦ͏͍͏࿩͸͠·ͤΜɻ ࠓޙͷΤϯδχΞਓੜʹ͓͍ͯHOWʹৼΓճ͞Εͳ͍Α͏ʹɺ ͦͷલஈʹ͋Δେ੾ͳߟ͑ํʹ͍ͭͯͷߨٛʹͳΓ·͢ɻ ։ൃ޻ఔ ྲྀ೿ʹΑΓɺ֤޻ఔͷ໊લɺείʔϓ͸ඍົʹ্Լ͢Δ͜ͱ͸͋Δ͕େ࿮͸͜͏͍͏ߏ଄ ཁ݅ఆٛ ཁٻ෼ੳ جຊઃܭ (֎෦ઃܭ) ίʔσΟϯά ίʔυϨϏϡʔ ୯ମςετ ݁߹ςετ γεςϜςετ ड͚ೖΕςετ ཁ݅ఆٛॻ جຊઃܭॻ ৄࡉઃܭॻ ίʔυ ࣌ؒ࣠ ந৅౓ߴ ղ૾౓ߴ ৄࡉઃܭ (಺෦ઃܭ) VࣈϞσϧ ཁٻఆٛॻʢϏδݕ݁Ռʣ ࣄۀߏ଄ͷཧղ طଘࣄۀʹ͓͚ΔϏδωεߏ଄ͷཧ...",
-          "link": "https://speakerdeck.com/recruitengineers/business-value-and-engineering",
-          "publishedOn": "2021-08-21T01:55:36.000Z",
-          "wordCount": 2904,
-          "title": "事業価値とエンジニアリング・リソース効率性とフロー効率性 / Business Value and Engineering - Speaker Deck"
-        },
-        {
-          "id": "https://efcl.info/2021/08/20/the-missing-readme/",
-          "author": null,
-          "description": "The Missing README: A Guide for the New Software Engineerを読んだ The Missing READMEという新人ソフトウェアのためのエンジニアガイドの書籍を読んだ感想です。 The Missing README learning.oreillyで読める The Missing README: A Guide for the New Software Engineer 2021年8月10日 に出版された書籍 The Missi...",
-          "link": "https://efcl.info/2021/08/20/the-missing-readme/",
-          "publishedOn": "2021-08-21T01:30:20.000Z",
-          "wordCount": 287,
-          "title": "The Missing README: A Guide for the New Software Engineerを読んだ | Web Scratch"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/08/21/2021-08-19-top-five-highlights-of-elon-musks-tesla-ai-day/",
-          "author": null,
-          "description": "Elon Musk（イーロン・マスク）氏はTesla（テスラ）を「単なる電気自動車会社ではない」と見てもらいたいと考えている。米国時間8月19日に開催されたTesla AI Day（テスラ・AI・デー）で、イーロン・マスクCEOはテスラのことを「推論レベルとトレーニングレベルの両方でハードウェアにおける深いAI活動」を行っている企...",
-          "link": "https://jp.techcrunch.com/2021/08/21/2021-08-19-top-five-highlights-of-elon-musks-tesla-ai-day/",
-          "publishedOn": "2021-08-21T00:26:31.000Z",
-          "wordCount": 397,
-          "title": "ロボット、チップ、完全自動運転、イーロン・マスク氏のTesla AI Dayハイライト5選 | TechCrunch Japan"
-        },
-        {
-          "id": "https://ffmpegwasm.netlify.app/",
-          "author": null,
-          "description": "ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.",
-          "link": "https://ffmpegwasm.netlify.app/",
-          "publishedOn": "2021-08-21T00:08:52.000Z",
-          "wordCount": 9,
-          "title": "FFMPEG.WASM"
-        },
-        {
-          "id": "https://blog.a-know.me/entry/2021/08/20/225135",
-          "author": null,
-          "description": "この文章で出てくる用語たち： SRE Site Reliability Engineering / Engineer 。 前者のことを指して SREing, 後者のことを指して SREs, と表記することもある サイトリライアビリティエンジニアリング - Wikipedia CRE Customer Reliability Engineering / Engineer 。 「CRE」という言葉が使われるときはだいたい後者...",
-          "link": "https://blog.a-know.me/entry/2021/08/20/225135",
-          "publishedOn": "2021-08-20T23:03:16.000Z",
-          "wordCount": 263,
-          "title": "僕は CREing：ソフトウェアエンジニアにカスタマーサクセスを任せたときに起こるもの、を Autify で実現したいと思っている - えいのうにっき"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/af80e9e1cdd311920bbaa4c1e376d0d279172b8b",
-          "author": null,
-          "description": "電気自動車を手掛ける米Teslaは8月19日（米国時間）、同社のイベント「AI Day」の中で、人型ロボット「Tesla Bot」の開発を発表した。2022年にプロトタイプを公開するという。 【画像】Tesla Botの身長や重量、移動速度など詳細スペック ロボットの身長は約173cmで重量は約57kg。約20kgまでの荷物を持って時速8kmで移動...",
-          "link": "https://news.yahoo.co.jp/articles/af80e9e1cdd311920bbaa4c1e376d0d279172b8b",
-          "publishedOn": "2021-08-20T18:16:04.000Z",
-          "wordCount": 85,
-          "title": "Tesla、人型ロボット開発に参入　2022年にプロトタイプ公開（ITmedia NEWS） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://yamap55.hatenablog.com/entry/2021/08/21/010529",
-          "author": null,
-          "description": "まとめ GitHub Pagesは「GitHub Enterprise Cloud 」プランの場合privateで使用する事ができる 企業でお金払っていてオンプレのGitHubでなければこのプランのはず GitHub ActionsでbuildしたドキュメントをGitHub Pagesに簡単に反映可能 peaceiris/actions-gh-pagesというGitHub Actionsが便利すぎる ほぼ無料 はじめに ...",
-          "link": "https://yamap55.hatenablog.com/entry/2021/08/21/010529",
-          "publishedOn": "2021-08-20T16:06:21.000Z",
-          "wordCount": 187,
-          "title": "GitHub ActionsでビルドしたドキュメントをGitHub Pagesで表示する - 山ｐの楽しいお勉強生活"
-        },
-        {
-          "id": "https://speakerdeck.com/recruitengineers/browser-b45d3a59-af2b-449c-992e-fd7563745f80",
-          "author": null,
-          "description": "Transcript Browser 2021/04/06 @ Recruit Twitter: @yosuke_furukawa Github: yosuke-furukawa Browser • ஌ͬͯΔΑ͏Ͱ஌Βͳ͍ • ΢ΣϒΞϓϦέʔγϣϯΛ࡞Δ࣌ʹඞͣ࢖͏ ΋ͷͷɺத਎͕Ͳ͏ͳͬͯΔ͔Λઆ໌ͯ͘͠ ͍ͩ͞ͱݴΘΕΔͱͲ͏ͨ͠Β͍͍͔Θ͔Β ͳ͍΋ͷ • ࠓճ͸ͦΜͳϒϥ΢βʹ৮ΕΑ͏ͱࢥ͍·͢ Browse + er ோΊΔ΋ͷ ຊߨٛͷͶΒ͍ • օ͞Μʹϒϥ΢βͷத਎Λೝࣝͯ͠΋Β͍ɺ಄ͷதʹ ϚοϓΛ࡞ͬͯ΋Β͏ɻ • ϒϥ΢βͷ஍ਤΛ࡞্ͬͨͰ͜ͷ͋ͱͷߨٛʢύ ϑΥʔϚϯεɺηΩϡϦςΟɺJavaScript/ TypeScriptʣΛड͚ͯ΋Β͏͜ͱͰཧղ౓ΛਂΊΔɻ • ...",
-          "link": "https://speakerdeck.com/recruitengineers/browser-b45d3a59-af2b-449c-992e-fd7563745f80",
-          "publishedOn": "2021-08-20T14:56:31.000Z",
-          "wordCount": 2279,
-          "title": "ブラウザ / Browser - Speaker Deck"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/20/news151.html",
-          "author": null,
-          "description": "みずほ銀のシステム障害、基幹システムと店舗端末をつなぐシステムが故障　バックアップも機能せず　「原因は調査中」 システム障害により、みずほ銀行とみずほ信託銀行の店頭窓口で入出金や振り込みが一時できなくなっていた問題で、みずほフィナンシャルグループが会見を開き、勘定系システムと店舗の事務処理端末をつ...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/20/news151.html",
-          "publishedOn": "2021-08-20T14:17:41.000Z",
-          "wordCount": 140,
-          "title": "みずほ銀のシステム障害、基幹システムと店舗端末をつなぐシステムが故障　バックアップも機能せず　「原因は調査中」 - ITmedia NEWS"
-        },
-        {
-          "id": "https://speakerdeck.com/recruitengineers/introduction-of-abtesting",
-          "author": null,
-          "description": "Transcript Copyright(C)2021 Recruit Co.,Ltd All rights reserved A/Bテスト 概論 大杉直也 2021/4/7 Copyright(C)2014 Recruit Technologies Co.,Ltd All rights reserved 1 ｂコースとｃコースの合同研修です  4/7 ~ 4/9 の２日半、大杉直也(@Osugi_Naoya)が実施します  4/7はA/Bテストについて学びます  座学形...",
-          "link": "https://speakerdeck.com/recruitengineers/introduction-of-abtesting",
-          "publishedOn": "2021-08-20T14:16:57.000Z",
-          "wordCount": 1146,
-          "title": "A/Bテスト概論 / Introduction of ABTesting - Speaker Deck"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/08/20/orihime-interview/",
-          "author": null,
-          "description": "オリィ研究所所長吉藤オリィ氏 OriHimeは病気や子育て、単身赴任などで行きたいところに行けない人が使う「分身ロボット」だ。最近では、カフェでの接客・運搬や展示会の案内に適したOriHime Porterがモスバーガーの実証実験で導入され、接客用OriHime Dを活用した実験カフェ「分身カフェDAWN version β」がアップデート...",
-          "link": "https://jp.techcrunch.com/2021/08/20/orihime-interview/",
-          "publishedOn": "2021-08-20T13:08:40.000Z",
-          "wordCount": 397,
-          "title": "分身ロボット「OriHime」開発者が「テレワークで肉体労働」に挑戦したワケ | TechCrunch Japan"
         }
       ]
     },
@@ -7743,24 +7833,6 @@
           "publishedOn": "2021-08-23T14:28:14.000Z",
           "wordCount": 832,
           "title": "Native JavaScript Routing?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350186",
-          "author": "Chris Coyier",
-          "description": "I appreciated this bit of nuance from a post on Viget’s blog:\nThere could be a whole article written about the many flavours of Tailwind, but broadly speaking those flavours are:\n1. Stock tailwind, ie. no changes to the \n…\nThe post “Disambiguating Tailwind” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/disambiguating-tailwind/",
-          "publishedOn": "2021-08-20T19:59:47.000Z",
-          "wordCount": 585,
-          "title": "“Disambiguating Tailwind”"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346702",
-          "author": "Ganesh Dahal",
-          "description": "Frontity is a WordPress-focused React-based server-side dynamic-rendering framework (phew!) that allows us to create fast headless websites. Chris has a good introduction to Frontity. I guess you could think of it like Next.js for WordPress. And while the demand …\nThe post Creating a Headless WordPress Site With Frontity appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-headless-wordpress-site-with-frontity/",
-          "publishedOn": "2021-08-20T14:59:30.000Z",
-          "wordCount": 2966,
-          "title": "Creating a Headless WordPress Site With Frontity"
         }
       ]
     },
@@ -7873,6 +7945,60 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/mcube25/ngrx-entity-and-selectors-the-why-and-how-27e2",
+          "author": "Muhammad Muhktar Musa",
+          "description": "When using Ngrx to build an application, the problem of deciding the format of storing data inside the store is always there. The problem of handling the business data in a centralized store is something that will need to be done in the application. This process could be repetitive and time consuming. It could lead to handwriting the same reducer logic and selectors for different data types. This can be error prone and slows down the development process. We would cover how to solve this problems using the Ngrx Entity and selectors to improve an application.\nNgrx Entity helps in handling business data in a store. It represents some sort of business data or user interface state. An entity is defined as typescript custom object type like in the example below\nexport interface EarlyconfigState …",
+          "link": "https://dev.to/mcube25/ngrx-entity-and-selectors-the-why-and-how-27e2",
+          "publishedOn": "2021-09-19T22:40:59.000Z",
+          "wordCount": 1554,
+          "title": "Ngrx Entity and Selectors. The why and how"
+        },
+        {
+          "id": "https://dev.to/saulodias/adding-global-css-to-an-angular-library-storybook-agm",
+          "author": "Saulo Dias",
+          "description": "This tutorial assumes you have configured an Angular Library + Storybook following this post.\nMost of the time, when creating components, you'll probably want to rely on some global css style. That enables you to use generic classes (like bootstrap classes), or theming and so on. However the Storybook documentation lacks examples on how to do it.\nFor this example we first have to install Bootstrap. Go to your workspace root folder and run npm install bootstrap.\nOnce you have done that, now you can link the boostrap css to your Storybook project.\nTo do so, you just have to add the css path to the styles in your angular.json file, in the styles list of your storybook project like in the following example.\n\"styles\": [\"node_modules/bootstrap/dist/css/bootstrap.min.css\"],\n\nSee the entire file and example workspace on Github.\nI have edited the default MyLibComponent from the Angular Library basic example and it looks like this with the Bootstrap styling.\n\nAngular Library + Storybook\nSaulo Dias ・ Sep 19 ・ 4 min read\n#angular\n        #component\n        #library\n        #storybook",
+          "link": "https://dev.to/saulodias/adding-global-css-to-an-angular-library-storybook-agm",
+          "publishedOn": "2021-09-19T20:28:44.000Z",
+          "wordCount": 524,
+          "title": "Adding Global CSS to an Angular Library Storybook"
+        },
+        {
+          "id": "https://dev.to/dubaicallgirls1/vip-o5869oo724-call-girls-in-sharjah-indian-call-girls-in-sharjah-7d3",
+          "author": "dubaicallgirls1",
+          "description": "VIP O5869OO724 Call Girls in Sharjah  | Indian Call Girls in Sharjah",
+          "link": "https://dev.to/dubaicallgirls1/vip-o5869oo724-call-girls-in-sharjah-indian-call-girls-in-sharjah-7d3",
+          "publishedOn": "2021-09-19T18:44:30.000Z",
+          "wordCount": 345,
+          "title": "VIP O5869OO724 Call Girls in Sharjah  | Indian Call girls in sharjah"
+        },
+        {
+          "id": "https://dev.to/saulodias/angular-library-storybook-44ma",
+          "author": "Saulo Dias",
+          "description": "Storybook is a tool that allows you to easily create and document UI components. It works with several different libraries and frameworks, such as Angular, React, Vue, and many others.\nTo create a new workspace and a component library on Angular, run the following commands.\nng new my-workspace --create-application=false\ncd my-workspace\nng generate library my-lib\n\nSee: Angular - Creating Libraries\nWhen you create a new workspace, Angular automatically initializes a git repository. After generating a basic library, I recommend you commit your changes, just to keep things neat.\ngit add . \ngit commit -m 'generate library'\n\nOnce you have created a new library, now you can run the storybook utility to get started. Run the following command.\nnpx sb init\n\nThis should take a few minutes. This comma…",
+          "link": "https://dev.to/saulodias/angular-library-storybook-44ma",
+          "publishedOn": "2021-09-19T13:29:34.000Z",
+          "wordCount": 1219,
+          "title": "Angular Library + Storybook"
+        },
+        {
+          "id": "https://dev.to/dasaradhanimmala/es6-javascript-part-1-5c2",
+          "author": "Dasaradh",
+          "description": "One must know ES6, \nThe Modern JavaScript concepts before learning or working on JavaScript Framework or JavaScript Librarylike Angular or React.\nExplained about \nLet \nConst \nDefault Parameters \nSpread Operator\nRest Operator \nObject Literal \nTemplate Literal \nFor Of",
+          "link": "https://dev.to/dasaradhanimmala/es6-javascript-part-1-5c2",
+          "publishedOn": "2021-09-19T11:56:08.000Z",
+          "wordCount": 411,
+          "title": "ES6 JavaScript: Part 1"
+        },
+        {
+          "id": "https://dev.to/zahidhasann88/integrate-the-login-feature-angular-js-280p",
+          "author": "Zahid Hasan",
+          "description": "Need help to integrate the login feature by the following API call in Angular js.\nCan anyone help me?",
+          "link": "https://dev.to/zahidhasann88/integrate-the-login-feature-angular-js-280p",
+          "publishedOn": "2021-09-19T07:53:51.000Z",
+          "wordCount": 386,
+          "title": "integrate the login feature Angular js"
+        },
         {
           "id": "https://dev.to/rodrigokamada/adding-the-log-component-to-an-angular-application-49f9",
           "author": "Rodrigo Kamada",
@@ -9186,42 +9312,6 @@
           "publishedOn": "2021-08-21T15:58:34.000Z",
           "wordCount": 814,
           "title": "Beginner Guide To Angular!"
-        },
-        {
-          "id": "https://dev.to/fareez/setting-up-tailwind-in-angular-57bj",
-          "author": "Fareez Ahamed",
-          "description": "Thanks to Angular team for making it so easy to integrate Tailwind with Angular 12 and above to a point that I really thought if I should write a post for it. Finally convinced myself to document it, since there were not many good references I could find related to this.\nLets first create a new Angular application. When new application is created, make sure you use CSS as the styling option.\nng new tailangular && cd tailangular\n\nNow we have to add Tailwind as a dependency to our application\nnpm install --save-dev tailwindcss\n\nOnce you have it installed, its time to create the tailwind config file, so that Angular can pick it up when its building or running the application.\nnpx tailwindcss init\n\nThis will create the tailwind.config.js file with the following content.\nmodule.exports = {\n  purge: [],\n  darkMode: false, // or 'media' or 'class'\n  theme: {\n    extend: {},\n  },\n  variants: {\n    extend: {},\n  },\n  plugins: [],\n};\n\nNow you can include the tailwind directives to the src/styles.css as shown\n/* src/styles.css */\n@tailwind base;\n@tailwind components;\n@tailwind utilities;\n\nThat's it, now you can use Tailwind in your components. I don't think other frameworks have such easy integration as Angular. From Angular 12's release notes, it appears this is supported from Angular 11.2 but I tried it only with Angular 12.\nEnjoy using Tailwind with Angular's template system!",
-          "link": "https://dev.to/fareez/setting-up-tailwind-in-angular-57bj",
-          "publishedOn": "2021-08-21T06:50:53.000Z",
-          "wordCount": 646,
-          "title": "Setting Up Tailwind in Angular"
-        },
-        {
-          "id": "https://dev.to/hari_om_333/react-vs-angular-1pil",
-          "author": "Hari Om Singh",
-          "description": "many people ask to me which JavaScript framework can i learn first or which framework is easy then other or which framework should i learn.\nSo React is a technically a JavaScript library for building user interfaces.\n\nusing react we can make single page web application.\nDeveloped by Facebook\nyou only need to learn React is JavaScript. first you need to master in javascript, es6, arrow function, array method, map and set.\n\nAngular is JavaScript Framework and it's help us to make morden web application. you can also make a single page application using Angular.\nDeveloped by Google.\nAngular is a type-script based Web framework to learn Angular you need to master typeScript. typeScript is super set of javaScript and typescript made by microsoft.\nif you are a beginner and just learn HTML, CSS, JavaScript. then Answere is simple. REACT - Wait i tell you way.\nAnd if you are a intermediate level Developer or you have some experience of javascript or you learn web developet last 6 months. then try once Angular.\nNO, learn React is so easy if you JavaScript Fundaments is clear.\nyes if you are a beginner if you unfamiliar with typescript and you don't know the fundaments of JavaScipt then React and Angular both is hard for you.\ni talk to many developer and all said that start with React and once you under-stand react then move to angular\nwhen the deviate goes to Jobs section then i say it's depended, search for  which framework most use in your area, then focus on this. i also say that learn both because which framework you next working on no one knows.",
-          "link": "https://dev.to/hari_om_333/react-vs-angular-1pil",
-          "publishedOn": "2021-08-21T05:20:36.000Z",
-          "wordCount": 868,
-          "title": "React vs Angular"
-        },
-        {
-          "id": "https://dev.to/gabrielomarq/spa-ssr-y-ssg-como-cuando-y-por-que-2d7e",
-          "author": "GabrielOmar",
-          "description": "Hace unos años, basábamos el desarrollo web en frameworks puros como son Angular, React y Vue, todos ellos proveen lo que conocemos como client-side rendering (Single Page Application). Pero, con el paso del tiempo descubrimos diferentes necesidades a la hora de renderizar las aplicaciones es ahí donde entra lo que conocemos como SSR y SGR. ¿El problema?, muchos desarrolladores no tienen del todo claro cuando optar por alguno.\nPodemos diferir que no tendría mucho sentido usar SSR para una TODO App así como no tendría sentido construir tu blog usando SPA, ¿o quizás si lo tendría?.\nEs ahí el detalle, no existe una lista definida de cuando usar que. Sin embargo, explicaremos en que consiste cada uno, los pro y contras para que puedas tomar la mejor decisión al desarrollar tu próxima aplicació…",
-          "link": "https://dev.to/gabrielomarq/spa-ssr-y-ssg-como-cuando-y-por-que-2d7e",
-          "publishedOn": "2021-08-20T15:53:37.000Z",
-          "wordCount": 1532,
-          "title": "🚀😎SPA, SSR Y SSG ¿cómo, cuándo y por qué?"
-        },
-        {
-          "id": "https://dev.to/rodrigokamada/adding-the-internationalization-i18n-component-to-an-angular-application-4pac",
-          "author": "Rodrigo Kamada",
-          "description": "Introduction\n\n\nAngular is a development platform for building WEB, mobile and desktop applications using HTML, CSS and TypeScript (JavaScript). Currently, Angular is at version 12 and Google is the main maintainer of the project.\n@ngx-translate is an internationalization (i18n) component library with many configuration options.\nBefore you start, you need to install and configure the tools:\ngit\nNode.js and npm\nAngular CLI\nIDE (e.g. Visual Studio Code)\n1. Let's create the application with the Angular base structure using the @angular/cli with the route file and the SCSS style format.\nng new angular-internationalization\n? Would you like to add Angular routing? Yes\n? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/documentation/syntax#scss                ]\nCREATE …",
-          "link": "https://dev.to/rodrigokamada/adding-the-internationalization-i18n-component-to-an-angular-application-4pac",
-          "publishedOn": "2021-08-20T12:33:05.000Z",
-          "wordCount": 1071,
-          "title": "Adding the internationalization (i18n) component to an Angular application"
         }
       ]
     },
@@ -11385,78 +11475,6 @@
           "publishedOn": "2021-08-23T12:51:56.000Z",
           "wordCount": 1189,
           "title": "Why Every Developer Needs To Learn To Write Better"
-        },
-        {
-          "id": "https://medium.com/p/d9b42b040bb3",
-          "author": "Evgeniia",
-          "description": "A complete guide to one of the most powerful data analytics tools\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/pivot-tables-in-python-with-pandas-d9b42b040bb3?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-20T18:32:28.000Z",
-          "wordCount": 1708,
-          "title": "Pivot Tables in Python With Pandas"
-        },
-        {
-          "id": "https://medium.com/p/3b18a43400b5",
-          "author": "Mitadru Datta",
-          "description": "Exploring the dark sides of pair programming\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/5-scenarios-where-pair-programming-can-cause-stress-3b18a43400b5?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-20T18:06:31.000Z",
-          "wordCount": 1546,
-          "title": "5 Scenarios Where Pair Programming Can Cause Stress"
-        },
-        {
-          "id": "https://medium.com/p/928b4a776c94",
-          "author": "Anna Geller",
-          "description": "Some activities we don’t spend enough time on\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/10-challenging-aspects-of-software-engineering-928b4a776c94?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-20T18:05:30.000Z",
-          "wordCount": 1619,
-          "title": "10 Challenging  Aspects of Software Engineering"
-        },
-        {
-          "id": "https://medium.com/p/e282a1874c79",
-          "author": "Thomas Smith",
-          "description": "It won’t replace human programmers, but it will make them far more powerful\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/i-beta-tested-openais-codex-and-the-results-are-spooky-good-e282a1874c79?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-20T17:55:12.000Z",
-          "wordCount": 2511,
-          "title": "I Beta Tested OpenAI’s Codex, and the Results Are Spooky Good"
-        },
-        {
-          "id": "https://medium.com/p/9e7a5751fe7f",
-          "author": "Rahul Banerjee",
-          "description": "Never make another bad commit\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/automate-javascript-code-linting-and-formatting-in-5-simple-steps-9e7a5751fe7f?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-20T17:10:55.000Z",
-          "wordCount": 984,
-          "title": "Automate JavaScript Code Linting and Formatting in 5 Simple Steps"
-        },
-        {
-          "id": "https://medium.com/p/176686c2c65b",
-          "author": "Karl Sprague",
-          "description": "Turn delegation from a necessary evil to a massive difference-maker\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/9-steps-to-master-delegation-as-a-leader-176686c2c65b?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-20T17:03:36.000Z",
-          "wordCount": 1967,
-          "title": "9 Steps To Master Delegation as a Leader"
-        },
-        {
-          "id": "https://medium.com/p/5f8b1cdfd3b3",
-          "author": "Frank Andrade",
-          "description": "Collaborate, set coding standards, and more\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/7-habits-i-learned-from-programmers-more-successful-than-me-5f8b1cdfd3b3?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-20T16:17:46.000Z",
-          "wordCount": 1607,
-          "title": "7 Habits I Learned From Programmers More Successful Than Me"
-        },
-        {
-          "id": "https://medium.com/p/38b2da5b8257",
-          "author": "Zack West",
-          "description": "Leverage the power of the standard textwrap library to format text like a pro!\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/text-wrapping-in-python-with-the-standard-textwrap-module-38b2da5b8257?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-20T15:32:44.000Z",
-          "wordCount": 1872,
-          "title": "Text Wrapping in Python With the Standard “textwrap” Module"
         }
       ]
     }
