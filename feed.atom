@@ -2,16 +2,477 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m-Suda.github.io/masaks-feeds/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-20T00:17:07.986Z</updated>
+    <updated>2021-09-21T00:15:19.346Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://m-Suda.github.io/masaks-feeds/index.html"/>
     <link rel="self" href="https://m-Suda.github.io/masaks-feeds/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Resources aren’t requested by CSS, but by the DOM]]></title>
+        <id>https://css-tricks.com/?p=352089</id>
+        <link href="https://css-tricks.com/resources-arent-requested-by-css-but-by-the-dom/"/>
+        <updated>2021-09-20T23:16:14.000Z</updated>
+        <summary type="html"><![CDATA[This is a good tweet from Harry:
+Simple yet significant thing all developers should keep in mind: CSS resources (fonts, background images) are not requested by your CSS, but by the DOM node that needs them [Note: slight oversimplification, but 
+…
+The post Resources aren’t requested by CSS, but by the DOM appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing Asymmetrical Design]]></title>
+        <id>https://css-tricks.com/?p=352274</id>
+        <link href="https://www.bennadel.com/blog/4102-embracing-asymmetrical-design-and-overcoming-the-harmful-effects-of-text-overflow-ellipsis-in-css.htm"/>
+        <updated>2021-09-20T19:17:33.000Z</updated>
+        <summary type="html"><![CDATA[I’ll never forget one of Karen McGrane’s great lessons to the world: truncation is not a content strategy. The idea is that just clipping off text programmatically is a sledgehammer, and avoids the kind of real thinking and planning that …
+The post Embracing Asymmetrical Design appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[imba]]></title>
+        <id>https://css-tricks.com/?p=352283</id>
+        <link href="https://imba.io/"/>
+        <updated>2021-09-20T19:13:36.000Z</updated>
+        <summary type="html"><![CDATA[It’s not every day you see a new processor for building websites that reinvents the syntax for HTML and CSS and JavaScript. That’s what imba is doing.
+That’s an awful lot of vendor lock-in, but I guess if you get …
+The post imba appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS/iPadOS 15配信開始。FaceTime強化、iPadはマルチタスクが便利に - Engadget 日本版]]></title>
+        <id>https://japanese.engadget.com/ios-ipados15-facetime-multitask-184054893.html</id>
+        <link href="https://japanese.engadget.com/ios-ipados15-facetime-multitask-184054893.html"/>
+        <updated>2021-09-20T19:01:45.000Z</updated>
+        <summary type="html"><![CDATA[ほかiPadOS 15については、マルチタスク機能が大幅に強化されました。ユーザーが選んだアプリを左右に並べるSplitviewの操作性も改善され、アプリの上部にフロート表示される専用メニューによりSlide Overモードへの移行もよりスムーズに。 それに加えて、新たなシェルフでは開いているアプリをすべて表示できるようにな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「iOS 15」「iPadOS 15」、いよいよ配信スタート - ケータイ Watch]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/news/1352314.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/news/1352314.html"/>
+        <updated>2021-09-20T17:22:36.000Z</updated>
+        <summary type="html"><![CDATA[アップルは、「iOS 15」「iPadOS 15」の配信を開始した。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Desktop for Linuxを開発中とDocker社が表明。有料化の発表が好評だったとして機能強化など加速 － Publickey]]></title>
+        <id>https://www.publickey1.jp/blog/21/docker_desktop_for_linuxdocker.html</id>
+        <link href="https://www.publickey1.jp/blog/21/docker_desktop_for_linuxdocker.html"/>
+        <updated>2021-09-20T17:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Docker Desktop for Linuxを開発中とDocker社が表明。有料化の発表が好評だったとして機能強化など加速 Docker社は、Docker DesktopのLinux版となる「Docker Desktop for Linux」の開発を進めていることを明らかにしました。 Did you catch our latest news? Based on the overwhelming support we received, we are acc...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Important Traits to Look For When Interviewing a Candidate]]></title>
+        <id>https://medium.com/p/e5b03a3887af</id>
+        <link href="https://betterprogramming.pub/5-important-traits-to-look-for-when-interviewing-a-candidate-e5b03a3887af?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-20T16:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Willingness to learn, motivation, honesty, and more
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Danielle A.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Dev, Peer, and Regular Dependencies in JavaScript]]></title>
+        <id>https://medium.com/p/f4090621c7a7</id>
+        <link href="https://betterprogramming.pub/understanding-dev-peer-and-regular-dependencies-in-javascript-f4090621c7a7?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-20T16:37:46.000Z</updated>
+        <summary type="html"><![CDATA[Know how packages work together in JavaScript applications
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Tyler Hawkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Pair Programming Is the Best Interview Approach for Hiring]]></title>
+        <id>https://medium.com/p/9d4c4c2e2848</id>
+        <link href="https://betterprogramming.pub/why-pair-programming-is-the-best-interview-approach-for-hiring-9d4c4c2e2848?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-20T16:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Pair programming helps recruit the best candidates with the least amount of effort
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>GreekDataGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xamarin Forms Is Dying — And MAUI May Not Be Future]]></title>
+        <id>https://medium.com/p/f0395575ac5d</id>
+        <link href="https://betterprogramming.pub/xamarin-forms-is-dying-and-maui-may-not-be-future-f0395575ac5d?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-20T16:28:47.000Z</updated>
+        <summary type="html"><![CDATA[What’s the next big thing for a multiplatform app development experience?
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Lew C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Glassmorphism Login Screen Using SwiftUI Materials]]></title>
+        <id>https://medium.com/p/b909b1527414</id>
+        <link href="https://betterprogramming.pub/build-a-glassmorphism-login-screen-using-swiftui-materials-b909b1527414?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-20T16:23:28.000Z</updated>
+        <summary type="html"><![CDATA[Flat, convex, and concave glass views
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Sarah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Tips To Run More Efficient Meetings as an Engineering Team]]></title>
+        <id>https://medium.com/p/cb1c92db766b</id>
+        <link href="https://betterprogramming.pub/5-tips-to-run-more-efficient-meetings-as-an-engineering-team-cb1c92db766b?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-20T16:15:30.000Z</updated>
+        <summary type="html"><![CDATA[And it’s not to have none at all
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Chak Shun Yu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Solved a Challenging Concurrency Bug in Python]]></title>
+        <id>https://medium.com/p/cbf635d4bea9</id>
+        <link href="https://betterprogramming.pub/how-i-solved-a-challenging-concurrency-bug-in-python-cbf635d4bea9?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-20T16:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Investigating the fundamentals and complexities of event loops, signals, and locks
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Lucas Sonnabend</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create Infinite Worlds in Your Games Using Procedural Generation]]></title>
+        <id>https://medium.com/p/d4d4baecd3cb</id>
+        <link href="https://betterprogramming.pub/how-to-create-infinite-worlds-in-your-games-using-procedural-generation-d4d4baecd3cb?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-20T16:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Explore how games like Minecraft and Terraria generate infinite, varied open worlds from nothing — code example included
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Nicholas Obert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Resume Mistakes Made By Software Engineers as a Fresher]]></title>
+        <id>https://medium.com/p/83036bc0f1ea</id>
+        <link href="https://betterprogramming.pub/5-resume-mistakes-made-by-software-engineers-as-a-fresher-83036bc0f1ea?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-20T16:00:19.000Z</updated>
+        <summary type="html"><![CDATA[You have what it takes. You’re just not showing it off
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Lindsay Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15では「iOS 15にアップデートしない」という選択肢も可能になる？ [iPhone駆け込み寺] - ケータイ Watch]]></title>
+        <id>https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1352311.html</id>
+        <link href="https://k-tai.watch.impress.co.jp/docs/review/iphonetips/1352311.html"/>
+        <updated>2021-09-20T15:57:07.000Z</updated>
+        <summary type="html"><![CDATA[9月21日、「iOS 15」へのバージョンアップが提供される。本稿執筆時点ではまだ正式版は登場していないが、いくつかの新機能のうち、実は「iOS 15」から、これまでのiOSにはなかった「アップデートをしない選択肢」が用意される。これは「iPadOS」でも同様の仕組みが用意される。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Must-Have Python Cheatsheets]]></title>
+        <id>https://medium.com/p/2b74e8097bc3</id>
+        <link href="https://betterprogramming.pub/10-must-have-python-cheatsheets-2b74e8097bc3?source=rss----d0b105d10f0a---4"/>
+        <updated>2021-09-20T15:51:58.000Z</updated>
+        <summary type="html"><![CDATA[Cheat sheets for beginners and advanced Python developers
+Continue reading on Better Programming »]]></summary>
+        <author>
+            <name>Claire D. Costa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハシマトシヒロ（空道・関西宗支部） on Twitter: "恐らく人生で一度もスポーツをしたことが無さそうな青年から、 「格闘技の練習法って、技術書とかYouTubeで解説してくれますよね。 それを見れば出来るようになるのに、なんでお金払って道場とか行くんですか？」 と、まったく悪意なく、… https://t.co/nyHRQKkcfR"]]></title>
+        <id>https://twitter.com/5dbXeTyUZmFzOjL/status/1439801226913148933</id>
+        <link href="https://twitter.com/5dbXeTyUZmFzOjL/status/1439801226913148933"/>
+        <updated>2021-09-20T15:22:38.000Z</updated>
+        <summary type="html"><![CDATA[恐らく人生で一度もスポーツをしたことが無さそうな青年から、 「格闘技の練習法って、技術書とかYouTubeで解説してくれますよね。 それを見れば出来るようになるのに、なんでお金払って道場とか行くんですか？」 と、まったく悪意なく、… https://t.co/nyHRQKkcfR]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Unit Test an HTTP Service in Angular]]></title>
+        <id>https://dev.to/braydoncoyer/how-to-unit-test-an-http-service-in-angular-38pa</id>
+        <link href="https://dev.to/braydoncoyer/how-to-unit-test-an-http-service-in-angular-38pa"/>
+        <updated>2021-09-20T15:00:46.000Z</updated>
+        <summary type="html"><![CDATA[This article was originally published on my personal blog
+We now understand the importance of testing in isolation and I want to shift our focus to testing an HTTP Service. By the time we wrap up this addition to the series, not only will you understand how to write valuable tests, but you'll also understand what to test - something I feel a lot of newcomers to unit testing struggle to wrap their minds around.
+If you haven't read parts one and two, I encourage you to come back to this article after reviewing the foundational concepts laid out in those posts.
+For the purposes of this article, I've created a new Angular application and bootstrapped a json-server into the project so we can make API requests and complement our learning process. By default, this API is running on localhost:3000…]]></summary>
+        <author>
+            <name>Braydon Coyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the CSS Paint API: Polygon Border]]></title>
+        <id>https://css-tricks.com/?p=351917</id>
+        <link href="https://css-tricks.com/exploring-the-css-paint-api-polygon-border/"/>
+        <updated>2021-09-20T14:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, creating complex shapes is an easy task using clip-path, but adding a border to the shapes is always a pain. There is no robust CSS solution and we always need to produce specific “hacky” code for each particular …
+The post Exploring the CSS Paint API: Polygon Border appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOSでもWSLみたいなLinux環境を手に入れる - Qiita]]></title>
+        <id>https://qiita.com/chibiegg/items/eede37345f7058ce604d</id>
+        <link href="https://qiita.com/chibiegg/items/eede37345f7058ce604d"/>
+        <updated>2021-09-20T14:13:47.000Z</updated>
+        <summary type="html"><![CDATA[macOSでもLinuxの仮想環境が欲しい時はある Dockerを利用するなど、macOSであってもLinux環境が欲しい時はあります。 VirtualBoxなどを利用することによって、仮想環境にLinuxをインストールし利用することはできますが、WindowsにおけるWSL (Windows Subsystem for Linux) のようにネットワークやファイルシステムが統...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数ミリ単位での位置情報取得が可能な「Micro-GPS」が開発される - GIGAZINE]]></title>
+        <id>https://gigazine.net/news/20210920-micro-gps/</id>
+        <link href="https://gigazine.net/news/20210920-micro-gps/"/>
+        <updated>2021-09-20T12:30:31.000Z</updated>
+        <summary type="html"><![CDATA[GPSは、スマートフォンや自動車、ドローンなどの位置情報取得に用いられていますが、「室内では位置情報を取得しづらい」「数mm単位での位置情報取得は難しい」といった問題が存在します。そんな中、アメリカ・プリンストン大学の研究チームが地面の情報をスキャンすることで非常に高精度な位置情報を取得するシステム「...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbnb’s Server-Driven UI System(Ghost Platform) の感想 - laiso]]></title>
+        <id>https://laiso.hatenablog.com/entry/2021/09/20/Server-Driven_UI_System(SDUI)_%E3%81%AE%E6%84%9F%E6%83%B3</id>
+        <link href="https://laiso.hatenablog.com/entry/2021/09/20/Server-Driven_UI_System(SDUI)_%E3%81%AE%E6%84%9F%E6%83%B3"/>
+        <updated>2021-09-20T12:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Airbnb’s Server-Driven UI System(Ghost Platform) とは何か Airbnbが社内で取り組んでいる最新UI開発システム Ghost Platformとそのコンセプトの名前 元Airbnb AndroidエンジニアRyan Brooksによるポストを参照 A Deep Dive into Airbnb’s Server-Driven UI System | by Ryan Brooks | The Airbnb Tech Blog | Medium ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ガラケー」に迫る終焉　携帯３Ｇ、来年から各社で終了 - 産経ニュース]]></title>
+        <id>https://www.sankei.com/article/20210920-K3M2ZHPHUFK65P3DP3MAXEI6SI/</id>
+        <link href="https://www.sankei.com/article/20210920-K3M2ZHPHUFK65P3DP3MAXEI6SI/"/>
+        <updated>2021-09-20T09:43:46.000Z</updated>
+        <summary type="html"><![CDATA[スマートフォンの普及や第５世代（５Ｇ）移動通信システムのエリア拡大など通信の高速化が進む裏側で、旧方式の３Ｇサービスが来年から段階的に終了していく。３Ｇが終われば従来型携帯電話（ガラケー）の多くが利用できなくなるが、高齢の利用者の約４分の１が「終了を知らない」と答える調査結果もあるなど不安もくす...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「そのAWSってやつを再起動すればエエんちゃうの？」# ITアウトレイジ - Togetter]]></title>
+        <id>https://togetter.com/li/1777299</id>
+        <link href="https://togetter.com/li/1777299"/>
+        <updated>2021-09-20T09:40:30.000Z</updated>
+        <summary type="html"><![CDATA[上かるび@フロントエンド @jookalubi24 「っておんどれいつの人間じゃボケェ！知識のアップデートせんかいコラァ！」 #ITアウトレイジ pic.twitter.com/KtInXSbqDa 2021-09-10 13:45:27]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravel + Vue.jsでGoogleカレンダーのクローンを作ろう！！【Laravel8対応】フロントエンド編⑤｜Yuu's Memo]]></title>
+        <id>https://www.yuu-progra.com/2021/09/20/laravel-vue-cal-9/</id>
+        <link href="https://www.yuu-progra.com/2021/09/20/laravel-vue-cal-9/"/>
+        <updated>2021-09-20T09:08:18.000Z</updated>
+        <summary type="html"><![CDATA[皆さんこんにちは！！ 前回に引き続き、フロント（Vue.js）側の開発を始めていきます。 前回までで予定のCRUD機能は一通り作りました。 今回はカレンダー（予定の種類分け）昨日のCRUDを作ります。 API部分はAPI編で仮作成してあると思うので、そちらの編集も併せて行って行きます。 前回までの記事はこちらからどうぞ L...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xata | Serverless Jamstack Database]]></title>
+        <id>https://www.xata.io/</id>
+        <link href="https://www.xata.io/"/>
+        <updated>2021-09-20T08:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Serverless database for Jamstack, Low-Code, and more Xata is a combination of a relational database, an analytics engine, and a free-text search engine. All made simple by a spreadsheet-like UI and a single powerful data API, with granular security, zero-downtime migrations, subscriptions, ACID t...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[痛いニュース(ﾉ∀`) : 韓国「シャインマスカット栽培技術の起源は韓国、日本は諦めて品種登録しなかった」 - ライブドアブログ]]></title>
+        <id>http://blog.livedoor.jp/dqnplus/archives/2010610.html</id>
+        <link href="http://blog.livedoor.jp/dqnplus/archives/2010610.html"/>
+        <updated>2021-09-20T07:48:32.000Z</updated>
+        <summary type="html"><![CDATA[韓国「シャインマスカット栽培技術の起源は韓国、日本は諦めて品種登録しなかった」 1 名前：エルビテグラビル(ジパング) [ﾆﾀﾞ]：2021/09/20(月) 12:19:38.46 ID:/vL2U3TQ0 韓国放送局「シャインマスカットは韓国が栽培技術を確立した」「日本は難しくて登録諦めた」 韓国の大手メディアが、日本発のブドウ品種「シャイ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 13でも画面上部の「ノッチ」が消えなかった理由と、見えてくるAR技術の潜在力 | WIRED.jp]]></title>
+        <id>https://wired.jp/2021/09/20/iphone-13-design-notch/</id>
+        <link href="https://wired.jp/2021/09/20/iphone-13-design-notch/"/>
+        <updated>2021-09-20T07:33:11.000Z</updated>
+        <summary type="html"><![CDATA[アップルが発表した「iPhone 13」シリーズには、相変わらずディスプレイ上部の出っ張りである「ノッチ」が残っている。完全に消え去ることが期待されてきたノッチだが、実はさまざまな部品が組み込まれており、現状では取り除くことは難しい。その理由を探っていくと、アップルがこだわり続けてきた拡張現実（AR）との関...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RxJS - Transformation Operators]]></title>
+        <id>https://dev.to/this-is-learning/rxjs-transformation-operators-173o</id>
+        <link href="https://dev.to/this-is-learning/rxjs-transformation-operators-173o"/>
+        <updated>2021-09-20T06:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back,
+map
+Applies a given project function to each value emitted by the source Observable, and emits the resulting values as an Observable.
+import { interval } from 'rxjs';
+import { map, take, tap } from 'rxjs/operators';
+
+const source$ = interval(1000, ).pipe(
+    take(5),
+    tap(val => {
+        console.log(`${new Date().toLocaleTimeString()}: Generated`, val);
+    }),
+)
+
+source$.pipe(
+    map(value => Math.pow(value, 2))
+)
+.subscribe({
+    next: value => console.log(`${new Date().toLocaleTimeString()}: map`, value),
+    complete: () => console.log(`${new Date().toLocaleTimeString()}: map: complete`),
+})
+
+16:58:51: Generated 0
+16:58:51: map 0
+16:58:52: Generated 1
+16:58:52: map 1
+16:58:53: Generated 2
+16:58:53: map 4
+16:58:54: Generated 3
+16:58:54: map 9
+16:58:55: Generated 4
+16…]]></summary>
+        <author>
+            <name>Luca Del Puppo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[とあるExcelの初心者本、「飼い犬が突然人語を話して教えてくれる」から始まって最終的にやたら切ない展開に - Togetter]]></title>
+        <id>https://togetter.com/li/1776995</id>
+        <link href="https://togetter.com/li/1776995"/>
+        <updated>2021-09-20T06:03:52.000Z</updated>
+        <summary type="html"><![CDATA[リンク read.amazon.com できる イラストで学ぶ 入社1年目からのExcel VBA できる イラストで学ぶシリーズ Shared via Kindle. Description: 「マクロ」とは、Excelで行う処理を自動実行できるように作られたプログラムのことで、これを記述するためのプログラミング言語が「VBA」です。VBAを勉強してマクロが書けるよう...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新築戸建て設計時の無線ネットワークについて - ひよこブログ]]></title>
+        <id>https://hikari1019.hatenablog.com/entry/2021/09/20/124046</id>
+        <link href="https://hikari1019.hatenablog.com/entry/2021/09/20/124046"/>
+        <updated>2021-09-20T04:57:04.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 2020年7月に契約し、夢のマイホームの設計が始まりました。 筆者は学生時代、『ユビキタス社会』に強く憧れておりました。 社会人となり数年、気が付いたら様々なIoT家電がインターネットへ接続し利用者に恩恵をもたらす便利な世の中になりました。 筆者もIoT家電をいくつか購入し生活に取り入れ便利な生活を送...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - nttcslab/japanese-dialog-transformers: Code for evaluating Japanese pretrained models provided by NTT Ltd.]]></title>
+        <id>https://github.com/nttcslab/japanese-dialog-transformers</id>
+        <link href="https://github.com/nttcslab/japanese-dialog-transformers"/>
+        <updated>2021-09-20T04:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Update log 2021/09/17 Published dialogue models (fairseq version japanese-dialog-transformer-1.6B) and evaluation codes. Notice for using the codes The dialogue models provided are for evaluation and verification of model performance. Before downloading these models, please read the LICENSE and C...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迫るのではなく共に進める　オードリー・タンさんが目指すデジタル化：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP8N4SXXP82ULFA01H.html</id>
+        <link href="https://www.asahi.com/articles/ASP8N4SXXP82ULFA01H.html"/>
+        <updated>2021-09-20T03:47:04.000Z</updated>
+        <summary type="html"><![CDATA[トランスジェンダーを公表している台湾の政務委員（閣僚）オードリー・タンさん（40）は、IT知識や人脈を生かし、台湾社会のデジタル化に取り組んでいる。コロナ禍でも、民間のアイデアを積極的に採用し、感染拡大を防いだ。その過程で重視してきたのは行政の説明責任の徹底や官民の協働だった。底流にあるのは、社会の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add EsLint to existing Angular Project and Configure WebStorm]]></title>
+        <id>https://dev.to/ussdlover/add-eslint-to-existing-angular-project-and-configure-webstorm-6ja</id>
+        <link href="https://dev.to/ussdlover/add-eslint-to-existing-angular-project-and-configure-webstorm-6ja"/>
+        <updated>2021-09-20T03:36:39.000Z</updated>
+        <summary type="html"><![CDATA[So as Angular CLI no longer generate new project with deprecated tslint, after we create new one we need to add linting manually.
+For that we are going to use a library called angular-eslint, the process is as easy as just using
+ng add @angular-eslint/schematics
+
+After that we will have .eslint in the app root directory, so we will be able to enjoy keeping the quality of the code.
+To enable ESLint on the IDE we should do some configurations on the IDE
+Inside the IDE press ctrl + alt + s to open settings, head to Language & Frameworks > JavaScript > Code Quality Tools > ESLint
+If it is disabled, you can enable it by setting it to Automatic or Manual ESLint configuration, which I prefer the manual config as we can use the field ESLint package to introduce .eslint to the IDE.
+Extension
+ESLint + VSCode
+Hope you like it,
+Thank you for reading]]></summary>
+        <author>
+            <name>Alireza Razinejad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Androidスマホの速度が遅くなってきた時の対処法6つ | ライフハッカー［日本版］]]></title>
+        <id>https://www.lifehacker.jp/2021/09/242165how-to-speed-up-your-old-android-phone.html</id>
+        <link href="https://www.lifehacker.jp/2021/09/242165how-to-speed-up-your-old-android-phone.html"/>
+        <updated>2021-09-20T03:24:37.000Z</updated>
+        <summary type="html"><![CDATA[愛用しているAndroidスマホの動作が日に何度も遅くなってきたら、そろそろ買い替える時期かなと思うかもしれません。 基本的な再起動はすでに試しているかもしれませんが、動作速度の低下を軽減または解消する対策が他にもいくつかあるので、新しい機種を購入するのはそれを試してからでも遅くありません。 1. Androidス...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M5StackでCO2モニターを作って、データ可視化と換気を促す通知するものを作ってみた - Qiita]]></title>
+        <id>https://qiita.com/yukimatsu/items/dc010e43cbfae54ce699</id>
+        <link href="https://qiita.com/yukimatsu/items/dc010e43cbfae54ce699"/>
+        <updated>2021-09-20T01:05:37.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 以前にM5StackでCO2モニターを作って、直接Teamsに通知するものを作ったのですが、 『M5StackでCO2モニターを作って、Teams通知で換気を促すものを作ってみた』 CO2濃度が高くなると通知が来るけど、その傾向が良く分からない テレワークが増えてくると、いま職場の状況がどうなのかが遠隔で分からない 換気を...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゼロからはじめるPython(83) Pythonシェル徹底活用 - 快適CUI生活のススメ | TECH+]]></title>
+        <id>https://news.mynavi.jp/article/zeropython-83/</id>
+        <link href="https://news.mynavi.jp/article/zeropython-83/"/>
+        <updated>2021-09-20T01:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Pythonには対話的にプログラムを実行できるPythonシェルが備わっている。きっとPython学習の際に使ったことがあると思う。とはいえ学習用だけに限定するのは非常にもったいない。筆者は事あるごとに計算やカレンダー、フォルダを開いたりと、いろいろな用途に使っている。今回は、Pythonシェルを便利に使うアイデアを7つ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Laravel + Vue.jsでGoogleカレンダーのクローンを作ろう！！【Laravel8対応】フロントエンド編④｜Yuu's Memo]]></title>
         <id>https://www.yuu-progra.com/2021/09/20/laravel-vue-cal-8/</id>
         <link href="https://www.yuu-progra.com/2021/09/20/laravel-vue-cal-8/"/>
         <updated>2021-09-19T23:54:08.000Z</updated>
         <summary type="html"><![CDATA[皆さんこんにちは！！ 前回に引き続き、フロント（Vue.js）側の開発を始めていきます。 Vue.jsに皆さんも大分慣れてきたのではないでしょうか？ 前回は、予定の詳細表示ダイアログを作成しました。 前回までの記事はこちらからどうぞ Laravel + Vue.jsでGoogleカレンダーのクローンを作ろう！！【Laravel8対応】準備編La...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五輪の矛盾、巨大システムに振り回される違和感　養老孟司さん寄稿 - 東京オリンピック：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP9K43Y3P97UPQJ00N.html</id>
+        <link href="https://www.asahi.com/articles/ASP9K43Y3P97UPQJ00N.html"/>
+        <updated>2021-09-19T23:47:07.000Z</updated>
+        <summary type="html"><![CDATA[解剖学者・養老孟司さん寄稿　個人的に私は五輪と無関係である。いわゆる運動は以前から苦手で、健康保持のために何か運動をしていますかと聞かれると、虫捕りが唯一の運動です、と答えることにしている。身近に運動選手がいるわけでなし、知人友人の中に五輪関係者がいるかといえば、まったくいない。近しい人たちはお...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EuroBSD 2021]]></title>
+        <id>https://people.freebsd.org/~gallatin/talks/euro2021.pdf</id>
+        <link href="https://people.freebsd.org/~gallatin/talks/euro2021.pdf"/>
+        <updated>2021-09-19T22:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Serving Netﬂix Video at 400Gb/s on FreeBSD Drew Gallatin EuroBSDCon 2021 Outline: ● Motivation ● Description of production platform ● Description of workload ● To NUMA or not to NUMA? ● Inline Hardware (NIC) kTLS ● Alternate platforms Motivation: ● Since 2020, Netflix has been able to serve 200Gb...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -64,11 +525,31 @@ Saulo Dias ・ Sep 19 ・ 4 min read
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[マイクロサービスに次に来るかもしれない言葉について - arclamp]]></title>
+        <id>https://arclamp.hatenablog.com/entry/2021/09/20/002250</id>
+        <link href="https://arclamp.hatenablog.com/entry/2021/09/20/002250"/>
+        <updated>2021-09-19T15:42:10.000Z</updated>
+        <summary type="html"><![CDATA[2021年9月18日に開催されたXP祭り2021で「マイクロサービスに至る歴史とこれから」という講演をしました。資料は次の通りです。本来は75分ぐらいかかるのを45分で話そうとして、余裕で時間オーバーしてすみませんでした。 テクノロジーとテクニックによる進化の流れ テクノロジーやテクニックは、ITの改善サイクルを向上...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「読みやすさが一目瞭然」Windowsに元から入ってる『UDデジタル教科書体』は障害があっても無くてもオススメしたいフォント - Togetter]]></title>
         <id>https://togetter.com/li/1776876</id>
         <link href="https://togetter.com/li/1776876"/>
         <updated>2021-09-19T15:14:22.000Z</updated>
         <summary type="html"><![CDATA[小川修史(おがっち)🌱斜め135度の視点からワクワクを追い求める研究者 @ogatti21 兵庫教育大学・准教授｜日本障がい者ファッション協会（JPFA）・副代表｜ミライの制服プロジェクト・代表｜スカートを穿いて講義する大学教員｜障害や性別に関わらず、子供も大人も学生も、どうすればワクワクできるのか？・・について、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows PCに安定したネイティブLinux環境を構築する方法]]></title>
+        <id>https://zenn.dev/karaage0703/articles/0ca67e19aa772e</id>
+        <link href="https://zenn.dev/karaage0703/articles/0ca67e19aa772e"/>
+        <updated>2021-09-19T14:16:20.000Z</updated>
+        <summary type="html"><![CDATA[はじめに この記事を、WindowsとLinuxのデュアルブート環境を構築してOS両方吹き飛ばしたことのある全ての人に捧げます。 人類はなぜデュアルブート環境のOSを両方ふっとばすのか 主語が大きければ「人類」を「おろかな、からあげ」に置き換えてください。 「Linux試してみよー」と雑誌やネット記事に書いてあるままに、...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -189,6 +670,16 @@ Can anyone help me?]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1年目で辞める未経験エンジニア／採用を後悔する企業の裏側｜久松剛／IT百物語の蒐集家｜note]]></title>
+        <id>https://note.com/makaibito/n/ndce1258bb201</id>
+        <link href="https://note.com/makaibito/n/ndce1258bb201"/>
+        <updated>2021-09-19T06:29:01.000Z</updated>
+        <summary type="html"><![CDATA[先立って未経験としてエンジニア入社し、4ヶ月でフリーランスになったというポストがTwitterを駆け巡っていました。私自身は未経験エンジニアが早期退職しフリーランスとして独立（そしてそのノウハウを売る）するムーブメントを問題視しており、下記のような投稿をしました。今は削除されていますがご本人も登場されま...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub - vectordotdev/vector: A high-performance observability data pipeline.]]></title>
         <id>https://github.com/vectordotdev/vector</id>
         <link href="https://github.com/vectordotdev/vector"/>
@@ -234,6 +725,16 @@ Can anyone help me?]]></summary>
         <link href="https://qiita.com/yuukiw00w/items/4682a7dacb480078047a"/>
         <updated>2021-09-19T04:23:14.000Z</updated>
         <summary type="html"><![CDATA[iOSDC2021登壇資料、スライドのまとめです。 Twitter等で見つけ次第掲載しますが、もし資料を見かけた方or資料を公開した登壇者の方がいらっしゃいましたら、コメント等でお声がけください。 スライドや資料のリンクが見つかった場合はタイトルにリンクをつけてありますので、タイトルがリンクになっていない場合はまだ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ハッカーたちは連休がお好き？ ランサムウェア攻撃のタイミングに「祝日」が多い理由 | WIRED.jp]]></title>
+        <id>https://wired.jp/2021/09/19/ransomware-hacks-holidays-weekends/</id>
+        <link href="https://wired.jp/2021/09/19/ransomware-hacks-holidays-weekends/"/>
+        <updated>2021-09-19T03:08:40.000Z</updated>
+        <summary type="html"><![CDATA[米国で5月31日の戦没将兵追悼記念日（メモリアル・デー）を控えた金曜に標的となったのは、食肉加工大手のJBSだった。7月4日の独立記念日の前々日の金曜に狙われたのはIT管理ソフトウェア会社のKaseyaで、その影響は1,000を超える大小さまざまな事業体に及んだ。同じように同様の大規模なランサムウェア攻撃が発生するか...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -344,6 +845,16 @@ Can anyone help me?]]></summary>
         <link href="https://anond.hatelabo.jp/20210918230314"/>
         <updated>2021-09-18T14:12:02.000Z</updated>
         <summary type="html"><![CDATA[私が作ったこのサイト、末尾に「?f」をつけると強制的にどこかの過去はてブに飛ぶようにしてまして。 https://hotenbrary.fun/?f 暇潰しに良いと思うのでぜひぜひ☺️]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Network ExtensionでiOSデバイス上で動くパケットキャプチャを作る - Speaker Deck]]></title>
+        <id>https://speakerdeck.com/kishikawakatsumi/network-extensiondeiosdebaisushang-dedong-kupaketutokiyaputiyawozuo-ru</id>
+        <link href="https://speakerdeck.com/kishikawakatsumi/network-extensiondeiosdebaisushang-dedong-kupaketutokiyaputiyawozuo-ru"/>
+        <updated>2021-09-18T13:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Transcript Kishikawa Katsumi Network ExtensionͰiOSσόΠε্Ͱಈ͘ ύέοτΩϟϓνϟΛ࡞Δ Agenda • Network Extension͓ΑͼύέοτΩϟϓνϟͷ֓ཁ • VPNͷ࢓૊Έ • Network ExtensionΛ࢖ͬͯ؆қVPNΫϥΠΞϯτΛ࣮૷͢Δ • ύέοτͷߏ଄ͱղੳ • ύέοτΩϟϓνϟΛར༻࣮ͨ͠༻తͳπʔϧͷ࡞੒ Introduction • Network Extensionͱ͸ʁ • ύέοτΩϟϓνϟͱ͸ʁ Network Extensionͱ͸ Network Extensionͱ͸ • macOS/iOSͷωο...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -814,6 +1325,16 @@ Continue reading on Better Programming »]]></summary>
         <link href="https://jp.reuters.com/article/russia-election-it-idJPKBN2GD0P4"/>
         <updated>2021-09-17T17:33:08.000Z</updated>
         <summary type="html"><![CDATA[米アルファベット傘下のグーグルと米アップルは、ロシアの反体制派ナワリヌイ氏陣営のアプリを削除した。陣営が１７日に明らかにした。写真はスマートフォンに表示された同氏のアプリ。モスクワで１６日撮影（２０２１年　ロイター／Shamil Zhumatov） ［モスクワ　１７日　ロイター］ - 米アルファベット傘下のグーグル...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンド立ち上げで起きたアーキテクチャ設計の失敗　学び生まれたのは間違いを認めて負債を返済する文化 - ログミーTech]]></title>
+        <id>https://logmi.jp/tech/articles/325022</id>
+        <link href="https://logmi.jp/tech/articles/325022"/>
+        <updated>2021-09-17T16:06:40.000Z</updated>
+        <summary type="html"><![CDATA[自己紹介と会社紹介 中山太雅氏（以下、中山）：「フロントエンドをゼロから作り上げしくじってきた青春の思い出」ということで、話します。ファンファーレの中山と言います。よろしくお願いします。 時間がないので早口になってしまうと思いますが、ちょっとお許しください。発表内容ですが、大小いろいろ織り込もうと...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
@@ -15263,293 +15784,6 @@ import { AvatarComponent } from '@myApp/ui/avatar';
         <link href="https://blog.endflow.net/build-rust-app-image-faster/"/>
         <updated>2021-08-22T13:09:28.000Z</updated>
         <summary type="html"><![CDATA[Rust + Docker + GitHub Actions = めちゃ遅い 以前、GitHub Actions 上の Rust ビルドを高速化する記事を書いたけど、 今回は Kubernetes 環境にスムーズに移行できるよう Docker イメージ化するという要件も加わったことで、改めて試行錯誤する必要が出てきた。 それぞれに対するビルド速度の最適化は存在しているもの...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナにおける子供からの家庭内感染　傾向と対策｜ai｜note]]></title>
-        <id>https://note.com/nikonote/n/n1896258c40d9</id>
-        <link href="https://note.com/nikonote/n/n1896258c40d9"/>
-        <updated>2021-08-22T10:48:37.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic 対 Google の裁判、訴状で Google が隠したかった部分が公開される | スラド YRO]]></title>
-        <id>https://yro.srad.jp/story/21/08/22/0543253/</id>
-        <link href="https://yro.srad.jp/story/21/08/22/0543253/"/>
-        <updated>2021-08-22T10:30:01.000Z</updated>
-        <summary type="html"><![CDATA[アプリストアの独占をめぐって Epic Games が Google を訴えている裁判では、Google の要請により大量に墨塗りされた訴状 (PDF) が公開されていたが、判事の命令により墨塗りを外したバージョン (PDF、修正部分の赤線入り PDF) が先日公開された (The Register の記事、 The Verge の記事、 Ghacks の記事、 9to5Google ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[医薬品のネット販売は薬機法で「実店舗を持っていること」が必要→Amazonが届出している実店舗のやる気が無さすぎた - Togetter]]></title>
-        <id>https://togetter.com/li/1763492</id>
-        <link href="https://togetter.com/li/1763492"/>
-        <updated>2021-08-22T09:49:00.000Z</updated>
-        <summary type="html"><![CDATA[shao / 澤田 翔 #FullyVaccinated @shao1555 医薬品のネット販売は薬機法で「実店舗を持っていること」とあり、これはAmazonも例外ではない。というわけでAmazonが届出している実店舗はこちらです。在庫やる気なさ過ぎｗ amazon.co.jp/gp/help/custom… pic.twitter.com/9nUKr6cozC 2021-08-22 12:01:15]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子どもに人気のゲームプラットフォーム「Roblox」は、若年層からの“搾取”で成り立っている | WIRED.jp]]></title>
-        <id>https://wired.jp/2021/08/22/on-roblox-kids-learn-its-hard-to-earn-money-making-games/</id>
-        <link href="https://wired.jp/2021/08/22/on-roblox-kids-learn-its-hard-to-earn-money-making-games/"/>
-        <updated>2021-08-22T07:28:38.000Z</updated>
-        <summary type="html"><![CDATA[いまや「Roblox」はゲーム界の巨人に成長し、子ども向けゲームの世界を支配するまでになった。直近の四半期だけでも4億5,400万ドル（約498億円）の収益を上げている。ところが、ある報道によるとRobloxの成功は、ゲームのコンテンツをつくっている若いゲーム開発者（その多くは子どもたち）を搾取することで成り立ってい...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teslaは世界最高速のAIプロセッサを発表、自動運転車開発でメーカーがAIスパコンを開発し垂直統合が進む | Emerging Technology Review]]></title>
-        <id>https://etechnologyreview.com/2021/08/20/tesla%E3%81%AF%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E9%80%9F%E3%81%AEai%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%82%92%E7%99%BA%E8%A1%A8%E3%80%81%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E8%BB%8A/</id>
-        <link href="https://etechnologyreview.com/2021/08/20/tesla%E3%81%AF%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E9%80%9F%E3%81%AEai%E3%83%97%E3%83%AD%E3%82%BB%E3%83%83%E3%82%B5%E3%82%92%E7%99%BA%E8%A1%A8%E3%80%81%E8%87%AA%E5%8B%95%E9%81%8B%E8%BB%A2%E8%BB%8A/"/>
-        <updated>2021-08-22T06:13:13.000Z</updated>
-        <summary type="html"><![CDATA[TeslaはAIイベント「AI Day」で自動運転車開発の最新状況を公開した。自動運転の中核技術は高度なコンピュータビジョンで、これを開発するためにはAIスパコンが必要となる。TeslaはAIプロセッサを開発し、これをベースに独自のAIスパコンを構築した。更に、自動運転技術をロボットに応用したヒューマノイドを開発するこ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISUCON11 オンライン予選 全てのチームのスコア（参考値） : ISUCON公式Blog]]></title>
-        <id>https://isucon.net/archives/56021246.html</id>
-        <link href="https://isucon.net/archives/56021246.html"/>
-        <updated>2021-08-22T05:41:36.000Z</updated>
-        <summary type="html"><![CDATA[全てのチームのスコアを掲載いたします。下記は主催者の追試を通過しているチームです。通過しなかったチームは別途記載しています。 スコアチーム名1464232shallowverse1026200都営三田線東急目黒線直通急行日吉行919720NaruseJun769405fujiwara組530673Oops!462239FetchDecodeExecWrite449781百万円ドリブン389509ウー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野球のビッグデータをGCPとPySparkでいい感じに使いやすくしてみた - DataprocとGCFを使った緩いデータ基盤 - Lean Baseball]]></title>
-        <id>https://shinyorke.hatenablog.com/entry/dataproc-baseball</id>
-        <link href="https://shinyorke.hatenablog.com/entry/dataproc-baseball"/>
-        <updated>2021-08-22T05:40:41.000Z</updated>
-        <summary type="html"><![CDATA[最近の野球界隈の出来事が斜め上すぎて驚いてるマンです.*1 本業の仕事および, 本業じゃない個人開発や趣味プログラミングにおいて, データの量が多くて 単位やフォーマットが不揃いで それでも仕事（もしくは趣味の分析）をこなすため, いい感じの使いやすいデータセットにしないと（使命感） という機会は非常に多いで...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISUCON11予選でチーム ウー馬場ーイー2 として参加し、本選進出を決めました - Gマイナー志向]]></title>
-        <id>https://matsuu.hatenablog.com/entry/2021/08/22/141130</id>
-        <link href="https://matsuu.hatenablog.com/entry/2021/08/22/141130"/>
-        <updated>2021-08-22T05:13:11.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR ISUCON11予選にチーム ウー馬場ーイー2 として出場しました。 上位25チームに残り本選進出が決まりました。やったね。 最終スコアは未公開ですが予選中のベストスコアは394682でした。本選もがんばるぞ！ 毎年素晴らしいコンテストを開催してくださる運営様には感謝しかありません。本当にありがとうございます！...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISUCON11 オンライン予選 予選結果と本選出場者決定のお知らせ : ISUCON公式Blog]]></title>
-        <id>https://isucon.net/archives/56021237.html</id>
-        <link href="https://isucon.net/archives/56021237.html"/>
-        <updated>2021-08-22T05:01:24.000Z</updated>
-        <summary type="html"><![CDATA[ISUCON11 本選出場者発表 ISUCON11 本選出場者を発表いたします。 今回のオンライン予選は598チーム、1421名の方にご参加いただきました。 本選への出場枠についておさらいです。 ISUCON11 予選レギュレーション, ISUCON11 予選当日マニュアル において、オンラインで開催される本選へ参加する30チームの選出条件は以下...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MULTIPLES MODULOS EN ANGULAR]]></title>
-        <id>https://dev.to/rareyesrd/multiples-modulos-en-angular-18c9</id>
-        <link href="https://dev.to/rareyesrd/multiples-modulos-en-angular-18c9"/>
-        <updated>2021-08-22T03:43:30.000Z</updated>
-        <summary type="html"><![CDATA[Entiende los módulos en Angular, ¿qué son, cómo crearlos, cómo usarlos, para qué usarlos?
-Link del vídeo: https://youtu.be/TJ9IPJ-Qgao]]></summary>
-        <author>
-            <name>Rafael Alexander Reyes Perez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「クッキー」でサイバー攻撃　闇サイトで90万件販売も: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGKKZO75013310R20C21A8EA5000/</id>
-        <link href="https://www.nikkei.com/article/DGKKZO75013310R20C21A8EA5000/"/>
-        <updated>2021-08-22T03:11:22.000Z</updated>
-        <summary type="html"><![CDATA[ネットの閲覧履歴を記録する「クッキー」がサイバー攻撃に悪用され始めた。社員になりすまして企業のシステムに不正アクセスし、機密データを抜き出した事例も確認された。盗み取られたクッキー情報90万件超を売る闇サイトもあり、今後も被害が広がる恐れがある。企業などは、ログイン時に複数の端末や生体認証を使う「2...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon は Alexa という名前を人類から奪ったのか | スラド idle]]></title>
-        <id>https://idle.srad.jp/story/21/08/22/0235257/</id>
-        <link href="https://idle.srad.jp/story/21/08/22/0235257/"/>
-        <updated>2021-08-22T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon がバーチャルアシスタントの名前に選んだことで、「Alexa」が人名としては使えない名前になってしまったと The Atlantic が主張している (The Atlantic の記事、 GeekWire の記事)。 スラドでは米国の新生児名に対するバーチャルアシスタントの影響が 2018 年に話題となったが、女児名の Alexa は米国で Amazon A...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macに接続された外部ディスプレイの輝度やボリュームをメニューバーから操作できるユーティリティ「MonitorControl v3.0」のRC1がリリース。]]></title>
-        <id>https://applech2.com/archives/20210822-monitorcontrol-v3-will-support-apple-silicon-mac.html</id>
-        <link href="https://applech2.com/archives/20210822-monitorcontrol-v3-will-support-apple-silicon-mac.html"/>
-        <updated>2021-08-22T02:14:14.000Z</updated>
-        <summary type="html"><![CDATA[Macに接続された外部ディスプレイの輝度とボリュームをメニューバーから操作できるユーティリティ「MonitorControl v3.0」のRC1がリリースされています。詳細は以下から。 　AppleやLG製の外部ディス The post Macに接続された外部ディスプレイの輝度やボリュームをメニューバーから操作できるユーティリティ「MonitorCo...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes 1.22: Metrics Changes と SIG Instrumentation の変更内容 - Qiita]]></title>
-        <id>https://qiita.com/watawuwu/items/c177d1bc8a4b9a1d3a91</id>
-        <link href="https://qiita.com/watawuwu/items/c177d1bc8a4b9a1d3a91"/>
-        <updated>2021-08-22T02:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes 1.20 SIG Instrumentation の変更内容 Kubernetes 1.21 SIG Instrumentation の変更内容 はじめに ここでは、Kubernetes v1.22 の CHANGELOG から Metrics の変更と SIG Instrumentation の取り組みについてまとめています。 Kubernetes 1.22: Reaching New Peaks | Kubernetes Kubernetes 1.22 CHANGELOG 今...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASCII.jp：WindowsのコマンドでLAN内のデバイスを探す (1/2)]]></title>
-        <id>https://ascii.jp/elem/000/004/066/4066675/</id>
-        <link href="https://ascii.jp/elem/000/004/066/4066675/"/>
-        <updated>2021-08-22T01:55:22.000Z</updated>
-        <summary type="html"><![CDATA[自宅のネットワークなどで、接続しているPCを全部見つけたいことがある。エクスプローラーのネットワークから見つけることもできるが、スクリプトなどで処理したい場合に手入力するのは面倒だ。そんなときには、PowerShellのGet-NetNeighborコマンドが利用できる。 PowerShellのGet-NetNeighborコマンドは、ネットワーク...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自治体システムまだ昭和仕様　標準化阻むご当地主義: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUA1057X0Q1A810C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUA1057X0Q1A810C2000000/"/>
-        <updated>2021-08-21T23:42:35.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 9月発足のデジタル庁が挑む重要テーマの一つに地方自治体のコンピューターシステムを共通仕様にする「標準化」がある。現状では住民の氏名や住所などの基本データの保...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クッキー悪用しサイバー攻撃　闇サイトで90万件販売も: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQOUC045220U1A800C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQOUC045220U1A800C2000000/"/>
-        <updated>2021-08-21T20:44:21.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら ネットの閲覧履歴を記録する「クッキー」がサイバー攻撃に悪用され始めた。社員になりすまして企業のシステムに不正アクセスし、機密データを抜き出した事例も確認され...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Opinionated Guide to xargs]]></title>
-        <id>https://www.oilshell.org/blog/2021/08/xargs.html</id>
-        <link href="https://www.oilshell.org/blog/2021/08/xargs.html"/>
-        <updated>2021-08-21T16:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Preliminaries What Is xargs? It's an adapter between text streams and argv arrays, two essential concepts in shell. You pass it flags that specify how to split stdin. Then it generates arguments and invokes processes. Example: $ echo 'alice bob' | xargs -n 1 -- echo hi hi alice hi bob What's happ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing @ngx-env/builder]]></title>
-        <id>https://dev.to/chihab/announcing-ngx-env-builder-13m2</id>
-        <link href="https://dev.to/chihab/announcing-ngx-env-builder-13m2"/>
-        <updated>2021-08-21T16:29:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wanted to consume variables declared in your environment inside your Angular application?
-# GitHub Action command
-NG_APP_GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} ng build
-
-Environment variables can be useful for:
-displaying information conditionally based on where the project is deployed
-consuming sensitive data that lives outside of version control
-With @ngx-env/builder the environment variables will be defined for you on process.env, just like in Node.js applications.
-For example, having an environment variable named NG_APP_NOT_SECRET_CODE will be exposed in your JS as process.env.NG_APP_NOT_SECRET_CODE.
-The environment variables are embedded during the build time.
-ng add @ngx-env/builder
-
-.env
-
-
-
-
-
-NG_APP_ENABLE_ANALYTICS=false
-NG_APP_VERSION=$npm_package_version
-
-@Component({
-  selector: "app-footer",
-})
-export class FooterComponent {
-  version = process.env.NG_APP_VERSION;
-  branch = process.env.NG_APP_BRANCH_NAME;
-  token = process.env.NG_APP_GITHUB_TOKEN;
-}
-
-<!-- Same output -->
-<span> {{ 'process.env.NG_APP_BRANCH_NAME' | env }} </span>
-<span> {{ 'NG_APP_BRANCH_NAME' | env }} </span>
-<span> {{ branch }} </span>
-
-<!-- index.html -->
-<head>
-  <title>NgApp on %NG_APP_BRANCH_NAME%</title>
-</head>
-
-npm start
-# Command Line environment variable
-NG_APP_BRANCH_NAME=`git branch --show-current` NG_APP_GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} npm run build
-
-Variables defined in .env file or in the command line are injected into your Angular Application.
-GitHub repository: https://github.com/chihab/ngx-env.
-Npm package: https://www.npmjs.com/package/@ngx-env/builder.]]></summary>
-        <author>
-            <name>Chihab Otmani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner Guide To Angular!]]></title>
-        <id>https://dev.to/paulcoder22/beginner-guide-to-angular-d0a</id>
-        <link href="https://dev.to/paulcoder22/beginner-guide-to-angular-d0a"/>
-        <updated>2021-08-21T15:58:34.000Z</updated>
-        <summary type="html"><![CDATA[Today I'll tell you how you can start your hustle with angular.
-What are the Prerequisites for using Angular??
-Javascript
-HTML
-Css
-Just to began with we need some of the necessary things in your local system.
-Node.js
-
-
-Install node in your local system. Visit the website and download one version.
-npm install -g @angular/cli
-
-You are using CLI(Command Line Interface) to generate you project ,application and libary code.
-It'll take some moment to happen don't worry
-To create a new workspace and initial starter app
-Open your Cmd in one of your empty folder
-
-I'm leaving a link about Ng  to read more about it.
-Press Enter
-It'll ask you to do you want router in your application or not If you want type yes if you don't want type no.
-It'll not affect your application if you type no,it's just basic…]]></summary>
-        <author>
-            <name>paul-coder-22</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kana on Twitter: "PayPal使ってる人多いと思うので書いておきます。 【PayPalの問題点】 ①一度クレームを取り下げる(または審査が終わる)と同じケースは二度と審査してもらえない。 ②PayPalへの支払いはカードではなく銀行口座から。 下に続きます。"]]></title>
-        <id>https://twitter.com/kanawang_/status/1428918036686323718</id>
-        <link href="https://twitter.com/kanawang_/status/1428918036686323718"/>
-        <updated>2021-08-21T15:48:02.000Z</updated>
-        <summary type="html"><![CDATA[PayPal使ってる人多いと思うので書いておきます。 【PayPalの問題点】 ①一度クレームを取り下げる(または審査が終わる)と同じケースは二度と審査してもらえない。 ②PayPalへの支払いはカードではなく銀行口座から。 下に続きます。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[えるエル on Twitter: "コンピュータサイエンスの世界でプログラマーに特に影響のある有名な書籍について、Web上で無料で読めるものがまとめてあります https://t.co/kU9FmMkXDw 現在でも変わらず読まれているものや、昔からこの業界にいるほ… https://t.co/kHEBpVdgrL"]]></title>
-        <id>https://twitter.com/ImAI_Eruel/status/1428924191110094848</id>
-        <link href="https://twitter.com/ImAI_Eruel/status/1428924191110094848"/>
-        <updated>2021-08-21T14:04:17.000Z</updated>
-        <summary type="html"><![CDATA[コンピュータサイエンスの世界でプログラマーに特に影響のある有名な書籍について、Web上で無料で読めるものがまとめてあります https://t.co/kU9FmMkXDw 現在でも変わらず読まれているものや、昔からこの業界にいるほ… https://t.co/kHEBpVdgrL]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - テクノロジー</name>
         </author>
