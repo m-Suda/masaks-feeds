@@ -103,6 +103,240 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://k-tai.watch.impress.co.jp/docs/column/minna/1352628.html",
+          "author": null,
+          "description": "スマートフォンにおける文字入力、みなさんはどのような方法で入力されているでしょうか？",
+          "link": "https://k-tai.watch.impress.co.jp/docs/column/minna/1352628.html",
+          "publishedOn": "2021-09-21T20:10:41.000Z",
+          "wordCount": 107,
+          "title": "慣れると元に戻れなくなるかも、Androidアプリ「アルテ日本語入力キーボード」 - ケータイ Watch"
+        },
+        {
+          "id": "https://gigazine.net/news/20210921-ios-15-new-feature-review/",
+          "author": null,
+          "description": "2021年9月21日に配信開始となった「iOS 15」には、さまざまな新機能が搭載されています。これらの新機能の中には記事作成時点では使えないものもあるのですが、日本で利用可能なものを中心に実際に使ってみました。 iOS 15 - Apple（日本） https://www.apple.com/jp/ios/ios-15/ ◆新デザインになったSafari 新デザイン...",
+          "link": "https://gigazine.net/news/20210921-ios-15-new-feature-review/",
+          "publishedOn": "2021-09-21T20:05:46.000Z",
+          "wordCount": 243,
+          "title": "「iOS 15」の新機能を実際に使ってみたレビュー、各新機能の使い方はこんな感じ - GIGAZINE"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-402881/",
+          "author": null,
+          "description": "楽天モバイルは、OS15の新機能「プライベートリレー」をオンにしていると、本来は課金対象外のメッセージ送受信や、通話サービスで課金対象になると発表し、同機能をオフにするよう呼びかけています。 課金対象外のはずが課金対象に 楽天モバイルは、9月21日正式版が公開されたiOS15のプライバシー保護機能「プライベー...",
+          "link": "https://iphone-mania.jp/news-402881/",
+          "publishedOn": "2021-09-21T15:44:51.000Z",
+          "wordCount": 222,
+          "title": "楽天モバイル、iOS15「プライベートリレー」で課金発生と注意喚起 - iPhone Mania"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1352626.html",
+          "author": null,
+          "description": "楽天モバイルは、「iOS 15」の「プライベートリレー」について、課金対象でないデータ利用が課金対象となってしまうとして注意喚起している。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1352626.html",
+          "publishedOn": "2021-09-21T15:05:39.000Z",
+          "wordCount": 115,
+          "title": "「Rakuten Link」でも課金の恐れ、楽天モバイルがiOS 15の「プライベートリレー」で注意喚起 - ケータイ Watch"
+        },
+        {
+          "id": "https://gadget-shot.com/57991",
+          "author": null,
+          "description": "本日より配信開始されたiOS 15で新たに対応したSafariの拡張機能に対応したジェスチャー追加アプリ「Svadilfari」がリリースされています。 SvadilfariはiOS 15を搭載したiPhoneのSafa",
+          "link": "https://gadget-shot.com/57991",
+          "publishedOn": "2021-09-21T14:38:32.000Z",
+          "wordCount": 96,
+          "title": "iOS 15のiPhoneのSafariにジェスチャーを追加できる拡張機能「Svadilfari」リリース | ガジェットショット"
+        },
+        {
+          "id": "https://japanese.engadget.com/kindle-paperwhite-130012567.html",
+          "author": null,
+          "description": "Amazonは9月21日、新世代「Kindle Paperwhite」と、新たに追加された「Kindle Paperwhite シグニチャー エディション」、そして子ども向けの「Kindle Paperwhite キッズモデル」の3機種を発表しました。 新モデルのアップデート点としては最大10週間持続可能となる Kindle Paperwhite最長のバッテリー寿命を実現し、充電...",
+          "link": "https://japanese.engadget.com/kindle-paperwhite-130012567.html",
+          "publishedOn": "2021-09-21T14:19:17.000Z",
+          "wordCount": 238,
+          "title": "新世代「Kindle Paperwhite」発表、端子がUSB-Cでワイヤレス充電に対応 - Engadget 日本版"
+        },
+        {
+          "id": "https://www.watch.impress.co.jp/docs/news/1352599.html",
+          "author": null,
+          "description": "Amazonは、ディスプレイを6.8型に大型化した新「Kindle Paperwhite」を発売開始した。出荷開始は10月27日を予定しており、価格は8GBの広告ありモデルが14,980円、広告無しモデルが16,980円。また、ストレージが32GBでワイヤレス充電に対応の「シグネチャーエディション」も発売。11月10日から出荷開始予定で、価格は19,980円。",
+          "link": "https://www.watch.impress.co.jp/docs/news/1352599.html",
+          "publishedOn": "2021-09-21T13:16:10.000Z",
+          "wordCount": 137,
+          "title": "新Kindle Paperwhiteは6.8型大画面に。20%高速化で1.5万円 - Impress Watch"
+        },
+        {
+          "id": "https://k-tai.watch.impress.co.jp/docs/news/1352584.html",
+          "author": null,
+          "description": "アマゾン・ジャパンは、電子書籍リーダー「Kindle Paperwhite」の新モデルと「Kindle Paperwhite シグニチャー エディション」、「Kindle Paperwhite キッズモデル」の3モデルを発表した。予約は21日22時から受け付けられている。",
+          "link": "https://k-tai.watch.impress.co.jp/docs/news/1352584.html",
+          "publishedOn": "2021-09-21T13:14:03.000Z",
+          "wordCount": 179,
+          "title": "アマゾン「Kindle Paperwhite」新モデルを発表、6.8インチに大型化／キッズモデルなど - ケータイ Watch"
+        },
+        {
+          "id": "https://b.hatena.ne.jp/entry/4708656245563314850/comment/mukudori69",
+          "author": null,
+          "description": "もうすでにお伝えしましたが、おそらくお忘れかと思うので。あなたは今後、他人を読解力で揶揄するのは一切おやめになったほうがいいかと思います。ご自身の能力を過信するべきではありません。",
+          "link": "https://b.hatena.ne.jp/entry/4708656245563314850/comment/mukudori69",
+          "publishedOn": "2021-09-21T13:13:21.000Z",
+          "wordCount": 114,
+          "title": "もうすでにお伝えしましたが、おそらくお忘れかと思うので。あなたは今後、他人を読解力で揶揄するのは一切おやめになったほうがいいかと思います。ご自身の能力を過信するべきではありません。 - mukudori69 のブックマーク / はてなブックマーク"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1352067.html",
+          "author": null,
+          "description": "Amazonは、E Ink採用の電子書籍端末「Kindle Paperwhite」を発売した。価格は広告つきが1万4,980円、広告なしが1万6,980円。出荷は10月27日。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1352067.html",
+          "publishedOn": "2021-09-21T13:13:18.000Z",
+          "wordCount": 133,
+          "title": "新型「Kindle Paperwhite」6→6.8型に大型化。ページめくりが20%高速化 - PC Watch"
+        },
+        {
+          "id": "http://blog.livedoor.jp/dqnplus/archives/2010635.html",
+          "author": null,
+          "description": "【悲報】男性の48％がロボットととの「性行為」に期待していることが判明 1 名前：テラプレビル(広島県) [JP]：2021/09/21(火) 15:21:20.13 ID:16u2NtmF0 「40％以上の人がロボットとセックスすると回答」などAIに関する衝撃の調査結果 一般の人がAIやロボットに対してどのように考えているのかを調査した「Fear of AI a...",
+          "link": "http://blog.livedoor.jp/dqnplus/archives/2010635.html",
+          "publishedOn": "2021-09-21T13:04:28.000Z",
+          "wordCount": 6229,
+          "title": "痛いニュース(ﾉ∀`) : 【悲報】男性の48％がロボットととの「性行為」に期待していることが判明 - ライブドアブログ"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/21/news155.html",
+          "author": null,
+          "description": "Chatworkが運営するビジネス向けチャットツール「Chatwork」で9月17日に一時アクセス障害が発生していた問題で、同社は原因が「Amazon Web Services（AWS）の異常」だったと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/21/news155.html",
+          "publishedOn": "2021-09-21T12:01:28.000Z",
+          "wordCount": 150,
+          "title": "Chatworkのアクセス障害、原因は「AWSの異常」 - ITmedia NEWS"
+        },
+        {
+          "id": "http://misohena.jp/blog/2021-09-21-emacs-easy-draw.html",
+          "author": null,
+          "description": "先日も書きましたが最近はEmacsの中で動く作図ツールを作っています。 ソース: misohena/el-easydraw: Embedded drawing tool for Emacs (github.com) 図1: org-modeの中で思いついた時に図を描きエクスポートするまでの様子 以前囲碁の棋譜編集ツールを作ってその時にも書きましたが、Emacsの中でこのくらいのことは出...",
+          "link": "http://misohena.jp/blog/2021-09-21-emacs-easy-draw.html",
+          "publishedOn": "2021-09-21T11:27:59.000Z",
+          "wordCount": 273,
+          "title": "Emacsの中で動く作図ツールを作る | Misohena Blog"
+        },
+        {
+          "id": "https://blog.pastak.net/entry/2021/09/21/202228",
+          "author": null,
+          "description": "macやiPadのSafari 15推奨です。次点はAndroid版のChromeです。この2つはフル機能が楽しめます。その他のブラウザでも一部機能が楽しめます。ご利用ください。 おみくじです START 解説です 今日公開されたiOS 15 と iPadOS 15にはSafari 15が搭載されています。macOSもアップデートでSafari 15が手に入ります。このSafa...",
+          "link": "https://blog.pastak.net/entry/2021/09/21/202228",
+          "publishedOn": "2021-09-21T11:27:18.000Z",
+          "wordCount": 151,
+          "title": "Safari 15を入れて遊ぼう！theme-colorおみくじ！！！！ - ぱすたけ日記"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/21/news153.html",
+          "author": null,
+          "description": "「慣れない」「指が届くようになった」──iOS 15で“検索窓”が下に移動した「Safari」に賛否　旧UIに戻すユーザーも 9月21日に配信が始まったAppleのiOS最新版「iOS 15」では、Webブラウザ「Safari」のユーザーインタフェースが大きく変更された。iOSで初めてタブバーが上から下に移動。利便性が向上したという声がある一...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/21/news153.html",
+          "publishedOn": "2021-09-21T11:02:29.000Z",
+          "wordCount": 179,
+          "title": "「慣れない」「指が届くようになった」──iOS 15で“検索窓”が下に移動した「Safari」に賛否　旧UIに戻すユーザーも - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2021/09/iso-15-drag-and-drop-through-apps.html",
+          "author": null,
+          "description": "【iOS15】ついにiPhoneにアプリ間ドラッグ＆ドロップが来たぞー！ やり方はこれを見て！2021.09.21 17:0036,680 小暮ひさのり Photo: 小暮ひさのり 便利！だけどちょいムズです。 本日公開されたiOS15。色々とアプリの様相や機能が変わっていますが、タッチジェスチャーもちょっぴり拡張され、iPad OSのようなアプリ間ド...",
+          "link": "https://www.gizmodo.jp/2021/09/iso-15-drag-and-drop-through-apps.html",
+          "publishedOn": "2021-09-21T10:01:52.000Z",
+          "wordCount": 84,
+          "title": "【iOS15】ついにiPhoneにアプリ間ドラッグ＆ドロップが来たぞー！ やり方はこれを見て！ | ギズモード・ジャパン"
+        },
+        {
+          "id": "https://zenn.dev/eringiv3/books/a85174531fd56a",
+          "author": null,
+          "description": "この本では、TypeScriptで型安全にGraphQLサーバーを構築する方法をハンズオン形式で学習することができます。 Todoアプリの開発を通して、GraphQLスキーマの扱いやCLIツールの設定方法、TypeScriptのORMであるPrismaの基本的な使用方法、CI/CDパイプラインの構築によるマイグレーションの自動化などを体験します。 Grap...",
+          "link": "https://zenn.dev/eringiv3/books/a85174531fd56a",
+          "publishedOn": "2021-09-21T07:56:46.000Z",
+          "wordCount": 26,
+          "title": "Apollo ServerとPrismaではじめるGraphQL API開発入門"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-402685/",
+          "author": null,
+          "description": "AppleはiOS15でFaca IDの脆弱性を改善したと発表しています。これまでのFace IDでは3D複製技術によって作られたユーザーの顔の立体モデルでFace IDを突破できる可能性があったとのことで、iOS15ではこのような突破を防ぐ措置を講じたとしています。 原始的な方法 Face IDはユーザーの顔の特徴を数値化し、本当にそっくり...",
+          "link": "https://iphone-mania.jp/news-402685/",
+          "publishedOn": "2021-09-21T07:16:06.000Z",
+          "wordCount": 215,
+          "title": "iOS15でFace IDのセキュリティ向上　3D複製技術による突破を防止 - iPhone Mania"
+        },
+        {
+          "id": "https://7guis.bradwoods.io/",
+          "author": null,
+          "description": "=================================================================================================================================================================== 7GUIs (7 Graphical User Interfaces) is a programming benchmark to compare implementations in terms of their notation. 7GUIs defines 7...",
+          "link": "https://7guis.bradwoods.io/",
+          "publishedOn": "2021-09-21T05:52:05.000Z",
+          "wordCount": 77,
+          "title": "7GUIs"
+        },
+        {
+          "id": "https://applech2.com/archives/20210921-apple-update-ios148-security.html",
+          "author": null,
+          "description": "AppleがiOS 14.8/iPadOS 14.8のセキュリティコンテンツをアップデートし、iOS 15/iPadOS 15アップグレードで修正したのと同じ脆弱性を複数修正していると発表しています。詳細は以下から。 The post Apple、iOS 14.8/iPadOS 14.8のセキュリティコンテンツをアップデート。iOS 15/iPadOS 15と同じ脆弱性を複数修正。 firs...",
+          "link": "https://applech2.com/archives/20210921-apple-update-ios148-security.html",
+          "publishedOn": "2021-09-21T05:51:54.000Z",
+          "wordCount": 179,
+          "title": "Apple、iOS 14.8/iPadOS 14.8のセキュリティコンテンツをアップデート。iOS 15/iPadOS 15と同じ脆弱性を複数修正。"
+        },
+        {
+          "id": "https://qiita.com/nazomikan/items/eab3352dbd5e2b79724b",
+          "author": null,
+          "description": "Caution この記事はDHHファンの妄想によるシナリオが多分に含まれます。 というかほとんどです。 成り立ちが間違ってることも当然あるように思うので話半分で読んでください。 これは一体 最近のRailsフロントエンドやDHHの活動には一連の流れがあるわけですが、一部トレンドに沿ってない部分がある故にそれが汲めないと...",
+          "link": "https://qiita.com/nazomikan/items/eab3352dbd5e2b79724b",
+          "publishedOn": "2021-09-21T05:41:07.000Z",
+          "wordCount": 430,
+          "title": "妄想的DHH理解 - Qiita"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/21/news113.html",
+          "author": null,
+          "description": "「iPhone 13を買ったのだけど、iCloudのストレージが足りないのでバックアップできない」とお悩みの人に朗報だ。お金は一切かからない。iCloudストレージの増量も不要。その仕組みを説明しよう。 iOS 15／iPadOS 15から、新しいデバイスへの移行時に、iCloudストレージにバックアップを作成するための十分な空き容量がな...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/21/news113.html",
+          "publishedOn": "2021-09-21T05:24:16.000Z",
+          "wordCount": 156,
+          "title": "iPhone機種変時のiCloudバックアップ、容量無制限で無料に　iOS 15の新機能、その手順を解説（1/2 ページ） - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/21/news110.html",
+          "author": null,
+          "description": "寝坊した人にだけ課金する寝坊防止アプリ「メザミー」が登場した。ユーザーが指定した時間までに起きた場所から100m離れないと設定した課金額を支払うことになる。 スタートアップのメザミー（東京都渋谷区）は9月21日、寝坊した人にだけ課金する寝坊防止アプリ「メザミー」（iOS版）をリリースした。指定した時間までに...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/21/news110.html",
+          "publishedOn": "2021-09-21T05:01:52.000Z",
+          "wordCount": 148,
+          "title": "寝坊すると課金されるサービスにiOSアプリ登場、起きた場所から100m離れないと解除不可 - ITmedia NEWS"
+        },
+        {
+          "id": "https://swift.org/blog/swift-5-5-released/",
+          "author": null,
+          "description": "Ted Kremenek is a member of the Swift Core Team and manages the Languages and Runtimes group at Apple. Swift 5.5 is now officially released! Swift 5.5 is a massive release, which includes newly introduced language capabilities for concurrency, including async/await, structured concurrency, and Ac...",
+          "link": "https://swift.org/blog/swift-5-5-released/",
+          "publishedOn": "2021-09-21T04:53:19.000Z",
+          "wordCount": 341,
+          "title": "Swift.org - Swift 5.5 Released!"
+        },
+        {
+          "id": "https://irof.hateblo.jp/entry/2021/09/21/101205",
+          "author": null,
+          "description": "データベース（に限らずあらゆる永続化リソース）を使用するテストをいかにして行うかはいつだって悩みの種です。この悩みは「どうやったらデータベースを使用するテストを行えるかわからない」ではなく「なんとかやってるけど、不満のようなものがある」というものになるかと思います。 やりかたはたくさんあるのですが...",
+          "link": "https://irof.hateblo.jp/entry/2021/09/21/101205",
+          "publishedOn": "2021-09-21T03:10:21.000Z",
+          "wordCount": 244,
+          "title": "テストでのデータベース単位の捉えかた - 日々常々"
+        },
+        {
+          "id": "https://coliss.com/articles/build-websites/operation/work/free-html-templates-for-landing-pages-inovatik.html",
+          "author": null,
+          "description": "ランディングページや小規模Webサイト用のHTMLテンプレートが無料で利用できるInovatikを紹介します。すべてのHTMLテンプレートはオープンソースで、商用プロジェクトでも無料で利用できます。 時間や予算が少ない時、モックアップが必要な時などに便利です。BootstrapやTailwind CSSが使用されているので、勉強用にもい...",
+          "link": "https://coliss.com/articles/build-websites/operation/work/free-html-templates-for-landing-pages-inovatik.html",
+          "publishedOn": "2021-09-21T00:48:41.000Z",
+          "wordCount": 323,
+          "title": "商用でも完全無料、ランディングページ用のHTMLテンプレートがダウンロードできる -Inovatik | コリス"
+        },
+        {
           "id": "https://japanese.engadget.com/ios-ipados15-facetime-multitask-184054893.html",
           "author": null,
           "description": "ほかiPadOS 15については、マルチタスク機能が大幅に強化されました。ユーザーが選んだアプリを左右に並べるSplitviewの操作性も改善され、アプリの上部にフロート表示される専用メニューによりSlide Overモードへの移行もよりスムーズに。 それに加えて、新たなシェルフでは開いているアプリをすべて表示できるようにな...",
@@ -364,6 +598,15 @@
           "title": "Hiromitsu Takagi on Twitter: \"みんな絶対言わないだろから、私が言うしかない。 これはうっかり筆が滑ったというレベルではなく、電子署名の根幹から理解がおかしいことを露呈したもので、このレベルでの無理解は、全体設計への深刻な勘違いを産むし、己の無理解に無自覚であ… https://t.co/FhTeLclir6\""
         },
         {
+          "id": "https://eagletmt.hateblo.jp/entry/2021/09/19/203849",
+          "author": null,
+          "description": "ISUCON10 に続き今回の ISUCON11 でも初期実装の Rust 移植を担当したのでそのへんの話を書いてみます。 ISUCON とのかかわり ISUCON4 から ISUCON7 までは選手として参加していて、何度か本選にも出場しました。ISUCON8 以降に参加しなくなった理由はいくつかあるんですが、Web のインフラやバックエンド界隈を盛り上げ...",
+          "link": "https://eagletmt.hateblo.jp/entry/2021/09/19/203849",
+          "publishedOn": "2021-09-19T11:43:43.000Z",
+          "wordCount": 328,
+          "title": "ISUCON での言語移植 (Rust) - eagletmt's blog"
+        },
+        {
           "id": "https://zenn.dev/nobonobo/articles/3f5310248567a1",
           "author": null,
           "description": "Goの利点を使って実装するコツやノウハウを書くことがコミュニティにとってプラスになると思っているのでそれに専念したいという考えはありますが、Goの苦手な領域にGoを採用してしまってヘイトを溜め込んでしまう事例を見かけたりします。 こういう悲劇の起こる可能性を少しでも減らせたらという思いで、Goの現状の苦手...",
@@ -542,6 +785,15 @@
           "publishedOn": "2021-09-18T22:12:10.000Z",
           "wordCount": 1079,
           "title": "Laravel + Vue.jsでGoogleカレンダーのクローンを作ろう！！【Laravel8対応】フロントエンド編③｜Yuu's Memo"
+        },
+        {
+          "id": "https://wp.jmuk.org/2021/09/18/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%81%AE%E4%BB%A3%E6%9B%BF/",
+          "author": null,
+          "description": "要約：決定版はとくにない。 kzys氏のシェルスクリプトを書かないという記事は面白かった。 https://blog.8-p.info/ja/2021/09/15/bash/ シェルスクリプト、ごくたまに書くことはあるが、ほんともう細かい話とかはすべて忘れているし、覚える価値を感じない。いまさら覚える必要のない技術だなと感じる。が、その一方で...",
+          "link": "https://wp.jmuk.org/2021/09/18/%E3%82%B7%E3%82%A7%E3%83%AB%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%81%AE%E4%BB%A3%E6%9B%BF/",
+          "publishedOn": "2021-09-18T19:24:26.000Z",
+          "wordCount": 277,
+          "title": "シェルスクリプトの代替 – Jun Mukai's blog"
         },
         {
           "id": "https://gigazine.net/news/20210918-amazon-permanently-banned-600-chinese-brands/",
@@ -7157,240 +7409,6 @@
           "publishedOn": "2021-08-23T12:57:05.000Z",
           "wordCount": 465,
           "title": "Intel oneAPIを入れるとClangが死ぬかもしれない"
-        },
-        {
-          "id": "https://engineering.mercari.com/blog/entry/20210823-8128e0d987/",
-          "author": null,
-          "description": "@nekobatoです。メルカリDesign SystemのWeb版開発者をしています。以前の記事で新しくなったメルカリ Webの紹介がありましたが、本記事ではそこで使われている、同じく新しくなったDesign System Webの紹介をします。 Design System Webの提供 Design Systemを元にした実装の構造はプラットフォームごとに異なりますが...",
-          "link": "https://engineering.mercari.com/blog/entry/20210823-8128e0d987/",
-          "publishedOn": "2021-08-23T12:17:31.000Z",
-          "wordCount": 216,
-          "title": "新しいメルカリDesign System Web | メルカリエンジニアリング"
-        },
-        {
-          "id": "https://gigazine.net/news/20210823-cloudflare-ddos-attack-17-2-million-rps/",
-          "author": null,
-          "description": "2021年の初夏に、Cloudflareに対して毎秒1720万リクエストのDDos攻撃が行われていたことがわかりました。Cloudflareによれば、これは過去に受けたあらゆる攻撃と比べて3倍と大規模なもので、同時期の正当なHTTPトラフィック量と比較して68％もの分量に及ぶものだったとのことです。 Cloudflare thwarts 17.2M rps DDoS a...",
-          "link": "https://gigazine.net/news/20210823-cloudflare-ddos-attack-17-2-million-rps/",
-          "publishedOn": "2021-08-23T10:21:33.000Z",
-          "wordCount": 170,
-          "title": "Cloudflareが毎秒1720万リクエストのDDoS攻撃を検出、世界125カ国の2万超のボットからの攻撃 - GIGAZINE"
-        },
-        {
-          "id": "https://gigazine.net/news/20210823-razer-synapse-exploit/",
-          "author": null,
-          "description": "PC周辺機器メーカー・Razerのマウスやキーボードを管理するツール「Razer Synapse」に、ローカルで特権昇格が可能になるゼロデイ脆弱性が発見され、Twitterで公開されました。Razerはすでにこの脆弱性の修正に取り組んでいるとのことです。 Razer bug lets you become a Windows 10 admin by plugging in a mouse https:...",
-          "link": "https://gigazine.net/news/20210823-razer-synapse-exploit/",
-          "publishedOn": "2021-08-23T10:21:22.000Z",
-          "wordCount": 181,
-          "title": "Razerのマウスを接続するだけでシステム特権昇格が可能になる脆弱性が発見される - GIGAZINE"
-        },
-        {
-          "id": "https://joker1007.hatenablog.com/entry/2021/08/23/191446",
-          "author": null,
-          "description": "社内向けのドキュメントと兼用したので、前提とかメンバー向けの解説が含まれているので、前後のパフォーマンスの変化だけを見たい人は、下の方のグラフ画像までスクロールしてください。 gravitonインスタンスを活用するモチベーション ワークロードによる相性はあるが、特にマルチスレッド性能で既存のインスタンスよ...",
-          "link": "https://joker1007.hatenablog.com/entry/2021/08/23/191446",
-          "publishedOn": "2021-08-23T10:16:13.000Z",
-          "wordCount": 270,
-          "title": "Kafkaに接続するJavaアプリケーションをGravitonインスタンスへ移行してパフォーマンスを改善する - joker1007’s diary"
-        },
-        {
-          "id": "https://kabumatome.doorblog.jp/archives/65930508.html",
-          "author": null,
-          "description": "空き缶@akikankeriみずほの障害 中の人達「あああああああぁぁぁ」 その他「またか」 2021/08/20 10:01:28 みずほ銀行、ATMが一時停止 － 全国130台、今年6回目https://t.co/6YjgahJ70v — 共同通信公式 (@kyodo_official) August 23, 2021 ・ATM8台で現金がのみ込まれるトラブル ・ネットワークが不安定になったことが障...",
-          "link": "https://kabumatome.doorblog.jp/archives/65930508.html",
-          "publishedOn": "2021-08-23T09:58:01.000Z",
-          "wordCount": 551,
-          "title": "みずほ銀行で恒例のシステム障害、今度は一部ATMが停止するみずほ基準では軽めの不具合 : 市況かぶ全力２階建"
-        },
-        {
-          "id": "https://www.businessinsider.jp/post-240864",
-          "author": null,
-          "description": "アマゾンのクラウド部門、アマゾン・ウェブ・サービス（AWS）で最も著名な経営幹部が突然の退社を発表。社内が揺れている。 Sundry Photography/Shutterstock.com アマゾン在籍23年のベテラン、チャーリー・ベルは、ジェフ・ベゾスから最高経営責任者（CEO）の座を引き継いだアンディ・ジャシーと並ぶ、アマゾン・ウェブ...",
-          "link": "https://www.businessinsider.jp/post-240864",
-          "publishedOn": "2021-08-23T09:40:08.000Z",
-          "wordCount": 168,
-          "title": "AWS｢エンジニア部門のハートであり、魂｣ベルSVPが電撃退社。最有力の経営幹部流出でアマゾン社内に動揺 | Business Insider Japan"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210823180350",
-          "author": null,
-          "description": "b:id:aox相撲で解決あらゆる揉め事を当事者に相撲で対決させる事で解決しようとする。 当人の「相撲で解決」タグを参照。 物心着く前に子宮を男性に移植男女論関係の記事で解決策として提示しがち。 b:id:aukusoe俺だ俺だ俺だった全文は 「 耳が長くてウサギちゃん！ 首が長くてキリンさん！ ブコメが面白くてaukusoe！ ...",
-          "link": "https://anond.hatelabo.jp/20210823180350",
-          "publishedOn": "2021-08-23T09:11:33.000Z",
-          "wordCount": 346,
-          "title": "【令和最新版】はてな初心者のためのブクマカ持ちネタ集"
-        },
-        {
-          "id": "https://toranoana-lab.hatenablog.com/entry/2021/08/23/165618",
-          "author": null,
-          "description": "虎の穴ラボのかのたんです。 AWS認定試験をオンラインで受けてきましたので、今回はそちらのレポートになります。 試験の学習方法に関してはまた別の機会に書こうと思うので、今回は申し込みや受験に関する内容に絞って書かせていただきます。 なぜ受けようと思ったのか コロナ禍で勉強会がオンラインで開催されるように...",
-          "link": "https://toranoana-lab.hatenablog.com/entry/2021/08/23/165618",
-          "publishedOn": "2021-08-23T08:35:59.000Z",
-          "wordCount": 264,
-          "title": "AWS認定試験をオンライン受験してきました！ - 虎の穴開発室ブログ"
-        },
-        {
-          "id": "https://u-site.jp/alertbox/why-does-design-look-good",
-          "author": null,
-          "description": "視覚的に美しいデザインとは、タイポグラフィが一貫していて、明確な階層があり、洗練されたカラーパレットが活用されていて、グリッドに沿って要素が配置されているものだ。 Why Does a Design Look Good? by Sarah Gibbons and Kelley Gordon on March 7, 2021 フォントや色、配置などの視覚的なディテールは、ユーザ...",
-          "link": "https://u-site.jp/alertbox/why-does-design-look-good",
-          "publishedOn": "2021-08-23T07:15:45.000Z",
-          "wordCount": 207,
-          "title": "デザインが良いと思える理由 – U-Site"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/23/news099.html",
-          "author": null,
-          "description": "リクルートが、新人エンジニア向けの社内研修資料を無償公開した。Webブラウザの仕組みやAWS入門、トヨタ生産方式など20講座以上の資料を公開している。 リクルートは8月20日、同社の新人エンジニア向け研修資料を無償公開した。Amazon Web Services（AWS）やJavaScriptなど技術分野だけでなく、トヨタ生産方式のような...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/23/news099.html",
-          "publishedOn": "2021-08-23T06:34:14.000Z",
-          "wordCount": 142,
-          "title": "リクルート、新人エンジニア向け社内研修資料を公開　AWS入門やマネジメント手法など20講座以上 - ITmedia NEWS"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2108/23/news105.html",
-          "author": null,
-          "description": "歌手の加山雄三さんが、自身の歌声を音声合成AIで再現したプロジェクト「バーチャル若大将」のYouTubeチャンネルを開設し、“歌ってみた”動画を投稿した。 歌手の加山雄三さんは8月22日、自身の歌声を音声合成AIで再現したプロジェクト「バーチャル若大将」のYouTubeチャンネルを開設し、シャ乱Q「シングルベッド」の“歌...",
-          "link": "https://www.itmedia.co.jp/news/articles/2108/23/news105.html",
-          "publishedOn": "2021-08-23T06:15:30.000Z",
-          "wordCount": 143,
-          "title": "「AI加山雄三」が“歌ってみた”動画をYouTubeに　24時間テレビで反響 - ITmedia NEWS"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/getting-start-radware-cloud-native-protector/",
-          "author": null,
-          "description": "AWS上のインシデントをわかりやすいフロー図にして可視化できるRadware Cloud Native Protectorを使って攻撃された痕跡を調査してみた AWS環境でどんな経路でどんな攻撃がされたか、一発で見てわかるセキュリティインシデントを調査するサービスであるRadware社のCloud Native Protectorの紹介です。とにかく図を見てく...",
-          "link": "https://dev.classmethod.jp/articles/getting-start-radware-cloud-native-protector/",
-          "publishedOn": "2021-08-23T04:17:18.000Z",
-          "wordCount": 241,
-          "title": "AWS上のインシデントをわかりやすいフロー図にして可視化できるRadware Cloud Native Protectorを使って攻撃された痕跡を調査してみた | DevelopersIO"
-        },
-        {
-          "id": "https://internet.watch.impress.co.jp/docs/yajiuma/1345450.html",
-          "author": null,
-          "description": "Amazon.co.jpが、転売サイトからAmazonギフト券を購入しないよう、具体的なサイト名を挙げて呼び掛けを行っている。",
-          "link": "https://internet.watch.impress.co.jp/docs/yajiuma/1345450.html",
-          "publishedOn": "2021-08-23T04:16:04.000Z",
-          "wordCount": 76,
-          "title": "Amazonギフト券を転売サイトから購入しないで！ Amazon.co.jpが業者名リストを公開中【やじうまWatch】 - INTERNET Watch"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/08/23/2021-07-27-no-code-bubble-series-a/",
-          "author": null,
-          "description": "シリコンバレーでは、コンピュータサイエンスや技術教育の不足が世界のGDPレベルをどの程度押し下げているのかを議論するゲームが盛んに行われている。もし何十万人、何百万人もがコードを書けるようになって、起業家としてアイデアを実現できるようになったら、どれだけ多くのスタートアップ企業が誕生するだろうか？す...",
-          "link": "https://jp.techcrunch.com/2021/08/23/2021-07-27-no-code-bubble-series-a/",
-          "publishedOn": "2021-08-23T03:59:33.000Z",
-          "wordCount": 332,
-          "title": "技術者はもはや時代遅れ？コーディング不要のツールを開発するBubbleが111億円調達 | TechCrunch Japan"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1345483.html",
-          "author": null,
-          "description": "米国時間の2021年8月24日に、Windows XPのRTMが完成してから20年を迎える。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/yajiuma/1345483.html",
-          "publishedOn": "2021-08-23T03:59:13.000Z",
-          "wordCount": 106,
-          "title": "【やじうまPC Watch】Windows XP、24日に20歳を迎える - PC Watch"
-        },
-        {
-          "id": "https://tarao.hatenablog.com/entry/deep-equality",
-          "author": null,
-          "description": "数日前にTwitterで, JavaScriptのオブジェクトに対する===の挙動が初心者には難しいみたいな話を見かけた. 発端や周辺の議論をちゃんと追いかけてないからとくに出典は貼らない. たぶん元々の話は「へぇ, こういう挙動なんだ, 簡単ではないね」くらいの話だったのかもしれない. 自分のタイムラインの観測範囲では「そう...",
-          "link": "https://tarao.hatenablog.com/entry/deep-equality",
-          "publishedOn": "2021-08-23T03:54:36.000Z",
-          "wordCount": 1075,
-          "title": "再帰的な構造のデータの同値性判定はどうしたらいいか - 貳佰伍拾陸夜日記"
-        },
-        {
-          "id": "https://webdesign-trends.net/entry/13147",
-          "author": null,
-          "description": "VSCodeを使ってHTML/CSS/JavaScriptなどを使ったWeb制作、Webコーディングを行っている人も多いのではないでしょうか。 VSCodeは様々な拡張機能が公開されていて、それらを活用するとさらにWeb制作の作業効率が向上したり、使い勝手が良くなったりします。 今回は、Web制作者、WebコーダーにおすすめのVSCode拡張機能を...",
-          "link": "https://webdesign-trends.net/entry/13147",
-          "publishedOn": "2021-08-23T02:34:47.000Z",
-          "wordCount": 462,
-          "title": "Web制作者必見！VSCodeのおすすめ拡張機能15個まとめ - Web Design Trends"
-        },
-        {
-          "id": "https://engineering.mercari.com/blog/entry/20210823-a57631d32e/",
-          "author": null,
-          "description": "こんにちは。ソウゾウの Software Engineer の hiroppy です。「連載：「メルカリ Shops」プレオープンまでの開発の裏側」 の最後は、Web フロントエンドの紹介をしたいと思います。メルカリ Shops は既存のメルカリアプリの中に独立した Web アプリケーションとして動いています。本記事では、どのようなライブラリを選...",
-          "link": "https://engineering.mercari.com/blog/entry/20210823-a57631d32e/",
-          "publishedOn": "2021-08-23T01:06:01.000Z",
-          "wordCount": 482,
-          "title": "メルカリShops のフロントエンド | メルカリエンジニアリング"
-        },
-        {
-          "id": "https://qiita.com/mackeee-orange/items/afbed5ec3816d4af2e58",
-          "author": null,
-          "description": "1. 誰に向けたどういう記事なのか いわゆる #駆け出しエンジニア と呼ばれるような(定義割愛)プログラミング学習者に向けて，私が個人的に定義する「本物のエンジニア」になるための１つの道標になるような記事を目指しています． また，今回の記事は主にエンジニアという単語で主にWebエンジニアを指します． 1.1. 駆け...",
-          "link": "https://qiita.com/mackeee-orange/items/afbed5ec3816d4af2e58",
-          "publishedOn": "2021-08-23T00:12:19.000Z",
-          "wordCount": 694,
-          "title": "具体的にどう本物のエンジニアになるかというお話（バックエンドエンジニアのロードマップ付） - Qiita"
-        },
-        {
-          "id": "https://memo.sugyan.com/entry/2021/08/23/003752",
-          "author": null,
-          "description": "ISUCON11 予選おつかれさまでした。 ここ数年は参加者として予選敗退を繰り返してきたのだけど、今年はちょっと違う関わり方をしてみるか、と思い 「参考実装の移植」に立候補してみました。 isucon.net Node.js担当として採用していただき、ちょっと不安もあったので id:hokaccha 氏にレビュアーとしてついてもらって、...",
-          "link": "https://memo.sugyan.com/entry/2021/08/23/003752",
-          "publishedOn": "2021-08-22T22:13:38.000Z",
-          "wordCount": 453,
-          "title": "ISUCON11予選のNode.js実装を書いた - すぎゃーんメモ"
-        },
-        {
-          "id": "https://blog.edunote.jp/entry/2021/08/23/060000",
-          "author": null,
-          "description": "市の発表会で発表してきました。 夏休みといえば研修です。 勤務している市では、夏に発表したい人が集まっての発表会があります。今年は完全オンラインでの実施となりました。 よく考えると、完全オンラインで教育イベントを市が主体で開くって、結構スゴいことだと今思いました。（遅い と言う訳で、日頃から市のGIGA...",
-          "link": "https://blog.edunote.jp/entry/2021/08/23/060000",
-          "publishedOn": "2021-08-22T20:29:32.000Z",
-          "wordCount": 233,
-          "title": "小学校でChromebook（Google Workspace for Education)はこう使われているよ、という実例を発表してきました - パパ教員の戯れ言日記"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1345180.html",
-          "author": null,
-          "description": "サンワサプライから発売された2種類の“VESA取付けプレート”。「MR-VESA7」と「MR-VESA8」だが、あまりにも俺的ジャストタイミング製品だったので音の速さでポチッと購入して光の速さで使った途端、俺の用途要望欲望を完全に満たしてくれてビビった。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/stapa/1345180.html",
-          "publishedOn": "2021-08-22T15:40:06.000Z",
-          "wordCount": 133,
-          "title": "こういうのでいいんだよ、こういうVESAプレートで - ケータイ Watch"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/windows_server_2022smb_over_quicvpn.html",
-          "author": null,
-          "description": "Windows Server 2022正式版がひっそりとリリース。セキュアコアサーバ搭載、SMB over QUICでVPN不要のファイルアクセスなど マイクロソフトからの発表はまだありませんが、Windows Server 2022正式版のリリースが事実上開始されました。 ライフサイクルのページに製品が登録され、2021年8月18日がサポート開始日となって...",
-          "link": "https://www.publickey1.jp/blog/21/windows_server_2022smb_over_quicvpn.html",
-          "publishedOn": "2021-08-22T14:55:06.000Z",
-          "wordCount": 209,
-          "title": "Windows Server 2022正式版がひっそりとリリース。セキュアコアサーバ搭載、SMB over QUICでVPN不要のファイルアクセスなど － Publickey"
-        },
-        {
-          "id": "https://iphone-mania.jp/news-392107/",
-          "author": null,
-          "description": "Bloombergのマーク・ガーマン記者が自身のニュースレター「Power On」で、M1X搭載Mac miniが数ケ月以内に発表されると伝えました。 Thunderbolt/USBポートが4つに増える？ ガーマン記者によれば、M1X搭載Mac miniはIntelプロセッサ搭載Mac miniを置き換えるモデルになるようです。 M1X搭載Mac miniは、外部接続端子の数...",
-          "link": "https://iphone-mania.jp/news-392107/",
-          "publishedOn": "2021-08-22T14:23:07.000Z",
-          "wordCount": 221,
-          "title": "M1X搭載Mac miniが数ケ月以内に発表〜新型MacBook Proと同時か - iPhone Mania"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2021/08/successful-experiment-of-eye-cup-generation-process.html",
-          "author": null,
-          "description": "人間の脳のオルガノイドを培養したら｢目｣ができた2021.08.22 22:005,232 ByIsaac Schultz - Gizmodo US ［原文］ （ satomi ） こんにちは 目だ…目だよオイ…（泣）。 国際研究チームがラボで人間の脳を模した組織を培養したところ、つぶらな瞳のようなものがポッカリとでき世界が震えています。左右対称な眼杯で、光も感...",
-          "link": "https://www.gizmodo.jp/2021/08/successful-experiment-of-eye-cup-generation-process.html",
-          "publishedOn": "2021-08-22T13:15:22.000Z",
-          "wordCount": 75,
-          "title": "人間の脳のオルガノイドを培養したら｢目｣ができた | ギズモード・ジャパン"
-        },
-        {
-          "id": "https://blog.endflow.net/build-rust-app-image-faster/",
-          "author": null,
-          "description": "Rust + Docker + GitHub Actions = めちゃ遅い 以前、GitHub Actions 上の Rust ビルドを高速化する記事を書いたけど、 今回は Kubernetes 環境にスムーズに移行できるよう Docker イメージ化するという要件も加わったことで、改めて試行錯誤する必要が出てきた。 それぞれに対するビルド速度の最適化は存在しているもの...",
-          "link": "https://blog.endflow.net/build-rust-app-image-faster/",
-          "publishedOn": "2021-08-22T13:09:28.000Z",
-          "wordCount": 254,
-          "title": "GitHub Actions上のRustアプリのDockerイメージビルドを高速化する - blog.endflow.net"
         }
       ]
     },
@@ -7456,6 +7474,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=352328",
+          "author": "Chris Coyier",
+          "description": "CSS is on a tear lately. Again, I’ve heard of a brand new thing I’ve never seen before, and again it’s via Miriam: CSS Conditionals. \n🎉 CSSWG just resolved to adopt @tabatkins when/else proposal into the next level of CSS \n…\nThe post Proposal for CSS @when appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/proposal-for-css-when/",
+          "publishedOn": "2021-09-21T22:54:51.000Z",
+          "wordCount": 618,
+          "title": "Proposal for CSS @when"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352140",
+          "author": "Chris Coyier",
+          "description": "There is a new thing coming in CSS: @layer. As with all new things, it takes time to really wrap your head around it. And despite me tapping at my keyboard about it, full disclosure, I’m not sure my …\nThe post Cascade Layers? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/cascade-layers/",
+          "publishedOn": "2021-09-21T19:23:05.000Z",
+          "wordCount": 1375,
+          "title": "Cascade Layers?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=351992",
+          "author": "Habdul Hazeez",
+          "description": "CSS ::before and ::after pseudo-elements allow you to insert “content” before and after any non-replaced element (e.g. they work on a <div> but not an <input>). This effectively allows you to show something on a web page that might …\nThe post 7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/7-practical-uses-for-the-before-and-after-pseudo-elements-in-css/",
+          "publishedOn": "2021-09-21T14:40:55.000Z",
+          "wordCount": 3200,
+          "title": "7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352174",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nThe web’s premier conference is online this fall, October 11–13, 2021: An Event Apart Full Summit. If you already know how good of a conference this is (i.e. that some of the web’s biggest …\nThe post An Event Apart Full Summit! (Use Coupon AEACSST21) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://aneventapart.com/event/fall-summit-2021?utm_campaign=AEAFS21&utm_medium=email&utm_source=csstricks",
+          "publishedOn": "2021-09-21T14:37:54.000Z",
+          "wordCount": 2963,
+          "title": "An Event Apart Full Summit! (Use Coupon AEACSST21)"
+        },
         {
           "id": "https://css-tricks.com/?p=352089",
           "author": "Chris Coyier",
@@ -7968,6 +8022,15 @@
       "siteUrl": "https://ecmascript-daily.github.io/atom.xml",
       "articles": [
         {
+          "id": "https://ecmascript-daily.github.io/2021/09/21/notes-meetings-2021-08-at-master-tc39-notes",
+          "author": null,
+          "description": "TC39 Meeting Notes @ 2021-08",
+          "link": "https://ecmascript-daily.github.io/2021/09/21/notes-meetings-2021-08-at-master-tc39-notes",
+          "publishedOn": "2021-09-21T21:58:24.000Z",
+          "wordCount": 73,
+          "title": "notes/meetings/2021-08 at master · tc39/notes"
+        },
+        {
           "id": "https://ecmascript-daily.github.io/2021/09/04/official-name-bikeshed-issue-321-tc39-proposal-realms",
           "author": null,
           "description": "Realms is renamed to ShadowRealm",
@@ -8071,6 +8134,15 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/codingcatdev/1-25-creating-macro-benefits-from-micro-frontends-2926",
+          "author": "Alex Patterson",
+          "description": "Original: https://codingcat.dev/podcast/1-25-micro-frontends",
+          "link": "https://dev.to/codingcatdev/1-25-creating-macro-benefits-from-micro-frontends-2926",
+          "publishedOn": "2021-09-21T00:47:38.000Z",
+          "wordCount": 681,
+          "title": "1.25 - Creating Macro benefits from Micro Frontends"
+        },
         {
           "id": "https://dev.to/braydoncoyer/how-to-unit-test-an-http-service-in-angular-38pa",
           "author": "Braydon Coyer",
@@ -9393,42 +9465,6 @@
           "publishedOn": "2021-08-23T14:12:41.000Z",
           "wordCount": 2622,
           "title": "Angular Best Practices for 2021"
-        },
-        {
-          "id": "https://dev.to/shhdharmen/how-to-exclude-stylesheets-from-the-bundle-and-lazy-load-them-in-angular-3kcf",
-          "author": "Dharmen Shah",
-          "description": "We will try to understand this by taking example of multiple themes support.\nLet’s assume that apart from main styles.css file, you have 2 theme files present:\nsrc/styles/themes/theme-light.css\nsrc/styles/themes/theme-dark.css\nNext, you would have them in angular.json’s styles option:\n\"styles\": [\n    \"src/styles.css\",\n    \"src/styles/themes/theme-light.css\",\n    \"src/styles/themes/theme-dark.css\"\n  ]\n\nAnd lastly, you would handle loading of a particular theme based on the users’ choice or their preferences.\nEverything works great, but both of your theme files are part of your application bundle all the time.\nLet’s make a minor change in angular.json to exclude theme files from bundle:\n\"styles\": [\n    \"src/styles.css\",\n    {\n      \"input\": \"src/styles/themes/theme-light.css\",\n      \"inject\"…",
-          "link": "https://dev.to/shhdharmen/how-to-exclude-stylesheets-from-the-bundle-and-lazy-load-them-in-angular-3kcf",
-          "publishedOn": "2021-08-23T05:35:51.000Z",
-          "wordCount": 775,
-          "title": "How to exclude stylesheets from the bundle and lazy load them in Angular?"
-        },
-        {
-          "id": "https://dev.to/oneofthedevs/docker-angular-nginx-37e4",
-          "author": "Dev Chhaniyara",
-          "description": "So recently, I have been digging into DevOps and Cloud Technologies and came across this service called Google Cloud Run which lets you host your application, but the only thing that bugged me was it required a docker image, and at this point, I had no idea what docker, containers, images or any of this words meant. 😕\nSo like any sane person with no social life on weekends 🤪 I started learning about Docker and at first, it did seem a little challenging but eventually, I think the process is quite easy and interesting.\nSo, if you have no idea about Docker and containers, I have put some links at the bottom which were super useful to me.\nDocker is a container runtime. That's it 🤯. It allows us to run containerized applications.\nContainers are lightweight, portable and isolated processes r…",
-          "link": "https://dev.to/oneofthedevs/docker-angular-nginx-37e4",
-          "publishedOn": "2021-08-23T02:51:43.000Z",
-          "wordCount": 1375,
-          "title": "Docker + Angular + Nginx"
-        },
-        {
-          "id": "https://dev.to/enappd/google-login-in-ionic-capacitor-app-with-angular-1igd",
-          "author": "Abhijeet Rathore",
-          "description": "In this post, you’ll learn how to implement Google login in your Ionic Angular Capacitor apps. We will also retrieve user name and profile photo to show after login. We will test the authentication on Web, Android and iOS.\nSince Google login is applicable in a lot of app frameworks, it is possible you landed here by (SEO) mistake. If you are looking for Google login in\nIonic Angular (Cordova) apps —&hairsp;Please check this post\n\nReact Native&hairsp;—&hairsp;Please check this for Android and iOS\n\nIonic React Capacitor Apps —Check this post\n\nIonic Angular Capacitor Apps&hairsp;—&hairsp;Continue reading 🙂\nAs you can see from above, there are several options available for Hybrid app development these days, and it is easy to get confused between them. This post is focussed on Ionic framework …",
-          "link": "https://dev.to/enappd/google-login-in-ionic-capacitor-app-with-angular-1igd",
-          "publishedOn": "2021-08-22T16:32:19.000Z",
-          "wordCount": 3862,
-          "title": "Google login in Ionic Capacitor app with Angular"
-        },
-        {
-          "id": "https://dev.to/kovalforpublic/how-to-keep-your-imports-beautiful-in-angular-app-w-o-cyclic-deps-309j",
-          "author": "George Koval.",
-          "description": "You're probably familiar with imports like that\n import { UsersListComponent } from '../../../ui/users-list/users-list.component.ts\n\nAnd that doesn't look great. What can be done about it? \nWe could try to add aliases in tsconfig.json like this\n {\n   \"paths\": {\n      \"@myApp/ui\": [\"src/app/my-module/ui\"]\n    }\n }\n\nand combine it with index.ts files in the users-list and ui folders\n  export * from './users-list.component.ts';\n\nYes, that way an import could be turned into this\n  import { UsersListComponent } from '@myApp/ui';\n\nIt will work if there's only one such a component. But probably \"ui\" general name implies at least several components (moreover with nested relationships), which could lead to a painful circular dependency error. So, what should we do? \nI came up with a solution. I'm not sure whether it's the best way (probably not, and if you know better way, I'd be more than happy to read about it in the comments). \ntsconfig into this:\n {\n   ...\n   \"@myApp/ui/*\" : \"src/app/my-module/ui/*\",\n   ...\n }\n\nAnd then import your component like this\n import { UsersListComponent } from '@myApp/ui/users-list';\n\nby using index.ts file in the users-list folder we don't have to duplicate the same name ('users-list/users-list.component'), and by using asterisk sign (*) & aliases we're able to specify a particular folder avoiding circular dependency error. \nimport { UserComponent } from '@myApp/ui/user';\nimport { AvatarComponent } from '@myApp/ui/avatar';\n...",
-          "link": "https://dev.to/kovalforpublic/how-to-keep-your-imports-beautiful-in-angular-app-w-o-cyclic-deps-309j",
-          "publishedOn": "2021-08-22T15:21:15.000Z",
-          "wordCount": 694,
-          "title": "How to keep your imports beautiful in Angular app (w/o cyclic deps)"
         }
       ]
     },
@@ -9688,15 +9724,6 @@
           "publishedOn": "2021-08-27T01:01:26.000Z",
           "wordCount": 984,
           "title": "Firestore Many-to-Many: Part 2 - array-contains-all"
-        },
-        {
-          "id": "https://dev.to/jdgamble555/firestore-many-to-many-mf8",
-          "author": "Jonathan Gamble",
-          "description": "Not all many-to-many situations are possible nor impossible in Firestore. I figured I would try and list all of them I can think of with their limitations.\nThere are 3 common examples:\nCustomers and Products\nClasses and Students\nFollowers and Following\nThey each also have different use cases that can dramatically change the limitations.\nNote: All of these examples use angular firestore in typescript, but the data modeling and rxjs usage is the same in other languages.\nLet's start simple:\nThe beauty of this example, is that a there are a limited number of students a class can have, and a limited number a classes a student can take. Even if that number were as high as 1000, it will never be as high as 10,000, which is theoretically the most amount of information you want to have in one Fires…",
-          "link": "https://dev.to/jdgamble555/firestore-many-to-many-mf8",
-          "publishedOn": "2021-08-22T17:42:16.000Z",
-          "wordCount": 1417,
-          "title": "Firestore Many-to-Many"
         }
       ]
     },
@@ -9705,6 +9732,15 @@
       "feedUrl": "https://coliss.com/feed/",
       "siteUrl": "https://coliss.com",
       "articles": [
+        {
+          "id": "https://coliss.com/?p=32301",
+          "author": "コリス🥦",
+          "description": "...記事の続きを読む",
+          "link": "https://coliss.com/articles/build-websites/operation/work/free-html-templates-for-landing-pages-inovatik.html",
+          "publishedOn": "2021-09-21T00:36:10.000Z",
+          "wordCount": 323,
+          "title": "商用でも完全無料、ランディングページ用のHTMLテンプレートがダウンロードできる -Inovatik"
+        },
         {
           "id": "https://coliss.com/?p=31643",
           "author": "コリス🥦",
@@ -9920,24 +9956,6 @@
           "publishedOn": "2021-08-24T00:36:47.000Z",
           "wordCount": 368,
           "title": "CSSでボタンにテキストを配置する時、上下のスペースを簡単に揃えられる実装テクニック"
-        },
-        {
-          "id": "https://coliss.com/?p=31442",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/adobe-cc-amazon-20210823-sale.html",
-          "publishedOn": "2021-08-23T05:08:05.000Z",
-          "wordCount": 316,
-          "title": "これを見逃したら損！ここ3年間で一番の最安値、Adobe CC コンプリートプランのセールがAmazonで開催"
-        },
-        {
-          "id": "https://coliss.com/?p=31368",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/products/kindle-sale-20210824.html",
-          "publishedOn": "2021-08-23T00:36:07.000Z",
-          "wordCount": 1249,
-          "title": "かなりお買い得！Kindleセールで、Web制作・UIデザイン・マーケティング関連の良書が半額に！"
         }
       ]
     },
@@ -9946,6 +9964,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/1fd4238c005b",
+          "author": "Ivano Di Gese",
+          "description": "Find the one that best suits your project\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/the-6-best-angular-ui-kits-and-frameworks-2021-edition-1fd4238c005b?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-21T20:02:47.000Z",
+          "wordCount": 1566,
+          "title": "The 6 Best Angular UI Kits and Frameworks (2021 Edition)"
+        },
+        {
+          "id": "https://medium.com/p/681dafe58b1c",
+          "author": "Michal Bialas",
+          "description": "Awesome libraries and projects released or heavily refreshed in 2021\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/25-best-android-libraries-projects-and-tools-you-dont-want-to-miss-in-2021-681dafe58b1c?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-21T18:14:03.000Z",
+          "wordCount": 2990,
+          "title": "25 Best Android Libraries, Projects, and Tools You Won’t Want to Miss Out in 2021"
+        },
+        {
+          "id": "https://medium.com/p/c478f7afaae0",
+          "author": "Siva Ganesh Kantamani",
+          "description": "Handle keyboard events effectively in your Android apps\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/android-keyboard-handling-using-jetpack-compose-c478f7afaae0?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-21T14:50:55.000Z",
+          "wordCount": 1142,
+          "title": "Android Keyboard Handling Using Jetpack Compose"
+        },
+        {
+          "id": "https://medium.com/p/d05e0c95f820",
+          "author": "Jason Shah",
+          "description": "A quick guide to perform transactions with Web3 and Node.js",
+          "link": "https://betterprogramming.pub/how-to-send-ethereum-transactions-using-web3-d05e0c95f820?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-21T14:41:58.000Z",
+          "wordCount": 1862,
+          "title": "How to Send Ethereum Transactions Using Web3"
+        },
+        {
+          "id": "https://medium.com/p/357a41eed6c9",
+          "author": "Gaurav Agarwal",
+          "description": "Mounting Google Filestore as an NFS share to multiple Pods\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/using-nfs-persistent-volumes-across-pods-in-readwritemany-mode-357a41eed6c9?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-21T14:02:29.000Z",
+          "wordCount": 1481,
+          "title": "Using NFS Persistent Volumes Across Pods in ReadWriteMany Mode"
+        },
+        {
+          "id": "https://medium.com/p/38d78e02d7a1",
+          "author": "Parul Dhingra",
+          "description": "Can Hibernate automatically delete the child entity if I remove its association to the parent? Let’s find out\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-delete-child-records-in-onetomany-relationship-from-database-in-jpa-38d78e02d7a1?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-21T13:51:51.000Z",
+          "wordCount": 798,
+          "title": "How to Delete Child Records in OneToMany Relationship From Database in JPA?"
+        },
+        {
+          "id": "https://medium.com/p/b24f231f4316",
+          "author": "D iOS Dev",
+          "description": "Know more about LaunchArguments, LaunchEnvironment, using accessibility, and tips on running UITests in SwiftUI\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-perform-ui-testing-in-swiftui-b24f231f4316?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-21T13:41:58.000Z",
+          "wordCount": 1540,
+          "title": "How to Perform UI Testing in SwiftUI"
+        },
+        {
+          "id": "https://medium.com/p/7ec300a41df2",
+          "author": "Vinita",
+          "description": "Cross the boundary of your comfort zone to think about an idea to its extreme without mental guardrails to put it down\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-develop-your-strategic-thinking-skills-and-stay-ahead-7ec300a41df2?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-21T13:33:19.000Z",
+          "wordCount": 2654,
+          "title": "How To Develop Your Strategic Thinking Skills and Stay Ahead"
+        },
+        {
+          "id": "https://medium.com/p/89937c0f9a99",
+          "author": "Sunny Sun",
+          "description": "If…else is not bad — excessive usage is\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/4-simple-and-effective-ways-to-avoid-too-many-ifs-with-typescript-89937c0f9a99?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-21T13:03:25.000Z",
+          "wordCount": 1084,
+          "title": "4 Simple and Effective Ways To Avoid Too Many Ifs With TypeScript"
+        },
+        {
+          "id": "https://medium.com/p/77c999ea3aea",
+          "author": "Tommaso De Ponti",
+          "description": "Start using awesome animated shapes in your frontend\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-easily-animate-svg-with-a-few-css-lines-77c999ea3aea?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-21T12:32:42.000Z",
+          "wordCount": 883,
+          "title": "How To Easily Animate SVG With a Few CSS Lines"
+        },
         {
           "id": "https://medium.com/p/e5b03a3887af",
           "author": "Danielle A.",
