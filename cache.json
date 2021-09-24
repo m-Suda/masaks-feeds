@@ -117,6 +117,195 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://xtech.nikkei.com/atcl/nxt/column/18/01157/092200045/",
+          "author": null,
+          "description": "みずほ銀行で2021年8月20日、営業店の窓口業務が全面停止するトラブルが発生した。前日の19日午後8時53分ごろに営業店端末と勘定系システムをつなぐサブシステムで、データベース（DB）サーバーがディスク装置の故障をきっかけに停止したためだ。待機系DBサーバーへの切り替えも失敗、副データセンター（DC）に処理を切...",
+          "link": "https://xtech.nikkei.com/atcl/nxt/column/18/01157/092200045/",
+          "publishedOn": "2021-09-23T23:09:08.000Z",
+          "wordCount": 379,
+          "title": "みずほ銀行窓口業務ストップの真相、DC切り替えをためらい障害が長期化 | 日経クロステック（xTECH）"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/24/news066.html",
+          "author": null,
+          "description": "日本と韓国以外で販売されたiPhoneを両国以外の海外に持っていった場合、着信/消音スイッチのオレンジが見える状態にする、音量を下げるボタンで最大まで音量を下げることでシャッター音が鳴らなくなる。 海外版iPhoneを日本で使用した場合、シャッター音が鳴らなくなるように出来る仕様は、iOS 15をインストールしても...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/24/news066.html",
+          "publishedOn": "2021-09-23T20:37:51.000Z",
+          "wordCount": 195,
+          "title": "“シャッター音が消せない”日本のiPhone、海外に持っていけば鳴らない設定可能に　iOS 15で - ITmedia NEWS"
+        },
+        {
+          "id": "https://nlab.itmedia.co.jp/nl/articles/2109/24/news055.html",
+          "author": null,
+          "description": "Twitterが“投げ銭”機能「Tips」を正式にリリースしました。まずiOS版からスタートし、その後数週間かけてAndroid版ユーザーにも提供していくとのことです。 目印はお札風のチップアイコン フォローボタンの隣にチップアイコンがあるユーザーは、Tipsの利用者 アイコンをタップすると、送金に使うプラットフォームが一覧...",
+          "link": "https://nlab.itmedia.co.jp/nl/articles/2109/24/news055.html",
+          "publishedOn": "2021-09-23T19:37:29.000Z",
+          "wordCount": 265,
+          "title": "Twitterの“投げ銭”機能「Tips」が正式リリースへ　まずiOS版に提供、数週間後にAndroid版にも - ねとらぼ"
+        },
+        {
+          "id": "https://blog.inductor.me/entry/2021/09/24/015402",
+          "author": null,
+          "description": "はじめに GitOpsという言葉が生まれたのが自分の知る限り2017年頃なのですが、世の中にあるCI/CDの仕組みはまだほとんどがCIOpsもしくは手動のオペレーションによって成り立っていると思っていて、かつては自分もそうだったのですが「Gitで管理されていればGitOpsなんでしょ？」という勘違いを払拭したくてこのエントリ...",
+          "link": "https://blog.inductor.me/entry/2021/09/24/015402",
+          "publishedOn": "2021-09-23T17:05:50.000Z",
+          "wordCount": 179,
+          "title": "CIOpsとGitOpsの話 - inductor's blog"
+        },
+        {
+          "id": "https://www.gizmodo.jp/2021/09/robots-and-employment-evidence-from-japan-1978-2017.html",
+          "author": null,
+          "description": "日本の産業ロボットは人間から仕事を奪っていなかった：研究結果2021.09.23 23:00 山田ちとら マニピュレータ（ロボットアーム）のイメージ Image: いらすとや 新しい技術って、雇用にどう影響してるんだろう？ 人工知能（AI）を搭載したカメラが体温を測ってくれたり、ロボットが電話に応対したり。私たちの生活の中に...",
+          "link": "https://www.gizmodo.jp/2021/09/robots-and-employment-evidence-from-japan-1978-2017.html",
+          "publishedOn": "2021-09-23T15:00:45.000Z",
+          "wordCount": 85,
+          "title": "日本の産業ロボットは人間から仕事を奪っていなかった：研究結果 | ギズモード・ジャパン"
+        },
+        {
+          "id": "http://www.macotakara.jp/blog/category-54/entry-41808.html",
+          "author": null,
+          "description": "日本語でのMac,iPhone,iPad,iPodなどApple関連の情報サイト。MACお宝鑑定団のBlog。 Macに捉われず、様々な情報を掲載しています。 iOS 15から、日本で販売されたiPhoneを海外に持っていくとシャッター音が鳴らない設定が可能になったとツイートがされていました。 日本と韓国以外で販売されたiPhoneの場合、着信/消音ス...",
+          "link": "http://www.macotakara.jp/blog/category-54/entry-41808.html",
+          "publishedOn": "2021-09-23T13:54:20.000Z",
+          "wordCount": 329,
+          "title": "iOS 15：日本で販売されたiPhoneを海外に持っていくとシャッター音が鳴らない設定が可能に | iOS | Macお宝鑑定団 blog（羅針盤）"
+        },
+        {
+          "id": "https://togetter.com/li/1778557?page=3",
+          "author": null,
+          "description": "きさらぎさん @zer0_ykisaragi プログラミングに興味を持つことは良い事だけど、自分自身の後悔を書くと、 コンピュータサイエンス ネットワーク セキュリティ Linux SQL/DB GitHub を先にやっておくべきだった。 入社してからここが分からないと結構病むレベル 2021-09-22 06:39:02",
+          "link": "https://togetter.com/li/1778557?page=3",
+          "publishedOn": "2021-09-23T11:42:22.000Z",
+          "wordCount": 1106,
+          "title": "「2年目になって泣きながら勉強してる」プログラミングに興味を持つのはいいが、これらの知識を先に入れておかないと入社したときに結構病む - Togetter"
+        },
+        {
+          "id": "https://forbesjapan.com/articles/detail/43439",
+          "author": null,
+          "description": "ブラウザベースのデザイン支援ツールを開発するオーストラリアのスタートアップ「Canva（キャンバ）」は9月14日、新たに2億ドルを調達し、評価額が400億ドル（約4.4兆円）に到達したことをアナウンスした。これにより、同社は世界で最も価値の高いスタートアップの1社となった。 今回のラウンドは、ティー・ロウ・プライ...",
+          "link": "https://forbesjapan.com/articles/detail/43439",
+          "publishedOn": "2021-09-23T11:33:14.000Z",
+          "wordCount": 171,
+          "title": "評価額4兆円突破「Canva」の34歳CEO、資産のほぼ全てを寄付へ | Forbes JAPAN（フォーブス ジャパン）"
+        },
+        {
+          "id": "https://ledge.ai/userlocal-testdata/",
+          "author": null,
+          "description": "株式会社ユーザーローカルは、開発者向けにシステム試験用の疑似個人情報データをワンクリックで自動生成できる「個人情報テストデータジェネレーター」を無償で提供開始した。本ジェネレーターは大量のダミーデータをすぐに生成し、システム開発における品質検査やセキュリティチェックに利用できる。 システム開発時に...",
+          "link": "https://ledge.ai/userlocal-testdata/",
+          "publishedOn": "2021-09-23T11:31:00.000Z",
+          "wordCount": 138,
+          "title": "ダミーの個人情報を自動生成するジェネレーター無償提供、最大1万人分を生成 | Ledge.ai"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-403688/",
+          "author": null,
+          "description": "10月5日にリリースが予定されているWindows 11は、システム要件が厳しく、かなり新しいパソコンでないとその要件を満たすことができません。 しかしながら、システム要件を満たさない古いパソコンでもアップデートができる可能性があります。ただし、「権利放棄」への同意が必要かもしれません。 Windows 11のベータ版で...",
+          "link": "https://iphone-mania.jp/news-403688/",
+          "publishedOn": "2021-09-23T10:24:38.000Z",
+          "wordCount": 232,
+          "title": "Windows 11、古いパソコンでアップデート可能も権利放棄に同意が必要？ - iPhone Mania"
+        },
+        {
+          "id": "https://blog.dr1009.com/entry/2021/09/23/123000",
+          "author": null,
+          "description": "デザインシステムという単語が、曖昧に、広い意味で使われているように感じるこの頃。 デザインシステムについて見聞きすることが増えてきました。 かくいう自分も、デザインシステムに関してブログを書いたり、参考にしたりしています。 モバイルアプリ業界に、デザインシステム導入や検討の流れが来ているようです。 ...",
+          "link": "https://blog.dr1009.com/entry/2021/09/23/123000",
+          "publishedOn": "2021-09-23T09:58:12.000Z",
+          "wordCount": 392,
+          "title": "\"デザインシステム\"の過度な一般化とその対応について - Continuity is The Father of Success"
+        },
+        {
+          "id": "https://japanese.engadget.com/tim-cook-crackdown-leakers-leaked-081120792.html",
+          "author": null,
+          "description": "アップルの新製品はその注目度の高さもあってか、正式発表前にリーク（情報漏えい）されることが恒例となっています。 先日発表されたiPhone 13シリーズに関してもProモデルに120Hz画面が採用されることや、動画撮影に背景ぼかし機能が付く（シネマティックモード）ことまでも、1ヶ月以上前から丸裸にされていました。 ...",
+          "link": "https://japanese.engadget.com/tim-cook-crackdown-leakers-leaked-081120792.html",
+          "publishedOn": "2021-09-23T09:39:03.000Z",
+          "wordCount": 206,
+          "title": "アップルCEOの「情報リーク取締りに全力を尽くす」と語る社内メモ、リークされる - Engadget 日本版"
+        },
+        {
+          "id": "https://zenn.dev/mipsparc/articles/a818970a19ade6",
+          "author": null,
+          "description": "初Zennです。 はじめてZennを使ってみました。いつもはTwitterにいるmipsparcです。鉄道と関連技術が好きで、本職ではPHPを書いています。別途ブログもあります https://mipsparc.wordpress.com/ 今年6月、TABICA(7/26に改称し、新名称「aini」、運営会社 株式会社ガイアックス)というイベント募集仲介サービスに、個人...",
+          "link": "https://zenn.dev/mipsparc/articles/a818970a19ade6",
+          "publishedOn": "2021-09-23T09:27:58.000Z",
+          "wordCount": 112,
+          "title": "GraphQL採用サービスで任意カラムを取得できる脆弱性を見つけた話"
+        },
+        {
+          "id": "https://togetter.com/li/1778557",
+          "author": null,
+          "description": "きさらぎさん @zer0_ykisaragi プログラミングに興味を持つことは良い事だけど、自分自身の後悔を書くと、 コンピュータサイエンス ネットワーク セキュリティ Linux SQL/DB GitHub を先にやっておくべきだった。 入社してからここが分からないと結構病むレベル 2021-09-22 06:39:02",
+          "link": "https://togetter.com/li/1778557",
+          "publishedOn": "2021-09-23T09:11:04.000Z",
+          "wordCount": 1106,
+          "title": "「2年目になって泣きながら勉強してる」プログラミングに興味を持つのはいいが、これらの知識を先に入れておかないと入社したときに結構病む - Togetter"
+        },
+        {
+          "id": "https://blog-dry.com/entry/2021/09/23/162100",
+          "author": null,
+          "description": "さすがに時差の関係で全部は見られませんでしたが、出席していたのとアーカイブが残っていたので、いくつか気になったものを見てみました。ただ、家事などの合間に聞き流ししていた内容を思い出して書いているので、記憶が曖昧なところがあります。ご了承ください。 字幕はいくつか見てみましたが、自動生成でしょうか。...",
+          "link": "https://blog-dry.com/entry/2021/09/23/162100",
+          "publishedOn": "2021-09-23T08:14:23.000Z",
+          "wordCount": 378,
+          "title": "RustConfメモ - Don't Repeat Yourself"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-403896/",
+          "author": null,
+          "description": "iOS15の公開後2日間でのインストール率は約8.5％で、iOS14を下回っていることがMixpanelの公開したデータから分りました。iOS15では、iOS14のままセキュリティアップデートを受けるという選択肢も提示されています。 iOS15のインストール率を独自集計 日本時間9月21日未明に公開されたiOS15のインストール率を、ソフトウ...",
+          "link": "https://iphone-mania.jp/news-403896/",
+          "publishedOn": "2021-09-23T06:25:52.000Z",
+          "wordCount": 225,
+          "title": "iOS15公開2日後のインストール率は8.5％、iOS14を下回る - iPhone Mania"
+        },
+        {
+          "id": "https://www.dtmstation.com/archives/53125.html",
+          "author": null,
+          "description": "Home ACID・MusicMaker AI自動作曲もできる初心者向けDAW、Music Maker 2022 Premiumが発売。機能もテンコ盛で今だけ66%オフの4,980円 2021/09/23 AI自動作曲もできる初心者向けDAW、Music Maker 2022 Premiumが発売。機能もテンコ盛で今だけ66%オフの4,980円 初心者向けのDAWとしてこれまで何度となく取り上げてきた独M...",
+          "link": "https://www.dtmstation.com/archives/53125.html",
+          "publishedOn": "2021-09-23T05:41:59.000Z",
+          "wordCount": 621,
+          "title": "AI自動作曲もできる初心者向けDAW、Music Maker 2022 Premiumが発売。機能もテンコ盛"
+        },
+        {
+          "id": "https://developers.gmo.jp/10730/",
+          "author": null,
+          "description": "iOS15からPrivate Relayという面白い機能が提供されます。 そこで、Private Relayを実際に使ってみた！を書いていきたいと思います。 Private Relayとは iOS15からiCloudで提供される機能にPrivate Relayがあります。Appleが提供するProxyを通してWebサイトにアクセスするもので、接続元IPがProxyによって隠蔽されること...",
+          "link": "https://developers.gmo.jp/10730/",
+          "publishedOn": "2021-09-23T05:17:16.000Z",
+          "wordCount": 588,
+          "title": "Private Relayを実際に使ってみた / 開発者向けブログ・イベント | GMO Developers"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/23/news037.html",
+          "author": null,
+          "description": "iOS版「フォートナイト」は最悪あと5年はApp Storeに再登場しない可能性がある。EpicのCEOがAppleからの書簡を添えてそうツイートした。 「Fortnite（フォートナイト）」などのゲームで知られる米Epic Gamesのティム・スウィーニーCEOは9月22日（現地時間）、「Appleは嘘をついた」とツイートした。米Appleから、現在の...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/23/news037.html",
+          "publishedOn": "2021-09-23T05:06:53.000Z",
+          "wordCount": 162,
+          "title": "iOS版「フォートナイト」、訴訟終了まで復活させないとAppleがEpicに通告 - ITmedia NEWS"
+        },
+        {
+          "id": "https://zenn.dev/ushironoko/scraps/867375d4879706",
+          "author": null,
+          "description": "Vueに対する熱いメッセージを頂いたので感想を述べてみる（ここが解決されればVueを率先して使ってくれるという意味と受け取った） コンポーネントのローカルスコープでコンポーネントを定義しようとするとJSXが必要 わかる 主にTailwindCSSのようなユーティリティファーストとの相性の悪さ スタイリングはテンプレート...",
+          "link": "https://zenn.dev/ushironoko/scraps/867375d4879706",
+          "publishedOn": "2021-09-23T04:39:43.000Z",
+          "wordCount": 140,
+          "title": "2021年現在Vueを選択すべきでないと思う理由 感想"
+        },
+        {
+          "id": "https://rnakamaru.medium.com/cloud-deploy-397c8a7c68c0",
+          "author": null,
+          "description": "お待たせいたしました、お待たせし過ぎたかもしれません。みんなー！やっと Google Cloud でデプロイのためのマネージド サービスがでてきたよー！！！ Cloud Deploy という謎サービスがリリースされました。現在 Preview ながら、実際にみなさんの環境で体験いただけます。以下はその解説ですが、そんなことより早く使...",
+          "link": "https://rnakamaru.medium.com/cloud-deploy-397c8a7c68c0",
+          "publishedOn": "2021-09-22T22:35:39.000Z",
+          "wordCount": 443,
+          "title": "デプロイに全集中！新サービス Cloud Deploy. お待たせいたしました、お待たせし過ぎたかもしれません。みんなー！やっと… | by Ryo Nakamaru | Sep, 2021 | Medium"
+        },
+        {
           "id": "https://zenn.dev/coder_ka/articles/275b551d662e35",
           "author": null,
           "description": "使ってわかる、Vueへの恨み、つらつらと（随時更新） コンポーネントのローカルスコープでコンポーネントを定義しようとするとJSXが必要 JSXが嫌でReactを使わないならSvelteがあり、SvelteはゼロオーバーヘッドでVueより速い React+JSXと違って、マークアップをJavaScriptのデータ構造として扱えない上、TypeScriptとの...",
@@ -124,6 +313,33 @@
           "publishedOn": "2021-09-22T22:11:22.000Z",
           "wordCount": 22,
           "title": "2021年現在Vueを選択すべきでないと思う理由"
+        },
+        {
+          "id": "https://togetter.com/li/1778219",
+          "author": null,
+          "description": "せっかくいっぱい教えてもらったのでまとめてみました。 紹介されてる小物をキーホルダーに着けておくと知ってる人から「お！」って思ってもらえるかも",
+          "link": "https://togetter.com/li/1778219",
+          "publishedOn": "2021-09-22T19:48:45.000Z",
+          "wordCount": 1200,
+          "title": "特定の業界でしか使わないだろう小物、道具、ガジェットを教えてもらった（9/23追記） - Togetter"
+        },
+        {
+          "id": "https://pc.watch.impress.co.jp/docs/news/1353003.html",
+          "author": null,
+          "description": "Microsoftは9月22日(現地時間、日本時間9月23日)にオンラインで記者会見を行ない、同社がWindows 11のリリースにあわせて提供を開始するSurfaceブランドのPCや周辺機器などを発表した。この中で同社は、Surface Go 2の後継製品となる「Surface Go 3」、および「Surface Pro X」のWindows 11プリインストール版を発表した。",
+          "link": "https://pc.watch.impress.co.jp/docs/news/1353003.html",
+          "publishedOn": "2021-09-22T16:34:09.000Z",
+          "wordCount": 309,
+          "title": "Microsoft、CPU強化の「Surface Go 3」。Wi-Fiモデル「Surface Pro X」の追加も - PC Watch"
+        },
+        {
+          "id": "https://blog.jxck.io/entries/2021-09-22/private-relay-for-ip-blindness.html",
+          "author": null,
+          "description": "Intro iOS15 がリリースされたため、 Private Relay のベータを試すことができた。 このようなサービスが提供されるようになった背景を踏まえ、挙動を簡単に確認しつつ、解説する。 背景 そもそも、なぜこのようなサービスが出てきたのかを理解するには、現在のインターネットが抱える問題の背景を理解する必要がある。 ...",
+          "link": "https://blog.jxck.io/entries/2021-09-22/private-relay-for-ip-blindness.html",
+          "publishedOn": "2021-09-22T16:16:36.000Z",
+          "wordCount": 751,
+          "title": "Private Relay と IP Blindness による Fingerprint 対策 | blog.jxck.io"
         },
         {
           "id": "https://pc.watch.impress.co.jp/docs/news/1353008.html",
@@ -160,6 +376,24 @@
           "publishedOn": "2021-09-22T16:06:42.000Z",
           "wordCount": 290,
           "title": "Microsoftから高性能な「Surface Laptop Studio」。RTX 3050 Tiを搭載してフリップ - PC Watch"
+        },
+        {
+          "id": "https://iphone-mania.jp/news-403462/",
+          "author": null,
+          "description": "初代iPhoneから、最新のiPhone13シリーズまでの全モデルの販売価格をまとめたグラフを、アナリストが公開しました。カメラ性能が向上したiPhone13は、iPhoneの歴史上、最も重要なモデルになるかもしれない、とも指摘しています。 1TBモデル、iPhone史上最高価格に 初代iPhoneからiPhone13シリーズまでの全モデルの販売価...",
+          "link": "https://iphone-mania.jp/news-403462/",
+          "publishedOn": "2021-09-22T15:23:29.000Z",
+          "wordCount": 244,
+          "title": "歴代iPhoneの価格をまとめたグラフ〜iPhone13シリーズは最重要モデル？ - iPhone Mania"
+        },
+        {
+          "id": "https://note.com/moritoru/n/nabe9f7f20068",
+          "author": null,
+          "description": "iOS15のマップが正式公開された。「地図の歴史に残る力作」と言える。 イベントで何度も訪れたサンフランシスコ市街、Apple社員時代に通い慣れたサニーベルやクパティーノ、Where2.0参加のため何度か行ったことがあるサンノゼダウンタウン、あちこちを見ていて飽きない。やっぱり、地図は見ていて楽しいものが良い。 単...",
+          "link": "https://note.com/moritoru/n/nabe9f7f20068",
+          "publishedOn": "2021-09-22T14:37:38.000Z",
+          "wordCount": 52,
+          "title": "マップアプリの歴史に残る力作だ｜moritoru｜note"
         },
         {
           "id": "https://musit.net/columns/14282/",
@@ -297,6 +531,15 @@
           "title": "「Ubuntu 14.04」と「Ubuntu 16.04」のライフサイクルが計10年へ延長 - 窓の杜"
         },
         {
+          "id": "https://jigoku1119.hatenablog.jp/entry/2021/06/28/163810",
+          "author": null,
+          "description": "概要 初期設定で有効化するサービス 更新履歴 ID管理 / 権限管理 (有料)CloudTrailの有効化 ルートアカウントのMFA設定 パスワードポリシーの設定 IAM User / IAM Groupの作成 IAM グループの作成 IAM ユーザの作成 MFA の有効化 （有料）GuardDutyの有効化 全リージョンで有効化する場合 (有料)AWS Config の有効化 （...",
+          "link": "https://jigoku1119.hatenablog.jp/entry/2021/06/28/163810",
+          "publishedOn": "2021-09-22T07:20:15.000Z",
+          "wordCount": 943,
+          "title": "AWS アカウントの初期設定 - それ積んどく？"
+        },
+        {
           "id": "https://www.cyberagent.co.jp/techinfo/info/detail/id=26615",
           "author": null,
           "description": "サイバーエージェントでは、スピード感を持って品質の高い実装を行うために、少人数でアプリ開発を行うことを念頭に置き、2017年頃からクロスプラットフォームを検討しはじめました。今では、Flutter や Kotlin Multiplatform のようなクロスプラットフォームフレームワークを実際にプロダクトに導入するケースも出てき...",
@@ -313,6 +556,15 @@
           "publishedOn": "2021-09-22T03:45:24.000Z",
           "wordCount": 482,
           "title": "「Apple Wallet」にワクチン接種証明を保存可能に--「iOS 15」今後のアップデートで - CNET Japan"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2109/22/news094.html",
+          "author": null,
+          "description": "GMOペパボは9月21日、同社の新人エンジニア研修資料を無償公開した。4年前から毎年公開しているが、今年は機械学習教材を一新。座学と体験学習を組み合わせた14時間分の資料で、機械学習の基礎から応用まで学べる。 公開したのは、機械学習の他、コンテナ技術やクラウドサービス、Webセキュリティ、フロントエンド、SPA...",
+          "link": "https://www.itmedia.co.jp/news/articles/2109/22/news094.html",
+          "publishedOn": "2021-09-22T03:04:51.000Z",
+          "wordCount": 147,
+          "title": "14時間分の機械学習教材も　GMOペパボ、エンジニアの研修資料を公開 - ITmedia NEWS"
         },
         {
           "id": "https://dev.classmethod.jp/articles/go-sample-rest-api/",
@@ -7216,231 +7468,6 @@
           "publishedOn": "2021-08-25T12:23:54.000Z",
           "wordCount": 152,
           "title": "rinna、日本語に特化した「GPT-2」「BERT」事前学習モデルを無償公開 75ギガバイトのデータを最大45日間で学習 | Ledge.ai"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/08/25/apple-already-scan-icloud-mail-csam/",
-          "author": null,
-          "description": "Apple アップルは児童虐待（いわゆる児童ポルノ）対策のためにiCloudにアップロードされる画像をスキャンする方針を発表し、様々な方面から批判を集めています。 そんななか、アップルがCSAM（子供を巻き込んだ性的に露骨な活動を描くコンテンツ）を検出するため、2019年からiCloudメールの添付ファイルをスキャンしてい...",
-          "link": "https://jp.techcrunch.com/2021/08/25/apple-already-scan-icloud-mail-csam/",
-          "publishedOn": "2021-08-25T11:57:53.000Z",
-          "wordCount": 322,
-          "title": "アップルが2019年からiCloudメールに児童虐待画像が添付されていないかスキャンしていると認める | TechCrunch Japan"
-        },
-        {
-          "id": "https://techblog.yahoo.co.jp/entry/2021082530175149/",
-          "author": null,
-          "description": "こんにちは、フロントエンドエンジニアの近藤です。Yahoo! JAPANのスマートフォンのウェブトップページのフロントエンド開発業務と、社内で利用されているデザインシステムの開発に携わっています。 近年、デジタルプロダクトを持つ多くの企業で、デザインシステムが活用されています。デザインシステムには、ビジュアル...",
-          "link": "https://techblog.yahoo.co.jp/entry/2021082530175149/",
-          "publishedOn": "2021-08-25T11:36:08.000Z",
-          "wordCount": 380,
-          "title": "フロントエンドから取り組むデザインシステムの改善 #UI - Yahoo! JAPAN Tech Blog"
-        },
-        {
-          "id": "https://cloud.watch.impress.co.jp/docs/news/1346058.html",
-          "author": null,
-          "description": "アルプス システム インテグレーション株式会社（以下、ALSI）は25日、Amazon Web Services（AWS）環境を利用したクラウド型ファイルサーバーソリューション「セキュアクラウドファイルサーバー」を提供開始すると発表した。移行・運用の支援もあわせて提供するという。",
-          "link": "https://cloud.watch.impress.co.jp/docs/news/1346058.html",
-          "publishedOn": "2021-08-25T09:49:22.000Z",
-          "wordCount": 95,
-          "title": "ファイルサーバーをAWSへ移行して管理負荷を軽減、ALSIが「セキュアクラウドファイルサーバー」提供 - クラウド Watch"
-        },
-        {
-          "id": "https://www.unrealengine.com/ja/blog/teach-the-fundamentals-of-unreal-engine-and-virtual-production-download-your-free-syllabus",
-          "author": null,
-          "description": "すでに Unreal Engine の授業を行っている方も、これから教える方も、Epic Games による新しい 16 週間のシラバス（Unreal の基礎、バーチャル プロダクションの概要）を使用して、リアルタイム テクノロジーを迅速に授業に組み込むことができます。 各ガイドは、大学教員が執筆し、十分な試行・試験を重ねたうえで作成...",
-          "link": "https://www.unrealengine.com/ja/blog/teach-the-fundamentals-of-unreal-engine-and-virtual-production-download-your-free-syllabus",
-          "publishedOn": "2021-08-25T09:23:48.000Z",
-          "wordCount": 304,
-          "title": "無料のシラバス（日本語版）をダウンロードして、Unreal Engine およびバーチャル プロダクションの基礎について授業しましょう - Unreal Engine"
-        },
-        {
-          "id": "https://togetter.com/li/1764806",
-          "author": null,
-          "description": "岸田奈美｜「もうあかんわ日記」 @namikishida これ！父ちゃんが！初めて買ってくれた！iMac！ボンダイブルーの！iMac！ 明日の夜からセッティングします〜！ネットに繋げないとかそんなもん関係ねえ！文字さえ打てりゃいい！ note.kishidanami.com/n/na8b5c19481d1 2021-08-24 11:49:01 リンク 岸田 奈美 先見の明を持...",
-          "link": "https://togetter.com/li/1764806",
-          "publishedOn": "2021-08-25T07:41:19.000Z",
-          "wordCount": 638,
-          "title": "リサイクルショップの閉店セールで遭遇したものが超絶懐かしかった！「衝動買いしても仕方がない」「我が家ではまだ現役」 - Togetter"
-        },
-        {
-          "id": "https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang",
-          "author": null,
-          "description": "Transcript オープン化が進むC++の 現状と展望 ⾼橋 晶 (Akira Takahashi) cpp_akira@Twitter faithandbrave@GitHub 2021/08/25 (⽔) OSS X Users Meeting #31 ⾃⼰紹介 • ⾼橋 晶 (Akira Takahashi) • C++⽇本語リファレンスサイトcpprefjp のコアメンバ • C++の勉強会C++ MIXの運営 • 著書 • 『C++テンプレートテクニ...",
-          "link": "https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang",
-          "publishedOn": "2021-08-25T07:33:13.000Z",
-          "wordCount": 563,
-          "title": "オープン化が進むC++の現状と展望 - Speaker Deck"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/smartjapan/articles/2108/25/news056.html",
-          "author": null,
-          "description": "大成建設が、CO2を活用する熱水資源に頼らない新たな地熱発電技術の開発に着手すると発表。熱水のかわりにCO2を圧入して熱回収を行う新技術で、地熱発電の普及課題を解決できる可能性があるという。 大成建設は2021年8月23日、地熱技術開発と共同で、CO2を活用する熱水資源に頼らない新たな地熱発電技術の開発に着手する...",
-          "link": "https://www.itmedia.co.jp/smartjapan/articles/2108/25/news056.html",
-          "publishedOn": "2021-08-25T05:21:02.000Z",
-          "wordCount": 158,
-          "title": "熱水を使わない革新的な「CO2地熱発電」、大成建設らが技術開発へ：自然エネルギー - スマートジャパン"
-        },
-        {
-          "id": "https://www.slideshare.net/SEGADevTech/cedec2021-250032292",
-          "author": null,
-          "description": "We use your LinkedIn profile and activity data to personalize ads and to show you more relevant ads. You can change your ad preferences anytime.",
-          "link": "https://www.slideshare.net/SEGADevTech/cedec2021-250032292",
-          "publishedOn": "2021-08-25T05:19:50.000Z",
-          "wordCount": 4185,
-          "title": "CEDEC2021 ダウンロード時間を大幅減！～大量のアセットをさばく高速な実装と運用事例の共有～"
-        },
-        {
-          "id": "https://ledge.ai/authorinterview-book-bert-int/",
-          "author": null,
-          "description": "6月に販売開始した、ストックマーク株式会社の機械学習エンジニアによる共著『BERTによる自然言語処理入門：Transformersを使った実践プログラミング』（オーム社）。売れ行きも好調で、発売日の前から重版が決定していた。 本書はデータセットの処理から、BERTのファインチューニング（BERTを特定の言語タスクに特化さ...",
-          "link": "https://ledge.ai/authorinterview-book-bert-int/",
-          "publishedOn": "2021-08-25T04:56:48.000Z",
-          "wordCount": 156,
-          "title": "日本語でBERTが動くイメージを知ってほしい。『BERTによる自然言語処理入門』の著者に聞く | Ledge.ai"
-        },
-        {
-          "id": "https://kittygiraudel.com/2021/08/24/from-cra-to-next/",
-          "author": null,
-          "description": "I recently moved a significant codebase from Create-React-App (CRA for short) to Next and thought I would share my experience, because believe me or not, it was quite a journey (and not necessarily a pleasant one). There are plenty reasons why you might want to move to Next from a CRA app. It pro...",
-          "link": "https://kittygiraudel.com/2021/08/24/from-cra-to-next/",
-          "publishedOn": "2021-08-25T02:43:19.000Z",
-          "wordCount": 1521,
-          "title": "From Create-React-App to Next | Kitty Giraudel"
-        },
-        {
-          "id": "https://www.dtmstation.com/archives/45880.html",
-          "author": null,
-          "description": "Home VOCALOID・歌声合成・音声合成 なぜ中国の天才青年は日本で起業し、AI歌声合成ソフトをヒットさせたのか？Synthesizer Vの開発者、Kanru Huaさんインタビュー 2021/08/25 なぜ中国の天才青年は日本で起業し、AI歌声合成ソフトをヒットさせたのか？Synthesizer Vの開発者、Kanru Huaさんインタビュー 2018年のクリス...",
-          "link": "https://www.dtmstation.com/archives/45880.html",
-          "publishedOn": "2021-08-25T01:37:05.000Z",
-          "wordCount": 630,
-          "title": "なぜ中国の天才青年は日本で起業し、AI歌声合成ソフトをヒットさせたのか？Synthesizer Vの開発者インタビュー"
-        },
-        {
-          "id": "https://twitter.com/tanakh/status/1428889081312792576",
-          "author": null,
-          "description": "https://t.co/CgmiJVhVus Rustはメモリ安全性をコンパイルタイムに保障するプログラミング言語だが、ローレベルハードウェアにアクセスしたいなどのシステムソフトウェアの要求に応じるために、そういうコンパイラの… https://t.co/IAQ36vteVI",
-          "link": "https://twitter.com/tanakh/status/1428889081312792576",
-          "publishedOn": "2021-08-25T01:33:06.000Z",
-          "wordCount": 196,
-          "title": "Hideyuki Tanaka on Twitter: \"https://t.co/CgmiJVhVus Rustはメモリ安全性をコンパイルタイムに保障するプログラミング言語だが、ローレベルハードウェアにアクセスしたいなどのシステムソフトウェアの要求に応じるために、そういうコンパイラの… https://t.co/IAQ36vteVI\""
-        },
-        {
-          "id": "https://www.gizmodo.jp/2021/08/about-amazon-gift-card.html",
-          "author": null,
-          "description": "Amazon｢転売サイトから買ったAmazonギフト券は使っちゃダメ、垢BANするよ｣2021.08.25 10:0010,772 ヤマダユウス型 Image: GaleanoStock/Shutterstock ちゃんとしたとこで、買おうね。 ゲーム機や限定スニーカーなどの人気商品が転売されるなか、Amazonギフト券も転売されていることがあります。この転売されたAmazonギフ...",
-          "link": "https://www.gizmodo.jp/2021/08/about-amazon-gift-card.html",
-          "publishedOn": "2021-08-25T01:03:26.000Z",
-          "wordCount": 75,
-          "title": "Amazon｢転売サイトから買ったAmazonギフト券は使っちゃダメ、垢BANするよ｣ | ギズモード・ジャパン"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/introduction-git-io-github-url-shorten-service/",
-          "author": null,
-          "description": "10年前から存在しますが、たまたま見かけて「５へぇ」くらいは出たので敢えて紹介してみたいと思います。 git.io GitHub 公式の URL 短縮サービスです。 https://git.io/ 特徴として、GitHub 専用の URL 短縮サービスです。 GitHub 公式ブログで2011年11月に取り上げられていたので、10年前には存在していたことが確認で...",
-          "link": "https://dev.classmethod.jp/articles/introduction-git-io-github-url-shorten-service/",
-          "publishedOn": "2021-08-25T00:46:09.000Z",
-          "wordCount": 253,
-          "title": "GitHub 専用 URL 短縮サービス「git.io」 | DevelopersIO"
-        },
-        {
-          "id": "https://qiita.com/k__watanabe/items/0dc5b31ea960db118926",
-          "author": null,
-          "description": "Help us understand the problem. What is going on with this article?",
-          "link": "https://qiita.com/k__watanabe/items/0dc5b31ea960db118926",
-          "publishedOn": "2021-08-25T00:15:52.000Z",
-          "wordCount": 593,
-          "title": "フロントエンドの慣習のまとめ - Qiita"
-        },
-        {
-          "id": "https://internet.watch.impress.co.jp/docs/column/work_from/1345549.html",
-          "author": null,
-          "description": "2020年春から1年半以上も続くコロナ禍の影響で、ワークスタイルとして着実に普及が進む“リモートワーク（テレワーク）”。筆者のようなフリーランスは当然のことながら、これまでは対面での打ち合わせが中心だったような大企業でも、Web会議サービスを使った打ち合わせが当然のように使われ始めている。",
-          "link": "https://internet.watch.impress.co.jp/docs/column/work_from/1345549.html",
-          "publishedOn": "2021-08-24T23:24:28.000Z",
-          "wordCount": 179,
-          "title": "テレワークでは出会いが足りてない！ バーチャルオフィス「oVice」に毎日3万人が“出勤”している理由 ～ oVice Summitで考える“テレワークとオフラインのバランス”【甲斐祐樹の Work From ____ ：第8回】 - INTERNET Watch"
-        },
-        {
-          "id": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345999.html",
-          "author": null,
-          "description": "“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
-          "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345999.html",
-          "publishedOn": "2021-08-24T22:09:51.000Z",
-          "wordCount": 157,
-          "title": "「Google ドライブ」アプリのアカウント移行を忘れずに！　9月末までに済ませよう - やじうまの杜 - 窓の杜"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0c2211aa4ae269624564458ba7d98402c8d8f718",
-          "author": null,
-          "description": "きのう発生したセブン銀行のシステム障害による影響は、１０００口座余りで１億円を超えることがわかりました。 セブン銀行によりますと、システム障害はきのうの午前０時ごろに勘定系システムのサーバーが一時的に高い負荷状態になったため銀行口座の取引ができなくなる障害が発生したということです。 顧客から給与振...",
-          "link": "https://news.yahoo.co.jp/articles/0c2211aa4ae269624564458ba7d98402c8d8f718",
-          "publishedOn": "2021-08-24T19:44:22.000Z",
-          "wordCount": 66,
-          "title": "セブン銀行 システム障害の影響は１０００口座で１億円超（TBS系（JNN）） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/",
-          "author": null,
-          "description": "GitHub CLI 2.0 supports extensions, allowing anyone to make custom commands that build on the core functionality of GitHub CLI. Our goal with GitHub CLI 1.0 was to build amazing tooling that allows you to more seamlessly complete the most common developer workflows end-to-end in the terminal. We ...",
-          "link": "https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/",
-          "publishedOn": "2021-08-24T16:24:41.000Z",
-          "wordCount": 658,
-          "title": "GitHub CLI 2.0 includes extensions! | The GitHub Blog"
-        },
-        {
-          "id": "https://engryouri.net/other/life/2335",
-          "author": null,
-          "description": "洗濯機の洗浄には酸素系と塩素系の2種類の洗浄剤が販売されています。それぞれの特徴を理解して組み合わせることで最高のパフォーマンスを発揮します。 はじめに 洗濯機の洗浄には、カビキラーのような次亜塩素酸を使うタイプや酸素系の粉を溶いて使用するタイプの2種類があります。それぞれ効果のキモとなるのが漂白剤...",
-          "link": "https://engryouri.net/other/life/2335",
-          "publishedOn": "2021-08-24T16:05:11.000Z",
-          "wordCount": 200,
-          "title": "過炭酸と次亜塩素酸を使った洗濯機の洗浄 | エンジニアのメソッド"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/2021nftaiml.html",
-          "author": null,
-          "description": "ガートナー「先進テクノロジのハイプ・サイクル：2021年」を発表。NFTやAIによるソフトウェア開発支援などは過度な期待、黎明期に量子MLなど 米調査会社のガートナーは、「先進テクノロジのハイプ・サイクル：2021年」を発表しました。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説...",
-          "link": "https://www.publickey1.jp/blog/21/2021nftaiml.html",
-          "publishedOn": "2021-08-24T14:40:09.000Z",
-          "wordCount": 139,
-          "title": "ガートナー「先進テクノロジのハイプ・サイクル：2021年」を発表。NFTやAIによるソフトウェア開発支援などは過度な期待、黎明期に量子MLなど － Publickey"
-        },
-        {
-          "id": "https://medium.com/nttlabs/quic-load-balancer-design-82c5fbae8305",
-          "author": null,
-          "description": "図1: QUICコネクションを振り分けるロードバランサはじめに本記事では、バックエンドのWebサーバへリクエストを振り分ける装置の意味でのロードバランサ(図1)について、QUIC対応の議論状況を紹介します。方式編と実装編にわけて二編を予定しており、本稿は方式についての解説です。 IETFでは、F5 Networksとマイクロソフ...",
-          "link": "https://medium.com/nttlabs/quic-load-balancer-design-82c5fbae8305",
-          "publishedOn": "2021-08-24T14:36:32.000Z",
-          "wordCount": 312,
-          "title": "インフラエンジニアなら気になるQUICのロードバランサ (方式編) | by Jun-ya Kato | nttlabs | Aug, 2021 | Medium"
-        },
-        {
-          "id": "https://www.creativebloq.com/news/Paralympic_posters_toyko",
-          "author": null,
-          "description": "As another fantastically jam-packed Olympic games come to an end, the 2020 Paralympics are just getting started. This year's games come with an incredible set of posters that capture the strength and movement of the para-athletes. Tokyo-based studio, Goo Choki Par, designed these captivating prin...",
-          "link": "https://www.creativebloq.com/news/Paralympic_posters_toyko",
-          "publishedOn": "2021-08-24T14:00:11.000Z",
-          "wordCount": 980,
-          "title": "The Tokyo 2020 Paralympic Games posters are a thing of beauty | Creative Bloq"
-        },
-        {
-          "id": "https://internet.watch.impress.co.jp/docs/news/1345962.html",
-          "author": null,
-          "description": "マップボックス・ジャパン合同会社（Mapbox Japan）は8月24日、地図サービスを手掛ける国内企業7社とともに、広告配信で連携する「マップアドネットワーク」を立ち上げたと発表した。同ネットワークへ配信する「Mapbox広告プラットフォーム」を独自開発するとともに、地図のネイティブ広告を提供する「Mapbox広告」のベータサービスを提供開始した。参加企業はヤフー株式会社、株式会社ゼンリン、ジョルダン株式会社、株式会社ナビタイムジャパン、株式会社駅探、インクリメントP株式会社、株式会社マップル。",
-          "link": "https://internet.watch.impress.co.jp/docs/news/1345962.html",
-          "publishedOn": "2021-08-24T12:50:02.000Z",
-          "wordCount": 123,
-          "title": "ヤフー、ゼンリンら地図サービス7社が大集結した「地図広告ネットワーク」が始動、Mapbox Japanが立ち上げ - INTERNET Watch"
-        },
-        {
-          "id": "https://deep-learning-drizzle.github.io/index.html",
-          "author": null,
-          "description": "Deep Learning (Deep Neural Networks) S.No Course Name University/Instructor(s) Course WebPage Lecture Videos Year",
-          "link": "https://deep-learning-drizzle.github.io/index.html",
-          "publishedOn": "2021-08-24T12:17:08.000Z",
-          "wordCount": 5191,
-          "title": "Deep Learning Drizzle"
         }
       ]
     },
@@ -7489,23 +7516,40 @@
       "title": "Angular University",
       "feedUrl": "https://blog.angular-university.io/rss",
       "siteUrl": "https://blog.angular-university.io/",
-      "articles": [
-        {
-          "id": "612501c779d996003b7c6e1f",
-          "author": "Angular University",
-          "description": "The Angular University is currently hiring a new remote full stack developer (full-time) for a brand new project in the online course education space.\nThe project is the platform onlinecoursehost.com. \nAs we eat our own dog food, the developer needs to be very familiar with Angular and NgRx, 😉 and",
-          "link": "https://blog.angular-university.io/the-angular-university-is-hiring-an-angular-developer/",
-          "publishedOn": "2021-08-24T14:51:26.000Z",
-          "wordCount": 464,
-          "title": "The Angular University is Hiring an Angular Developer"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=352279",
+          "author": "Chris Coyier",
+          "description": "Whatever Google wants it to be. I always thought it was exactly what your <title> element was. Perhaps in lieu of that, what the first <h1> on the page is. But recently I noticed some pages on this site that …\nThe post What is Your Page Title on a Google Search Engine Results Page? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-is-your-page-title-on-a-google-search-engine-results-page/",
+          "publishedOn": "2021-09-23T18:11:15.000Z",
+          "wordCount": 902,
+          "title": "What is Your Page Title on a Google Search Engine Results Page?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352381",
+          "author": "Jamie Barton",
+          "description": "If you’ve recently started working with GraphQL, or reviewed its pros and cons, you’ve no doubt heard things like “GraphQL doesn’t support caching” or “GraphQL doesn’t care about caching.” And for most, that is a big deal.\nThe official …\nThe post Working With GraphQL Caching appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/working-with-graphql-caching/",
+          "publishedOn": "2021-09-23T14:32:01.000Z",
+          "wordCount": 1402,
+          "title": "Working With GraphQL Caching"
+        },
+        {
+          "id": "https://css-tricks.com/?p=352487",
+          "author": "Jacob Jackson",
+          "description": "(This is a sponsored post.)\nThere is a lot of buzz around apps running on the edge instead of on a centralized server in web development. Running your app on the edge allows your code to be closer to …\nThe post Learn How to Build True Edge Apps With Cloudflare Workers and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/learn-how-to-build-true-edge-apps-with-cloudflare-workers-and-fauna/",
+          "publishedOn": "2021-09-23T14:31:12.000Z",
+          "wordCount": 1633,
+          "title": "Learn How to Build True Edge Apps With Cloudflare Workers and Fauna"
+        },
         {
           "id": "https://css-tricks.com/?p=352210",
           "author": "Chris Coyier",
@@ -8027,33 +8071,6 @@
           "publishedOn": "2021-08-25T14:55:17.000Z",
           "wordCount": 2905,
           "title": "Stealing Game Animation Techniques to Engage Users"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350486",
-          "author": "Chris Coyier",
-          "description": "This is a bit of advice for developers on Macs I’ve heard quite a few times, and I’ll echo it: go into System Preferences > General > Show scroll bars and set to always. This isn’t about you, it’s …\nThe post Scrollbar Reflowing appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/scrollbar-reflowing/",
-          "publishedOn": "2021-08-24T19:13:30.000Z",
-          "wordCount": 694,
-          "title": "Scrollbar Reflowing"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350253",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nFree event hosted by Netlify coming up next week (Wednesday, August 25th): Architecting with Next.js. It’s just a little half-day thing. No brainer.\nJoin us for a special event where we’ll highlight business \n…\nThe post Architecting With Next.js appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.netlify.com/events/architecting-with-nextjs",
-          "publishedOn": "2021-08-24T19:12:23.000Z",
-          "wordCount": 441,
-          "title": "Architecting With Next.js"
-        },
-        {
-          "id": "https://css-tricks.com/?p=346597",
-          "author": "Charlie Gerard",
-          "description": "Solid is a reactive JavaScript library for creating user interfaces without a virtual DOM. It compiles templates down to real DOM nodes once and wraps updates in fine-grained reactions so that when state updates, only the related code runs.\nThis …\nThe post Introduction to the Solid JavaScript Library appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/introduction-to-the-solid-javascript-library/",
-          "publishedOn": "2021-08-24T14:30:50.000Z",
-          "wordCount": 1860,
-          "title": "Introduction to the Solid JavaScript Library"
         }
       ]
     },
@@ -8175,6 +8192,33 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/juliianikitina/new-webdatarocks-1-4-release-is-out-e0",
+          "author": "Juliia Nikitina",
+          "description": "Just a short notice about the free javascript data visualization library my team & I are working on. \nWe made a few new improvements in WebDataRocks Pivot Table release 1.4 that I want to share with the community. \nThis time, we added: \n☑️ An easy way to integrate pivot grid with Angular, Vue & React, just using npm. \nBefore starting, make sure that Node.js and npm are installed on your machine as well as the CLI of the corresponding framework\nThen just one command and you have the needed module installed:\n⚫ for Vue\nnpm install vue-webdatarocks\n\n⚫ for React\nnpm install react-webdatarocks\n\n⚫ for Angular\nnpm install ng-webdatarocks\n\nNow you have ready-to-use wrappers for the most popular frameworks to save time and effort on embedding them with our product. But still, our pivot tool can be integrated with any other framework, the available tutorials you can find in our documentation.\n☑️ New predefined pivot grid skins: beautify your report with stylish themes by choosing any of the 8 themes or create your own one with our new custom theme builder.\n\nThere were also a few minor changes we made that you can find in our release notes.\nI hope that you have already tried or used our free pivot grid component in your project. We made it for developers to save their time, so we hopefully achieve our goal and will value any feedback from the dev community!",
+          "link": "https://dev.to/juliianikitina/new-webdatarocks-1-4-release-is-out-e0",
+          "publishedOn": "2021-09-23T15:53:38.000Z",
+          "wordCount": 601,
+          "title": "New WebDataRocks 1.4 release is out!"
+        },
+        {
+          "id": "https://dev.to/jokim/unit-testing-with-jasmine-5am4",
+          "author": "kim-jos",
+          "description": "Why do we need test code?\n\n\nI recently created some test code for an Angular project. It was my first time learning how to test but I realized how important it was because of how much our team can be put at ease knowing that all important tests pass. We can be put at ease because we know our project will work according to how we want it even if we add new features to our project. This is my personal opinion but I think that if your project is not changing and will stay the same forever there is no need to add test code to your project. It is most useful when your project is constantly evolving or improving in some way.\nAngular provides Jasmine, a testing framework, out of the box which is why our team used it. But, I believe, the overarching concepts among all different testing frameworks …",
+          "link": "https://dev.to/jokim/unit-testing-with-jasmine-5am4",
+          "publishedOn": "2021-09-23T15:08:55.000Z",
+          "wordCount": 1587,
+          "title": "Unit testing with Jasmine"
+        },
+        {
+          "id": "https://dev.to/silverio27/manipulando-arquivos-no-azure-storage-fullstackplayground-3foi",
+          "author": "Lucas Silvério",
+          "description": "Oi pessoal!\nNesse vou mostrar como manipular arquivos do azure storage com c#, e ainda fornecer um exemplo de como a aplicar em um aplicativo angular.\nWindows Terminal\nNodeJs\nAngular - CLI\nAzure - CLI\ne também uma assinatura no Azure\nO move storage é um aplicativo angular com uma interface amigável para fazer as operações que serão demonstradas nesse artigo.\nCriar um container\nListar containers\nDeletar container\nListar arquivos em um container\nFazer upload de um ou mais arquivos\nFazer download de um arquivo\nDeletar um arquivo de um container\nMover arquivo de um container para outro\nFaça uma pré-visualização do projeto:\nFaça clone ou dê uma espiada no código do projeto:\n / \n        MoveStorage\n      \n    \nNavegue no terminal até a pasta raiz do projeto onde se encontra o Readme.md\nFaça logi…",
+          "link": "https://dev.to/silverio27/manipulando-arquivos-no-azure-storage-fullstackplayground-3foi",
+          "publishedOn": "2021-09-23T00:24:21.000Z",
+          "wordCount": 1429,
+          "title": "Manipulando arquivos no azure storage: FullStackPlayGround"
+        },
         {
           "id": "https://dev.to/timsar2/custom-ionic-animation-on-routing-4i21",
           "author": "timsar2",
@@ -9452,51 +9496,6 @@
           "publishedOn": "2021-08-25T12:49:32.000Z",
           "wordCount": 404,
           "title": "Build Projeto Angular"
-        },
-        {
-          "id": "https://dev.to/this-is-learning/building-incremental-views-with-xstate-parallel-states-400e",
-          "author": "Tim Deschryver",
-          "description": "Follow me on Twitter at @tim_deschryver | Subscribe to the Newsletter | Originally published on timdeschryver.dev.\nRead the TLDR version on timdeschryver.dev\nLet's give XState a spin to see how we can build incremental views with it to achieve a better and smoother experience for our users.\nIncremental views is a technique that is used when a view needs its data from multiple sources, and where the view directly renders the data coming from these sources as they resolve. Another term for an incremental view is a progressive view.\nTo keep this example simple, we're going to fetch 3 separate todos, and then render them in a single list.\nWe could build this in multiple ways, but I prefer to use parallel (or orthogonal) states.\nWithin a parallel state machine, there are multiple active state n…",
-          "link": "https://dev.to/this-is-learning/building-incremental-views-with-xstate-parallel-states-400e",
-          "publishedOn": "2021-08-25T11:11:21.000Z",
-          "wordCount": 2758,
-          "title": "Building incremental views with XState Parallel States"
-        },
-        {
-          "id": "https://dev.to/timdeschryver/building-incremental-views-with-xstate-parallel-states-400e",
-          "author": "Tim Deschryver",
-          "description": "Follow me on Twitter at @tim_deschryver | Subscribe to the Newsletter | Originally published on timdeschryver.dev.\nRead the TLDR version on timdeschryver.dev\nLet's give XState a spin to see how we can build incremental views with it to achieve a better and smoother experience for our users.\nIncremental views is a technique that is used when a view needs its data from multiple sources, and where the view directly renders the data coming from these sources as they resolve. Another term for an incremental view is a progressive view.\nTo keep this example simple, we're going to fetch 3 separate todos, and then render them in a single list.\nWe could build this in multiple ways, but I prefer to use parallel (or orthogonal) states.\nWithin a parallel state machine, there are multiple active state n…",
-          "link": "https://dev.to/timdeschryver/building-incremental-views-with-xstate-parallel-states-400e",
-          "publishedOn": "2021-08-25T11:11:21.000Z",
-          "wordCount": 2733,
-          "title": "Building incremental views with XState Parallel States"
-        },
-        {
-          "id": "https://dev.to/mwinterer/provide-services-to-dynamic-angular-components-3792",
-          "author": "mwinterer",
-          "description": "In Angular, it is possible to load and view components dynamically at runtime by calling viewContainerRef.createComponent(factory) on an instance of ViewContainerRef, passing a factory that can create an instance of the component.\nBy passing an Injector instance as third argument, it is possible to provide additional services (programmatically) to the dynamically loaded component (and its sub-components), e.g.:\nconst factory = factoryResolver.resolveComponentFactory(MyComponent);\n\nconst injector = Injector.create({\n    providers: [\n        { provide: AdditionalService, useClass: AdditionalService },\n    ],\n    parent: parentInjector\n});\n\nconst componentRef = viewContainerRef.createComponent(factory, undefined, injector);\n\nHowever, the additional service is only instantiated, if the dynamic…",
-          "link": "https://dev.to/mwinterer/provide-services-to-dynamic-angular-components-3792",
-          "publishedOn": "2021-08-24T22:26:48.000Z",
-          "wordCount": 916,
-          "title": "Provide services to dynamic angular components"
-        },
-        {
-          "id": "https://dev.to/enappd/how-to-generate-and-download-pdf-in-ionic-5-apps-2pa",
-          "author": "Abhijeet Rathore",
-          "description": "In this tutorial we will learn how we can generate PDF in an Ionic app, and download it to the device. You might have ordered food or any item from some e-commerce application and after ordering you must have downloaded the invoice/bill for it as a proof. Similarly there are several other scenarios where your app might need a PDF generation and download facility.\nWe will understand this feature through Enappd’s Grocery Application workflow, where we order some items, then generate an invoice/bill and download it in the form of PDF. You can follow the same steps to create the PDF generation feature in your own Ionic app.\nTo know more about Grocery Shopping Platform you can read Enappd’s Grocery Shopping Platform Blog or check the feature video. Before moving on, we will understand ordering …",
-          "link": "https://dev.to/enappd/how-to-generate-and-download-pdf-in-ionic-5-apps-2pa",
-          "publishedOn": "2021-08-24T16:50:37.000Z",
-          "wordCount": 2296,
-          "title": "How to Generate and download PDF in Ionic 5 apps"
-        },
-        {
-          "id": "https://dev.to/jscrambler/working-with-angular-formarray-26l5",
-          "author": "Jay",
-          "description": "Forms are an integral part of the web application development scheme, and there are many different ways we can use a form. For instance, you can have multiple forms on a page or you can have just a single form. Depending on the use case the form will have, it might even be required for the forms to be created dynamically. In this post, we’ll explore exactly this topic and go over the Angular FormArray in reactive forms.\nIn our previous blog post, you created Angular reactive forms using FormControl and FormGroups APIs. However, sometimes you might have the need to repeat a form multiple times dynamically based on how the user interacts with the user interface. Angular FormArray is a container that allows you to do that since it can be used to collect dynamically created controls.\nFormArray…",
-          "link": "https://dev.to/jscrambler/working-with-angular-formarray-26l5",
-          "publishedOn": "2021-08-24T14:47:05.000Z",
-          "wordCount": 3138,
-          "title": "Working with Angular FormArray"
         }
       ]
     },
@@ -9505,6 +9504,15 @@
       "feedUrl": "https://dev.to/feed/tag/rxjs",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/alanst32/a-mern-stack-update-for-2021-part-b-client-side-24o6",
+          "author": "alanst32",
+          "description": "Hello there!\nTo recap, the purpose of the article is to discuss a modern approach to a MERN stack, having a integration with Cloud solution (Azure) and use modern frameworks on the development like React, Typescript, RxJs and others.\nOn the first part I have described the server side solution of the MERN stack for our CRUD application. You can review it here: MERN Server-side\nNow I will discuss the approach on the client side aspects like:\nWebpack & Typescript ES6 configuration.\nClient side NodeJS server\nObservables with RxJS implementation\nReact modern implementation\nTest cases\n\n\nRequirments for this article:\n\n\nReact, NodeJS and Typescript basic knowledge.\n\n\n\n  \n  \n  MERN CLIENT-SIDE.\n\n\n  \n  \n  1 - Client Project.\n\n\nThe project consists on the UI development of the CRUD via configuration,…",
+          "link": "https://dev.to/alanst32/a-mern-stack-update-for-2021-part-b-client-side-24o6",
+          "publishedOn": "2021-09-23T11:50:16.000Z",
+          "wordCount": 3352,
+          "title": "A MERN stack update for 2021. - Part B: Client side."
+        },
         {
           "id": "https://dev.to/this-is-learning/rxjs-join-operators-2lam",
           "author": "Luca Del Puppo",
@@ -9988,15 +9996,6 @@
           "publishedOn": "2021-08-26T00:36:39.000Z",
           "wordCount": 482,
           "title": "CSSの新しいプロパティ「accent-color」が便利！今までできなかったフォーム要素のカラーを簡単に変更できる"
-        },
-        {
-          "id": "https://coliss.com/?p=31153",
-          "author": "コリス🥦",
-          "description": "...記事の続きを読む",
-          "link": "https://coliss.com/articles/build-websites/operation/javascript/vanilla-tilt-js.html",
-          "publishedOn": "2021-08-25T00:36:32.000Z",
-          "wordCount": 1051,
-          "title": "パネル、カード、ボタンなどのUI要素をふわりと浮かせ、視差効果を与えるJavaScriptの超軽量ライブラリ -vanilla-tilt.js"
         }
       ]
     },
@@ -10005,6 +10004,96 @@
       "feedUrl": "https://betterprogramming.pub/feed",
       "siteUrl": "https://betterprogramming.pub?source=rss----d0b105d10f0a---4",
       "articles": [
+        {
+          "id": "https://medium.com/p/8fbce0f75320",
+          "author": "Catalin's Tech",
+          "description": "Let these mind-blowing portfolios inspire your next portfolio\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/14-best-web-developer-portfolios-to-get-inspiration-8fbce0f75320?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-23T17:03:16.000Z",
+          "wordCount": 1745,
+          "title": "14 Best Web Developer Portfolios To Get Inspiration"
+        },
+        {
+          "id": "https://medium.com/p/8111ee8ab405",
+          "author": "Tate Galbraith",
+          "description": "Perform effective ssh calls from your Python scripts using Popen\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-run-ssh-commands-with-python-8111ee8ab405?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-23T16:56:16.000Z",
+          "wordCount": 966,
+          "title": "How To Abstract SSH Commands in Python"
+        },
+        {
+          "id": "https://medium.com/p/b7909eac207",
+          "author": "Mark Lucking",
+          "description": "A look at using the new Canvas view in SwiftUI\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/implementing-swiftui-canvas-view-in-ios-15-b7909eac207?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-23T16:39:14.000Z",
+          "wordCount": 1133,
+          "title": "Implementing SwiftUI Canvas in iOS 15"
+        },
+        {
+          "id": "https://medium.com/p/3a240c21b5c7",
+          "author": "Shalitha Suranga",
+          "description": "Make your web, desktop, CLI, and mobile apps technically good with these tips\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/5-tips-to-improve-the-quality-of-any-software-project-3a240c21b5c7?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-23T16:31:04.000Z",
+          "wordCount": 1445,
+          "title": "5 Tips to Improve The Quality of Any Software Project"
+        },
+        {
+          "id": "https://medium.com/p/81b63a484435",
+          "author": "Jia Wei Teh",
+          "description": "How it is different from a regular Python class\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/data-classes-in-python-a-primer-81b63a484435?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-23T16:26:41.000Z",
+          "wordCount": 1091,
+          "title": "Data Classes in Python: A Primer"
+        },
+        {
+          "id": "https://medium.com/p/afda4240de6b",
+          "author": "Sarah",
+          "description": "Add fireworks and confetti to your SwiftUI apps\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/creating-confetti-particle-effects-using-swiftui-afda4240de6b?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-23T16:11:13.000Z",
+          "wordCount": 705,
+          "title": "Creating Confetti Particle Effects Using SwiftUI"
+        },
+        {
+          "id": "https://medium.com/p/bbf7ec099138",
+          "author": "James Williams",
+          "description": "Skin color has nothing to do with your intelligence\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/a-message-to-those-whore-surprised-to-see-black-people-in-the-software-industry-bbf7ec099138?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-23T16:02:52.000Z",
+          "wordCount": 1473,
+          "title": "A Message to Those Who’re Surprised To See Black People in the Software Industry"
+        },
+        {
+          "id": "https://medium.com/p/89677293d1f3",
+          "author": "Marco Santos",
+          "description": "For websites that require more than just beautifulsoup\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/how-to-use-selenium-to-automate-any-website-89677293d1f3?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-23T15:02:37.000Z",
+          "wordCount": 1782,
+          "title": "How To Use Selenium To Automate Any Website"
+        },
+        {
+          "id": "https://medium.com/p/12c32604800c",
+          "author": "Greg Thomas",
+          "description": "Clearing roadblocks, people management, mentoring and always learning\nContinue reading on Better Programming »",
+          "link": "https://betterprogramming.pub/what-makes-a-great-technical-lead-12c32604800c?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-23T14:44:12.000Z",
+          "wordCount": 1370,
+          "title": "What Makes a Great Technical Lead?"
+        },
+        {
+          "id": "https://medium.com/p/b6e717819448",
+          "author": "ChiaChong",
+          "description": "Search Medium stories in your own app",
+          "link": "https://betterprogramming.pub/build-a-search-engine-for-medium-stories-using-streamlit-and-elasticsearch-b6e717819448?source=rss----d0b105d10f0a---4",
+          "publishedOn": "2021-09-23T14:01:22.000Z",
+          "wordCount": 1616,
+          "title": "Build a Search Engine for Medium Stories Using Streamlit and Elasticsearch"
+        },
         {
           "id": "https://medium.com/p/3b9a91ee3717",
           "author": "Ashoke Mohanraj",
@@ -11759,96 +11848,6 @@
           "publishedOn": "2021-08-25T16:40:44.000Z",
           "wordCount": 1868,
           "title": "Build a To-Do App Using React With Drag-and-Drop Functionality"
-        },
-        {
-          "id": "https://medium.com/p/e3b2c5fe38e0",
-          "author": "Jordan Williams",
-          "description": "The magic of Python’s OOPs\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/object-oriented-programming-in-python-vs-java-e3b2c5fe38e0?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-24T19:02:46.000Z",
-          "wordCount": 2480,
-          "title": "Object-Oriented Programming in Python vs. Java"
-        },
-        {
-          "id": "https://medium.com/p/9f65655bae6a",
-          "author": "Juan Cruz Martinez",
-          "description": "Learn how to make money by doing online jobs\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/10-side-gigs-to-make-more-money-as-a-developer-9f65655bae6a?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-24T18:02:34.000Z",
-          "wordCount": 2513,
-          "title": "10 Side Gigs To Make More Money as a Developer"
-        },
-        {
-          "id": "https://medium.com/p/c636e3343b8f",
-          "author": "Dmytro Khmelenko",
-          "description": "3 reasons why a popular web framework still attracts engineers\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/why-ruby-on-rails-will-not-die-anytime-soon-c636e3343b8f?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-24T17:02:31.000Z",
-          "wordCount": 1178,
-          "title": "Why Ruby on Rails Will Not Die Anytime Soon"
-        },
-        {
-          "id": "https://medium.com/p/cdd76006b35a",
-          "author": "Charis Theodoulou",
-          "description": "Lazy loading React components in both server and browser environments for various frameworks\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/lazy-loading-react-components-cdd76006b35a?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-24T16:02:40.000Z",
-          "wordCount": 1171,
-          "title": "Lazy Loading React Components"
-        },
-        {
-          "id": "https://medium.com/p/1d51842db7a7",
-          "author": "Paul Kim",
-          "description": "8 ways to use the conditional statement correctly\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/the-many-faces-of-if-and-how-programmers-misuse-it-1d51842db7a7?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-24T15:02:48.000Z",
-          "wordCount": 1394,
-          "title": "The Many Faces of “If” and How Programmers Misuse It"
-        },
-        {
-          "id": "https://medium.com/p/24868f65ac53",
-          "author": "Esther Vaati",
-          "description": "The first step in developing dynamic sites\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/how-to-create-a-custom-authentication-system-in-django-24868f65ac53?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-24T14:28:49.000Z",
-          "wordCount": 925,
-          "title": "How to Create a Custom Authentication System in Django"
-        },
-        {
-          "id": "https://medium.com/p/d0aff8ce0c80",
-          "author": "Nicholas Obert",
-          "description": "Improve code maintainability and security against Google dorking attacks\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/getting-rid-of-hardcoded-python-variables-with-the-dotenv-module-d0aff8ce0c80?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-24T14:01:35.000Z",
-          "wordCount": 932,
-          "title": "Getting Rid of Hardcoded Python Variables With the Dotenv Module"
-        },
-        {
-          "id": "https://medium.com/p/b96b6787ea20",
-          "author": "Victor Mong",
-          "description": "Being able to spot emotional insecurity in people will help you take steps to protect mental and emotional wellbeing\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/6-habits-showing-the-person-youre-dealing-with-is-insecure-b96b6787ea20?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-24T13:41:49.000Z",
-          "wordCount": 1082,
-          "title": "Why Emotionally Insecure People Rarely Make Effective Leaders"
-        },
-        {
-          "id": "https://medium.com/p/e17d63b84b86",
-          "author": "Jose Granja",
-          "description": "Improved control flow analysis, index signatures, and more\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/whats-new-in-typescript-4-4-e17d63b84b86?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-24T13:12:54.000Z",
-          "wordCount": 1348,
-          "title": "What’s New in TypeScript 4.4?"
-        },
-        {
-          "id": "https://medium.com/p/d054ea1a16fe",
-          "author": "Dr Stuart Woolley",
-          "description": "In software engineering using an agency really is your best way of changing jobs — but it can have downsides\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/3-possible-pitfalls-of-using-a-recruitment-agency-d054ea1a16fe?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-24T12:56:50.000Z",
-          "wordCount": 1469,
-          "title": "3 Possible Pitfalls Of Using a Recruitment Agency"
         }
       ]
     }
