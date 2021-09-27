@@ -117,6 +117,213 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/it",
       "articles": [
         {
+          "id": "https://efcl.info/2021/09/26/memory-note/",
+          "author": null,
+          "description": "Memory NoteというプログラマブルなTodoアプリのミドルウェアを書きました。 ややこしいですが、大雑把に言えばReminder的なTodoリストを扱うREST APIをCloudflare Workersで動かす仕組みです。 単体だと何ができるのかよくわからないものですが、Todoサービスを自分用に作れる仕組みです。 対象ユーザーは主に自分です...",
+          "link": "https://efcl.info/2021/09/26/memory-note/",
+          "publishedOn": "2021-09-26T15:13:45.000Z",
+          "wordCount": 415,
+          "title": "記憶に残らないものをメモするためにMemory Noteという仕組みを書いた | Web Scratch"
+        },
+        {
+          "id": "https://github.com/CodedotAl/gpt-code-clippy/wiki",
+          "author": null,
+          "description": "GPT Code Clippy: The Open Source version of GitHub Copilot Courtesy of the awesome Aimee Trevett! GPT-Code-Clippy (GPT-CC) is a community effort to create an open-source version of GitHub Copilot, an AI pair programmer based on GPT-3, called GPT-Codex. GPT-CC is fine-tuned on our GPT Code Clippy ...",
+          "link": "https://github.com/CodedotAl/gpt-code-clippy/wiki",
+          "publishedOn": "2021-09-26T10:20:09.000Z",
+          "wordCount": 913,
+          "title": "Home · CodedotAl/gpt-code-clippy Wiki · GitHub"
+        },
+        {
+          "id": "https://gigazine.net/news/20210926-8bit-google-map-in-real/",
+          "author": null,
+          "description": "2012年のエイプリルフールに、Googleはファミリーコンピュータで動く「ドラゴンクエスト風のGoogleマップ」を公開しました。もちろんこれはエイプリルフールのウソなので実現はしませんでしたが、これを本当に実機で動くように再現した人が登場しました。 I made Google Maps 8-bit for NES because Google wouldn't - Y...",
+          "link": "https://gigazine.net/news/20210926-8bit-google-map-in-real/",
+          "publishedOn": "2021-09-26T10:16:34.000Z",
+          "wordCount": 222,
+          "title": "エイプリルフールネタだったはずの「ファミコン風Googleマップ」を実現した猛者が登場 - GIGAZINE"
+        },
+        {
+          "id": "https://twitter.com/takeo1116/status/1441753592818327561",
+          "author": null,
+          "description": "プログラミングをしていて”dataの複数形”を使いたくなることが年に365回くらいあるんですけどどうするのが正解なんですか？",
+          "link": "https://twitter.com/takeo1116/status/1441753592818327561",
+          "publishedOn": "2021-09-26T09:18:50.000Z",
+          "wordCount": 196,
+          "title": "竹雄 on Twitter: \"プログラミングをしていて”dataの複数形”を使いたくなることが年に365回くらいあるんですけどどうするのが正解なんですか？\""
+        },
+        {
+          "id": "https://hackingcpp.com/",
+          "author": null,
+          "description": "Learn up-to-date, idiomatic C++ with code examples, concise explanations and infographics instead of long-winded prose. -- Lerne aktuelles, idiomatisches C++ mit Code-Beispielen, knappen Erklärungen und Infografiken anstatt endloser Texte. -- 学现代的C++ // 代码示例，简洁的说明和图表",
+          "link": "https://hackingcpp.com/",
+          "publishedOn": "2021-09-26T08:52:19.000Z",
+          "wordCount": 869,
+          "title": "Learn Contemporary C++ | Concise&Visual Examples | hacking C++"
+        },
+        {
+          "id": "https://speakerdeck.com/sansandsoc/extraction-data-from-pdf-using-python",
+          "author": null,
+          "description": "■イベント  ：第54回情報科学若手の会 https://wakate.connpass.com/event/222829/ ■登壇概要 タイトル：Pythonを用いたPDFデータからの情報抽出 / Extraction data from PDF using Python 発表者：  技術本部 DSOC R&D研究員 　青見 樹 ◤ Sansan DSOC ◢ ▽Brand Site https://sansan-dsoc.com/ - ▽Recruitment Site http...",
+          "link": "https://speakerdeck.com/sansandsoc/extraction-data-from-pdf-using-python",
+          "publishedOn": "2021-09-26T08:49:40.000Z",
+          "wordCount": 274,
+          "title": "Pythonを用いたPDFデータからの情報抽出 / Extraction data from PDF using Python - Speaker Deck"
+        },
+        {
+          "id": "https://speakerdeck.com/puhitaku/tepra-lite-ble-reverse-engineering",
+          "author": null,
+          "description": "Transcript TEPRA Lite BLE 54 #wakate 2021 @puhitaku Takumi Sueda @puhitaku NICT ( ) HOMMA   2014 2018 2020   Linux TEPRA 3 https://twitter.com/ejo 090 /status/ 425 52 334 04 306 96 448 4 https://twitter.com/okayan 08 /status/ 7 972 55 664 46 460 10 89 5 https://twitter.com/okayan 08 /status/ 5 65...",
+          "link": "https://speakerdeck.com/puhitaku/tepra-lite-ble-reverse-engineering",
+          "publishedOn": "2021-09-26T08:39:52.000Z",
+          "wordCount": 729,
+          "title": "TEPRA Lite ではじめる BLE リバースエンジニアリング / tepra-lite-ble-reverse-engineering - Speaker Deck"
+        },
+        {
+          "id": "https://zenn.dev/tsuruo/articles/6cc7b5bf24bb65",
+          "author": null,
+          "description": "はじめに 非常に有り触れたタイトルになっていますが、最近私の周辺でFlutterを始める方が増えてきており（推奨している影響もある）、その都度同じリンクを貼るのが億劫になってきたのでまとめることとしました。ただこの手の内容だと「ただリンクを貼るだけ」みたいな記事も散見されますが、それだけだとつまらないの...",
+          "link": "https://zenn.dev/tsuruo/articles/6cc7b5bf24bb65",
+          "publishedOn": "2021-09-26T07:13:55.000Z",
+          "wordCount": 232,
+          "title": "2021年 - これからFlutterを始める人へ学習方法のススメ"
+        },
+        {
+          "id": "https://pencil.schoo.jp/posts/yMWXzPqG",
+          "author": null,
+          "description": "営業資料、マーケティング資料など、社会人によって資料作成の能力は必須スキルといっても過言ではありません。 はたして、みなさんの資料作りは“科学的に正しい”方法で制作されているでしょうか？ 株式会社クロスリバー社長・株式会社キャスター事業責任者で、これまで1万人以上に資料作成術をレクチャーしてきた越川慎...",
+          "link": "https://pencil.schoo.jp/posts/yMWXzPqG",
+          "publishedOn": "2021-09-26T06:50:55.000Z",
+          "wordCount": 68,
+          "title": "元米マイクロソフト本社パワポ責任者が教える「科学的に正しい資料の作り方」- Schoo PENCIL"
+        },
+        {
+          "id": "https://speakerdeck.com/poya/mao-demowakarutabnet",
+          "author": null,
+          "description": "Transcript 猫でもわかるTabNet 2021-07-26 poya ಋೖ ͘͠Έ ਫ਼౓ ࣮૷ 概要 encoder decoder -Attentive transformer -Feature transformer 背景 ·ͱΊ ࢀߟจݙ ͓ΘΓʹ -簡単ver ֶशɾਪ࿦ ղऍੑ end-to-end fine tuning poya（ぽや） 所属 新卒よわよわデータサイエンティスト 経歴 数学科→情報系院 趣味 麻雀（天鳳）, お絵かき, 猫, ネコぱら （...",
+          "link": "https://speakerdeck.com/poya/mao-demowakarutabnet",
+          "publishedOn": "2021-09-26T05:57:48.000Z",
+          "wordCount": 1986,
+          "title": "猫でもわかるTabNet - Speaker Deck"
+        },
+        {
+          "id": "https://speakerdeck.com/nakajijapan/sabisuniokerudesign-systemfalsegou-zhu",
+          "author": null,
+          "description": "モバイル開発をしている上でデザインとの関係性は切手は切れない関係だとお思います。 また、プロダクト自体も成長に伴い複雑性がましてきました。そのときに私はデザインシステム に注目して様々なアプローチしてきました。 本発表ではあまり馴染みではない「デザインシステム」はどういうものなのかという基本的な話か...",
+          "link": "https://speakerdeck.com/nakajijapan/sabisuniokerudesign-systemfalsegou-zhu",
+          "publishedOn": "2021-09-26T05:26:34.000Z",
+          "wordCount": 538,
+          "title": "サービスにおけるDesign Systemの構築 - Speaker Deck"
+        },
+        {
+          "id": "https://note.com/makaibito/n/n4295e83ae648",
+          "author": null,
+          "description": "新浪剛史サントリーホールディングス社長による「45歳定年」が話題です。下記ニュースがよく纏まっていますが人材流動化、終身雇用・年功序列・退職金制度の見直し、解雇規制の緩和ムード醸成など様々な解釈が溢れています。 個人の見解としてはキャリアの多様性はあるべきですし、IT界隈を見る限り大学は専門性を身につ...",
+          "link": "https://note.com/makaibito/n/n4295e83ae648",
+          "publishedOn": "2021-09-26T03:54:15.000Z",
+          "wordCount": 164,
+          "title": "ITエンジニアと「45歳定年説」｜久松剛／IT百物語の蒐集家｜note"
+        },
+        {
+          "id": "https://togetter.com/li/1779790",
+          "author": null,
+          "description": "新山祐介 (Yusuke Shinyama) @mootastic 個人のGoogle Driveに「装甲車の歴史」に関する研究資料を置いておいたら、自動的にテロリストと判定されbanされた研究者の話。アカウントごと削除されているため、サポートすら受けられないらしい。個人的なメールや写真も削除された。 support.google.com/drive/thread/1… 2021...",
+          "link": "https://togetter.com/li/1779790",
+          "publishedOn": "2021-09-26T03:06:32.000Z",
+          "wordCount": 665,
+          "title": "研究者がGoogle Driveに「装甲車の歴史」に関する資料をアップ→AIにテロリスト認定されて垢BANされた事例が怖すぎる - Togetter"
+        },
+        {
+          "id": "https://applech2.com/archives/20210921-ios15-play-background-sounds.html",
+          "author": null,
+          "description": "iOS 15では雨や波などの自然音やダークノイズなどをApple Musicやシステムサンドをと一緒に再生することが可能になっています。詳細は以下から。 　雨が降る音や川の流れ、海で波が押し寄せる音など、いわゆる自然音 The post iOS 15では雨や波、小川のせせらぎなどの自然音や心地よいノイズをバックグラウンドサウンド...",
+          "link": "https://applech2.com/archives/20210921-ios15-play-background-sounds.html",
+          "publishedOn": "2021-09-26T02:11:59.000Z",
+          "wordCount": 160,
+          "title": "iOS 15では雨や波、小川のせせらぎなどの自然音や心地よいノイズをバックグラウンドサウンドとしてApple Musicやシステムサンドと一緒に再生することが可能に。"
+        },
+        {
+          "id": "https://ssn.supersports.com/ja-jp/articles/614a93ba535aa8466a396379",
+          "author": null,
+          "description": "現役時代に、北京オリンピックやロンドンオリンピックのフェンシング競技で銀メダルを獲得した太田雄貴氏。日本フェンシング協会会長に就任後は、様々な改革によって実施してきた。 そんな太田氏が、2021年4月1日に発足したばかりの日本ハンドボールリーグの理事に就任して大きな話題となった。 太田氏はなぜ、ハンドボ...",
+          "link": "https://ssn.supersports.com/ja-jp/articles/614a93ba535aa8466a396379",
+          "publishedOn": "2021-09-26T00:47:23.000Z",
+          "wordCount": 128,
+          "title": "太田雄貴の危機感。「スポーツのライバルは、他の娯楽です。他競技ではないんです」 - Smart Sports News"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP9T62X4P9QUTIL03V.html",
+          "author": null,
+          "description": "講談社がアマゾンと取次会社を経ない直接取引を始めた。出版流通に詳しい植村八潮・専修大教授（出版学）は両社の直接取引について「講談社が取次会社と心中する気はないという宣言をした」と読み解く。出版界では業界再編が進み、「取次会社外し」ともとれる動きが生じている。再編はどこまで進むのか。ネット時代の荒...",
+          "link": "https://www.asahi.com/articles/ASP9T62X4P9QUTIL03V.html",
+          "publishedOn": "2021-09-25T23:59:42.000Z",
+          "wordCount": 207,
+          "title": "本が値上げ？投稿サイトで芥川賞？　講談社×アマゾンは改革か破壊か：朝日新聞デジタル"
+        },
+        {
+          "id": "http://workingnews.blog117.fc2.com/blog-entry-15248.html",
+          "author": null,
+          "description": "元スレ：http://livejupiter/1632358505/ 1 ：風吹けば名無し：2021/09/23(木) 09:55:05.13 ID:34ni6Aht0.net なんで集中モード状況の通知がデフォでオンになっとんねん 2 ：風吹けば名無し：2021/09/23(木) 09:55:29.19 ID:34ni6Aht0.net 許さんぞApple 3 ：風吹けば名無し：2021/09/23(木) 09:55:55.30 ID:6owDgBoG0.n...",
+          "link": "http://workingnews.blog117.fc2.com/blog-entry-15248.html",
+          "publishedOn": "2021-09-25T23:18:17.000Z",
+          "wordCount": 1511,
+          "title": "【悲報】ワイ、ios15の集中モードのせいで仕事相手に本名がバレて死亡…【働くモノニュース : 人生VIP職人ブログwww】"
+        },
+        {
+          "id": "https://zenn.dev/bun913/articles/750754b8cf79be",
+          "author": null,
+          "description": "私自身似非vimmerなのですが、「vimの効率的なキーバインドで高速に業務を進める」という精神みたいなのものは凄く素敵だと思っています。 今回は私が頻繁に使っているgitの操作をキーボードだけで行えるようにショートカットを設定してみました（日々改善中です） VSCodeのGit機能って凄く便利 VSCodeのサイドバーに配...",
+          "link": "https://zenn.dev/bun913/articles/750754b8cf79be",
+          "publishedOn": "2021-09-25T17:59:01.000Z",
+          "wordCount": 319,
+          "title": "VSCodeでよくあるgit操作をキーボードだけでする(tigみたいに）"
+        },
+        {
+          "id": "https://qiita.com/tmaehara/items/300e61e4a7a0907e441b",
+          "author": null,
+          "description": "はじめに 代理モデル (surrogate model) とは複雑な機械学習モデル（e.g., DNN, GBDT）を近似する簡単なモデル（e.g., パラメタ数の少ないDNN, 単純決定木, etc）のことを指します．代理モデルは推論の高速化・機械学習モデルの説明などさまざまな用途に使われています． この記事では代理モデルによる機械学習モデルの...",
+          "link": "https://qiita.com/tmaehara/items/300e61e4a7a0907e441b",
+          "publishedOn": "2021-09-25T17:02:33.000Z",
+          "wordCount": 862,
+          "title": "代理モデルによる機械学習モデルの説明 - Qiita"
+        },
+        {
+          "id": "https://gigazine.net/news/20210925-random-generate/",
+          "author": null,
+          "description": "テレビゲームやギャンブル、暗号は一見すると全く関係ないように思えますが、実はすべて「乱数」を利用しており、現代人の生活は乱数なくして成立しません。そんな乱数をコンピューターでどうやって生成させているのかを、プログラミング関連のブログ・BetterProgrammingが解説しています。 Generating Random Numbers I...",
+          "link": "https://gigazine.net/news/20210925-random-generate/",
+          "publishedOn": "2021-09-25T15:31:15.000Z",
+          "wordCount": 198,
+          "title": "コンピューターはどうやって乱数を生み出しているのか？ - GIGAZINE"
+        },
+        {
+          "id": "https://tabkul.com/?p=247710",
+          "author": null,
+          "description": "手元にカスタムROMを入れたNexus 5やピュア状態のXperia XZがあって、いずれもUbuntu Touchに対応している。そこで同OSは何ができるのかを調査、その内容をシェアしたい。 （注意）この記事は随時アップデートしていく。 下記は私がUbuntu Touchを導入するにあたって抱いた疑問を書いていく。 OSや開発チームに対する疑...",
+          "link": "https://tabkul.com/?p=247710",
+          "publishedOn": "2021-09-25T13:52:30.000Z",
+          "wordCount": 813,
+          "title": "古いスマホの救世主か、Ubuntu Touchで出来ること（質問まとめ）"
+        },
+        {
+          "id": "https://note.com/vetement/n/n704b551b1c24",
+          "author": null,
+          "description": "ECプラットフォーム「STORES.jp」を運営するhey株式会社、現在のCEOは「Googleの天才エンジニア」とも賞賛される佐藤裕介氏である。今回の記事では佐藤裕介氏に向けられた「経歴詐称疑惑」を検証する。 （←佐藤裕介氏・光本勇介氏→ https://www.wwdjapan.com/articles/978296） 関連人物と企業の説明はじめに、関連する...",
+          "link": "https://note.com/vetement/n/n704b551b1c24",
+          "publishedOn": "2021-09-25T11:07:37.000Z",
+          "wordCount": 191,
+          "title": "【検証】hey社CEO佐藤裕介氏の\"経歴詐称疑惑\"「元Google天才エンジニア？」 /STORES/佐俣奈緒子/佐俣アンリ/光本勇介/｜DJ AsadaAkira｜note"
+        },
+        {
+          "id": "https://qiita.com/yuki_ink/items/417a52b8f42fca258171",
+          "author": null,
+          "description": "はじめに この度、Microsoft Certified: Azure Fundamentals（AZ-900）に合格しました。 私は仕事上AWSに携わることが多くAWS認定資格も保有していますが、他のパブリッククラウドは未経験でした。 しかし世のトレンドはマルチクラウド。 シェア第２位のAzureもやっとくかぁと思い、受験に至りました。 AWSとAzureってサ...",
+          "link": "https://qiita.com/yuki_ink/items/417a52b8f42fca258171",
+          "publishedOn": "2021-09-25T10:16:50.000Z",
+          "wordCount": 375,
+          "title": "AWSエンジニアのためのAzure Fundamentals対策 - Qiita"
+        },
+        {
           "id": "https://zenn.dev/vvakame/articles/gha-and-gcp-workload-identity",
           "author": null,
           "description": "GitHub Actions + google-github-actions/auth で GCP keyless CI/CD 要約： GitHub ActionsでCI/CD的なことやろうとしたとき、SecretsとかにGCPのService AccountのKeyとか置かなくてもデプロイとかできるようになったらしいのでやったらできた。 経緯 AWS federation comes to GitHub Actions という記事が出て。 GitH...",
@@ -376,6 +583,15 @@
           "publishedOn": "2021-09-24T08:46:26.000Z",
           "wordCount": 203,
           "title": "Windows 11にアップデートできないPCはこれで延命？古いPCをChromebookにできる「CloudReady」を試してみた | 文春オンライン"
+        },
+        {
+          "id": "https://engineeringblog.yelp.com/2021/09/nrtsearch-yelps-fast-scalable-and-cost-effective-search-engine.html",
+          "author": null,
+          "description": "Nrtsearch: Yelp’s Fast, Scalable and Cost Effective Search Engine Sarthak Nandi, Software Engineer and Umesh Dangat, Group Tech Lead Sep 21, 2021 Search and ranking are part of many important features of Yelp - from looking for a plumber to showing relevant photos of the dish you search for. Thes...",
+          "link": "https://engineeringblog.yelp.com/2021/09/nrtsearch-yelps-fast-scalable-and-cost-effective-search-engine.html",
+          "publishedOn": "2021-09-24T08:41:39.000Z",
+          "wordCount": 2565,
+          "title": "Nrtsearch: Yelp’s Fast, Scalable and Cost Effective Search Engine"
         },
         {
           "id": "https://zenn.dev/sora_kumo/articles/4498ad794002c3",
@@ -1053,6 +1269,15 @@
           "title": "14時間分の機械学習教材も　GMOペパボ、エンジニアの研修資料を公開 - ITmedia NEWS"
         },
         {
+          "id": "https://techblog.yahoo.co.jp/entry/2021092230186531/",
+          "author": null,
+          "description": "こんにちは。システム統括本部で技術研修の設計・運営をしている酒井です。 ヤフーでは新入社員が配属後も業務で協力しあえるよう、同期同士の関係構築を研修のゴールのひとつとしています。しかし昨年は、新入社員の研修をフルオンラインで行ったために、そこに課題が残ってしまいました。今年は、いかに関係構築ができ...",
+          "link": "https://techblog.yahoo.co.jp/entry/2021092230186531/",
+          "publishedOn": "2021-09-22T02:41:26.000Z",
+          "wordCount": 333,
+          "title": "ヤフー式新人研修 〜 フルオンラインでエンジニア研修を作った話 - Yahoo! JAPAN Tech Blog"
+        },
+        {
           "id": "https://dev.classmethod.jp/articles/go-sample-rest-api/",
           "author": null,
           "description": "Javaのエンジニアだった私がGo言語でREST APIを作る上で学んだことをまとめています。 プロジェクト構成、単体テスト、Dockerイメージの作成など実際にREST APIを開発する上で必要だと思われる要素を盛り込みつつサンプルプロジェクトを作成していきます。 はじめに Javaのエンジニアだった私がGo言語でREST APIを作る上...",
@@ -1530,6 +1755,15 @@
           "title": "Androidスマホの速度が遅くなってきた時の対処法6つ | ライフハッカー［日本版］"
         },
         {
+          "id": "https://qiita.com/autotaker1984/items/bc758fcf368c1a167353",
+          "author": null,
+          "description": "これは特に理由があるわけではないので_区切りでもよいし、チーム内にzshやfish等の他Shell愛好家がいる場合は拡張子は.bashでも良い。どちらにせよチーム内では統一しておかないと混乱の元となる。 改行コード LFを使用する。CRLFだと動作しないので書く際に間違うことはないが、Windows上のgitのautocrlf設定によって...",
+          "link": "https://qiita.com/autotaker1984/items/bc758fcf368c1a167353",
+          "publishedOn": "2021-09-20T01:20:38.000Z",
+          "wordCount": 468,
+          "title": "Bash Scriptの作法 - Qiita"
+        },
+        {
           "id": "https://qiita.com/yukimatsu/items/dc010e43cbfae54ce699",
           "author": null,
           "description": "はじめに 以前にM5StackでCO2モニターを作って、直接Teamsに通知するものを作ったのですが、 『M5StackでCO2モニターを作って、Teams通知で換気を促すものを作ってみた』 CO2濃度が高くなると通知が来るけど、その傾向が良く分からない テレワークが増えてくると、いま職場の状況がどうなのかが遠隔で分からない 換気を...",
@@ -1861,6 +2095,15 @@
           "publishedOn": "2021-09-18T13:01:03.000Z",
           "wordCount": 214,
           "title": "Rustでrbenvよりもinitが6倍速いRubyバージョンマネージャーを作った"
+        },
+        {
+          "id": "https://himaginary.hatenablog.com/entry/20210917/Harms_of_AI",
+          "author": null,
+          "description": "というNBER論文（原題は「Harms of AI」）をアセモグルが上げている（ungated版）。以下はその要旨。 This essay discusses several potential economic, political and social costs of the current path of AI technologies. I argue that if AI continues to be deployed along its current trajectory and remains u...",
+          "link": "https://himaginary.hatenablog.com/entry/20210917/Harms_of_AI",
+          "publishedOn": "2021-09-18T12:39:03.000Z",
+          "wordCount": 286,
+          "title": "AIの害 - himaginary’s diary"
         },
         {
           "id": "https://gigazine.net/news/20210918-portable-blood-analyzer/",
@@ -5832,6 +6075,15 @@
           "title": "AI「人間は愚かだ。だから適性にあった職をこちらで用意し栄養のある食事を与え管理されている方が幸せなのだ」主人公「それは違う！」大衆「え？いや…？」 - Togetter"
         },
         {
+          "id": "https://xtrend.nikkei.com/atcl/contents/18/00499/00003/",
+          "author": null,
+          "description": "Instagram（インスタグラム）の特徴は、ユーザーがビジュアルを使ったコミュニケーションを通して、「自分が好きな世界」とつながること。そうした特徴を生かし、どうマーケティングに活用するか。東急ハンズや山本海苔店の取り組みから、企業がファンをひき付けるための秘訣を探る。 投稿を続けるほど、徐々にフォロワ...",
+          "link": "https://xtrend.nikkei.com/atcl/contents/18/00499/00003/",
+          "publishedOn": "2021-09-02T15:27:26.000Z",
+          "wordCount": 735,
+          "title": "成果を出すインスタ機能ベスト4　東急ハンズの“大失敗”に学ぶ：日経クロストレンド"
+        },
+        {
           "id": "https://qiita.com/Mine02C4/items/8114e23fb6b4148f06b8",
           "author": null,
           "description": "Help us understand the problem. What is going on with this article? 序 : プロセッサへの嫉妬 DRAMさん「最近みんなCPUやGPUにばかりうつつを抜かしやがって…。みんながやれRyz○nだの、FinFET ○nmだの盛り上がって、みんなが次世代プロセッサを楽しみにしている。新しいアーキテクチャやISAが出てきて話題も絶えない...",
@@ -7099,276 +7351,6 @@
           "publishedOn": "2021-08-28T12:30:21.000Z",
           "wordCount": 465,
           "title": "「吉幾三を入れたら壊れた」「おおきなかぶは抜けなかった」東京大学発の企業が開発した「何でも3行で要約してくれるAI」がさっそくツイッタラーのおもちゃに成り果てる - Togetter"
-        },
-        {
-          "id": "https://github.com/jptosso/coraza-waf",
-          "author": null,
-          "description": "Coraza WAF is a golang modsecurity compatible web application firewall library",
-          "link": "https://github.com/jptosso/coraza-waf",
-          "publishedOn": "2021-08-28T12:05:38.000Z",
-          "wordCount": 1618,
-          "title": "GitHub - jptosso/coraza-waf: Coraza WAF is a golang modsecurity compatible web application firewall library"
-        },
-        {
-          "id": "https://togetter.com/li/1766150",
-          "author": null,
-          "description": "ワカジツ＠Writing Hacks講師 @wakajitsukohei Googleが記事のタイトルを勝手に変更するアップデートによって、国民生活センターの公式サイトがヤバい pic.twitter.com/dTm3jCwglW 2021-08-28 15:47:15",
-          "link": "https://togetter.com/li/1766150",
-          "publishedOn": "2021-08-28T11:54:50.000Z",
-          "wordCount": 664,
-          "title": "「在宅スマホ副業で7日で20万円稼げる人続出中！」Googleのアップデートによって国民生活センターの公式サイトがヤバいことになってしまった - Togetter"
-        },
-        {
-          "id": "https://forbesjapan.com/articles/detail/43016",
-          "author": null,
-          "description": "仕事や勉強のお供に、多くの人に親しまれているコーヒー。日本のコーヒー消費量は20年前に比べて3割増加しているそうだ。1日に何杯もコーヒーを飲んでしまうという人もいるだろう。それでは、そのコーヒーがどこからきているのか、生産地の状況に思いを馳せたことはあるだろうか。 近年、多くの地域では気温上昇、降雨量...",
-          "link": "https://forbesjapan.com/articles/detail/43016",
-          "publishedOn": "2021-08-28T10:58:47.000Z",
-          "wordCount": 178,
-          "title": "環境博士が立ち上げた「再エネ x ブロックチェーン」で三方よしのコーヒー | Forbes JAPAN（フォーブス ジャパン）"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210828191325",
-          "author": null,
-          "description": "テレビを買い替えた。 21型のブラウン管テレビから55型の4Kテレビに買い替えた。 「いつの話してんだよ？」と思われるかもしれないが、ほんのつい最近、2021年5月頃の話。 15年以上前に買ったブラウン管テレビをずっと使い続けていて、地デジ移行後もデジアナ変換器かまして使っていたのだけど、ブラウン管テレビのほう...",
-          "link": "https://anond.hatelabo.jp/20210828191325",
-          "publishedOn": "2021-08-28T10:42:00.000Z",
-          "wordCount": 73,
-          "title": "テレビは大きくなくていい"
-        },
-        {
-          "id": "https://twitter.com/wakajitsukohei/status/1431508661331849221",
-          "author": null,
-          "description": "Googleが記事のタイトルを勝手に変更するアップデートによって、国民生活センターの公式サイトがヤバい https://t.co/dTm3jCwglW",
-          "link": "https://twitter.com/wakajitsukohei/status/1431508661331849221",
-          "publishedOn": "2021-08-28T10:37:46.000Z",
-          "wordCount": 196,
-          "title": "ワカジツ＠Writing Hacks講師 on Twitter: \"Googleが記事のタイトルを勝手に変更するアップデートによって、国民生活センターの公式サイトがヤバい https://t.co/dTm3jCwglW\""
-        },
-        {
-          "id": "https://speakerdeck.com/koher/swift-language-updates-learn-languages-2021",
-          "author": null,
-          "description": "Transcript Swi$ ؛઒ࠀݾ @k_katsumi Yuta Koshizawa @koher ؛઒ࠀݾ @k_katsumi Apple ޷͖͕ߴͯ͡ iOS ΞϓϦέʔγϣ ϯͷ։ൃΛ 14 ೥ଓ͚͍ͯ·͢ɻझຯͰ ࡞͍ͬͯΔ OSS ϥΠϒϥϦ͸͚ͬ͜͏ਓ ؾ͕͋Γ·͢ɻ Yuta Koshizawa @koher \"Heart of Swi-\" Λॻ͖·ͨ͠ɻීஈ͸ओ ʹϦΞϧλΠϜը૾ॲཧΛ༻͍ͨ iOS Ξ ϓϦΛ։ൃ͍ͯ͠·͢ɻ Swi$ ͷ࠷৽ಈ޲ Swi$ 5.5: 9 ݄ϦϦʔεʢʁʣ Concurrency ʢฒߦॲཧʣ Swi$ 5.5+ ͷ Concurrency ฒߦॲཧʹىҼ͢Δσʔλڝ߹΍σουϩοΫ͕ى͜Βͳ͍͜ͱ Λ...",
-          "link": "https://speakerdeck.com/koher/swift-language-updates-learn-languages-2021",
-          "publishedOn": "2021-08-28T07:26:17.000Z",
-          "wordCount": 1285,
-          "title": "Swift Language Updates - Learn Languages 2021 - Speaker Deck"
-        },
-        {
-          "id": "https://event.cloudnativedays.jp/cicd2021/talks/1155",
-          "author": null,
-          "description": "architect - システム設計 developer - システム開発 app-developer - アプリケーション開発 operator/sys-admin - 運用管理/システム管理 私が入社したころの弊社のリリースフローは、リリースブランチへの煩雑なcherry-pickの後、長いチェックリストやチケットを手動で更新した後、定期実行テストを待って次の日にデプ...",
-          "link": "https://event.cloudnativedays.jp/cicd2021/talks/1155",
-          "publishedOn": "2021-08-28T06:06:41.000Z",
-          "wordCount": 68,
-          "title": "数時間かかる週一リリースを毎日何度も爆速でできるようにするまで | CI/CD Conference 2021 by CloudNative Days"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210827165042",
-          "author": null,
-          "description": "https://dailyportalz.jp/kiji/wanna-be-a-hero DPZだけど、ロボットアニメの真似をしたらタッチパネルになるっていうのは、なんというか衝撃的だ。 そりゃGレコもタッチ操作だけどさ。 言葉もしゃべれんガキがタブレット操作してYouTube見る時代だもんなあ。 もうレバーもボタンもアナクロの象徴なのか。 昔のアニメに...",
-          "link": "https://anond.hatelabo.jp/20210827165042",
-          "publishedOn": "2021-08-28T05:46:29.000Z",
-          "wordCount": 127,
-          "title": "もうロボットアニメのコックピットにはレバーもボタンもない。"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/67e14b043cc8b6ced81ac2fe875caf2b64b74123",
-          "author": null,
-          "description": "アップルのティム・クックCEO（最高経営責任者）が就任して10年を迎え、825億円相当のボーナスを手にしました。 ティム・クックCEOは2011年8月に、前任のスティーブ・ジョブズ氏に代わってアップルのCEOとなりました。 就任10周年を記念して、特別ボーナスが500万株以上の自社株で支払われ、クック氏はすぐに売却したと...",
-          "link": "https://news.yahoo.co.jp/articles/67e14b043cc8b6ced81ac2fe875caf2b64b74123",
-          "publishedOn": "2021-08-28T05:14:24.000Z",
-          "wordCount": 76,
-          "title": "アップルCEOに825億円相当のボーナス（テレビ朝日系（ANN）） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/business/articles/2108/28/news021.html",
-          "author": null,
-          "description": "ホリエモンが斬る「ビットコインで大損した人たちを笑えない事情」：堀江貴文が説く「経営者は非常識であれ」（1/2 ページ） あまたの事業を成功させてきた起業家、ホリエモンこと堀江貴文。時代の寵児（ちょうじ）といわれ、ITビジネスや宇宙事業など、それまでの常識を覆す手法で自らの構想や事業を実現してきた。ただ...",
-          "link": "https://www.itmedia.co.jp/business/articles/2108/28/news021.html",
-          "publishedOn": "2021-08-28T02:36:19.000Z",
-          "wordCount": 178,
-          "title": "ホリエモンが斬る「ビットコインで大損した人たちを笑えない事情」：堀江貴文が説く「経営者は非常識であれ」（1/2 ページ） - ITmedia ビジネスオンライン"
-        },
-        {
-          "id": "https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/",
-          "author": null,
-          "description": "With Linux celebrating it’s 30 year anniversary, I thought I’d use that as an excuse to highlight 30 of my favorite free and open source Linux games, their communities, and their stories. If you’ve haven’t been following along, here’s part 1 and part 2 in the series. Here are the final 10 in no p...",
-          "link": "https://github.blog/2021-08-27-30-free-and-open-source-linux-games-part-3/",
-          "publishedOn": "2021-08-28T00:22:04.000Z",
-          "wordCount": 1334,
-          "title": "30 free and open source Linux games - part 3 | The GitHub Blog"
-        },
-        {
-          "id": "https://news.mynavi.jp/article/20210827-1956639/",
-          "author": null,
-          "description": "VSNは2月12日、「今後、現場においてニーズが高まると予想されるIT技術やサービス」に関する調査結果を発表した。調査は5月28～6月15日、企業のエンジニア採用担当者900人を対象にインターネットで行われた。 調査結果は以下の通り。まず、「OS・サーバ・ストレージ・データベース分野」では、1位「Windows10」、2位「Go...",
-          "link": "https://news.mynavi.jp/article/20210827-1956639/",
-          "publishedOn": "2021-08-28T00:05:18.000Z",
-          "wordCount": 341,
-          "title": "今後、必要な「現場のIT技術」は何? エンジニアの採用担当900人が回答 | マイナビニュース"
-        },
-        {
-          "id": "https://prezu.ca/post/2021-07-30-totp-1/",
-          "author": null,
-          "description": "When you’re accessing services over the WEB – let’s pick GMail as an example – couple of things have to happen upfront: The server you’re connecting to (GMail in our example) has to get to know who you are. Only after getting to know who you are it’s able to decide what resources you are allowed ...",
-          "link": "https://prezu.ca/post/2021-07-30-totp-1/",
-          "publishedOn": "2021-08-27T23:58:27.000Z",
-          "wordCount": 2661,
-          "title": "How does Google Authenticator work? (Part 1)"
-        },
-        {
-          "id": "https://japanese.engadget.com/toyota-suspend-e-palette-service-after-collision-with-athlete-222006257.html",
-          "author": null,
-          "description": "トヨタは、東京オリンピック / パラリンピック選手村で運行している自動運転車「e-Palette」が26日に起こした、パラリンピック選手との接触事故を受けて、選手村でのe-Palette運行をいったん取りやめました。豊田章男社長は運行再開について問われ「絶対に安全だといえる立場ではない」と、慎重な姿勢を示しています。 ...",
-          "link": "https://japanese.engadget.com/toyota-suspend-e-palette-service-after-collision-with-athlete-222006257.html",
-          "publishedOn": "2021-08-27T23:01:25.000Z",
-          "wordCount": 216,
-          "title": "トヨタの自動運転車、パラリンピック選手と接触事故。選手は負傷で欠場に - Engadget 日本版"
-        },
-        {
-          "id": "https://www.orangeitems.com/entry/2021/08/28/004815",
-          "author": null,
-          "description": "政府や自治体のシステムって、縦割りでベンダーに丸投げするから無駄が多くて、税金から払わなくてもいいお金が一杯出て行っている。しかも国民から見るといっぱいサイトがある割にはどれもデザインが違っていて、さっぱりどこ見ていいかわからない。どうなってんの。 ここがまず国民の不満の出発点だと思うんですね。 ...",
-          "link": "https://www.orangeitems.com/entry/2021/08/28/004815",
-          "publishedOn": "2021-08-27T22:55:42.000Z",
-          "wordCount": 219,
-          "title": "政府や自治体のシステムが今までどうなっていて今後どうなるかをできる限り簡単に説明してみる - orangeitems’s diary"
-        },
-        {
-          "id": "https://togetter.com/li/1765839",
-          "author": null,
-          "description": "kofka @ayammin ところで時計って、男物のデザインをそのまま女性の腕につけられるサイズにしてくれたら絶対買うのにと思うモデル、女性向けになった途端にピンクになったりラインストーン埋め込まれたりしててゲンナリする…。 2021-08-27 11:18:50",
-          "link": "https://togetter.com/li/1765839",
-          "publishedOn": "2021-08-27T21:15:49.000Z",
-          "wordCount": 2164,
-          "title": "時計、男性デザインをそのまま小さくして欲しいのに、女性モデルになった途端にピンクになったりラインストーン入るのツライ…共感の声多数集まる - Togetter"
-        },
-        {
-          "id": "https://k-tai.watch.impress.co.jp/docs/column/mca/1346714.html",
-          "author": null,
-          "description": "先日、携帯会社4社の決算発表が行われたが、なかでも印象的だったのが、楽天の三木谷浩史CEOが「ローミング費用が高すぎる」と何回も発言していたことである。",
-          "link": "https://k-tai.watch.impress.co.jp/docs/column/mca/1346714.html",
-          "publishedOn": "2021-08-27T21:11:45.000Z",
-          "wordCount": 109,
-          "title": "契約者拡大に伴い急増する楽天のローミング費用 - ケータイ Watch"
-        },
-        {
-          "id": "https://japanese.engadget.com/windows-11-will-work-on-pcs-with-older-cpus-205018956.html",
-          "author": null,
-          "description": "マイクロソフトは、推奨するハードウェア要件を満たさない、古いCPUのPCにもWindows 11はインストール可能だと述べています。OSのインストール制限はWindows Updateを通じたアップグレードでは適用されるものの、ISOファイルをダウンロードして、手動でインストールする場合はこの制限を受けないとThe Vergeは伝えていま...",
-          "link": "https://japanese.engadget.com/windows-11-will-work-on-pcs-with-older-cpus-205018956.html",
-          "publishedOn": "2021-08-27T21:02:14.000Z",
-          "wordCount": 210,
-          "title": "MS「Windows 11は手動なら古いPCにも導入可能」と説明 - Engadget 日本版"
-        },
-        {
-          "id": "https://jp.techcrunch.com/2021/08/27/2021-08-26-apple-will-now-let-app-store-developers-talk-to-their-customers-about-buying-direct/",
-          "author": null,
-          "description": "米国時間8月26日、Apple（アップル）は、米国の開発者から同社に提起されていた訴訟について、和解案に合意したことを明らかにした。この和解案にはいくつかの変更点が含まれており、その中でも最大の変更点は、開発者がiOSアプリやApp Store以外で購入した支払い方法に関する情報を共有できるようになることだ。これに...",
-          "link": "https://jp.techcrunch.com/2021/08/27/2021-08-26-apple-will-now-let-app-store-developers-talk-to-their-customers-about-buying-direct/",
-          "publishedOn": "2021-08-27T19:50:30.000Z",
-          "wordCount": 349,
-          "title": "アプリ開発者は今後、アップルに手数料を支払わなくてすむ直接購入をユーザーへ提案可能に | TechCrunch Japan"
-        },
-        {
-          "id": "https://zenn.dev/luvmini511/articles/df410f137d1e21",
-          "author": null,
-          "description": "最近社内レビュー会で React レビューが多くなり、「カスタムフック使ったらスッキリできます」という言葉もよく聞くようになりました。 私が初めてそれを耳にしたときは「なにそれ美味しいの？」みたいな感じでしたし、初心者にはピンとこない概念かなーと思いましたので、今回のテーマにしたいと思います。 1. カスタ...",
-          "link": "https://zenn.dev/luvmini511/articles/df410f137d1e21",
-          "publishedOn": "2021-08-27T18:46:26.000Z",
-          "wordCount": 297,
-          "title": "React 初心者の難問、カスタムフック（Custom Hook）を解説します"
-        },
-        {
-          "id": "https://nordot.app/803966432237584384",
-          "author": null,
-          "description": "政府が中央省庁の情報システムを統合するため昨年10月に開始した「共通プラットフォーム」の運用を打ち切ることが27日、総務省などへの取材で分かった。約720件ある政府情報システムのうち利用は約40件と低迷。総務省が今年6月、各省庁に来年度以降の受け入れ中止を通知した。年間予算約100億円を見込んだ事業は開始から...",
-          "link": "https://nordot.app/803966432237584384",
-          "publishedOn": "2021-08-27T15:45:34.000Z",
-          "wordCount": 45,
-          "title": "中央省庁の共通システム打ち切り　利用低迷、年間100億の事業 ｜ 共同通信"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210827/k10013228371000.html",
-          "author": null,
-          "description": "東京パラリンピック柔道の日本代表の選手が、26日、トヨタ自動車の開発した自動運転の車と接触し、けがをした事故について、トヨタ自動車の豊田章男社長は27日夜、自社のウェブサイトで「ご心配をおかけして大変申し訳ない」と陳謝しました。 トヨタ自動車の豊田社長は、選手村で選手や大会関係者の移動に使われている自...",
-          "link": "https://www3.nhk.or.jp/news/html/20210827/k10013228371000.html",
-          "publishedOn": "2021-08-27T15:19:22.000Z",
-          "wordCount": 27,
-          "title": "選手村で自動運転車が事故 トヨタ自動車 豊田章男社長 陳謝 | オリンピック・パラリンピック　競技・選手 | NHKニュース"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0d583bc7629a361b2979a8b42e58d2aa196bdcb7",
-          "author": null,
-          "description": "政府が中央省庁の情報システムを統合するため昨年10月に開始した「共通プラットフォーム」の運用を打ち切ることが27日、総務省などへの取材で分かった。約720件ある政府情報システムのうち利用は約40件と低迷。総務省が今年6月、各省庁に来年度以降の受け入れ中止を通知した。年間予算約100億円を見込んだ事業は開始から...",
-          "link": "https://news.yahoo.co.jp/articles/0d583bc7629a361b2979a8b42e58d2aa196bdcb7",
-          "publishedOn": "2021-08-27T15:08:45.000Z",
-          "wordCount": 67,
-          "title": "中央省庁の共通システム打ち切り　利用低迷、年間100億の事業（共同通信） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://www.gizmodo.jp/2021/08/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g.html",
-          "author": null,
-          "description": "日本初上陸｢Google Nest Doorbell｣レビュー：安価にドアホンをスマート化できるのはよい。でも賃貸には不向き2021.08.27 22:0022,763 Florence Ion・Gizmodo US ［原文］ （ mayumine ） Photo: Florence Ion / Gizmodo US インターホンをスマートに。 Google（グーグル） Nestブランドのスマートカメラとドアホンが新し...",
-          "link": "https://www.gizmodo.jp/2021/08/the-new-nest-doorbell-cam-is-a-reminder-that-nest-has-g.html",
-          "publishedOn": "2021-08-27T14:30:22.000Z",
-          "wordCount": 172,
-          "title": "日本初上陸｢Google Nest Doorbell｣レビュー：安価にドアホンをスマート化できるのはよい。でも賃貸には不向き | ギズモード・ジャパン"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/pcuser/articles/2108/27/news155.html",
-          "author": null,
-          "description": "「Google Workspace」は小学校でどう使われている？　3人の先生が解説（1/3 ページ） 文部科学省が推進する「GIGAスクール構想」によって、小中学校では2020年度内に「1人1台」の学習用端末配備がおおむね完了した。しかし、端末配備後の様子は自治体や学校によってマチマチのようだ。うまく行っている小学校ではどのよ...",
-          "link": "https://www.itmedia.co.jp/pcuser/articles/2108/27/news155.html",
-          "publishedOn": "2021-08-27T14:23:52.000Z",
-          "wordCount": 437,
-          "title": "「Google Workspace」は小学校でどう使われている？　3人の先生が解説（1/3 ページ） - ITmedia PC USER"
-        },
-        {
-          "id": "https://web.dev/app-history-api/",
-          "author": null,
-          "description": "Single-page applications, or SPAs, are defined by a core feature: dynamically rewriting their content as the user interacts with the site, instead of the default method of loading entirely new pages from the server. While SPAs have been able to bring you this feature via the History API (or in li...",
-          "link": "https://web.dev/app-history-api/",
-          "publishedOn": "2021-08-27T14:04:44.000Z",
-          "wordCount": 3154,
-          "title": "Modern client-side routing: the App History API"
-        },
-        {
-          "id": "https://github.com/bregman-arie/devops-exercises",
-          "author": null,
-          "description": "DevOps Self Assessment What is DevOps? You can answer it by describing what DevOps means to you and/or rely on how companies define it. I've put here a couple of examples. Amazon: \"DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to...",
-          "link": "https://github.com/bregman-arie/devops-exercises",
-          "publishedOn": "2021-08-27T13:55:24.000Z",
-          "wordCount": 53520,
-          "title": "GitHub - bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions"
-        },
-        {
-          "id": "https://aru47.hatenablog.com/entry/2021/08/27/220051",
-          "author": null,
-          "description": "\"Locality is efficiency, Efficiency is power, Power is performance, Performance is King\", Bill Dally マルチスレッディングとは？ CPUとGPUのマルチスレッディングの違いをブログにまとめていたけど例によって誰も興味なさそう— arutema47 (@arutema47) 2021年8月16日 つぶやいたら読みたい方が多そうだったので完...",
-          "link": "https://aru47.hatenablog.com/entry/2021/08/27/220051",
-          "publishedOn": "2021-08-27T13:17:58.000Z",
-          "wordCount": 537,
-          "title": "CPUとGPUのマルチスレッディングの違いについて - arutema47's blog"
-        },
-        {
-          "id": "https://logmi.jp/tech/articles/324892",
-          "author": null,
-          "description": "Kernel/VM探検隊はカーネルや仮想マシンなどを代表とした、低レイヤーな話題でワイワイ盛り上がるマニアックな勉強会です。msyksphinz氏は、自作エミュレータで得た学びについて発表しました。全2回。前半は、自作エミュレータの実装とその結果について。 実機が存在しなくてもエミュレータを使えば動きの中身が見える m...",
-          "link": "https://logmi.jp/tech/articles/324892",
-          "publishedOn": "2021-08-27T12:36:48.000Z",
-          "wordCount": 466,
-          "title": "フルスクラッチでQEMU型自作エミュレータはどう作る？　Rustを使った自作バイナリ変換型シミュレータ - ログミーTech"
-        },
-        {
-          "id": "https://av.watch.impress.co.jp/docs/news/1346504.html",
-          "author": null,
-          "description": "舘ひろし演じる鷹山敏樹“タカ”と柴田恭兵演じる大下勇次“ユージ”。キザでクールな2人が繰り出す派手なアクションと軽妙洒脱なジョークが魅力のドラマ「あぶない刑事」(あぶデカ)。そのHDリマスター版Blu-rayが2022年9月14日に発売され、2人のフィギュア付き完全予約限定生産版もラインナップされる。発売元は東映ビデオ。フィギュア付き限定生産版の予約締切は2021年10月26日。",
-          "link": "https://av.watch.impress.co.jp/docs/news/1346504.html",
-          "publishedOn": "2021-08-27T12:27:31.000Z",
-          "wordCount": 123,
-          "title": "「あぶない刑事」タカ&ユージのフィギュア付きでBD-BOX化 - AV Watch"
         }
       ]
     },
@@ -7945,24 +7927,6 @@
           "publishedOn": "2021-08-30T14:43:42.000Z",
           "wordCount": 4281,
           "title": "Exploring the CSS Paint API: Blob Animation"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350782",
-          "author": "Chris Coyier",
-          "description": "That’s a heartwrenching title from Michael Williamson. I believe it though. It’s kinda like a maximized version of the blogging phenomenon where if you work on a post for weeks it’ll flop compared to a post that’s some dumb 20-minute …\nThe post My tiny side project has had more impact than my decade in the software industry appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
-          "publishedOn": "2021-08-27T19:14:10.000Z",
-          "wordCount": 738,
-          "title": "My tiny side project has had more impact than my decade in the software industry"
-        },
-        {
-          "id": "https://css-tricks.com/?p=350201",
-          "author": "Murtuzaali Surti",
-          "description": "What options do you have if you want the body background in a fixed position where it stays put on scroll? background-attachment: fixed in CSS, at best, does not work well in mobile browsers, and at worst is not even …\nThe post The Fixed Background Attachment Hack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-fixed-background-attachment-hack/",
-          "publishedOn": "2021-08-27T14:42:16.000Z",
-          "wordCount": 1637,
-          "title": "The Fixed Background Attachment Hack"
         }
       ]
     },
@@ -8084,6 +8048,24 @@
       "feedUrl": "https://dev.to/feed/tag/angular",
       "siteUrl": "https://dev.to",
       "articles": [
+        {
+          "id": "https://dev.to/timsar2/create-datepicker-by-tailwindcss-angular-3p8k",
+          "author": "timsar2",
+          "description": "Hello friends,\nhttps://tailwind-elements.com/docs/standard/forms/datepicker/\nIt has a DatePicker made by Tailwindcss and alpine js.\n\nFirst add TailWindCss to your project:\nhttps://www.npmjs.com/package/@ngneat/tailwind\ndate-picker.component.ts:\nimport { Component, OnInit } from '@angular/core';\n\n@Component({\n  selector: 'app-DatePicker',\n  templateUrl: './date-picker.html'\n})\nexport class DatePickerComponent implements OnInit {\n  MONTH_NAMES = [\n    'January',\n    'February',\n    'March',\n    'April',\n    'May',\n    'June',\n    'July',\n    'August',\n    'September',\n    'October',\n    'November',\n    'December'\n  ];\n  DAYS = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];\n  days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];\n  showDatepicker = false;\n  datepickerValue!: string;\n  …",
+          "link": "https://dev.to/timsar2/create-datepicker-by-tailwindcss-angular-3p8k",
+          "publishedOn": "2021-09-26T20:44:07.000Z",
+          "wordCount": 1031,
+          "title": "Create DatePicker By TailWindCss + Angular"
+        },
+        {
+          "id": "https://dev.to/raghvendrac/setup-new-angular-app-from-scratch-225p",
+          "author": "Raghvendrac",
+          "description": "Hi Guys , here we are going to see how to initiate when we are going to create angular app from scratch,initially i am adding steps for module generation and lazily loaded components inside those components.later you will get the updated on things in same blog.please visit below link and leave comments here. if you have any query.\nhttps://dotheblog.herokuapp.com/user/viewBlog/Setup_a_new_Angular_project_from_scratch./615078c4c74b9e0016ab0031",
+          "link": "https://dev.to/raghvendrac/setup-new-angular-app-from-scratch-225p",
+          "publishedOn": "2021-09-26T16:06:06.000Z",
+          "wordCount": 435,
+          "title": "Setup new angular app from scratch"
+        },
         {
           "id": "https://dev.to/rodrigokamada/hosting-an-angular-application-on-github-pages-using-github-actions-5ag8",
           "author": "Rodrigo Kamada",
@@ -9253,24 +9235,6 @@
           "publishedOn": "2021-08-28T17:38:07.000Z",
           "wordCount": 1277,
           "title": "Firestore Many-to-Many: Part 3 - maps"
-        },
-        {
-          "id": "https://dev.to/alekseikorolev/debugging-an-angular-mobile-app-d2",
-          "author": "AlekseiKorolev",
-          "description": "When working on a mobile app in Angular, we need to test and debug mobile events (such as pinching) that are not triggered from the desktop chrome or Android simulator.\nRun the application on the local network\n\n\n\n\nng serve --host 0.0.0.0 \n\nReach app from mobile phone use ip address and port number\n\n\nActivate developer options on phone - tap 7 times on Build Number (Settings > About Phone > Build Number)\nEnable USB Debugging (Settings > System > Developer Options > USB debugging)\nConnect phone to computer via usb and allow usb debugging\n\nAdd to address line chrome://inspect#devices\n\nInspect app",
-          "link": "https://dev.to/alekseikorolev/debugging-an-angular-mobile-app-d2",
-          "publishedOn": "2021-08-27T18:23:41.000Z",
-          "wordCount": 475,
-          "title": "Debugging an Angular mobile app"
-        },
-        {
-          "id": "https://dev.to/devbyrayray/the-only-2-ways-you-ever-need-to-unsubscribe-angular-observables-4bpp",
-          "author": "Dev By RayRay",
-          "description": "Clean Up Angular Observables In An Easy Way\n\n\nAngular is full of Observables. But is there is a mechanism that automatically unsubscribes your Observables when components get destroyed?\nI've read a ton of different posts about cleaning your subscriptions. There are so many different ways, but I missed that one post that showed me how you should handle your subscriptions and when.\nTo prevent you from reading all these posts like me, here is a practical post explaining how to unsubscribe from your Observables easily.\n\nThe short version, for those who don't want to dive into it 😅. Here are the solutions.\nAsync Pipe\n\n\n| async the async pipe offers you to handle Observables in your HTML template. The async pipe automatically runs the unsubscribe process after the destruction process of a compo…",
-          "link": "https://dev.to/devbyrayray/the-only-2-ways-you-ever-need-to-unsubscribe-angular-observables-4bpp",
-          "publishedOn": "2021-08-27T14:04:37.000Z",
-          "wordCount": 1314,
-          "title": "The Only 2 Ways, You Ever Need To Unsubscribe Angular Observables"
         }
       ]
     },
@@ -11380,90 +11344,9 @@
           "publishedOn": "2021-08-28T17:16:54.000Z",
           "wordCount": 1902,
           "title": "“If software engineering is in demand, why is it so hard to get a software engineering job?”"
-        },
-        {
-          "id": "https://medium.com/p/d0bbc6777273",
-          "author": "Andrei Gridnev",
-          "description": "Tips from an experienced interviewer on how to explore the problem, design a solution, and communicate your approach\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/five-winning-tactics-for-the-system-design-interviews-tips-from-a-hiring-manager-d0bbc6777273?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-28T06:22:16.000Z",
-          "wordCount": 1718,
-          "title": "5 Winning Tactics for Cracking the System Design Interview"
-        },
-        {
-          "id": "https://medium.com/p/5f19a8b1f9b4",
-          "author": "Oliver Spryn",
-          "description": "Years of experience, distilled into a few steps\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/the-4-step-plan-to-make-yourself-invaluable-at-work-5f19a8b1f9b4?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-27T17:07:09.000Z",
-          "wordCount": 1625,
-          "title": "The 4-Step Plan To Make Yourself Invaluable at Work"
-        },
-        {
-          "id": "https://medium.com/p/d01c10c26f4a",
-          "author": "Zachary Minott",
-          "description": "The disastrous consequences of planning for success\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/why-your-development-projects-fail-d01c10c26f4a?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-27T17:06:40.000Z",
-          "wordCount": 1412,
-          "title": "Why Your Development Projects Fail"
-        },
-        {
-          "id": "https://medium.com/p/83f481494ec8",
-          "author": "Andreas D.",
-          "description": "A guide on quickly setting up a solid manual\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/how-to-write-manuals-as-a-developer-83f481494ec8?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-27T17:03:35.000Z",
-          "wordCount": 1667,
-          "title": "How To Write Manuals as a Developer"
-        },
-        {
-          "id": "https://medium.com/p/7120c33a325e",
-          "author": "jsmanifest",
-          "description": "Be a team player\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/5-javascript-practices-that-will-help-your-teammates-sleep-at-night-7120c33a325e?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-27T16:03:04.000Z",
-          "wordCount": 1724,
-          "title": "5 JavaScript Practices That Will Help Your Teammates Sleep at Night"
-        },
-        {
-          "id": "https://medium.com/p/34017a1322c7",
-          "author": "Ander Rodriguez",
-          "description": "Discover pages and store the exact content you need in less than 300 lines of code",
-          "link": "https://betterprogramming.pub/mastering-web-scraping-in-python-scaling-to-distributed-crawling-34017a1322c7?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-27T15:03:19.000Z",
-          "wordCount": 2499,
-          "title": "Mastering Web Scraping in Python: Scaling to Distributed Crawling"
-        },
-        {
-          "id": "https://medium.com/p/55755996336a",
-          "author": "Sanjay Priyadarshi",
-          "description": "Say no to tutorial binge watching\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/getting-stuck-in-tutorial-hell-can-be-terrifying-heres-how-you-can-come-out-55755996336a?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-27T14:03:09.000Z",
-          "wordCount": 1587,
-          "title": "Getting Stuck in Tutorial Hell Can Be Terrifying — Here’s How You Can Come Out"
-        },
-        {
-          "id": "https://medium.com/p/58aaf781e09f",
-          "author": "Parul Malhotra",
-          "description": "And getting more of your time back",
-          "link": "https://betterprogramming.pub/automating-transactional-emails-using-sendgrid-api-and-aws-lambda-58aaf781e09f?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-27T13:16:06.000Z",
-          "wordCount": 921,
-          "title": "Automating Transactional Emails Using SendGrid API and AWS Lambda"
-        },
-        {
-          "id": "https://medium.com/p/9403ecf831b2",
-          "author": "Gaurav Agarwal",
-          "description": "A hands-on guide to applying the principle of least-privilege on container’s syscalls\nContinue reading on Better Programming »",
-          "link": "https://betterprogramming.pub/secure-your-kubernetes-cluster-with-seccomp-9403ecf831b2?source=rss----d0b105d10f0a---4",
-          "publishedOn": "2021-08-27T12:42:05.000Z",
-          "wordCount": 1725,
-          "title": "Secure Your Kubernetes Cluster With Seccomp"
         }
       ]
     }
   ],
-  "cliVersion": "1.11.1"
+  "cliVersion": "1.11.2"
 }
